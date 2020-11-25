@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0011317" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Frankfurt am Main</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2163 A - 6 - St II 22</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2163</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2230</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-3139</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Recht" id="08" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1977-04-22" /></lxbase:daten><lxbase:redakt><lxbase:a>Von der Aufnahme des Mustervordrucks wurde abgesehen.</lxbase:a></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>AO:130/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:140</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:141/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:141/2</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:160</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:161</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7a/7</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:76</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:77</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:78</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1977" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Buchführungspflicht; </lxbase:a><lxbase:a>hier: Land- und Forstwirte </lxbase:a><lxbase:a>Bezug: Rdvfg. vom 23. März 1976 - <lxbase:az normform="S2230A22 StII22" manuell="nein">S-2230 A - 22 -
+St II 22</lxbase:az>, Vfg. vom 2. Juni 1976 - <lxbase:az normform="S2230B2/76" manuell="nein">S-2230 B - 2/76</lxbase:az> - St II 22; </lxbase:a><lxbase:a>Rdvfg. vom 28. Januar 1977 - <lxbase:az normform="S3139A3StIII50" manuell="nein">S-3139 A - 3 - St III 50</lxbase:az> / <lxbase:az normform="S2230B2/76" manuell="nein">S-2230 B - 2/76</lxbase:az> 
+- St II 22 </lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D001131700001"><lxbase:a>1. Allgemeines </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D001131700002"><lxbase:a>2. Vermögensgrenze </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D001131700003"><lxbase:a>3. Gewinngrenze </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D001131700004"><lxbase:a>4. Beginn der
+Buchführungspflicht </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D001131700005"><lxbase:a>5. Wegfall
+der Buchführungspflicht </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D001131700006"><lxbase:a>6. Fortbestehen
+der Buchführungspflicht bei Übernahme des Betriebs
+im ganzen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D001131700007"><lxbase:a>7. Behandlung
+der Beschwerden gegen die Aufforderung zur Buchführung
+ab 1. 7. 1976 wegen Überschreitens der Vermögensgrenze </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D001131700001">1. Allgemeines </lxbase:ueberschrift><lxbase:a>a) Gemäß § 140 AO 1977 (§ 160
+Abs. 1 RAO) hat, wer nach anderen Gesetzen als den Steuergesetzen
+Bücher und Aufzeichnungen zu führen hat, die für
+die Besteuerung von Bedeutung sind, die Verpflichtungen, die ihm
+nach den anderen Gesetzen obliegen, auch für die Besteuerung
+zu erfüllen. Dies gilt auch für Land-
+und Forstwirte, die z. B. auf Grund des Gesetzes über die
+Kaufmannseigenschaft von Land- und Forstwirten und den Ausgleichsanspruch
+des Handelsvertreters vom 13. Mai 1976 (<lxbase:lit-fs normform="BGBl-1976-I-1197" manuell="nein">BGBl 1976 I S.
+1197</lxbase:lit-fs> ) die Eintragung ihres Unternehmens in das Handelsregister nach § 3
+HGB herbeigeführt haben. </lxbase:a><lxbase:a>b) Für nicht unter § 140 AO 1977 fallende Land-
+und Forstwirte ist die Buchführungspflicht in § 141
+Abs. 1 und 2 AO 1977 (bis 31. 12. 1976: § 161 Abs. 1 RAO
+i. V. m. Art. 97 § 19 EGAO 1977 und OFD-Rdvfg. vom 29.
+Juni 1976 - <lxbase:az normform="S1160" manuell="nein">S-1160</lxbase:az> d
+A - 1 - St II 4 a, AO-Kartei § 161 Karte 101) geregelt. 
+<lxbase:za /> 
+ Land- und Forstwirte sind danach zum Übergang zur Buchführung
+aufzufordern, wenn sie nach den Feststellungen des Finanzamts für
+den einzelnen Betrieb </lxbase:a><lxbase:a>aa) Umsätze einschließlich der steuerfreien
+Umsätze, ausgenommen die Umsätze nach § 4
+Nr. 8 und 9 UStG, von mehr als 360.000 DM im Kalenderjahr oder </lxbase:a><lxbase:a>bb) ein land- und forstwirtschaftliches Vermögen von
+mehr als 100.000 DM oder </lxbase:a><lxbase:a>cc) einen Gewinn aus Land- und Forstwirtschaft von mehr als 15.000
+DM im Kalenderjahr gehabt haben. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D001131700002">2. Vermögensgrenze </lxbase:ueberschrift><lxbase:a>Nach der Zweckbestimmung dieser Vermögensgrenze ist
+auf die objektive Größe des land- und forstwirtschaftlichen
+Betriebs abzustellen. Es ist deshalb ohne Bedeutung, ob
+der Betrieb dem Land- und Forstwirt gehört, von ihm gepachtet
+worden ist oder der Land- und Forstwirt Einzelflächen zugepachtet
+hat. 
+<lxbase:za /> Die zugepachteten Flächen werden wie
+eigene Grundstücke bewirtschaftet und beeinflussen wie
+diese Größe und Ertragskraft des Betriebes. Es
+ist deshalb auch im Interesse der steuerlichen Gleichbehandlung
+von Land- und Forstwirten, die ausschließlich eigene landwirtschaftliche
+Grundstücke nutzen, und solchen, die auch gepachtete Flächen
+bewirtschaften, erforderlich, die zugepachteten Flächen
+bei der Ermittlung der Buchführungspflichtgrenze zu berücksichtigen
+(HMdF-Erlaß vom 31. Januar 1977 - Az.: <lxbase:az normform="S2163A6II B11" manuell="nein">S-2163 A - 6 - II
+B 11</lxbase:az>). 
+<lxbase:za /> Zum land- und forstwirtschaftlichen
+Vermögen in diesem Sinne zählen somit sämtliche
+Flächen und Wirtschaftsgüter, die dem Land- und
+Forstwirt für die Bewirtschaftung des Betriebs zur Verfügung
+stehen oder nach ertragsteuerlichen Gesichtspunkten zu seinem Betriebsvermögen
+gehören. Der Wert der zu berücksichtigenden
+Wirtschaftsgüter ist nach den für die Einheitsbewertung
+geltenden Grundsätzen und Vorschriften zu ermitteln. 
+<lxbase:za /> 
+ Die zugepachteten landwirtschaftlichen und die unentgeltlich überlassenen Flächen
+sind mit dem Vergleichswert der landwirtschaftlichen Nutzung anzusetzen. Besteht
+für die zugepachteten und die unentgeltlich überlassenen landwirtschaftlichen
+Flächen kein besonderer Vergleichswert, so ist der zu berücksichtigende
+Wert nach dem Hektarwert zu errechnen, der bei der Einheitsbewertung
+für den eigenen Betrieb beim Vergleichswert der landwirtschaftlichen
+Nutzung zugrunde gelegt worden ist. Landwirtschaftliche genutzte
+Flächen, die bei der Einheitsbewertung nach § 69
+BewG dem Grundvermögen zugerechnet und mit dem gemeinen
+Wert bewertet worden sind, sind mit dem Wert anzusetzen, der sich
+nach den Vorschriften über die Bewertung des land- und
+forstwirtschaftlichen Vermögens ergeben würde. Dieser Wert
+ist nach dem Hektarwert zu berechnen, der bei der Einheitsbewertung
+für den eigenen Betrieb beim Vergleichswert der jeweiligen
+Nutzung zugrunde gelegt worden ist oder zugrunde zu legen wäre. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D001131700003">3. Gewinngrenze </lxbase:ueberschrift><lxbase:a>Die Gewinngrenze bezieht sich auf den Gewinn des Kalenderjahres. Bei einem
+vom Kalenderjahr abweichenden Wirtschaftsjahr ist deshalb der auf
+das Kalenderjahr zeitlich aufgeteilte Gewinn aus zwei Wirtschaftsjahren
+maßgebend. Soweit der für das Wirtschaftsjahr
+ermittelte Gewinn um erhöhte Absetzungen oder Sonderabschreibungen
+für Wirtschaftsgüter, die nach dem 31. 12. 1974
+angeschafft oder hergestellt worden sind, gemindert worden ist, sind
+die Gewinne für die Prüfung, ob die Gewinngrenze überschritten
+worden ist, um diese erhöhten Absetzungen oder Sonderabschreibungen
+zu erhöhen und danach zeitlich aufzuteilen (§ 7a
+Abs. 7 EStG 1975). Das gleiche gilt auch für Sonderabschreibungen
+und Abzüge vom Gewinn nach §§ 76 bis
+78 EStDV, die bereits vor Inkrafttreten des § 7a EStG 1975
+vorgenommen worden sind (§§ 76 Abs. 6, 77 Abs.
+5, 78 Abs. 5 EStDV in den bis zum VZ 1974 geltenden Fassungen),
+sowie für Rücklagen nach § 3 ForstschAusglG
+(§ 3 Abs. 5 ForstschAusglG). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D001131700004">4. Beginn der Buchführungspflicht </lxbase:ueberschrift><lxbase:a>a) Rechtslage bis 31. 12. 1976 
+<lxbase:za /> Gem. § 161 Abs.
+1 RAO i. V. m. § 1 Abs. 1 LandwBuchfVO begann die Buchführungspflicht
+für Land- und Forstwirte mit dem Anfang des für
+die Gewinnermittlung bei der Einkommensteuer maßgebenden
+Wirtschaftsjahrs, das auf den Zeitpunkt folgte, an dem erstmalig
+bei einer Veranlagung zur Einkommensteuer oder Umsatzsteuer oder
+bei einer Einheitswertfeststellung festgestellt worden war, daß eine
+der in § 161 Abs. 1 RAO bezeichneten Grenzen überschritten
+und dem Land- und Forstwirt der Zeitpunkt des Beginns der Buchführungspflicht
+mitgeteilt worden war. Die besondere Mitteilung konnte
+in den Bescheid aufgenommen werden oder gesondert ergehen. </lxbase:a><lxbase:a>b) Rechtslage ab 1. 1. 1977 
+<lxbase:za /> Nach § 141 Abs. 2
+AO 1977 beginnt die Buchführungspflicht für Land-
+und Forstwirte mit dem Beginn des Wirtschaftsjahres, das auf die
+Bekanntgabe der Mitteilung folgt, durch die die Finanzbehörde
+den Land- und Forstwirt darauf hingewiesen hat, daß nach
+ihren Feststellungen für den einzelnen Betrieb eine der
+in § 141 Abs. 1 AO 1977 bezeichneten Buchführungspflichtgrenzen überschritten
+worden ist und er verpflichtet ist, für diesen Betrieb
+Bücher zu führen und auf Grund jährlicher
+Bestandsaufnahmen Abschlüsse zu machen. </lxbase:a><lxbase:a>aa) Feststellungen der Finanzbehörden 
+<lxbase:za /> Nach den
+für die Anwendung der AO 1977 getroffenen Verwaltungsanweisungen
+(vgl. <lxprod:doknr-verw linkend="HT0555962">BStBl
+1976 I S. 576 ff</lxprod:doknr-verw>., zu § 141) setzen die Feststellungen
+der Finanzbehörde nicht zwingend einen Steuerbescheid,
+Feststellungsbescheid oder eine Rechtsbehelfsentscheidung voraus. Die
+Feststellungen der Finanzbehörde können auch in
+anderer Form getroffen werden (z. B. durch Kenntnisnahme des vom
+Steuerpflichtigen erklärten Gewinns, der die Grenze des § 141
+Abs. 1 Nr. 5 AO 1977 offensichtlich überschreitet; durch
+Berechnung und Kenntnisnahme des land- und forstwirtschaftlichen
+Vermögen - siehe Tz. 2. - anhand der Einkommensteuererklärung
+oder der Erklärung zur Hauptfeststellung des Einheitswerts
+für den Betrieb der Land- und Forstwirtschaft oder sonstiger Erkenntnisse
+der Finanzbehörde, das die Grenze des § 141 Abs.
+1 Nr. 3 AO 1977 offensichtlich überschreitet). 
+<lxbase:za /> 
+ Die Feststellung des Umsatzes oder Gewinns oder Vermögens
+kann sich auch auf Zeiträume oder Zeitpunkte vor dem 1.
+1. 1977 beziehen; sie muß jedoch nach dem 31. 12. 1976
+getroffen werden. </lxbase:a><lxbase:a>bb) Mitteilung 
+<lxbase:za /> Die Finanzbehörde hat den Steuerpflichtigen
+auf den Beginn der Buchführungspflicht hinzuweisen. Diese
+Mitteilung kann in einem Bescheid oder gesondert ergehen; sie soll
+dem Steuerpflichtigen mindestens einen Monat vor Beginn des Wirtschaftsjahres
+bekanntgegeben werden, von dessen Beginn ab die Buchführungsverpflichtung
+zu erfüllen ist. 
+<lxbase:za /> Wird die Feststellung
+der Finanzbehörde, daß eine der Buchführungspflichtgrenzen überschritten
+ist, nicht in einem Bescheid oder einer Rechtsbehelfsentscheidung
+getroffen, so sind dem Land- und Forstwirt auch die Höhe
+des maßgebenden Vermögens oder Gewinns und die
+Berechnungsgrundlagen mitzuteilen (vgl. Anlage 1). </lxbase:a><lxbase:a>cc) Vorlage der Eröffnungsbilanz 
+<lxbase:za /> Der Land- und
+Forstwirt ist außerdem aufzufordern, umgehend nach Beginn der
+Buchführungsverpflichtung eine Eröffnungsbilanz
+vorzulegen. 
+<lxbase:za /> Ich bitte, es nicht zu beanstanden,
+wenn in den Fällen, in denen sich land- und forstwirtschaftliche
+Betriebe einer Datenverarbeitungsanlage anschließen, die Eröffnungsbilanz
+erst drei Monate nach Beginn des Wirtschaftsjahres eingereicht wird. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D001131700005">5. Wegfall der Buchführungspflicht </lxbase:ueberschrift><lxbase:a>Die Verpflichtung zur Buchführung endet gem. § 141
+Abs. 2 Satz 2 AO 1977 mit dem Ablauf des Wirtschaftsjahres, das
+auf das Wirtschaftsjahr folgt, in dem die Finanzbehörde
+feststellt, daß die Voraussetzungen nach § 141
+Abs. 1 AO 1977 nicht mehr vorliegen, sofern die Finanzbehörde
+bis dahin nicht erneut das Bestehen der Buchführungspflicht
+feststellt. 
+<lxbase:za /> Läßt die eingereichte
+Steuererklärung oder die Bilanz eine Feststellung, daß die
+Voraussetzungen für die Buchführungspflicht nicht
+mehr gegeben sind, nicht ohne weiteres zu, so wird die Feststellung über
+den etwaigen Wegfall der Buchführungspflicht erst in dem
+entsprechenden Bescheid getroffen. 
+<lxbase:za /> Obwohl § 141
+Abs. 2 AO 1977 eine Mitteilung an den Steuerpflichtigen über den
+Wegfall der Buchführungspflicht nicht vorsieht, bitte ich,
+den Land- und Forstwirt durch einen entsprechenden Hinweis im Bescheid
+oder durch gesonderte Miteilung darüber zu unterrichten. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D001131700006">6. Fortbestehen der
+Buchführungspflicht bei Übernahme des Betriebs
+im ganzen </lxbase:ueberschrift><lxbase:a>Die Buchführungspflicht geht auf denjenigen über,
+der den Betrieb im ganzen übernimmt. Die Übernahme
+eines Betriebs in diesem Sinne kann sowohl durch entgeltlichen oder
+unentgeltlichen Erwerb als auch durch Pachtung, Einräumung
+eines Nießbrauchs sowie die Begründung eines sonstigen
+umfassenden Nutzungsrechts am Betrieb im ganzen erfolgen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D001131700007">7. Behandlung der Beschwerden
+gegen die Aufforderung zur Buchführung ab 1. 7. 1976 wegen Überschreitens
+der Vermögensgrenze </lxbase:ueberschrift><lxbase:a>Ich bitte, bei allen Land- und Forstwirten, die ab 1. 7. 1976
+wegen Überschreitens der Vermögensgrenze zur Buchführung
+aufgefordert worden sind, zu prüfen, ob das Überschreiten
+der maßgebenden Vermögensgrenze in einem Einheitswertbescheid
+oder einer Anlage zum Einkommensteuerbescheid (Ausgangswert zuzüglich
+Vergleichswert der verpachteten Flächen, die zum land- und
+forstwirtschaftlichem Betriebsvermögen gehören,
+zuzüglich Wohnungswert) festgestellt und damit die Voraussetzung
+für die durch besondere Mitteilung erfolgte Aufforderung
+erfüllt war. </lxbase:a><lxbase:a>a) War dies nicht der Fall, ist die Aufforderung zur Buchführung
+mit Wirkung für die Vergangenheit zurückzunehmen
+(§ 130 Abs. 1 AO 1977). Es ist jedoch zu prüfen,
+ob nach ihren Feststellungen (siehe 4. b) aa) eine der in § 141 Abs.
+1 AO 1977 bezeichneten Buchführungspflichtgrenzen überschritten ist. Der
+Land- und Forstwirt ist dann entsprechend den o. a. Weisungen darauf
+hinzuweisen, daß er ab 1. 7. 1977 zur Buchführung
+verpflichtet ist. </lxbase:a><lxbase:a>b) War die o. a. Voraussetzung für die Aufforderung
+zur Buchführung erfüllt und hat der Steuerpflichtige
+Beschwerde erhoben, ist mir diese Beschwerde vorzulegen. Unabhängig
+von Ausgang dieses Rechtsbehelfsverfahrens bitte ich zu prüfen,
+ob nach ihren Feststellungen eine der in § 141 Abs. 1 AO 1977
+bezeichneten Buchführungspflichtgrenzen überschritten
+ist. Der Land- und Forstwirt ist dann entsprechend den
+o. a. Weisungen darauf hinzuweisen, daß er zumindest ab
+1. 7. 1977 zur Buchführung verpflichtet ist. </lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Verfahrensrecht/Abgabenordnung</lxbase:rthema><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Handelsrecht Gesellschaftsrecht</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:branchen><lxbase:branche>Landwirtschaft</lxbase:branche></lxbase:branchen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

@@ -1,0 +1,1819 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0057729" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Frankfurt am Main</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-3626 A - 4 - St III 42</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-3626</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1980-11-25" /></lxbase:daten><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>BewG:Allgemein</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>VStG:Allgemein</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1980" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Fachtagungen auf den Gebieten Einheitsbewertung des Betriebsvermögens
+und Vermögensteuer am 14. Mai 1980 in Bad Hersfeld, am
+21. Mai 1980 in Gießen und am 19. Juni 1980 in Darmstadt<lxbase:za />Bezug:
+Verfügung vom 1. April 1980 - <lxbase:az normform="S3626A4StIII42" manuell="nein">S-3626 A - 4 - St III 42</lxbase:az></lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900001"><lxbase:a>Tagesordnungspunkt II/1 Allgemeines zur Einheitsbewertung
+des Betriebsvermögens und zur Vermögensteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900002"><lxbase:a>Tagesordnungspunkt
+II/2 Gesetzliche Neuerungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900003"><lxbase:a>Tagesordnungspunkt
+II/3 Vermögensteuer-Ergänzungs-Richtlinien
+1980 (VStER 1980)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900004"><lxbase:a>Tagesordnungspunkt
+II/4 Aufgaben der VSt-HSGL und VSt-HSB</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900005"><lxbase:a>Tagesordnungspunkt
+II/5 Hauptfeststellung der Einheitswerte des Betriebsvermögens
+und Hauptveranlagung der Vermögensteuer auf den 1. Januar
+1980</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900039"><lxbase:a>a) Erfassung
+der EW-BV und VSt-Fälle</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900040"><lxbase:a>b) Arbeitsablauf</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900041"><lxbase:a>c) Beanstandung
+der Erklärungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900042"><lxbase:a>d) Durchführung
+der Feststellungen und Veranlagungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900043"><lxbase:a>e) Wertfortschreibungen
+der Einheitswerte des Betriebsvermögens und Vermögensteuer-Neuveranlagungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900006"><lxbase:a>Tagesordnungspunkt
+III/1 Gesonderte Feststellung des Vermögens von Gemeinschaften
+gemäß § 180 Abs. 1 Nr. 3 AO (vgl. Rdvfg.
+vom 25. August 1980 - S-3600 A - 27 - St III 42, VSt-Kartei 1980 § 114
+BewG, Karte 1)</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900044"><lxbase:a>1. Rechtsgrundlage</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900045"><lxbase:a>2. Zuständigkeit</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900046"><lxbase:a>3. Erfassung
+der Gemeinschaften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900047"><lxbase:a>4. Durchführung
+der gesonderten Feststellung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900048"><lxbase:a>5. Grundkennbuchstabe</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900049"><lxbase:a>6. Verspätungszuschlag</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900050"><lxbase:a>7. Durchführung
+von gesonderten Vermögensfeststellungen auf Neuveranlagungszeitpunkte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900007"><lxbase:a>Tagesordnungspunkt
+III/2 Ermittlung des Teilwerts für bewegliche
+Anlagevermögen (Abschn. 52 VStR) - Finanzamt Dillenburg</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900051"><lxbase:a>a) Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900052"><lxbase:a>b) Bewertung
+mit dem Teilwert (Abschn. 51 Abs. 1 VStR)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900053"><lxbase:a>c) Teilwertermittlung
+bei beweglichem Anlagevermögen (Abschn. 52 VStR)</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900054"><lxbase:a>aa) Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900055"><lxbase:a>bb) Wirtschaftsgüter,
+deren Anschaffung oder Herstellung nicht länger als 3 Jahre
+vor dem Bewertungsstichtag zurückliegt</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900056"><lxbase:a>cc) Wirtschaftsgüter,
+deren Anschaffung oder Herstellung länger als 3 Jahre vor
+dem Bewertungsstichtag zurückliegt</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900057"><lxbase:a>dd) Restwertermittlung
+bei Wirtschaftsgütern des beweglichen Anlagevermögens </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900058"><lxbase:a>ee) Überprüfung
+der Wertansätze durch das Finanzamt </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900059"><lxbase:a>ff) Bewertung
+der geringwertigen Wirtschaftsgüter des Anlagevermögens (Abschn.
+52 Abs. 4 VStR)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900060"><lxbase:a>gg) Für
+Werkzeuge, Ausrüstungsgegenstände und sonstige
+Hilfsmittel</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900008"><lxbase:a>Tagesordnungspunkt
+III/3 Ermittlung des Teilwerts für Erzeugnisbestände (Abschn.
+52 a VStR)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900009"><lxbase:a>Tagesordnungspunkt
+III/4 Vermögensteuerliche Behandlung von Nießbrauchsrechten
+an</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900010"><lxbase:a>Allgemeines </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900011"><lxbase:a>Zu a) Nießbrauch
+an Anteilen einer Personengesellschaft</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900012"><lxbase:a>b) Nießbrauch
+an Anteilen einer Kapitalgesellschaft (insbesondere an einer GmbH)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900013"><lxbase:a>c) Nießbrauch
+an einem Wertpapierdepot </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900014"><lxbase:a>Tagesordnungspunkt
+III/5 Bewertung von Nießbrauchsrechten und obligatorischen
+Gewinnbezugsrechten an gewerblichen Betrieben und an Gesellschaftsanteilen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900015"><lxbase:a>Tagesordnungspunkt
+III/6 Vermögensteuerliche Behandlung von nicht
+mehr angemessenen Gewinnanteilen bei Familien-, Personengesellschaften
+und stillen Gesellschaften</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900016"><lxbase:a>a) Frage des
+Ansatzes einer überhöhten Gewinnbeteiligung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900017"><lxbase:a>b) Vermögensteuerliche
+Behandlung von stillen Gesellschaften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900018"><lxbase:a>Tagesordnungspunkt
+III/7 Bewertung von Forderungen und Schulden</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900019"><lxbase:a>a) Allgemeines
+zu Kapitalforderungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900020"><lxbase:a>b) Bewertungsmaßstab
+nach § 12 BewG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900021"><lxbase:a>c) Bewertungsmaßstab
+nach § 109 Abs. 4 BewG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900022"><lxbase:a>d) Allgemeines
+zu Kapitalschulden</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900023"><lxbase:a>e) Bewertung
+der Kapitalschulden</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900024"><lxbase:a>f) Anlage FR</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900025"><lxbase:a>g) Bewertung
+von Sachleistungsansprüchen und Sachleistungsverpflichtungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900026"><lxbase:a>Tagesordnungspunkt
+III/8 Vermögensteuerliche Behandlung der sogenannten erweiterten
+Honorarverteilung der kassenärztlichen Vereinigung Hessen
+an Kassenärzte und deren Hinterbliebene</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900027"><lxbase:a>Tagesordnungspunkt
+III/9 Kann bei einer nachträglichen Erhöhung
+oder Minderung der Einkommensteuerschulden der bereits bestandskräftige
+Vermögensteuerbescheid berichtigt werden.</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900028"><lxbase:a>Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900029"><lxbase:a>Zum Sachverhalt:</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900030"><lxbase:a>Tagesordnungspunkt
+III/10 Ermittlung von Steuerschulden und Steuererstattungsansprüchen
+(vgl. Rdvfg. vom 29. 4. 1980 - S-3233 A - 2 - St III 42, VSt- Kartei
+1980 § 105 BewG, Karte 1 und § 118 BewG, Karte
+A 1)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900031"><lxbase:a>Tagesordnungspunkt
+III/11 Berücksichtigung geltend gemachter negativer
+EW-Anteile an Abschreibungsgesellschaften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900032"><lxbase:a>Tagesordnungspunkt
+III/12 Anregungen und Fragen zur maschinellen Verarbeitung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900033"><lxbase:a>I. Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900034"><lxbase:a>II. Hauptveranlagungszeitraum / Hauptfeststellungszeitraum
+1980</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900035"><lxbase:a>Tagesordnungspunkt
+III/13 Umfang des Betriebsvermögens</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900036"><lxbase:a>Tagesordnungspunkt
+III/14 Erhöhter Freibetrag gemäß § 6
+Abs. 4 VStG für ein dauernd erwerbsunfähiges Kind
+im Falle der Zusammenveranlagung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900037"><lxbase:a>Tagesordnungspunkt
+III/15 In welchem Umfang sollen bei "besserverdienenden
+Steuerpflichtigen" Ermittlungen zur vollständigen
+Erfassung des sonstigen Vermögens i. S. des § 110
+Abs. 1 Nr. 1 - 3 VStG erfolgen.</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D005772900038"><lxbase:a>Tagesordnungspunkt
+III/16 In welchem Umfang soll bei "besserverdienenden Steuerpflichtigen" das
+Vorhandensein von sonstigem Vermögen i. S. des § 110 Abs.
+1 Nr. 10 - 12 VStG überprüft werden.</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D005772900001">Tagesordnungspunkt II/1
+Allgemeines zur Einheitsbewertung des Betriebsvermögens
+und zur Vermögensteuer</lxbase:ueberschrift><lxbase:a>Das Vermögensteueraufkommen in Hessen stieg in 1979
+gegenüber 1978 auf 497,2 Mio oder um 3,3 %. Dieser
+erhebliche Betrag, der doch nur knapp 2 % des Gesamtsteueraufkommens
+in Hessen darstellt, verteilt sich bei regionaler Betrachtung in
+höchst unterschiedlicher Weise.</lxbase:a><lxbase:a>Fast 90 % des Aufkommens an Vermögensteuer
+entfielen auf den Regierungsbezirk Darmstadt und nur <lxbase:az normform="wenig-mehr-als-1/10" manuell="nein">wenig mehr
+als 1/10</lxbase:az> auf den Regierungsbezirk Kassel. Dies erklärt
+sich zum einen daraus, daß im Raum Frankfurt zwar relativ wenige,
+aber kapitalintensive Großunternehmen - vorwiegend AG's
+- ihren Sitz haben und die Vermögensteuer an das Sitz-FA
+und nicht an das Betriebsstätten-FA zu leisten ist, zum
+anderen aber auch dadurch, daß die Vermögensteuer
+der der Körperschaftsteuer unterliegenden Körperschaften
+von Zentralfinanzämtern erhoben wird.</lxbase:a><lxbase:a>Kassel nimmt global betrachtet den 4. Platz unter den hessischen
+Finanzämtern beim Vermögensteueraufkommen ein.
+Pro Kopf werden im Regierungsbezirk Kassel DM 37 Vermögensteuer
+eingenommen.</lxbase:a><lxbase:a>Diese wenigen Zahlen wirken sicherlich - jedenfalls dann, wenn
+man die Aufkommenszahlen anderer Steuerarten kennt - nicht sonderlich
+beeindruckend. Wesentlich aussagekräftiger ist deshalb
+das, was sich hinter diesen Zahlen an Arbeitsbelastung und Arbeitsleistung
+unserer Mitarbeiter in den Finanzämtern verbirgt. Während
+sich die Zahl der natürlichen vermögensteuerpflichtigen
+Personen in Hessen seit Jahren kaum wesentlich verändert
+- sie bewegt sich zu den einzelnen Stichtagen um die Zahl 60.000
+- nimmt die Zahl der vermögensteuerpflichtigen Körperschaften
+ständig zu. Sie wanderte von gut 17.000 zum Stichtag 1.
+1. 76 auf 26.519 zum Stichtag 1. 1. 80, was einer Zunahme von rd.
+9.434 oder 55,2 % entspricht. Diese rapide Zunahme der
+Signalzahlen im Körperschaftsbereich hat ihre Ursache ganz
+sicherlich zum wesentlichen Teil in gesellschafts- und steuerrechtlichen Überlegungen
+der Steuerpflichtigen. Die haftungsrechtlichen Überlegungen
+im Zusammenhang mit der Reform des GmbH-Rechts, nämlich
+die geplante Erhöhung des Stammkapitals auf DM 50.000 werden
+in naher Zukunft sicherlich auch nicht zu einer Verminderung der
+Zuwachsraten führen.</lxbase:a><lxbase:a>Diese Zunahme der Körperschaften hat im personellen
+Bereich bei den Zentralfinanzämtern schon Konsequenzen
+nach sich gezogen und wird auch weitere Personalverstärkungen
+im Kö-Bereich nach sich ziehen. Dies nur als perspektivischer
+Hinweis.</lxbase:a><lxbase:a>Die Zahl der BV-Signale hat dagegen im Vergleich zum 1. 1. 1979
+im Laufe des Jahres eine drastische Verminderung erfahren. Sie ist
+von 199.810 um 50.168 auf 149.642 zum Stichtag 1. 1. 1980 gesunken.
+Das entspricht einer Abnahme um 25 % und weist auf eine
+erfreuliche Beachtung der OFD-Vfg. vom 19. 3. 1979 - <lxbase:az normform="S31086 StIII42" manuell="nein">S-3108 - 6
+- St III 42</lxbase:az> hin und zeigt den Willen des Gesetzgebers zur Entlastung
+kleiner und mittlerer Betriebe. Gerade bei der Einheitsbewertung
+des Betriebsvermögens sollten wir deshalb in Zukunft ganz
+besonders auf die Entwicklung der Signalzahlen achten, wie überhaupt
+die Pflege der Grundkennbuchstaben ständig im Blickfeld
+der SGL und SB liegen sollte. Wir haben uns damit abzufinden, daß ein
+Mehr an Personal so gut wie überhaupt nicht verfügbar
+ist und sollten deshalb auf allen Ebenen vertretbare und gesetzlich
+mögliche Entlastungen der vorhandenen Arbeitskräfte
+stets wahrnehmen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900002">Tagesordnungspunkt II/2
+Gesetzliche Neuerungen</lxbase:ueberschrift><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Änderungen
+des Bewertungsgesetzes während des Hauptfeststellungszeitraums
+1977 (mit Wirkung vom 1. Januar 1978) auf Grund des Artikels 7 des Steueränderungsgesetzes
+1979 vom 30. 11. 1978 (<lxbase:lit-fs normform="BStBl-1978-I-0479" manuell="nein">BStBl I S. 479</lxbase:lit-fs>):</lxbase:a><lxbase:a>aa) Ergänzung des § 109 Abs. 2 BewG</lxbase:a><lxbase:a>bb) Ergänzung des § 115 Abs. 2 Nr. 4 BewG</lxbase:a><lxbase:a>cc) Ergänzung des § 124 BewG durch Hinzufügung
+des Abs. 2</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Änderung des Vermögensteuergesetzes
+innerhalb des Hauptveranlagungszeitraums 1977 (mit Wirkung vom 1.
+Januar 1978) auf Grund des Artikels 6 des Steueränderungsgesetzes
+1977 vom 16. 8. 1977 (<lxbase:lit-fs normform="BStBl-1977-I-0442" manuell="nein">BStBl I S. 442</lxbase:lit-fs>):</lxbase:a><lxbase:a>aa) Ergänzung des § 3 Abs. 1 VStG durch Hinzufügung
+der Nr. 17</lxbase:a><lxbase:a>bb) Änderung des § 10 Abs. 1 Nr. 1 u. 2 durch
+Herabsetzung der Steuersätze (0,5 v. H. für natürliche
+Personen und 0,7 v. H. für Körperschaften, Personenvereinigungen
+und Vermögensmassen)</lxbase:a><lxbase:a>cc) Neufassung des § 25 VStG</lxbase:a><lxbase:a>dd) Im Hinblick auf die Neufassung des Erdölbevorratungsgesetzes
+vom 25. Juli 1978 (<lxbase:lit-fs normform="BGBl-1978-I-1073" manuell="nein">BGBl I S. 1073</lxbase:lit-fs>) hat auch § 3
+Abs. 1 Nr. 1 eine Ergänzung erfahren.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>Gesetzentwurf der Bundesregierung zum Gesetz
+zur Änderung und Vereinfachung des Einkommensteuergesetzes
+und anderer Gesetze:</lxbase:a><lxbase:a>Danach ist beabsichtigt, gemäß Art. 5 und 6
+auch das Bewertungsgesetz und das Vermögensteuergesetz
+zu ändern bzw. zu ergänzen.</lxbase:a><lxbase:a>Artikel 5 enthält eine Änderung des § 18
+BewG zur Erklärungspflicht. Dementsprechend ist in Artikel
+6 neben Änderungen der §§ 3, 8 und 9
+VStG (die §§ 8 und 9 VStG sehen eine Erhöhung
+der Besteuerungsgrenzen auf 20.000 DM vor) auch eine Änderung
+des § 19 VStG vorgesehen. § 20 VStG sieht eine
+Mindestgrenze von 50 DM für die Festsetzung der Vermögensteuer
+vor.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Der Bundesrat hat in seiner Stellungnahme zu dem Gesetzentwurf
+der Bundesregierung weitere Ergänzungen vorgeschlagen,
+die sich auf eine Erhöhung des Altersfreibetrages, eine
+Vereinfachung der Freibetragsregelung nach § 6 VStG, eine
+Anhebung des Freibetrags nach § 11 Nr. 9 BewG und eine
+Vermögensteuerbefreiung von Kunstgegenständen
+durch eine Änderung des § 110 Abs. 1 Nr. 12 BewG
+beziehen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900003">Tagesordnungspunkt II/3
+Vermögensteuer-Ergänzungs-Richtlinien 1980 (VStER
+1980)</lxbase:ueberschrift><lxbase:a>Die (vorgesehenen) Änderungen der VStR 1977 durch (den
+Entwurf der) die VStER 1980 beschränken sich im wesentlichen
+auf redaktionelle Änderungen und die Einarbeitung von zwischenzeitlich
+ergangenen BFH-Urteilen und Erlassen.</lxbase:a><lxbase:a>Nachfolgend sollen deshalb nur die für die Einheitsbewertung
+des Betriebsvermögens und die Veranlagung der Vermögensteuer
+wichtigen Änderungen aufgeführt werden:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Abschn. 3 Abs.
+1</lxbase:a><lxbase:a>Anpassung an den vom Gewerbekapital zu kürzenden Freibetrag
+(§ 13 Abs. 1 GewStG).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Abschnitte 34 Abs. 1 a, 44 Abs. 6, 48 Abs.
+1 a und 55 Abs. 7</lxbase:a><lxbase:a>Neuregelung der Behandlung von Sachleistungsansprüchen
+und Sachleistungsverpflichtungen aufgrund der Rechtsprechung des
+BFH. Sachleistungsansprüche und Sachleistungsverpflichtungen
+sind nicht mehr mit dem gemeinen Wert, sondern mit dem für
+den Gegenstand maßgebenden steuerlichen Wert zu bewerten.
+Der Anspruch auf oder die Verpflichtung zur Übertragung
+eines Grundstücks ist deshalb mit 140 v. H. des Einheitswerts anzusetzen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Abschn. 52 Abs. 3</lxbase:a><lxbase:a>Der Restwert von 30 v. H. ist nur noch anzusetzen bei Wirtschaftsgütern,
+die innerhalb eines Zeitraums von 10 Jahren vor dem jeweiligen Hauptfeststellungszeitpunkt
+angeschafft oder hergestellt worden sind. Bei der Hauptfeststellung
+der Einheitswerte des Betriebsvermögens auf den 1. 1. 1980
+und bei Wertfortschreibungen im Hauptfeststellungszeitraum 1980
+sind deshalb für Wirtschaftsgüter, die nach dem
+31. 12. 1969 angeschafft worden sind, in der Regel 30 v. H. der
+Anschaffungs- oder Herstellungskosten als angemessene Restwerte
+anzusetzen. Für alle anderen Wirtschaftsgüter
+sind als Restwert 15 v. H. anzusetzen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Abschn. 53 Abs. 3</lxbase:a><lxbase:a>Güterfernverkehrskonzessionen sind in der Vermögensaufstellung
+nur noch dann anzusetzen, wenn es sich um derivativ erworbene Konzessionen
+handelt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Abschn. 125 b Abs. 5a</lxbase:a><lxbase:a>Angleichung an die einkommensteuerlichen Regelungen zur Berücksichtigung
+von zwischen 18 und 23 Jahren alten Kindern, die eine Berufsausbildung
+mangels Ausbildungsplatzes nicht beginnen oder fortsetzen können oder
+nicht erwerbstätig sind.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900004">Tagesordnungspunkt II/4
+Aufgaben der VSt-HSGL und VSt-HSB</lxbase:ueberschrift><lxbase:a>Der VSt-HSGL hat auf den Gebieten Einheitsbewertung des Betriebsvermögens,
+Vermögensteuer, gesonderte Feststellung des Vermögens
+von Gemeinschaften und ggf. gesonderte Feststellung des gemeinen
+Werts nichtnotierter Anteile an Kapitalgesellschaften insbesondere
+folgende Aufgaben zu erfüllen:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>eingehende Verfolgung
+der Gesetzes- und Richtlinienänderungen, der Verwaltungsanweisungen,
+der BFH-Rechtsprechung, der Rechtsprechung der Finanzgerichte und
+der in der Fachliteratur vertretenen Auffassungen;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Erläuterung von Gesetzesänderungen,
+ausgewählten Rundverfügungen und wichtigen BFH-Urteilen
+in Dienstbesprechungen;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Überwachung der Beachtung von Gesetzen
+und Verwaltungsanweisungen (insbesondere zur vollständigen
+Erfassung der zur Vermögensteuer zu veranlagenden Steuerpflichtigen,
+Beanstandung von Vermögensaufstellungen und Durchführung
+von Neuveranlagungen und gesonderten Feststellungen des Vermögens
+von Gemeinschaften);</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Überwachung des Fortgangs der Feststellungs-
+und Veranlagungsarbeiten, Zusammenstellung der Meldungen der VTB
+und Meldung des Arbeitsstandes an die OFD;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Mitwirkung bei der Bearbeitung schwieriger
+Fälle;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Berichterstattung über Zweifelsfragen
+und Besonderheiten, die sich im Zuge der Feststellungs- und Veranlagungsarbeiten
+ergeben haben;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Berichterstattung über Änderungs-
+und Ergänzungsvorschläge zu Verwaltungsanweisungen
+und Vordrucken,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Erledigung von Berichtsauflagen auf den
+o. a. Gebieten,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Lehrtätigkeit bei der Fortbildung. <lxbase:za /> 
+ Der VSt-HSB hat den VSt-HSGL bei der Erledigung seiner Aufgaben
+zu unterstützen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900005">Tagesordnungspunkt II/5
+Hauptfeststellung der Einheitswerte des Betriebsvermögens
+und Hauptveranlagung der Vermögensteuer auf den 1. Januar
+1980</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D005772900039">a) Erfassung der EW-BV
+und VSt-Fälle</lxbase:ueberschrift><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Nach der Rdvfg. vom
+19. März 1979 - <lxbase:az normform="S3108A6StIII42" manuell="nein">S-3108 A - 6 - St III 42</lxbase:az>, VSt-Kartei Allgemeines
+Karte 6, ist der GKB "BV" nur noch dann zu setzen
+bzw. zu erhalten, wenn der Einheitswert des Betriebsvermögens
+voraussichtlich für die Ermittlung des Gewerbekapitals
+oder die Veranlagung zur Vermögensteuer von Bedeutung ist.
+Es ist davon auszugehen, daß dies der Fall ist, wenn der
+Einheitswert des Betriebsvermögens nach den Angaben in
+der Bilanz oder der Einnahme-Überschuß-Rechnung
+voraussichtlich mindestens 30.000 DM betragen wird.</lxbase:a><lxbase:a>Es ist vorgetragen worden, daß die Überprüfung
+und Beachtung dieser Grenze vielfach praktisch kaum möglich
+ist.</lxbase:a><lxbase:a>Welche Erfahrungen bestehen bei den anderen Finanzämtern
+und wie sollte künftig verfahren werden.</lxbase:a><lxbase:a>Nach Abschn. 3 Abs. 1 VStR 1980 braucht ein Einheitswert nicht
+festgestellt zu werden, wenn für den Betrieb mit einem
+Gewerbekapital i. S. des § 12 GewStG zum 1. Januar 1980
+von weniger als 60.000 DM, vom 1. Januar 1981 an von weniger als
+120.000 DM (Freibetrag nach § 13 Abs. 1 GewStG) zu rechnen
+ist und der Einheitswert auch nicht für die Vermögensteuer
+benötigt wird. Ob dies der Fall ist, kann nach den Erfahrungen
+der Finanzämter in vielen Fällen erst nach Abgabe
+der Vermögensaufstellungen entschieden werden.</lxbase:a><lxbase:a>Der GKB "BV" sollte deshalb nur dann nicht
+gesetzt bzw. ungültig gesetzt werden, wenn der Einheitswert
+des Betriebsvermögens offensichtlich nicht für
+die Ermittlung des Gewerbekapitals oder die Veranlagung zur Vermögensteuer
+von Bedeutung ist. Eine feste Grenze sollte nicht festgelegt werden,
+da sie den bei den gewerblichen Betrieben gegebenen unterschiedlichen Verhältnissen
+nicht Rechnung trägt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Zur vollständigen Erfassung aller
+Steuerpflichtigen, die zur Vermögensteuer zu veranlagen
+sind (Vermögensteuerzahlungspflichtigen), hatte ich in
+der Rdvfg. vom 11. Sept. 1979 - <lxbase:az normform="S3543A1StIII42" manuell="nein">S-3543 A - 1 - St III 42</lxbase:az>, VSt-Kartei
+Allgemeines Karte 7, gebeten, allen Steuerpflichtigen, die Einnahmen
+aus Kapitalvermögen von mehr als 15.000 DM oder / und
+einen Gesamtbetrag der Einkünfte von mehr als 250.000 DM
+erklären, eine Vermögensteuererklärung
+auf den 1. 1. 1980 (Hauptveranlagungszeitpunkt) zu übersenden.</lxbase:a><lxbase:a>Der HMdF hat die HZD beauftragt, in diesen Fällen den
+Prüfhinweis Nr. 546 auszugeben.</lxbase:a><lxbase:a>Welche Erfahrungen konnten im Zusammenhang mit der Erfassung
+der Vermögensteuerzahlungspflichtigen gesammelt werden.</lxbase:a><lxbase:a>Erfahrungen hinsichtlich der Auswirkungen der beiden Grenzen
+waren von den Finanzämtern noch nicht gemacht worden. Von
+einzelnen Finanzämtern ist aber darauf hingewiesen worden,
+daß der Hinweisfall meist bei bereits zur Vermögensteuer
+veranlagten Stpfl. ausgedruckt wird und die Bearbeitung somit vermeidbare
+Mehrarbeit verursacht. Die Anregung, den Hinweisfall nur noch dann
+auszudrucken, wenn bei dem Stpfl. kein GKB "VN" gesetzt
+worden ist, kann wegen programmtechnischer Schwierigkeiten nicht verwirklicht
+werden. Der Erfahrungsaustausch ergab, daß in vielen Fällen den
+Bearbeitern der Hinweisfälle bekannt sein dürfte,
+ob der Stpfl. bereits zur Vermögensteuer veranlagt worden
+ist und deshalb ein Ziehen der Steuerakten entfällt. Ggf.
+kann auch bereits bei Erstellung des Einkommensteuer-Eingabebogens
+darauf vermerkt werden, daß der Stpfl. zur Vermögensteuer veranlagt
+worden ist bzw. veranlagt wird.</lxbase:a><lxbase:a>Um eine möglichst vollständige Erfassung aller
+Stpfl., die zur Vermögensteuer zu veranlagen sind, zu erreichen,
+soll den Finanzämtern im Frühjahr 1981 eine Auflistung
+der Steuernummern, für die der Prüfhinweis Nr.
+546 ausgedruckt worden ist, zugeleitet werden. Die Finanzämter
+werden dann anhand dieser Auflistung prüfen, welchen Stpfl.
+noch VSt-Erklärungen auf den 1. 1. 1980 zuzusenden sind.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900040">b) Arbeitsablauf</lxbase:ueberschrift><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Die Vermögensaufstellungen
+und Vermögensteuererklärungen auf den 1. Januar
+1980 sind möglichst zusammen mit den Steuererklärungen
+für das Kalenderjahr 1979 zu bearbeiten. Nur durch eine
+gemeinsame Bearbeitung kann eine zeitsparende und rationelle Auswertung
+der Steuererklärungen und Bilanzunterlagen erreicht werden;
+denn in der Vermögensaufstellung auf den 1. 1. 1980 sind
+den Werten der Besitz- und Schuldposten nach dem BewG die Werte
+der Steuerbilanz zum 31. Dezember 1979 gegenüberzustellen
+und die Angaben in der Vermögensteuererklärung
+müssen denen in der Einkommensteuererklärung des
+Vorjahres wegen der Wechselwirkung von Vermögenswerten
+und Einkünften bzw. Einkunftsquellen entsprechen. Ich habe
+die Steuerberaterkammer Hessen, die Rechtsanwaltskammern in Frankfurt
+a. M. und Kassel und die Wirtschaftsprüferkammer Hessen
+mit Schreiben vom 11. April 1980 - <lxprod:doknr-verw linkend="HT0054250">S-3644 A - 7 - St III 42</lxprod:doknr-verw> darauf
+hingewiesen, daß Fristverlängerungsanträgen,
+die Vermögensaufstellungen und Vermögensteuererklärungen
+für die Hauptfeststellungs- bzw. Hauptveranlagungszeitpunkte
+erst mit den Steuererklärungen für das folgende
+Kalenderjahr abgeben zu dürfen, aus arbeitsökonomischen
+Gründen nicht entsprochen werden kann und m. E. eine gemeinsame
+Bearbeitung nicht nur für die Finanzverwaltung, sondern
+auch für die Angehörigen der steuerberatenden Berufe
+rationeller ist.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Werden der Einheitswert des Betriebsvermögens
+und die Vermögensteuer im selben Rechengang ermittelt,
+kann der Einheitswert des Betriebsvermögens bei der Vermögensteuerveranlagung
+maschinell berücksichtigt werden, wenn bei KZ 273 "1" eingetragen
+ist.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>Da die sich aus der Einkommensteuerveranlagung
+1979 ergebenden Steuerschulden und Steuererstattungsansprüche
+für die Vermögensteuerveranlagung auf den 1. 1.
+1980 benötigt werden, sind diese beiden Positionen im Eingabebogen
+offenzulassen. Die Eingabebogen sind in einer Mappe zu sammeln und
+nach Vorliegen der Einkommensteuerbescheide abschließend zu
+bearbeiten.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d."><lxbase:a>Es hat sich nicht als zweckmäßig
+erwiesen, die Bearbeitung der Vermögensteuererklärungen
+zurückzustellen. Bei der dann erforderlichen "Vermögensteuer-Aktion" werden
+in der Regel nur die erklärten Angaben übernommen und
+Wechselwirkungen zwischen Vermögen- und Einkommensteuererklärung
+sowie erforderliche Neuveranlagungen nicht beachtet.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e."><lxbase:a>Nur wenn die vorgeschlagene Arbeitsweise
+in den Finanzämtern praktiziert wird, verlieren die SB
+und 1. MA die Scheu vor Vermögensteuerveranlagungen und
+es kann eine Verbesserung der Arbeitsqualität erreicht
+werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="f."><lxbase:a>Bei den Einheitswertfeststellungen-Betriebsvermögen
+und den Vermögensteuerveranlagungen sind häufig
+Anteile an Gesellschaften oder Gemeinschaften zu berücksichtigen.
+Um zahlreiche Berichtigungen wegen nach Durchführung der
+Feststellungen bzw. Veranlagungen eingehender Mitteilungen der Betriebsfinanzämter
+zu vermeiden, bitte ich, Einheitswertfeststellungen von Gesellschaften
+und gesonderte Feststellungen des Vermögens von Gemeinschaften
+vor allem dann vorrangig durchzuführen, wenn die Beteiligten
+nicht im gleichen Finanzamt geführt werden (vgl. auch Veranlagungsrundverfügung
+vom 12. März 1980 - <lxbase:az normform="S2319A29StII20" manuell="nein">S-2319 A - 29 - St II 20</lxbase:az> - Tz. 1.3. Buchstabe
+d).</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900041">c) Beanstandung der
+Erklärungen</lxbase:ueberschrift><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>In der Rdvfg. vom
+2. April 1980 - <lxprod:doknr-verw linkend="HT0054250">S-3644 A - 7 - St III 42</lxprod:doknr-verw> - wurden die Finanzämter
+gebeten, bei der Bearbeitung der Vermögensaufstellungen
+auf den 1. 1. 1980 insbesondere</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Teilwerte des
+beweglichen Anlagevermögens,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Garantierückstellung und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>sonstige Rückstellungen</lxbase:a><lxbase:a>zu überprüfen und ggf. zu beanstanden. Für
+erforderliche Beanstandungen kann der neu aufgelegte Vordruck Nr.
+484 e verwandt werden, der den Finanzämtern in geschätzter
+Anzahl zugehen wird.</lxbase:a><lxbase:a>Um die Arbeit der Finanzämter zu erleichtern, habe ich
+die Steuerberaterkammer Hessen, die Rechtsanwaltskammern in Frankfurt
+a. M. und Kassel und die Wirtschaftsprüferkammer Hessen
+durch Schreiben vom 11. April 1980 - <lxprod:doknr-verw linkend="HT0054250">S-3644 A - 7 - St III 42</lxprod:doknr-verw> - über
+die schwerpunktmäßige Beanstandung der Veermögensaufstellung
+informiert und die Kammern gebeten, ihre Mitglieder entsprechend
+zu unterrichten, damit durch eine den bewertungsrechtlichen Grundsätzen
+entsprechende Erklärung Mehrarbeit durch Rückfragen
+der Finanzämter vermieden wird.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Außerdem ist bei der Bearbeitung
+der Erklärungen auf die bei den Zweifelsfragen noch anzusprechenden
+Punkte und auf Grundstücke im Zustand der Bebauung sowie
+auf die zutreffende Erfassung von Vermögenswerten aufgrund
+von Mitteilungen anderer Finanzämter</lxbase:a><lxbase:a>zu achten.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900042">d) Durchführung
+der Feststellungen und Veranlagungen</lxbase:ueberschrift><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Die Feststellungen
+der Einheitswerte des Betriebsvermögens und die Veranlagungen
+zur Vermögensteuer sind wie bisher grundsätzlich
+im maschinellen Verfahren durchzuführen. Hierfür
+gelten die Anweisungen in der Arbeitsanleitung für die
+Feststellung der Einheitswerte des Betriebsvermögens und
+für die Veranlagung zur Vermögensteuer im maschinellen
+Verfahren.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Eine manuelle Erledigung ist in den in
+Fach 9 Teil 2 Nr. 2, 3, 4.4. und 5.3. genannten Ausschlußsachverhalten
+geboten. Darüber hinaus kann eine manuelle Feststellung
+oder Veranlagung geboten sein, wenn es sich um Fälle von
+erheblicher finanzieller Auswirkung handelt, dies im Einzelfall
+rationeller oder aus anderen zwingenden Gründen erforderlich
+ist.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900043">e) Wertfortschreibungen
+der Einheitswerte des Betriebsvermögens und Vermögensteuer-Neuveranlagungen</lxbase:ueberschrift><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Im Zuge der Feststellungs-
+und Veranlagungsarbeiten auf den 1. Januar 1980 ist zu prüfen,
+ob aufgrund der gegenüber dem Hauptfeststellungs- bzw. Hauptveranlagungszeitpunktes
+1. 1. 1977 veränderten Vermögens- oder Familienverhältnisse
+Wertfortschreibungen oder Neuveranlagungen auf dazwischenliegende
+Stichtage erforderlich sind. Das Ergebnis der Überprüfung
+ist aktenkundig zu machen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Bei Überprüfung der Bilanzen
+zum 31. 12. 1980 und zum 31. 12. 1981 ist - ggf. unter Verwendung
+des Vordrucks "Vorläufige Prüfung, ob
+eine Wertfortschreibung des EW des BV auf den 1. 1. 19.. erforderlich
+ist, Lg.Nr. 487 c - zu prüfen, ob die Wertgrenzen für
+Wertfortschreibungen voraussichtlich überschritten sind.
+Das Ergebnis der Überprüfung ist aktenkundig zu machen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>Bei Durchführung der Einkommensteuerveranlagungen
+1980 und 1981 ist darauf zu achten, ob Vermögensteuer-Neuveranlagungen
+wegen Überschreitens der Wertgrenzen oder Änderung
+der Verhältnisse für die Gewährung von
+Freibeträgen (z. B. Tod eines Ehegatten, Wegfall der Voraussetzungen für
+die Berücksichtigung eines Kindes, erstmalige Berücksichtigung
+eines Kindes, Vollendung des 60. oder 65. Lebensjahres des Stpfl.
+oder seines Ehegatten) auf den 1. 1. 1981 oder den 1. 1. 1982 durchzuführen
+sind. Das Ergebnis der Überprüfung ist aktenkundig
+zu machen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d."><lxbase:a>Betriebs- und Gesamtvermögensmillionären
+ist auf jeden Stichtag eine Erklärung zu übersenden.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900006">Tagesordnungspunkt III/1
+Gesonderte Feststellung des Vermögens von Gemeinschaften
+gemäß § 180 Abs. 1 Nr. 3 AO (vgl. Rdvfg.
+vom 25. August 1980 - <lxprod:doknr-verw linkend="HT0058552">S-3600 A - 27 - St III 42</lxprod:doknr-verw>, VSt-Kartei 1980 § 114
+BewG, Karte 1)</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D005772900044">1. Rechtsgrundlage</lxbase:ueberschrift><lxbase:a>Nach § 180 Abs. 1 Nr. 3 AO werden der Wert der vermögensteuerpflichtigen Wirtschaftsgüter
+(§§ 114 - 117 BewG; land- und forstwirtschaftliches
+Vermögen, Grundvermögen, Betriebsvermögen
+und sonstiges Vermögen) und der Wert der Schulden und sonstigen
+Abzüge (§ 118 BewG) gesondert festgestellt, wenn
+die Wirtschaftsgüter, Schulden und sonstigen Abzüge
+mehreren Personen zuzurechnen sind, die nicht nach § 14
+VStG zusammen zur Vermögensteuer veranlagt werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900045">2. Zuständigkeit</lxbase:ueberschrift><lxbase:a>Zuständig für die Durchführung der
+gesonderten Feststellung des Vermögens ist das Finanzamt,
+von dessen Bezirk die Verwaltung des Vermögens ausgeht. Kann
+dies nicht festgestellt werden, ist das Finanzamt zuständig,
+in dessen Bezirk sich der wertvollste Teil des Vermögens
+befindet (§ 18 Abs. 1 Nr. 4 AO). In der Regel ist dies
+auch das Finanzamt, das für die gesonderte Feststellung
+der Einkünfte zuständig ist.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900046">3. Erfassung der Gemeinschaften</lxbase:ueberschrift><lxbase:a>3.1. In Steuergesetzen ist nicht bestimmt, wer zur Abgabe einer
+Erklärung zur gesonderten Feststellung des Vermögens
+von Gemeinschaften verpflichtet ist und wann die Steuererklärung
+abzugeben ist. Nach § 149 AO ist zur Abgabe einer Steuererklärung
+auch verpflichtet, wer hierzu von der Finanzbehörde aufgefordert
+wird. Die Aufforderung kann durch öffentliche Bekanntmachung erfolgen.</lxbase:a><lxbase:a>Nach der öffentlichen Aufforderung zur Abgabe von Steuererklärungen
+für das Kalenderjahr 1979 und auf den 1. Januar 1980 sind
+Gemeinschaften oder Gesellschaften, bei denen der Wert der steuerpflichtigen
+Wirtschaftsgüter und der Wert der Schulden und sonstigen
+Abzüge mehreren zur Vermögensteuer nicht zusammen
+zu veranlagenden Beteiligten zuzurechnen sind (Buchst. H Nr. 1 der öffentlichen
+Aufforderung; z. B. Erbengemeinschaften, Immobilienfonds, einen
+Betrieb der Land- und Forstwirtschaft betreibende Gesellschaften / Gemeinschaften),
+verpflichtet, Erklärungen zur gesonderten Feststellung
+abzugeben.</lxbase:a><lxbase:a>3.2. Aufgrund der geringen Anzahl der auf den 1. Januar 1977
+durchgeführten gesonderten Vermögensfeststellungen
+(209 Fälle) muß davon ausgegangen werden, daß auch
+auf den 1. Januar 1980 nur wenige Gemeinschaften ihrer aufgrund
+der öffentlichen Aufforderung bestehenden Verpflichtung
+zur Abgabe der Erklärung zur gesonderten Feststellung des
+Vermögens nachkommen werden. Es ist deshalb erforderlich,
+daß die Finanzämter die Gemeinschaften durch Übersendung
+der Erklärungsvordrucke</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Erklärung
+zur gesonderten Feststellung des Vermögens von Gemeinschaften, <lxbase:az normform="Vm-5/80" manuell="nein">Vm 5/80</lxbase:az>,
+Lg.Nr. 485,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Anlage zur Erklärung des Vermögens
+von Gemeinschaften, Anlage <lxbase:az normform="Vm-5/80" manuell="nein">Vm
+5/80</lxbase:az>, Lg.Nr. 485 a,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Anleitung zur Erklärung zur gesonderten
+Feststellung des Vermögens von Gemeinschaften, Anleitung <lxbase:az normform="Vm-5/80" manuell="nein">Vm 5/80</lxbase:az>,
+Lg.Nr. 485 b,</lxbase:a><lxbase:a>besonders zur Abgabe der Erklärungen auffordern.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>3.3. Wie bei der Einheitsbewertung (§ 19 Abs. 4 BewG)
+gilt auch hier der Grundsatz, daß eine gesonderte Feststellung
+des Vermögens nur durchgeführt zu werden braucht,
+wenn und soweit es für die Vermögensbesteuerung
+eines Beteiligten von Bedeutung ist. Nach Abschn. 93 a Abs. 1 Satz
+2 VStR unterbleibt die gesonderte Vermögensfeststellung,
+wenn an dem Vermögen nur zusammen zu veranlagende Personen
+beteiligt sind oder wenn es sich um Fälle von geringerer
+Bedeutung handelt (§ 180 Abs. 3 AO).</lxbase:a><lxbase:a>3.4. Ich bitte, eine gesonderte Feststellung des Vermögens
+auf den 1. Januar 1980 durchzuführen, wenn</lxbase:a><lxbase:a>3.4.1. die Feststellung von der Gemeinschaft oder einem Beteiligten
+beantragt wird,</lxbase:a><lxbase:a>3.4.2. die Feststellung vom Wohnsitzfinanzamt eines Beteiligten
+angeregt wird,</lxbase:a><lxbase:a>Das Wohnsitzfinanzamt hat die gesonderte Vermögensfeststellung
+anzuregen, wenn</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>einem zur Vermögensteuer
+zu veranlagenden Steuerpflichtigen aus der Beteiligung an einer
+Gemeinschaft Einkünfte aus Kapitalvermögen oder Einkünfte
+aus Land- und Forstwirtschaft zufließen oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>ein Steuerpflichtiger in der Vermögensteuererklärung
+geltend macht, an Schulden einer Gemeinschaft beteiligt zu sein.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>3.4.3. bei einer gesonderten Feststellung der Einkünfte
+auf einen Beteiligten Einkünfte aus Kapitalvermögen
+von mehr als 4.000 DM entfallen oder</lxbase:a><lxbase:a>3.4.4. ein beschränkt Steuerpflichtiger an einer Gemeinschaft
+beteiligt ist und die nach Aktenlage voraussichtlich auf ihn entfallenden
+Vermögensanteile insgesamt (z. B. 140 v. H. des EW- Anteils
+abzüglich anteilige Schulden) 20.000 DM übersteigen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900047">4. Durchführung
+der gesonderten Feststellung</lxbase:ueberschrift><lxbase:a>4.1. Für die Durchführung der gesonderten Feststellung
+des Vermögens sind folgende Vordrucke aufgelegt worden:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Bescheid über
+die gesonderte Feststellung des Vermögens, Vm 52,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Berechnungsbogen über die gesonderte
+Feststellung des Vermögens, Vm 53,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Mitteilung über die gesonderte
+Feststellung des Vermögens, Vm 54.</lxbase:a><lxbase:a>Die Vordrucke sind zu Blocks a 25 x 3 zusammengefaßt
+und werden unter der Lg.Nr. 485 d - f geführt. Die Mitteilung über
+die gesonderte Feststellung des Vermögens ist zusätzlich
+in Blocks a 50, Lg.Nr. 485 f, aufgelegt worden.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>4.2. Nach dem Wortlaut des § 180 Abs. 1 Nr. 3 AO ist
+nicht das Gesamtvermögen der Gemeinschaft festzustellen,
+sondern es sind die Werte des land- und forstwirtschaftlichen Vermögens,
+des Grundvermögens, des Betriebsvermögens, jeder
+der in § 110 Abs. 1 BewG aufgeführten Gruppen
+von Wirtschaftsgütern des sonstigen Vermögens,
+der Schulden und sonstigen Abzüge i. S. des § 118
+BewG, des Auslandsvermögens i. S. des § 11 VStG
+und der danach anrechenbaren ausländischen Vermögensteuer
+festzustellen.</lxbase:a><lxbase:a>Diese detaillierte Feststellung ist erforderlich, weil über
+die Anwendung von Freibeträgen, Freigrenzen und sonstigen
+Vergünstigungen, die einem Beteiligten zustehen, nur bei
+dessen Vermögensteuerveranlagung entschieden werden kann.
+Bei der gesonderten Feststellung ist jedoch über die sachliche
+Steuerfreiheit einzelner Wirtschaftsgüter (z. B. Hausrat
+und andere bewegliche körperliche Gegenstände, § 111
+Nr. 10 BewG) zu entscheiden. Dasselbe gilt auch für Wirtschaftsgüter,
+die bei der Ermittlung des Gesamtvermögens eines Steuerpflichtigen
+außer Ansatz bleiben (z. B. Gegenstände, deren
+Erhaltung im öffentlichen Interesse liegt, § 115
+BewG).</lxbase:a><lxbase:a>4.3. Schulden der Gemeinschaft gegenüber einem Beteiligten
+sind in die gesonderte Feststellung einzubeziehen (Abschn. 93 a
+Abs. 2 Nr. 3 VStR). Die Aufteilung ist ohne Rücksicht auf
+die Person des Beteiligten vorzunehmen. Nach wirtschaftlicher Betrachtungsweise
+kann jedoch ein Steuerpflichtiger gegen sich selbst keine Forderungen / Schulden
+haben. Deshalb ist bei der Vermögensteuerveranlagung des
+Beteiligten eine Forderung gegen die Gemeinschaft nur gekürzt
+um den aus der Gemeinschaft auf ihn entfallenden Schuldanteil anzusetzen.</lxbase:a><lxbase:a>Das für die gesonderte Feststellung zuständige
+Finanzamt hat deshalb den auf den Beteiligten entfallenden Anteil
+der Schuld der Gemeinschaft durch einen entsprechenden Vermerk im
+Feststellungsbescheid und in der Mitteilung für das Wohnsitzfinanzamt
+besonders zu kennzeichnen. Das Wohnsitzfinanzamt hat dann diese
+besondere Schuld bei der korrespondierenden Gesamtforderung gegen
+die Gemeinschaft abzusetzen. Damit wird der Schuldanteil seiner
+Höhe nach als Grundlagenfeststellung übernommen,
+bei der Vermögensteuer des Beteiligten aber in einen Kürzungsanteil
+der Forderung umgewandelt, weil es nach Abschn. 93 a Abs. 3 VStR
+bei der Vermögensteuerveranlagung des Beteiligten nur auf
+dessen persönliche Verhältnisse ankommt (HMdF-Erlaß vom
+13. 11. 1978 - <lxbase:az normform="S3600A32IIB43" manuell="nein">S-3600 A-32-II B 43</lxbase:az>).</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><lxbase:a>A ist zu 1/4 an der Erbengemeinschaft Z beteiligt. Zur
+Durchführung von Maßnahmen zur Verbesserung der
+Wärmedämmung an einem Mietwohngrundstück hat
+er der Erbengemeinschaft ein Darlehen in Höhe von 30.000
+DM gewährt. Die weiteren Schulden der Gemeinschaft betragen
+120.000 DM.</lxbase:a></lxbase:beispiel><lxbase:a>Das für die gesonderte Feststellung zuständige
+Finanzamt hat Schulden in Höhe von 150.000 DM festzustellen.
+Der auf A entfallende Anteil beträgt 1/4. In den Bescheid,
+den Berechnungsbogen und die Mitteilung an das Wohnsitzfinanzamt
+von A ist folgende Erläuterung aufzunehmen: "Bei
+der gesonderten Feststellung wurden von A gewährte Darlehen
+in Höhe von 30.000 DM als Schulden berücksichtigt.
+Der auf A entfallende Anteil beträgt 7.500 DM."</lxbase:a><lxbase:a>Das Wohnsitzfinanzamt von A hat bei dessen Vermögensteuerveranlagung Darlehen
+an die Erbengemeinschaft Z i. H. v. 22.500 DM (30.000 DM abzüglich
+7.500 DM) als Kapitalforderung und anteilige Schulden der Erbengemeinschaft
+Z in Höhe von 30.000 DM (1/4 von 150.000 DM abzüglich
+7.500 DM) zu berücksichtigen.</lxbase:a><lxbase:a>4.4. Ist ein beschränkt Steuerpflichtiger an einer Gemeinschaft
+beteiligt, so wird auch sein Anteil an diesem Vermögen
+in die gesonderte Vermögensfeststellung einbezogen. Die
+Frage, inwieweit der auf ihn entfallende Anteil zum Inlandsvermögen
+gehört, wird bei seiner Veranlagung entschieden (Abschn.
+103 Abs. 10 VStR).</lxbase:a><lxbase:a>4.5. Der auf die Beteiligten entfallende Anteil an den vermögensteuerpflichtigen
+Wirtschaftsgütern, Abzügen und sonstigen Beträgen
+wird in der Regel nicht betragsmäßig, sondern
+in einem Hundertsatz oder Bruchteil festgelegt. Für Grundbesitz
+und Betriebsvermögen sind die Feststellungen über
+Wert, Art und Zurechnung zu übernehmen, die bei der Feststellung
+des Einheitswerts getroffen wurden. Bei geschlossenen Immobilienfonds
+kann der Grundbesitz der Gesamtheit der Inhaber der Anteile zugerechnet
+werden; über den Wert des Grundbesitzes, der auf den einzelnen
+Anteil entfällt wird dann erst bei der gesonderten Vermögensfeststellung
+entschieden (Abschn. 93 a Abs. 2 Nr. 1 VStR). In Sonderfällen
+ist die Aufteilung in einer besonderen Anlage vorzunehmen.</lxbase:a><lxbase:a>4.6. Der Bescheid über die gesonderte Vermögensfeststellung
+ist als Grundlagenbescheid (§ 171 Abs. 10 AO) selbständig
+anfechtbar und für die Vermögensteuer-Veranlagung
+der Beteiligten bindend (§ 182 Abs. 1 AO).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900048">5. Grundkennbuchstabe</lxbase:ueberschrift><lxbase:a>Um die Fälle, in denen gesonderte Feststellungen des
+Vermögens von Gemeinschaften durchzuführen sind,
+erfassen zu können, habe ich angeregt, einen GKB (z. B. "FV")
+vorzusehen. In der V-Kartei ist der GKB "V" zu
+kerben.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900049">6. Verspätungszuschlag</lxbase:ueberschrift><lxbase:a>6.1. Nach § 152 Abs. 4 AO kann auch bei verspäteter
+Abgabe oder bei Nichtabgabe von Erklärungen zur gesonderten
+Feststellung ein Verspätungszuschlag festgesetzt werden.
+Bemessungsgrundlage für den Verspätungszuschlag
+ist der Betrag der steuerlichen Auswirkungen. Dieser Betrag ist
+zu schätzen. Hierfür gelten die Grundsätze,
+die die Rechtsprechung zur Bemessung des Streitwerts entwickelt
+hat (vgl. Einführungserlaß zur AO 1977 vom 1.
+Oktober 1976 zu § 152 unter Nr. 4, <lxprod:doknr-verw linkend="HT0555962">BStBl 1976 I
+S. 576 ff</lxprod:doknr-verw>. und AO-Kartei § 152 Karte 1).</lxbase:a><lxbase:a>Für die Festsetzung von Verspätungszuschlägen
+bei gesonderten Feststellungen nach § 180 Abs. 1 Nr. 3
+AO ist folgende Auffassung zu vertreten:</lxbase:a><lxbase:a>Die gesonderten Feststellungen sollen grundsätzlich
+auf jeden Veranlagungszeitpunkt erfolgen; sie haben nur für
+jeweils ein Jahr Bedeutung. Der Streitwert ist demnach auch nur
+nach den steuerlichen Auswirkungen für ein Jahr (und beschränkt
+auf die Vermögensteuer) zu bemessen. Der Vermögensteuersatz von
+0,5 v. H., begrenzt die Höhe des Streitwerts; er entspricht
+einem Streitwert von 5 v. T. und bildet dessen oberste Grenze. Unter
+Berücksichtigung der persönlichen Freibeträge
+der Beteiligten bei ihrer späteren Vermögensteuerveranlagung
+bei der Schätzung der Bemessungsgrundlage für
+den Verspätungszuschlag beträgt diese Bemessungsgrundlage
+4 v. T. der Summe der in die gesonderte Feststellung einbezogenen
+um den Wert der Schulden und sonstigen Abzüge geminderten
+steuerpflichtigen Wirtschaftsgüter.</lxbase:a><lxbase:a>Nach § 152 Abs. 2 AO darf der Verspätungszuschlag
+10 v. H. der festgesetzten Steuer oder des festgesetzten Meßbetrages
+nicht übersteigen. Bei Nichtabgabe oder verspäteter
+Abgabe der Erklärung zur gesonderten Feststellung nach § 180 Abs.
+1 Nr. 3 AO kommen als Verspätungszuschläge demnach
+höchstens 10 v. H. der Bemessungsgrundlage, 0,4 v. T. der
+Summe der festgestellten steuerpflichtigen Wirtschaftsgüter,
+gemindert um den Wert der Schulden und sonstigen Abzüge,
+in Betracht.</lxbase:a><lxbase:a>6.2. Der BFH hat mit Beschluß vom 28. 11. 1978 - <lxprod:doknr-verw linkend="HT0011581">VII B 43/78</lxprod:doknr-verw> -
+in einem Rechtsstreit wegen Aufhebung der Vollziehung eines Zwangsgeldes
+wie folgt entschieden (Leitsatz):</lxbase:a><lxbase:a>"Es ist ernstlich zweifelhaft, ob es für die
+Anordnung, die Einkommensteuererklärung innerhalb einer
+gesetzten Frist abzugeben, eine steuergesetzliche Grundlage gibt
+und ob das Finanzamt bei Fehlen einer solchen Grundlage gem. § 149
+Satz 2 AO zur Fristsetzung im Einzelfall befugt ist."</lxbase:a><lxbase:a>Dies gilt in gleicher Weise für die gesonderte Feststellung
+des Vermögens von Gemeinschaften auf den 1. 1. 1977, den
+1. 1. 1978 und den 1. 1. 1979. Entsprechend der Rdvfg. vom 23. März
+1979 - <lxprod:doknr-verw linkend="HT0012391">S-0320 A - 3 - St II 40</lxprod:doknr-verw> - sind Verspätungszuschläge
+weiterhin nach den bisherigen Grundsätzen festzusetzen.
+Wird die Festsetzung angefochten, ist die Vollziehung auf Antrag
+gem. § 361 Abs. 2 AO auszusetzen. Die Entscheidung über
+die Beschwerden gegen die Festsetzung von Verspätungszuschlägen
+sind gem. § 363 Abs. 2 AO zurückzustellen, soweit
+nicht der Beschwerdeführer dem widerspricht.</lxbase:a><lxbase:a>6.3. Nach § 149 Abs. 2 AO (eingefügt durch
+das Gesetz zur Neufassung des Umsatzsteuergesetzes und zur Änderung
+anderer Gesetze vom 26. November 1979, <lxbase:lit-fs normform="BStBl-1979-I-0654" manuell="nein">BStBl 1979 I
+S. 654</lxbase:lit-fs>, und gültig ab 1. 1. 1980) sind, soweit
+die Steuergesetze nichts anderes bestimmen, Steuererklärungen,
+die sich auf ein Kalenderjahr oder einen gesetzlich bestimmten Zeitpunkt
+beziehen, spätestens fünf Monate danach abzugeben.
+Damit ist auch für die Anordnung, die Erklärungen
+zur gesonderten Feststellung des Vermögens von Gemeinschaften
+auf den 1. 1. 1980 innerhalb einer gesetzten Frist abzugeben, zur
+Klarstellung eine ausdrückliche gesetzliche Grundlage geschaffen worden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900050">7. Durchführung
+von gesonderten Vermögensfeststellungen auf Neuveranlagungszeitpunkte</lxbase:ueberschrift><lxbase:a>7.1. Gesonderte Vermögensfeststellungen haben nur jeweils
+für ein Jahr Bedeutung. Sie brauchen jedoch auf Neuveranlagungszeitpunkte
+nur durchgeführt zu werden, wenn und soweit es für
+die Vermögensbesteuerung eines Beteiligten von Bedeutung
+ist. Das Ausmaß der Wertänderungen ist ohne Bedeutung.</lxbase:a><lxbase:a>7.2. Ich bitte, gesonderte Feststellungen des Vermögens
+auf Neuveranlagungszeitpunkte durchzuführen, wenn</lxbase:a><lxbase:a>7.2.1. die Feststellung von der Gemeinschaft oder einem Beteiligten
+beantragt wird,</lxbase:a><lxbase:a>7.2.2. die Feststellung vom Wohnsitzfinanzamt eines Beteiligten
+angeregt wird,</lxbase:a><lxbase:a>Das Wohnsitzfinanzamt hat die gesonderte Vermögensfeststellung
+anzuregen, wenn für den Beteiligten voraussichtlich eine
+Vermögensteuer-Neuveranlagung durchzuführen ist.</lxbase:a><lxbase:a>7.2.3. sich das Vermögen der Gemeinschaft oder die Beteiligungsverhältnisse so
+wesentlich ändern, daß dies voraussichtlich bei
+einem Beteiligten zu einer Neuveranlagung führen könnte.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900007">Tagesordnungspunkt III/2
+Ermittlung des Teilwerts für bewegliche Anlagevermögen
+(Abschn. 52 VStR) - Finanzamt Dillenburg</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D005772900051">a) Allgemeines</lxbase:ueberschrift><lxbase:a>aa) Rechtsgrundlagen:</lxbase:a><lxbase:a>§ 109 Abs. 1 i. V. mit § 10 BewG</lxbase:a><lxbase:a>Abschn. 51 Abs. 1 - 3 und 52 VStR</lxbase:a><lxbase:a>bb) Einbeziehung solcher Wirtschaftsgüter in das Betriebsvermögen:</lxbase:a><lxbase:a>Wegen der Frage der Zurechnung Hinweis auf Abschn. 5 Abs. 1 VStR
+und VSt-Kartei zu § 2 BewG Karte 1.</lxbase:a><lxbase:a>Bei Wirtschaftsgütern, die im Eigentum des Ehegatten
+des Betriebsinhabers stehen Hinweis auf Abschn. 5 Abs. 2 VStR.</lxbase:a><lxbase:a>Wegen der Abgrenzung der Wirtschaftsgüter des Betriebsvermögens
+vom übrigen Vermögen Hinweis auf Abschn. 5 Abs.
+3 VStR.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900052">b) Bewertung mit dem
+Teilwert (Abschn. 51 Abs. 1 VStR)</lxbase:ueberschrift><lxbase:a>Grundsätzlich sind die Wiederbeschaffungskosten maßgebend.
+In Ausnahmefällen kann der Einzelveräußerungspreis
+oder ein Zwischenwert zum Ansatz kommen (Abschn. 51 Abs. 2 VStR).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900053">c) Teilwertermittlung
+bei beweglichem Anlagevermögen (Abschn. 52 VStR)</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D005772900054">aa) Allgemeines</lxbase:ueberschrift><lxbase:a>Für Wirtschaftsgüter des beweglichen Anlagevermögens
+ist der Teilwert ausdrücklich vorgeschrieben.</lxbase:a><lxbase:a>Sind diese Wirtschaftsgüter in der Steuerbilanz mit
+dem Teilwert ausgewiesen, kann dieser in aller Regel bewertungsmäßig übernommen
+werden. Oft entspricht der in der Steuerbilanz ausgewiesene Wert
+nicht dem Teilwert. Die von einem Steuerpflichtigen in seiner Vermögensaufstellung
+ausgewiesenen Wertansätze für die Zwecke der Einheitsbewertung
+des gewerblichen Betriebsvermögens bedürfen deshalb
+grundsätzlich der Überprüfung.</lxbase:a><lxbase:a>Die Grundsätze der Teilwertermittlung sind in Abschn.
+52 Abs. 2 und 3 VStR enthalten:</lxbase:a><lxbase:a>Obere Grenze - Wiederbeschaffungskosten</lxbase:a><lxbase:a>Untere Grenze - Material- oder Schrottwert.</lxbase:a><lxbase:a>Für voll genutzte Wirtschaftsgüter in der Regel
+die Wiederbeschaffungskosten.</lxbase:a><lxbase:a>Für nur vorübergehend genutzte Wirtschaftsgüter
+der Einzelveräußerungspreis.</lxbase:a><lxbase:a>Die Wiederbeschaffungskosten beinhalten die Kosten, die unter
+Berücksichtigung des tatsächlichen Zustandes des
+Wirtschaftsgutes am Bewertungsstichtag bei einer Wiederbeschaffung
+anzuwenden wären.</lxbase:a><lxbase:a>Zur Ermittlung der Wiederbeschaffungskosten sind die mußmaßlichen Anschaffungs-
+oder Herstellungskosten am Bewertungsstichtag die Ausgangsbasis.
+Davon können die normalen Absetzungen für Abnutzung
+in Abzug gebracht werden. Außer der linearen Absetzungsmethode
+kann auch eine niedrigere Absetzung Berücksichtigung finden
+(vgl. Abschn. 52 Abs. 1 VStR - z. B. die degressive AfA, aber keine
+Sonder-AfA).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900055">bb) Wirtschaftsgüter,
+deren Anschaffung oder Herstellung nicht länger als 3 Jahre
+vor dem Bewertungsstichtag zurückliegt</lxbase:ueberschrift><lxbase:a>Hier bleiben Preisveränderungen bei der Ermittlung der
+Wiederbeschaffungskosten unberücksichtigt. Eine einkommensteuerlich
+ausnahmsweise zugelassene Teilwertabschreibung ist bewertungsmäßig
+zu übernehmen.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel: Anschaffungskosten der im Januar 1977 angeschafften</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="80*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Maschine =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>100.00 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>bei 10-jähriger
+Nutzungsdauer (3 x 10 v. H. AfA) =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>30.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Teilwert am 1. 1. 1980 (Wiederbeschaffungskosten) =</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>70.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900056">cc) Wirtschaftsgüter,
+deren Anschaffung oder Herstellung länger als 3 Jahre vor
+dem Bewertungsstichtag zurückliegt</lxbase:ueberschrift><lxbase:a>Hier sind die Preisveränderungen gegenüber
+den tatsächlichen Anschaffungs- oder Herstellungskosten
+oder gegenüber dem Neuwert (Ausgangswert i. S. des § 18
+DMBG) erforderlichenfalls zu berücksichtigen. Bei Bemessung
+eines Zuschlags oder eines Abschlags sind </lxbase:a><lxbase:a>die Preisentwicklung der jeweiligen Waren- oder Industriegütergruppe,</lxbase:a><lxbase:a>der zeitliche Abstand zwischen Anschaffung oder Herstellung des
+Wirtschaftsguts zum Bewertungsstichtag und </lxbase:a><lxbase:a>eine technische oder wirtschaftliche Überalterung in
+Betracht zu ziehen.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="81*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Anschaffungskosten
+der im Januar 1973 angeschafften Maschine =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>150.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Preisentwicklung
+zum 1. 1. 1980 = 140 v. H. Aufschlag bzw. Zuschlag =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>60.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>210.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>bei 7-jähriger
+Nutzung unter Berücksichtigung des zeitlichen Abstands
+zum Bewertungsstichtag und wegen technischer Überalterung =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>30.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>fiktive Anschaffungskosten
+zum 1. 1. 1980 =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>180.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>bei 18-jähriger
+Nutzungsdauer (7 x 10.000 DM)=</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>70.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Teilwert (Wiederbeschaffungskosten)
+zum 1. 1. 1980 =</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>110.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900057">dd) Restwertermittlung
+bei Wirtschaftsgütern des beweglichen Anlagevermögens </lxbase:ueberschrift><lxbase:a>Der Mindestwert (Restwert) beträgt</lxbase:a><lxbase:a>bei Wirtschaftsgütern des beweglichen Anlagevermögens,
+die innerhalb von 10 Jahren vor dem Bewertungsstichtag angeschafft
+oder hergestellt worden sind, 30 v. H. und</lxbase:a><lxbase:a>bei Wirtschaftsgütern, die vor einem Zeitraum von mehr
+als 10 Jahren vor dem Bewertungsstichtag angeschafft oder hergestellt
+worden sind, 15 v. H.</lxbase:a><lxbase:a>der tatsächlichen Anschaffungs- oder Herstellungskosten
+oder des Neuwerts i. S. des DMBG. Abweichungen hiervon nur in Ausnahmefällen.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="80*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Anschaffungskosten
+einer im Januar 1970 angeschafften Maschine =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>150.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Preisentwicklung
+zum 1. 1. 1980 = 180 v. H. Aufschlag bzw. Zuschlag=</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>120.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>270.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>bei 10-jähriger
+Nutzung unter Berücksichtigung des zeitlichen Abstands
+zum Bewertungsstichtag und wegen technischer Überalterung =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>60.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>fiktive Anschaffungskosten
+um 1. 1. 1980 =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>210.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>bei 12-jähriger
+Nutzungsdauer (10 x 17.500 DM) =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>175.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Teilwert (Wiederbeschaffungskosten)
+zum 1. 1. 1980 =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>35.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Hier kommt jedoch
+der Mindestwert von 30 v. H. gem. Abschn. 52 Abs. 3 Nr. 1 VStR =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>45.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>zum Ansatz.</lxbase:a></cals:entry><cals:entry colname="2" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900058">ee) Überprüfung
+der Wertansätze durch das Finanzamt </lxbase:ueberschrift><lxbase:a>Die Überprüfung der in den Vermögensaufstellungen
+ausgewiesenen Werte für die Wirtschaftsgüter des
+beweglichen Anlagevermögens bereitet erfahrungsgemäß immer
+wieder Schwierigkeiten. In nicht wenigen Fällen werden
+von den Steuerpflichtigen bzw. den Beratern der Steuerpflichtigen
+nur die Werte lt. Ertragsteuerbilanz oder unwesentlich höhere
+Werte, die vielfach auf volle 100 DM bzw. 1.000 DM aufgerundet werden,
+erklärt. In solchen Fällen ist eine Beanstandung
+der Wertansätze angebracht. Diese Beanstandung hat durch Rückfrage
+bei dem Steuerpflichtigen bzw. seinem Berater zu erfolgen. Es kann nicht
+abgewartet werden, bis dieser Betrieb durch die Betriebsprüfung
+geprüft wird. Dies erscheint nur dann angebracht, wenn
+die Durchführung der Betriebsprüfung abzusehen
+ist und deshalb der Einheitswertbescheid unter dem Vorbehalt der
+Nachprüfung (§ 164 AO) ergeht. Die Erfahrungen
+bei Ressortprüfungen haben gezeigt, daß bei Anerkennung
+solcher Werte im Rahmen der Einheitswertfeststellung diese Werte
+vielfach auch von der Betriebsprüfung als Teilwerte übernommen
+worden sind.</lxbase:a><lxbase:a>In der Rdvfg. vom 2. April 1980 - <lxprod:doknr-verw linkend="HT0054250">S-3644 A - 7 - St III 42</lxprod:doknr-verw> ist
+u. a. darauf hingewiesen worden, die Teilwerte des beweglichen Anlagevermögens
+unter Beachtung der Anweisungen in den Abschnitten 51 und 52 VStR
+zu überprüfen und ggf. zu beanstanden. Außerdem
+sind durch getrennte Schreiben vom 11. April 1980 die Steuerberaterkammer
+Hessen, die Rechtsanwaltskammern Frankfurt und Kassel und die Wirtschaftsprüferkammer
+angeschrieben und darauf hingewiesen worden, daß die Finanzämter
+angewiesen sind, bei der Bearbeitung der Vermögensaufstellungen
+auf den 1. Januar 1980 insbesondere auch die Teilwerte des beweglichen
+Anlagevermögens zu überprüfen und wegen
+ihrer Ermittlung ggf. Rückfragen zu halten.</lxbase:a><lxbase:a>Auch wird der unter Lager-Nr. 484 c herausgegebene Vordruck dazu
+dienen, die Steuerpflichtigen bzw. deren berater zu veranlassen, über
+die Ermittlung der in der Vermögensaufstellung angewiesenen
+Teilwerte erforderlichenfalls Aufschluß zu geben.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900059">ff) Bewertung der geringwertigen
+Wirtschaftsgüter des Anlagevermögens (Abschn.
+52 Abs. 4 VStR)</lxbase:ueberschrift><lxbase:a>Im allgemeinen können die in den letzten 5 Jahren angeschafften
+oder hergestellten Wirtschaftsgüter mit ihren Anschaffungs-
+oder Herstellungskosten zusammengefaßt werden. Davon kann
+der Teilwert mit 40 v. H. angenommen werden. Dabei wird davon ausgegangen,
+daß die jährlichen Anschaffungskosten in etwa
+gleich hoch sind.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiele für Sonderfälle:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="7*" /><cals:colspec colnum="2" colname="2" colwidth="77*" /><cals:colspec colnum="3" colname="3" colwidth="16*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>A)</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>1. Jahr = 10.000
+DM 100 % AfA = 10.000 DM Wertansatz =</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>2. Jahr = 0
+DM</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>-</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>3. Jahr = 0
+DM</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>-</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>4. Jahr = 1.000
+DM 40 % AfA = 400 DM Wertansatz =</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>5. Jahr = 2.000
+DM 20 % AfA = 400 DM Wertansatz =</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>1.600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>insges.: 13.000 DM
+10.800 DM</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>2.200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>40 % von
+13.000 DM Anschaffungskosten betragen</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>5.200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Auf Antrag kann in
+einem solchen Fall der Ansatz des Teilwerts in Höhe von
+2.200 DM zugestanden werden.</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>B)</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Die Gründung
+des Betriebs liegt etwa 2 Jahre zurück.</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>1. - 3. Jahr ohne
+Ansatz</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>4. Jahr (Gründungsjahr)
+5.000 DM 40 % AfA = 2.000 DM Wertansatz =</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>3.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>5. Jahr 3.000 DM
+20 % AfA = 600 DM "</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>2.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" colsep="0"><lxbase:a>insgesamt: 8.000 DM 2.600 DM</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>5.400 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a>In diesem Fall kann die Ermittlung des Teilwerts mit 40 v. H.
+der Anschaffungskosten nicht anerkannt werden. Es sind deshalb nicht
+40 v. H. der Anschaffungskosten = 3.200 DM, sondern 5.400
+DM als Teilwert anzusetzen.</lxbase:a><lxbase:a>Die Überprüfung der Teilwertermittlung bei
+den geringwertigen Wirtschaftsgütern des beweglichen Anlagevermögens
+bereitet auf Grund der in den Bilanzunterlagen angegebenen Anschaffungskosten
+bzw. Herstellungskosten solcher Wirtschaftsgüter in aller
+Regel keine Schwierigkeiten. Sollte der in der Vermögensaufstellung
+ausgewiesene Wertansatz für diese Wirtschaftsgüter
+fraglich erscheinen, ist eine Überprüfung der
+Bilanzunterlagen auf jeden Fall angebracht.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900060">gg) Für Werkzeuge,
+Ausrüstungsgegenstände und sonstige Hilfsmittel</lxbase:ueberschrift><lxbase:a>kommt nach Abschn. 51 Abs. 3 VStR eine Bewertung nach Durchschnittsätzen je
+Kopf der mit gleichartigen Arbeiten beschäftigten Arbeitern
+in Betracht. In der Regel handelt es sich hierbei um Gegenstände,
+für die in der Steuerbilanz ein Festwert gebildet ist.</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900008">Tagesordnungspunkt III/3
+Ermittlung des Teilwerts für Erzeugnisbestände
+(Abschn. 52 a VStR)</lxbase:ueberschrift><lxbase:a>Der Teilwert für Erzeugnisbestände (im eigenen
+Betrieb hergestellte unfertige und fertige Wirtschaftsgüter)
+entspricht ihren Wiederherstellungskosten (Abschn. 52 Abs. 1 Satz
+1 VStR).</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Nach Abschn. 52 a Abs. 1 Satz
+3 (des Entwurfs der) VStER 1980 sind bei der Ermittlung des Teilwerts
+der Erzeugnisbestände</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>neben den nach
+Abschn. 33 EStR 1978 angesetzten Herstellungskosten</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>noch die bis zum Stichtag angefallenen Vertriebskosten
+(einschl. der Kosten für den Transport in ein Auslieferungslager
+und für die Verpackung) zu berücksichtigen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Der in den bisherigen Richtlinien verwendete Begriff "im
+Fertigungsbereich angefallene Verwaltungskosten" war widersprüchlich
+und ungewöhnlich; denn im Fertigungsbereich angefallene
+Kosten sind entweder Fertigungskosten oder Fertigungsgemeinkosten.
+Nunmehr ist klargestellt, daß bei der Teilwertermittlung
+die Verwaltungskosten nur insoweit erfaßt werden, als sie auch
+bereits in dem nach Abschn. 33 EStR ermittelten Wert enthalten sind. Die
+darüber hinaus angefallenen Verwaltungskosten bleiben unberücksichtigt.
+Die bis zum Stichtag eingetretenen Preissteigerungen sind nicht
+zu berücksichtigen (HMdF-Erlaß vom 28. Juni 1978
+- <lxbase:az normform="S3231A45IIB43" manuell="nein">S-3231 A - 45 - II B 43</lxbase:az>).</lxbase:a><lxbase:a>Die bis zum Stichtag angefallenen Vertriebskosten sind bei der
+Ermittlung des Teilwerts der Erzeugnisse zu berücksichtigen,
+da sie auch ein Erwerber des ganzen Unternehmens im Rahmen des Gesamtkaufpreises
+aufbringen müßte.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Nach Abschn. 52 a Abs. 2 VStR kann die
+Ermittlung des Teilwerts für Erzeugnisbestände
+auch in der Weise durchgeführt werden, daß die
+in der Steuerbilanz dafür ausgewiesenen Wertansätze
+um prozentuale Zuschläge erhöht werden, die den
+Verhältnissen des Betriebs Rechnung tragen.</lxbase:a><lxbase:a>Das Finanzamt Dillenburg hat berichtet, daß aufgrund
+von im Rahmen von Betriebsprüfungen gesammelten Erfahrungen
+in den Fällen, in denen entsprechende Kalkulationsunterlagen
+im Betrieb nicht vorhanden sind, ein Zuschlag von 5 v. H. vorgenommen
+wird.</lxbase:a><lxbase:a>Welche Erfahrungen bestehen bei anderen Finanzämtern.?</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Nach den Erfahrungen der Finanzämter
+ist wie folgt zu verfahren: </lxbase:a><lxbase:a>Da bei der Ermittlung des Teilwerts der Erzeugnisbestände
+neben den nach Abschn. 33 EStR angesetzten Herstellungskosten noch
+die bis zum Stichtag angefallenen Vertriebskosten zu berücksichtigen
+sind, können die Wertansätze der Steuerbilanz
+nicht in die Vermögensaufstellung übernommen werden.
+Sofern im Einzelfall keine Anhaltspunkte für einen höheren
+oder niedrigeren Zuschlag (Zahl und Entfernung der Auslieferungslager,
+Art der Verpackung) vorliegen, sollten die in der Steuerbilanz ausgewiesenen Wertansätze
+um 5 v. H. erhöht werden.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900009">Tagesordnungspunkt III/4
+Vermögensteuerliche Behandlung von Nießbrauchsrechten
+an</lxbase:ueberschrift><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Anteilen einer Personengesellschaft</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Anteilen einer Kapitalgesellschaft (insbesondere
+an einer GmbH)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>einem Wertpapierdepot</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:kapitel><lxbase:ueberschrift id="D005772900010">Allgemeines </lxbase:ueberschrift><lxbase:a>Gegenstand des Nießbrauchs (§ 1030 BGB) kann
+ein Grundstück, eine bewegliche Sache, ein Recht (§ 1068
+BGB) oder auch das Vermögen einer Person sein (§ 1085
+BGB). Die Bestellung des Nießbrauchs vermittelt das unvererbliche
+und unveräußerliche (grundsätzlich nicht übertragbare)
+dingliche (es belastet den Nießbrauchsgegenstand als solchen)
+Recht, die Nutzungen aus dem belasteten Gegenstand zu ziehen, soweit
+der Nießbrauch nicht durch den Ausschluß einzelner
+Nutzungen beschränkt ist (§ 1030 Abs. 2 BGB).
+Allerdings kann der Nießbraucher, soweit nichts anderes
+bestimmt ist, die Ausübung des Rechts einem anderen überlassen
+(§ 1059 BGB).</lxbase:a><lxbase:a>Der Nießbrauch entsteht in der Regel durch ein Rechtsgeschäft</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>an beweglichen
+Sachen durch Einigung und Übergabe (§ 1032 BGB)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>an Grundstücken durch Einigung
+und Eintragung im Grundbuch (§ 873 BGB)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>an Rechten nach den für ihre Übertragung
+geltenden Vorschriften (§ 1069 Abs. 1 BGB).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Der Nießbrauch endet durch Ablauf der vereinbarten Frist,
+Auflösung der juristischen Person, Aufgabe oder Tod des
+Berechtigten (§§ 875, 1061, 1062, 1064 BGB).</lxbase:a><lxbase:a>Nießbrauchs- und Nutzungsrechte sind bewertungsfähige
+Wirtschaftsgüter und unterliegen damit auch der Vermögensteuer.
+Soweit sie nicht zu einer anderen Vermögensart (Betriebsvermögen)
+gehören, sind sie beim sonstigen Vermögen gemäß § 110
+Abs. 1 Nr. 4 BewG mit dem Kapitalwert zu berücksichtigen.
+Der Kapitalwert eines Nießbrauchsrechts ergibt sich gemäß §§ 13
+und 14 BewG durch Vervielfältigung des Jahreswerts. Als
+Jahreswert ist der Betrag anzusehen, der sich aufgrund der Nutzungen
+nach Abzug der mit dem belasteten Wirtschaftsgut im Zusammenhang
+stehenden vom Nutzenden zu tragenden Aufwendungen ergibt. Bei der
+Ermittlung des Jahreswerts ist zu beachten, daß Nutzungen
+und Leistungen, die nicht in Geld bestehen, mit den üblichen
+Mittelpreisen des Verbrauchsorts anzusetzen sind (§ 15
+Abs. 2 BewG). Bei Nutzungen und Leistungen, die in ihrem Betrag
+ungewiß sind oder schwanken, ist als Jahreswert der Betrag
+zugrunde zu legen, der in Zukunft im Durchschnitt der Jahre voraussichtlich
+erzielt werden wird (§ 15 Abs. 3 BewG, Abschn. 61 Abs. 2
+VStR). Nach § 16 BewG kann bei der Ermittlung des Kapitalwerts
+der Nutzungen eines Wirtschaftsguts der Jahreswert dieser Nutzungen
+nicht mehr als den achtzehnten Teil des Werts betragen, der sich
+nach den Vorschriften des Bewertungsgesetzes für das genutzte
+Wirtschaftsgut ergibt. Außerdem gilt für die vermögensteuerliche
+Erfassung aller Ansprüche auf Renten oder andere Nutzungen
+und Leistungen, daß sie insoweit nicht zum sonstigen Vermögen gehören,
+als der Jahreswert der Nutzungen und Leistungen insgesamt 4.800 DM
+nicht übersteigt, wenn der Berechtigte über 60
+Jahre alt oder voraussichtlich für mindestens 3 Jahre erwerbsunfähig
+ist (§ 111 Nr. 9 BewG).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900011">Zu a) Nießbrauch
+an Anteilen einer Personengesellschaft</lxbase:ueberschrift><lxbase:a>Da Gesellschafter einer Personengesellschaft die Ansprüche,
+die ihnen aus dem Gesellschaftsverhältnis gegeneinander
+zustehen, grundsätzlich nicht übertragen können
+(§ 717 BGB i. V. mit § 1069 Abs. 2 BGB) und ein
+Gesellschafter einer Personengesellschaft im allgemeinen auch nicht über
+seinen Anteil am Gesellschaftsvermögen und an den einzelnen
+dazugehörenden Gegenständen verfügen
+kann (gesamthänderische Bindung, § 719 BGB), ist
+ein Nießbrauch am Gesellschaftsvermögen grundsätzlich
+unzulässig. Es kann jedoch im Gesellschaftsvertrag die Übertragung
+der Mitgliedschaftsrechte zugelassen oder sogar die Bestellung eines
+Nießbrauchs ausdrücklich gestattet werden (§ 105
+Abs. 2 i. V. mit § 109 HGB zur OHG, § 161 Abs.
+2 HGB zur KG).</lxbase:a><lxbase:a>Ist eine dieser Voraussetzungen erfüllt und wird ein
+Nießbrauch bürgerlich-rechtlich wirksam an diesem
+Gesellschaftsanteil bestellt und übt der Nießbraucher
+tatsächlich alle Rechte, wie z. B. die Verwaltungs- und
+Nutznießungsrechte, Stimmrecht, und alle Pflichten des
+Anteilsinhabers (z. B. Einlageverpflichtung), aus, so tritt der
+Nießbraucher an die Stelle des bisherigen Gesellschafters,
+ohne jedoch wirtschaftlicher Eigentümer zu werden.</lxbase:a><lxbase:a>Die Bestellung des Nießbrauchs ist dann grundsätzlich
+steuerlich anzuerkennen. Der Nießbraucher ist in diesen
+Fällen einkommensteuerlich als Mitunternehmer anzusehen
+und ihm fließen Einkünfte aus Gewerbebetrieb zu
+(BFH vom 11. 4. 1973, <lxprod:doknr-verw linkend="HT0005938">BStBl II S. 528</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Bewertungsrechtlich und vermögensteuerlich ist der Nießbrauch
+am Gesellschaftsanteil gemäß § 110 Abs.
+1 Nr. 4 BewG beim sonstigen Vermögen zu erfassen, soweit
+er nicht zu einer anderen Vermögensart (Betriebsvermögen) gehört.</lxbase:a><lxbase:a>Die Bewertung des Nießbrauchs richtet sich nach den §§ 13
+bis 16 BewG. Bei der Ermittlung des Kapitalwerts ist von dem Jahreswert
+der tatsächlichen Nutzungen auszugehen. Zu der Frage, welche
+Nutzungen einem Nießbraucher an einem Gesellschaftsanteil
+einer Personengesellschaft zustehen, hat der BGH in dem Urteil vom
+20. 4. 1972 - <lxprod:doknr-verw linkend="HT0077015">II
+ZR 143/69</lxprod:doknr-verw> - <lxbase:lit-fs normform="BB-1972-0770" manuell="nein">BB 1972 S. 770</lxbase:lit-fs> - Stellung genommen.
+Danach gebühren dem Nießbraucher einer dem Nießbrauch
+unterliegenden gesellschaftlichen Beteiligung nicht die Gewinne
+des Unternehmens schlechthin, sondern nur diejenigen Gewinnanteile,
+die der Gesellschafter selbst im Rahmen von Gesetz, Gesellschaftsvertrag
+und festgestelltem Jahresabschluß zu entnehmen berechtigt
+ist. Als bestimmungsgemäßer dem Nießbraucher
+zustehender Ertrag (§§ 1030, 100, 99 Abs. 2 BGB)
+ist demgemäß nur der von den Gesellschaftern nach
+Bildung etwaiger Rücklagen als Überschuß erklärte
+und damit zur Ausschüttung freigegebene Anteil am Gesellschaftsvermögen
+zu verstehen.</lxbase:a><lxbase:a>Auch der BFH geht in dem Urteil vom 4. 6. 1980 - <lxprod:doknr-verw linkend="HT0055846">BStBl II S.
+608</lxprod:doknr-verw> - davon aus, daß der entnahmefähige
+Gewinnanteil als Jahreswert eines Nutzungsrechts an einem Gesellschaftsanteil
+zugrundezulegen ist. Unter entnahmefähigem Gewinnanteil
+ist jedoch nicht nur der Gewinnanteil zu verstehen, der zur Auszahlung
+kommt, sondern auch der Anteil, der auf Verrechnungs- oder Darlehenskonten
+gutgeschrieben wird. Allerdings sind die Teile des Gewinnanteils,
+die dem bisherigen Gesellschafter aufgrund persönlicher
+Leistungen zustehen (z. B. wegen einer Tätigkeit für
+die Gesellschaft) auszuscheiden. Demgegenüber sind, wie
+auch Gürsching-Stenger, Kommentar zum BewG und VStG, Anm.
+7 b zu § 15 BewG meinen, auf den Gesellschaftsanteil entfallende
+freie Rücklagen, die z. B. für Erweiterungsinvestitionen
+gebildet werden, dem Jahreswert des Nießbrauchers zuzurechnen.</lxbase:a><lxbase:a>Da die entnahmefähigen Gewinnanteile regelmäßig
+schwanken, ist als Jahreswert der Betrag zugrundezulegen, der in
+Zukunft im Durchschnitt der Jahre voraussichtlich erzielt werden
+wird (§ 15 Abs. 3 BewG). Weder § 15 Abs. 3 BewG
+noch Abschn. 61 Abs. 2 VStR sagen jedoch etwas darüber
+aus, welche Anzahl von Jahren bei der Schätzung des Durchschnittsbetrages
+zugrundezulegen ist.</lxbase:a><lxbase:a>Gürsching-Stenger, a. a. O., Anm. 20 zu § 15
+BewG, führen dazu aus, daß es der BFH gebilligt
+habe, daß der Jahreswert schwankender Nutzungen und Leistungen
+aus dem rechnerischen Durchschnitt der Bezüge der letzten
+3 Jahre vor dem Veranlagungszeitpunkt (bzw. Feststellungszeitpunkt)
+abgeleitet werde, wenn am Stichtag nicht feststehe, daß die
+zukünftige Entwicklung anders verlaufen werde. Rössler-Troll-Langner,
+Kommentar zum BewG und VStG, Anm. 4 zu § 15 BewG, kommen
+zu dem gleichen Ergebnis, indem sie auf Abschnitt 78 Abs. 1 VStR
+hinweisen, nach dem ebenfalls bei der Ermittlung des gemeinen Werts
+von nichtnotierten Anteilen an Kapitalgesellschaften der voraussichtliche
+künftige Jahresertrag aus den Betriebsergebnissen der letzten
+3 Jahre vor dem Stichtag herzuleiten sei.</lxbase:a><lxbase:a>Diesen Auffassungen ist zu folgen unter der Einschränkung,
+daß nach dem Stichtag eingetretene, am Stichtag jedoch
+schon voraussehbare Umstände berücksichtigt werden
+müssen (BFH vom 13. 1. 1956, <lxprod:doknr-verw linkend="HT0007006">BStBl III
+S. 62</lxprod:doknr-verw>, und vom 9. 9. 1960, <lxprod:doknr-verw linkend="HT0006913">BStBl 1961
+III S. 18</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Verluste können bei der Ermittlung des Jahreswerts nur
+berücksichtigt werden, soweit der Nießbraucher
+dafür vereinbarungsgemäß in Anspruch
+genommen wird (z. B. durch Verrechnung mit zukünftigen
+Gewinnanteilen).</lxbase:a><lxbase:a>Nach § 16 BewG darf bei der Ermittlung des Kapitalwerts
+der Nutzungen eines Wirtschaftsgut der Jahreswert dieser Nutzungen
+nicht mehr als den achtzehnten Teil des Werts betragen, der sich
+nach den Vorschriften des Bewertungsgesetzes für das genutzte
+Wirtschaftsgut ergibt.</lxbase:a><lxbase:a>Bei einem Nießbrauch an einem Gesellschaftsanteil einer
+Personengesellschaft darf daher der Jahreswert des Nießbrauchs
+nicht mehr als den achtzehnten Teil des Anteils am Einheitswert
+des Betriebsvermögens betragen.</lxbase:a><lxbase:a>Gleiches gilt, wenn lediglich ein obligatorisches (schuldrechtliches)
+Nutzungsrecht an einem Gesellschaftsanteil vereinbart ist (vgl.
+BFH vom 4. 6. 1980, a. a. O.) und ein enger rechtlicher und wirtschaftlicher
+Zusammenhang zwischen den Gewinnansprüchen und dem genutzten
+Wirtschaftsgut (Gesellschaftsanteil) besteht.</lxbase:a><lxbase:a>Von dem Nießbrauch am Gesellschaftsanteil einer Personengesellschaft
+ist zivilrechtlich zu unterscheiden</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>der Nießbrauch
+an den aus dem Gesellschaftsanteil fließenden Ansprüchen auf
+Auszahlung</lxbase:a><lxbase:a>aa) der Gewinnanteile (während des Bestehens der Gesellschaft),</lxbase:a><lxbase:a>bb) des Abfindungsguthabens (beim Ausscheiden des Gesellschafters),</lxbase:a><lxbase:a>cc) des Auseinandersetzungsguthabens (bei Auflösung
+der Gesellschaft)</lxbase:a><lxbase:a>und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>der Nießbrauch am Gewinnstammrecht
+(vgl. BFH vom 11. 4. 1973 a. a. O.).</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Diese Vermögensrechte sind ohne weiteres übertragbar
+(abtretbar, verpfändbar und pfändbar) und mit
+einem Nießbrauch belastbar (§§ 717 Satz
+2, 1069 Abs. 2 BGB).</lxbase:a><lxbase:a>Siebert (Nießbrauch am Gewinnrecht des Gesellschafters
+einer offenen Handelsgesellschaft, <lxbase:lit-fs normform="BB-1956-1126" manuell="nein">BB 1956 S. 1126</lxbase:lit-fs>, ebenso Jansen / Jansen "Der
+Nießbrauch im Zivil- und Steuerrecht", 3. Auflage,
+NWB-Verlag, Anm. 208) vertritt die Auffassung, daß eine
+Nießbrauchsbestellung an einzelnen - bereits fälligen
+oder künftigen - Gewinnansprüchen zur Folge hätte, daß der
+Nießbraucher nicht die Forderung auf den Gewinn und die
+entsprechend auf diese Forderungen gezahlten Beträge erwürbe,
+sondern die Gewinnforderungen selbst Gegenstand des Nießbrauchs
+wären und deshalb nur die sich aus der einzelnen Gewinnforderung
+ergebenden Nutzungen (z. B. Zinsen) Früchte des Nießbrauchs
+seien. Er sieht daher in der Bestellung eines Nießbrauchs
+am Gewinnstammrecht die einzige Möglichkeit, einen Nichtgesellschafter
+(Dritten) als Nießbraucher nur gewinnmäßig
+an der Gesellschaft zu beteiligen, ohne einen Nießbrauch
+an dem gesamten Gesellschaftsanteil bestellen zu müssen.</lxbase:a><lxbase:a>Auch Herrmann-Heuer, Kommentar zum EStG und KStG, Anm. 27 h Abs.2
+zu § 15 EStG, unterscheiden lediglich zwischen einem Nießbrauch
+an der Beteiligung (oder am Kapitalanteil) und dem Nießbrauch
+am Gewinnanspruch, dem Anspruch auf das Auseinandersetzungsgut haben
+(und wohl auch Abfindungsguthaben), bei dem der Berechtigte die
+Nutzungen in Form von Zinsen und dgl. zieht, den Gewinn (bzw. die
+Guthaben) aber selbst nicht behalten darf, es sei denn, daß er
+ihm geschenkt worden ist, und dem Reingewinn-Nießbrauch
+oder den Nießbrauch am Gewinnstammrecht.</lxbase:a><lxbase:a>Demgegenüber hält es der BFH in dem Urteil
+vom 7. 2. 1973, <lxprod:doknr-verw linkend="HT0005428">BStBl
+II S. 493</lxprod:doknr-verw>, noch für möglich, einen Nießbrauch am
+sogenannten Gewinnbezugsrecht zu bestellen mit der Folge, daß der Berechtigte
+die aus dem Gesellschaftsanteil resultierenden Gewinnansprüche beanspruchen
+könne. Auch in dem Urteil vom 28. 11. 1974, <lxprod:doknr-verw linkend="HT0018304">BStBl 1975
+II S. 498</lxprod:doknr-verw>, 500, geht der BFH noch davon aus, daß ein "Gewinnbezugsrecht" eines
+Gesellschafters Gegenstand des Nießbrauchs sein könne.
+Darunter versteht er offensichtlich einen "Nießbrauch
+am Anspruch eines Gesellschafters auf seinen Gewinnanteil, der als
+Nießbrauch an einem Recht (§ 1068 BGB) eine dingliche
+Belastung dieses Rechts darstellt".</lxbase:a><lxbase:a>Wie oben ausgeführt, hätte ein Nießbrauch
+am Anspruch auf den Gewinnanteil jedoch zur Folge, daß den
+Berechtigten als Nutzungen lediglich die Zinsen und dgl. zustehen.</lxbase:a><lxbase:a>Es ist daher zweifelhaft, welche Nutzungen einem Nießbraucher
+am Gewinnanspruch eines Gesellschaftsanteils, der ggf. als Gewinnbezugsrecht
+bezeichnet wird, zustehen.</lxbase:a><lxbase:a>Herrmann-Heuer, a. a. O., sehen offensichtlich in einem Nießbrauch
+am "Gewinnbezugsrecht", bei dem der Berechtigte
+als Nutzungen die Gewinnanteile beanspruchen kann, einen Nießbrauch
+am Gewinnstammrecht, indem sie auf das o. a. BFH-Urteil vom 7. 2.
+1973 verweisen, in dem nur Gewinnbezugsrechte erwähnt sind.</lxbase:a><lxbase:a>Ob es dagegen bei einer Personengesellschaft ein von der Mitgliedschaft
+zu trennendes "Gewinnstammrecht" gibt, das selbständig
+mit einem Nießbrauch als dingliches Recht belastet werden
+kann, ist zivilrechtlich umstritten.</lxbase:a><lxbase:a>Dazu hat der BGH in dem Urteil vom 12. 12. 1974 - II ZR 166/722
+- <lxprod:doknr-verw linkend="HT0180107">BB 1975 S.
+295</lxprod:doknr-verw> - ausgeführt, daß es dahingestellt
+bleiben könne, ob es ein von der Mitgliedschaft zu trennendes
+Gewinnstammrecht gibt, das selbständig mit einem Nießbrauch belastet
+werden könnte. Erkenne man eine solche Möglichkeit
+an, so verschafft sie dem Nießbraucher jedenfalls nicht über
+den gewinnbezug hinaus zugleich Mitverwaltungsbefugnisse, wie sie
+einem gesellschafter als Ausschluß seiner Mitgliedschaft
+zustehen. Der BFH hat in dem Urteil vom 13. 5. 1976, <lxprod:doknr-verw linkend="HT0029619">BStBl II S.
+592</lxprod:doknr-verw>, unter Hinweis auf das vorgenannte BGH-Urteil die Ansicht
+vertreten, daß es kein von der Mitgliedschaft zu trennendes
+Gewinnstammrecht gebe, das selbständig mit einem Nießbrauch belastet
+werden kann. Der erkennende Senat brauchte jedoch dazu nicht abschließend
+Stellung zu nehmen. Ebenso konnte er offenlassen, welche zivilrechtlichen
+Rechtswirkungen einem Nießbrauch am Gewinnstammrecht im einzelnen
+beizumessen wären, insbesondere ob (wie bei einem Nießbrauch
+an den einzelnen Gewinnansprüchen) dem Nießbraucher
+etwa nur die Nutzungen der Gewinnansprüche bzw. der zu
+ihrer Erfüllung geleisteten Geldbeträge (also z.
+B. die Zinsen auf diese Gewinnansprüche oder Geldbeträge)
+oder (wie bei einer Abtretung) diese Gewinnansprüche selbst
+(...) zustünden und endgültig verblieben.</lxbase:a><lxbase:a>Unter Berücksichtigung der angeführten Gründe
+gelangte der BFH zu der Entscheidung, daß der Nießbrauch
+am Gewinnstammrecht eines Anteils an einer Personengesellschaft
+- unterstellt, daß dieser zivilrechtlich überhaupt
+rechtswirksam begründbar ist - seinem zivilrechtlichen
+und wirtschaftlichen gehalt nach so weitgehend einer Vorausabtretung
+künftiger Gewinnansprüche entspreche, daß dieser
+Nießbrauch einkommensteuerrechtlich wie eine Vorausabtretung
+zu bewerten sei. Bei einer Bestellung eines Nießbrauchs
+am Gewinnstammrecht verbleibe daher die Einkommensquelle ebenso
+beim Nießbrauchsbesteller, wie sie auch bei Abtretung künftiger
+Gewinnansprüche weiterhin in den Händen des Abtretenden
+sei.</lxbase:a><lxbase:a>Bis zur Klärung der angesprochenen Zweifelsfragen ist
+vermögensteuerlich wie folgt zu verfahren:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Wie oben ausgeführt,
+ist der Nießbrauch am Gesellschaftsanteil einer Personengesellschaft
+vermögensteuerlich zu erfassen. Der Ermittlung des Kapitalwerts
+des Nießbrauchsrechts ist der Jahreswert zugrundezulegen,
+der sich unter Berücksichtigung der Begrenzung des § 16
+BewG (achtzehnter Teil des jeweiligen Anteils am Einheitswert des
+Betriebsvermögens) ergibt.</lxbase:a><lxbase:a>Selbst wenn ein Nutzungsrecht an einem Gesellschaftsanteil nur schuldrechtlicher
+Natur sein sollte, ist die Begrenzung des § 16 BewG beim Jahreswert
+zu beachten, wenn zwischen den Nutzungen und dem genutzten Wirtschaftsgut
+ein enger rechtlicher und wirtschaftlicher Zusammenhang besteht
+(vgl. BFH-Urteile vom 24. 4. 1970, <lxprod:doknr-verw linkend="HT0006678">BStBl II S.
+591</lxprod:doknr-verw>, und vom 20. 1. 1978, <lxprod:doknr-verw linkend="HT0039838">BStBl II S.
+257</lxprod:doknr-verw>, und vom 4. 6. 1980, a. a. O.).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Wird ein Nießbrauch am Anspruch
+auf den Gewinnanteil in der Weise eingeräumt, daß dem
+Nießbraucher die Nutzungen des Anspruchs auf den Gewinnanteil
+bzw. der zu ihrer Erfüllung geleisteten Geldbeträge
+(also z. B. die Zinsen auf diese Gewinnansprüche oder die
+Geldbeträge) zustehen, ist als Jahreswert die Summe der
+Zinsen bzw. der zu ihrer Erfüllung geleisteten Geldbeträge
+unter Berücksichtigung des § 15 Abs. 3 BewG zugrundezulegen.</lxbase:a><lxbase:a>Bei der Begrenzung des Jahreswerts der Nutzungen nach § 16
+BewG ist jedoch von dem Kapitalwert des Anspruchs auf den Gewinnanteil
+(berechnet nach den o. a. Ausführungen zum Nießbrauch
+am Gesellschaftsanteil) auszugehen, da es sich bei dem Anspruch
+auf den Gewinnanteil um ein von der Mitgliedschaft trennbares Recht
+handelt. Der Jahreswert der Nutzungen darf demnach nicht mehr als
+den achtzehnten Teil des Kapitalwerts des Anspruchs auf Gewinnanteil
+betragen.</lxbase:a><lxbase:a>Handelt es sich lediglich um eine schuldrechtliche Nutzung des
+Anspruchs auf den Gewinnanteil sind die entsprechenden Ausführungen
+zu 1. sinngemäß anzuwenden. Ein enger rechtlicher
+und wirtschaftlicher Zusammenhang dürfte jedoch nur dann
+gegeben sein, wenn z. B. die Gewinnanteile auf einem gemeinsamen
+Konto angelegt sind oder wenn ihm Einflußmöglichkeiten
+auf die Anlage der Gewinnanteile und damit auf die Höhe
+der Nutzungen (Zinsen) eingeräumt worden sind, der Nießbraucher
+aber nur berechtigt ist, über die Zinsen zu verfügen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Würde ein Nießbrauch
+am Abfindungsguthaben oder am Auflösungsguthaben eingeräumt,
+kommt der Berechtigte erst dann in den Genuß der Nutzungen,
+wenn der Gesellschafter ausgeschieden bzw. die Gesellschaft aufgelöst worden
+ist. Die Ansprüche sind aufschiebend bedingt (§ 4
+BewG) und können erst dann berücksichtigt werden,
+wenn die Bedingung eingetreten ist. Ist die Bedingung eingetreten,
+gelten für die vermögensteuerliche Behandlung der
+Nutzungsansprüche die Ausführungen zu 2. entsprechend.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>Da - wie oben ausgeführt - die
+Zulässigkeit eines Nießbrauchs an einem Gewinnstammrecht
+zivilrechtlich zumindest umstritten bzw. nach Ansicht des BFH zu
+verneinen ist, ist ein solcher Anspruch vermögensteuerlich
+nicht als Nießbrauchsrecht zu erfassen.</lxbase:a><lxbase:a>Sofern überhaupt davon ausgegangen werden kann, daß ein
+nur schuldrechtlicher Anspruch auf die Gewinnanteile eine Nutzung
+des Gewinnstammrechts darstellt, käme die Begrenzung des
+Jahreswerts nach § 16 BewG nicht zum Zuge, weil ein enger
+rechtlicher und wirtschaftlicher Zusammenhang unter Berücksichtigung
+der Ausführungen in dem BFH-Urteil vom 13. 5. 1976, a.
+a. O., verneint werden muß.</lxbase:a><lxbase:a>Die Ansprüche aus einem sogenannten Nießbrauch
+am Gewinnstammrecht sind daher wie wiederkehrende Leistungen zu
+bewerten.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a>Wurde zwischen den Beteiligten ein Nießbrauch
+am sogenannten Gewinnbezugsrecht vereinbart, bei dem der Nießbraucher
+als "Nutzungen" die Gewinnanteile beanspruchen
+kann, ist nach dem o. a. Ausführungen davon auszugehen,
+daß es sich um Ansprüche aus dem Gewinnstammrecht
+oder um gleichgeartete Ansprüche handelt (vgl. dazu auch
+das BFH-Urteil vom 4. 6. 1980, a. a. O.). Die vermögensteuerliche
+Behandlung soll bis zum Ergehen einer einschlägigen Entscheidung
+entsprechend den Ausführungen zu 4. erfolgen (vgl. zu 4.
+und 5. auch Rössler-Troll-Langner, a. a. O., Anm. 4 zu § 16
+BewG und im Ergebnis auch Gürsching-Stenger, Anm. 16 bis
+20 zu § 16 BewG).</lxbase:a><lxbase:a>Ergänzend ist anzumerken, daß - soweit die
+zivilrechtlichen Voraussetzungen erfüllt sind (z. B. Zustimmung
+der Gesellschafter) - die jeweiligen Ansprüche durch entsprechende
+Vereinbarungen auf bestimmte Quoten der Ansprüche beschränkt
+werden können.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Sowohl die (dingliche) Nießbrauchsverpflichtung als
+auch die schuldrechtliche Verpflichtung, einem Dritten ein Wirtschaftsgut
+zur Nutzung zu überlassen, sind Lasten, die gemäß § 118
+Abs. 1 Nr. 1 BewG vom Rohvermögen abgezogen werden können.
+War die Begrenzung des § 16 BewG anzuwenden, gilt sie sowohl
+beim Nutzungsberechtigten als auch beim Nutzungsverpflichteten (vgl. BFH-Urteil
+vom 20. 1. 1978, a. a. O.).</lxbase:a><lxbase:a>Gehört ein Nießbrauchs- oder sonstiges Nutzungsrecht
+oder eine Nießbrauchs- oder sonstige Nutzungsverpflichtung
+zu einem Betriebsvermögen, erfolgt die Bewertung - wie
+oben dargestellt - sowohl als Besitz- als auch als Schuldposten mit
+den sich nach den §§ 13 ff BewG in Verbindung
+mit Abschnitt 61 bis 63 VStR ergebenden Kapitalwerten (Abschn. 42
+Abs. 2 VStR).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900012">b) Nießbrauch
+an Anteilen einer Kapitalgesellschaft (insbesondere an einer GmbH)</lxbase:ueberschrift><lxbase:a>Während dem Nießbraucher an einem Aktienpaket
+nur die ausgeschütteten Dividenden zustehen, die den Jahreswert
+darstellen, kann bei einem Nießbrauch an einem GmbH-Anteil
+nicht ohne weiteres die Dividende des Anteils, die in dem Jahr des
+Erwerbs verteilt wurde, als Durchschnittsbetrag angenommen werden;
+vielmehr ist auch hier der in zukunft voraussichtlich erzielbare Durchschnittsertrag
+zu schätzen. Auch hier soll Abschn. 78 Abs. 1 VStR sinngemäß Anwendung
+finden, so daß als Jahreswert der durchschnittliche Ertrag aus
+den letzten drei Jahren vor dem Stichtag der Ermittlung des Kapitalwerts abzuleiten
+ist.</lxbase:a><lxbase:a>Die Begrenzung des Jahreswerts nach § 16 BewG richtet
+sich bei durch Nießbrauch belasteten Wertpapieren und Schuldbuchforderungen,
+die am Stichtag an einer deutschen Börse zum amtlichen
+Handel zugelassen sind, nach dem Börsenkurs (§ 11
+Abs. 1 i. V. mit § 113 BewG) und bei Anteilen an Kapitalgesellschaften,
+die nicht unter § 11 Abs. 1 BewG fallen, nach dem gemeinen
+Wert (§ 11 Abs. 2 BewG).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900013">c) Nießbrauch
+an einem Wertpapierdepot </lxbase:ueberschrift><lxbase:a>Für die Ermittlung des Jahreswerts des Nießbrauchs
+an einem Wertpapierdepot gelten die o. a. Grundsätze entsprechend.
+Soweit in dem Wertpapierdepot auch Papiere mit schwankenden Erträgen
+enthalten sind, ist der Jahreswert aus dem Durchschnittsbetrag nach § 15
+Abs. 3 BewG abzuleiten.</lxbase:a><lxbase:a>Die Begrenzung des § 16 BewG ist anteilig nach dem jeweiligen
+sich nach den Vorschriften des Bewertungsgesetzes für die
+in dem Wertpapierdepot enthaltenen Papiere ergebenden Wert zu ermitteln.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900014">Tagesordnungspunkt III/5
+Bewertung von Nießbrauchsrechten und obligatorischen Gewinnbezugsrechten
+an gewerblichen Betrieben und an Gesellschaftsanteilen</lxbase:ueberschrift><lxbase:a><lxbase:fett>Zu den Sachverhalten:</lxbase:fett></lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Die Bestellung eines
+Nießbrauchs vermittelt das unvererbliche und unveräußerliche
+(grundsätzlich nicht übertragbare) dingliche Recht,
+die Nutzungen aus dem belasteten Gegenstand zu ziehen. Aus dem Testament
+ergibt sich daher lediglich die Verpflichtung für die Erben,
+der Berechtigten den Nießbrauch einzuräumen. Diese
+Verpflichtung der Erben aufgrund des Testaments stellt keine zivilrechtlich
+wirksame Bestellung des Nießbrauchs dar.</lxbase:a><lxbase:a>Liegen jedoch die Voraussetzungen für eine bürgerlich-rechtlich
+zulässige Bestellung des Nießbrauchs an dem Gesellschaftsanteil
+vor (Vereinbarung im Gesellschaftsvertrag über die Übertragbarkeit
+von Mitgliedschaftsrechten oder die Bestellung eines Nießbrauchs
+und Vereinbarung über den Nießbrauch zwischen
+den Beteiligten), gehört der Kapitalwert des Nießbrauchsrechts
+gemäß § 110 Abs. 1 Nr. 4 BewG zum sonstigen
+Vermögen. Der Kapitalwert ergibt sich durch Anwendung des
+aus Anlage 9 der VStR zu entnehmenden Vervielfältigers
+auf den Jahreswert. Als Jahreswert wird nach § 15 Abs.
+3 BewG der Betrag, der in Zukunft im Durchschnitt der Jahre voraussichtlich
+erzielt werden wird, unter entsprechender Anwendung des Abschn.
+78 Abs. 1 VStR angesetzt. Der Jahreswert des Nießbrauchs
+darf jedoch nicht mehr als den achtzehnten Teil des Werts betragen,
+der sich nach den Vorschriften des Bewertungsgesetzes für
+das genutzte Wirtschaftsgut ergibt (§ 16 BewG). Da das
+Nutzungsrecht nur auf einen Teil der Gesamtnutzung beschränkt
+ist, weil die Berechtigte nur über einen begrenzten Anteil
+am Gewinnanteil, der auf die belasteten Gesellschaftsanteile entfällt, verfügen
+darf, ermäßigt sich der Höchstbetrag
+des Jahreswerts gem. Abschn. 63 Satz 6 VStR entsprechend (Beispiel:
+Die Nutzungen sind auf 50 v. H. des jeweiligen Gewinnanteils beschränkt.
+Der sich gem. § 15 Abs. 3 BewG ergebende Jahreswert darf
+nicht mehr als 50 v. H. des jeweils maßgebenden Anteils
+am Einheitswert des Betriebsvermögens betragen).</lxbase:a><lxbase:a>Im übrigen wird auf die Ausführungen zu Tagesordnungspunkt
+III/4 verwiesen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Die Vereinbarung, dem bisherigen Unternehmer
+gegen Übergabe eines Einzelunternehmens ein obligatorisches
+Gewinnbezugsrecht in Höhe eines bestimmten v. H.-Satzes
+des Gewinns zu gewähren, stellt keine Einräumung eines
+Nutzungsrechts dar. Die Ansprüche in Höhe eines
+Teils der jährlichen Gewinne sind daher vermögensteuerlich
+als wiederkehrende Leistungen zu behandeln. § 16 BewG findet
+folglich keine Anwendung.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900015">Tagesordnungspunkt III/6
+Vermögensteuerliche Behandlung von nicht mehr angemessenen
+Gewinnanteilen bei Familien-, Personengesellschaften und stillen
+Gesellschaften</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D005772900016">a) Frage des Ansatzes
+einer überhöhten Gewinnbeteiligung</lxbase:ueberschrift><lxbase:a>Eine überhöhte Gewinnbeteiligung, die z. B.
+im Falle der Gründung einer Familiengesellschaft durch
+Aufnahme von Kindern des bisherigen Einzelgewerbetreibenden diesen
+als Beschenkten eine zusätzliche Neubildung von Vermögen
+zu Lasten des Gewinnanteils des Schenkers ermöglicht, ist
+als eine selbständige Schenkung anzusehen, die mit dem
+Kapitalwert anzusetzen ist (vgl. § 7 Abs. 6 ErbStG). Es
+soll dadurch eine steuerlich angemessene Erfassung dieses Vermögensvorteils
+sichergestellt werden.</lxbase:a><lxbase:a>Ein Übermaß an Gewinnbeteiligung liegt vor,
+wenn die Kapitalbeteiligung mit einer Gewinnbeteiligung ausgestattet
+wird, die insbesondere der Kapitaleinlage, der Arbeits- oder der
+sonstigen Leistung des Gesellschafters für die Gesellschaft
+nicht entspricht oder die einem fremden Dritten üblicherweise nicht
+eingeräumt würde. Die steuerlich anzuerkennende
+durchschnittliche Rendite soll in diesen Fällen nicht mehr
+als 15 v. H. des tatsächlichen Werts der Beteiligung betragen
+(vgl. auch Abschn. 138 Abs. 2 Satz 6 EStR).</lxbase:a><lxbase:a>Überhöhte Gewinnbeteiligungen können
+insbesondere bei Beteiligung minderjähriger Kinder an Personengesellschaften
+(Familiengesellschaften) gegeben sein.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><lxbase:a>Es ist zu unterstellen, daß eine zivilrechtlich gültige
+Vereinbarung vorliegt.</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="81*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Beteiligung (vom
+Vater geschenkt) - EW-Anteil =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>100.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>jährlicher
+Durchschnittsertrag =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>30.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>davon werden ertragsteuerlich
+anerkannt =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>15.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>verbleiben =</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>15.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Nach § 13 Abs. 2 2. Halbsatz BewG müßte
+eine Kapitalisierung dieses Betrages mit dem 9-fachen in Betrachtkommen.</lxbase:a></lxbase:beispiel><lxbase:a>Entsprechend der erbschaftsteuerlichen Regelung in den gleichlautenden
+Erlassen der obersten Finanzbehörden der Länder
+vom 20. Dezember 1974 in der Fassung vom 10. März 1976
+(<lxprod:doknr-verw linkend="HT0026173">BStBl I
+S. 145 ff</lxprod:doknr-verw>) ist für die Berechnung des Kapitalwerts,
+soweit keine anderen Anhaltspunkte für die Laufzeit gegeben
+sind, davon auszugehen, daß der überhöhte Gewinnanteil
+dem Bedachten für die Dauer von 5 Jahren in gleichbleibender Höhe
+zufließen wird.</lxbase:a><lxbase:a>Im vorliegenden Fall würde das bedeuten, daß unter
+Anwendung der Tabelle 2 in Anhang 2 a VStR 1977 der Kapitalwert
+für 1 DM 4,27 DM beträgt, so daß sich
+insgesamt ein Kapitalwert von 64.050 DM (15.000 x 4,27) ergeben
+würde.</lxbase:a><lxbase:a>Es handelt sich hierbei um sonstiges Vermögen des Kindes
+i. S. des § 110 Abs. 1 Nr. 4 BewG.</lxbase:a><lxbase:a>Zur Feststellung im Einzelfall wird es jedoch im wesentlichen
+auf die steuerliche Behandlung des Schenkers einer solchen Beteiligung
+ankommen. Ist bei ihm nach § 103 Abs. 1 BewG oder nach § 118
+Abs. 1 Nr. 1 BewG ein Abzug anerkannt, so muß beim Berechtigten
+auch ein Ansatz als sonstiges Vermögen erfolgen.</lxbase:a><lxbase:a>Wir bitten, in Zweifelsfällen und über gemachte
+Erfahrungen zu berichten.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900017">b) Vermögensteuerliche
+Behandlung von stillen Gesellschaften</lxbase:ueberschrift><lxbase:a>Die Einlage des stillen Gesellschafters ist als Kapitalforderung
+zu behandeln.</lxbase:a><lxbase:a>Gehört die Einlage zum Betriebsvermögen, kommt
+eine Bewertung nach § 109 Abs. 4 BewG in Betracht (Wertansatz
+nach den Grundsätzen über die steuerliche Gewinnermittlung).</lxbase:a><lxbase:a>Gehört die Einlage des stillen Gesellschafters zu seinem
+sonstigen Vermögen, hat die Bewertung derselben nach Abschn.
+56 Abs. 7 VStR zu erfolgen.</lxbase:a><lxbase:a>Die Verpflichtung des Unternehmers auf Grund einer typischen
+stillen Beteiligung ist dagegen in jedem Fall grundsätzlich
+mit dem Nennwert der Vermögenseinlage des stillen Gesellschafters
+zu bewerten (vgl. Abschn. 30 VStR).</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900018">Tagesordnungspunkt III/7
+Bewertung von Forderungen und Schulden</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D005772900019">a) Allgemeines zu Kapitalforderungen</lxbase:ueberschrift><lxbase:a>Kapitalforderungen sind auf die Zahlung von Geld gerichtet (Darlehensforderung,
+Guthaben usw.). Dazu gehören auch Forderungspapiere, wie
+Wechsel und Schecks. Aber auch festverzinsliche Wertpapiere rechnen
+dazu, wenn sie keinen Kurswert haben.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900020">b) Bewertungsmaßstab
+nach § 12 BewG</lxbase:ueberschrift><lxbase:a>Bewertungsmaßstab ist der Nennwert (§ 12 Abs.
+1 BewG). Dieser kommt bei Kapitalforderungen zur Anwendung, deren
+Verzinsung mit 4 - 10 v. H. erfolgt. Die Ermittlung des Restnennwertes
+verzinslicher, in gleichen Raten zu tilgender Kapitalforderungen
+(Annuitätendarlehen) hat mit Hilfe der Tabelle zur Ermittlung
+des Nennwerts bei einer Annuitätentilgung zu erfolgen (vgl.
+Kommentar "Bewertungs- und Vermögensteuergesetz" 11.
+Auflage von Rössler- Troll-Langner Seiten 145 und 146).</lxbase:a><lxbase:a>Besondere Umstände sind bei der Bewertung zu beachten
+(z. B. Hochverzinslichkeit oder Niedrigverzinslichkeit und für
+längere Zeit unkündbar - Abschn. 55 Abs. 3 und
+56 VStR).</lxbase:a><lxbase:a>Beispiel für eine niedrigverzinsliche Kapitalforderung,
+die in einem Betrag fällig wird:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="80*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Nennwert:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>125.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Zinssatz:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>2,25 v. H.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Bewertungsstichtag:
+1. 1. 1980</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>(Laufzeit: 32 Jahre
+7 1/2 Monate)</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Kapitalwert des Zinsverlustes:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Zinsverlust (1,75
+v. H. von 125.000 DM) =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>2.187,50 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="2" rowsep="0"><lxbase:a>Vervielfältiger
+nach Tabelle 2 (nachschüssig) des Anhangs 2 a der VStR</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>für 32 Jahre =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>14,904</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>für 33 Jahre =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>15,075</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Differenz =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>0,171</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a><lxbase:az normform="davon-15/24" manuell="nein">davon 15/24</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a> = 0,106</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Vervielfältiger
+für 32 Jahre 7 1/2 Monate = 15,010</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Kapitalwert (15,010
+x 2.187,50 DM) =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>32.834 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Gegenwartswert am 1. Januar 1980
+(125.000 DM abzügl. 32.834 DM) =</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>92.166 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Wegen der Bewertung von Ratenkrediten vgl. Vermögensteuerkartei
+zu § 12 BewG Karte 6 Rdvfg. vom 8. Juni 1976 - <lxbase:az normform="S3103A 7StIII42" manuell="nein">S-3103 A
+- 7 - St III 42</lxbase:az> -).</lxbase:a><lxbase:a>Bei Forderungen in ausländischer Währung sind
+die Umrechnungskurse vom jeweiligen Stichtag maßgebend
+(Anhang 10 VStR 1977).</lxbase:a><lxbase:a>Für eine Bewertung unter dem Nennwert sind aber auch
+Uneinbringlichkeit und Unsicherheit der Forderung (zweifelhafte
+Forderung) maßgebend.</lxbase:a><lxbase:a>Die Bewertung einer stillen Beteiligung hat nach der Regelung
+in Abschn. 56 Abs. 4 VStR zu erfolgen. Danach muß die Kündbarkeit
+für mindestens 5 Jahre ausgeschlossen sein. Der künftig
+durchschnittlich erzielbare Jahresertrag wird aus dem Durchschnitt
+der drei letzten Jahreserträge abgeleitet. Diese Bewertung
+kommt nur bei stillen Beteiligungen in Betracht, die zum sonstigen
+Vermögen gehören.</lxbase:a><lxbase:a>Unverzinsliche befristete Kapitalforderungen werden nach § 12
+Abs. 3 BewG bewertet.</lxbase:a><lxbase:a>Hier handelt es sich um Forderungen, deren Fälligkeitszeitpunkt
+lediglich hinausgeschoben ist, nicht um solche, die auf Grund einer
+jederzeit zulässigen Kündigung fällig
+sind (z. B. Verwandtendarlehen).</lxbase:a><lxbase:a>Bei Unverzinslichkeit einer Forderung ist zu prüfen,
+ob der Unverzinslichkeit beim Gläubiger wirtschaftliche
+Vorteile gegenüberstehen. Zur Erleichterung der Berechnung
+des Gegenwartswertes dienen die Hilfstafeln 1 und 1a (nachschüssig
+- letztere kommt bei einer in gleichen Jahresbeträgen zu
+tilgenden unverzinslichen Kapitalforderung zur Anwendung).</lxbase:a><lxbase:beispiel><lxbase:a>Beispiele:</lxbase:a><lxbase:a>A) 10.000 DM - fällig nach 10 Jahren (Hilfstafel 1 -
+Anhang BewG) Gegenwartswert = 5.854,30 DM</lxbase:a><lxbase:a>B) 10.000 DM - fällig nach 10 Jahren und in gleichen
+Jahresbeträgen zu tilgen (Hilfstafel 1 a - Anhang 1 a VStR)
+Gegenwartswert = 75,376 x 10.000 : 100 = 7.537,60
+DM</lxbase:a><lxbase:a>C) 50.000 DM - fällig nach 60 Jahren 50 Jahre lt. Hilfstafel
+1 = 3.438,50 DM (500 x 6,877) Gegenwartswert für
+10 Jahre = 58,543 x 3.438,50 DM : 100 = 2.013
+DM (Gegenwartswert für 60 Jahre)</lxbase:a><lxbase:a>D) Unverzinsliche Kapitalforderungen über 20.000 DM
+am 1. Januar 1980 - in gleichen Raten jeweils am Jahresende zu tilgen.
+Die erste Rate ist am 31. Dezember 1983 fällig, die letzte
+am 31. Dezember 2002 - Laufzeit 20 Jahre (Hilfstafel 1 a) 20.000
+x 59,752 : 100 = 11.950,40 DM Abzinsung für 3
+Jahre (tilgungsfreie Jahre 1980, 1981 und 1982) unter Anwendung
+der Hilfstafel 1 11.950,40 x 85,161 : 100 = 10.177,80 DM</lxbase:a></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900021">c) Bewertungsmaßstab
+nach § 109 Abs. 4 BewG</lxbase:ueberschrift><lxbase:a>Die ab 1. Januar 1974 geltende Vorschrift des § 109
+Abs. 4 regelt, daß die zu einem gewerblichen Betrieb gehörenden
+Kapitalforderungen mit den Werten anzusetzen sind, die sich nach
+den Grundsätzen über die steuerliche Gewinnermittlung
+ergeben.</lxbase:a><lxbase:a>Als Kapitalforderungen i. S. des § 109 Abs. 4 BewG kommen
+alle Forderungen in Betracht, die auf Zahlung von Geld gerichtet
+sind, also Darlehensforderungen, Guthaben usw.; so auch Darlehensforderungen
+nach § 7c EStG, nach §§ 16 und 17 BerlinFördG
+sowie Steuererstattungs- und Steuervergütungsansprüche.</lxbase:a><lxbase:a>Auch sogenannte Uralt-§ 7c-Darlehen, die in der Steuerbilanz
+mit dem Erinnerungswert von einer DM ausgewiesen sind, weil sie
+erst beim Rückfluß zur Gewinnrealisierung führen,
+sind bewertungsrechtlich mit diesem Wert anzusetzen.</lxbase:a><lxbase:a>Abgrenzungsfragen, die sich innerhalb der Steuerbilanz im Verhältnis
+zu den Begriffen "Kapitalforderungen" und "Wertberichtigungen" ergeben,
+sind nach Abschn. 44 Abs. 3 VStR bei der Bewertung von Kapitalforderungen
+in gleicher Weise in Betracht zu ziehen wie in der Steuerbilanz.
+Dadurch ist gewährleistet, daß bei der Bewertung
+der Außenstände keine besonderen bewertungsrechtlichen
+Prüfungen hinsichtlich der Zusammensetzung des Delkredere
+angestellt werden müssen.</lxbase:a><lxbase:a>Die ertragsteuerliche Regelung wird einfach übernommen.
+Der Bilanzansatz muß aber den ertragsteuerlichen Grundsätzen
+entsprechen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900022">d) Allgemeines zu Kapitalschulden</lxbase:ueberschrift><lxbase:a>Bei dem Ansatz einer Kapitalschuld spielt die Frage des wirtschaftlichen Zusammenhangs
+der Schuld mit einem Wirtschaftsgut bzw. der wirtschaftlichen Einheit
+des Gewerbebetriebs eine Rolle (evtl. Abzugsfähigkeit bei
+Ermittlung des Betriebsvermögens).</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><lxbase:a>Obwohl die Schuld hypothekarisch auf dem eigengenutzten Einfamilienhaus ruht,
+kann sie, wenn sie mit dem gewerblichen Betrieb in wirtschaftlichem Zusammenhang
+steht, als Betriebsschuld abgesetzt werden.</lxbase:a></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900023">e) Bewertung der Kapitalschulden</lxbase:ueberschrift><lxbase:a>Auch hierfür gelten die Vorschriften in § 12
+Abs. 1 bis 3 BewG. Den Forderungen entsprechend fallen hierunter
+nur Geldschulden. Bewertungsmaßstab ist grundsätzlich
+der Nennwert (auch wenn ein Abgeld - Damnum - einbehalten wurde).
+Eine Bewertung über dem Nennwert erfolgt bei sehr hoher
+Verzinsung und bei Rückzahlung nach längerer Zeit
+(vgl. Abschn. 56 Abs. 6 und 55 Abs. 3 VStR).</lxbase:a><lxbase:a>Wegen der Bewertung unter dem Nennwert bei Unverzinslichkeit
+wird auf § 12 Abs. 3 BewG und bei sehr niedrigerer Verzinsung
+auf Abschn. 56 Abs. 4 VStR verwiesen. Wird der Vorteil der Unverzinslichkeit
+oder der niedrigen Verzinsung durch wirtschaftliche Nachteile ausgeglichen,
+ist eine Bewertung unter dem Nennwert nicht gerechtfertigt.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900024">f) Anlage FR</lxbase:ueberschrift><lxbase:a>Die Anlage FR zur Vermögensteuererklärung bzw.
+zur Vermögensaufstellung dient der Ermittlung des Wertes
+von Kapitalforderungen und von Kapitalschulden, wenn ein Ansatz
+dieser Forderungen bzw. dieser Schulden mit dem Nennwert nach § 12
+Abs. 1 BewG nicht in Betracht kommt. Es ist deshalb darauf zu achten,
+daß diese Anlage ordnungs- und wahrheitsgemäß ausgefüllt
+wird. Vergleiche mit den Angaben in der Anlage FR zu früheren
+Vermögensteuererklärungen und Vermögensaufstellungen
+sind unumgänglich.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900025">g) Bewertung von Sachleistungsansprüchen
+und Sachleistungsverpflichtungen</lxbase:ueberschrift><lxbase:a>Auf Grund der geänderten Rechtslage zur Bewertung von
+Sachleistungsansprüchen und Sachleistungsverpflichtungen
+durch die Rechtsprechung des BFH (Urteil vom 3. März 1978
+- <lxprod:doknr-verw linkend="HT0042829">BStBl
+II S. 398</lxprod:doknr-verw>) ist es zu Änderungen bzw. Ergänzungen
+der VStR gekommen (vgl. Abschnitte 34 Abs. 1 a, 44 Abs. 6, 48 Abs.
+1 a und 55 Abs. 7 VStR 1980).</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900026">Tagesordnungspunkt III/8
+Vermögensteuerliche Behandlung der sogenannten erweiterten
+Honorarverteilung der kassenärztlichen Vereinigung Hessen
+an Kassenärzte und deren Hinterbliebene</lxbase:ueberschrift><lxbase:a>Nach den Anweisungen in der Rdvfg. vom 26. 7. 1974 - <lxbase:az normform="S3256A 2StIII42" manuell="nein">S-3256 A
+- 2 - St III 42</lxbase:az> - (bekanntgegeben durch VSt-Kartei; Karte 2 zu § 110
+Abs. 1 Nr. 4 BewG) gehört der Kapitalwert des Rechts auf
+Teilnahme an der erweiterten Honorarverteilung der kassenrechtlichen
+(richtig: kassenärztlichen) Vereinigung Hessen (KVH) zum
+sonstigen Vermögen des Berechtigten nach § 110
+Abs. 1 Nr. 4 BewG.</lxbase:a><lxbase:a>Die Berechnung des Kapitalwerts sollte unter Zugrundelegung des
+gemäß § 15 Abs. 3 BewG ermittelten Jahreswerts
+(der Betrag, der in Zukunft im Durchschnitt der Jahre voraussichtlich
+erzielt werden wird) nach § 14 Abs. 1 BewG ggf. unter Berücksichtigung
+des Freibetrags nach § 111 Nr. 9 BewG erfolgen.</lxbase:a><lxbase:a>Der Rdvfg. liegen die Urteile des BFH vom 17. 5. 1966 (<lxprod:doknr-verw linkend="HT0006794">BStBl III
+S. 500</lxprod:doknr-verw>) und vom 29. 6. 1973 (<lxprod:doknr-verw linkend="HT0006169">BStBl II S.
+696</lxprod:doknr-verw>) zugrunde.</lxbase:a><lxbase:a>In dem Urteil vom 17. 5. 1966 hat der BFH anhand der gesetzlichen
+und satzungsrechtlichen Bestimmungen geprüft, um welche
+Art von Ansprüchen es sich bei dem Recht auf Teilnahme
+an der erweiterten Honorarverteilung der KVH handelt. Er stellte
+fest, daß der Anspruch ein Recht auf wiederkehrende Nutzungen
+(richtiger: Leistungen) darstelle. Die Anwendbarkeit des § 111
+Nr. 1 und 4 BewG wurde verneint. In dem Urteil vom 29. 6. 1973 hält
+der BFH an seiner bisher vertretenen Auffassung fest. Aus dem Schlußsatz
+seiner Urteilsbegründung wird deutlich, daß er
+auch die Anwendbarkeit des § 111 Nr. 3 BewG insbesondere
+im Hinblick auf seine ggf. erweiternde Auslegung des § 111
+Nr. 4 BewG geprüft, eine Anwendbarkeit der Vorschrift jedoch
+nicht für zulässig erachtet hat.</lxbase:a><lxbase:a>Dem steht auch das BFH-Urteil vom 25. 3. 1977 (<lxprod:doknr-verw linkend="HT0035493">BStBl II S.
+625</lxprod:doknr-verw>), das gelegentlich zur Stützung einer gegenteiligen Auffassung
+angeführt wird, nicht entgegen.</lxbase:a><lxbase:a>Bei den darin zu beurteilenden Ansprüchen handelt es
+sich um Hinterbliebenenansprüche aus einer durch Satzung
+geregelten berufsständischen Zwangsversicherung. Zwar gehörte
+der verstorbene Ehemann der Revisionsklägerin als Zahnarzt
+einer kassenzahnärztlichen Vereinigung an. Er war jedoch
+bei einer Versorgungsanstalt für Ärzte, Zahnärzte
+und Tierärzte zwangsversichert, die organisatorisch und
+finanziell von der kassenärztlichen Vereinigung getrennt gewesen
+ist.</lxbase:a><lxbase:a>Während ein zwangsversicherter Berechtigter im Versorgungsfall
+Ansprüche auf Versicherungsleistungen hat, deren Höhe
+von der Höhe der geleisteten Versicherungsprämien
+abhängt, erhält ein Berechtigter, der der KVH
+angehört, oder dessen berechtigter Familienangehöriger
+wiederkehrende Leistungen, die Ausfluß aus seiner früheren
+freiberuflichen Tätigkeit sind.</lxbase:a><lxbase:a>Die Ansprüche aus der Versorgungsanstalt der Ärzte,
+Zahnärzte und Tierärzte sind daher mit den Ansprüchen
+auf Teilnahme an der erweiterten Honorarverteilung der KVH nicht
+gleichzusetzen, so daß § 111 Nr. 3 BewG auf das
+Recht auf wiederkehrende Leistungen aus der KVH nicht angewendet
+werden kann.</lxbase:a><lxbase:a>Es ist zu beachten, daß Ansprüche aus der erweiterten
+Honorarverteilung der kassenärztlichen Vereinigung Hessen
+nur Kassenärzten und deren Hinterbliebenen zustehen.</lxbase:a><lxbase:a>Soweit die o. a. Rdvfg. vom 26. 7. 1974 andere Ausführungen
+enthält, wird sie im Rahmen der Neuauflage der Vermögensteuerkartei
+1980 geändert.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900027">Tagesordnungspunkt III/9
+Kann bei einer nachträglichen Erhöhung oder Minderung
+der Einkommensteuerschulden der bereits bestandskräftige Vermögensteuerbescheid
+berichtigt werden.</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D005772900028">Allgemeines</lxbase:ueberschrift><lxbase:a>Bei der Ermittlung des Gesamtvermögens können
+unter den Voraussetzungen des § 118 Abs. 1 Nr. 1 BewG i.
+V. mit § 105 BewG alle Steuerschulden des Steuerpflichtigen
+berücksichtigt werden, soweit sie nicht in wirtschaftlichem Zusammenhang
+mit einem gewerblichen Betrieb stehen und deshalb schon bei der
+Ermittlung des Betriebsvermögens abgezogen worden sind
+(Abschn. 98 Satz 1 VStR). Für die Abzugsfähigkeit
+von Steuerschulden bei der Ermittlung des Gesamtvermögens
+gelten die Anweisungen in Abschn. 37 Abs. 2 bis 4 entsprechend (Abschn.
+98 Satz 4 VStR).</lxbase:a><lxbase:a>Nach Abschn. 37 Abs. 3 Satz 1 VStR ist jedoch Voraussetzung für
+den Abzug, daß der Steuerpflichtige mit der Belastung schon
+am Stichtag rechnen konnte. Bei Jahressteuerschulden kann jeweils
+davon ausgegangen werden, daß dies in Höhe der
+später veranlagten und nicht durch Vorauszahlungen gedeckten Steuer
+der Fall ist (Abschn. 37 Abs. 3 Satz 2 VStR).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900029">Zum Sachverhalt:</lxbase:ueberschrift><lxbase:a>Ergeben sich aufgrund von Änderungen des bisherigen
+Einkommensteuerbescheids höhere oder niedrigere Steuerschulden
+als die, die bereits in einer bestandskräftigen Vermögensteuerveranlagung
+berücksichtigt worden sind, kommt eine Änderung
+des Vermögensteuerbescheids nur in Betracht, wenn neben
+der materiell-rechtlichen Voraussetzung (Bestehen einer wirtschaftlichen Belastung
+am jeweiligen Stichtag) auch die verfahrensrechtlichen Voraussetzungen
+erfüllt sind.</lxbase:a><lxbase:a>Da die Verlustanteile bei der Einkommensteuerveranlagung nicht
+berücksichtigt worden sind, ergab sich für den
+Steuerpflichtigen zunächst eine wirtschaftliche Belastung
+in Höhe der festgesetzten Einkommensteuer. Allerdings mußte er
+zum Stichtag bereits damit rechnen, daß seine endgültige
+wirtschaftliche Belastung unter Berücksichtigung der noch
+von den Betriebsfinanzämtern festzustellenden Verlustanteile
+niedriger sein würde. Wären demgegenüber
+die Verlustanteile entsprechend seiner Erklärung bei der
+Einkommensteuerveranlagung berücksichtigt worden, hätte
+der Steuerpflichtige damit rechnen müssen, daß die
+auf ihn entfallenden Verlustanteile durch die Betriebsfinanzämter
+ggf. höher oder niedriger festgestellt werden. Dies gilt
+auch für Änderungen in der Höhe der Verlustanteile
+aufgrund von bei den Gesellschaften durchgeführten Betriebsprüfungen
+(modifiziertes Stichtagsprinzip).</lxbase:a><lxbase:a>Damit ist die materiell-rechtliche Voraussetzung zum Abzug der
+sich nach Durchführung der (ursprünglichen) Einkommensteuerveranlagung
+unter Berücksichtigung der später mitgeteilten
+Verlustanteile ergebenden niedrigeren Einkommensteuerschuld bei
+Vermögensteuerveranlagungen auf frühere Stichtage
+erfüllt.</lxbase:a><lxbase:a>Soweit die Vermögensteuerveranlagung auf den Veranlagungszeitpunkt,
+auf den sich die Einkommensteuerschulden ergeben, noch nicht durchgeführt
+ist, könnten die sich unter Berücksichtigung der
+(ggf. geänderten) Verlustanteile ergebenden Einkommensteuerschulden
+vom Rohvermögen abgezogen werden.</lxbase:a><lxbase:a>Wurde der Vermögensteuerbescheid jedoch - wie im Sachverhalt
+- bestandskräftig, könnte eine Änderung
+des Bescheids nur unter Beachtung der verfahrensrechtlichen Vorschriften
+erfolgen.</lxbase:a><lxbase:a>In Betracht kommen die Vorschriften der §§ 172
+Abs. 1 Nr. 2, 173 Abs. 1, 175 Nr. 1 und 2 AO sowie der §§ 164
+Abs. 1 und 165 Abs. 1 AO.</lxbase:a><lxbase:a>Eine Änderung nach § 172 Abs. 1 Nr. 2 Buchst.
+a AO darf nur dann durchgeführt werden, wenn der Steuerpflichtige
+der Änderung des bestandskräftigen Vermögensteuerbescheids
+zustimmt oder seinem Antrag entsprochen wird und die Änderung
+zu seinen Ungunsten wirkt. Da die Änderung zur Berücksichtigung
+niedrigerer Einkommensteuerschulden zu seinen Ungunsten wirken würde,
+kann davon ausgegangen werden, daß der Steuerpflichtige
+einer derartigen Änderung in der Regel nicht zustimmen
+wird.</lxbase:a><lxbase:a>Eine Änderung des Vermögensteuerbescheids nach § 173
+Abs. 1 Nr. 1 und 2 AO wäre nur durch solche Tatsachen gerechtfertigt,
+die bei Ergehen des ursprünglichen Vermögensteuerbescheids
+bereits vorlagen, aber nicht bekannt waren.</lxbase:a><lxbase:a>Abschn. 37 Abs. 4 Satz 2 VStR (diese Verwaltungsanweisung gilt
+gemäß Abschn. 98 Satz 4 VStR für die
+Ermittlung des Gesamtvermögens entsprechend) bestimmt für
+den Fall, daß die sich aufgrund einer Außenprüfung
+ergebenden Mehrsteuern selbst dann als Schulden abgezogen werden
+können, wenn der Einheitswertbescheid (Vermögensteuerbescheid)
+schon vor Durchführung der Außenprüfung
+bestandskräftig war. Eine Rechtsgrundlage, auf die eine
+solche Änderung des Vermögensteuerbescheids gestützt
+werden könnte, ist indessen nicht angegeben. Während
+Rössler-Troll-Langner, Kommentar zum BewG und VStG, 11.
+Auflage, Anm. 7 zu § 105 BewG, die Auffassung vertreten,
+daß für die Einheitsbewertung (und folglich auch
+für die Vermögensteuerveranlagung) Erhöhungen
+oder Minderungen von Steuerschulden eine neue Tatsache, die zu einer
+Berichtigung des bereits rechtskräftigen Einheitswerts
+(Vermögensteuerveranlagung) führen kann, darstellten,
+vertreten Gürsching-Stenger, Kommentar zum BewG und VStG,
+Anm. 44 zu § 105 BewG, unter Hinweis auf die BFH-Urteile
+vom 10. 8. 1961 (<lxprod:doknr-verw linkend="HT0002637">BStBl III S. 534</lxprod:doknr-verw>) und vom 21. 8. 1962
+(<lxprod:doknr-verw linkend="HT0006830">BStBl
+III S. 501</lxprod:doknr-verw>), wonach Mehrbezüge an Betriebssteuern,
+die sich durch eine Außenprüfung ergeben haben,
+für sich allein keine neuen Tatsachen im Sinne des § 222
+RAO (§ 173 Abs. 1 AO) seien, die Ansicht, daß verfahrensrechtlich
+grundsätzlich keine Möglichkeit bestünde,
+den Einheitswertbescheid (Vermögensteuerbescheid) zu ändern.</lxbase:a><lxbase:a>Auch aus den Urteilen des BFH vom 10. 5. 1972 - <lxprod:doknr-verw linkend="HT0006595">III R 83/71</lxprod:doknr-verw> -
+(BStBl II S. 688) und <lxprod:doknr-verw linkend="HT0006596">III
+R 58/71</lxprod:doknr-verw> - (BStBl II S. 691) sowie dem Urteil vom 25.
+5. 1973 (<lxprod:doknr-verw linkend="HT0006041">BStBl
+II S. 623</lxprod:doknr-verw>), die rückwirkende Steuernachzahlungen
+an Betriebssteuern und persönlichen Steuern betreffen,
+läßt sich nicht entnehmen, daß die Steuernachzahlungen
+im Wege der Änderung nach § 222 Abs. 1 Nr. 2 RAO
+auf frühere Stichtage bei der Feststellung des Einheitswerts
+des Betriebsvermögens oder bei der Vermögensteuerveranlagung
+berücksichtigt werden könnten, da die angeführten
+Fälle entweder eine erstmalige Feststellung oder eine Änderung
+des Bescheids aus anderen Gründen oder eine endgültige
+Feststellung gemäß § 225 RAO betrafen.
+Das Niedersächsische Finanzgericht hat in dem Urteil vom
+25. 6. 1976, <lxprod:doknr-verw linkend="HT0032933">EFG
+1977 S. 97</lxprod:doknr-verw>, entschieden, daß weder Steuererstattungsansprüche
+noch Steuerschulden, die sich als Besitz- bzw. Schuldposten auf
+die Höhe der Vermögensteuer auswirken, Tatsachen
+i. S. des § 222 Abs. 1 Nr. 1 RAO seien. Die Änderung
+der Vermögensteuer ergäbe sich hier nicht unmittelbar
+aus einer bei der Bp festgestellten Tatsache, sondern erst aus einer
+steuerrechtlichen Würdigung, die ihrerseits keine neue
+Tatsache mehr sei.</lxbase:a><lxbase:a>Abgesehen von Fällen, die dem in Abschn. 37 Abs. 4 Satz
+2 VStR angeführten Beispielsfall entsprechen, ist daher
+bis auf weiteres davon auszugehen, daß die Ermäßigung
+oder Erhöhung von Steuerschulden oder Steuererstattungsansprüchen
+keine Tatsachen darstellen, die eine Änderung oder Aufhebung
+des Vermögensteuerbescheids gemäß § 173
+Abs. 1 Nr. 1 oder 2 AO rechtfertigen könnten.</lxbase:a><lxbase:a>Im übrigen hätte das Finanzamt nach dem vorliegenden
+Sachverhalt bereits bei der Vermögensteuerveranlagung die
+Möglichkeit in Betracht ziehen müssen, daß die
+Einkommensteuer nach Eingang der Mitteilung über die einheitliche und
+gesonderte Feststellung der Einkünfte ermäßigt
+wird. Folglich hätte es die Einkommensteuerschuld nur mit
+einem entsprechend niedrigeren - ggf. im Schätzungswege
+ermittelten - Betrag abziehen dürfen. Wenn sich das Finanzamt
+demgegenüber dafür entschied, die Einkommensteuerschuld
+mit dem Betrag abzuziehen, die sich nach dem damaligen Verfahrensstand
+ergab, kann die spätere Ermäßigung der
+Einkommensteuer schon aus diesem Grunde nicht als eine nachträglich
+bekanntgewordene "Tatsache" behandelt werden.</lxbase:a><lxbase:a>Auch auf § 175 Nr. 1 AO kann eine Änderung
+des Vermögensteuerbescheids zur Berücksichtigung
+von Erhöhungen oder Minderungen von Steuerschulden nicht
+gestützt werden, weil der Einkommensteuerbescheid im Verhältnis
+zum Vermögensteuerbescheid kein Grundlagenbescheid ist.
+In dem § 175 AO wegen des Begriffs "Grundlagenbescheid" auf § 171
+Abs. 10 AO verweist, wird klargestellt, daß es sich um
+einen Verwaltungsakt mit bindender Wirkung für die betreffende
+Steuerfestsetzung handeln muß. Eine solche Bindungsregelung enthält
+weder das Bewertungsgesetz noch das Vermögensteuergesetz.
+Tipke-Kruse (Kommentar zu AO) führen zwar in der Anm. 1
+zu § 175 AO aus, der Grundlagenbescheid stelle mit verbindlicher
+Wirkung für den Folgebescheid Besteuerungsgrundlagen im
+weitestens Sinne fest. Diese Ausführungen dürften indessen
+in dem Sinne zu verstehen sein, daß diese Folgen nur eintreten,
+wenn überhaupt dem Grunde nach die Bindungswirkung gesetzlich
+festgelegt ist. Eine solche Regelung fehlt hier.</lxbase:a><lxbase:a>Auch die Vorschrift der Nr. 2 des § 175 AO greift nicht
+ein. Voraussetzung für eine Aufhebung oder Änderung
+wäre danach, daß ein Ereignis eintritt, das steuerliche
+Wirkung für die Vergangenheit hat.</lxbase:a><lxbase:a>Mit der Änderung des Einkommensteuerbescheids und der
+damit verbundenen Herabsetzung (oder ggf. Erhöhung) der
+Einkommensteuer ist kein Ereignis eingetreten, das steuerliche Wirkung
+für die Vergangenheit hätte. Wie oben ausgeführt,
+ergibt sich aus der Sicht des modifizierten Stichtagsprinzips, daß der Steuerpflichtige
+bereits am Stichtag mit der sich später in ihrer endgültigen Höhe
+ergebenden Steuerschuld als wirtschaftliche Belastung rechnen mußte. Die
+Konkretisierung der Höhe der Steuerschuld durch den zu ändernden
+oder geänderten Einkommensteuerbescheid bedeutet nicht,
+daß die wirtschaftliche Belastung (das Ereignis) in dieser
+Höhe nicht schon am Stichtag bestanden hätte.</lxbase:a><lxbase:a>Da die letztlich geschuldete Einkommensteuer aus der Sicht des
+modifizierten Stichtagsprinzips als der allein richtige Schuldposten
+angesehen werden muß, ist in dem ursprünglichen
+(falschen) Wertansatz ein Rechtsanwendungsfehler im Sinne des § 177
+AO zu erblicken. Der Abzug der Einkommensteuerschuld könnte
+daher in den Grenzen des § 177 Abs. 1 und / oder
+Abs. 2 AO korrigiert werden, wenn die Voraussetzungen für
+eine Änderung des Vermögensteuerbescheids aus
+anderen Gründen vorliegen.</lxbase:a><lxbase:a>Wurde die Vermögensteuer jedoch unter dem Vorbehalt
+der Nachprüfung (§ 164 Abs. 1 AO) oder hinsichtlich
+des Ansatzes der Steuerschulden vorläufig (§ 165
+Abs. 1 AO) festgesetzt, ist eine Änderung des Vermögensteuerbescheids zur
+Berücksichtigung von Erhöhungen oder Minderungen
+der Steuerschulden auch verfahrensrechtlich zulässig.</lxbase:a><lxbase:a>Dies bedeutet jedoch nicht, daß alle in Betracht kommenden
+Vermögensteuerbescheide im Hinblick auf eine mögliche
+Ermäßigung (oder Erhöhung) der Einkommensteuer
+durch Anwendung des § 164 Abs. 1 oder § 165 Abs.
+1 AO für Änderungen offengehalten werden sollen.
+Diese Folgerung könnte auch nicht aus § 85 AO
+hergeleitet werden, weil neben der materiellen Gerechtigkeit auch der
+Grundsatz der Rechtssicherheit zu berücksichtigen ist.
+Es wird dabei auch nicht verkannt, daß die Finanzämter
+bei der angespannten Arbeitslage kaum in der Lage wären,
+eine Vielzahl von Fällen ständig daraufhin zu überwachen,
+ob bei einer Änderung des Einkommensteuerbescheids jeweils
+alle indirekt dadurch betroffenen Vermögensteuerbescheide
+ebenfalls zu ändern wären.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900030">Tagesordnungspunkt III/10
+Ermittlung von Steuerschulden und Steuererstattungsansprüchen
+(vgl. Rdvfg. vom 29. 4. 1980 - <lxprod:doknr-verw linkend="HT0058551">S-3233 A - 2 - St III 42</lxprod:doknr-verw>, VSt- Kartei
+1980 § 105 BewG, Karte 1 und § 118 BewG, Karte
+A 1)</lxbase:ueberschrift><lxbase:a>Die in wirtschaftlichem Zusammenhang mit dem Betrieb stehenden
+Steuerschulden und Steuererstattungsansprüche sind im allgemeinen
+in der Bilanz ausgewiesen und nach Aktenlage zu ermitteln. Eine
+Verwendung des Vordrucks "Anfrage an die Finanzkasse zur
+Ermittlung der Steuerschulden und Steuererstattungsansprüche" (Lg.Nr.
+485 c) wird nur in Ausnahmefällen erforderlich sein.</lxbase:a><lxbase:a>Bei der Überprüfung der Vermögensteuererklärungen
+ist der für eine zutreffende Ermittlung der Steuerschulden
+und Steuererstattungsansprüche aufgelegte Vordruck "Anfrage
+an die Finanzkasse zur Ermittlung der Steuerschulden und Steuererstattungsansprüche" (Lg.Nr.
+485 c) nur in den Fällen zu verwenden, in denen der Ermittlung
+der privaten Steuerschulden und Steuererstattungsansprüche
+wegen der Höhe der Beträge bzw. aus anderen Gründen besondere
+Bedeutung zukommt oder eine Ermittlung der privaten Steuerschulden
+und Steuererstattungsansprüche nach Aktenlage gegenüber
+der Ermittlung durch die Finanzkasse einen erhöhten Zeitaufwand
+erfordert. Ansonsten sind die privaten Steuerschulden und Steuererstattungsansprüche
+nach Aktenlage zu ermitteln.</lxbase:a><lxbase:a>Bei verwendung des Vordrucks ist die Höhe der jeweiligen
+Steuerschulden und Steuererstattungsansprüche am im Vordruck
+angegebenen Veranlagungsstichtag von der Finanzkasse (Bu 3) zu ermitteln.
+Dabei ist darauf zu achten, daß auch die nach dem Stichtag
+gebuchten Steuerbescheide für Zeiträume, die vor dem
+Veranlagungsstichtag liegen, sowie Stundungen und Aussetzungen der Vollziehung
+berücksichtigt werden.</lxbase:a><lxbase:a>Die Entscheidung darüber, ob und ggf. in welcher Höhe
+die von der Finanzkasse ermittelten Steuerschulden und Steuererstattungsansprüche
+bei der Vermögensteuerveranlagung abzugsfähig
+oder anzusetzen sind, liegt beim Veranlagungsteilbezirk.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900031">Tagesordnungspunkt III/11
+Berücksichtigung geltend gemachter negativer EW-Anteile
+an Abschreibungsgesellschaften</lxbase:ueberschrift><lxbase:a>Die zur Einkommensteuer ergangenen Anweisungen zur Berücksichtigung
+geltend gemachter Verlustanteile an Abschreibungsgesellschaften
+gelten bei der Einheitsbewertung des Betriebsvermögens
+und der Vermögensteuer sinngemäß (vgl.
+Veranlagungsrundverfügung vom 4. Oktober 1977, VSt-Kartei
+Allgemeines Karte 2, Tz. 10.4; Rdvfg. vom 11. Mai 1978, ESt-Kartei
+1978, § 37 Karte 4 letzter Absatz und Rdvfg. vom 1. Februar
+1979 - <lxbase:az normform="S0622A3StII40" manuell="nein">S-0622 A - 3 - St II 40</lxbase:az>).</lxbase:a><lxbase:a>Negative EW-Anteile an Abschreibungsgesellschaften sind bei Einheitswertfeststellungen
+des Betriebsvermögens und Vermögensteuer-Veranlagungen
+zu berücksichtigen, wenn</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>die amtliche Mitteilung (EW-Eigentümer-Mitteilung
+- Vm 9 a -, Mitteilung zur gesonderten Feststellung des Vermögens
+von Gemeinschaften - Vm 54 -) vorliegt,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>das Betriebsfinanzamt die Höhe
+des voraussichtlichen negativen EW-Anteils mitgeteilt hat oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>das Betriebsfinanzamt auf Anfrage (Vordruck
+Lager-Nr. 347 b) mitgeteilt hat, daß</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>die Gesellschaft alle
+Voraussetzungen für die Durchführung der Prüfung zur
+Ermittlung der negativen EW-Anteile (bzw. des voraussichtlichen Verlustes)
+erfüllt hat und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>die Prüfung lediglich aus von
+der Gesellschaft nicht zu vertretenden Gründen noch nicht
+abgeschlossen werden konnte.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Im Rechtsbehelfsverfahren ist die Vollziehung in Höhe
+des auf die Nichtberücksichtigung des negativen EW-Anteils
+entfallenden Betrags auszusetzen, wenn die Gesellschaft / Gemeinschaft
+nachweislich bei dem für sie zuständigen Betriebsfinanzamt
+bereits eine entsprechende Feststellungserklärung nebst
+Jahresabschluß eingereicht hat. Bereits geleistete Vorauszahlungsbeträge
+dürfen jedoch auf Grund der teilweisen Aussetzung der Vollziehung
+des Vermögensteuerbescheids nicht erstattet werden (BFH-Beschluß vom
+27. Januar 1977, <lxprod:doknr-verw linkend="HT0013934">BStBl 1977 II S. 367</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Bei ähnlichen Rechtsgebilden (z. B. Immobilienfonds)
+ist entsprechend zu verfahren.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900032">Tagesordnungspunkt III/12
+Anregungen und Fragen zur maschinellen Verarbeitung</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D005772900033">I. Allgemeines</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Programmfreigabe 1. 1. 1980</lxbase:a><lxbase:a>Die für den Spätsommer 1980 geplante Freigabe
+der Verarbeitungsprogramme für den Hauptveranlagungszeitraum / Feststellungszeitraum
+1980 konnte aufgrund des Gesetzes zur Änderung und Vereinfachung
+des Einkommensteuergesetzes und anderer Gesetze vom 18. August 1980
+noch nicht erfolgen; die die VSt betreffenden Änderungen
+(Artikel 6) werden gegenwärtig in das Verarbeitungsprogramm
+eingearbeitet.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Bedarf an EB L 56 - L 60</lxbase:a><lxbase:a>Der voraussichtliche Bedarf an EB L 56 - L 60 wird mit ca. 150 % nach
+der Anzahl der zum 1. 1. 1980 gültigen GKB VN, VB, VK und
+BV von der OFD ermittelt und ausgeliefert werden.</lxbase:a><lxbase:a>Die FÄ, die im Jahre 1981 mit der Datenerfassung VSt / EW-BV
+im eigenen FA beginnen sollen, erhalten zunächst nur eine
+begrenzte Anzahl der bisherigen EB. Die erforderlichen "IV"-EB
+werden rechtzeitig vor Übernahme der Datenerfassung ausgeliefert
+werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Gültigkeit der EB</lxbase:a><lxbase:a>Die EB sind unter Beachtung von Fach 9 DA-EDV für alle
+Veranlagungszeiträume / Feststellungszeiträume
+gültig.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>Bedeutung der Kz</lxbase:a><lxbase:a>Die Bedeutung der Kz in den EB entspricht derjenigen im jeweiligen
+Erklärungsvordruck.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a>Pflege der GKB VN, VB, VK und BV</lxbase:a><lxbase:a>Mit der Übernahme der FK in das integrierte Verfahren
+kommt der Pflege der GKB besondere Bedeutung zu. Die festgesetzte
+Steuerschuld bzw. der festgesetzte Verspätungszuschlag
+beim EW-BV kann nur dann zum Soll gestellt werden, wenn auch der
+entsprechende GKB im Speicherkonto abgelegt ist.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900034">II. Hauptveranlagungszeitraum / Hauptfeststellungszeitraum
+1980</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Steuererstattungsansprüche / Steuervergütungsansprüche,
+Steuerschulden</lxbase:a><lxbase:a>Die maschinelle Ermittlung der Steuererstattungsansprüche / Steuervergütungsansprüche
+bzw. der Steuerschulden (Liste "Stichtagsreste")
+ist nach der gegenwärtigen Programmversion nicht möglich.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>EB L 56</lxbase:a><lxbase:a>Die neue Auflage des EB L 56 enthält eine zusätzliche
+Kennzeichnung der Kz, die ausschließlich für unbeschränkt
+(= U) oder beschränkt Stpfl. (= B) zulässig
+sind. Die spezielle Kennzeichnung der zulässigen Kz für
+den Kö-Bereich (= K) erfolgte nur für
+die unter "Variable Angaben" aufgeführten
+Kz 248 und 249.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Überwachung der Steuerfälle</lxbase:a><lxbase:a>PKW 546 bei der ESt: Mit der Freigabe des Verarbeitungsprogramms
+für die ESt-Vlg. 1979 wird bei Vorliegen der Voraussetzungen
+der PHW 546 ausgegeben. Der PHW ergeht auch dann, wenn der GKB "VN" bereits
+abgelegt ist; die Ausgabe kann nach dem derzeitigen Verfahrensablauf
+auch nicht unterdrückt werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>Prüfung der Fortschreibungsgrenzen / Neuveranlagungsgrenzen
+im Zuge der Hauptfeststellung / Hauptfeststellungsveranlagung:
+PHW 507, 509, 513 bei der VSt / EW-BV:</lxbase:a><lxbase:a>Mit der Freigabe des Verarbeitungsprogramms für den
+Hauptfeststellungszeitraum / Hauptveranlagungszeitraum
+1980 wird auch bei einer Hauptveranlagung / Hauptfeststellung
+intern geprüft, ob auf einen zurückliegenden Stichtag
+eine Neuveranlagung bzw. Wertfortschreibung wegen Erreichens der
+Wertgrenzen in Betracht kommt.</lxbase:a><lxbase:a>Die Eintragungsanweisungen in Fach 9 DA-EDV zu Kz 284 bzw. 190/195
+sind zu beachten.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a>Verarbeitung mehrerer Veranlagungszeitpunkte / Festsetzungszeitpunkte
+zu einem Rechentermin</lxbase:a><lxbase:a>Zu einem RT können Eingaben für Feststellungen
+des EW des BV und / oder Veranlagungen zur VSt für
+mehrere Feststellungs- bzw. Veranlagungszeitpunkte (Folgefälle)
+nur dann vorgenommen werden, wenn der EW des BV bzw. das bisherige
+Gesamtvermögen zur Prüfung der Fortschreibungsgrenzen / Neuveranlagungsgrenzen
+eingetragen ist.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6."><lxbase:a>Aufteilung des EW-BV</lxbase:a><lxbase:a>Bei der masch. Aufteilung des EW-BV ist das EW-Bescheid- Druckprogramm
+dahingehend geändert worden, daß in Abhängigkeit
+von der Eingabe bei Kz 707 folgender Text gedruckt wird:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="11*" /><cals:colspec colnum="2" colname="2" colwidth="11*" /><cals:colspec colnum="3" colname="3" colwidth="79*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="3" rowsep="0"><lxbase:a>"AUFGETEILT
+WIRD" bei</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Kz 707 =</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Schlüssel</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>Text</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>1,2,3,</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>Der Unterschiedsbetrag zwischen
+der Summe der Kapitalkonten (einschl. etwaiger Sonderkonten) und
+dem Einheitswert nach Abzug der dem Beteiligten vorweg anzurechnenden
+Wirtschaftsgüter</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>1</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>zu gleichen Teilen</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>2</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>im Verhältnis der Kapitalkonten</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>3</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>in Bruchteilen bzw. v. H.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>4,5</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>der gesamte Einheitswert</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>4</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>zu gleichen Teilen</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" colsep="0"><lxbase:a>5</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>in Bruchteilen</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7."><lxbase:a>Auswertung der masch. Statistiken ab dem
+Hauptfeststellungszeitraum / Hauptveranlagungszeitraum
+1980</lxbase:a><lxbase:a>Mit Freigabe der Verarbeitungsprogramme für den 1. 1.
+1980 werden auch die masch. Statistiken EW-BV / VSt bzgl.
+der Fehlerhinweise verstärkt ausgewertet.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900035">Tagesordnungspunkt III/13
+Umfang des Betriebsvermögens</lxbase:ueberschrift><lxbase:a><lxbase:fett>Zu Frage 1 a) (Finanzamt Gießen):</lxbase:fett></lxbase:a><lxbase:a>Auch die GmbH-Anteile der Ehefrauen der an der X-GmbH &amp; Co
+KG beteiligten Kommanditisten A und B sind in das Betriebsvermögen
+der Kommanditgesellschaft einzubeziehen, wenn die Ehegatten, wie
+sich aus dem Sachverhalt ergibt, zur Vermögensteuer zusammenzuveranlagen
+sind (§ 26 Nr. 1 i. V. mit § 119 Abs. 1 BewG).</lxbase:a><lxbase:a>Es muß entsprechend der Rechtsprechung des BFH in dem
+Urteil vom 6. Februar 1976 (<lxprod:doknr-verw linkend="HT0028477">BStBl II S. 412</lxprod:doknr-verw>) davon ausgegangen
+werden, daß die Anteile an der Komplementär-GmbH
+der zur Vermögensteuer zusammen zu veranlagenden Eheleuten
+den Zwecken der Kommanditgesellschaft dienen. Wie sich unter Hinweis
+auf das BFH- Urteil vom 18. 12. 1970 (<lxprod:doknr-verw linkend="HT0006615">BStBl 1971
+II S. 289</lxprod:doknr-verw>) aus Abschnitt 15 Abs. 2 Satz 1 VStR ergibt,
+ist das dem Betrieb dienende Vermögen des Ehegatten eines
+Mitunternehmers wie Vermögen des Mitunternehmers zu behandeln.</lxbase:a><lxbase:a>Da im vorliegenden Fall eine Zusammenveranlagung der Ehegatten
+zur Vermögensteuer erfolgt, sind die GmbH-Anteile der Ehefrauen
+der Kommanditisten der KG dem Betriebsvermögen dieser Gesellschaft
+zuzurechnen.</lxbase:a><lxbase:a><lxbase:fett>Zu Frage 1 b) (Finanzamt Gießen):</lxbase:fett></lxbase:a><lxbase:a>Auch für den Fall, daß lediglich die Ehefrauen
+der Kommanditisten Gesellschafter der Komplementär-GmbH
+sind, ist wie zu Frage a) zu verfahren. Diese Handhabung läßt
+sich bei entsprechender Anwendung der Verwaltungsanweisungen in
+Abschn. 5 Abs. 2 Sätze 1 und 2 VStR vertreten.</lxbase:a><lxbase:a><lxbase:fett>Zu Frage 2 (Finanzamt Limburg):</lxbase:fett></lxbase:a><lxbase:a>Das den Ehegatten gemeinsam gehörende Grundstück,
+das zu mehr als 50 v. H. dem Betrieb einer Personengesellschaft
+dient, an der aber nur einer der beiden Ehegatten beteiligt ist,
+ist als Betriebsgrundstück der Personengesellschaft zu behandeln,
+wenn, wie sich aus dem Sachverhalt ergibt, die Voraussetzungen des § 26
+Nr. 1 i. V. mit § 119 Abs. 1 BewG vorliegen.</lxbase:a><lxbase:a>Dieser eindeutige Schluß ist aus dem BFH-Urteil vom
+29. 10. 1973 (<lxprod:doknr-verw linkend="HT0009185">BStBl 1974
+II S. 79</lxprod:doknr-verw>) zu ziehen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900036">Tagesordnungspunkt III/14
+Erhöhter Freibetrag gemäß § 6
+Abs. 4 VStG für ein dauernd erwerbsunfähiges Kind
+im Falle der Zusammenveranlagung</lxbase:ueberschrift><lxbase:a>Der BFH hat in dem Urteil vom 12. 10. 1979 - <lxprod:doknr-verw linkend="HT0053962">III R 24/79</lxprod:doknr-verw> -
+(<lxprod:doknr-verw linkend="HT0053962">BStBl
+1980 II S. 166</lxprod:doknr-verw>) die Auffassung des Finanzgerichts Rheinland-Pfalz
+vom 20. 11. 1978 (<lxprod:doknr-verw linkend="HT0047977">EFG
+1979 S. 207</lxprod:doknr-verw>) bestätigt, nach der einem dauernd erwerbsunfähigen
+Kind ein Freibetrag nach § 6 Abs. 4 VStG ohne Rücksicht auf
+das Gesamtvermögen der Veranlagungsgemeinschaft zu gewähren
+ist, wenn das Vermögen des Kindes den Betrag von 150.000
+DM nicht übersteigt. Die in dieser Entscheidung vertretene
+Auffassung ist nicht mit der in Abschn. 121 Abs. 2 Satz 5 VStR enthaltenen
+Verwaltungsanweisung in Einklang zu bringen, nach der auch das Kindesvermögen
+bei der Berechnung der Vermögensgrenze von 150.000 DM oder
+300.000 DM mit zu berücksichtigen ist, wenn Eltern oder
+ein Elternteil mit einem Kind zusammenveranlagt werden.</lxbase:a><lxbase:a>Nach dem zwischenzeitlich ergangenen HMdF-Erlaß vom
+20. 6. 1980 - <lxbase:az normform="S3522A2IIB43" manuell="nein">S-3522 A - 2 - II B 43</lxbase:az> - (bekanntgegeben durch Rdvfg.
+vom 29. 7. 1980 - VSt-Kartei 1980, § 6 VStG Karte 2) ist
+nach dem o. a. Urteil uneingeschränkt zu verfahren. Die
+dieser Rechtsauslegung entgegenstehende Anordnung des Abschn. 121 Abs.
+2 letzter Satz VStR ist durch das o. a. BFH-Urteil überholt.</lxbase:a><lxbase:a>Im übrigen hat der BFH in dem Urteil vom 25. 1. 1980
+(<lxprod:doknr-verw linkend="HT0054818">BStBl
+II S. 262</lxprod:doknr-verw>) in einem gleichgelagerten Fall nicht nur seine bisherige
+Auffassung zur Vermögensgrenze bestätigt, sondern
+auch ausdrücklich entschieden, daß ein Kind "Steuerpflichtiger" im
+Sinne des VStG und auch erwerbsunfähig i. S. des § 6
+Abs. 4 Nr. 1 VStG sein kann, selbst wenn es seinem Alter nach noch
+keinem Erwerb nachgehen könnte.</lxbase:a><lxbase:a><lxbase:fett>Zum Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>Unter Berücksichtigung der o. a. Ausführungen
+ist für die geistig behinderte und ständig hilflose
+Tochter, mit der der Steuerpflichtige auf Antrag gemäß § 14
+Abs. 2 Nr. 2 VStG i. V. mit Abschn. 125 c Abs. 1 Satz 3 VStR zusammenveranlagt
+wird, ein Freibetrag wegen Erwerbsunfähigkeit gem. § 6
+Abs. 4 VStG zu gewähren, wenn das Vermögen der
+Tochter 150.000 DM nicht übersteigt und die steuerfreien
+Ansprüche der Tochter nach § 111 Nr. 1 bis 4 und
+9 BewG insgesamt jährlich 4.800 DM nicht übersteigen.
+Betragen die steuerfreien Ansprüche mehr als 4.800 DM,
+ist ein Freibetrag nach § 6 Abs. 3 VStG zu gewähren,
+soweit das (Gesamt-) Vermögen der Tochter nicht mehr als
+150.000 DM beträgt.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900037">Tagesordnungspunkt III/15
+In welchem Umfang sollen bei "besserverdienenden Steuerpflichtigen" Ermittlungen
+zur vollständigen Erfassung des sonstigen Vermögens
+i. S. des § 110 Abs. 1 Nr. 1 - 3 VStG erfolgen.</lxbase:ueberschrift><lxbase:a>Die möglichst vollständige Erfassung aller
+zur Vermögensteuer zu veranlagenden Personen hat unter
+Beachtung der in der Vermögensteuerkartei (Allgemeines
+- Karte 7) enthaltenen Rundverfügung vom 11. 9. 1979 <lxbase:az normform="S3543 A1StIII42" manuell="nein">S-3543
+A - 1 - St III 42</lxbase:az> zu erfolgen.</lxbase:a><lxbase:a>Danach ist</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>im Zuge der Einkommensteuerveranlagungen
+allen Steuerpflichtigen, die Einnahmen aus Kapitalvermögen
+von mehr als 15.000 DM oder / und einen Gesamtbetrag der
+Einkünfte von mehr als 250.000 DM erklären, eine
+Vermögensteuererklärung zu übersenden
+und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>laufend zu überprüfen,
+ob das aus den Steuerakten ersichtliche Vermögen die nach
+dem Bewertungsgesetz und dem Vermögensteuergesetz zu berücksichtigenden
+Freibeträge übersteigt, und in den entsprechenden
+Fällen eine Vermögensteuererklärung zu übersenden.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>In diesen Fällen ist die HZD vom HMdF beauftragt worden,
+den Prüfhinweis 546 auszugeben.</lxbase:a><lxbase:a>Darüber hinaus sind aber sich alle aus den Steuerakten
+ergebenden Anhaltspunkte, die auf Vermögenswerte i. S.
+des § 110 Abs. 1 Nr. 1 - 3 BewG schließen lassen,
+zum Anlaß zu nehmen, im Zuge der Durchführung
+der Vermögensteuerveranlagungen bei den Steuerpflichtigen
+Rückfrage zu halten, wenn die vorliegenden Vermögensteuererklärungen
+hierüber keinen genügenden Aufschluß geben.</lxbase:a><lxbase:a>Derartige Anhaltspunkte können infolge Erwerbs oder
+Veräußerung von Grundbesitz vorliegen. In solchen
+Fällen empfiehlt es sich, die im "Leitfaden für
+die Ermittlungs-, Prüfungs- und Beanstandungstätigkeit
+im VTB" hinter S. 38 abgedruckten Vordruckmuster 1 bis
+4 zu verwenden. Auch aus der Höhe von Einkünften
+aus Kapitalvermögen können Schlüsse über
+die etwaige Höhe des Wertes von Wirtschaftsgütern
+i. S. des § 110 Abs. 1 Nr. 1 - 3 gezogen werden.</lxbase:a><lxbase:a>Insbesondere wird es aber auch die Aufgabe der Betriebsprüfung
+sein, Ermittlungen über das Vorhandensein solcher Wirtschaftsgüter
+und die wertmäßige Höhe derselben auf
+Grund der Bewegungen durch Entnahmen und Einlagen bei Gewerbetreibenden
+und freiberuflich Tätigen anzustellen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D005772900038">Tagesordnungspunkt III/16
+In welchem Umfang soll bei "besserverdienenden Steuerpflichtigen" das
+Vorhandensein von sonstigem Vermögen i. S. des § 110
+Abs. 1 Nr. 10 - 12 VStG überprüft werden.</lxbase:ueberschrift><lxbase:a>Bei besserverdienenden Steuerpflichtigen - als solche werden
+Steuerpflichtige angesehen werden können, die einen Gesamtbetrag
+der Einkünfte von mehr als 250.000 DM erklären
+-, wird in aller Regel unterstellt werden können, daß sie Eigentümer
+von Wirtschaftsgütern i. S. des § 110 Abs. 1 Nr.
+10 - 12 BewG sind. Gleiches wird auch bei Vermögensmillionären
+- unabhängig von der Höhe ihres Einkommens - angenommen
+werden können.</lxbase:a><lxbase:a>In solchen Fällen erscheint es angebracht, nach Vermögensgegenständen
+i. S. des § 110 Abs. 1 Nr. 10 - 12 BewG zu fragen, wenn
+die vorliegenden Vermögensteuererklärungen hierüber
+keine Angaben enthalten.</lxbase:a><lxbase:a>Besteht die Vermutung, daß die Steuerpflichtigen ihre
+Vermögensgegenstände dieser Art nicht vollständig
+angegeben haben, verspricht eine Rückfrage bei den Steuerpflichtigen
+im allgemeinen nur dann Erfolg, wenn sich aus den Steuerakten Anhaltspunkte
+ergeben, die auf einen Erwerb solcher Wirtschaftsgüter schließen
+lassen. Das wäre z. B. der Fall, wenn bisher erklärte
+Kapitalbestände (Kapitalforderungen, Guthaben, Wertpapiere)
+in den Vermögensteuererklärungen nicht mehr ausgewiesen
+werden und die Steuerakten keinen Aufschluß darüber
+geben, für welche Zwecke diese Wirtschaftsgüter
+Verwendung gefunden haben. In diesen Fällen kann den Steuerpflichtigen
+ein Verwendungsnachweis zugemutet werden.</lxbase:a><lxbase:a>Auf Luxusgegenstände im Sinn des § 110 Abs.
+1 Nr. 11 BewG kann u. a. geschlossen werden, wenn Steuerpflichtige
+aus bestimmten Objekten nur negative Einkünfte zu verzeichnen
+haben. Das wäre z. B. der Fall, wenn eine Vollblutzucht
+unterhalten wird und hierfür ertragsteuerlich ein Liebhabereibetrieb angenommen
+worden ist (vgl. BFH-Urteil - <lxprod:doknr-verw linkend="HT0002889">BStBl 1960 III S. 324</lxprod:doknr-verw> und 64 S. 79)
+oder aus Liebhaberei ein Zucht- und Rennstall betrieben wird (vgl.
+BFH - <lxprod:doknr-verw linkend="HT0006833">BStBl
+1964 III S. 58</lxprod:doknr-verw>). In solchen Fällen können
+u. U. auch Wirtschaftsgüter nach § 110 Abs. 1
+Nr. 8 BewG gegeben sein. Reitpferde, die aus sportlichen Gründen
+gehalten werden, sind dagegen wie Segelflugzeuge und Segelboote
+zu behandeln (in der Regel Wirtschaftsgüter im Sinn des § 111
+Nr. 10 BewG).</lxbase:a><lxbase:a>Auch muß es Aufgabe der Betriebsprüfung sein, über
+das Vorhandensein von Wirtschaftsgütern i. S. des § 110
+Abs. 1 Nr. 10 - 12 Ermittlungen anzustellen.</lxbase:a><lxbase:a>---</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Bewertung</lxbase:rthema><lxbase:rthema>Erbschaft- und Schenkungsteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:deskriptoren> BewG VStG </lxbase:deskriptoren></lxbase:allgemeine-angaben></lxrvw:rspvwa>

@@ -1,0 +1,1074 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" dok-nummer="0084252" dok-art="Schreiben" dok-typ="Verwaltungsanweisung" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Der
+Bundesminister der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>IV B 7 - S-1901 - 392/88</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-1900</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>O-1008</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2000</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-1900 - 51 - St 115 / O-1008
+- 8 - St 612</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2000 - 31/St 21</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-1901</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-1900 - 51 - St 115 / O-1008 - 8 - St 612</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-1900 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>O-1008 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2000 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-1901 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>O-1008-</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1988-07-27" /><lxbase:datum normdat="1988-08-25" ts="ja" /><lxbase:datum normdat="1988-09-19" ts="ja" /></lxbase:daten><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Aufgehoben für Steuertatbestände, die nach dem 31.12.2004
+verwirklicht worden sind, durch BdF <lxprod:doknr-verw linkend="HT5230685">IV C 6 - O-1000 / 07 /
+0018</lxprod:doknr-verw> v. 29. 3. 2007 (koordinierter Ländererlass - "Schreiben zur
+Eindämmung der Normenflut")</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:redakt><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="12*" /><cals:colspec colnum="2" colname="2" colwidth="88*" /><cals:tbody><cals:row rowsep="1"><cals:entry nameend="2" namest="1"><lxbase:a>Bibliographie der
+inhaltlich entsprechenden Verwaltungsanweisungen:</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>NW</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Köln S-1900 - 51 - St 115
+/ O-1008 - 8 - St 612 vom 25/08/88</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>BY</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Nürnberg S-2000 - 31/St
+21 vom 19/09/88</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen /><lxbase:jahre><lxbase:jahr jahr="1988" /></lxbase:jahre><lxbase:zitate><lxbase:alt-zitate><lxbase:alt-zitat>OFD München <lxprod:doknr-verw linkend="HT0087391">S-2000 - 9/6</lxprod:doknr-verw> St 212 v. 12.
+10. 1988 </lxbase:alt-zitat><lxbase:alt-zitat> Felix <lxprod:doknr-verw linkend="HT0087268">BB 1988 2011</lxprod:doknr-verw> (zu
+Art. 15 StRefG 1990) </lxbase:alt-zitat></lxbase:alt-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Steuerreformgesetz 1990:
+<lxbase:za /> hier: Zusammenstellung der Änderungen im Steuerreformgesetz
+1990 </lxbase:a></lxbase:headline></lxbase:titel><lxrvw:vwa-inhalt><lxbase:a>Hiermit übersende ich eine Zusammenstellung
+der für die Steuerverwaltung bedeutsamen Änderungen im Steuerreformgesetz
+1990 mit einer kurzen inhaltlichen Wiedergabe. </lxbase:a><lxbase:a>Änderungen, die rein redaktioneller Art sind oder Anpassungen
+an andere geänderte Vorschriften enthalten, sind nur erwähnt, soweit
+dies zum besseren Verständnis zweckmäßig erscheint. </lxbase:a><lxbase:a>Die Zusammenstellung kann m. E. einen schnellen Überblick
+über die Rechtsänderungen vermitteln und dürfte sich daher auch
+für eine Weitergabe an die Oberfinanzdirektionen und Finanzämter
+eignen. </lxbase:a><lxbase:a>Änderungen des Einkommensteuergesetzes </lxbase:a><lxbase:a>(Artikel 1 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>1. Steuerpflicht </lxbase:a><lxbase:a>Die durch das Steuerbereinigungsgesetz 1986 vom 19. 12.
+1985 (BGBl. I S. 2436 , BStBl I S. 735) mit Wirkung ab dem VZ 1981
+geänderte Vorschrift des § 1 Abs. 2 EStG ist rückwirkend ab dem
+VZ 1975 anzuwenden (§ 52 Abs. 2 EStG). </lxbase:a><lxbase:a>2. Negative ausländische Einkünfte </lxbase:a><lxbase:a>Die Vergünstigungen des Auslandsinvestitionsgesetzes (AIG)
+werden - bis auf die folgende Ausnahme - ab dem Veranlagungszeitraum
+1990 aufgehoben. Die bisher in § 2 AIG enthaltene Möglichkeit der
+Verrechnung von Verlusten ausländischer Betriebsstätten wird durch
+Übernahme in § 2a Abs. 3 und 4 EStG beibehalten. </lxbase:a><lxbase:a>3. Steuerfreie Einnahmen </lxbase:a><lxbase:a>Die Steuerbefreiung für Dienst- und Anwärterbezüge, die
+für die Zeit des Mutterschaftsurlaubs als Mutterschaftsgeld gezahlt
+werden (§ 3 Nr. 1 Buchstabe d EStG) wird gestrichen. </lxbase:a><lxbase:a>Die Steuerfreiheit nach § 3 Nr. 11 EStG wird ab VZ 1990
+davon abhängig gemacht, daß der Empfänger mit den Bezügen nicht
+zu einer bestimmten wirtschaftlichen oder künstlerischen Gegenleistung
+oder zu einer Arbeitnehmertätigkeit verpflichtet wird (so bisher schon
+§ 3 Nr. 44 Buchstabe b EStG). </lxbase:a><lxbase:a>Die Änderung des § 3 Nr. 13 EStG schafft eine ausdrückliche
+Rechtsgrundlage für die Steuerfreiheit der schon bisher als steuerfrei
+behandelten Trennungsgelder. </lxbase:a><lxbase:a>Die Steuerfreiheit von Heirats- und Geburtsbeihilfen nach
+§ 3 Nr. 15 EStG wird nunmehr einheitlich auf 700 DM festgesetzt.
+</lxbase:a><lxbase:a>In § 3 Nr. 16 EStG ist nunmehr abschließend geregelt,
+welche Werbungskosten der Arbeitgeber dem Arbeitnehmer außerhalb
+des öffentlichen Dienstes steuerfrei ersetzen kann. Der Ersatz anderer
+Werbungskosten durch den Arbeitgeber ist künftig nicht mehr steuerfrei.
+</lxbase:a><lxbase:a>Die schon bisher aus Billigkeitsgründen steuerfrei gestellten
+Entschädigungen nach dem Bundesseuchengesetz werden nunmehr nach
+§ 3 Nr. 25 EStG ausdrücklich von der Steuer befreit. </lxbase:a><lxbase:a>Der sog. Trinkgeldfreibetrag (§ 3 Nr. 51 EStG), wird von
+1.200 auf 2.400 DM angehoben. </lxbase:a><lxbase:a>Die mit Wirkung ab VZ 1989 geänderte Vorschrift des §
+3 Nr. 63 EStG soll sicherstellen, daß bestimmte Einkünfte im Inland
+nur dann steuerfrei bleiben, wenn sie in der DDR zur Einkommensteuer
+oder zu einer der Einkommensteuer entsprechenden Steuer tatsächlich
+herangezogen werden. </lxbase:a><lxbase:a>Die Steuerfreiheit nach § 3 Nr. 68 EStG für bestimmte
+Zinsersparnisse und Zinszuschüsse des Arbeitgebers wird ab 1989
+aufgehoben; Zinsersparnisse und Zinszuschüsse aus vor 1989 erhaltenen
+Darlehen bleiben weitere 12 Jahre bis zum Kalenderjahr 2000 steuerfrei (siehe
+§ 52 Abs. 2c EStG), jedoch nur soweit die Vorteile nicht über die
+im Kalenderjahr 1988 gewährten Vorteile hinausgehen. </lxbase:a><lxbase:a>4. Steuerfreiheit bestimmter Lohnzuschläge </lxbase:a><lxbase:a>Ab 1990 wird hinsichtlich des Umfangs der Steuerfreiheit
+von Lohnzuschlägen nicht mehr unterschieden, ob und in welcher Höhe
+Lohnzuschläge gesetzlich geregelt oder tarifvertraglich festgelegt
+sind oder nicht. § 3b EStG sieht daher eine einheitliche steuerliche Behandlung
+der Lohnzuschläge vor. </lxbase:a><lxbase:a>Eine Sonderregelung enthält Absatz 3 für diejenigen Arbeitnehmer,
+die im Lohnzahlungszeitraum mehr als 50 v. H. Nachtarbeit leisten
+und mit der Nachtarbeit bereits vor 0.00 Uhr angefangen haben. Bei
+diesen erhöht sich der Zuschlagssatz auf 40 v. H. Außerdem wird
+bei diesen Arbeitnehmern die begünstigte Sonn- und Feiertagsarbeit
+auf 4.00 Uhr des folgenden Werktags ausgedehnt. </lxbase:a><lxbase:a>Des weiteren ist in § 52 Abs. 3 EStG eine Übergangsregelung
+geschaffen worden, durch die vermieden werden soll, daß die künftige
+Besteuerung der gesetzlichen oder tariflichen Zuschläge für Sonntags-,
+Feiertags- und Nachtarbeit im Zeitpunkt ihrer Besteuerung zu Nettolohneinbußen
+führt. </lxbase:a><lxbase:a>5. Regelungen zur Gewinnermittlung </lxbase:a><lxbase:a>Vom Veranlagungszeitraum 1990 an dürfen nach § 4 Abs.
+5 Nr. 2 EStG Bewirtungskosten aus geschäftlichem Anlaß nur noch
+in Höhe von 80 v. H. der angemessenen und nachgewiesenen Aufwendungen
+als Betriebsausgaben abgezogen werden. Nehmen Arbeitnehmer des Steuerpflichtigen
+an der Bewirtung teil, ist auch insoweit der Abzug auf 80 v. H. beschränkt.
+Nur die Kosten der reinen Arbeitnehmerbewirtung (z. B. bei Betriebsfesten) sind
+voll abzugsfähig. Der bisher für den Nachweis vorgeschriebene amtliche
+Vordruck entfällt; schriftliche Angaben genügen. Die Unterschrift
+des Gastwirts auf der Rechnung der Gaststätte ist ebenfalls nicht
+mehr erforderlich. </lxbase:a><lxbase:a>Die bereits geltende Grenze von 140 v. H. der höchsten
+Tagegeldbeträge des Bundesreisekostengesetzes, bis zu der Verpflegungsmehraufwand
+abgezogen werden darf, wird in § 4 Abs. 5 Nr. 5 EStG selbst festgelegt;
+die §§ 8, 8a EStDV werden dadurch entbehrlich. </lxbase:a><lxbase:a>Vom Veranlagungszeitraum 1990 an dürfen nach der neuen
+Nummer 8a des § 4 Abs. 5 EStG Zinsen auf hinterzogene Betriebssteuern
+(§ 235 der Abgabenordnung) nicht mehr als Betriebsausgaben abgezogen
+werden. </lxbase:a><lxbase:a>Zur Abziehbarkeit der sonstigen Zinsen auf Steuerforderungen
+wird auf die Ausführungen zu § 10 Abs. 1 Nr. 5 und § 12 Nr. 3 EStG
+sowie zu den Änderungen des Körperschaftsteuergesetzes (zu § 10
+Nr. 2 KStG) erwiesen. </lxbase:a><lxbase:a>Jubiläumsrückstellungen, die in Bilanzen bis zum 30. Dezember
+1988 gebildet worden sind bzw. noch gebildet werden, müssen nach
+§ 5 Abs. 4, § 52 Abs. 6 EStG an den nachfolgenden drei Bilanzstichtagen
+zu mindestens je einem Drittel gewinnerhöhend aufgelöst werden.
+An Bilanzstichtagen vom 31. Dezember 1988 bis zum 31. Dezember 1992
+einschließlich dürfen Jubiläumsrückstellungen nicht gebildet werden.
+Danach dürfen für Anwartschaften, die vom 1. Januar 1993 an entstehen,
+Rückstellungen nur gebildet werden, wenn </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>das Dienstverhältnis mindestens 10 Jahre bestanden hat,
+</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>das Dienstjubiläum das Bestehen
+eines Dienstverhältnisses von mindestens 15 Jahren voraussetzt und
+</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>die Zusage schriftlich erteilt
+ist. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Vom Veranlagungszeitraum 1990 an kann der Steuerpflichtige,
+der seinen Gewinn nach § 5 EStG ermittelt, neben den bisher zulässigen
+Bewertungsmethoden für das Vorratsvermögen auch das sog. Lifo- Bewertungsverfahren
+anwenden (§ 6 Abs. 1 Nr. 2a, § 51 Abs. 1 Nr. 2 Buchst. z EStG).
+Diese Bewertungsmethode unterstellt, daß die zuletzt angeschafften
+oder hergestellten Wirtschaftsgüter zuerst wieder veräußert oder
+verbraucht werden (last in-first out). Voraussetzung ist, daß </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>es sich um gleichartige Wirtschaftsgüter handelt, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>die handelsrechtlichen Grundsätze
+ordnungsmäßiger Buchführung nicht verletzt werden, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>in der Handelsbilanz entsprechend
+verfahren wird und </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>die Vergünstigung des Importwarenabschlags
+nicht in Anspruch genommen wird. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Ein Wechsel zu einem anderen Bewertungsverfahren ist nur
+mit Zustimmung des Finanzamts möglich. </lxbase:a><lxbase:a>Durch die allgemeine Einführung der Lifo-Bewertung des
+Vorratsvermögens für Wirtschaftsjahre, die im Veranlagungszeitraum
+1990 enden, kann die bisher bestehende Sonderregelung, die für bestimmte
+Edelmetalle und Kupfer die Lifo-Methode vorsah, ab diesem Zeitpunkt
+aufgehoben werden. </lxbase:a><lxbase:a>Wegen der Befristung der Preissteigerungsrücklage und
+der Halbierung des Importwarenabschlags wird auf die Ausführungen
+zu § 51 Abs. 1 Nr. 2 EStG verwiesen. </lxbase:a><lxbase:a>Bei Veräußerung bestimmter Anlagegüter (§§ 6b, 6c EStG)
+kann der Veräußerungsgewinn künftig auch auf Wirtschaftsgüter übertragen
+werden, die im Wirtschaftsjahr vor der Veräußerung angeschafft oder
+hergestellt worden sind (§ 6b Abs. 1 Satz 1 EStG). </lxbase:a><lxbase:a>Der Veräußerungsgewinn kann übertragen werden: </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>zu 100 v. H. bei der Veräußerung von Grund und Boden,
+von Gebäuden und von Aufwuchs auf oder Anlagen im Grund und Boden,
+</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>zu 50 v. H. bei der Veräußerung
+von abnutzbaren beweglichen Wirtschaftsgütern mit einer betriebsgewöhnlichen
+Nutzungsdauer von mindestens 25 Jahren, von Schiffen, von Anteilen
+an Kapitalgesellschaften und von lebendem Inventar land- und forstwirtschaftlicher
+Betriebe im Zusammenhang mit einer Betriebsumstellung. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Die Übertragungsmöglichkeit auf Anteile an Kapitalgesellschaften
+entfällt. </lxbase:a><lxbase:a>Die Änderungen gelten für Veräußerungen nach dem 31. Dezember
+1989 (§ 52 Abs. 9 EStG). </lxbase:a><lxbase:a>6. Bestimmungen zur Ermittlung des Überschusses der Einnahmen
+über die Werbungskosten </lxbase:a><lxbase:a>a) Belegschaftsrabatte und andere geldwerte Vorteile </lxbase:a><lxbase:a>Ab 1990 tritt eine grundlegende Neuregelung der steuerlichen
+Behandlung von Belegschaftsrabatten und entsprechender geldwerter
+Vorteile, die grundsätzlich als Arbeitslohn zu erfassen sind, in
+Kraft. Bei der Bewertung des Preisvorteils wird nicht mehr auf den
+üblichen Marktpreis abgestellt, sondern der im allgemeinen Geschäftsverkehr
+vom Arbeitgeber selbst tatsächlich geforderte Endpreis zugrunde
+gelegt. In den Fällen, in denen der Arbeitgeber seine Waren nicht
+fremden Letztverbrauchern anbietet, ist der Endpreis maßgebend,
+den der dem Arbeitgeber am nächsten gelegene Einzelhändler fordert.
+Von diesem Endpreis wird ein Preisabschlag von 4 v. H. vorgenommen.
+Um den Verwaltungsaufwand in vertretbaren Grenzen zu halten, werden
+die Preisvorteile nur besteuert, soweit sie 2.400 DM übersteigen.
+Diese Regelung ist auf Waren- und Dienstleistungen beschränkt, die
+im Unternehmen des Arbeitgebers hergestellt, vertrieben oder erbracht
+werden. Sie gilt nicht für Arbeitnehmer von Konzerngesellschaften.
+Zudem dürfen die Waren nicht überwiegend für den Bedarf der Arbeitnehmer
+des Arbeitgebers hergestellt, vertrieben oder erbracht werden. Dies
+bedeutet, daß z. B. bei Kantinenmahlzeiten der Rabattfreibetrag
+von 2.400 DM nicht berücksichtigt werden kann. Deputate, wie z.
+B. der Haustrunk und Freitabakwaren fallen dagegen unter die Rabattregelung.
+</lxbase:a><lxbase:a>Der Rabattfreibetrag gilt für jedes einzelne Dienstverhältnis.
+Bei mehreren Dienstverhältnissen, die gleichzeitig nebeneinander
+oder im Laufe eines Kalenderjahrs nacheinander eingegangen werden,
+ist eine mehrfache Gewährung des Rabattfreibetrags möglich. </lxbase:a><lxbase:a>Die bisher bestehende Möglichkeit, geldwerte Vorteile
+aus der unentgeltlichen oder verbilligten Abgabe von Waren und Dienstleistungen
+nach § 40 EStG pauschal zu versteuern, wird durch die Neuregelung
+nicht berührt. In diesen Fällen wird der ungekürzte übliche Endpreis,
+ein amtlicher Sachbezugswert oder ein amtlich festgesetzter Durchschnittswert der
+Besteuerung zugrunde gelegt; die geldwerten Vorteile werden nicht
+um den Rabattfreibetrag gemindert. </lxbase:a><lxbase:a>b) Kilometer-Pauschale und abziehbare Aufwendungen für
+Arbeitsmittel </lxbase:a><lxbase:a>Ab 1989 wird der Kilometer-Pauschbetrag nach § 9 EStG
+für Fahrten zwischen Wohnung und Arbeitsstätte bei Benutzung eines
+Kraftwagens auf 0,43 DM und bei Benutzung eines Motorrads oder Motorrollers
+auf 0,19 DM angehoben (§ 52 Abs. 13 EStG). Ab 1990 beträgt der Kilometer-Pauschbetrag
+bei Benutzung eines Kraftwagens 0,50 DM und bei Benutzung eines
+Motorrads oder Motorrollers 0,22 DM. </lxbase:a><lxbase:a>Zudem wird klargestellt, daß auch Benutzung eines überlassenen
+(geleasten) Pkw nur der Kilometer-Pauschbetrag zur Anwendung kommt.
+Bei mehreren Wohnungen werden Fahrten zur weiter entfernt liegenden
+Wohnung - wenn keine doppelte Haushaltsführung vorliegt - nur dann
+noch als Fahrten zwischen Wohnung und Arbeitsstätte anerkannt, wenn
+die weiter entfernt liegende Wohnung nicht nur gelegentlich genutzt
+wird und als Mittelpunkt der Lebensinteressen des Arbeitnehmers
+gilt. So können dann z. B. Flüge eines ausländischen Arbeitnehmers
+in den Heimatstaat nicht mehr berücksichtigt werden. </lxbase:a><lxbase:a>Der Kilometer-Pauschbetrag gilt ab 1990 auch dann, wenn
+arbeitstäglich zusätzliche Fahrten außerhalb der regelmäßigen Arbeitszeit
+erforderlich sind. </lxbase:a><lxbase:a>In § 9 Abs. 1 Nr. 6 EStG wird die Anwendung des § 6 Abs.
+2 EStG auf Arbeitsmittel, die bisher im wesentlichen durch Abschnitt
+30 Abs. 3 LStR aus Vereinfachungsgründen zugelassen war, gesetzlich
+verankert. Gleichzeitig wird klargestellt, daß bei der Ermittlung
+der abziehbaren Aufwendungen für Arbeitsmittel die in § 9 Nr. 7
+EStG genannten Vorschriften über die Absetzung für Abnutzung und
+Substanzverringerung zu beachten sind. </lxbase:a><lxbase:a>Die übrigen Änderungen des § 9 EStG haben redaktionellen
+Charakter. </lxbase:a><lxbase:a>c) Neuer Arbeitnehmer-Pauschbetrag </lxbase:a><lxbase:a>§ 9a Nr. 1 EStG bringt den neuen Arbeitnehmer-Pauschbetrag
+von 2.000 DM. Arbeitnehmer, deren Werbungskosten den Pauschbetrag
+übersteigen, können diese wie bisher steuerlich geltend machen.
+Wie bisher darf der Abzug des Arbeitnehmer-Pauschbetrags auch nicht
+zu negativen Einkünften aus nichtselbständiger Arbeit führen. </lxbase:a><lxbase:a>7. Sonderausgaben </lxbase:a><lxbase:a>a) Regelungen des § 10 EStG </lxbase:a><lxbase:a>Satz 3 des § 10 Abs. 1 Nr. 1 EStG, der zum Realsplitting
+eine entbehrliche Klarstellung enthält, wird zur Vermeidung von
+Mißverständnissen (vgl. § 32 Abs. 6 letzter Satz EStG) aufgehoben.
+</lxbase:a><lxbase:a>Nach § 10 Abs. 1 Nr. 3 EStG können ab VZ 1990 an Bausparkassen
+zur Erlangung von Baudarlehen geleistete Beiträge nur noch zur Hälfte
+als Sonderausgaben abgezogen werden. Die Beschränkung des Sonderausgabenabzugs
+von Bausparbeiträgen auf das Eineinhalbfache wird ab VZ 1988 aufgehoben.
+</lxbase:a><lxbase:a>In § 10 Abs. 1 Nr. 5 EStG wird der Sonderausgabenabzug
+von bestimmten Lastenausgleichsabgaben nach § 211 Abs. 1 Nr. 1 und
+2 LAG ab VZ 1990 ersetzt durch den entsprechenden Abzug von Zinsen
+auf Steuernachforderungen (§ 233a AO), Stundungs- und Aussetzungszinsen
+(§§ 234, 237 AO). Hinweis auf die Änderung des § 12 Nr. 3 EStG.
+</lxbase:a><lxbase:a>Die in § 10 Abs. 1 Nr. 7 Satz 4 EStG enthaltene Gleichstellung
+von Aufwendungen für eine hauswirtschaftliche Aus- oder Weiterbildung
+für den Eigenbedarf mit Aufwendungen des Steuerpflichtigen für seine
+Berufsausbildung oder Weiterbildung in einem nicht ausgeübten Beruf
+nach § 10 Abs. 1 Nr. 7 Satz 1 EStG wird ab 1990 gestrichen. Berufsbezogene Aufwendungen
+z. B. für die Ausbildung zur Hauswirtschafterin oder zur Auffrischung
+der Kenntnisse einer Hauswirtschafterin, die ihren Beruf nicht ausübt,
+können nach wie vor nach § 10 Abs. 1 Nr. 7 Satz 1 EStG abgezogen
+werden. </lxbase:a><lxbase:a>In § 10 Abs. 2 EStG - Einleitungssatz - ist das Wort "Beiträge"
+durch das Wort "Beträge" mit dem Ziel ersetzt worden klarzustellen,
+daß Aufwendungen nur in der Höhe zu den Vorsorgeaufwendungen gehören,
+in der sie Sonderausgaben sind. </lxbase:a><lxbase:a>Das Kreditaufnahmeverbot nach § 10 Abs. 2 Nr. 1 EStG wird
+ab VZ 1988 aufgehoben. </lxbase:a><lxbase:a>Bei der Änderung des § 10 Abs. 2 Nr. 3 - neu - EStG handelt
+es sich um eine redaktionelle Anpassung an eine Änderung des 5.
+VermBG. </lxbase:a><lxbase:a>§ 10 Abs. 3 EStG enthält folgende Änderungen, die ab 1990
+wirksam werden: </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>Einführung der Legaldefinitionen "Grundhöchstbetrag",
+"Vorwegabzug" und "hälftiger Höchstbetrag"; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Anhebung des Vorwegabzugs
+auf 4.000 / 8.000 DM (Ledige / Verheiratete); </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>abschließende Aufzählung
+der Kürzungsfälle, in denen der Steuerpflichtige von seiner Altersvorsorge
+und - abweichend vom geltenden Recht - von seiner Krankenvorsorge durch
+steuerfreie Leistungen von dritter Seite entlastet wird; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>die Kürzung erfolgt in einem
+pauschalierten Verfahren, in dem sich der Kürzungsbetrag wegen Entlastung
+bei der Alters- und Krankenversorgung von einer einheitlichen Bemessungsgrundlage
+mit unterschiedlichen Vomhundertsätzen errechnet. Der Kürzungssatz
+bei der Altersversorgung ist auf 9 v. H., der bei der Krankenversorgung
+auf 3 v. H. festgesetzt worden. Liegen mehrere Kürzungsfälle nebeneinander
+vor, ist die Summe des Arbeitslohns, der Einkünfte nach § 22 Nr.
+4 EStG und des Gewinns die Bemessungsgrundlage für die Kürzung.
+Erhält der Steuerpflichtige eine Entlastung sowohl zur Alters- als
+auch zur Krankenversorgung, ist der Vorwegabzug um 12 v. H. der
+maßgebenden Bemessungsgrundlage zu kürzen. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Das Kumulierungsverbot nach § 10 Abs. 5 EStG ist ab VZ
+1990 aufgehoben worden; es bleibt aber im Ergebnis durch das Wahlrecht
+nach § 10 Abs. 4 EStG sichergestellt. </lxbase:a><lxbase:a>b) Sonderausgaben-Pauschbetrag, Vorsorgepauschale </lxbase:a><lxbase:a>In § 10c Abs. 1 EStG ist der Sonderausgaben-Pauschbetrag
+ab VZ 1990 auf 108 / 216 DM (Ledige / Verheiratete) gesenkt worden;
+höhere Aufwendungen gem. § 10 Abs. 1 Nr. 1, 1a, 4 bis 7 und § 10b
+EStG können auf Nachweis als Sonderausgaben berücksichtigt werden.
+</lxbase:a><lxbase:a>Der Vorsorge-Pauschbetrag von 300 / 600 DM wird aufgehoben.
+</lxbase:a><lxbase:a>Ab 1990 wird die allgemeine Vorsorgepauschale um den Sonderausgaben-Vorwegabzug erweitert.
+Dadurch erhöht sich die Vorsorgepauschale für sozialversicherungspflichtige Arbeitnehmer
+in unteren und mittleren Arbeitslohnbereichen. </lxbase:a><lxbase:a>c) Verlustabzug </lxbase:a><lxbase:a>In § 10d EStG wird die zeitliche Beschränkung des Verlustvortrags
+aufgehoben. Dies gilt erstmals für nicht ausgeglichene Verluste,
+die im VZ 1985 entstanden sind. Verbleibende Verluste sind ab VZ
+1990 durch Bescheide gesondert festzustellen. </lxbase:a><lxbase:a>8. Nicht abzugsfähige Ausgaben </lxbase:a><lxbase:a>In § 12 Nr. 3 EStG wird klargestellt, daß das Verbot des
+Abzugs der Steuern vom Einkommen und sonstiger Personensteuern sowie
+der Umsatzsteuer für den Eigenverbrauch und für Lieferungen oder
+sonstige Leistungen, die Entnahmen sind, auch für Nebenleistungen im
+Sinne des § 3 Abs. 3 AO gilt, die auf diese Steuern entfallen, mit
+Ausnahme von Zinsen auf Steuernachforderungen (§ 233a AO), Stundungs-
+und Aussetzungszinsen (§§ 234, 237 AO). Hinweis auf § 10 Abs. 1
+Nr. 5 EStG. </lxbase:a><lxbase:a>9. Änderungen bei den einzelnen Einkunftsarten </lxbase:a><lxbase:a>a) Vergünstigungen bei Abfindung weichender Erben und
+bei Schuldentilgung in der Land- und Forstwirtschaft </lxbase:a><lxbase:a>In den Absätzen 4 und 5 des § 14a EStG werden Gleitregelungen
+eingeführt, die bei einer Überschreitung der maßgeblichen Einkommensgrenzen
+zu einer stufenweisen Verringerung der Freibeträge bei Abfindung
+weichender Erben und bei Schuldentilgung führen. Die Neuregelungen
+finden auf Veräußerungen und Entnahmen ab 1986 Anwendung. Darüber
+hinaus wird der Freibetrag für Schuldentilgung nach Absatz 5 um
+vier Jahre bis Ende 1992 verlängert. </lxbase:a><lxbase:a>b) Freiberufliche Tätigkeit </lxbase:a><lxbase:a>Der Freibetrag für freie Berufe nach § 18 Abs. 4 EStG
+wird ab 1990 abgeschafft. </lxbase:a><lxbase:a>c) Nichtselbständige Arbeit </lxbase:a><lxbase:a>Die Aufhebung der Absätze 3 bis 5 des § 19 EStG ist durch
+den Wegfall des Weihnachts-Freibetrags von 600 DM und des Arbeitnehmer-Freibetrags
+von 480 DM bedingt, die in dem neuen Arbeitnehmer-Pauschbetrag von
+2.000 DM nach § 9a EStG aufgehen. </lxbase:a><lxbase:a>d) Überlassung von Vermögensbeteiligungen an Arbeitnehmer
+</lxbase:a><lxbase:a>Gewinnschuldverschreibungen und Genußscheine der Kreditinstitute
+sind ab 1990 nur noch begünstigt, wenn das Kreditinstitut sie seinen
+eigenen Arbeitnehmern überläßt (§ 19a EStG). </lxbase:a><lxbase:a>e) Erträge aus Kapitalvermögen </lxbase:a><lxbase:a>Die Ergänzung des § 20 Abs. 1 Nr. 1 EStG stellt klar,
+daß auch verdeckte Gewinnausschüttungen zu den sonstigen Bezügen
+gehören. </lxbase:a><lxbase:a>Die Änderung des § 20 Abs. 1 Nr. 6 EStG beschränkt ab
+1989 die Steuerfreiheit der Erträge aus Versicherungen mit mindestens
+zwölfjähriger Laufzeit auf Zinsen in Höhe von 3,5 v. H. (sog. rechnungsmäßige
+Zinsen). Bei Versicherungen mit einer Laufzeit von weniger als zwölf
+Jahren unterliegen auch die rechnungsmäßigen Zinsen wie bisher der
+Einkommensteuer. </lxbase:a><lxbase:a>Alle anderen Erträge sind unabhängig von der Laufzeit
+der Versicherung ebenfalls steuerpflichtig. </lxbase:a><lxbase:a>Dabei wird der steuerliche Zufluß auch ohne tatsächliche
+Auszahlung bereits dann angenommen, wenn dem Versicherungsvertrag
+außerrechnungsmäßige Zinsen gutgeschrieben werden. </lxbase:a><lxbase:a>§ 20 Abs. 1 Nr. 4 EStG stellt klar, daß der Unterschiedsbetrag
+zwischen dem Erwerbspreis und dem Einlösungsbetrag bei auf- und
+abgezinsten Wertpapieren und Forderungen (z. B. Nullkupon- Anleihen,
+Sparbriefe) wirtschaftlich gesehen Zinscharakter hat und damit zu
+den Einnahmen aus Kapitalvermögen gehört. </lxbase:a><lxbase:a>f) Altersentlastungsbetrag </lxbase:a><lxbase:a>In § 24a EStG wird die Höchstgrenze für den Altersentlastungsbetrag
+von 3.000 DM auf 3.720 DM angehoben. Dadurch wird der Wegfall des
+Altersfreibetrags bei den Beziehern von Alterseinkünften, die nicht
+Versorgungsbezüge (§ 19 Abs. 2, § 22 Nr. 4 Buchst. b EStG) oder
+Einkünfte aus Leibrenten (§ 22 Nr. 1 Buchst. a EStG) darstellen,
+ausgeglichen. </lxbase:a><lxbase:a>(Gilt ab 1990) </lxbase:a><lxbase:a>10. Veranlagungs-Vorschriften </lxbase:a><lxbase:a>Bei getrennter Veranlagung von Ehegatten werden ab 1990
+nach § 26a Abs. 2 EStG Sonderausgaben unter Verzicht auf eine gemeinsame
+Ermittlung nur bei der Veranlagung des Ehegatten abgezogen, der
+sie geleistet hat. </lxbase:a><lxbase:a>Die Pauschbesteuerung nach § 31 EStG wird ab 1990 abgeschafft.
+</lxbase:a><lxbase:a>11. Tarif-Vorschriften </lxbase:a><lxbase:a>a) Kinderfreibetrag </lxbase:a><lxbase:a>Der Kinderfreibetrag (§ 32 Abs. 6 EStG) wird ab 1990 von
+2.484 DM auf 3.024 DM angehoben. Bei Kindern nicht miteinander verheirateter
+Eltern oder dauernd getrennt lebender Ehegatten kann ein Elternteil
+den Kinderfreibetrag des anderen Elternteils schon dann auf sich
+übertragen lassen, wenn dieser seinen Unterhaltsverpflichtungen
+nicht im wesentlichen (bisher: nicht oder nur zu einem unwesentlichen
+Teil) nachkommt. </lxbase:a><lxbase:a>b) Haushaltsfreibetrag </lxbase:a><lxbase:a>Der Haushaltsfreibetrag (§ 32 Abs. 7 EStG) wird ab 1990
+wie der Grundfreibetrag von 4.752 DM auf 5.616 DM angehoben. Außerdem
+wird seine Inanspruchnahme davon abhängig gemacht, daß das zu berücksichtigende
+Kind in der Wohnung des alleinstehenden Elternteils gemeldet ist.
+Bisher genügte die Zuordnung des Kindes. </lxbase:a><lxbase:a>Gemeinsame Kinder nicht miteinander verheirateter Eltern
+oder dauernd getrennt lebender Ehegatten, die bei beiden Elternteilen
+gemeldet sind, werden für den Haushaltsfreibetrag dem Elternteil
+zugeordnet, in dessen Wohnung sie im Kalenderjahr zuerst gemeldet
+waren. Hat insoweit keiner der Elternteile Vorrang, so sind sie
+der Mutter zuzuordnen oder mit deren Zustimmung dem Vater; die Zustimmung
+kann nicht widerrufen werden. </lxbase:a><lxbase:a>c) Altersfreibetrag </lxbase:a><lxbase:a>Der Altersfreibetrag (§ 32 Abs. 8 EStG) wird ab 1990 abgeschafft;
+siehe aber auch zu § 24a EStG. </lxbase:a><lxbase:a>d) Einkommensteuertarif </lxbase:a><lxbase:a>In der Vorschrift des § 32a EStG über den Einkommensteuertarif
+wird mit Wirkung ab 1990 </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>der Grundfreibetrag von 4.752 DM / 9.504 DM auf 5.616
+DM / 11.232 DM (Ledige / Verheiratete) angehoben, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>der Steuersatz in der unteren
+Proportionalzone von 22 v. H. auf 19 v. H. gesenkt, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>eine geradlinig ansteigende
+Grenzsteuerbelastung eingeführt, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>der Spitzensteuersatz von
+56 v. H. auf 53 v. H. herabgesetzt; er gilt für Teile des zu versteuernden
+Einkommens über 120.000 DM / 240.000 DM. </lxbase:a><lxbase:a>e) Progressionsvorbehalt </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Ab 1990 wird der Katalog der steuerfreien Lohnersatzleistungen,
+die dem Progressionsvorbehalt unterliegen, in § 32b Abs. 1 Nr. 1
+EStG erheblich erweitert. Alle Lohnersatzleistungen werden einheitlich
+nur noch mit ihren Leistungsbeträgen erfaßt; die bisherige Hochrechnung
+auf einen Bruttobetrag entfällt. </lxbase:a><lxbase:a>Wie bisher wird auch der neue Arbeitnehmer-Pauschbetrag
+von 2.000 DM von den Lohnersatzleistungen abgezogen, soweit er sich
+nicht bei den Einkünften aus nichtselbständiger Arbeit ausgewirkt
+hat. </lxbase:a><lxbase:a>Die Träger der Sozialleistungen werden verpflichtet, den
+Leistungsempfängern Bescheinigungen über die Lohnersatzleistungen
+zur Vorlage beim Finanzamt auszustellen und verpflichtet, den Empfänger
+der Leistungen - ähnlich wie bei der sog. Quellensteuer - auf die Erklärungspflicht
+hinzuweisen. </lxbase:a><lxbase:a>Die Anwendung des Progressionsvorbehalts wird nicht mehr
+im Lohnsteuer-Jahresausgleich, sondern nur noch im Veranlagungsverfahren
+vorgenommen. </lxbase:a><lxbase:a>f) Außergewöhnliche Belastung </lxbase:a><lxbase:a>In § 33a Abs. 1 EStG werden die Höchstbeträge für den
+Abzug von Unterhaltsaufwendungen ab 1990 von 4.500 DM auf 5.400
+DM und von 2.484 DM auf 3.024 DM angehoben. Der Personenkreis, für
+den Unterhaltsaufwendungen bis zum Höchstbetrag in Höhe des Kinderfreibetrags
+abgezogen werden können, wird um die Kinder erweitert, für die der Steuerpflichtige
+künftig auch einen Ausbildungsfreibetrag nach § 33a Abs. 2 EStG
+erhalten kann. </lxbase:a><lxbase:a>Der Freibetrag (§ 33a Abs. 1a EStG) zur Pflege des Eltern-Kind-
+Verhältnisses, den barunterhaltspflichtige Elternteile erhalten,
+wird ab 1990 abgeschafft. </lxbase:a><lxbase:a>Ausbildungsfreibeträge (§ 33a Abs. 2 EStG) können auch
+für Auslandskinder, die zu Beginn des Kalenderjahrs das 27. Lebensjahr
+noch nicht vollendet haben, neben der Steuerermäßigung nach § 33a
+Abs. 1 EStG in Anspruch genommen werden. Entsprechendes gilt für
+Kinder, bei denen der Abschluß der Berufsausbildung sich wegen Ableistung des
+Grundwehrdienstes oder Zivildienstes über das 27. Lebensjahr hinaus
+verzögert hat, bis zu deren vollendetem 29. Lebensjahr. Für die
+Anrechnung eigener Einkünfte und Bezüge der vorgenannten Kinder
+kann neben dem anrechnungsfrei bleibenden Betrag des § 33a Abs.
+1 EStG ein weiterer anrechnungsfrei bleibender Betrag nicht in Anspruch genommen
+werden. </lxbase:a><lxbase:a>Die Neuregelung gilt hinsichtlich der Auslandskinder ab
+1988 und hinsichtlich der Kinder, bei denen der Abschluß der Berufsausbildung
+sich wegen des Grundwehrdienstes / Ersatzdienstes verzögert hat,
+ab 1990. </lxbase:a><lxbase:a>In § 33a Abs. 3 EStG ist der Höchstbetrag zur Berücksichtigung
+von Aufwendungen, die einem Steuerpflichtigen durch die Beschäftigung
+einer Hilfe im Haushalt wegen einer hilflosen Person oder von vergleichbaren
+Aufwendungen infolge Unterbringung in einem Heim erwachsen, ab VZ
+1990 auf 1.800 DM angehoben worden. </lxbase:a><lxbase:a>Ausbildungszuschüsse, die für einen Teil des Kalenderjahrs
+bezogen werden, mindern nach dem neuen Satz 3 des § 33a Abs. 4 EStG
+nur noch die zeitanteiligen Höchstbeträge und Ausbildungsfreibeträge
+der Kalendermonate, für die die Zuschüsse bestimmt sind. </lxbase:a><lxbase:a>§ 33b EStG ist im wesentlichen redaktionell an die Änderungen
+der Begriffe im Schwerbehindertengesetz (z. B. Behinderter statt
+Körperbehinderter) angepaßt worden. </lxbase:a><lxbase:a>g) Steuersätze bei außerordentlichen Einkünften </lxbase:a><lxbase:a>In § 33b Abs. 6 - neu - EStG ist für Steuerpflichtige,
+denen durch die Pflege einer hilflosen Person außergewöhnliche Belastungen
+erwachsen, ein Pflegepauschbetrag von 1.800 DM ab VZ 1990 eingeführt
+worden. </lxbase:a><lxbase:a>Für außerordentliche Einkünfte im Sinne des § 34 Abs.
+2 EStG wird die Tarifermäßigung des § 34 Abs. 1 EStG mit dem halben
+durchschnittlichen Steuersatz ab 1990 nicht mehr uneingeschränkt
+gewährt. Sie kommt in diesem Ausmaß als Sockelvergünstigung noch für
+außerordentliche Einkünfte bis zu 2 Mio DM in Betracht. Ein weiterer
+Teilbetrag von bis zu 3 Mio DM unterliegt einem Zwei- Drittel-Durchschnittssteuersatz.
+Über 5 Mio DM hinausgehende außerordentliche Einkünfte sind nicht
+mehr tarifbegünstigt. </lxbase:a><lxbase:a>Einkünfte, die die Vergütung für eine mehrjährige Tätigkeit
+darstellen, z. B. Lohnnachzahlungen, werden nach § 34 Abs. 3 EStG
+für Zwecke der Steuerberechnung mit einem Drittel den übrigen Einkünften
+zugerechnet, die auf dieses Drittel entfallende Einkommensteuer
+verdreifacht und diese verdreifachte Einkommensteuer der ohne Einbeziehung
+der außerordentlichen Einkünfte ermittelten Einkommensteuer zugerechnet.
+</lxbase:a><lxbase:a>Die Neuregelungen sind erstmals ab 1990 anzuwenden. </lxbase:a><lxbase:a>Durch Ergänzung in Absatz 3 Nr. 1 des § 34b EStG wird
+sichergestellt, daß sich die Einschränkung des § 34 EStG nicht auf
+die Steuervergünstigung nach § 34b EStG auswirkt. Das Antragserfordernis
+für die Anwendung der Vorschrift entfällt. Beide Änderungen gelten
+ab 1990. </lxbase:a><lxbase:a>12. Steuerermäßigungen </lxbase:a><lxbase:a>Zu § 34c Abs. 4 EStG </lxbase:a><lxbase:a>Ausländische Einkünfte aus dem Betrieb von Handelsschiffen
+im internationalen Verkehr unterliegen wie bisher uneingeschränkt
+dem halben durchschnittlichen Steuersatz. Die Ermäßigung ist auch
+für die ausländischen Teile der Gewinne aus der Veräußerung von
+im internationalen Verkehr betriebenen Handelsschiffen anzuwenden.
+Für den als im Inland erzielt geltenden Teil derartiger Veräußerungsgewinne
+gilt die Tarifermäßigung nach § 34 Abs. 1 EStG. </lxbase:a><lxbase:a>Durch die Änderung des § 34f EStG wird bei eigengenutztem
+Wohneigentum das sog. Baukindergeld unter sonst gleichbleibenden
+Voraussetzungen von 600 DM auf 750 DM als Steuerermäßigung angehoben.
+</lxbase:a><lxbase:a>13. Steuererhebung </lxbase:a><lxbase:a>§ 36 Abs. 2 Nr. 2 EStG regelt die anteilige Besteuerung
+und Anrechnung von Kapitalertragsteuer bei der Veräußerung von festverzinslichen
+Wertpapieren. Dabei ist ohne Rücksicht auf die im Zinszahlungszeitpunkt
+einzubehaltende Kapitalertragsteuer 10 v. H. der erhaltenen Stückzinsen
+unter Berücksichtigung etwaiger gezahlter Stückzinsen als Kapitalertragsteuer
+anzurechnen. </lxbase:a><lxbase:a>14. Lohnsteuerabzug </lxbase:a><lxbase:a>a) Lohnsteuertabellen </lxbase:a><lxbase:a>In den Steuerklassen V und VI wird die Grenzsteuerbelastung
+auf 53 v. H. beschränkt (§ 38c EStG). </lxbase:a><lxbase:a>b) Lohnsteuerkarte (§ 39 EStG) </lxbase:a><lxbase:a>a) Die Eintragung der Kinderzahl auf der Lohnsteuerkarte
+entfällt, dies gilt nicht für Berlin. </lxbase:a><lxbase:a>b) Künftig kann der volle Kinderfreibetrag von 3.024 DM
+auch dann auf der Lohnsteuerkarte eingetragen werden, wenn </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>der andere Elternteil bereits seit Jahren im Ausland lebt,
+</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>mit Unterhaltsleistungen
+des anderen Elternteils z. B. wegen lang andauernder Arbeitslosigkeit
+nicht zu rechnen ist, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>der andere Elternteil zivilrechtlich
+von seiner Unterhaltsverpflichtung entbunden ist oder </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>der andere Elternteil der
+Übertragung unwiderruflich zugestimmt hat. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Soweit in diesen Fällen beim anderen Elternteil der Kinderfreibetrag
+von 1.512 DM bereits auf der Lohnsteuerkarte eingetragen ist, soll
+sich daran nichts ändern. Sowohl der durch die Eintragung begünstigte
+Elternteil als auch der von der Übertragung des Kinderfreibetrages
+betroffene andere Elternteil werden nach Ablauf des Kalenderjahrs
+zur Einkommensteuer veranlagt (§ 46 Abs. 2 Nr. 4a EStG). </lxbase:a><lxbase:a>c) Freibeträge beim Lohnsteuerabzug (§ 39a EStG) </lxbase:a><lxbase:a>Ab 1990 entfällt die Eintragung des Altersfreibetrags
+auf der Lohnsteuerkarte. Des weiteren erhöht sich für jedes Kind
+die Steuerermäßigung nach § 34f EStG von 2.400 auf 3.000 DM. Dies
+gilt jedoch nur, wenn das begünstigte Objekt nach dem 31. Dezember
+1989 hergestellt oder angeschafft worden ist. Bei vor dem 1. Januar
+1990 hergestellten oder angeschafften begünstigten Objekten beträgt
+die Steuerermäßigung weiterhin 2.400 DM (§ 52 Abs. 26 EStG). </lxbase:a><lxbase:a>Für die Eintragung eines Freibetrags auf der Lohnsteuerkarte
+wird in Anpassung an den neuen Arbeitnehmer-Pauschbetrag ab 1990
+die Antragsgrenze im Werbungskostenbereich nur noch auf den Teilbetrag
+der Werbungskosten bezogen, der über 2.000 DM hinausgeht. Im übrigen
+aber wird die Antragsgrenze auf 1.200 DM herabgesetzt. Dies bedeutet,
+daß Werbungskosten für sich allein nur dann zu einem Freibetrag
+führen können, wenn sie insgesamt mehr als 3.200 DM betragen. Sonderausgaben
+und außergewöhnliche Belastungen können für sich allein berücksichtigt
+werden, wenn sie insgesamt mehr als 1.200 DM betragen. Betragen
+z. B. Sonderausgaben und außergewöhnliche Belastungen zusammen nur
+1.000 DM, so müssen Werbungskosten von mehr als 2.200 DM nachgewiesen
+werden, wenn ein Freibetrag auf der Lohnsteuerkarte eingetragen werden
+soll. </lxbase:a><lxbase:a>d) Durchführung des Lohnsteuerabzugs </lxbase:a><lxbase:a>Bei einem Großteil der Änderungen (§ 39b EStG) handelt
+es sich um redaktionelle Folgeänderungen. Abweichend von § 34 Abs.
+1 EStG wird bei Entschädigungen über 2 Mio DM die volle Steuer erhoben.
+</lxbase:a><lxbase:a>Die Änderungen der §§ 39c und 39d EStG haben in der Hauptsache
+redaktionellen Charakter. </lxbase:a><lxbase:a>d) Lohnsteuer-Pauschalierung </lxbase:a><lxbase:a>In § 40 EStG wird die Pauschalierungsgrenze von jährlich
+1.000 DM bei der Pauschalierung der Lohnsteuer mit einem betriebsindividuellen
+Pauschsteuersatz auf 2.000 DM angehoben. </lxbase:a><lxbase:a>Die Lohnsteuerpauschalierung (25 v. H.) bei verbilligter
+oder unentgeltlicher Abgabe von Mahlzeiten wird ausdrücklich zugelassen.
+Außerdem ist in den Fällen des § 40 Abs. 2 EStG die Pauschalierung
+der Lohnsteuer nicht mehr von einer Genehmigung des Finanzamts abhängig;
+auch muß es sich nicht mehr um eine größere Zahl von Fällen handeln.
+</lxbase:a><lxbase:a>In § 40a EStG wird die Tageslohngrenze bei kurzfristiger
+Beschäftigung auf 120 DM und der Pauschsteuersatz auf 25 v. H. angehoben.
+</lxbase:a><lxbase:a>Bei Beschäftigung in geringem Umfang und gegen geringen
+Arbeitslohn gilt ab 1990 ein Pauschsteuersatz von 15 v. H. Außerdem
+werden die für die Lohnsteuerpauschalierung bei Teilzeitbeschäftigten
+geltenden Grenzen der Beschäftigungsdauer und des Arbeitslohns auf
+den Lohnzahlungszeitraum bezogen; neben den Wochengrenzen werden Monatsgrenzen
+bestimmt, die aus den Wochengrenzen abgeleitet sind. Außerdem wird die
+Stundenlohngrenze von 12 auf 18 DM erhöht. </lxbase:a><lxbase:a>Bei Aushilfskräften in Betrieben der Land- und Forstwirtschaft
+erhöht sich der Pauschsteuersatz von 2 auf 3 v. H. </lxbase:a><lxbase:a>Der in § 2 Abs. 3 Nr. 2 LStDV geregelte Zukunftssicherungsfreibetrag
+fällt ab 1990 weg. </lxbase:a><lxbase:a>Statt dessen wird in § 40b EStG die Pauschalierungsgrenze
+von 2.400 DM, bis zu der Beiträge und Zuwendungen pauschal versteuert
+werden dürfen, auf 3.000 DM angehoben. Gleichfalls wird ab 1990
+der Lohnsteuer-Pauschsatz für bestimmte Zukunftsicherungsleistungen
+von 10 v. H. auf 15 v. H. erhöht. </lxbase:a><lxbase:a>e) Lohnsteuerabzug und Lohnsteuer-Jahresausgleich </lxbase:a><lxbase:a>Die bisher nach den §§ 41, 41b EStG bestehenden Aufzeichnungspflichten
+werden auf den Zuschuß zum Mutterschaftsgeld nach dem Mutterschutzgesetz
+und die Entschädigung nach dem Bundesseuchengesetz ausgedehnt. Es
+sind jedoch nur noch die tatsächlich gezahlten Leistungen vom Arbeitgeber
+aufzuzeichnen. Der Arbeitgeber muß im Lohnkonto durch die Eintragung
+des Großbuchstabens U die Fälle vermerken, in denen zwar das Dienstverhältnis
+weiterhin besteht, der Arbeitnehmer jedoch keinen Anspruch auf Arbeitslohn
+hat. </lxbase:a><lxbase:a>Die Verpflichtung des Arbeitgebers, in bestimmten Fällen
+für seine Arbeitnehmer Lohnzettel auszuschreiben, entfällt. Lohnzettel
+müssen letztmals für das Kalenderjahr 1987 ausgeschrieben werden.
+</lxbase:a><lxbase:a>Die Änderungen des § 41c EStG beruhen auf der Abschaffung
+des Lohnzettel-Verfahrens. </lxbase:a><lxbase:a>Bei sonstigen Bezügen, die eine Entlohnung für eine Tätigkeit
+darstellen, die sich mehrere Jahre erstreckt, kann nach § 42 Abs.
+4 EStG ein Lohnsteuer-Jahresausgleich durchgeführt werden. Die Anwendung
+des Progressionsvorbehalts im Lohnsteuer-Jahresausgleich ist künftig
+nicht mehr möglich; derartige Fälle werden veranlagt. </lxbase:a><lxbase:a>Die Änderungen der §§ 42a, 42b EStG haben hauptsächlich
+redaktionellen Charakter. Die steuerliche Vergünstigung für Arbeitnehmererfindungen
+läuft Ende 1988 aus. </lxbase:a><lxbase:a>Die örtliche Zuständigkeit des Finanzamts beim Lohnsteuer-
+Jahresausgleich richtet sich zukünftig nach den Vorschriften der
+Abgabenordnung (§ 42c EStG); die bisherigen Zuständigkeitsregelungen
+gelten letztmals für das Kalenderjahr 1987. </lxbase:a><lxbase:a>In Absatz 2 Nr. 2 des § 42d EStG handelt es sich um eine
+Bereinigung des Gesetzeswortlauts. </lxbase:a><lxbase:a>Der bereits in § 10 Abs. 3 LStDV geregelte Haftungsausschluß
+wird in das Gesetz übernommen. </lxbase:a><lxbase:a>Das Institut der Anerkenntnis, nach dem ein Lohnsteuerhaftungsbescheid
+bei Anerkenntnis der Zahlungspflicht des Arbeitgebers nicht erteilt
+zu werden braucht, wird auf die Nachforderung von pauschaler Lohnsteuer
+ausgedehnt. </lxbase:a><lxbase:a>15. Kapitalertragsteuer </lxbase:a><lxbase:a>a) Kapitalerträge mit Steuerabzug </lxbase:a><lxbase:a>Die Vorschrift des § 43 EStG regelt einen Kernbereich
+der neuen Kapitalertragsteuer. Sie bestimmt, welche Zinsen aus Kapitalforderungen
+jeder Art, z. B. aus Einlagen und Anleihen - von Erträgen aus Lebensversicherungen
+und aus Anteilscheinen an Investmentfonds abgesehen, für die es
+eigene Regelungen gibt - ab 1989 dem Steuerabzug vom Kapitalertrag
+in Höhe von 10 v. H. unterliegen. </lxbase:a><lxbase:a>Da bei den in § 43 Abs. 1 Nr. 8 Buchstabe a EStG genannten
+Kapitalforderungen Gläubiger und Schuldner der Kapitalerträge in
+der Regel nicht bekannt sind, unterliegen diese Kapitalerträge in
+allen Fällen dem Steuerabzug durch den inländischen Schuldner (Emittent).
+</lxbase:a><lxbase:a>Zinsen aus einfachen Darlehensforderungen (§ 43 Abs. 1
+Buchstabe b EStG) unterliegen grundsätzlich nur dem Steuerabzug,
+wenn der Schuldner ein inländisches Kreditinstitut ist. Inländische
+Zweigstellen ausländischer Kreditinstitute sind den inländischen
+Kreditinstituten gleichgestellt. In den folgenden fünf Fällen ist
+jedoch kein Steuerabzug vorzunehmen: </lxbase:a><lxbase:a>1. bei Kapitalerträgen aus Kreditgeschäften, bei denen
+auch der Gläubiger ein inländisches Kreditinstitut ist (Interbankengeschäfte),
+</lxbase:a><lxbase:a>2. bei Zinsen aus Spareinlagen mit gesetzlicher Kündigungsfrist
+ohne weitere Zusatzvereinbarung, </lxbase:a><lxbase:a>3. bei Zinsen aus Girokonten, wenn die Guthaben mit höchstens
+0,5 v. H. verzinst werden, </lxbase:a><lxbase:a>4. bei Zinsen aus einem Bausparvertrag, wenn dem Steuerpflichtigen
+im Sparjahr eine Wohnungsbauprämie oder eine Arbeitnehmer-Sparzulage
+- gleichgültig für welches Jahr - für Aufwendungen an die Bausparkasse
+gewährt worden ist, </lxbase:a><lxbase:a>5. bei nur einmal im Kalenderjahr gutgeschriebenen Kapitalerträgen
+bis höchstens zehn Deutsche Mark (Bagatellregelung). </lxbase:a><lxbase:a>§ 43 Abs. 1 Nr. 8 Buchstabe c EStG regelt die Ausnahme
+von dem Grundsatz, daß der Schuldner der Kapitalerträge ein inländisches
+Kreditinstitut sein muß. Danach haben auch andere Schuldner, also
+z. B. alle anderen Unternehmen und die juristischen Personen des öffentlichen
+Rechts den Steuerabzug vorzunehmen, wenn der Gläubiger der Kapitalerträge
+Sitz, Geschäftsleitung, Wohnsitz oder gewöhnlichen Aufenthalt im
+Ausland hat. Inländische Zweigstellen ausländischer Kreditinstitute
+gelten als inländische Gläubiger. </lxbase:a><lxbase:a>Der Kapitalertragsteuer unterliegen nur inländische Kapitalerträge.
+Daher ist von Zinsen aus Auslandsanleihen kein Steuerabzug vorzunehmen,
+da der Schuldner (Emittent) in diesen Fällen Wohnsitz, Geschäftsleitung
+oder Sitz im Ausland hat (§ 43 Abs. 3 EStG). </lxbase:a><lxbase:a>b) Kapitalertragsteuer bei Lebensversicherungen </lxbase:a><lxbase:a>§ 43a Abs. 1 Nr. 2 EStG regelt den Steuerabzug in Höhe
+von 10 v. H. für Versicherungserträge, die wegen der Änderung des
+§ 20 Abs. 1 Nr. 6 EStG ab 1989 der Einkommensteuer unterliegen.
+Dem Steuerabzug von 10 v. H. unterliegen - mit Ausnahme der rechnungsmäßigen
+Zinsen und der während der Laufzeit des Versicherungsvertrages ausgezahlten Erträge
+- alle Erträge aus Versicherungen mit einer Laufzeit von mindestens
+12 Jahren. </lxbase:a><lxbase:a>Daneben bleibt der Kapitalertragsteuerabzug von 25 v.
+H. für schon bisher steuerpflichtige Erträge aus Versicherungen
+mit einer Laufzeit von weniger als zwölf Jahren grundsätzlich bestehen.
+Eine Versicherung, bei der eine Laufzeit von mindestens zwölf Jahren vereinbart
+worden war, die jedoch wegen vorzeitigen Rückkaufs nur eine solche
+von weniger als zwölf Jahren erreicht, wird wie eine Versicherung
+behandelt, für die von vornherein nur eine Laufzeit von weniger
+als zwölf Jahren vorgesehen war. Um allerdings in diesen Fällen
+eine Nachversteuerung der bereits mit 10 v. H. besteuerten Erträge
+zu vermeiden, bleibt es auch bei Versicherungen mit einer Laufzeit
+von unter zwölf Jahren bei dem von vornherein vorgenommenen Steuerabzug
+von nur 10 v. H., so daß am Ende eines solchen Vertrags ein etwaiger
+Schlußgewinnanteil und die rechnungsmäßigen Zinsen dem Kapitalertragsteuerabzug
+von 25 v. H. unterliegen. </lxbase:a><lxbase:a>c) Abstandnahme vom Steuerabzug </lxbase:a><lxbase:a>Die Möglichkeit, bei Erträgen aus Lebensversicherungen
+vom Steuerabzug Abstand zu nehmen, wird ab 1989 beseitigt (§ 44a
+EStG). Dafür hat der Steuerpflichtige einen Erstattungsanspruch
+nach § 44b Abs. 1 EStG oder ein Veranlagungswahlrecht (§ 45b EStG). Dagegen
+können die Kreditinstitute in Fällen, in denen sie selbst Schuldner
+von Kapitalerträgen sind, bei Vorlage einer sogenannten NV-Bescheinigung
+oder einer entsprechenden Bescheinigung einer steuerbefreiten oder
+beschränkt steuerpflichtigen Körperschaft vom Kapitalertragsteuerabzug
+absehen. </lxbase:a><lxbase:a>d) Erstattung der Kapitalertragsteuer </lxbase:a><lxbase:a>Die Regelung des § 44b EStG bezieht die neue Kapitalertragsteuer
+auf Erträge aus Lebensversicherungen und insbesondere auf Zinsen
+aus verbrieften Kapitalforderungen (§ 43 Abs. 1 Nr. 8 Buchstabe
+a EStG) in das Verfahren zur Erstattung von Kapitalertragsteuer
+in NV-Fällen durch das Bundesamt für Finanzen ein. </lxbase:a><lxbase:a>e) Erstattung von Kapitalertragsteuer an bestimmte Gläubiger
+</lxbase:a><lxbase:a>Steuerbefreite Körperschaften und beschränkt steuerpflichtige
+juristische Personen des öffentlichen Rechts werden mit der ab 1989
+zu erhebenden neuen Kapitalertragsteuer von 10 v. H. nicht belastet
+(§ 44c EStG). Daher können Kreditinstitute vom Steuerabzug von Zinszahlungen
+an derartige Gläubiger absehen (§ 44a Abs. 5 EStG). </lxbase:a><lxbase:a>In anderen Fällen, z. B. bei Erträgen aus verbrieften
+Kapitalforderungen, erstattet das Bundesamt für Finanzen nach §
+44b Abs. 1 EStG die vom Emittenten einbehaltene und abgeführte Kapitalertragsteuer.
+</lxbase:a><lxbase:a>f) Ausschluß der Erstattung von Kapitalertragsteuer </lxbase:a><lxbase:a>Dem Erwerber von Dividenden- oder Zinsscheinen wird die
+vom Emittenten einbehaltene Kapitalertragsteuer nicht deshalb erstattet,
+weil er im Verhältnis zum Emittenten nicht Gläubiger der Kapitalerträge
+ist (§ 45 EStG). Denn die Anrechnung oder Erstattung der Kapitalertragsteuer
+kommt nur beim Anteilseigner oder Inhaber der Schuldverschreibung
+in Betracht. </lxbase:a><lxbase:a>g) Anmeldung und Bescheinigung der Kapitalertragsteuer
+</lxbase:a><lxbase:a>Die Vorschriften über die Anmeldung und Bescheinigung
+der Kapitalertragsteuer gilt nach § 45a EStG auch für die ab 1989
+zu erhebende neue Kapitalertragsteuer von 10 v. H. </lxbase:a><lxbase:a>Da mit dem Steuerabzug in Höhe von 10 v. H. auf Erträge
+aus Lebensversicherungen die Einkommensteuer grundsätzlich abgegolten
+ist, müssen die Versicherungsunternehmen nur auf Verlangen der Versicherungsnehmer
+eine Bescheinigung über einbehaltene und abgeführte Kapitalertragsteuer
+ausstellen, z. B. weil der Versicherungsnehmer die Erträge in die
+Veranlagung zur Einkommensteuer einbeziehen will (§ 45b Satz 4 EStG).
+</lxbase:a><lxbase:a>h) Besondere Behandlung von Kapitalerträgen aus Lebensversicherungen
+</lxbase:a><lxbase:a>Der neue § 45b EStG legt grundsätzlich die Abgeltung für
+Erträge aus Lebensversicherungen fest, die nach § 43a EStG dem Steuerabzug
+von 10 v. H. unterliegen. Auf Antrag des Steuerpflichtigen sind
+jedoch diese Erträge in die Veranlagung einzubeziehen. Die damit verbundene
+Anrechnung der einbehaltenen Kapitalertragsteuer kann die volle
+Erstattung zur Folge haben. </lxbase:a><lxbase:a>16. Veranlagung bei steuerabzugspflichtigen Einkünften
+</lxbase:a><lxbase:a>§ 46 EStG enthält folgende Änderungen: </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>Die Veranlagungsgrenzen in § 46 Abs. 1 EStG wurden auf
+54.000 / 27.000 DM erweitert. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Die Freigrenze in § 46 Abs.
+2 Nr. 1 EStG von 800 DM gilt nunmehr jeweils für steuerpflichtige
+Nebeneinkünfte und für alle steuerfreien dem Progressionsvorbehalt
+unterliegenden Einkünfte (daher § 46 Abs. 2 Nr. 2a und 2c Buchstabe
+b EStG aufgehoben). </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Der steuerfrei bleibende
+Betrag nach § 13 Abs. 3 EStG wird bei den Nebeneinkünften i. S.
+des § 46 Abs. 2 Nr. 1 EStG (und Abs. 3) sowie bei den Verlusten
+i. S. des § 46 Abs. 2 Nr. 8 Buchst. b berücksichtigt. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Die Veranlagungspflicht für
+Arbeitslöhne von - nebeneinander - mehreren Arbeitgebern ist nicht
+mehr einkommensabhängig (§ 46 Abs. 2 Nr. 2 EStG). Entsprechendes
+gilt für Versorgungsbezüge (§ 46 Abs. 2 Nr. 3 und 3a EStG aufgehoben)
+und für Ehegatten mit der Steuerklassenkombination III und V oder
+VI (§ 46 Abs. 2 Nr. 3a EStG). </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Die Veranlagungspflicht nach
+§ 46 Abs. 2 Nr. 4a EStG wurde auf die - neuen - Fälle ausgedehnt,
+in denen ein Kinderfreibetrag vorab auf der Lohnsteuerkarte des
+unbeschränkt steuerpflichtigen Elternteils bescheinigt worden ist,
+ein Kinderfreibetrag auf den anderen Elternteil übertragen wird
+oder ein Kind nach § 32 Abs. 7 Satz 2 EStG dem Vater zugeordnet
+wird (siehe auch zu Nr. 11 Buchstabe b Absatz 2). </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Auf Grund des neugefaßten
+Veranlagungstatbestandes des § 46 Abs. 2 Nr. 5 EStG sind im Lohnsteuerverfahren
+vorab berücksichtigte Kinderbetreuungskosten in bestimmten Fällen
+nachträglich durch Veranlagung zu überprüfen. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Auf Grund des ergänzten §
+46 Abs. 2 EStG vorletzter Satz ist der Antrag auf Veranlagung durch
+Abgabe der Einkommensteuererklärung zu stellen. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Die Regelung des § 46 Abs.
+6 EStG über die örtliche Zuständigkeit ist ab 1988 aufgehoben. </lxbase:a><lxbase:a>17. Änderungen bei der Besteuerung beschränkt Steuerpflichtiger
+</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Die nach § 43 EStG ab 1989 zu erhebende neue Kapitalertragsteuer
+betrifft auch Kapitalerträge, die bisher bei beschränkt Steuerpflichtigen
+nicht zu den inländischen Einkünften im Sinne des § 49 EStG gehören
+(§ 49 Abs. 1 Nr. 5 EStG). Damit auch beschränkt Einkommensteuerpflichtige
+- vorbehaltlich einer teilweisen oder völligen Erstattung der erhobenen
+Kapitalertragsteuer auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung
+- von der neuen Kapitalertragsteuer erfaßt werden können, ist der Umfang
+der inländischen Einkünfte im Sinne der beschränkten Einkommensteuerpflicht insoweit
+erweitert worden. </lxbase:a><lxbase:a>Der in § 10 Abs. 1 Nr. 5 EStG neu zugelassene Abzug von
+Zinsen auf bestimmte Steuerforderungen gilt auch für beschränkt
+Einkommensteuerpflichtige (§ 50 Abs. 1 EStG). </lxbase:a><lxbase:a>Für Auslandskinder beschränkt Steuerpflichtiger werden
+künftig auch Ausbildungsfreibeträge nach § 33a Abs. 2 EStG gewährt
+(§ 50 Abs. 4 EStG). Diese Regelung gilt bereits für den Veranlagungszeitraum
+1988 (§ 52 Abs. 23 EStG). </lxbase:a><lxbase:a>18. Änderung von Ermächtigungsvorschriften </lxbase:a><lxbase:a>Preissteigerungsrücklage (§ 51 Abs. 1 Nr. 2 Buchst. b
+EStG): </lxbase:a><lxbase:a>Preissteigerungsrücklagen nach § 74 EStDV können nur noch
+in Wirtschaftsjahren gebildet werden, die vor dem 1. Januar 1990
+enden. Zu diesem Zeitpunkt bestehende Rücklagen können im Rahmen
+der bisher zulässigen Frist weitergeführt werden. </lxbase:a><lxbase:a>Importwarenabschlag (§ 51 Abs. 1 Nr. 2 Buchst. m EStG):
+</lxbase:a><lxbase:a>Der Bewertungsabschlag für bestimmte Wirtschaftsgüter
+des Umlaufvermögens ausländischer Herkunft (sog. Importwarenabschlag)
+kann für das Wirtschaftsjahr, das im Veranlagungszeitraum 1990 endet,
+nur noch in Höhe von bis zu 15 v. H. und für alle danach endenden
+Wirtschaftsjahre nur noch in Höhe von bis zu 10 v. H. in Anspruch
+genommen werden. </lxbase:a><lxbase:a>19. § 51 Abs. 1 Nr. 2 Buchst. n EStG; § 81 EStDV </lxbase:a><lxbase:a>Durch die Änderung der Ermächtigung in § 51 Abs. 1 Nr.
+2 Buchst. n EStG werden Sonderabschreibungen für den Kohle- und
+Erzbergbau nach § 81 EStDV auf Wirtschaftsgüter und Maßnahmen befristet,
+die vor dem 1. Januar 1990 angeschafft oder hergestellt werden.
+Gleiches gilt für den Betriebsausgabenabzug von Kosten des Vorabraums.
+</lxbase:a><lxbase:a>20. Einkommensteuer als Maßstabsteuer </lxbase:a><lxbase:a>Ab dem Veranlagungszeitraum 1990 werden in § 51a EStG
+die Abzugsbeträge für Kinder, um die die festgesetzte Einkommensteuer
+oder Jahreslohnsteuer als Maßstabsteuer für Annexsteuern zu kürzen
+ist, auf 300 bzw. 150 DM für jedes zu berücksichtigende Kind herabgesetzt.
+Die Änderung hat mittelbar Auswirkung auf die Kirchensteuer, die
+die Kirchensteuersätze der Länder auf die Regelung in § 51a EStG
+verweisen. </lxbase:a><lxbase:a>21. Änderung von Anwendungsregelungen, soweit nicht bereits
+bei den zugehörigen materiellen Vorschriften dargestellt: </lxbase:a><lxbase:a>Durch die Änderung des Datums in Satz 3 des § 52 Abs.
+15 EStG wird die Übergangsregelung des Wohneigentumsförderungsgesetzes
+(Beibehaltung des alten Rechts bis zu zwölf Jahren) auch für landwirtschaftliche
+Wohngebäude eröffnet, für die der Bauantrag zwischen dem 1. März
+1986 und dem 1. Januar 1987 gestellt worden ist. </lxbase:a><lxbase:a>Durch den neuen Satz 10 in § 52 Abs. 15 EStG werden Entnahmegewinne
+bei erstmaliger Bebauung von land- und forstwirtschaftlichen Betriebsgrundstücken
+mit selbstgenutzten Wohnungen in die Steuerfreiheit des Entnahmegewinns
+nach Satz 7 einbezogen. Die Vergünstigung ist auf jeweils eine zu
+eigenen Wohnzwecken genutzte Wohnung und eine Altenteilerwohnung
+beschränkt und findet ab 1987 Anwendung. Die Regelung gilt auch für
+Gewerbetreibende und Freiberufler. </lxbase:a><lxbase:a>Die Anwendung der Begrenzung des Ausgleichs und Abzugs
+von Verlusten bei beschränkter Haftung nach § 15a EStG auf Verluste
+bei Gebäuden, die mit öffentlichen Mitteln gefördert worden sind,
+auf Wirtschaftsjahre, die nach dem 31. Dezember 1994 beginnen, hinausgeschoben
+(§ 52 Abs. 19 EStG). </lxbase:a><lxbase:a>22. Zu § 53 EStG </lxbase:a><lxbase:a>Im Wege einer Übergangsvorschrift wird § 33a Abs. 1 EStG
+für die Kalenderjahre 1988 und 1989 an das ab 1990 geltende System
+angepaßt (vgl. den 2. Satz der Ausführungen zu § 33a Abs. 1 EStG).
+Dies ist erforderlich, weil die Anhebung der Höchstbeträge nach
+§ 33a Abs. 1 EStG erst ab 1990 gilt, die Ausbildungsfreibeträge
+für Auslandskinder (§ 33a Abs. 2 EStG) jedoch bereits mit Wirkung
+ab 1988 in Anspruch genommen werden können. </lxbase:a><lxbase:a>Änderung des Körperschaftsteuergesetzes </lxbase:a><lxbase:a>(Artikel 2 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>1. Steuerbefreiungen </lxbase:a><lxbase:a>a) Die Steuerbefreiung für Organe der staatlichen Wohnungspolitik
+(§ 5 Abs. 1 Nr. 11 - alt - KStG) wird mit Wirkung ab 1990 aufgehoben.
+</lxbase:a><lxbase:a>Kreditinstitute, die schon bisher als Organe der staatlichen
+Wohnungspolitik von der Körperschaftsteuer befreit sind, werden
+ab diesem Zeitpunkt in den Befreiungskatalog des § 5 Abs. 1 Nr.
+2 KStG übernommen. </lxbase:a><lxbase:a>b) Die Steuerfreiheit für gemeinnützige Wohnungsunternehmen
+nach § 5 Abs. 1 Nr. 10 - alt - KStG wird ab 1990 auf Erwerbs- und
+Wirtschaftsgenossenschaften sowie Vereine beschränkt, deren Tätigkeit
+im wesentlichen darin besteht, selbst hergestellte oder erworbene
+Wohnungen an Mitglieder zu vermieten oder sie diesen aufgrund eines genossenschaftlichen
+Nutzungsvertrags zu überlassen. </lxbase:a><lxbase:a>Nicht begünstigte Tätigkeiten führen zur partiellen Steuerpflicht
+der Unternehmen. Übersteigen die Einnahmen mehr als 10 v. H. der
+gesamten Einnahmen, werden die Unternehmen in vollem Umfang steuerpflichtig.
+</lxbase:a><lxbase:a>c) Gemeinnützige Siedlungsunternehmen im Sinne des Reichssiedlungsgesetzes
+(§ 5 Abs. 1 Nr. 12 KStG) bleiben weiterhin steuerfrei, soweit sie
+überwiegend im ländlichen Raum Siedlungs-, Agrarstrukturverbesserungs-
+und Landentwicklungsmaßnahmen mit Ausnahme des Wohnungsbaus durchführen.
+Üben sie andere Tätigkeiten aus, z. B. den Wohnungsbau, sind sie
+ab 1990 mit den Überschüssen aus diesen Tätigkeiten partiell steuerpflichtig.
+Überwiegen die Einnahmen aus diesen Tätigkeiten, werden die Unternehmen
+in vollem Umfang steuerpflichtig. </lxbase:a><lxbase:a>d) Aufgehoben wird mit Wirkung ab 1990 die Steuerfreiheit
+für </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>gemeinnützige Unternehmen i. S. des Reichsheimstättengesetzes,
+die zur Ausgabe von Heimstätten zugelassen sind (§ 5 Abs. 1 Nr.
+13 - alt - KStG); </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>juristische Personen, die
+als Sanierungsträger oder Entwicklungsträger tätig sind (§ 5 Abs.
+1 Nr. 17 - alt - KStG). </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Um den gemeinnützigen Wohnungs- und Siedlungsunternehmen
+die Umstellung auf die Steuerpflicht zu erleichtern, können sie
+auf Antrag die Steuerfreiheit noch ein weiteres Jahr bis zum 31.
+Dezember 1990 in Anspruch nehmen (§ 54 Abs. 3 KStG). </lxbase:a><lxbase:a>Entsprechende Regelungen sind in das Gewerbesteuergesetz
+(§ 3 Nr. 2, 15 und 17, § 36 Abs. 3 GewStG) und in das Vermögensteuergesetz
+(§ 3 Abs. 1 Nr. 2, 13 und 15, § 25 Abs. 3 VStG) aufgenommen worden.
+</lxbase:a><lxbase:a>2. Verlustabzug, Versagung des Verlustabzugs im Falle
+des Mantelkaufs </lxbase:a><lxbase:a>Nicht ausgeglichene Verluste können auch bei Körperschaften
+in den auf das Verlustjahr folgenden Jahren bei der Einkunftsermittlung
+abgezogen werden (§ 8 Abs. 1 KStG). Die Voraussetzungen des Verlustabzugs
+richten sich nach § 10d EStG. In dieser Vorschrift ist die bisherige
+zeitliche Befristung von fünf Jahren aufgehoben worden, und zwar
+erstmals für nicht ausgeglichene Verluste des Veranlagungszeitraums
+1985. </lxbase:a><lxbase:a>Durch den neu eingefügten § 8 Abs. 4 KStG wird sichergestellt,
+daß eine Körperschaft einen nicht ausgeglichenen Verlust nur dann
+mit steuerlicher Wirkung vortragen kann, wenn sie nicht nur rechtlich,
+sondern auch wirtschaftlich mit derjenigen identisch ist, die den
+Verlust erlitten hat. Bei der als Hauptanwendungsfall genannten
+Kapitalgesellschaft liegt wirtschaftliche Identität dann nicht vor,
+wenn mehr als 3/4 der Anteile auf neue Gesellschafter übergehen
+und die Gesellschaft danach ihren Geschäftsbetrieb mit neuem Betriebsvermögen
+wieder aufnimmt. Typische Sanierungsfälle fallen nicht unter das Abzugsverbot
+des § 8 Abs. 4 KStG. </lxbase:a><lxbase:a>Das Verlustabzugsverbot gilt entsprechend für den Ausgleich
+des Verlustes vom Beginn des Wirtschaftsjahres bis zum Zeitpunkt
+der Anteilsübertragung (§ 8 Abs. 4 Satz 3 KStG). </lxbase:a><lxbase:a>Die Vorschrift ist erstmals für den Veranlagungszeitraum
+1990 anzuwenden (§ 54 Abs. 1 KStG). Sind die Rechtsgeschäfte, die
+zum Verlust der wirtschaftlichen Identität geführt haben, nach dem
+23. Juni 1988 abgeschlossen worden, ist die Regelung aber auch für
+vor dem 1. Januar 1990 beginnende Veranlagungszeiträume anzuwenden
+(§ 54 Abs. 4 KStG). </lxbase:a><lxbase:a>Eine entsprechende Regelung enthält das Gewerbesteuergesetz
+(§ 10a, § 36 Abs. 6 GewStG). </lxbase:a><lxbase:a>3. Senkung der Körperschaftsteuersätze </lxbase:a><lxbase:a>Ab 1990 werden </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>der Körperschaftsteuersatz für einbehaltene Gewinne von
+56 v. H. auf 50 v. H. gesenkt (§ 23 Abs. 1 KStG); der Ausschüttungssatz
+von 36 v. H. bleibt unverändert; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>der bisher ermäßigte Körperschaftsteuersatz
+von 50 v. H. für die nicht in das Anrechnungsverfahren einbezogenen
+Körperschaften von 50 v. H. auf 46 v. H. gesenkt (§ 23 Abs. 2 und
+3 KStG); </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>der besondere Körperschaftsteuersatz
+für das ZDF von 8 v. H. auf 7,4 v. H. der Entgelte aus Werbesendungen
+herabgesetzt. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Die Abrundungsvorschrift des § 23 Abs. 4 KStG, wonach
+das Einkommen zur Berechnung der Körperschaftsteuer auf 10 DM abzurunden
+ist, wird bereits mit Wirkung ab dem Veranlagungszeitraum 1988 gestrichen.
+</lxbase:a><lxbase:a>4. Besteuerung ausländischer Einkunftsteile (§ 26 KStG)
+</lxbase:a><lxbase:a>a) Der ermäßigte Körperschaftsteuersatz für die ausländischen
+Einkünfte aus dem Betrieb von Handelsschiffen im internationalen
+Verkehr i. S. des § 34c Abs. 4 EStG wird ab dem Veranlagungszeitraum
+1990 von bisher 28 v. H. auf 25 v. H. herabgesetzt. </lxbase:a><lxbase:a>b) Ausschüttungsbedingte Teilwertabschreibung </lxbase:a><lxbase:a>Hält eine inländische Kapitalgesellschaft eine wesentliche
+Beteiligung an einer ausländischen Kapitalgesellschaft, sind die
+Gewinnausschüttungen der ausländischen Tochtergesellschaft an die
+inländische Muttergesellschaft nach den meisten DBA von der deutschen
+Körperschaftsteuer befreit oder es kann die indirekte Steueranrechnung
+nach § 26 Abs. 2 oder 3 KStG in Anspruch genommen werden. </lxbase:a><lxbase:a>Werden für Gewinnausschüttungen z. B. offene oder stille
+Reserven verwendet, sinkt der Wert der Beteiligung. Unterschreitet
+er den bisherigen Buchwert, kann der Wertverlust im Wege der Teilwertabschreibung
+steuermindernd berücksichtigt werden. Ähnliche Steuerminderungen
+können sich bei Veräußerung der Beteiligung oder bei Auflösung sowie Herabsetzung
+des Kapitals der ausländischen Gesellschaft ergeben. </lxbase:a><lxbase:a>Durch § 26 Abs. 8 KStG werden diese Möglichkeiten einer
+Steuerminderung ausgeschlossen. Es soll verhindert werden, daß Wertverluste,
+die mit einer steuerbefreiten Dividendenausschüttung zusammenhängen,
+die Steuer für die übrigen Einkünfte der Muttergesellschaft mindern.
+</lxbase:a><lxbase:a>Die Vorschrift des § 26 Abs. 8 KStG ist erstmals anzuwenden,
+soweit die Gewinnminderung auf Gewinnausschüttungen nach dem 23.
+Juni 1988 zurückzuführen sind (§ 54 Abs. 7 KStG). </lxbase:a><lxbase:a>Eine entsprechende Regelung ist in das Gewerbesteuergesetz
+eingefügt worden (§ 8 Nr. 10, § 36 Abs. 4 GewStG). Sie gilt dort
+auch für Beteiligungen an inländischen Kapitalgesellschaften. </lxbase:a><lxbase:a>5. Übergangsregelung für die Eigenkapitalgliederung wegen
+der Senkung des Steuersatzes von 56 v. H. auf 50 v. H. </lxbase:a><lxbase:a>Um sicherzustellen, daß die Ausschüttung der Einkommensteile,
+die in der Zeit vor 1990 einer Körperschaftsteuer von 56 v. H. unterlegen
+haben, weiterhin zu der bisherigen Körperschaftsteuerminderung von
+20 v. H. führt, sieht § 54 Abs. 8 KStG vor, daß ein aus der Zeit
+vor 1990 entstandener positiver Teilbetrag EK 56 für eine Übergangszeit
+von fünf Jahren neben dem neuen Teilbetrag EK 50 fortzuführen ist.
+Danach ist das EK 56 in Höhe von 56/44
+seines Bestands dem EK 50 hinzuzurechnen; das EK 02 ist in Höhe von
+12/44 des Bestandes an EK 56 zu kürzen. </lxbase:a><lxbase:a>6. Nachzahlungs- und Erstattungszinsen auf nichtabziehbare
+Steuern </lxbase:a><lxbase:a>Nach geltendem Recht sind Zinsen, die Personensteuern
+oder die Umsatzsteuer auf den Eigenverbrauch betreffen, vom Abzug
+ausgeschlossen (§ 10 Nr. 2 - alt - KStG). Ab 1990 sind nach der
+ergänzten Nummer 2 des § 10 KStG auch bei diesen Steuerarten die
+Zinsen auf Steuernachforderungen sowie Stundungs- und Aussetzungszinsen
+abziehbar. Während natürliche Personen diese Zinsen als Sonderausgaben
+geltend machen können (§ 10 Abs. 1 Nr. 5 EStG), verringern die vergleichbaren
+Zinsen bei Körperschaften künftig den Gewinn aus Gewerbebetrieb.
+Damit eine rechtsformunabhängige Belastung mit Gewerbesteuer gewährleistet
+ist, sind diese Zinsen bei der Ermittlung des Gewerbeertrags von Körperschaften
+wieder hinzuzurechnen (§ 8 Nr. 11 GewStG). </lxbase:a><lxbase:a>Erstattungszinsen auf nichtabziehbare Steuern werden bei
+natürlichen Personen und Körperschaften wie bisher als Einnahmen
+steuerlich erfaßt. </lxbase:a><lxbase:a>Für Hinterziehungszinsen (§ 235 AO) und andere Nebenleistungen,
+die auf nichtabziehbare Steuern entfallen, z. B. Verspätungs- und
+Säumniszuschläge, bleibt es beim bisherigen Abzugsverbot. Hinterziehungszinsen
+werden darüber hinaus auch vom Abzug ausgeschlossen, soweit sie
+auf abziehbare Steuern entfallen (§ 4 Abs. 5 Nr. 8a EStG). </lxbase:a><lxbase:a>7. Weitere Vorhaben: Gesellschafter-Fremdfinanzierung
+</lxbase:a><lxbase:a>Der Bundestag hat die von der Bundesregierung vorgeschlagene
+Regelung der Gesellschafter-Fremdfinanzierung (§ 8a KStG - Entwurf
+-) aus dem Steuerreformgesetz wieder herausgenommen. In einer Entschließung
+hat er jedoch seinen Willen bekundet, eine umfassende Regelung der
+Gesellschafter-Fremdfinanzierung (sog. große Lösung) in das nächste
+Steueränderungsgesetz aufzunehmen und zeitgleich mit dem Steuerreformgesetz
+1990 in Kraft treten zu lassen. </lxbase:a><lxbase:a>Für die Frage, ob das einer Gesellschaft von ihren Anteilseignern
+gewährte Fremdkapital als verdecktes Nennkapital anzusehen ist,
+ist daher bis auf weiteres das BMF-Schreiben vom 16. März 1987 (BStBl I S. 373
+) maßgebend. </lxbase:a><lxbase:a>Änderungen des Gewerbesteuergesetzes und der Gewerbesteuer-Durchführungsverordnung
+</lxbase:a><lxbase:a>(Artikel 3 und 4 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>1. Änderung der Hinzurechnungsvorschriften für Zinsen
+</lxbase:a><lxbase:a>Bei den Hinzurechnungsvorschriften in § 8 Nr. 1 GewStG
+wird ab 1990 der Begriff "Zinsen" durch den Begriff "Entgelte" ersetzt.
+Damit wird sichergestellt, daß neben den Vergütungen mit einem festen
+Zinssatz auch die gewinnabhängigen Vergütungen (wie z. B. partiarische
+Darlehen) sowie die sonstigen mit einer Schuld in Zusammenhang stehenden
+Leistungen, die Zinscharakter haben (z. B. Damnum), bei der Hinzurechnung
+berücksichtigt werden. Aus redaktionellen Gründen wird bei der Hinzurechnungsvorschrift
+in § 12 Abs. 2 Nr. 1 GewStG der Begriff "Schuldzinsen" durch den
+Begriff "Entgelte" ersetzt. </lxbase:a><lxbase:a>2. Regelung der ausschüttungsbedingten Teilwertabschreibungen
+- § 8 Nr. 10 GewStG -: </lxbase:a><lxbase:a>Gewinnminderungen, die durch Ansatz des niedrigeren Teilwerts
+der Beteiligung an einer Körperschaft oder durch ihre Veräußerung
+oder Entnahme entstanden sind und mit einer nicht der Gewerbesteuer
+unterliegenden Gewinnausschüttung im Zusammenhang stehen, dürfen
+nach der neuen Nummer 10 des § 8 GewStG ab dem 24. Juni 1988 (§
+36 Abs. 3 GewStG) den Gewerbeertrag nicht mehr mindern. </lxbase:a><lxbase:a>3. Zinsen auf Steuerforderungen </lxbase:a><lxbase:a>Nach § 8 Nr. 11 GewStG dürfen Zinsen auf Steuerforderungen
+den Gewerbeertrag bei Körperschaften nicht mindern. Damit wird eine
+Gleichstellung mit den übrigen Gewerbebetrieben erreicht. </lxbase:a><lxbase:a>4. Verlustvortrag </lxbase:a><lxbase:a>Entsprechend der Regelung im Einkommensteuergesetz können
+nach §§ 10a, 36 Abs. 5 GewStG Fehlbeträge, die ab dem Erhebungszeitraum
+1985 entstanden sind, unbegrenzt vorgetragen werden (unbegrenzter
+Verlustvortrag). Die vortragsfähigen Fehlbeträge werden darüber
+hinaus ab dem Erhebungszeitraum 1990 wie bei der Einkommensteuer gesondert
+festgestellt. </lxbase:a><lxbase:a>5. Vorauszahlungen </lxbase:a><lxbase:a>Nach dem neuen Satz 2 des § 19 Abs. 1 GewStG haben Gewerbetreibende
+mit abweichendem Wirtschaftsjahr ab dem Erhebungszeitraum 1990 ihre
+Vorauszahlungen auf die Jahressteuer grundsätzlich bereits während
+des Wirtschaftsjahres zu entrichten, das im Erhebungszeitraum endet.
+Die Änderung entspricht der Regelung in § 49 Abs. 3 KStG. Die neue
+Regelung gilt nach § 36 Abs. 7 GewStG grundsätzlich nicht für vor
+dem 1. Januar 1986 gegründete Gewerbebetriebe mit bereits abweichendem
+Wirtschaftsjahr. </lxbase:a><lxbase:a>Des weiteren werden nach dem geänderten Absatz 5 Satz
+2 des § 19 GewStG Vorauszahlungen nur erhoben, wenn die einzelne
+Vorauszahlungsrate mindestens 100 DM beträgt. </lxbase:a><lxbase:a>6. Die Änderung der Zerlegungsvorschrift </lxbase:a><lxbase:a>des § 31 GewStG sind durch den Wegfall des Weihnachts-
+bzw. Arbeitnehmerfreibetrags im Einkommensteuergesetz (§ 19 EStG)
+sowie die Änderung der Steuerbefreiung für bestimmte Wohnungsunternehmen
+(§ 3 Nr. 15 GewStG) bedingt. </lxbase:a><lxbase:a>7. Die übrigen Änderungen passen das Gewerbesteuergesetz
+an Änderungen in anderen Gesetzen an (z. B. Änderungen des § 3 GewStG)
+oder sind redaktioneller Art. </lxbase:a><lxbase:a>8. Dauerschulden bei Kreditinstituten - § 19 GewStDV -:
+</lxbase:a><lxbase:a>Ab dem Erhebungszeitraum 1990 wird in Anlehnung an § 12
+des Kreditwesengesetzes der Rahmen der mit Eigenkapital zu deckenden
+Anlagen neu gefaßt. Zusätzlich sind in die Vorschrift nunmehr auch
+Leasinggegenstände und Ausleihungen an organschaftlich verbundene
+Unternehmen, die nicht Kreditinstitute sind, einbezogen. Die Rechtsfolgen des
+§ 19 GewStDV treten künftig nur ein, wenn die Aktivposten aus Geschäften,
+die für die Einordnung als Kreditinstitut maßgeblich sind, überwiegen.
+Bisher war auf den Rohgewinnvergleich zwischen Bankgeschäften und
+bankfremden Geschäften abzustellen. </lxbase:a><lxbase:a>Änderungen des Investitionszulagengesetzes </lxbase:a><lxbase:a>(Artikel 6 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>Das Investitionszulagengesetz wird aufgehoben. Damit entfallen
+die Regionalzulage, die Investitionszulage für Forschungs- und Entwicklungsinvestitionen
+und die Investitionszulage für bestimmte Energieinvestitionen. Dabei
+ist vorgesehen, </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>alle vor dem 1. Januar 1990 abgeschlossenen Investitionen
+noch uneingeschränkt durch Investitionszulagen zu fördern, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>nach dem 31. Dezember 1989
+und vor dem 1. Januar 1991 abgeschlossene Investitionen sowie vor
+dem 1. Januar 1991 geleistete Anzahlungen auf Anschaffungskosten und
+entstandene Teilherstellungskosten zu begünstigen, wenn mit den
+Investitionen vor dem 1. April 1989 begonnen worden ist. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Änderungen des Berlinförderungsgesetzes </lxbase:a><lxbase:a>(Artikel 7 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>1. Umsatzsteuerteil </lxbase:a><lxbase:a>Bei der Herstellerpräferenz (§§ 1, 1a BerlinFG) wird der
+Sockelpräferenzsatz von derzeit 3 bzw. 4 v. H. auf 2 bzw. 3 v. H.
+abgesenkt. Im unteren Wertschöpfungsbereich wird der Präferenztarif
+neu gestaltet (§§ 1 Abs. 7, 1a Abs. 2 BerlinFG). </lxbase:a><lxbase:a>Die Abnehmerpräferenz (§ 2 BerlinFG) bei Röstkaffee und
+Kakaohalberzeugnissen wird gestrichen, wenn der Hersteller in Berlin
+(West) eine Wertschöpfungsquote von 10 v. H. nicht erreicht. </lxbase:a><lxbase:a>Bei Zigaretten und Rauchtabak wird im Interesse der Erhaltung
+Berliner Arbeitsplätze die Herstellerpräferenz verbessert (§ 4 Abs.
+3 Nr. 7 Buchst. b BerlinFG). Die Minderung der Herstellerpräferenz
+durch die Absenkung der Sockelpräferenz und die Neugestaltung des
+Präferenztarifs wird dadurch bei der Berliner Tabakwarenindustrie
+ausgeglichen. Zugleich wird in entsprechendem Umfang die Abnehmerpräferenz
+vermindert (§ 4 Abs. 3 Nr. 7 Buchst. b BerlinFG). </lxbase:a><lxbase:a>2. Ertragsteuerteil </lxbase:a><lxbase:a>a) Erhöhte Absetzungen (§ 14 BerlinFG) </lxbase:a><lxbase:a>Die erhöhten Absetzungen von 75 v. H. für bewegliche Wirtschaftsgüter
+des Anlagevermögens in Berlin werden auf neue Wirtschaftsgüter beschränkt.
+Außerdem fallen die erhöhten Absetzungen nach § 14 BerlinFG für
+den Arbeitnehmer-Wohnungsbau weg. Hierfür kommen künftig nur noch
+erhöhte Absetzungen nach § 14a BerlinFG (bis zu insgesamt 50 v.
+H. in den ersten 3 Jahren) in Betracht. </lxbase:a><lxbase:a>b) Berlin-Darlehen (§§ 16 und 17 BerlinFG) </lxbase:a><lxbase:a>Die entgeltliche Abtretung von Darlehensforderungen nach
+§§ 16 und 17 BerlinFG wird der Rückzahlung gleichgestellt. Die Neuregelung
+gilt erstmals für Darlehen, die nach dem 22. März 1988 abgetreten
+werden. </lxbase:a><lxbase:a>Die Bindungsfrist an die Berliner Betriebsstätte wird
+bei Schiffen, für deren Anschaffung oder Herstellung Darlehen nach
+§ 16 BerlinFG in Anspruch genommen werden, von 3 auf 8 Jahre erhöht.
+Für die Anschaffung oder Herstellung von Luftfahrzeugen dürfen keine Darlehen
+nach § 16 BerlinFG mehr verwendet werden. Die Neuregelungen gelten
+erstmals bei Darlehen, die nach dem 31. Dezember 1989 an Unternehmen
+weitergegeben werden. </lxbase:a><lxbase:a>c) Investitionszulage nach § 19 BerlinFG </lxbase:a><lxbase:a>Die Investitionszulage nach § 19 BerlinFG wird eingeschränkt
+durch </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>Absenkung der sog. Grundzulage von 10 v. H. auf 7,5 v.
+H., höchstens jedoch jährlich 22.500 DM, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Absenkung der Investitionszulagensätze
+von bisher 25, 30 und 40 v. H. auf einheitlich 15 v. H. bei beweglichen
+Wirtschaftsgütern und von bisher 20 und 25 v. H. auf einheitlich
+10 v. H. bei Gebäuden. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Zugleich fällt die erhöhte Zulage für Lastkraftwagen,
+Zugmaschinen und Kraftfahrzeuganhänger in Betrieben des verarbeitenden
+Gewerbes weg. Die Herstellung von Gebäuden im Bereich der Energiewirtschaft
+wird von der Zulagenförderung ausgeschlossen. </lxbase:a><lxbase:a>Andererseits werden künftig auch nachträgliche Herstellungsarbeiten
+an beweglichen Wirtschaftsgütern gefördert und in Betrieben des
+verarbeitenden Gewerbes die erhöhte Investitionszulage von 15 v.
+H. auf bewegliche Wirtschaftsgüter jeder Art ausgedehnt. </lxbase:a><lxbase:a>Die Übergangsregelung ist entsprechend der Übergangsregelung
+für die Aufhebung des Investitionszulagengesetzes ausgestaltet.
+</lxbase:a><lxbase:a>Änderung des Auslandsinvestitionsgesetzes </lxbase:a><lxbase:a>(Artikel 8 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>Es wird auf die Ausführungen zu § 2a Abs. 3 und 4 EStG
+verwiesen. </lxbase:a><lxbase:a>Änderung des Gesetzes über Kapitalanlagegesellschaften
+</lxbase:a><lxbase:a>(Artikel 9 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>Dem Steuerabzug vom Kapitalertrag in Höhe von 10 v. H.
+unterliegen ab 1989 auch die Erträge aus Anteilen an Investmentfonds,
+und zwar unabhängig davon, ob es sich um Erträge aus Wertpapier-Sondervermögen,
+aus Beteiligungs-Sondervermögen oder aus Grundstücks-Sondervermögen
+handelt. </lxbase:a><lxbase:a>Vom Steuerabzug ausgenommen sind Erträge </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>aus Auslandsanleihen, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>aus Wertpapierveräußerungen,
+</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>aus Grundstücksveräußerungen,
+wenn zwischen der Anschaffung und der Veräußerung mehr als zwei
+Jahre liegen. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Änderung des Bewertungsgesetzes </lxbase:a><lxbase:a>(Artikel 10 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>1. Sonderbetriebsvermögen </lxbase:a><lxbase:a>Ab dem Bewertungsstichtag 1. Januar 1989 werden Körperschaften,
+insbesondere Kapitalgesellschaften, hinsichtlich der Behandlung
+des Sonderbetriebsvermögens den natürlichen Personen und den Personengesellschaften
+gleichgestellt. Weiterhin wird klargestellt, daß auch Wirtschaftsgüter
+des Sonderbetriebsvermögens II in die Einheitsbewertung der Personengesellschaft
+einzubeziehen sind. Dabei geht die Zurechnung zum Sonderbetriebsvermögen
+stets der Zurechnung zum Betriebsvermögen des Mitunternehmers vor
+(§ 97 Abs. 1 Nr. 5 Satz 2 BewG). </lxbase:a><lxbase:a>Forderungen und Schulden zwischen der Gesellschaft und
+einem Gesellschafter werden künftig wie Wirtschaftsgüter des Sonderbetriebsvermögens
+behandelt. Eine Ausnahme gilt lediglich für Forderungen und Schulden
+aus dem regelmäßigen Geschäftsverkehr zwischen der Gesellschaft
+und einem Gesellschafter oder aus der Hingabe kurzfristiger Geldbeträge
+für die Gesellschaft oder für einen Gesellschafter (§ 97 Abs. 1
+Nr. 5 Satz 3 BewG). </lxbase:a><lxbase:a>2. Andere Änderungen </lxbase:a><lxbase:a>§ 103a Satz 2 BewG regelt klarstellend ab 1989 die bewertungsrechtliche
+Behandlung der Rückstellungen für Jubiläumszuwendungen; diese sind
+nur bei Vorliegen enger Voraussetzungen abzugsfähig. </lxbase:a><lxbase:a>3. Die Aufhebung des § 104a BewG dient der Verwaltungsvereinfachung
+und beseitigt die Abzugsfähigkeit der Geschäftsguthaben der Genossen
+bei bestimmten Genossenschaften ab 1990. </lxbase:a><lxbase:a>4. Die Steuervergünstigung für das der öffentlichen Wasserversorgung
+dienende Betriebsvermögen nach § 117 Abs. 1 Nr. 1 BewG wird ab 1990
+aufgehoben. </lxbase:a><lxbase:a>5. Die Änderungen des § 102 Abs. 1 Satz 1 und Abs. 2 Satz
+1, des § 104 Abs. 3, 12 und 14, des § 110 Abs. 1 Nr. 6 und des §
+111 BewG passen die Vorschriften an andere Gesetzesänderungen an
+oder sind nur redaktioneller Art. </lxbase:a><lxbase:a>6. § 124 regelt den Anwendungszeitpunkt für die durch
+das Steuerreformgesetz 1990 geänderten Vorschriften. </lxbase:a><lxbase:a>Änderung des Vermögensteuergesetzes </lxbase:a><lxbase:a>(Artikel 11 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>1. Die Änderung des § 3 VStG folgt entsprechenden Änderungen
+bei der Körperschaftsteuer und Gewerbesteuer. </lxbase:a><lxbase:a>2. § 6 VStG wird an die Begriffe des Schwerbehindertengesetzes
+angepaßt. </lxbase:a><lxbase:a>3. § 25 VStG regelt den Anwendungszeitpunkt für die durch
+das Steuerreformgesetz 1990 geänderten Vorschriften. </lxbase:a><lxbase:a>Änderung des Umsatzsteuergesetzes </lxbase:a><lxbase:a>(Artikel 12 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>1. Änderung beim Eigenverbrauch </lxbase:a><lxbase:a>Die Ergänzung des § 1 Abs. 1 Nr. 2 Buchst. c Satz 2 UStG
+steht im Zusammenhang mit der Neuregelung des Abzugs von Bewirtungsaufwendungen
+bei der Einkommensteuer (§ 4 Abs. 5 Satz 1 Nr. 2 EStG). Durch die
+Ergänzung wird erreicht, daß für den Vomhundertsatz der als angemessen
+anzusehenden und betrieblich veranlaßten Bewirtungsaufwendungen,
+die jedoch nach § 4 Abs. 5 Satz 1 Nr. 2 EStG den Gewinn nicht mindern
+dürfen, die Besteuerung als Eigenverbrauch nicht eintritt. </lxbase:a><lxbase:a>2. Steuerabzugsbetrag für Kleinunternehmer </lxbase:a><lxbase:a>Der Steuerabzugsbetrag nach § 19 Abs. 3 UStG wird ab 1990
+abgeschafft. Gleichzeitig wird die Nichterhebungsgrenze in § 19
+Abs. 1 UStG von 20.000 DM auf 25.000 DM Vorjahresumsatz angehoben.
+</lxbase:a><lxbase:a>Änderung des Feuerschutzsteuergesetzes </lxbase:a><lxbase:a>(Artikel 13 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>Feuerschutzsteuerbeträge, die auf Grund einer Außenprüfung
+nachzuentrichten sind, sind ab dem Inkrafttreten des Steuerreformgesetzes
+1990 in einer Summe zusammen mit der Steuer für den laufenden Anmeldungszeitraum
+festzusetzen; damit entfällt das bisher aufwendige Verfahren, nach
+dem die Steuer für alle betroffenen Anmeldungszeiträume neu festzusetzen
+ist. </lxbase:a><lxbase:a>Änderung des Versicherungsteuergesetzes </lxbase:a><lxbase:a>(Artikel 14 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>Die ab 1. Januar 1989 bezahlten Prämien für Unfallversicherungen
+mit Prämienrückgewähr unterliegen der Versicherungsteuer mit einem
+ermäßigten Steuersatz von 1,4 v. H. </lxbase:a><lxbase:a>Änderungen der Abgabenordnung </lxbase:a><lxbase:a>(Artikel 15 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>1. Schutz von Bankkunden </lxbase:a><lxbase:a>In die Abgabenordnung ist als neuer § 30a der Inhalt des
+Bankenerlasses vom 31. August 1979 (BStBl I S. 590
+) vollständig übernommen worden. Hierdurch wird u. a. gesetzlich klargestellt,
+daß anläßlich einer Außenprüfung bei Kreditinstituten die Ausschreibung
+von Kontrollmitteilungen über Guthaben und Depots von Bankkunden
+unterbleibt. Die bisherigen Grenzen zur Ermittlung von Kapitalerträgen
+bleiben unverändert. </lxbase:a><lxbase:a>2. Steuerfestsetzung bei Steueranmeldungen </lxbase:a><lxbase:a>Nach § 167 Abs. 1 AO ist in den Fällen, in denen eine
+Steuer aufgrund gesetzlicher Verpflichtung anzumelden ist, eine
+Steuerfestsetzung nur erforderlich, wenn die Festsetzung zu einer
+abweichenden Steuer führt. Diese Regelung wird dahingehend klargestellt,
+daß der Steuerpflichtige auch im Wege einer Steuerfestsetzung in
+Anspruch genommen werden kann, wenn er die Steuer für Rechnung eines
+anderen einzubehalten hat und dies nicht oder nicht ordnungsgemäß
+tut. </lxbase:a><lxbase:a>3. Verzinsung von Steuernachforderungen und Steuererstattungen
+</lxbase:a><lxbase:a>Die neu eingefügte Bestimmung des § 233a AO regelt die
+allgemeine Verzinsung von Steuernachforderungen und Steuererstattungen.
+Sie soll einen Ausgleich dafür schaffen, daß die Steuern bei den
+einzelnen Steuerpflichtigen, aus welchen Gründen auch immer, zu
+unterschiedlichen Zeitpunkten festgesetzt und fällig werden. Steuernachforderungen und
+Steuererstattungen sollen künftig nach Ablauf von 15 Monaten (Karenzzeit)
+seit Ende des Steuerjahres grundsätzlich bis zur Fälligkeit des
+Anspruchs verzinst werden. Abweichend hiervon beträgt die Karenzzeit
+für die Einkommensteuer 21 Monate, wenn die Einkünfte aus Land-
+und Forstwirtschaft die anderen Einkünfte überwiegen. Die Verzinsung
+endet mit der erstmaligen Fälligkeit der Steuernachforderung oder
+Steuererstattung, spätestens jedoch nach 4 Jahren. Durch die Begrenzung
+auf 4 Jahre wird dem Umstand Rechnung getragen, daß Außenprüfungen
+aus Gründen, die die Steuerpflichtigen nicht zu vertreten haben,
+häufig erst lange Zeit nach Ablauf des einzelnen Steuerjahres durchgeführt
+werden. Durch die zeitliche Begrenzung des Zinslaufs werden die Steuerpflichtigen
+für die Verzinsung so gestellt, als sei die Steuerfestsetzung aufgrund der
+Außenprüfung zeitnah erfolgt. Die Steuerfestsetzung selbst ist jedoch
+wie bisher bis zum Ablauf der Festsetzungsverjährung möglich. </lxbase:a><lxbase:a>Den Zinsarten des bisherigen Rechts und den Säumniszuschlägen
+ist, abgesehen von den Hinterziehungszinsen, gemeinsam, daß sie
+frühestens mit der ersten Fälligkeit der Steuer, die eine Steuerfestsetzung
+voraussetzt, eingreifen. Die Verzinsung von Steuernachforderungen
+und Steuererstattungen für einen Zeitraum zwischen dem Ende des
+Steuerjahres und der Fälligkeit war bisher nicht vorgesehen. Sie
+tritt neben das geltende Zins- und Säumnisrecht. </lxbase:a><lxbase:a>Aus Gründen der Praktikabilität wird am festen Zinssatz
+des geltenden Rechts (§ 238 AO) festgehalten. Danach betragen auch
+die Zinsen für Steuernachforderungen und Steuererstattungen für
+jeden vollen Monat des Zinslaufs 0,5 v. H. </lxbase:a><lxbase:a>Die allgemeine Verzinsung findet erstmals auf Ansprüche
+Anwendung, die nach dem 31. Dezember 1988 entstehen (vgl. Artikel
+16 Nr. 2 des Steuerreformgesetzes 1990). Für die Einkommensteuer
+1989, die mit Ablauf des Kalenderjahres 1989 entsteht, bedeutet
+dies z. B., daß Nachforderungen und Erstattungen ab 1. April 1991
+verzinst werden. </lxbase:a><lxbase:a>Die Zinsen auf Steuernachforderungen sowie Stundungs-
+und Aussetzungszinsen sind künftig abzugsfähig. Im übrigen wird
+zur Abzugsfähigkeit von Zinsen auf die Ausführungen zu § 10 Abs.
+1 Nr. 5, § 12 Nr. 3 EStG sowie zu § 10 Nr. 2 KStG verwiesen. </lxbase:a><lxbase:a>4. Hinterziehungszinsen und Prozeßzinsen </lxbase:a><lxbase:a>Die Änderungen der §§ 235, 236 AO stehen mit der Einführung
+der Verzinsung von Steuernachforderungen und Steuererstattungen
+nach § 233a AO im Zusammenhang. Durch die Anrechnung von Nachzahlungszinsen
+und Erstattungszinsen sollen Überschneidungen mit der Verzinsung
+hinterzogener Steuern und der Zahlung von Prozeßzinsen auf Erstattungsbeträge
+verhindert werden. </lxbase:a><lxbase:a>5. Aussetzungszinsen </lxbase:a><lxbase:a>Im Beschluß des BFH vom 10. Dezember 1986 (<lxprod:doknr-verw linkend="HT0074686">BStBl 1987
+II S. 389</lxprod:doknr-verw> ) ist dahingestellt geblieben, ob im
+Fall der rückwirkenden Aussetzung (Aufhebung) der Vollziehung Aussetzungszinsen
+für den Zeitraum der Rückwirkung gefordert werden können. Durch
+die Änderung des § 237 AO wird klargestellt, daß der Zinszeitraum
+stets mit dem Tag beginnt, an dem die Wirkung (ggf. Rückwirkung)
+der Aussetzung (auch Aufhebung) der Vollziehung eintritt. </lxbase:a><lxbase:a>6. Festsetzung der Zinsen </lxbase:a><lxbase:a>Die Änderungen des § 239 AO stehen mit der Einführung
+der Verzinsung von Steuernachforderungen und Steuererstattungen
+nach § 233a AO im Zusammenhang. Zum einen wird geregelt, wann die
+Festsetzungsfrist für die Verzinsung von Steuernachforderungen und
+Steuererstattungen beginnt und zum anderen bestimmt, daß die Festsetzungsfrist
+nicht abläuft, solange noch eine Steuerfestsetzung sowie ihre Aufhebung
+oder Änderung zulässig ist. </lxbase:a><lxbase:a>Änderungen des Einführungsgesetzes zur Abgabenordnung
+</lxbase:a><lxbase:a>(Artikel 16 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>Durch die Änderung der Übergangsregelung in Artikel 97
+§ 1 EGAO wird bestimmt, daß die geänderten Verfahrensvorschriften
+der Abgabenordnung auf alle bei Inkrafttreten des Steuerreformgesetzes
+1990 noch anhängigen Verfahren anzuwenden sind, soweit nichts anderes
+bestimmt ist. </lxbase:a><lxbase:a>Der in Artikel 97 EGAO neu eingefügte § 15 Abs. 4 regelt
+die erstmalige Anwendung der Verzinsung von Steuernachforderungen
+und Steuererstattungen nach § 233a AO und der damit verbundenen
+Änderungen. Die Verzinsung gilt erstmals für Ansprüche, die nach dem
+31. Dezember 1988 entstehen. Die Änderungen der §§ 235, 236 AO gelten
+erstmals für Zinsen, die nach dem 31. Dezember 1988 entstehen. </lxbase:a><lxbase:a>Gesetz über die strafbefreiende Erklärung von Einkünften
+aus Kapitalvermögen und von Kapitalvermögen </lxbase:a><lxbase:a>(Artikel 17 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>1. Gesetzgeberische Absicht </lxbase:a><lxbase:a>Die Gesetzesvorschrift soll demjenigen, der seine Einkünfte
+aus Kapitalvermögen und das Kapitalvermögen selbst nicht oder nicht
+vollständig erklärt hat und der deshalb mit dem Vorwurf rechnen
+muß, vorsätzlich oder leichtfertig die auf diese Einkünfte entfallende Einkommensteuer
+und die auf das entsprechende Vermögen entfallende Vermögensteuer
+verkürzt zu haben, den Weg in die Steuerehrlichkeit erleichtern.
+</lxbase:a><lxbase:a>2. Voraussetzungen der Straffreiheit </lxbase:a><lxbase:a>Wer seine Einkünfte aus Kapitalvermögen nicht oder nicht
+vollständig erklärt hat, soll auch für weiter zurückliegende Zeiträume
+straffrei bleiben, wenn er bis 31. Dezember 1990 die Kapitaleinkünfte
+für die Veranlagungszeiträume 1986 und 1987 richtig und vollständig
+erklärt oder für die Veranlagungszeiträume ab 1986 unterlassene
+oder unrichtige Angaben nachholt oder berichtigt. Die Wirkungen
+der strafbefreienden Erklärungen erstrecken sich auch auf Fälle,
+in denen unter dem Eindruck der öffentlichen Diskussion über die
+Steuerpflicht der Zinseinkünfte bei Offenbarung der Einkünfte aus
+Kapitalvermögen auf Strafverfolgungsmaßnahmen zu verzichten, nach
+dem 13. Oktober 1987 Erklärungen abgegeben worden sind, die den
+Anforderungen an eine strafbefreiende Erklärung genügen, so insbesondere
+Selbstanzeigen (§§ 371, 378 Abs. 3 AO), Steuererklärungen für Veranlagungszeiträume
+ab 1986, Berichtigungserklärungen (§ 153 AO) oder vorweggenommene
+"strafbefreiende Erklärungen". Es erschiene unbillig, diesem Personenkreis,
+nur weil die Erklärung vorzeitig abgegeben worden ist, die Rechtswohltat
+des § 1 und § 2 des Gesetzes vorzuenthalten. </lxbase:a><lxbase:a>Um denjenigen, die neben den Einkünften aus Kapitalvermögen
+auch das zu den Einkünften führende Vermögen nicht angegeben haben,
+den Weg in die Steuerehrlichkeit nicht zu verbauen, gewährt das
+Gesetz Straffreiheit für die Vergangenheit auch hinsichtlich der
+Vermögensteuer, wenn das Kapitalvermögen, aus dem die Einkünfte
+geflossen sind, erklärt wird. Um Spannungen innerhalb der Familie
+zu vermeiden, erstreckt sich die Straffreiheit auch auf mit dem
+Erklärenden zusammen veranlagte Personen, die die Kapitaleinkünfte
+oder das Kapitalvermögen nicht selbst strafbefreiend erklärt haben.
+Gleiches gilt bei strafbefreiender Erklärung durch ein inzwischen
+volljähriges Kind zugunsten früherer gesetzlicher Vertreter. </lxbase:a><lxbase:a>Die Regelung gilt nicht für Einkünfte aus anderen Einkunftsarten,
+auch wenn es sich um Erträge aus Vermögen handelt, sowie für andere
+Vermögensarten. Insoweit kann Straffreiheit nur unter den Voraussetzungen
+des § 371 AO oder des § 378 Abs. 3 AO (Selbstanzeige) erlangt werden.
+</lxbase:a><lxbase:a>Weitere Voraussetzungen für die Straffreiheit ist, daß
+die verkürzten Steuern auf die Kapitaleinkünfte oder das Kapitalvermögen
+für die Veranlagungszeiträume ab 1986 innerhalb einer von den Finanzbehörden
+gesetzten angemessenen Frist nachentrichtet werden. </lxbase:a><lxbase:a>Eine strafbefreiende Erklärung ist nicht mehr möglich,
+wenn ein Amtsträger der Finanzbehörde zur Prüfung der Einkommen-
+oder Vermögensteuer, oder allgemein zur Ermittlung einer Steuerstraftat
+oder Steuerordnungswidrigkeit erschienen ist, wenn dem Täter oder
+seinem Vertreter die Einleitung eines Straf- oder Bußgeldverfahrens
+wegen einer Einkommen- oder Vermögensteuerhinterziehung bekanntgegeben
+worden ist, oder die Tat im Zeitpunkt der strafbefreienden Erklärung
+bereits ganz oder zum Teil entdeckt war und der Täter dies wußte
+oder bei verständiger Würdigung der Sachlage damit rechnen mußte.
+</lxbase:a><lxbase:a>Bei leichtfertiger Steuerverkürzung gelten für die Nichtahndung
+die gleichen Voraussetzungen wie für die Straffreiheit bei vorsätzlicher
+Steuerhinterziehung. </lxbase:a><lxbase:a>3. Steuerrechtliche Folgewirkungen aus einer strafbefreienden
+Erklärung </lxbase:a><lxbase:a>Um den Steuerpflichtigen, die ihre Einkünfte aus Kapitalvermögen
+und das entsprechende Kapitalvermögen in der Vergangenheit nicht
+oder nicht vollständig angegeben haben, den Weg in die Steuerehrlichkeit
+zu erleichtern, sieht das Gesetz in Ergänzung der Straf- oder Bußgeldfreiheit
+vor, daß eine Nachversteuerung für die Zeit vor dem Jahr 1986 unterbleibt,
+wenn insoweit Straffreiheit eintritt oder eine Geldbuße nicht festgesetzt wird.
+Das gilt auch, wenn der Steuerpflichtige hinsichtlich einer Steuerverkürzung
+nicht schuldhaft gehandelt hat, sich z. B. in einem nicht vermeidbaren
+Verbotsirrtum befand. Das Gesetz stellt sicher, daß die Steuerfestsetzung
+nicht in solchen Fällen ausgeschlossen ist, in denen ein Erbe für
+Steuerschulden eines Erblassers, der selbst keine strafbefreiende Nacherklärung
+abgegeben hat, in Anspruch genommen werden kann. In diesen Fällen wird
+der steuerliche Sachverhalt regelmäßig durch Anzeigen z. B. von
+Kreditinstituten nach § 33 des Erbschaftsteuergesetzes aufgedeckt.
+</lxbase:a><lxbase:a>Liegt bei der Abgabe einer Steuererklärung eine strafbefreiende
+Erklärung im Sinne des § 1 des Gesetzes noch nicht vor, soll dem
+Steuerpflichtigen die Chance, steuerehrlich zu werden, noch offengehalten
+werden. Die Finanzbehörde hat deshalb für eine etwaige strafbefreiende
+Erklärung eine angemessene Frist zu setzen. </lxbase:a><lxbase:a>Änderung des Fünften Vermögensbildungsgesetzes </lxbase:a><lxbase:a>(Artikel 18 des Steuerreformgesetzes) </lxbase:a><lxbase:a>Ab 1990 gilt: <lxbase:za /> Die Förderung wird auf Vermögensbeteiligungen
+sowie Bausparen und diesem ähnliche Anlageformen beschränkt. Das
+Konten- und Versicherungssparen sowie überbetrieblich ausgegebene
+Genußscheine und Gewinnschuldverschreibungen werden nur dann mit einer
+Arbeitnehmer-Sparzulage von 10 v. H. begünstigt, wenn die entsprechenden
+Verträge vor dem 1. Januar 1989 abgeschlossen wurden. </lxbase:a><lxbase:a>Der jährliche Höchstbetrag zulagebegünstigter vermögenswirksamer
+Leistungen wird auf 936 DM vereinheitlicht und damit für Bausparen
+und ähnliche Anlageformen um 312 DM angehoben. </lxbase:a><lxbase:a>Der Zulagesatz für Bausparen und ähnliche Anlageformen
+wird auf 10 v. H., für Vermögensbeteiligungen auf 20 v. H. gesenkt.
+</lxbase:a><lxbase:a>Die Einkommensgrenzen werden auf 27.000 / 54.000 DM (Alleinstehende
+/ Verheiratete) angehoben. </lxbase:a><lxbase:a>Die kinderbedingte Erhöhung der Zulagesätze und der Einkommensgrenzen
+entfällt. </lxbase:a><lxbase:a>Die Arbeitnehmer-Sparzulage wird nicht mehr vom Arbeitgeber,
+sondern jährlich nachträglich vom Finanzamt ausgezahlt. </lxbase:a><lxbase:a>Die Steuerermäßigung für Arbeitgeber wird aufgehoben.
+</lxbase:a><lxbase:a>Änderung des Wohnungsbau-Prämiengesetzes </lxbase:a><lxbase:a>(Artikel 19 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>Ab 1990 muß (wie im SparPG) ein jährlicher Mindestsparbetrag
+von 100 DM erbracht werden (§ 2 Abs. 1 Nr. 1 WoPG). </lxbase:a><lxbase:a>Das Erfordernis des "Eineinhalbfachen" (§ 2 Abs. 1 Nr.
+1 WoPG) ist wie das Kreditaufnahmeverbot (§ 2 Abs. 2 WoPG) für alle
+Beiträge an Bausparkassen Ende 1987 ausgelaufen (§ 10 Abs. 3 WoPG).
+</lxbase:a><lxbase:a>Ab 1990 betragen die Einkommensgrenzen für Ledige / Verheiratete
+27.000 / 54.000 DM (§ 2a Abs. 1 WoPG). Maßgebend ist ab 1990 das
+zu versteuernde Einkommen des Sparjahres. Die Kinderadditive in
+§ 2a Abs. 1 Sätze 2 und 3 und in § 3 Abs. 1 WoPG entfallen. Für
+die Zusatzprämie gilt dies bereits ab 1989 (§ 10 Abs. 4 WoPG). Die
+Erhöhung der Einkommensgrenze für Kinder entfällt ab 1990 (§ 10
+Abs. 1 WoPG). </lxbase:a><lxbase:a>Der Prämiensatz nach § 3 Abs. 1 WoPG beträgt von 1989
+an für alle Verträge einheitlich 10 v. H. (§ 10 Abs. 4 WoPG). </lxbase:a><lxbase:a>Abbau von Steuervergünstigungen und Sonderregelungen im
+Wohnungswesen (Grundsteuer) </lxbase:a><lxbase:a>(Artikel 22 des Steuerreformgesetzes 1990) </lxbase:a><lxbase:a>Unter den bisherigen Voraussetzungen des § 82 II. WoBauG
+werden neu geschaffene Wohnungen nur noch als steuerbegünstigt anerkannt,
+wenn sie vor dem 1. Januar 1990 bezugsfertig geworden sind. Gleichzeitig
+wird die zehnjährige Grundsteuervergünstigung nach § 92a II. WoBauG
+- auch soweit es sich um öffentlich geförderte Wohnungen handelt
+- nur noch für Wohnungen gewährt, die vor dem 1. Januar 1990 bezugsfertig geworden
+sind (Art. 22 Abs. 1 Nr. 7 und 10 sowie Abs. 2 Nr. 5). </lxbase:a><lxbase:a>--- </lxbase:a></lxrvw:vwa-inhalt></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Sonstiges Steuerrecht</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Bayern</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Nordrhein-Westfalen</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben><lxbase:interne-angaben><lxbase:quelle>BDFD </lxbase:quelle></lxbase:interne-angaben></lxrvw:rspvwa>

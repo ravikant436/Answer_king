@@ -1,0 +1,1042 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" dok-nummer="0208763" dok-art="Bekanntmachung" dok-typ="Verwaltungsanweisung" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////bk.datev.de/dfs/Entwicklung/ITEM/Redaktionsueberwachung/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:externe-dateien><lxbase:datei name="a0208763.pdf" /></lxbase:externe-dateien><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Sozialversicherungsträger</lxbase:institution></lxbase:autor><lxbase:lizenzen2><lxbase:lizenz2 name="Recht" id="08" /><lxbase:lizenz2 name="Elwi-Lohn" id="21" /><lxbase:lizenz2 name="LOHN" id="42" /><lxbase:lizenz2 name="Anwalt" id="82" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2019-06-12" ts="nein" /></lxbase:daten><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>GKV-SPITZENVERBAND, BERLIN</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>SGB-IV:8/1/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>SGB-IV:8/3/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>SGB-IV:8a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>SGB-IV:18</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>SGB-V:10/1/1/5</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>SGB-V:10/3</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>SGB-XI:25/1/1/5</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>SGB-XI:25/3</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:2/5a</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2019" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Grundsätzliche Hinweise
+zum Gesamteinkommen im Rahmen der Prüfung der Voraussetzungen der
+Familienversicherung vom 12. Juni 2019</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300001"><lxbase:a>1 Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300002"><lxbase:a>2
+Gesamteinkommen</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300003"><lxbase:a>2.1
+Allgemeines </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300004"><lxbase:a>2.2
+Korrektur der Summe der Einkünfte nach Maßgabe des § 2 Abs. 5a EStG</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300005"><lxbase:a>2.2.1
+Allgemeines </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300006"><lxbase:a>2.2.2
+Teileinkünfteverfahren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300007"><lxbase:a>2.2.3
+Kinderbetreuungskosten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300008"><lxbase:a>2.3
+Überschuss der Einnahmen über die Werbungskosten</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300009"><lxbase:a>2.3.1
+Einkünfte aus nichtselbstständiger Arbeit</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300010"><lxbase:a>2.3.1.1
+Entlassungsentschädigungen (Abfindungen)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300011"><lxbase:a>2.3.1.2
+Werbungskosten / Umgang mit dem Arbeitnehmer-Pauschbetrag</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300012"><lxbase:a>2.3.1.3
+Umgang mit steuerfreien Aufwandsentschädigungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300013"><lxbase:a>2.3.2
+Einkünfte aus Kapitalvermögen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300014"><lxbase:a>2.3.3
+Einkünfte aus Vermietung und Verpachtung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300015"><lxbase:a>2.3.4
+sonstige Einkünfte</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300016"><lxbase:a>2.3.4.1
+Einkünfte aus Leibrenten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300017"><lxbase:a>2.3.4.2
+Einkünfte aus Unterhaltsleistungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300018"><lxbase:a>2.4
+Gewinnermittlung bei Einkunftsarten aus selbstständiger Tätigkeit</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300019"><lxbase:a>2.5
+Einkünfte aus dem Ausland</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300020"><lxbase:a>2.6
+Saldierung von Einkünften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300021"><lxbase:a>2.7
+Zuschläge, die mit Rücksicht auf den Familienstand gezahlt werden</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300022"><lxbase:a>2.8
+Regelmäßigkeit des Gesamteinkommens</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300023"><lxbase:a>3
+Zurechnung von Einkünften</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300024"><lxbase:a>3.1
+Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300025"><lxbase:a>3.2
+Einkünfte aus selbstständiger und nicht selbstständiger Arbeit,
+sonstige Einkünfte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300026"><lxbase:a>3.3
+Einkünfte aus Gewerbebetrieb, Land- und Forstwirtschaft</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300027"><lxbase:a>3.4
+Einkünfte aus Kapitalvermögen, Vermietung und Verpachtung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300028"><lxbase:a>4
+Kindererziehungsleistungen an Mütter</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300029"><lxbase:a>5
+Pflegeleistungen/-gelder</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300030"><lxbase:a>5.1
+Leistungen bei Pflegebedürftigkeit (§§ 36 ff. SGB XI, § 35 BVG,
+§ 44 SGB VII, § 64a SGB XII)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300031"><lxbase:a>5.2
+Pflegegeld für eine Kinderbetreuung im Rahmen der Tagespflege</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D020876300032"><lxbase:a>5.3
+Pflegegeld für eine Kinderbetreuung im Rahmen der Vollzeitpflege</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:a><lxbase:fett>Einleitung</lxbase:fett></lxbase:a><lxbase:a>Der Begriff des Gesamteinkommens, soweit er bei der Prüfung
+der Voraussetzungen der Familienversicherung zu beachten ist, wurde
+bislang in dem gemeinsamen Rundschreiben der ehemaligen Spitzenverbände
+der Krankenkassen einschließlich deren Anlage in der Fassung vom
+24. Oktober 2008 beschrieben.</lxbase:a><lxbase:a>Seitdem sind einige Änderungen gesetzlicher und untergesetzlicher
+Art wirksam geworden, die eine Überarbeitung des Gemeinsamen Rundschreibens
+erforderlich machten. Der GKVSpitzenverband hat daher die Aussagen
+in dem Gemeinsamen Rundschreiben vom 24. Oktober 2008 in die vorliegenden
+Grundsätzlichen Hinweise zum Gesamteinkommen im Rahmen der Prüfung
+der Voraussetzungen der Familienversicherung überführt und dabei
+die in der Zwischenzeit eingetretenen Änderungen durch den Gesetzgeber,
+durch höchstrichterliche Rechtsprechung sowie durch Besprechungsergebnisse
+im Rahmen der Fachkonferenz Beiträge berücksichtigt. Darüber hinaus
+sind Klarstellungen und redaktionelle Anpassungen nachvollzogen
+worden. Die in den Grundsätzlichen Hinweisen enthaltenen Aussagen
+dienen der Sicherung einer einheitlichen Rechtsanwendung durch die
+Krankenkassen bei der Feststellung des Gesamteinkommens und besitzen
+einen empfehlenden Charakter.</lxbase:a><lxbase:a>Die vorliegenden Grundsätzlichen Hinweise ersetzen das
+Gemeinsame Rundschreiben der ehemaligen Spitzenverbände der Krankenkassen
+vom 24. Oktober 2008. Hiernach soll grundsätzlich ab dem 1. Juli
+2019 verfahren werden. Die Berücksichtigung von Regelungen gesetzlicher
+Art, durch höchstrichterliche Rechtsprechung oder durch Besprechungsergebnisse,
+die einen früheren Inkrafttretens- oder Anwendungszeitpunkt vorsehen
+bzw. vorgesehen haben, bleibt hiervon unberührt. Soweit in der Vergangenheit im
+Umgang mit dem Arbeitnehmer-Pauschbetrag oder im Umgang mit steuerfreien
+Aufwandsentschädigungen anders als in den vorliegenden Grundsätzlichen
+Hinweisen beschrieben verfahren wurde, behält es dabei sein Bewenden.</lxbase:a><lxbase:a><lxbase:unterst>Hinweis:</lxbase:unterst></lxbase:a><lxbase:a>Aus Gründen der besseren Lesbarkeit wird auf geschlechterspezifische
+Sprachformen verzichtet. Sämtliche Personenbezeichnungen in den
+Grundsätzlichen Hinweisen gelten daher gleichermaßen für alle Geschlechter. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300001">1 Allgemeines</lxbase:ueberschrift><lxbase:a>Die Familienversicherung in der Kranken- und Pflegeversicherung
+ist nach § 10 Abs. 1 Satz 1 Nr.  5 SGB V bzw. § 25 Abs. 1 Satz 1
+Nr. 5 SGB XI ausgeschlossen, wenn die Familienangehörigen ein Gesamteinkommen
+haben, das regelmäßig im Monat 1/7 der monatlichen Bezugsgröße nach
+§ 18 SGB IV überschreitet; bei Renten wird der Zahlbetrag ohne den
+auf Entgeltpunkte für Kindererziehungszeiten entfallenden Teil berücksichtigt;
+für geringfügig Beschäftigte nach § 8 Abs. 1 Nr. 1, § 8a SGB IV
+beträgt das zulässige Gesamteinkommen monatlich 450,00 EUR.</lxbase:a><lxbase:a>Der Ausschluss der beitragsfreien Familienversicherung
+bei der Höhe nach bestimmten eigenen Einkünften trägt den Grundsätzen
+des Solidarausgleichs und der Beitragsgerechtigkeit Rechnung. Familienangehörige,
+die entsprechende Einkünfte erzielen, werden in der Folge auf eine
+eigenständige Absicherung verwiesen. Dies ist verfassungsrechtlich nicht
+zu beanstanden (Beschluss des BVerfG vom 09.06.1978 - <lxbase:az normform="1-BvR-53/78" manuell="nein">1 BvR 53/78</lxbase:az>).
+Auch hat sich der Gesetzgeber bewusst für eine Anlehnung an steuerrechtliche
+Grundsätze entschieden, um sicherzustellen, dass der Bezug steuerfreier
+Sozialleistungen nicht zum Ausscheiden aus der Familienversicherung
+führt.</lxbase:a><lxbase:a>Die allgemeine Einkommensgrenze des § 10 Abs. 1 Satz 1
+Nr. 5 Teilsatz 1 SGB V ist an die Bezugsgröße in der Sozialversicherung
+(§ 18 Abs. 1 SGB IV) geknüpft; sie folgt dementsprechend der Entwicklung
+der Durchschnittsentgelte der gesetzlichen Rentenversicherung. Die
+Einkommensgrenze von 450,00 EUR (§ 10 Abs. 1 Satz 1 Nr. 5 Teilsatz
+4 SGB V) ist bei der Prüfung der Voraussetzungen der Familienversicherung
+immer dann zu berücksichtigen, wenn der Familienangehörige Arbeitsentgelt
+aus einem geringfügig entlohnten Beschäftigungsverhältnis erzielt.
+Dabei ist unerheblich, ob es sich um Arbeitsentgelt aus einer geringfügig
+entlohnten Beschäftigung nach § 8 Abs. 1 Nr. 1 SGB IV oder aus einer
+geringfügigen entlohnten Beschäftigung im Privathaushalt nach §
+8a SGB IV handelt. Unerheblich ist bei dieser auf den Status eines
+geringfügig entlohnt Beschäftigten bezogenen Betrachtungsweise ferner,
+ob neben dem Arbeitsentgelt aus dem geringfügigen Beschäftigungsverhältnis
+noch weiteres anrechenbares Gesamteinkommen bezogen wird und in
+welchem Verhältnis das Arbeitsentgelt aus der geringfügigen Beschäftigung zum
+Gesamteinkommen steht. Ein Überwiegen des Arbeitsentgelts aus der
+geringfügigen Beschäftigung wird für die Anwendung der zweiten Einkommensgrenze
+nicht verlangt.</lxbase:a><lxbase:a>Wird eine geringfügige selbstständige Tätigkeit ausgeübt,
+gilt die Einkommensgrenze von 450,00 EUR jedoch nicht, da der Anwendungsbereich
+der Regelung des § 10 Abs. 1 Satz 1 Nr. 5 Teilsatz 4 SGB V bzw.
+§ 25 Abs. 1 Satz 1 Nr. 1 Teilsatz 4 SGB XI auf geringfügige Beschäftigungen
+beschränkt ist. Zwar schreibt § 8 Abs. 3 Satz 1 SGB IV insoweit
+eine Gleichstellung vor, als anstelle einer Beschäftigung eine selbstständige
+Tätigkeit ausgeübt wird; diese Vorschrift findet aber im Bereich
+der Kranken- und Pflegeversicherung faktisch keine Anwendung, da
+Selbständige (von den besonderen Personengruppen Künstler und Landwirte
+abgesehen) nicht zum kranken- und pflegeversicherungspflichtigen Personenkreis
+gehören. Für geringfügig selbstständig Tätige ist daher die Einkommensgrenze
+des § 10 Abs. 1 Satz 1 Nr. 5 Teilsatz 1 SGB V bzw. § 25 Abs. 1 Satz
+1 Nr. 1 Teilsatz 1 SGB XI in Höhe von 1/7 der monatlichen Bezugsgröße
+maßgebend.</lxbase:a><lxbase:a>Das Gesamteinkommen ist ferner bei der Prüfung des Ausschlusstatbestandes
+nach § 10 Abs. 3 SGB V bzw. § 25 Abs. 3 SGB XI festzustellen. Danach
+ist die Familienversicherung für Kinder ausgeschlossen, wenn der
+mit den Kindern verwandte Ehegatte oder Lebenspartner im Sinne des
+LPartG des Mitglieds nicht Mitglied einer Krankenkasse ist und sein Gesamteinkommen
+regelmäßig im <lxbase:az normform="Monat-1/12" manuell="nein">Monat 1/12</lxbase:az> der maßgebenden Jahresarbeitsentgeltgrenze
+übersteigt und regelmäßig höher als das Gesamteinkommen des Mitglieds
+ist. Dabei ist auf die Jahresarbeitsentgeltgrenze (§ 6 Abs. 6 oder
+7 SGB V) abzustellen, die auch für die Beurteilung der Versicherungspflicht
+bzw. freiheit des nicht gesetzlich versicherten Ehegatten oder Lebenspartners
+maßgebend ist. Sofern bestimmte Einnahmen des Ehegatten oder Lebenspartners
+durch einen Einkommensteuerbescheid nachgewiesen werden, ist die
+zum Zeitpunkt der Prüfung des Ausschlusstatbestandes maßgebliche Jahresarbeitsentgeltgrenze
+zugrunde zu legen und nicht diejenige Jahresarbeitsentgeltgrenze,
+die zum Zeitpunkt der Ausstellung des Einkommensteuerbescheides
+oder des steuerrechtlichen Veranlagungsjahres galt. Bei der Feststellung
+des Gesamteinkommens im Rahmen des § 10 Abs. 3 SGB V bzw. § 25 Abs.
+3 SGB XI sind aufgrund höchstrichterlicher Rechtsprechung Zuschläge,
+die mit Rücksicht auf den Familienstand gezahlt werden, einkommensmindernd
+zu berücksichtigen (vgl. auch Ausführungen zu 2.7).</lxbase:a><lxbase:a>Die Familienversicherung ist auch in der Zeit (weiter)
+ausgeschlossen, in der das zum Gesamteinkommen gehörende Arbeitsentgelt
+des nicht gesetzlich krankenversicherten Elternteils, das ansonsten
+regelmäßig im Monat ein Zwölftel der Jahresarbeitsentgeltgrenze
+übersteigt und regelmäßig höher als das Gesamteinkommen des Mitglieds
+ist, wegen einer Entgeltminderung infolge von Kurzarbeit bei gleichzeitigem
+Bezug von Kurzarbeitergeld die vorgenannte Entgeltgrenze bzw. das
+Gesamteinkommen des Ehegatten unterschreitet. Dies gilt auch bei
+vorübergehenden Entgeltminderungen für die Zeit des Bezuges von
+anderen Entgeltersatzleistungen (z. B. Verletztengeld, Übergangsgeld),
+in denen der Versicherungsstatus trotz des Arbeitsentgeltausfalls
+für die Dauer des Leistungsbezugs unverändert bleibt. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300002">2 Gesamteinkommen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D020876300003">2.1 Allgemeines </lxbase:ueberschrift><lxbase:a>Der Begriff des Gesamteinkommens wird in § 16 SGB IV durch
+eine Legaldefinition umschrieben, die auch für die Durchführung
+der Familienversicherung maßgebend ist. Nach dieser Vorschrift in
+Verbindung mit der Rechtsprechung des Bundessozialgerichts (Urteile
+vom 20.06.1979 - <lxprod:doknr-verw linkend="HT0183296">5 RKn 7/78</lxprod:doknr-verw> -, USK 7976, 22.06.1979 - <lxbase:az normform="3-RK-86/78" manuell="nein">3 RK 86/78</lxbase:az>
+- und - <lxbase:az normform="3-RK-8/79" manuell="nein">3 RK 8/79</lxbase:az> -, USK 7955, 10.07.1979 - <lxbase:az normform="3-RK-16/79" manuell="nein">3 RK 16/79</lxbase:az> -, USK 7987,
+10.11.1982 - <lxbase:az normform="11-RK-3/81" manuell="nein">11 RK 3/81</lxbase:az> -, USK 82207, - <lxprod:doknr-verw linkend="HT0182330">11 RK 1/82</lxprod:doknr-verw> -, USK 82209,
+- <lxbase:az normform="11-RK-2/82" manuell="nein">11 RK 2/82</lxbase:az> -, USK 82215, - <lxbase:az normform="11-RK-3/82" manuell="nein">11 RK 3/82</lxbase:az> -, USK 82227 sowie 25.02.1997
+- <lxbase:az normform="12-RK-19/96" manuell="nein">12 RK 19/96</lxbase:az> -, USK 9716 und - <lxbase:az normform="12-RK-34/95" manuell="nein">12 RK 34/95</lxbase:az> -, USK 9718) ist bei
+der Ermittlung des Gesamteinkommens von der Summe der Einkünfte
+im Sinne des Einkommensteuerrechts auszugehen.</lxbase:a><lxbase:a>Nach § 2 Abs. 1 Einkommensteuergesetz (EStG) unterliegen
+sieben Einkunftsarten der Einkommensteuer. Für diese Einkunftsarten
+sind in § 2 Abs. 2 EStG zwei unterschiedliche Arten der Einkunftsermittlung
+vorgesehen:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+die Ermittlung des Überschusses der Einnahmen über die Werbungskosten
+(ÜberschussEinkünfte) bei </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>Einkünften
+aus nichtselbstständiger Arbeit, und zwar in erster Linie das Arbeitsentgelt
+(§ 2 Abs. 1 Satz 1 Nr. 4, §§ 19 EStG),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Einkünften aus Kapitalvermögen
+(§ 2 Abs. 1 Satz 1 Nr. 5, § 20 EStG),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Einkünften aus Vermietung
+und Verpachtung (§ 2 Abs. 1 Satz 1 Nr. 6, § 21 EStG), </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>sonstigen Einkünften im Sinne
+des § 22 EStG (§ 2 Abs. 1 Satz 1 Nr. 7 EStG) und</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) die Gewinnermittlung bei den Einkunftsarten
+aus selbstständiger Tätigkeit, wie</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>Land-
+und Forstwirtschaft (§ 2 Abs. 1 Satz 1 Nr. 1, §§ 13 - 14a EStG),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Gewerbebetrieb (§ 2 Abs.
+1 Satz 1 Nr. 2, §§ 15 - 17 EStG),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>selbstständige Arbeit (§
+2 Abs. 1 Satz 1 Nr. 3, § 18 EStG).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Das Gesamteinkommen in § 16 SGB IV mit seiner Bezugnahme
+auf die Summe der Einkünfte stellt auf den Einkunftsbegriff im Sinne
+des § 2 Abs. 2 EStG, d. h. auf die Überschuss-Einkünfte bzw. den
+Gewinn ab. Es ist unzulässig, für die Feststellung des regelmäßigen
+Gesamteinkommens an andere steuerrechtliche Begriffe, wie beispielsweise
+an den Gesamtbetrag der Einkünfte im Sinne des § 2 Abs. 3 EStG (Summe
+der Einkünfte vermindert um den Altersentlastungsbetrag, den Entlastungsbetrag
+für Alleinerziehende und den Betrag nach § 13 Abs. 3 EStG), an das
+Einkommen im Sinne des § 2 Abs. 4 EStG (Gesamtbetrag der Einkünfte
+vermindert um Sonderausgaben und außergewöhnliche Belastungen) oder
+an das zu versteuernde Einkommen im Sinne des § 2 Abs. 5 EStG, anzuknüpfen.</lxbase:a><lxbase:a>Dementsprechend dürfen Sonderausgaben (z. B. Vorsorgeaufwendungen)
+und ausschließlich für die Berechnung der Lohn- oder Einkommensteuer
+geltende Freibeträge (z. B. Altersentlastungsbetrag, Kinderfreibetrag,
+Freibetrag für Land- und Forstwirtschaft und für freie Berufe) sowie
+sonstige vom Einkommen abzuziehende Beträge (z. B. für außergewöhnliche
+Belastungen) bei der Feststellung der Summe der Einkünfte und damit auch
+bei der Ermittlung des Gesamteinkommens nicht in Abzug gebracht
+werden (BSG, Urteil vom 25.08.2004 – <lxprod:doknr-verw linkend="HT1532885">B 12 KR 36/03 R</lxprod:doknr-verw> –, USK 2004-20). </lxbase:a><lxbase:a>Auch Verluste nach Maßgabe des § 10d EStG (Verlustvortrag
+und Verlustrücktrag) dürfen bei der Summe der Einkünfte im Sinne
+des Einkommensteuerrechts nicht in Abzug gebracht werden; sie bleiben
+daher bei der Feststellung des Gesamteinkommens unberücksichtigt
+(BSG, Urteil vom 16. Mai 2001 - <lxprod:doknr-verw linkend="HT0167540">B 5 RJ 46/00 R</lxprod:doknr-verw>). Für Landwirte,
+deren Gewinn nach § 13a EStG ermittelt wird, gelten gemäß § 15 Abs.
+2 SGB IV abweichende Regelungen (vgl. Ausführungen zu 2.3). </lxbase:a><lxbase:a>Bei den Überschuss-Einkünften sind die Einnahmen (§ 8
+EStG) um die Werbungskosten zu vermindern (§ 2 Abs. 2 Nr. 2 EStG).
+Werbungskosten sind im Wesentlichen Aufwendungen zur Erwerbung,
+Sicherung und Erhaltung der Einnahmen. Sie können nur bei der Einkunftsart
+geltend gemacht werden, bei der sie erwachsen sind (§ 9 Abs. 1 EStG).
+Die in § 9a EStG genannten Pauschbeträge für Werbungskosten sind
+dann zugrunde zu legen, wenn nicht höhere Aufwendungen nachgewiesen
+werden (vgl. aber Ausführungen zu 2.3.1.2).</lxbase:a><lxbase:a>Die nach den §§ 3 und 3b EStG steuerfreien Einnahmen gehören
+auch dann nicht zum Gesamteinkommen, wenn sie Entgeltersatzfunktion
+haben. Zumal den in § 2 Abs. 1 EStG abschließend aufgeführten steuerpflichtigen
+Einkunftsarten das Ziel zugrunde liegt, nicht jede, sondern nur
+die durch eine bestimmte Leistung des Steuerpflichtigen bewirkte Erhöhung
+seiner wirtschaftlichen Leistungsfähigkeit zu erfassen. Dies gilt
+erst recht für solche Einkünfte, die zur Abgeltung eines krankheits-
+oder behinderungsbedingten Mehrbedarfs dienen, denn der Zufluss
+begründet wirtschaftlich gesehen keine Erhöhung der finanziellen
+Leistungsfähigkeit des Steuerpflichtigen. Dies gilt u. a. für ein
+zinsloses Darlehen, welches Personen in einer pflegebedingten Freistellung
+von der Arbeitsleistung gem. § 2 Familienpflegezeitgesetz oder §
+3 Pflegezeitgesetz gewährt wird und demnach nicht den Einkünften
+im Sinne des § 2 EStG zuzuordnen ist. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300004">2.2 Korrektur
+der Summe der Einkünfte nach Maßgabe des § 2 Abs. 5a EStG</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D020876300005">2.2.1
+Allgemeines </lxbase:ueberschrift><lxbase:a>Nach Maßgabe des § 2 Abs. 5a EStG muss u. a. der nach
+den Rechtsvorschriften des EStG ermittelte Begriff "Summe der Einkünfte",
+sofern er in außensteuerlichen Rechtsnormen Anwendung findet, nach
+einem bestimmten Schema korrigiert werden, um gewisse einkommensteuerrechtliche
+Besonderheiten zu nivellieren, die außerhalb des Steuerrechts ohne
+Belang sind. Danach ist das im Recht der Familienversicherung relevante
+Gesamteinkommen wie folgt zu ermitteln:</lxbase:a><lxbase:a>(1) Summe der Einkünfte aus den Einkunftsarten</lxbase:a><lxbase:a>(2) Erhöhung um die nach § 32d Abs. 1 und nach § 43 Abs.
+5 EStG zu besteuernden Beträge ("gesonderter Steuertarif für Einkünfte
+aus Kapitalvermögen")</lxbase:a><lxbase:a>(3) Erhöhung um die nach § 3 Nr. 40 EStG steuerfreien
+Beträge und Minderung um die nach § 3c Abs. 2 EStG nicht abziehbaren
+Beträge ("Teileinkünfteverfahren")</lxbase:a><lxbase:a>(4) Minderung um die nach § 10 Abs. 1 Nr. 5 EStG abziehbaren
+Kinderbetreuungskosten</lxbase:a><lxbase:a>(5) = Gesamteinkommen im Sinne der Familienversicherung</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300006">2.2.2
+Teileinkünfteverfahren</lxbase:ueberschrift><lxbase:a>Das Teileinkünfteverfahren bedeutet im Kern, dass bestimmte
+grundsätzlich steuerpflichtige Einnahmen (Dividenden sowie Veräußerungsgewinne
+aus Veräußerungen von bestimmten Anteilen an Körperschaften und
+Personenvereinigungen) nur zu 60 Prozent in die Einkommensteuerpflicht
+einbezogen und im Übrigen steuerfrei hinsichtlich der Einkommensteuer
+gestellt werden (vgl. § 3 Nr. 40 EStG). Die mit diesen Einnahmen
+oder Veräußerungserlösen zusammenhängenden Aufwendungen werden ebenfalls
+im gekürzten Umfang (zu 60 Prozent) berücksichtigt (§ 3c Abs. 2
+EStG).</lxbase:a><lxbase:a>Das Teileinkünfteverfahren findet grundsätzlich nur bei
+solchen Einkünften aus Kapitalvermögen Anwendung, die aufgrund der
+Subsidiaritätsregelung des § 20 Abs. 8 EStG den Einkünften aus Land-
+und Forstwirtschaft, Gewerbebetrieb oder selbstständiger Arbeit zuzurechnen
+sind. Ausnahmsweise kann es jedoch vorkommen, dass bei typischerweise unternehmerischen
+Beteiligungen (vgl. Voraussetzungen des § 32d Abs. 2 Nr. 3 EStG)
+ein Optionsrecht ausgeübt wird, wonach die Dividendeneinkünfte zwar
+einkommensteuerrechtlich den Einkünften aus Kapitalvermögen zugerechnet
+bleiben, aber unter der Anwendung des Teileinkünfteverfahrens besteuert
+werden.</lxbase:a><lxbase:a>Werden die Kapitalerträge und Veräußerungsgewinne nach
+dem Teileinkünfteverfahren nur zu 60 Prozent bei der persönlichen
+Einkommensteuer des Anteilseigners herangezogen (§ 3 Nr. 40 EStG),
+ist nach § 2 Abs. 5a EStG für Zwecke der Feststellung des Gesamteinkommens
+das Ergebnis des Teileinkünfteverfahrens wieder rückgängig zu machen. Diese
+Korrektur beinhaltet einerseits die Hinzurechnung zu dem steuerrechtlich
+maßgebenden Wert des nicht angesetzten Teils der Beteiligungserträge
+(40 Prozent) und andererseits die Minderung des Beitrags um die
+nach § 3c Abs. 2 EStG nicht berücksichtigten Aufwendungen (40 Prozent
+der Werbungskosten bzw. der Betriebsausgaben). Die Beträge im Sinne
+des § 2 Abs. 5a EStG können aus dem Erläuterungstext des Einkommensteuerbescheides
+entnommen werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300007">2.2.3
+Kinderbetreuungskosten</lxbase:ueberschrift><lxbase:a>Bei der Feststellung des Gesamteinkommens im Rahmen der
+Prüfung der Familienversicherung ist die Summe der Einkünfte im
+Sinne des § 2 Abs. 2 EStG um die nach § 10 Abs. 1 Nr. 5 EStG in
+der Fassung des Steuervereinfachungsgesetzes 2011 als Sonderausgaben abziehbaren
+Kinderbetreuungskosten zu mindern. Insoweit ist die bis zum 31.
+Dezember 2011 maßgebende Unterscheidung nach erwerbsbedingten und
+nicht erwerbsbedingten Kinderbetreuungskosten nicht mehr von Bedeutung.</lxbase:a><lxbase:a>Hinsichtlich der persönlichen Zuordnung der Kinderbetreuungskosten
+im Rahmen der Einkommensteuererklärung bei zusammen veranlagten
+Eheleuten gilt Folgendes:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Besteht
+im steuerrechtlichen Sinne ein Dispositionsrecht hinsichtlich der
+Zuordnung von Kinderbetreuungskosten als Sonderausgaben, gilt das
+im Rahmen der Einkommensteuererklärung ausgeübte Dispositionsrecht
+auch für die Feststellung des Gesamteinkommens nach § 10 SGB V.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>Ist dagegen aufgrund der
+steuerrechtlichen Regelungen keine Aufteilung der Aufwendungen für
+die Kinderbetreuung zwischen den Elternteilen notwendig – aufgrund
+der Zusammenveranlagung der verheirateten Eltern nach § 26b EStG
+-, wird den Eltern für Zwecke der Sozialversicherung ein uneingeschränktes
+Dispositionsrecht zur Aufteilung der steuerlich anerkannten Kinderbetreuungskosten
+eingeräumt. Hierzu haben die Ehegatten eine einvernehmliche Erklärung
+gegenüber der/den zuständige(n) Krankenkasse(n) abzugeben. Diese
+Entscheidung gilt bis zur nächsten Einkommensüberprüfung nach §
+4 der Fami-Meldegrundsätze.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300008">2.3 Überschuss
+der Einnahmen über die Werbungskosten</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D020876300009">2.3.1
+Einkünfte aus nichtselbstständiger Arbeit</lxbase:ueberschrift><lxbase:a>Zu den Einkünften aus nichtselbstständiger Arbeit im Sinne
+des § 2 Abs. 1 Satz 1 Nr. 4 EStG gehört in erster Linie das Arbeitsentgelt.
+Nach § 14 Abs. 1 SGB IV gehören zum Arbeitsentgelt alle laufenden
+oder einmaligen Einnahmen aus einer Beschäftigung. Unbedeutend ist,
+ob ein Rechtsanspruch darauf besteht, unter welchen Bezeichnungen oder
+in welcher Form sie geleistet werden und ob sie unmittelbar aus
+der Beschäftigung oder lediglich im Zusammenhang damit erzielt werden.
+Die allgemein für Arbeitnehmer geltenden Regelungen (u. a. die Sozialversicherungsentgeltverordnung
+- SvEV -) finden Anwendung. Zuwendungen, die nach der SvEV nicht
+zum Arbeitsentgelt im Sinne der Sozialversicherung gehören, bleiben
+bei der Ermittlung des Gesamteinkommens unberücksichtigt (zum Umgang
+mit steuerfreien Aufwandsentschädigungen, vgl. Ziffer 2.3.1.3).</lxbase:a><lxbase:a>Pfändungen sowie Abtretungen, die das erzielte Arbeitsentgelt
+vermindern, sind bei der Ermittlung des Gesamteinkommens nicht vom
+Arbeitsentgelt abzusetzen. Es ist vielmehr der Betrag des Arbeitsentgelts
+zu berücksichtigen, der dem Betreffenden zusteht und nicht der Betrag,
+der ihm nach Abzug von gepfändeten Beträgen bzw. sonstigen Abtretungen
+verbleibt.</lxbase:a><lxbase:a>Einmalige Einnahmen, deren Gewährung mit hinreichender
+Sicherheit mindestens einmal jährlich zu erwarten ist (z. B. Weihnachtsgratifikationen,
+Urlaubsgelder, zusätzliche Monatsarbeitsentgelte), müssen bei der
+Ermittlung des Gesamteinkommens berücksichtigt werden. Sie sind
+gleichmäßig auf alle Monate zu verteilen und den Monatsbezügen hinzuzurechnen
+(BSG, Urteile vom 17.08.1982 - <lxbase:az normform="3-RK-68/80" manuell="nein">3 RK 68/80</lxbase:az> -, USK 82125 und 28.02.1984
+- <lxprod:doknr-verw linkend="HT0182283">12 RK 21/83</lxprod:doknr-verw> -, USK 8401).</lxbase:a><lxbase:a>Wegen der Nichtberücksichtigung familienbezogener Zuschläge
+bei der Ermittlung des Gesamteinkommens nach § 10 Abs. 3 SGB V bzw.
+§ 25 Abs. 3 SGB XI siehe Ziffer 2.7.</lxbase:a><lxbase:a>Zu den Einkünften aus nichtselbstständiger Arbeit gehören
+auch Betriebs- und Werksrenten, wenn sie auf Leistungen des Arbeitgebers
+beruhen (z. B. Leistungen aus Unterstützungskassen und Direktzusagen),
+sowie Versorgungsbezüge aus einem früheren Dienstverhältnis (z.
+B. beamtenrechtliches Ruhegehalt). Der Versorgungsfreibetrag und der
+Zuschlag zum Versorgungsfreibetrag können von den Versorgungsbezügen
+nicht abgezogen werden; dies gilt auch für den Werbungskostenabzug
+(vgl. Ziffer 2.3.4.1).</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D020876300010">2.3.1.1
+Entlassungsentschädigungen (Abfindungen)</lxbase:ueberschrift><lxbase:a>Die monatlich gezahlten Beträge einer Abfindung wegen
+einer vom Arbeitgeber veranlassten oder gerichtlich ausgesprochenen
+Auflösung des Dienstverhältnisses zählen zum Gesamteinkommen (BSG-Urteil
+vom 25.01.2006 - <lxprod:doknr-verw linkend="HT0960371">B 12 KR 2/05</lxprod:doknr-verw> -, USK 2006-2). Das bedeutet, dass
+für die Zeit der Auszahlung keine Familienversicherung besteht,
+soweit die geltende Gesamteinkommensgrenze überschritten wird. Entsprechendes
+gilt für Übergangsgelder und Übergangsbeihilfen wegen einer nicht
+auf Antrag des Beschäftigten erfolgten Entlassung aus einem Dienstverhältnis.</lxbase:a><lxbase:a>Auch einmalig oder in einzelnen Teilbeträgen ausgezahlte
+Abfindungen, Entschädigungen oder ähnliche Leistungen, die wegen
+Beendigung des Arbeitsverhältnisses in Form nicht monatlich wiederkehrender
+Leistungen gezahlt werden (Entlassungsentschädigungen), sind ab
+dem 11. Mai 2019 als regelmäßiges Gesamteinkommen zu berücksichtigen (§
+10 Abs. 1 Satz 1 Nr. 5 Teilsatz 2 SGB V). Dabei wird die Entlassungsentschädigung
+unter Berücksichtigung des zuletzt regelmäßig im Monat erzielten
+Arbeitsentgelts (Einmalzahlungen sind nicht zu berücksichtigen)
+fiktiv auf die Zeit nach dem Ende des Beschäftigungsverhältnisses
+umgelegt und als zum Gesamteinkommen gehörende Einnahme herangezogen.
+Sofern die Entlassungsentschädigung nicht in einem engen zeitlichen Zusammenhang
+mit dem Ende des Beschäftigungsverhältnisses, sondern erst zu einem späteren
+Zeitpunkt ausgezahlt wird, ist sie ab dem Tag nach ihrer Auszahlung
+entsprechend umzulegen.</lxbase:a><lxbase:a>Für die Berücksichtigung einmaliger oder in einzelnen
+Teilbeträgen ausgezahlter Entlassungsentschädigungen als anrechenbares
+Gesamteinkommen ist unbedeutend, ob die Entlassungsentschädigung
+aus einem Beschäftigungsverhältnis resultiert, das zur Versicherungspflicht
+oder zur Versicherungsfreiheit geführt hat, ob der Arbeitnehmer
+während der Beschäftigung Mitglied der gesetzlichen Krankenversicherung
+war oder nicht und ob die Beschäftigung im In- oder Ausland ausgeübt
+wurde. Wird die Entlassungsentschädigung nicht in einem Betrag,
+sondern in einzelnen Teilbeträgen (Raten) ausgezahlt, ist gleichwohl
+der Gesamtbetrag der Entlassungsentschädigung, der dem ehemaligen Arbeitnehmer
+zusteht bzw. von ihm beansprucht werden kann, für die weitere Berücksichtigung
+heranzuziehen.</lxbase:a><lxbase:a>Zur Bestimmung des konkreten Zeitraums, für den die einmalige
+Entlassungsentschädigung für die Zeit (Tage) nach dem Ende des Beschäftigungsverhältnisses
+oder nach ihrer Auszahlung zuzuordnen ist, ist – ohne Beachtung
+der Regelung des § 158 SGB III zum Ruhen des Anspruchs auf Arbeitslosengeld
+bei Entlassungsentschädigungen - der Auszahlungsbetrag der Entlassungsentschädigung
+durch den Betrag in Höhe des laufenden kalendertäglichen Arbeitsentgelts
+(ohne etwaige Begrenzung auf die Beitragsbemessungsgrenze), das
+zuletzt vor Beendigung des Beschäftigungsverhältnisses regelmäßig erzielt
+wurde, zu dividieren und ggf. anschließend kaufmännisch zu runden.
+Ist das Arbeitsentgelt nicht nach Monaten bemessen, sondern von
+der Arbeitsleistung abhängig und unterliegt es daher Schwankungen,
+so ist die Höhe des laufenden Arbeitsentgelts, das zuletzt vor Beendigung
+des Beschäftigungsverhältnisses regelmäßig erzielt wurde, anhand
+des Durchschnitts der letzten drei Kalendermonate zu errechnen.
+Das Ergebnis ist die Anzahl der Tage, für den die Entlassungsentschädigung
+als Gesamteinkommen in Höhe des letzten laufenden Arbeitsentgelts
+heranzuziehen ist.</lxbase:a><lxbase:beispiel><cals:tabelle frame="none"><cals:tgroup cols="3" tgroupstyle="DATEVTabelle_Standard" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="47*" /><cals:colspec colnum="2" colname="2" colwidth="32*" /><cals:colspec colnum="3" colname="3" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a><lxbase:fett>Beispiel
+1</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="3" rowsep="0"><lxbase:a>Der bisher
+aufgrund einer versicherungspflichtigen Beschäftigung nach § 5 Abs.
+1 Nr. 1 SGB V versicherte Ehemann des Mitglieds beendet sein Arbeitsverhältnis
+zum 20. August. In diesem Zusammenhang erhält er eine Entlassungsentschädigung
+in Höhe von 14.500,00 EUR. Die Höhe des zuletzt erzielten regelmäßigen
+monatlichen Arbeitsentgelts beträgt 2.800,00 EUR. Für die Zeit ab
+21. August tritt kein anderweitiger Versicherungspflichttatbestand
+ein. Weitere Einkünfte bestehen nicht.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>letztes
+lfd. Arbeitsentgelt:</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>2.800,00 EUR</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>kalendertgl.
+Betrag (2.800,00 : 30=)</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>93,33 EUR (ktgl.)</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Abfindungsbetrag:</lxbase:a></cals:entry><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>14.500,00
+EUR : 93,33 EUR = 155,36 (~ 155) Tage</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Berücksichtigungszeitraum:</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>August 11
+Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>September
+30 Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Oktober 30
+Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>November 30
+Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Dezember 30
+Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Januar 24
+Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry namest="1" nameend="3"><lxbase:a>Die
+Entlassungsentschädigung ist für die Zeit nach Beendigung der versicherungspflichtigen
+Beschäftigung vom 21. August bis zum 24. Januar des Folgejahres
+für 155 Tage als Gesamteinkommen in Höhe von tgl. 93,33 EUR heranzuziehen.
+Dabei sind volle Kalendermonate mit 30 Tagen, Teilmonate mit den
+tatsächlichen Tagen anzusetzen. Der Abzug des Arbeitnehmer-Pauschbetrages
+scheidet aus. Das Ergebnis bliebe unverändert, selbst wenn die Entlassungsentschädigung
+noch während des Beschäftigungsverhältnisses (z. B. mit der letzten
+Entgeltabrechnung) gezahlt wird.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:beispiel><cals:tabelle frame="none"><cals:tgroup cols="3" tgroupstyle="DATEVTabelle_Standard" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="47*" /><cals:colspec colnum="2" colname="2" colwidth="32*" /><cals:colspec colnum="3" colname="3" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a><lxbase:fett>Beispiel
+2</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="3" rowsep="0"><lxbase:a>Abweichend
+von Beispiel 1 erfolgt die Auszahlung am 15. Januar des Folgejahres.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>letztes
+lfd. Arbeitsentgelt:</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>2.800,00 EUR</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>kalendertgl.
+Betrag (2.800,00 : 30=)</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>93,33 EUR (ktgl.)</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Abfindungsbetrag:</lxbase:a></cals:entry><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>14.500,00
+EUR : 93,33 EUR = 155,36 (~ 155) Tage</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Berücksichtigungszeitraum:</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Januar 16
+Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Februar 30
+Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>März 30 Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>April 30 Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Mai 30 Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Juni 19 Tage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry namest="1" nameend="3"><lxbase:a>Die
+Entlassungsentschädigung ist für die Zeit nach der Auszahlung (hier:
+16. Januar bis zum 19. Juni = 155 Tage) als Gesamteinkommen in Höhe
+von tgl. 93,33 EUR heranzuziehen.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a>Änderungen im Versicherungsstatus des Betroffenen haben
+keine Auswirkungen auf die fiktive zeitliche Zuordnung der Abfindung
+nach den vorgenannten Grundsätzen.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 3</lxbase:fett></lxbase:a><lxbase:a>Abweichend von Beispiel 2 übt der Ehemann in der Zeit
+vom 1. Februar bis 31. Mai des Folgejahres eine versicherungspflichtige
+Beschäftigung aus.</lxbase:a><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Die Heranziehung der Entlassungsentschädigung für die
+Zeit nach der Auszahlung (hier: 16. Januar bis zum 19. Juni = 155
+Tage) als Gesamteinkommen in Höhe von tgl. 93,33 EUR bleibt unverändert,
+ungeachtet dessen, dass die Familienversicherung in der Zeit vom
+1. Februar bis 31. Mai aufgrund der versicherungspflichtigen Beschäftigung
+nach § 10 Abs. 1 Satz 1 Nr. 2 SGB V (und nicht allein aufgrund des
+Überschreitens der Einkommensgrenze nach § 10 Abs. 1 Satz 1 Nr.
+5 SGB V) ausgeschlossen ist.</lxbase:a></lxbase:beispiel><lxbase:a>Auch die sich aus den Abfindungen evtl. ergebenden Einnahmen
+(z. B. Einkünfte aus Kapitalvermögen) zählen zum Gesamteinkommen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300011">2.3.1.2
+Werbungskosten / Umgang mit dem Arbeitnehmer-Pauschbetrag</lxbase:ueberschrift><lxbase:a>Einkünfte aus nichtselbstständiger Arbeit sind nach §
+2 Abs. 2 Nr. 2 EStG der Überschuss der Einnahmen über die Werbungskosten
+(§§ 8 - 9a EStG). Bei der Ermittlung des Gesamteinkommens sind daher
+die Werbungskosten von den Einkünften aus nichtselbstständiger Arbeit
+abzuziehen (BSG, Urteile vom 22.07.1981 - <lxprod:doknr-verw linkend="HT0182292">3 RK 7/80</lxprod:doknr-verw> -, USK 81123,
+09.09.1981 - <lxbase:az normform="3-RK-19/80" manuell="nein">3 RK 19/80</lxbase:az> -, USK 81223, 28.10.1981 - <lxbase:az normform="3-RK-8/81" manuell="nein">3 RK 8/81</lxbase:az> -,
+USK 81190 und 26.10.1982 - <lxbase:az normform="3-RK-35/81" manuell="nein">3 RK 35/81</lxbase:az> -, USK 82151). Hierbei ist
+der Arbeitnehmer-Pauschbetrag nach § 9a Satz 1 Nr. 1 EStG in Höhe
+von kalenderjährlich 1.000,00 EUR in Abzug zu bringen, sofern nicht
+höhere Werbungskosten nachgewiesen werden.</lxbase:a><lxbase:a>Bei pauschal besteuertem Arbeitslohn (z. B. nach § 40a
+EStG für bestimmte Teilzeitbeschäftigte und geringfügig Beschäftigte
+möglich) können Werbungskosten nicht abgesetzt werden, weil der
+Arbeitgeber in diesen Fällen Schuldner der pauschalen Lohnsteuer ist
+und der pauschal besteuerte Arbeitslohn und die pauschale Lohnsteuer
+bei einer Veranlagung zur Einkommenssteuer und beim Lohnsteuerjahresausgleich
+außer Ansatz bleiben.</lxbase:a><lxbase:a>Der Arbeitnehmer-Pauschbetrag ist bei der Prognose des
+regelmäßigen Arbeitsentgelts in dem Umfang in Abzug zu bringen,
+in dem er in der Summe im maßgebenden Beschäftigungszeitraum in
+Anspruch genommen werden kann, das heißt, er ist außen vor zu lassen,
+soweit er im laufenden Kalenderjahr durch vorhergehende Beschäftigungen
+bereits verbraucht ist und insofern nicht mehr zur Verfügung steht.
+Dies gilt unabhängig davon, ob die Beschäftigung befristet oder
+unbefristet ausgeübt wird. Damit wird eine kontinuierliche versicherungsrechtliche
+Beurteilung ermöglicht.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 4</lxbase:fett></lxbase:a><lxbase:a>Der Ehepartner eines Mitglieds übt eine auf Dauer angelegte
+geringfügige Beschäftigung aus. Das Arbeitsentgelt aus dieser Beschäftigung
+- keine Pauschalbesteuerung - beträgt mtl. 440,00 EUR.</lxbase:a><lxbase:a>Das anrechenbare regelmäßige Gesamteinkommen beträgt mtl.
+356,67 EUR</lxbase:a><lxbase:a>(440,00 EUR x 12 – 1.000,00 EUR) : 12</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Das regelmäßige Gesamteinkommen übersteigt die maßgebende
+Einkommensgrenze von 450,00 EUR (§ 10 Abs. 1 Satz 1 Nr. 5 Teilsatz
+4 SGB V) nicht. Die Familienversicherung ist möglich, und zwar selbst
+dann, wenn daneben noch weiteres anrechenbares Gesamteinkommen im
+Sinne des § 16 SGB IV bis zu einer monatlichen Höhe von 93,33 EUR bezogen
+wird.</lxbase:a></lxbase:beispiel><lxbase:a>Auch bei Aufnahme oder Beendigung einer Beschäftigung
+im Laufe eines Kalenderjahres kann der Arbeitnehmer-Pauschbetrag
+in Höhe von kalenderjährlich 1.000,00 EUR berücksichtigt werden.
+Dies gilt bei Beendigung der Beschäftigung im Laufe eines Kalenderjahres
+jedoch nur dann, wenn das Ende der Beschäftigung (von vornherein)
+feststeht, und bei Beginn einer Beschäftigung im Laufe eines Kalenderjahres
+nur insoweit, als der Arbeitnehmer-Pauschbetrag noch nicht ausgeschöpft
+ist.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 5</lxbase:fett></lxbase:a><lxbase:a>Der Ehepartner eines Mitglieds übt seit dem 01.04. eine
+auf Dauer angelegte geringfügige Beschäftigung aus. Das Arbeitsentgelt
+aus dieser Beschäftigung - keine Pauschalbesteuerung - beträgt mtl.
+440,00 EUR. Der Arbeitnehmer-Pauschbetrag steht noch in Gänze zur
+Verfügung.</lxbase:a><lxbase:a /><lxbase:a>Das anrechenbare regelmäßige Gesamteinkommen beträgt mtl.
+328,89 EUR</lxbase:a><lxbase:a>(440,00 EUR x 9 – 1.000,00 EUR) : 9</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Das regelmäßige Gesamteinkommen übersteigt die maßgebende
+Einkommensgrenze von 450,00 EUR (§ 10 Abs. 1 Satz 1 Nr. 5 Teilsatz
+4 SGB V) nicht. Die Familienversicherung ist möglich, und zwar selbst
+dann, wenn daneben noch weiteres anrechenbares Gesamteinkommen im
+Sinne des § 16 SGB IV bis zu einer monatlichen Höhe von 121,11 EUR bezogen
+wird.</lxbase:a></lxbase:beispiel><lxbase:a>Sofern eine auf Dauer angelegte Beschäftigung im Laufe
+des Kalenderjahres beendet wird und der Arbeitnehmer-Pauschbetrag
+noch nicht verbraucht ist, berührt eine (rückwirkende) volle Ausschöpfung
+des Arbeitnehmer-Pauschbetrags die einkommensrechtliche Beurteilung
+in der Familienversicherung nicht.</lxbase:a><lxbase:a>Bei der Feststellung des Gesamteinkommens im Rahmen der
+Prüfung der Voraussetzungen der Familienversicherung von Studenten,
+die eine mehr als geringfügige, aber nach § 6 Abs. 1 Nr. 3 SGB V
+versicherungsfreie Beschäftigung ausüben, ist zu beachten, dass
+für sie die allgemeine Einkommensgrenze des § 10 Abs. 1 Satz 1 Nr.
+5 Teilsatz 1 SGB V gilt.</lxbase:a><lxbase:a>Bei einer auf Dauer angelegten Beschäftigung dürfte die
+maßgebende Einkommensgrenze - auch unter Abzug des Arbeitnehmer-Pauschbetrags
+- regelmäßig überschritten sein. Ein anderes Ergebnis kann allenfalls
+bei regelmäßigen Arbeitsentgelten bis zu monatlich 528,33 EUR (2019:
+445 EUR + 83,33 EUR) in Betracht kommen.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 6</lxbase:fett></lxbase:a><lxbase:a>Ein Student (20-jähriges Kind eines Mitglieds) übt eine
+auf Dauer angelegte mehr als geringfügige, aber nach § 6 Abs. 1
+Nr. 3 SGB V versicherungsfreie Beschäftigung aus. Das Arbeitsentgelt
+aus dieser Beschäftigung beträgt mtl. 530,00 EUR.</lxbase:a><lxbase:a /><lxbase:a>Das anrechenbare regelmäßige Gesamteinkommen beträgt mtl.
+446,67 EUR</lxbase:a><lxbase:a>(530,00 EUR x 12 – 1.000,00 EUR) : 12</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Das regelmäßige Gesamteinkommen übersteigt die maßgebende
+Einkommensgrenze von 445,00 EUR (§ 10 Abs. 1 Satz 1 Nr. 5 Teilsatz
+1 SGB V). Die Familienversicherung ist daher ausgeschlossen.</lxbase:a></lxbase:beispiel><lxbase:a>Auch bei Ausübung einer befristeten Beschäftigung ist
+der Arbeitnehmer-Pauschbetrag bei der Prognose des regelmäßigen
+Arbeitsentgelts in dem Umfang in Abzug zu bringen, in dem er in
+der Summe im maßgebenden Beschäftigungszeitraum in Anspruch genommen
+werden kann. Ein Wahlrecht zugunsten der Berücksichtigung des Arbeitnehmer-Pauschbetrags
+en bloc durch volle Ausschöpfung in den ersten Monaten der Beschäftigung
+(sog. Abschmelzmodell) kommt nicht in Betracht.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 7</lxbase:fett></lxbase:a><lxbase:a>Ein Student (20-jähriges Kind eines Mitglieds) übt in
+der Zeit vom 01.06. bis zum 30.09. eine befristete und nach § 6
+Abs. 1 Nr. 3 SGB V versicherungsfreie Beschäftigung aus. Das Arbeitsentgelt
+aus dieser Beschäftigung beträgt mtl. 800,00 EUR. Der Arbeitnehmer-Pauschbetrag
+steht noch in Gänze zur Verfügung.</lxbase:a><lxbase:a /><lxbase:a>Das anrechenbare regelmäßige Gesamteinkommen beträgt mtl.
+550,00 EUR</lxbase:a><lxbase:a>(800,00 EUR x 4 – 1.000,00 EUR) : 4</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Das regelmäßige Gesamteinkommen übersteigt die maßgebende
+Einkommensgrenze von 445,00 EUR (§ 10 Abs. 1 Satz 1 Nr. 5 Teilsatz
+1 SGB V). Die Familienversicherung ist daher ausgeschlossen. Ein
+Abzug des Arbeitnehmer-Pauschbetrags en bloc, wodurch das Arbeitsentgelt
+im Monat Juni auf 0,00 EUR (800,00 EUR – 800,00 EUR) und im Monat
+Juli auf 600,00 EUR (800,00 EUR – 200,00 EUR) reduziert und die
+Einkommensgrenze somit für den Juni nicht überschritten wäre, ist
+nicht zulässig.</lxbase:a></lxbase:beispiel><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 8</lxbase:fett></lxbase:a><lxbase:a>Das 23-jährige Kind eines Mitglieds nimmt ab dem 01.10.
+ein Studium und daneben eine nach § 6 Abs. 1 Nr. 3 SGB V versicherungsfreie
+Beschäftigung als sog. Werkstudent gegen ein monatliches Arbeitsentgelt
+in Höhe von 600,00 EUR auf. Im Laufe des Kalenderjahres wurde bereits
+in der Zeit vom 01.01. bis 30.06. eine versicherungspflichtige Beschäftigung ausgeübt.</lxbase:a><lxbase:a /><lxbase:a>Das anrechenbare regelmäßige Gesamteinkommen beträgt mtl.
+433,33 EUR</lxbase:a><lxbase:a>(600,00 EUR x 3 – 500,00 EUR) : 3</lxbase:a><lxbase:a /><lxbase:a>Dabei ist aus Vereinfachungsgründen anzunehmen, dass der
+Arbeitnehmer-Pauschbetrag für die Zeit der Vorbeschäftigung im laufenden
+Kalenderjahr vom 01.01. bis 30.06. in Höhe von 500,00 EUR (1000,00
+EUR : 12 x 6) bereits in Anspruch genommen wurde und in diesem Umfang
+nicht mehr zur Verfügung steht.</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Das regelmäßige Gesamteinkommen übersteigt die maßgebende
+Einkommensgrenze von 445,00 EUR (§ 10 Abs. 1 Satz 1 Nr. 5 Teilsatz
+1 SGB V) nicht. Die Durchführung der Familienversicherung für die
+Zeit ab dem 01.10. ist möglich.</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Weiterführung des Beispiels für die Zeit
+ab dem 01.01.</lxbase:fett></lxbase:a><lxbase:a /><lxbase:a>Das anrechenbare regelmäßige Gesamteinkommen beträgt mtl.
+516,67 EUR</lxbase:a><lxbase:a>(600,00 EUR x 12 – 1.000,00 EUR) : 12</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Das regelmäßige Gesamteinkommen übersteigt die maßgebende
+Einkommensgrenze von angenommen 455,00 EUR im Jahr 2020* (10 Abs.
+1 Satz 1 Nr. 5 Teilsatz 1 SGB V). Die Durchführung der Familienversicherung
+für die Zeit ab dem 01.01. ist nicht mehr möglich.</lxbase:a></lxbase:beispiel><lxbase:a>*Die Rechengrößen für 2020 stehen zum Zeitpunkt der Veröffentlichung
+der Grundsätzlichen Hinweise noch nicht fest. Insofern wird zur
+Veranschaulichung des Ergebnisses mit einem angenommen Wert operiert.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300012">2.3.1.3
+Umgang mit steuerfreien Aufwandsentschädigungen</lxbase:ueberschrift><lxbase:a>Steuerfreie Aufwandsentschädigungen einschließlich der
+in § 3 Nr. 26 und 26a EStG genannten steuerfreien Einnahmen gehören
+nicht zum Arbeitsentgelt und bleiben daher auch bei der Ermittlung
+des Gesamteinkommens unberücksichtigt (vgl. Ziffer 2.3.1). Sie sind
+daher bei der Prognose des regelmäßigen Arbeitsentgelts in dem Umfang
+in Abzug zu bringen, in dem sie in der Summe vom Arbeitgeber im
+maßgebenden Beschäftigungszeitraum gewährt werden sollen. Dementsprechend
+sind</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>Einnahmen
+aus nebenberuflichen Tätigkeiten als Übungsleiter, Ausbilder, Erzieher, Betreuer
+oder vergleichbaren nebenberuflichen Tätigkeiten, aus nebenberuflichen künstlerischen
+Tätigkeiten oder für die Pflege alter, kranker oder behinderter
+Menschen bis zur Höhe von insgesamt 2.400,00 Euro im Kalenderjahr
+nach § 3 Nr. 26 EStG (Übungsleiterpauschale) sowie</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Vergütungen für ehrenamtliche
+Tätigkeiten bis zur Höhe von insgesamt 720,00 Euro im Kalenderjahr
+nach § 3 Nr. 26a EStG (Ehrenamtspauschale) unter den dort näher genannten
+Voraussetzungen</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>dem Arbeitsentgelt als Teil des Gesamteinkommens nicht
+zuzurechnen. Dies gilt unabhängig davon, ob der jeweilige Steuerfreibetrag
+pro rata, also anteilig auf einen bestimmten Zeitablauf bezogen
+(z. B. monatlich 200,00 Euro bzw. 60,00 Euro), oder en bloc ausgeschöpft
+wird. Soweit der Arbeitnehmer die Freibeträge im laufenden Kalenderjahr
+bereits anderweitig in Anspruch genommen hat bzw. in Anspruch nimmt,
+muss er dies anzeigen. In diesem Fall kann der kalenderjährliche
+steuerfreie Höchstbetrag von 2.400,00 Euro bzw. 720,00 Euro nicht
+oder nur entsprechend reduziert ausgeschöpft werden. Die Übungsleiterpauschale
+nach § 3 Nr. 26 EStG und die Ehrenamtspauschale nach § 3 Nr. 26a
+EStG können auch zusammen in einer Beschäftigung berücksichtigt
+werden, wenn unterschiedliche Tätigkeiten ausgeübt werden.</lxbase:a><lxbase:a>Die Art der Berücksichtigung steuerfreier Aufwandsentschädigungen
+bei der Ermittlung des Arbeitsentgelts als Teil des Gesamteinkommens
+entspricht der Art der Berücksichtigung bei der Ermittlung des regelmäßigen
+Arbeitsentgelts zur (versicherungsrechtlichen) Prüfung einer geringfügig
+entlohnten Beschäftigung. Der für das Arbeitgeberverfahren beschriebenen
+Verfahrensweise, dass im Falle der Berücksichtigung des Steuerfreibetrages
+en bloc eine beitrags- und meldepflichtige Beschäftigung erst vorliegt,
+wenn dieser ausgeschöpft ist, kommt bei der Feststellung des Gesamteinkommens
+zum Zwecke der Prüfung der Voraussetzungen der Familienversicherung
+keine Bedeutung zu.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 9</lxbase:fett></lxbase:a><lxbase:a>Der Ehepartner eines Mitglieds übt für die Zeit vom 01.05.
+bis zum 30.09. eine nebenberufliche Beschäftigung als Übungsleiter
+gegen ein monatliches Arbeitsentgelt von 800,00 EUR aus. Die Voraussetzungen
+des § 3 Nr. 26 EStG sind erfüllt. Der Arbeitgeber behandelt das
+Arbeitsentgelt in den ersten drei Monaten im Rahmen der en bloc-Betrachtung
+des Jahressteuerfreibetrages in Höhe von 2.400,00 EUR steuerfrei.</lxbase:a><lxbase:a /><lxbase:a>Das anrechenbare regelmäßige Gesamteinkommen beträgt mtl.
+320,00 EUR</lxbase:a><lxbase:a>(800,00 EUR x 5 – 2.400,00 EUR) : 5</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Das regelmäßige Gesamteinkommen übersteigt die für geringfügig
+Beschäftigte maßgebende Einkommensgrenze von 450,00 EUR (§ 10 Abs.
+1 Satz 1 Nr. 5 Teilsatz 4 SGB V) nicht. Die Familienversicherung
+ist möglich. Dem Umstand, dass die geringfügige Beschäftigung erst
+nach Ausschöpfung des Steuerfreibetrages ab dem vierten Monat (01.08.)
+vom Arbeitgeber zu melden ist und auch erst von diesem Zeitpunkt
+an Beitragspflichten entstehen, kommt bei der Feststellung des regelmäßigen
+Gesamteinkommens keine Bedeutung zu.</lxbase:a></lxbase:beispiel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300013">2.3.2
+Einkünfte aus Kapitalvermögen</lxbase:ueberschrift><lxbase:a>Im Rahmen der Einkünfte aus Kapitalvermögen können Alleinstehende
+einen Sparer-Pauschbetrag nach § 20 Abs. 9 EStG in Höhe von 801,00
+EUR, Ehegatten, die zusammen veranlagt werden, einen gemeinsamen
+Sparer-Pauschbetrag von 1.602,00 Euro einkommensmindernd in Abzug
+bringen. Der Abzug der tatsächlichen Werbungskosten ist ausgeschlossen.</lxbase:a><lxbase:a>Durch das Unternehmenssteuerreformgesetz 2008 wurde ein
+gesonderter Steuertarif für Einkünfte aus Kapitalvermögen eingeführt.
+Danach unterliegen die Kapitalerträge im Regelfall dem besonderen
+Steuersatz von 25 Prozent (vgl. § 32d Abs. 1 Satz 1 EStG) und werden
+somit dem Wirkungskreis des für alle anderen Einkünfte geltenden
+progressiven Einkommensteuertarifs entzogen. Die Erhebung des gesonderten
+Steuersatzes nach § 32d Abs. 1 Satz 1 EStG wird im Regelfall durch
+Abzug vom Kapitalertrag (Kapitalertragsteuer) nach § 43 Abs. 1 EStG
+umgesetzt. Mit dem Einbehalt der Kapitalertragsteuer gilt die Einkommensteuer
+als abgegolten (vgl. § 43 Abs. 5 Satz 1 EStG), sofern es sich nicht um
+die Sachverhalte im Sinne des § 32d Abs. 2 EStG handelt oder die
+Einkünfte einer anderen Einkunftsart zugerechnet werden (§ 43 Abs.
+5 Satz 2 EStG). In diesem Zusammenhang wird von einer sog. Abgeltungsteuer
+gesprochen, weil die Kapitaleinkünfte nicht erklärt werden müssen
+und die Einnahmen grundsätzlich nicht mehr im Rahmen der Veranlagung
+berücksichtigt werden. Nach § 25 Abs. 1 EStG werden nach § 43 Abs.
+5 EStG abgegoltene Kapitalerträge nicht in das zu versteuernde Einkommen
+einbezogen und daher in dem Einkommensteuerbescheid auch nicht in
+der Summe der Einkünfte ausgewiesen.</lxbase:a><lxbase:a>Bei bestimmten Fallkonstellationen werden die Einkünfte
+aus Kapitalvermögen gleichwohl zur Besteuerung mit dem persönlichen
+Steuersatz herangezogen und zu den Einkünften bzw. zu der Summe
+der Einkünfte im Sinne des § 2 Abs. 2 EStG zugerechnet.</lxbase:a><lxbase:a>Da Einkünfte aus Kapitalvermögen unabhängig von der einkommensteuerrechtlichen Behandlung
+bei der Ermittlung des Gesamteinkommens zu berücksichtigen sind,
+ist bei der Ermittlung des Gesamteinkommens eine Erhöhung der Summe
+der Einkünfte um die nach § 32d Absatz 1 und nach § 43 Absatz 5
+EStG zu versteuernden und ggf. gesondert ausgewiesenen Beträge vorzunehmen
+(vgl. Abschnitt 2.2).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300014">2.3.3
+Einkünfte aus Vermietung und Verpachtung</lxbase:ueberschrift><lxbase:a>Bei den Einkünften aus Vermietung und Verpachtung können
+sämtliche Aufwendungen abgesetzt werden, die durch die mit dieser
+Einkunftsart verbundenen wirtschaftlichen Tätigkeiten veranlasst
+sind. Dazu gehören insbesondere Betriebskosten aller Art, Geldbeschaffungskosten,
+Versicherungsbeiträge und der Erhaltungsaufwand, soweit sich diese Ausgaben
+auf das Gebäude beziehen und der Einkommenserzielung in dieser Einkunftsart
+dienen.</lxbase:a><lxbase:a>Zur Ermittlung der Einkünfte aus Vermietung und Verpachtung
+sind die steuerlichen Vergünstigungen nach § 10e EStG sowie die
+normalen Abschreibungen nach § 7 Abs. 1 in Verbindung mit Abs. 4
+ff. EStG abzugsfähig.</lxbase:a><lxbase:a>Einnahmen aus Vermietung und Verpachtung sind in aller
+Regel dem maßgeblichen Einkommensteuerbescheid zu entnehmen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300015">2.3.4
+sonstige Einkünfte</lxbase:ueberschrift><lxbase:a>Zu den sonstigen Einkünften im Sinne des § 22 EStG gehören
+unter anderem Einkünfte aus Leibrenten (vgl. Ausführungen zu 2.3.4.1),
+Einkünfte aus Unterhaltsleistungen (vgl. Ausführungen zu 2.3.4.2),
+Einkünfte aus privaten Veräußerungsgeschäften, Einkünfte aus sonstigen
+Leistungen (z. B. Einkünfte aus gelegentlichen Vermittlungen und
+aus der Vermietung beweglicher Gegenstände) und Einkünfte aus Abgeordnetenbezügen.</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D020876300016">2.3.4.1
+Einkünfte aus Leibrenten</lxbase:ueberschrift><lxbase:a>Leibrenten (regelmäßig wiederkehrende Bezüge, deren Zahlungswiederholung
+von der Lebenszeit der Begünstigten abhängig ist) und andere Leistungen,
+die aus der gesetzlichen Rentenversicherung, aus der Alterssicherung
+der Landwirte, aus berufsständischen Versorgungseinrichtungen und
+aus privaten kapitalgedeckten Leibrentenversicherungen erbracht
+werden, gehören nach § 22 Nr. 1 EStG steuerrechtlich zu den sonstigen
+Einnahmen. Zu den Leibrenten und anderen Leistungen im vorstehenden
+Sinne zählen nicht nur Renten wegen Alters, sondern auch solche,
+die wegen einer Einschränkung der Erwerbsfähigkeit oder zur Hinterbliebenenversorgung
+erzielt werden.</lxbase:a><lxbase:a>Bezüge aus betrieblichen Pensionskassen, die ganz oder
+teilweise auf früheren Beiträgen des Arbeitnehmers beruhen und Veräußerungsrenten,
+die aus dem Verkauf eines Hauses oder Betriebes herrühren (Verkauf
+auf Rentenbasis), zählen ebenfalls zu den sonstigen Einkünften im
+Sinne des § 22 Nr. 1 EStG.</lxbase:a><lxbase:a>Renten sind aufgrund ausdrücklicher gesetzlicher Bestimmung
+in § 10 Abs. 1 Satz 1 Nr. 5 Teilsatz 3 SGB V bzw. § 25 Abs. 1 Satz
+1 Nr. 5 Teilsatz 3 SGB XI mit ihrem Zahlbetrag und nicht mit dem
+steuerpflichtigen Betrag zu berücksichtigen. Diese Sonderregelung
+für Renten geht der allgemeinen Vorschrift über die Berücksichtigung
+des Gesamteinkommens im Sinne des § 16 SGB IV mit seiner engen Bezugnahme
+auf das Steuerrecht vor (BSG, Urteile vom 10.03.1994 - <lxprod:doknr-verw linkend="HT0183623">12 RK 4/92</lxprod:doknr-verw>
+-, USK 9430 und vom 25.01.2006 - <lxprod:doknr-verw linkend="HT5210401">B 12 KR 10/04 R</lxprod:doknr-verw> -, USK 2006-1).</lxbase:a><lxbase:a>Das bedeutet, dass nicht nur die Renten aus der gesetzlichen
+Rentenversicherung und die Versorgungsbezüge im Sinne des § 229
+SGB V, sondern auch Renten aus privaten Rentenversicherungen in
+Höhe des Zahlbetrags als Gesamteinkommen zu berücksichtigen sind.
+Unerheblich ist, ob die Rentenleistung auf der Grundlage einer aufgeschobenen
+Rentenversicherung oder einer nach Zahlung eines Einmalbetrages
+sofort beginnenden privaten Rentenversicherung erbracht wird.</lxbase:a><lxbase:a>Unter Zahlbetrag der Rente ist der - unter Anwendung aller
+Versagens - oder Nichtleistungsvorschriften - zur Auszahlung gelangende
+Betrag zu verstehen. Mithin sind auch keine Werbungskosten abzuziehen.
+Rentenleistungen, die auf Höherversicherungsbeiträgen nach § 280
+SGB VI beruhen, werden berücksichtigt. Der Beitragszuschuss des
+Rentenversicherungsträgers nach § 106 SGB VI zählt dagegen nicht
+zum Gesamteinkommen. Rentenbeträge, die an Dritte abgezweigt werden,
+führen - ebenso wie die von den Rentnern zur Kranken- und Pflegeversicherung
+zu entrichtenden Beiträge - nicht zu einer Minderung des Zahlbetrages.
+Auch Abzweigungsbeträge, die z. B. auf eine Aufrechnung, Verrechnung,
+Abtretung oder Pfändung zurückzuführen sind, mindern den Zahlbetrag der
+Rente bei der Feststellung des Gesamteinkommens nicht.</lxbase:a><lxbase:a>Der vollständige oder teilweise Verzicht auf eine in-
+oder ausländische Rente mit dem Ziel, die Einkommensgrenze nach
+§ 10 Abs. 1 Satz 1 Nr. 5 SGB V zu unterschreiten, ist unwirksam
+(§ 46 Abs. 2 SGB I). Im Gegensatz dazu ist die Wahl, eine Altersrente
+nicht in voller Höhe sondern als Teilrente in Anspruch zu nehmen
+(§ 42 Abs. 2 SGB VI), kein Verzicht im Sinne des § 46 SGB I. Soweit
+Angehörige durch die Ausübung dieses Wahlrechts die Einkommensgrenze
+nach § 10 Abs. 1 Satz 1 Nr. 5 SGB V unterschreiten, ist die Familienversicherung
+möglich, sofern die weiteren Voraussetzungen erfüllt werden.</lxbase:a><lxbase:a>In den Fällen, in denen der monatliche Zahlbetrag einer
+rückwirkend zugebilligten Rente (bzw. einer der zuvor genannten
+anderen Leistung) 1/7 der monatlichen Bezugsgröße überschreitet,
+ist ein rückwirkender Wegfall des Anspruchs auf Familienversicherung
+ausgeschlossen. Die Familienversicherung endet mit dem Tag vor dem
+Beginn der regelmäßigen Rentenzahlung.</lxbase:a><lxbase:a>Abfindungen von Renten aus der gesetzlichen Rentenversicherung
+und von Versorgungsbezügen aufgrund der Beamtengesetze sind steuerfrei
+nach § 3 Nr. 3 EStG und daher nicht als Gesamteinkommen zu berücksichtigen.
+Die sich aus den Abfindungen eventuell ergebenden Einnahmen (z.
+B. Einkünfte aus Kapitalvermögen) zählen hingegen zum Gesamteinkommen.</lxbase:a><lxbase:a>Da bei der Ermittlung des zulässigen Gesamteinkommens
+bei Renten nur der Zahlbetrag ohne den auf Entgeltpunkte für Kindererziehungszeiten
+entfallenden Teil berücksichtigt wird (§ 10 Abs. 1 Satz 1 Nr. 5
+Teilsatz 3 SGB V), ist damit ausreichend klar geregelt, dass weder
+der Betrag der Rente, der auf dem (pauschalen) Zuschlag an Entgeltpunkten
+für die Kindererziehung in den Bestandsrentenfällen beruht, noch
+der Betrag, der sich aus den Entgeltpunkten aufgrund der erweiterten
+Anrechnung von Kindererziehungszeiten ergibt, bei der Ermittlung
+des relevanten Gesamteinkommens heranzuziehen ist und mithin auch
+nicht zum Ausschluss der Familienversicherung führen kann.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300017">2.3.4.2
+Einkünfte aus Unterhaltsleistungen</lxbase:ueberschrift><lxbase:a>Unterhaltsleistungen, die bei bestehender Familiengemeinschaft
+im Rahmen der Unterhaltsberechtigung/-verpflichtung nach dem BGB
+für Ehegatten und Kinder bzw. nach dem LPartG für Lebenspartner
+und Kinder erbracht werden, zählen nicht zum Gesamteinkommen des
+Familienangehörigen. Dies gilt grundsätzlich auch für Unterhaltszahlungen des
+Versicherten an getrennt lebende Ehegatten/Lebenspartner im Sinne
+des LPartG, d. h. die Einnahme wird nicht bei dem getrennt lebenden
+Ehegatten/Lebenspartner im Sinne des LPartG berücksichtigt. Unterhaltszahlungen
+von Eltern an ihre studierenden Kinder mit eigener Wohnung zählen
+unabhängig von deren Höhe ebenfalls nicht zum Gesamteinkommen des
+Kindes.</lxbase:a><lxbase:a>Allerdings hat das BSG mit Urteil vom 03.02.1994 - <lxprod:doknr-verw linkend="HT0184574">12
+RK 5/92</lxprod:doknr-verw> -, USK 9433, entschieden, dass Unterhaltszahlungen an den
+dauernd getrennt lebenden, unbeschränkt einkommensteuerpflichtigen
+Ehegatten im Falle des begrenzten Realsplittings (Absetzung als Sonderausgabe
+durch den Geber, Versteuerung als sonstige Einnahme durch den Empfänger)
+für den Empfänger echte einkommensteuerpflichtige Einnahmen im Sinne
+des § 2 Abs. 1 Satz 1 Nr. 7 in Verbindung mit § 22 Satz 1 Nr. 1a
+EStG darstellen.</lxbase:a><lxbase:a>Im Hinblick auf den Wortlaut des § 16 SGB IV ist die Unterhaltszahlung
+insofern bei der Ermittlung des Gesamteinkommens zu berücksichtigen;
+der Werbungskostenpauschbetrag ist abzugsfähig. Das Einkommen des
+Gebers vermindert sich nicht um die Unterhaltszahlungen.</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300018">2.4 Gewinnermittlung
+bei Einkunftsarten aus selbstständiger Tätigkeit</lxbase:ueberschrift><lxbase:a>Der Begriff der selbstständigen Tätigkeit in § 15 SGB
+IV umfasst alle typischerweise mit persönlichem Einsatz verbundenen
+Einkunftsarten; das sind im Sinne des Steuerrechts Einkünfte aus</lxbase:a><lxbase:a>- Land- und Forstwirtschaft,</lxbase:a><lxbase:a>- Gewerbebetrieb,</lxbase:a><lxbase:a>- selbstständiger Arbeit.</lxbase:a><lxbase:a>Während das Steuerrecht bei diesen Einkunftsarten vom
+Gewinn spricht, verwendet § 15 Abs. 1 SGB IV bei den Einkünften
+aus selbstständiger Tätigkeit den Begriff "Arbeitseinkommen". Inhaltlich
+sind diese Begriffe aber identisch. Das Arbeitseinkommen entspricht damit
+dem steuerrechtlichen Gewinn; dieser wird unverändert aus dem Steuerbescheid des
+Selbständigen übernommen. Für die Bestimmung, welches Einkommen
+als Arbeitseinkommen zu werten ist, ist nach § 15 Abs. 1 Satz 2
+SGB IV das Einkommensteuerrecht maßgebend. Damit wird eine volle
+Parallelität von Einkommensteuerrecht und Sozialversicherungsrecht
+sowohl bei der Zuordnung zum Arbeitseinkommen als auch bei der Höhe
+des Arbeitseinkommens erreicht.</lxbase:a><lxbase:a>Als Gewinn bezeichnet das EStG bei Bilanzpflichtigen den
+Unterschiedsbetrag zwischen dem Betriebsvermögen am Schluss des
+Wirtschaftsjahres und dem Betriebsvermögen am Schluss des vorangegangenen
+Wirtschaftsjahres, vermehrt um den Wert der Entnahmen und vermindert
+um den Wert der Einlagen (§ 4 Abs. 1 EStG). Steuerpflichtige, die
+nicht bilanzpflichtig sind, können als Gewinn den Überschuss der
+Betriebseinnahmen über die Betriebsausgaben ansetzen (§ 4 Abs. 3
+EStG).</lxbase:a><lxbase:a>Bei Landwirten, deren Gewinn nach § 13a EStG ermittelt
+wird (nicht buchführende Betriebe = Gewinnermittlung nach Durchschnittssätzen),
+ist als Arbeitseinkommen der sich aus § 32 Abs. 6 des Gesetzes über
+die Alterssicherung der Landwirte (ALG) i. V. m. der jeweils geltenden
+Arbeitseinkommenverordnung Landwirtschaft (AELV) ergebende Wert anzusetzen
+(§ 15 Abs. 2 SGB IV).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300019">2.5 Einkünfte
+aus dem Ausland</lxbase:ueberschrift><lxbase:a>Bei der Feststellung des Gesamteinkommens im Rahmen der
+Prüfung der Voraussetzungen der Familienversicherung ist Einkommen
+unabhängig davon, ob es dem deutschen Einkommensteuerrecht unterliegt,
+als Gesamteinkommen zu berücksichtigen. Entscheidend für die Berücksichtigung
+von ausländischem Einkommen ist, dass dieses Einkommen nach seinem
+Charakter einer der in § 2 Abs. 1 Nr. 1 bis 7 EStG genannten Einkunftsarten
+entspricht. Diese gleiche Heranziehung von in- und ausländischen
+Einkommen verlangt ferner, dass grundsätzlich die gleichen Abzugsbeträge
+(z. B. Werbungskosten-Pauschbetrag für Arbeitnehmer) in Ansatz zu
+bringen sind, wie sie das deutsche Einkommensteuerrecht zur Ermittlung
+der Einkünfte im Sinne des § 2 Abs. 2 EStG vorsieht. Dies gilt sowohl
+für die Feststellung des Gesamteinkommens des Familienangehörigen
+im Rahmen des § 10 Abs. 1 Satz 1 Nr. 5 SGB V bzw. § 25 Abs. 1 Satz
+1 Nr. 5 SGB XI als auch für die Feststellung des Gesamteinkommens
+der Eltern eines Kindes im Rahmen des § 10 Abs. 3 SGB V bzw. § 25
+Abs. 3 SGB XI.</lxbase:a><lxbase:a>Sofern ausländisches Einkommen nicht in Euro gewährt wird,
+gelten hinsichtlich der Währungsumrechnung die Ausführungen in den
+Grundsätzlichen Hinweisen zu den versicherungs-, beitrags- und melderechtlichen
+Regelungen für Versorgungsbezüge, Arbeitseinkommen und gesetzliche
+Renten aus dem Ausland bei Versicherungspflichtigen in der jeweils
+aktuellen Fassung.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300020">2.6 Saldierung
+von Einkünften</lxbase:ueberschrift><lxbase:a>Sofern mehrere Einkommensquellen unterschiedlicher Einkunftsarten
+vorliegen (z. B. Einkünfte aus nichtselbstständiger Arbeit und Einkünfte
+aus Kapitalvermögen), sind die Summen der Einkünfte der einzelnen
+Einkunftsquellen zu ermitteln. Die Summe der jeweiligen positiven
+Einkünfte ist danach um negative Summen der Einkünfte aus anderen
+Einkunftsarten zu mindern. Die Saldierung ist auf die Einkünfte
+der zu beurteilenden Person beschränkt.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300021">2.7 Zuschläge,
+die mit Rücksicht auf den Familienstand gezahlt werden</lxbase:ueberschrift><lxbase:a>Bei der Feststellung des Gesamteinkommens im Rahmen des
+§ 10 Abs. 3 SGB V bzw. § 25 Abs. 3 SGB XI sind aufgrund höchstrichterlicher
+Rechtsprechung Zuschläge, die mit Rücksicht auf den Familienstand
+gezahlt werden, einkommensmindernd zu berücksichtigen (BSG, Urteil
+vom 29. Juli 2003 – <lxprod:doknr-verw linkend="HT1528726">B 12 KR 16/02 R</lxprod:doknr-verw> –, USK 2003-18). Zwar gilt vom
+Wortlaut und der Systematik des SGB V her die Entscheidung des Gesetzgebers,
+mit Rücksicht auf den Familienstand gezahlte Zuschläge unberücksichtigt
+zu lassen, unmittelbar nur für die Frage der Versicherungsfreiheit
+nach § 6 Abs. 1 Nr. 1 letzter Halbsatz SGB V; eine verfassungskonforme
+Auslegung des § 10 Abs. 3 SGB V gebietet es jedoch, derartige Zuschläge auch
+im Rahmen der Familienversicherung einkommensmindernd zu berücksichtigen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300022">2.8 Regelmäßigkeit
+des Gesamteinkommens</lxbase:ueberschrift><lxbase:a>Bei der Prüfung der Frage, ob die maßgebende Gesamteinkommensgrenze
+(§ 10 Abs. 1 Satz 1 Nr. 5 SGB V bzw. § 25 Abs. 1 Satz 1 Nr. 5 SGB
+XI oder § 10 Abs. 3 SGB V bzw. § 25 Abs. 3 SGB XI) überschritten
+wird, ist das regelmäßig im Monat erzielte bzw. zufließende Gesamteinkommen
+zu berücksichtigen. Für die Feststellung des regelmäßigen Gesamteinkommens
+sind die Grundsätze, die für Statusentscheidungen im Versicherungsrecht
+(z. B. für die Beurteilung der Versicherungspflicht oder -freiheit
+von Beschäftigungsverhältnissen) entwickelt wurden, zu beachten.</lxbase:a><lxbase:a>Grundsätzlich ist eine vorausschauende Betrachtungsweise
+angezeigt; dies erfordert eine Prognose unter Einbeziehung der mit
+hinreichender Sicherheit zu erwartenden Einkommensverhältnisse.</lxbase:a><lxbase:a>In Bezug auf die Bewertung des Arbeitsentgelts aus einer
+geringfügigen Beschäftigung sind die Richtlinien für die versicherungsrechtliche
+Beurteilung von geringfügigen Beschäftigungen (Geringfügigkeits-Richtlinien)
+in der jeweils aktuellen Fassung entsprechend heranzuziehen.</lxbase:a><lxbase:a>Im Rahmen der vorausschauenden Betrachtungsweise sind
+also zunächst die monatlich zufließenden Einkünfte sowie die weiteren,
+nicht monatlich zufließenden, aber auf den Monat bezogenen regelmäßigen
+Einkünfte zu berücksichtigten. Einmalige Einnahmen, deren Gewährung
+mit hinreichender Sicherheit mindestens einmal jährlich zu erwarten ist,
+sind hiernach bei der Ermittlung des regelmäßigen Gesamteinkommens
+anteilmäßig mit dem auf den Monat bezogenen Betrag zu berücksichtigen.</lxbase:a><lxbase:beispiel><cals:tabelle frame="none"><cals:tgroup cols="3" tgroupstyle="DATEVTabelle_Standard" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="55*" /><cals:colspec colnum="2" colname="2" colwidth="28*" /><cals:colspec colnum="3" colname="3" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a><lxbase:fett>Beispiel
+10</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="3" rowsep="0"><lxbase:a>Der Ehepartner
+eines Mitglieds arbeitet in einem geringfügigen Beschäftigungsverhältnis
+gegen ein monatliches Arbeitsentgelt von 410,00 EUR. Außerdem erhält
+er jeweils im Dezember ein ihm vertraglich zugesichertes Weihnachtsgeld
+in Höhe von 240,00 EUR. Die Lohnsteuer vom Arbeitsentgelt wird pauschal
+erhoben.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="3" rowsep="0"><lxbase:a>Das
+regelmäßig im Monat erzielte Gesamteinkommen ist wie folgt zu ermitteln:</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Laufendes
+Arbeitsentgelt (410,00 EUR x 12 =)</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a align="rechts">4.920,00
+EUR</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Weihnachtsgeld</lxbase:a></cals:entry><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a align="rechts"><lxbase:unterst>240,00
+EUR</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Zusammen</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a align="rechts">5.160,00
+EUR</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Ein
+Zwölftel dieses Betrages beläuft sich auf</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a align="rechts">430,00
+EUR.</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry namest="1" nameend="3"><lxbase:a>Das
+regelmäßige Gesamteinkommen überschreitet nicht die maßgebende Einkommensgrenze
+von 450,00 EUR (§ 10 Abs. 1 Satz 1 Nr. 5 Teilsatz 4 SGB V). Die
+Familienversicherung kann daher durchgeführt werden.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a>Ein nur gelegentliches und nicht vorhersehbares Überschreiten
+der maßgebenden Gesamteinkommensgrenze führt nicht zum Ausschluss
+der Familienversicherung. Als gelegentlich ist dabei - in analoger
+Anwendung der für das Überschreiten der Arbeitsentgeltgrenze im
+Bereich der geringfügig entlohnten Beschäftigung entwickelten Regelung
+- ein Zeitraum bis zu drei Monaten innerhalb eines Kalenderjahres
+anzusehen.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 11</lxbase:fett></lxbase:a><lxbase:a>Der familienversicherte Ehepartner eines Mitglieds arbeitet
+in einem geringfügigen Beschäftigungsverhältnis gegen ein monatliches
+Arbeitsentgelt von 450,00 EUR. Ende Juni bittet der Arbeitgeber
+ihn wider Erwarten, vom 01.07. bis zum 30.09. zusätzlich eine Urlaubsvertretung
+zu übernehmen. Dadurch erhöht sich das Arbeitsentgelt vom 01.07. bis
+zum 30.09. auf monatlich 900,00 EUR.</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Das Überschreiten der maßgebenden Einkommensgrenze von
+450,00 EUR vom 01.07. bis 30.09. ist für das Fortbestehen der Familienversicherung
+unschädlich, da es sich lediglich um ein gelegentliches Überschreiten
+handelt.</lxbase:a></lxbase:beispiel><lxbase:a>Einkünfte, die von vornherein für nicht mehr als drei
+Monate erzielt werden, sind als unregelmäßig anzusehen und schließen
+die Familienversicherung nicht aus. Bei Einkünften aus nichtselbstständiger
+Arbeit oberhalb der Einkommensgrenzen des § 10 Abs. 1 Satz 1 Nr.
+5 SGB V gilt die Besonderheit, dass nur bei Arbeitsentgelten, die
+im Rahmen einer kurzfristigen Beschäftigung im Sinne des § 8 Abs.
+1 Nr. 2 SGB IV erzielt werden, eine Regelmäßigkeit generell nicht
+gegeben ist. Damit ist sichergestellt, dass allein die Ausübung
+einer versicherungsfreien kurzfristigen Beschäftigung unabhängig
+von der Höhe des in dieser Zeit erzielten Arbeitsentgelts der Familienversicherung
+nicht entgegensteht.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 12 (Drei Monate)</lxbase:fett></lxbase:a><lxbase:a>Der familienversicherte Ehepartner eines Mitglieds <lxbase:az normform="nimmt-am-01/07" manuell="nein">nimmt
+am 01.07</lxbase:az>. eine bis zum 30.09. befristete Beschäftigung gegen ein
+monatliches Arbeitsentgelt von 1.500,00 EUR auf.</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Es handelt sich bei dem Arbeitsentgelt (aus der kurzfristigen
+Beschäftigung) nicht um regelmäßige Einnahmen, so dass die Familienversicherung
+in der Zeit vom 01.07. bis 30.09. fortbestehen kann.</lxbase:a></lxbase:beispiel><lxbase:a /><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 13 (70 Arbeitstage)</lxbase:fett></lxbase:a><lxbase:a>Der familienversicherte Ehepartner eines Mitglieds übt
+vom 17.03. bis zum 15.06. an 4 Tagen in der Woche eine Beschäftigung
+aus. Die maßgebliche 70-Arbeitstage-Grenze wird nicht überschritten.</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Bei dem (aus der kurzfristigen Beschäftigung) bezogenen
+Arbeitsentgelt handelt es sich nicht um regelmäßige Einnahmen, so
+dass die Familienversicherung in der Zeit vom 17.03. bis 15.06.
+fortbestehen kann.</lxbase:a></lxbase:beispiel><lxbase:a>Bei den nicht im Rahmen einer kurzfristigen Beschäftigung,
+sondern aufgrund des Werkstudentenprivilegs nach § 6 Abs. 1 Nr.
+3 SGB V versicherungsfreien Arbeitnehmern ist unabhängig von der
+Dauer der Beschäftigung von einer Regelmäßigkeit des Arbeitsentgelts
+auszugehen. Dies gilt auch bei kalenderjahresübergreifenden Beschäftigungen,
+die - bezogen auf das jeweilige Kalenderjahr - die Grenzen einer
+kurzfristigen Beschäftigung nicht überschreiten.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 14</lxbase:fett></lxbase:a><lxbase:a>Ein Student (20-jähriges Kind eines Mitglieds) übt in
+der Zeit vom 01.11. bis zum 31.01. des Folgejahres eine befristete
+und nach § 6 Abs. 1 Nr. 3 SGB V versicherungsfreie Beschäftigung
+aus. Das Arbeitsentgelt aus dieser Beschäftigung beträgt mtl. 1.200,00 EUR.
+Im Laufe des Kalenderjahres wurde bereits in der Zeit vom 15.02.
+bis 31.03. eine kurzfristige Beschäftigung ausgeübt.</lxbase:a><lxbase:a /><lxbase:a><lxbase:fett>Ergebnis</lxbase:fett></lxbase:a><lxbase:a>Die Beschäftigung vom 01.11. bis 31.01. des Folgejahres
+erfüllt die Voraussetzungen einer kurzfristigen Beschäftigung im
+Sinne des § 8 Abs. 1 Nr. 2 SGB IV aufgrund der anrechenbaren Vorbeschäftigung
+(15.02. bis 31.03.) nicht. Das Arbeitsentgelt aus der Beschäftigung
+vom 01.11. bis 31.01. des Folgejahres ist daher als regelmäßige
+Einnahme anzusehen, ungeachtet dessen, dass der Zeitraum, in dem
+das Arbeitsentgelt erzielt wird, für sich betrachtet nicht mehr
+als drei Monate beträgt. Die Familienversicherung ist in der Zeit
+vom 01.11. bis 31.01. des Folgejahres nichtmöglich.</lxbase:a></lxbase:beispiel><lxbase:a>Unterliegt das Einkommen Schwankungen, so ist das regelmäßige
+Gesamteinkommen im Wege der Schätzung - ggf. unter Berücksichtigung
+des letzten Jahreseinkommens - zu ermitteln. Ändern sich die maßgebenden
+Einkommensverhältnisse nicht nur vorübergehend, so ist das auf den
+Monat bezogene Einkommen neu festzustellen (BSG, Urteil vom 04.06.1981-
+<lxbase:az normform="3-RK-5/80" manuell="nein">3 RK 5/80</lxbase:az> -, USK 81134).</lxbase:a><lxbase:a>Zur Bestimmung des Arbeitseinkommens aus selbstständiger
+Tätigkeit im Zusammenhang mit der Feststellung des regelmäßigen
+Gesamteinkommens ist auf den letzten (aktuellen) Einkommensteuerbescheid
+zurückzugreifen. Die daraus hervorgehenden Angaben sind vom Beginn
+des auf die Ausstellung des Steuerbescheides folgenden Monats an
+zu berücksichtigen. Änderungen des Arbeitseinkommens wirken sich
+dementsprechend erst dann (zeitverschoben) aus, wenn der nächste
+(aktuelle) Einkommensteuerbescheid ausgestellt wird. Hiervon abweichend
+sind wesentliche Änderungen der Einkommensverhältnisse auch vor
+Ausstellung des nächsten Einkommensteuerbescheides zu berücksichtigen.
+Dabei ist eine wesentliche Änderung der Verhältnisse an der Differenz
+zwischen dem bisher zugrunde gelegten und dem aktuell nachgewiesenen Arbeitseinkommen
+festzumachen. In Anlehnung an die Regelung zur unverhältnismäßigen
+Belastung nach § 6 Abs. 3a der Beitragsverfahrensgrundsätze Selbstzahler
+ist von einer wesentlichen Änderung der Verhältnisse, die zu einer
+Neubestimmung des regelmäßigen Gesamteinkommens führt, dann auszugehen,
+wenn das aktuell nachgewiesene Arbeitseinkommen um mehr als ein
+Viertel des über den Einkommensteuerbescheid zuletzt festgestellten
+Arbeitseinkommens reduziert ist.</lxbase:a><lxbase:a>Bei schwankenden Einnahmen - wie bei Einkünften aus selbstständiger
+Tätigkeit oder aus Kapitalvermögen typisch - ist für die Feststellung,
+ob ein Gesamteinkommen "regelmäßig im Monat" überschritten wird,
+vom gezwölftelten Jahreseinkommen auszugehen (BSG, Urteil vom 07.12.2000
+- B12 <lxbase:az normform="KR-3/99" manuell="nein">KR 3/99 R</lxbase:az> -, USK 2000-64).</lxbase:a><lxbase:a>Bei einmaligen Kapitalleistungen sowohl aus einer betrieblichen
+als auch aus einer privaten Altersversorgung sowie Einkünften aus
+privaten Veräußerungsgeschäften handelt es sich nicht um ein regelmäßiges
+Einkommen im Sinne des § 10 Abs. 1 Satz 1 Nr. 5 SGB V und demzufolge
+nicht um Gesamteinkommen, und zwar, unabhängig von der Frage, ob und
+in welchem Umfang es sich dabei um Einkünfte im Sinne des Einkommensteuerrechts
+und damit um Gesamteinkommen handelt. Gleiches gilt auch für Abfindungen (einschl.
+Rückkauf) aus einer privaten Renten- oder Lebensversicherung.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300023">3 Zurechnung
+von Einkünften</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D020876300024">3.1 Allgemeines</lxbase:ueberschrift><lxbase:a>Für die persönliche Zurechnung von Einkünften ist maßgebend,
+welche Person sie im Sinne des § 2 Abs. 1 Satz 1 EStG "erzielt"
+hat. Danach sind Einkünfte demjenigen zuzurechnen, der wirtschaftlich
+diejenigen Leistungen, durch die der Tatbestand der Einkünfteerzielung
+verwirklicht wird, bewirkt. Bei Ehegatten spielt für die Zurechnung bestimmter
+Einkunftsarten auch der eheliche Güterstand eine wesentliche Rolle.</lxbase:a><lxbase:a>Mit dem in § 16 SGB IV definierten Begriff des Gesamteinkommens
+wird eine volle Parallelität zwischen Steuerrecht und Sozialversicherungsrecht
+hergestellt. Für die Zurechnung von Einkünften ist deshalb grundsätzlich
+auf den Einkommensteuerbescheid abzustellen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300025">3.2 Einkünfte
+aus selbstständiger und nicht selbstständiger Arbeit, sonstige Einkünfte</lxbase:ueberschrift><lxbase:a>Einkünfte aus selbstständiger und nichtselbstständiger
+Arbeit sind ausnahmslos demjenigen zuzurechnen, der die Erwerbstätigkeit,
+mit der diese Einkünfte erzielt werden, ausübt. Dieser Grundsatz
+gilt auch bei Ehegatten, und zwar unabhängig vom Güterstand. Selbst bei
+vereinbarter Gütergemeinschaft sind die Einkünfte aus selbstständiger
+und nichtselbstständiger Arbeit nicht schon deshalb beiden Ehegatten
+je zur Hälfte zuzurechnen, weil sie rechtlich betrachtet ins Gesamtgut
+fallen. Entscheidend ist auch hier vielmehr, wer diese Einkünfte
+erzielt hat.</lxbase:a><lxbase:a>Entsprechendes gilt für sonstige Einkünfte im Sinne des
+§ 2 Abs. 1 Satz 1 Nr. 7 und § 22 EStG mit der Maßgabe, dass diese
+Einkünfte unabhängig vom Güterstand der Ehegatten und unabhängig
+von der Einkommensteuerpflicht des Gebers dieser Einkünfte dem betreffenden
+Ehegatten zuzurechnen sind.</lxbase:a><lxbase:a>Einkünfte aus selbstständiger und nicht selbstständiger
+Arbeit sind grundsätzlich nur für den Zeitraum, in dem sie erzielt
+werden, als Gesamteinkommen anrechenbar. Das aus einer versicherungspflichtigen
+Beschäftigung, die zum Ausschluss der Familienversicherung nach
+§ 10 Abs. 1 Satz 1 Nr. 2 SGB V führt, erzielte Arbeitsentgelt strahlt
+insofern nicht auf die sich an das Ende der Beschäftigung anschließende
+beschäftigungslose Zeit aus, selbst wenn sich Beschäftigungen von
+kurzer Dauer und anschließende beschäftigungslose Zeiten, in denen
+eine Familienversicherung in Betracht kommt, häufig wiederholen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300026">3.3 Einkünfte
+aus Gewerbebetrieb, Land- und Forstwirtschaft</lxbase:ueberschrift><lxbase:a>Bei einem auf den Namen eines Ehegatten geführten Gewerbebetrieb
+sind die Einkünfte bei der Ermittlung des Gesamteinkommens grundsätzlich
+nur diesem Ehegatten, bei einem auf den Namen beider Ehegatten geführten
+Gewerbebetrieb den Ehegatten je zur Hälfte zuzurechnen, da hier
+im Grundsatz Alleinunternehmerschaft eines Ehegatten bzw. Mitunternehmerschaft
+beider Ehegatten vorliegt.</lxbase:a><lxbase:a>Darüber hinaus ist für die Annahme einer steuerrechtlichen
+Mitunternehmereigenschaft ein zivilrechtliches Gesellschaftsverhältnis
+weder erforderlich noch genügend; Mitunternehmer ist vielmehr, wer
+eine gewisse Unternehmerinitiative entfalten kann und ein Unternehmerrisiko
+trägt.</lxbase:a><lxbase:a>Dem muss nicht entgegenstehen, dass nur einer der beiden
+Ehegatten nach außen auftritt. Kommt danach eine Mitunternehmerschaft
+in Betracht, sind die Einkünfte gleichfalls je zur Hälfte zuzurechnen.</lxbase:a><lxbase:a>Abweichend hiervon können die Ehegatten durch Vereinbarung
+eine andere Beteiligungsregelung treffen. Dies gilt jedenfalls für
+den Fall einer bestehenden Zugewinngemeinschaft und für den Güterstand
+der Gütertrennung.</lxbase:a><lxbase:a>Bei einer vereinbarten Gütergemeinschaft ist grundsätzlich
+eine Mitunternehmerschaft der Ehegatten anzunehmen, wenn ein Gewerbebetrieb
+zum Gesamtgut gehört - unabhängig davon, dass nur einer der Ehegatten
+nach außen auftritt -. Hier ergibt sich die Mitunternehmerschaft
+des anderen Ehegatten aus den ihm bei der Gütergemeinschaft zustehenden
+Mitwirkungs- und Kontrollrechten. In diesem Falle sind den Ehegatten
+die Einkünfte je zur Hälfte zuzurechnen. Für eine abweichende Beteiligungsregelung
+ist - anders als bei einer Zugewinngemeinschaft oder bei Gütertrennung
+- grundsätzlich kein Raum.</lxbase:a><lxbase:a>Allerdings wird eine Mitunternehmerschaft nicht anzunehmen
+sein, wenn im Gewerbebetrieb kein nennenswertes, ins Gesamtgut fallendes
+Kapital eingesetzt wird, sondern die persönliche Leistung eines
+Ehegatten überwiegt (BSG, Urteile vom 10.11.1982 - <lxprod:doknr-verw linkend="HT0182330">11 RK 1/82</lxprod:doknr-verw> -,
+USK 82209, - <lxbase:az normform="11-RK-2/82" manuell="nein">11 RK 2/82</lxbase:az> -, USK 82215).</lxbase:a><lxbase:a>Gehört der Gewerbebetrieb bei bestehender Gütergemeinschaft
+allerdings zum Sonder- bzw. Vorbehaltsgut eines Ehegatten, finden
+die vorstehenden Grundsätze zur Gütergemeinschaft keine Anwendung.
+Vielmehr wird hier der betreffende Ehegatte regelmäßig als Alleinunternehmer
+anzusehen sein, sofern nicht nach allgemeinen Grundsätzen Mitunternehmerschaft
+beider Ehegatten vorliegt.</lxbase:a><lxbase:a>Die vorstehenden Grundsätze gelten grundsätzlich auch
+für die Zuordnung von Einkünften aus Land- und Forstwirtschaft.</lxbase:a><lxbase:a>Dabei besteht für den im Rahmen einer Gütergemeinschaft
+errichteten Land- bzw. Forstwirtschaftsbetrieb eine Besonderheit
+darin, dass dieser weitgehend auf dem ins Gesamtgut fallenden Kapital
+- bzw. Vermögenseinsatz beruht, nicht jedoch auf der persönlichen Leistung
+eines Ehegatten, dem gegebenenfalls die Einkünfte allein zuzurechnen
+wären. Vielmehr bleibt es hier ohne Ausnahme bei der Teilung der
+Einkünfte. Ausnahmeregelungen können die Ehegatten insoweit nur
+bei einer Zugewinngemeinschaft oder für den Fall der Gütertrennung
+vornehmen.</lxbase:a><lxbase:a>Dies gilt jedoch nicht für die Familienversicherung nach
+§ 7 des Zweiten Gesetzes über die Krankenversicherung der Landwirte
+(KVLG 1989) in der landwirtschaftlichen Krankenversicherung.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300027">3.4 Einkünfte
+aus Kapitalvermögen, Vermietung und Verpachtung</lxbase:ueberschrift><lxbase:a>Während die Zurechnung von Kapitalerträgen im Allgemeinen
+der wirtschaftlichen Inhaberschaft an dem zugrunde liegenden Kapitalvermögen
+folgt, ist für die Zurechnung von Einkünften aus Vermietung und
+Verpachtung nicht maßgeblich, ob der Steuerpflichtige rechtlicher
+oder wirtschaftlicher Eigentümer des Mietobjekts ist und wem letztlich
+das wirtschaftliche Ergebnis der Vermietung zugutekommt. Entscheidend
+ist vielmehr, wer den Tatbestand der Erzielung von Einkünften aus
+Vermietung und Verpachtung verwirklicht. Das ist derjenige, der
+die rechtliche oder tatsächliche Macht hat, eines der in § 21 Abs.
+1 EStG genannten Wirtschaftsgüter anderen entgeltlich auf Zeit zur
+Nutzung zu überlassen; er muss Vermieter oder Verpächter und damit
+Träger der Rechte und Pflichten aus dem Mietvertrag oder Pachtvertrag
+sein.</lxbase:a><lxbase:a>Sofern und soweit Ehegatten steuerrechtlich ein Dispositionsrecht
+hinsichtlich der Zuordnung der Einkünfte eingeräumt ist, gilt diese
+Zurechnung dann aber auch auf jeden Fall für die Feststellung des
+Gesamteinkommens im Rahmen der Familienversicherung. Die Regelung
+bezüglich der Zurechnung der Einkünfte gilt allerdings nur im Falle
+der Zugewinngemeinschaft nach § 1363 BGB sowie für den Güterstand
+der Gütertrennung, soweit Einkünfte nach den obengenannten Voraussetzungen
+aus einem gemeinschaftlichen Vermögensgegenstand erzielt werden.
+Bei einer vereinbarten Gütergemeinschaft sind diese Einkünfte hingegen
+ausschließlich beiden Ehegatten je zur Hälfte zuzurechnen, da es
+sich um Einkünfte aus einem ins Gesamtgut fallenden Vermögensgegenstand
+handelt (BSG, Urteile vom 10.11.1982 - <lxprod:doknr-verw linkend="HT0182330">11 RK 1/82</lxprod:doknr-verw> -, USK 82209,
+- <lxbase:az normform="11-RK-2/82" manuell="nein">11 RK 2/82</lxbase:az> -, USK 82215).</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300028">4 Kindererziehungsleistungen
+an Mütter</lxbase:ueberschrift><lxbase:a>Bei der Leistung für Kindererziehung gemäß §§ 294, 294
+a SGB VI handelt es sich um keine Rente aus der gesetzlichen Rentenversicherung
+(im Gegensatz zu den Rentenleistungen für Kindererziehungszeiten,
+vgl. Ausführungen zu 2.3.4.1), sondern eine von der gesetzlichen
+Rentenversicherung zu erbringende Leistung besonderer Art. Rechtlich
+ist diese Leistung auch kein Bestandteil der Rente. Da diese Leistung
+steuerfrei ist, rechnet sie nicht zum Gesamteinkommen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300029">5 Pflegeleistungen/-gelder</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D020876300030">5.1 Leistungen
+bei Pflegebedürftigkeit (§§ 36 ff. SGB XI, § 35 BVG, § 44 SGB VII,
+§ 64a SGB XII)</lxbase:ueberschrift><lxbase:a>Nach § 13 Abs. 5 SGB XI bleiben die Leistungen der Pflegeversicherung
+als Einkommen bei Sozialleistungen, deren Gewährung von anderen
+Einkommen abhängig ist, unberücksichtigt.</lxbase:a><lxbase:a>Dies hat zur Folge, dass die Leistungen nach den §§ 36
+ff. SGB XI nicht zum Gesamteinkommen zählen. Entsprechendes gilt
+auch für Leistungen aus einer privaten Pflegeversicherung sowie
+für Geldleistungen bei Pflegebedürftigkeit nach § 44 SGB VII, §
+64a SGB XII und § 35 BVG.</lxbase:a><lxbase:a>Eine Entschädigung, die eine nicht erwerbsmäßig tätige
+Pflegeperson für ihre Tätigkeit von den Pflegebedürftigen erhält,
+wird insoweit nicht berücksichtigt, als sie das Pflegegeld im Sinne
+der vorgenannten Vorschriften nicht übersteigt.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300031">5.2 Pflegegeld
+für eine Kinderbetreuung im Rahmen der Tagespflege</lxbase:ueberschrift><lxbase:a>Bei der eigenverantwortlich ausgeübten Kindertagespflege
+handelt es sich in der Regel um eine selbstständige Tätigkeit. Die
+hieraus erzielten Einkünfte (Geldleistungen) sind als Einkünfte
+aus selbstständiger Arbeit im Sinne des § 2 Abs. 1 Satz 1 Nr. 3
+in Verb. mit § 18 EStG zu qualifizieren und zählen grundsätzlich
+zum Gesamteinkommen. Dies gilt unabhängig von der Anzahl der betreuten
+Kinder und von der Herkunft der vereinnahmten Mittel. Bei der Ermittlung
+der Höhe der Einkünfte ist auf den im Einkommensteuerbescheid ausgewiesenen
+Gewinn aus selbstständiger Tätigkeit abzustellen. Sofern ein Einkommensteuerbescheid
+noch nicht vorliegt, gelten die nachfolgenden Grundsätze:</lxbase:a><lxbase:a>Neben den laufenden Geldleistungen, die eine Tagespflegeperson
+erhält und die neben der Erstattung des Sachaufwandes (§ 23 Abs.
+2 Satz 1 Nr. 1 SGB VIII) die Förderleistung anerkennen soll (§ 23
+Abs. 2 Satz 1 Nr. 2 SGB VIII), gehören auch die Erstattung nachgewiesener
+Aufwendungen für Beiträge zu einer Unfallversicherung, hälftig die
+Erstattung nachgewiesener Aufwendungen zu einer angemessenen Alterssicherung
+(§ 23 Abs. 2 Satz 1 Nr. 3 SGB VIII) sowie die Hälfte der Kranken-
+und Pflegeversicherungsbeiträge, die vom Träger der Jugendhilfe
+erstattet werden (§ 23 Abs. 2 Satz 1 Nr. 4 SGB VIII), zu den steuerrechtlich
+als Einkünfte aus selbstständiger Arbeit im Sinne des § 2 Abs. 1
+Satz 1 Nr. 3 in Verb. mit § 18 EStG qualifizierten Einnahmen.</lxbase:a><lxbase:a>Nach § 3 Nr. 9 EStG sind die Erstattungen nach § 23 Abs.
+2 Satz 1 Nr. 3 und 4 SGB VIII (Beiträge zur Unfallversicherung sowie
+hälftig Aufwendungen für die Alterssicherung und für die Krankheitsvorsorge)
+jedoch steuerfrei. Die Steuerfreiheit mindert damit die grundsätzlich
+steuerbaren Einkünfte aus selbstständiger Arbeit. Dementsprechend
+sind die steuerfreien Erstattungsbeträge bei der Feststellung des
+Gesamteinkommens nicht zu berücksichtigen.</lxbase:a><lxbase:a>Bei der Ermittlung der Einkünfte aus selbstständiger Arbeit
+sind nachgewiesene Betriebsausgaben abzuziehen. Aus Vereinfachungsgründen
+wird zugelassen, dass anstelle der tatsächlichen Betriebsausgaben
+von den erzielten Einnahmen 300,00 EUR je Kind und Monat (bei einer
+Betreuungszeit von mindestens 8 Stunden pro Kind und Tag) pauschal als
+Betriebsausgaben abgezogen werden. Bei einer geringeren Betreuungszeit
+ist die Betriebsausgabenpauschale anteilig zu kürzen (BMF-Schreiben
+vom 17.12.2007, <lxprod:doknr-verw linkend="HT5231067">BStBl I 2008 S. 17</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D020876300032">5.3 Pflegegeld
+für eine Kinderbetreuung im Rahmen der Vollzeitpflege</lxbase:ueberschrift><lxbase:a>Die an Personen, die ein fremdes Kind im Rahmen der Vollzeitpflege
+nach § 33 SGB VIII versorgen und erziehen, aus öffentlichen Mitteln
+gezahlten finanziellen Leistungen nach § 39 Abs. 1 bis 3 SGB VIII,
+welche die materiellen Aufwendungen und die Kosten der Erziehung
+abdecken, sind steuerfreie Beihilfen im Sinne des § 3 Nr. 11 EStG,
+sofern die Pflege nicht erwerbsmäßig betrieben wird. Die Geldleistungen
+zählen demnach nicht zum Gesamteinkommen (BMF-Schreiben vom 20.11.2007,
+<lxprod:doknr-verw linkend="HT5231192">BStBl I 2007 S. 824</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Die nach § 39 Abs. 4 Satz 2 SGB VIII nachgewiesenen Aufwendungen
+für Beiträge zu einer Unfallversicherung sowie die hälftigen nachgewiesenen
+Aufwendungen zu einer angemessenen Alterssicherung, die vom Träger
+der Jugendhilfe erstattet werden, sind nach § 3 Nr. 9 bzw. 11 EStG
+steuerfrei und zählen somit ebenfalls nicht zum Gesamteinkommen. Leistungen,
+die aus öffentlichen Mitteln der Jugendhilfe für die Aufnahme von
+Pflegepersonen in einen Haushalt über Tag und Nacht als Vollzeitpflege
+nach § 33 SGB VIII gewährt werden, stellen steuerfreie Beihilfen
+nach § 3 Nr. 11 EStG dar und zählen demzufolge nicht zum Gesamteinkommen
+(vgl. BFH-Urteil vom 05.11.2014 - <lxprod:doknr-verw linkend="HT0928656">VIII R 29/11</lxprod:doknr-verw>, BStBI. II 2017,
+S. 432).</lxbase:a><lxbase:a>Die an Bereitschaftspflegepersonen gezahlten so genannten
+Platzhaltekosten und Bereitschaftsgelder, die unabhängig von der
+tatsächlichen Aufnahme von Kindern geleistet werden, sind steuerpflichtig
+nach § 18 Abs. 1 Nr. 1 EStG und zählen demnach zum Gesamteinkommen.</lxbase:a><lxbase:a><lxbase:fett>Anlage</lxbase:fett></lxbase:a><lxbase:a>Alphabetische Auflistung und Zuordnung der Einkunftsarten <lxprod:extern-verw linkart="View" zieladresse="a0208763.pdf" linkend="" filesize="79885">anzeigen / drucken</lxprod:extern-verw></lxbase:a></lxbase:kapitel></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Sozialversicherungsrecht</lxbase:rthema><lxbase:rthema>ELWI-Lohn</lxbase:rthema><lxbase:rthema>Sozialrecht</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:uthemen><lxbase:thema>Sozialversicherungsträger</lxbase:thema><lxbase:thema>SVR-Rundschreiben</lxbase:thema></lxbase:uthemen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

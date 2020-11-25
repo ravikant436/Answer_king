@@ -1,0 +1,1143 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Erlass (koordinierter Ländererlass)" dok-typ="Verwaltungsanweisung" dok-nummer="5233855" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:externe-dateien><lxbase:datei name="d5233855-001.jpg" /></lxbase:externe-dateien><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bayerisches Staatsministerium der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>37 - S-0853 - 111 - 14/12</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-0853 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-0853</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Recht" id="08" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2012-01-09" ts="nein" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BStBl-2012-I-0185</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:jahre><lxbase:jahr jahr="2012" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Bekanntmachung über die Steuerberaterprüfung
+2011</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500001"><lxbase:a>Steuerberaterprüfung 2011</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500015"><lxbase:a>Prüfungsaufgabe
+aus dem Verfahrensrecht und anderen Steuerrechtsgebieten</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500002"><lxbase:a>Teil I: Abgabenordnung
+und Finanzgerichtsordnung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500003"><lxbase:a>Teil II: Umsatzsteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500004"><lxbase:a>Teil III: Erbschaftsteuer
+und Schenkungsteuer </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500005"><lxbase:a>Anlage	 1 zu § 14
+Abs. 1 BewG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500014"><lxbase:a>Kapitalwert
+einer lebenslänglichen Nutzung oder Leistung im Jahresbetrag von
+einem Euro für Bewertungsstichtage ab 1. Januar 2010</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500006"><lxbase:a>Prüfungsaufgaben
+aus dem Gebiet der Ertragsteuern</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500007"><lxbase:a>Teil I: Einkommensteuer/Gewerbesteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500008"><lxbase:a>Teil II: Körperschaftsteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500009"><lxbase:a>Prüfungsaufgaben
+aus dem Gebiet Buchführung und Bilanzen</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500010"><lxbase:a>Teil I: Einzelunternehmen
+Herbst</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500011"><lxbase:a>Teil II: X-GmbH</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500012"><lxbase:a>Teil III: A-B-GmbH &amp; Co.
+KG </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523385500013"><lxbase:a>Anlage</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:a>Im Einvernehmen mit den obersten Finanzbehörden der
+anderen Länder werden nachstehend die Prüfungsaufgaben
+der Aufsichtsarbeiten des schriftlichen Teils der Steuerberaterprüfung
+2011 veröffentlicht.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500001">Steuerberaterprüfung
+2011</lxbase:ueberschrift></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500015">Prüfungsaufgabe
+aus dem Verfahrensrecht und anderen Steuerrechtsgebieten</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523385500002">Teil I: Abgabenordnung
+und Finanzgerichtsordnung</lxbase:ueberschrift><lxbase:a><lxbase:fett>Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>Der Architekt und Diplom-Bauingenieur Sven Sieger (S) führte
+seit seinem Studienabschluss im Jahr 1997 als selbständiger
+Architekt und Baustatiker ein Bauplanungsbüro in Weilheim
+(Bundesland Bayern; Weilheim liegt im Zuständigkeitsbezirk
+des Finanzamts Weilheim).</lxbase:a><lxbase:a>Sein Wohnsitz befand sich seit 2001 in einer ihm gehörenden
+Villa in Landsberg (Zuständigkeitsbezirk des Finanzamtes
+Landsberg/Bayern).</lxbase:a><lxbase:a>Er bezog seit 1997 Einkünfte aus seiner freiberuflichen
+Tätigkeit (Gewinnermittlung durch Einnahmen/Überschussrechnung)
+und seit dem Veranlagungszeitraum 2000 Einkünfte aus Vermietung
+und Verpachtung seines vermieteten denkmalgeschützten Wohnhauses
+in Ravensburg (Bundesland Baden-Württemberg). Das Mietshaus
+ist nach landesrechtlichen Vorschriften ein Baudenkmal i. S. d. § 7i
+EStG.</lxbase:a><lxbase:a>In den Akten der Veranlagungsstellen der Finanzämter
+Landsberg und Weilheim befinden sich seit 2001 Vollmachtsurkunden,
+in denen Steuerberater Andreas Abele (A) Empfangsvollmacht für
+alle Sven Sieger betreffenden Bescheide erteilt worden war.</lxbase:a><lxbase:a>Sieger hatte im November 2004 dem Finanzamt Landsberg mitgeteilt,
+dass er sein Bauplanungsbüro zum 1. November 2004 in das
+gemietete Nachbargebäude seines Wohnhauses in Landsberg
+verlegt hat, die täglichen Fahrten nach Weilheim seien
+zu große Zeiträuber für ihn, und die
+Räumlichkeiten seien aufgrund der Expansion des Unternehmens
+zu beengt geworden. Lediglich ein angestellter technischer Zeichner
+sei weiter in den Büroräumen in Weilheim beschäftigt
+und online mit dem Hauptbüro in Landsberg verbunden.</lxbase:a><lxbase:a>Das Finanzamt Weilheim hatte Sieger mit Schreiben vom 28. September
+2005 ausdrücklich aufgefordert, die bereits im Juni 2005
+angeforderte Gewinnfeststellungserklärung 2004 für
+seinen Gewinn aus der freiberuflichen Tätigkeit endlich
+bis 27. Oktober 2005 abzugeben. Dieser Aufforderung war er dann fristgerecht
+nachgekommen.</lxbase:a><lxbase:a>Der Gewinn 2004 war im wirksam bekannt gegebenen Feststellungsbescheid vom
+November 2005 auf 130 000 € festgestellt worden, die Feststellung
+war unter dem Vorbehalt der Nachprüfung ergangen.</lxbase:a><lxbase:a>Das Finanzamt Landsberg hat im wirksam bekannt gegebenen Einkommensteuerbescheid
+2004 vom Februar 2006 aufgrund der im Dezember 2005 abgegebenen
+Einkommensteuererklärung 2004 die Einkommensteuer 2004
+auf 47 000 € gegenüber Sieger festgesetzt, der
+Gewinn aus freiberuflicher Tätigkeit ist in der im Gewinnfeststellungsbescheid
+2004 festgestellten Höhe von 130 000 € übernommen
+worden. Die Festsetzung war ohne Nebenbestimmungen erfolgt.</lxbase:a><lxbase:a>Im Oktober 2006 fand gegenüber Sven Sieger eine Außenprüfung
+durch das Finanzamt Weilheim statt, in der ordnungsgemäß bekannt
+gegebenen Prüfungsanordnung vom 16. Oktober 2006 waren
+als Prüfungsgegenstand die Gewinne der Veranlagungszeiträume
+2002 bis 2004 aus der freiberuflichen Tätigkeit bestimmt
+worden. Die Schlussbesprechung fand im Januar 2007 statt.</lxbase:a><lxbase:a>Nach Auswertung des Betriebsprüfungsberichtes hatte
+das Finanzamt Weilheim einen geänderten Feststellungsbescheid
+für den Gewinn 2004 aus freiberuflicher Tätigkeit
+erlassen, der am 19. Februar 2007 zur Post gegeben worden war.</lxbase:a><lxbase:a>Der Gewinn 2004 war gem. § 164 Abs. 2 AO um 20 000 € auf
+150 000 € erhöht worden, zugleich war der Vorbehalt
+der Nachprüfung aufgehoben worden.</lxbase:a><lxbase:a>Der Bescheid war an Steuerberater Abele für seinen Mandanten
+Sven Sieger mit der Post versandt worden.</lxbase:a><lxbase:a>Sven Sieger hatte für die Veranlagungszeiträume
+2004 und 2005 wegen der Sanierung des Ober- und Dachgeschosses in
+seinem denkmalgeschützten Mietshaus in Ravensburg Absetzungen
+gem. § 7i EStG i. H. v. 9 % von 200 000 € = 18
+000 € in Anspruch genommen.</lxbase:a><lxbase:a>Das Landesdenkmalamt Baden-Württemberg hat im Bescheid
+vom 6. August 2005 bescheinigt, dass es sich bei dem Gebäude
+um ein Baudenkmal handelt, und die zur Sanierung des Gebäudes
+durchgeführten Maßnahmen mit Aufwendungen i. H.
+v. 200 000 € nach Art und Umfang zur Erhaltung des Gebäudes
+als Baudenkmal oder seiner sinnvollen Nutzung i. S. d. § 7i
+EStG erforderlich gewesen seien.</lxbase:a><lxbase:a>Im Februar 2007 hatte das Wohnhaus von Sieger in Ravensburg überraschend bei
+der im Turnus von drei Jahren stattfindenden Prämierung
+der "schönsten städtischen Denkmalrenovierung
+in den Jahren 2004 bis 2006" durch eine private Denkmalstiftung
+den ersten Preis erhalten. Dieser war mit einem finanziellen Zuschuss
+von 50 000 € verbunden.</lxbase:a><lxbase:a>Dies wurde dem Finanzamt Landsberg im März 2007 von
+Vanessa Sieger, der Nichte und Alleinerbin von Sven Sieger, der
+am 12. Januar 2007 auf einer Safari im Krüger Nationalpark
+beim Überschlag seines Jeeps tödlich verunglückt
+war, mitgeteilt. Steuerliche Konsequenzen aus dieser Mitteilung
+von Vanessa Sieger für die Einkommensteuerveranlagungen
+2004 und 2005 von Sven Sieger wurden daraus bisher nicht gezogen.</lxbase:a><lxbase:a>Im Oktober 2011 findet im Finanzamt Landsberg eine Geschäftsprüfung
+statt. Dabei werden geschlossene Akten überprüft,
+unter anderem die von Sven Sieger. Der Prüfer blättert
+die Veranlagungsakte von Sven Sieger durch, es fallen ihm zwei Punkte
+auf:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>In der Akte befindet sich die
+Feststellungsmitteilung des Finanzamtes Weilheim vom März
+2007 über den geänderten Gewinnfeststellungsbescheid 2004
+vom 19. Februar 2007. Diese Feststellungsmitteilung ist bisher noch nicht
+durch eine Änderung des Einkommensteuerbescheides 2004
+ausgewertet worden. In der Akte befindet sich ein Vermerk, dass
+Sven Sieger aufgrund seines Testaments von seiner Nichte Vanessa
+Sieger als Alleinerbin beerbt worden ist, es ist auch die Todesanzeige
+für Sven Sieger abgeheftet.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Er stellt fest, dass der Bundesfinanzhof
+in seinem in <lxprod:doknr-verw linkend="HT0587190">BStBl
+II 2007 S. 879</lxprod:doknr-verw> abgedruckten Urteil entschieden hat, dass
+im öffentlichen Interesse geleistete Zuschüsse
+Privater die Abzugsbeträge nach § 7i Abs. 1 Satz
+7 EStG mindern. Er ist der zutreffenden Meinung, dass man dieses
+Urteil auf die Einkommensteuerveranlagung 2004 von Sieger anwenden
+müsse.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Klären Sie in einem Gutachten, in dem Sie auf alle angesprochenen
+Probleme angemessen eingehen, folgende Fragen:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Führen die materiell
+steuerrechtlich richtigen Ergebnisse aus der Außenprüfung
+des Finanzamtes Weilheim, die aus den bis zur Außenprüfung
+eingereichten Unterlagen weder für das Finanzamt Weilheim
+noch für das Finanzamt Landsberg erkennbar waren, im Oktober
+2011 zu einer Änderung des Einkommensteuerbescheides 2004?
+Klären Sie, ob dazu unter Umständen noch Maßnahmen
+der beteiligten Finanzämter notwendig sind. Es ist nicht
+geklärt worden, ob die Gewinnerhöhung auf einer
+vorsätzlichen oder leichtfertigen Steuerverkürzung
+von Sieger beruht.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Führen die Erkenntnisse über
+den Zuschuss der privaten Denkmalstiftung zu einer Änderung
+des Einkommensteuerbescheides 2004?</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:fett>Bearbeitungshinweis</lxbase:fett>:</lxbase:a><lxbase:a>Der Zuschuss der privaten Denkmalstiftung im Rahmen der Prämierung
+für die Denkmalrenovierung ist, wie ein Zuschuss einer öffentlichen
+Kasse i. S. d. § 7i Abs. 1 Satz 7 EStG zu behandeln.</lxbase:a><lxbase:a>Alle Verwaltungsakte sind mit zutreffender Rechtsbehelfsbelehrung
+versehen.</lxbase:a><lxbase:a>Kalender 2011 mit Feiertagen</lxbase:a><lxbase:a /><lxbase:abbildung><lxbase:graphik bild="d5233855-001.jpg" impsize="5.250in 3.550in" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="630" height="426" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Feiertage</lxbase:fett></lxbase:a><lxbase:a>Neujahr 1. Januar 2011</lxbase:a><lxbase:a>Heilige Drei Könige 6. Januar 2011 </lxbase:a><lxbase:a>Karfreitag 22. April 2011</lxbase:a><lxbase:a>Ostermontag 25. April 2011</lxbase:a><lxbase:a>Tag der Arbeit 1. Mai 2011</lxbase:a><lxbase:a>Christi Himmelfahrt 2. Juni 2011 </lxbase:a><lxbase:a>Pfingstmontag 13. Juni 2011</lxbase:a><lxbase:a>Fronleichnam 23. Juni 2011</lxbase:a><lxbase:a>Mariä Himmelfahrt 15. August 2011</lxbase:a><lxbase:a>Tag der Deutschen Einheit 3. Oktober 2011 </lxbase:a><lxbase:a>Allerheiligen 1. November 2011</lxbase:a><lxbase:a>1.	Weihnachtstag 25. Dezember 2011</lxbase:a><lxbase:a>2.	Weihnachtstag 26. Dezember 2011</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500003">Teil II: Umsatzsteuer</lxbase:ueberschrift><lxbase:a><lxbase:fett>Allgemeine Hinweise:</lxbase:fett></lxbase:a><lxbase:a>Erforderliche Belege und Aufzeichnungen sind vorhanden. Rechnungen
+enthalten, soweit aus dem Sachverhalt nichts Gegenteiliges hervorgeht,
+die nach §§ 14, 14a UStG bzw. §§ 33,
+34 UStDV erforderlichen Angaben. Die formellen Voraussetzungen des § 25b
+UStG sind gegebenenfalls erfüllt.</lxbase:a><lxbase:a>Alle angesprochenen Unternehmer versteuern, soweit sich aus dem
+Sachverhalt nicht ausdrücklich etwas Gegenteiliges ergibt,
+ihre Umsätze nach den allgemeinen Vorschriften des UStG
+und nach vereinbarten Entgelten. Voranmeldungszeitraum ist der Kalendermonat.
+Soweit aus dem Sachverhalt nichts anderes ersichtlich ist, verwenden
+die Unternehmer im innergemeinschaftlichen Waren- und Dienstleistungsverkehr
+die Umsatzsteuer-Identifikationsnummer ihres Heimatlandes.</lxbase:a><lxbase:a>Die Kalenderjahre bis einschließlich 2010 sind bestandskräftig
+veranlagt. Die steuerliche Beurteilung war jeweils zutreffend.</lxbase:a><lxbase:a>Soweit aus dem Sachverhalt sich nicht ausdrücklich das
+Gegenteil ergibt, liegen alle angegebenen Orte im Inland.</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Beurteilen Sie die angeführten Sachverhalte in ihrer
+umsatzsteuerlichen Auswirkung auf <lxbase:fett>Franz Ferstl und die
+Trachten Ferstl GmbH (GmbH) im Besteuerungszeitraum 2011</lxbase:fett>.
+Hierbei ist insbesondere auf die Umsatzart, die Steuerpflicht, die
+Bemessungsgrundlage für steuerpflichtige Umsätze
+und auf den Vorsteuerabzug einzugehen. Die Umsatzsteuer für
+steuerpflichtige Umsätze ist zu berechnen.</lxbase:a><lxbase:a>Wo es der Sachverhalt erlaubt, ist auch anzugeben, in welchem
+Voranmeldungszeitraum die Steuer entsteht bzw. zu berichtigen ist
+und die Vorsteuer abgezogen werden kann.</lxbase:a><lxbase:a><lxbase:fett>Gehen Sie auch kurz auf die Unternehmereigenschaft und
+den Umfang des Unternehmens von Franz Ferstl und der Trachten Ferstl
+GmbH ein.</lxbase:fett></lxbase:a><lxbase:a>Begründen Sie bitte Ihre Entscheidungen unter Angabe
+der gesetzlichen Bestimmungen. </lxbase:a><lxbase:a><lxbase:fett>Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>Franz Ferstl betreibt in Rosenheim ein alteingesessenes Trachtenfachgeschäft. Ferstl
+verkauft Trachten aller Art, historische und moderne, vom Dirndl
+bis zur Lederhose. Angegliedert ist eine eigene Schneiderei, in
+der der Großteil der Trachten gefertigt wird.</lxbase:a><lxbase:a>Das Geschäftshaus, das im Alleineigentum von Franz Ferstl
+steht, befindet sich in Rosenheim, Marktplatz 12.</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Franz Ferstl hatte das traditionsreiche
+Trachtenfachgeschäft 1985 von seinem Vater übernommen
+und es im Laufe der Jahre zu einem führenden Unternehmen
+in seiner Branche ausgebaut. Zum 1. Januar 2011 gründete Ferstl
+die Trachten Ferstl GmbH mit Sitz in Rosenheim. Alleiniger Gesellschafter
+war Franz Ferstl, der auch - ausgestattet mit einem ordnungsgemäßen
+Arbeitsvertrag - zum alleinigen Geschäftsführer
+bestimmt wurde. In Zusammenhang mit der Gründung stellte
+der Notar der GmbH 2 000 € zuzüglich 19 % USt
+380 € am 20. Januar 2011 in Rechnung.</lxbase:a><lxbase:a>Franz Ferstl brachte sein bisheriges Einzelunternehmen mit allen
+Aktiven und Passiven, mit Ausnahme des Geschäftsgebäudes
+Marktplatz 12, ein.</lxbase:a><lxbase:a>Allerdings vermietete er die bisher vom Einzelunternehmen genutzten Räume
+für zunächst 15 Jahre mit Verlängerungsoption
+an die GmbH (siehe Tz. 2).</lxbase:a><lxbase:a>Nachdem seine Tochter Therese Ferstl das Geschäft von
+Grund auf gelernt hatte, übertrug Franz Ferstl ihr zum
+1. August 2011 60 % der Anteile an der GmbH. Darüber
+hinaus zog er sich als Geschäftsführer zurück.
+Alleinige Geschäftsführerin war ab 1. August 2011
+Therese Ferstl. Der Notar berechnete Franz für die Beurkundung
+der Anteilsübertragung am 10. August 2011 1 000 € zuzüglich
+19 % USt 190 €.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Das Gebäude Marktplatz 12, das
+sich schon seit drei Generationen im Familienbesitz befindet, besteht
+aus vier Etagen mit jeweils 200 qm Nutzfläche.</lxbase:a><lxbase:a>Im Erdgeschoss befindet sich das Trachtengeschäft.</lxbase:a><lxbase:a>Im 1. OG sind die Schneiderei und die Büroräume
+untergebracht.</lxbase:a><lxbase:a>Ab 1. Januar 2011 sind EG und 1. OG für ortsübliche
+monatliche 6 000 € zuzüglich 19 % USt
+1 140 € an die GmbH vermietet.</lxbase:a><lxbase:a>Das 2. OG ist an den Steuerberater Emil Emsig vermietet. Die
+monatliche Miete beträgt 3 000 € zuzüglich
+19 % USt 570 €.</lxbase:a><lxbase:a>Im 3. OG befinden sich zwei gleich große Wohnungen (jeweils
+100 qm), die beide für jeweils 1 200 € monatlich
+vermietet sind.</lxbase:a><lxbase:a>Zum 31. Mai 2011 gab Emsig seine Steuerkanzlei auf, um seinen
+wohlverdienten Ruhestand zu genießen. Seinen Mandantenstamm
+hatte er äußerst günstig an die Rosenheimer-Steuerberatungs-GmbH
+veräußert, die jedoch kein Interesse an den Räumlichkeiten
+hatte. Deshalb einigte sich Emsig mit Ferstl, die Räume
+weiterhin als Wohnung zu nutzen. Die monatliche Miete betrug ab
+1. Juni 2011 3 500 €. Da die Räume erst für
+die Wohnungsnutzung umgebaut werden mussten, begab sich Emsig in
+den Monaten Juni und Juli auf eine ausgedehnte Kreuzfahrt. Die mit
+der Renovierung beauftragten Handwerker stellten Ferstl nach Abnahme
+am 25. Juli 2011 am selben Tag insgesamt 30 000 € zuzüglich
+19 % USt 5 700 € in Rechnung. Zum 1. August 2011,
+nach Rückkehr von seiner Kreuzfahrt, bezog Emsig die neu renovierte
+Wohnung.</lxbase:a><lxbase:a>Bereits 2010 hatte Ferstl die Fassade des Gebäudes Marktplatz
+12 renovieren lassen. Der beauftragte Maler Pinsel stellte Ferstl
+nach Abnahme am 31. Mai 2010 am 2. Juni 2010 10 000 € zuzüglich
+19 % USt 1 900 € in Rechnung. Da Pinsel in Verzug
+geraten war, überwies Ferstl am 4. Juni 2010 - wie vertraglich
+vereinbart - lediglich 11 400 € (die Nutzung des Gebäudes
+in 2010 entsprach der Nutzung zu Beginn des Jahres 2011).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Laut Arbeitsvertrag steht der Geschäftsführerin
+Therese Ferstl ein Firmenwagen zu, den sie auch privat nutzen darf.</lxbase:a><lxbase:a>Den Pkw, BMW 520i, hatte Franz Ferstl nach den Wünschen
+seiner Tochter Therese beim örtlichen BMW-Händler
+bestellt. Der neue Pkw wurde am 1. Oktober 2011 direkt an die GmbH
+ausgeliefert, die ihn noch am selben Tag ihrer Geschäftsführerin
+zur Nutzung überließ. Die Rechnung vom selben Tag
+in Höhe von 50 000 € zuzüglich 19 % USt
+9 500 € ging Franz Ferstl am 4. Oktober 2011 zu und wurde
+von ihm umgehend beglichen.</lxbase:a><lxbase:a>Laut Vertrag mit Franz Ferstl zahlte die GmbH für die
+Pkw-Miete ab 1. Oktober 2011 ortsübliche 1 000 € zuzüglich
+19 % USt 190 € pro Monat. Außerdem wurde
+vereinbart, dass die GmbH für sämtliche laufenden
+Kosten aufzukommen habe.</lxbase:a><lxbase:a>Laut ordnungsgemäß geführtem Fahrtenbuch
+wurden mit dem Pkw im Jahr 2011 noch insgesamt 10 000 km zurückgelegt.
+Darin enthalten sind die Fahrten von Therese Ferstl von ihrer Wohnung
+in Prien am Chiemsee zu der 20 km entfernten Arbeitsstätte
+in Rosenheim, die Therese im Jahr 2011 an 55 Tagen zurücklegte,
+sowie 1 000 km sonstiger Privatfahrten. Die Fahrten sind gleichmäßig
+auf alle Monate verteilt.</lxbase:a><lxbase:a>An laufenden Kosten beglich die GmbH im Jahr 2011 folgende Beträge:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="54*" /><cals:colspec colnum="2" colname="2" colwidth="23*" /><cals:colspec colnum="3" colname="3" colwidth="23*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Benzin und Schmierstoffe </lxbase:a></cals:entry><cals:entry namest="2" nameend="3"><lxbase:a>1 500 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry namest="2" nameend="3"><lxbase:a>zuzüglich 19 % USt
+285 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Inspektion </lxbase:a></cals:entry><cals:entry namest="2" nameend="3"><lxbase:a>1 000 € </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry namest="2" nameend="3"><lxbase:a>zuzüglich 19 % USt
+190 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Steuer und Versicherung </lxbase:a></cals:entry><cals:entry namest="2" nameend="3"><lxbase:a>800 € </lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>Anlässlich des 75-jährigen
+Firmenjubiläums veranstaltete die GmbH im Juli 2011 ein
+Preisausschreiben. Erster Preis war eine maßangefertigte
+Tracht im Wert von 2 000 € (Ladenverkaufspreis). Gewinner
+war John Hofer aus Chicago (USA), der gerade auf Besuch bei seinem
+in Rosenheim lebenden Großonkel weilte. John Hofer ließ sich
+eine Lederhose aus Hirschleder maßanfertigen. Das Material
+hierfür hatte die GmbH im April 2011 für 600 € zuzüglich
+19 % USt 76 € erworben. Der Lohnkostenanteil belief
+sich auf 1 000 €.</lxbase:a><lxbase:a>Da die Lederhose nicht rechtzeitig zu der Abreise von John Hofer
+fertig wurde, sandte die GmbH die fertige Lederhose im August per
+Post direkt nach Chicago (Versandkosten 60 €).</lxbase:a><lxbase:a>Den zweiten Preis - ein 7-Gänge-Gourmet-Menü im
+Sterne-Restaurant Winkler in Aschau für zwei Personen -
+gewann Veronika Schickl aus Rosenheim. Nach einem für Veronika
+und ihren Ehegatten unvergesslichen Abend im Restaurant Winkler
+erhielt die GmbH tags darauf am 16. August 2011 die Rechnung des
+Restaurants in Höhe von 900 € zuzüglich
+19 % USt 171 €, die sie umgehend beglich.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a>Nachdem Franz Ferstl sich aus der Geschäftsführung
+der GmbH zurückgezogen hatte, erfüllte er sich
+einen lang gehegten Traum und erwarb eine Segelyacht des italienischen
+Herstellers Vincente Vento aus Riva del Garda (Italien). Die Yacht
+(9 m Länge) wurde von Vento am 12. August 2011 von Riva
+nach Prien am Chiemsee transportiert, wo Ferstl einen Liegeplatz
+hatte. Den Kaufpreis in Höhe von 60 000 € hatte
+Ferstl bereits am 30. Juli 2011 entrichtet. Bei seinen zahlreichen
+Ausfahrten in den Monaten August und September musste Ferstl sich
+jedoch eingestehen, dass die Yacht für seine Zwecke zu
+groß war. Er nahm deshalb das Angebot seines alten Geschäftsfreundes
+Sepp Moser aus Bregenz (Österreich) an, der ihm die Yacht
+für 50 000 € abkaufte. Sepp Moser veranlasste
+am 5. Oktober 2011 den Transport der Yacht von Prien zu seinem am österreichischen
+Ufer des Bodensees gelegenen Liegeplatz und überwies tags
+darauf den Kaufpreis.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6."><lxbase:a>Da im Trachtengeschäft auch immer
+wieder österreichische Trachten nachgefragt wurden, ging
+schon Franz Ferstl eine Kooperation mit dem Trachtenfachgeschäft
+Achleitner aus Innsbruck (Österreich) ein. Am 25. Juni
+2011 kamen die niederländischen Touristen Hanns und Antje
+van Bommel aus Amsterdam (Niederlande) in das Trachtengeschäft.
+Auf den ersten Blick hatte es den beiden der Tiroler Lodenmantel
+angetan. Leider war der Mantel weder für Antje noch für
+Hanns in der richtigen Größe verfügbar.
+Nachdem die GmbH sich dazu bereit erklärt hatte, für
+den Versand nach Amsterdam zu sorgen, bestellten die beiden je einen
+Mantel. Auf den Kaufpreis für beide Mäntel in
+Höhe von 2 000 € leisteten sie sofort eine Anzahlung
+in Höhe von 700 €. Auf Bitten der GmbH versandte
+Achleitner an 25. August 2011 die Mäntel direkt von Innsbruck
+nach Amsterdam. Die Restzahlung der van Bommels ging bei der GmbH
+am 31. August 2011 ein. Die Rechnung von Achleitner vom 2. September
+2011 in Höhe von 1 700 € beglich die GmbH umgehend.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500004">Teil III: Erbschaftsteuer
+und Schenkungsteuer </lxbase:ueberschrift><lxbase:a><lxbase:fett>Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>Der ehemalige Unternehmer Robert Rundlich verstarb am 8. August
+2010 nach einem verlorenen Prozess gegen seine Hausbank wegen wertloser
+Zertifikate. Robert lebte seit 2009 von seiner 20 Jahre jüngeren
+Ehefrau Carola getrennt; die Ehegatten hatten 1990 anlässlich
+der Eheschließung einen Ehevertrag geschlossen, welcher
+einen Zugewinnausgleich ausschloss.</lxbase:a><lxbase:a>Sein kinderloser Sohn, Hans Rundlich, geboren am 29. März
+1991, lebt in Kanada. Carola wurde im wirksamen Testament von Robert
+zusammen mit Hans als Erbin eingesetzt, da sie keine sonstigen Versorgungsansprüche
+hat. Hans - welcher zu seinem Vater ein eher angespanntes Verhältnis
+pflegte - hatte im Jahr 2009 im Lotto gewonnen. Er hat deshalb das
+Erbe durch formwirksame Erklärung gegenüber dem
+Nachlassgericht ausgeschlagen.</lxbase:a><lxbase:a><lxbase:fett>Das Haus in Nürnberg</lxbase:fett></lxbase:a><lxbase:a>In Nürnberg hatte Robert sich ein großes Parkgrundstück
+gegen wiederkehrende Leistungen am 8. Dezember 2009 gekauft, um
+im Alter einen schönen Garten zu haben. Carola war gegen
+diesen Erwerb und hatte sich demonstrativ am Tag der notariellen
+Beurkundung von Robert getrennt, obwohl ihr Robert zum ersten Advent
+10 000 € geschenkt hatte. Hans hatte von Robert hingegen nichts
+zum ersten Advent erhalten.</lxbase:a><lxbase:a>Robert ließ das Grundstück - Nürnberg,
+Am Androidsee - im Frühjahr 2010 mit einem 3-Familien-Haus
+mit drei großen Einheiten bebauen (Kosten: 600 000 €).
+Im südlichen Teil des Grundstücks ließ er
+einen großen überdachten Pool errichten, wobei
+er darauf achtete, dass das Dach des Pools bis an das Haus heranreichte
+und mit diesem verbunden war. Wegen Problemen mit der Bauaufsichtsbehörde
+ergab es sich, dass der Pool bereits im März 2010 fertig
+gestellt wurde, während das Haus erst Ende April 2010 bezugsfertig
+war.</lxbase:a><lxbase:a>Robert hatte das Grundstück von dem Auswandererehepaar
+Peter und Sylvia Christ erworben, welche den Verkaufserlös
+zur Absicherung ihres Lebensunterhalts in Kanada verwenden wollten.
+Der Kaufpreis sollte daher als Leibrente - sowohl an das Ehepaar
+Christ als auch an den Sohn Sam - gezahlt werden. Die entsprechende,
+notariell vereinbarte Regelung sah wie folgt aus:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>Der jeweilige Eigentümer
+des Grundstücks hat an Peter Christ (geb. 29. Mai 1958)
+und dessen Ehefrau Sylvia (geb. 26. April 1955) eine Leibrente zu bezahlen.</lxbase:a><lxbase:a>Die jeweils am ersten eines jeden Monats fällige Rente
+beträgt 9 000 € und sinkt nach dem Tode des erstversterbenden
+Ehegatten auf 7 000 € (bis zum Tode des überlebenden
+Ehegatten). Nach dem Tod des zweiten (überlebenden) Ehegatten
+ist an den Sohn Sam (geb. 13. März 1998) lebenslänglich
+ein monatlicher Betrag von 300 € zu zahlen. Die Rente läuft
+maximal bis Oktober 2040, d. h., die entsprechende letzte Rate ist
+am 1. Oktober 2040 fällig.</lxbase:a><lxbase:a>Peter, Sylvia und Sam leben noch.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Das Haus hat drei Einheiten. Erdgeschoss und erstes Obergeschoss
+haben je 100 qm Fläche, das Dachgeschoss hat 80 qm Wohn-/Nutzfläche.
+Das Erdgeschoss des Hauses war bis 30. Juni 2010 an ein Ingenieurbüro
+vermietet, die einzige Miete, die R erhielt, war die Juni-Miete.
+Danach stand das Erdgeschoss - wegen einer überraschenden
+Insolvenz des Ingenieurbüros - leer. Das Mietverhältnis
+wurde nicht gekündigt. Ein gerichtliches Insolvenzverfahren
+wurde mangels Masse - Ende August - abgelehnt. Erst ab 1. September
+2010 konnte das EG als Zahnarztpraxis vermietet werden.</lxbase:a><lxbase:a>Mit dem Ingenieurbüro hatte Rundlich im Juni 2010 einen
+Mietvertrag abgeschlossen, welcher eine am Ersten des Monats fällige
+monatliche Miete von 2 000 € vorsah. Hinzu kamen noch Nebenkosten
+von 210 € für die Heizung, 80 € für
+den Strom und 50 € für Wasser. Das Ingenieurbüro
+hatte sich über den Abschluss des Mietvertrages sehr gefreut,
+da die vereinbarte Miete 3 € pro qm unter dem Marktniveau
+lag. Rundlich hatte bis zu seinem Tod versucht, von dem Ingenieurbüro
+die durch Bankbürgschaft abgesicherten Nebenkosten für das
+Wasser betreffend den Juni 2010 zu bekommen. Der Zahnarzt hatte
+mit Robert die gleichen Mietkonditionen wie auch das Ingenieurbüro
+vereinbart.</lxbase:a><lxbase:a>Im ersten Stock lebte Robert Rundlich selbst. Der Wert seines überwiegend gebrauchten
+Mobiliars und seines sonstigen Hausrates betrug zum Zeitpunkt seines
+Todes zusammen ca. 20 000 €. Carola zog unmittelbar nach
+dem Tod von Rundlich in diese Wohnung ein.</lxbase:a><lxbase:a>Die Wohnung im zweiten Stock war an das Architekturbüro
+Veronika Schlau für 15 €/qm zzgl. Nebenkosten
+(130 € für die Heizung, 50 € für
+den Strom und 50 € für Wasser) vermietet. Die
+Miete für das Architekturbüro war deshalb günstig,
+weil der zweite Stock nur über eine Außentreppe
+erreichbar war.</lxbase:a><lxbase:a>Üblicherweise sind für Wohnungen dieser Art
+in Nürnberg - soweit diese Wohnzwecken dienen - folgende
+Mieten ortsüblich gewesen:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="22*" /><cals:colspec colnum="2" colname="2" colwidth="78*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>2008:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>10 €/qm ohne Nebenkosten</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>2009:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>12 €/qm ohne Nebenkosten</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>ab 2010: </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>13 €/qm ohne Nebenkosten.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Das Grundstück hat - ausweislich des Kaufvertrages -
+eine Fläche von 910 qm. Zugunsten eines Nachbarn ist auf
+dem Grundstück eine Abstandsflächenübernahme
+von 200 qm eingetragen; Robert darf in diesem Bereich das Grundstück nur
+eingeschränkt nutzen.</lxbase:a><lxbase:a>Der Gutachterausschuss der Stadt Nürnberg hat für
+das Objekt den Wert von einem qm Grund und <lxbase:az normform="Boden-zum-31/12" manuell="nein">Boden zum 31.12</lxbase:az>.2008
+- wegen der herausragenden schönen unverbaubaren Lage -
+auf 1 700 € festgestellt, weitere Werte außer
+den Bodenwerten hat der Gutachterausschuss nicht ermittelt. Ein
+nach dem Tod von Robert von Carola beauftragter Gutachter hat zum
+Todestag von Robert einen reinen Grundstückswert (Grund
+und Boden nebst Gebäude und Außenanlagen) für
+die Immobilie in Nürnberg von 1 650 000 € festgestellt.
+Wegen einer direkt neben dem Grundstück verlaufenden Hochspannungsleitung
+hat er einen Wertabschlag vorgenommen, sodass sich letztlich ein
+Wert von 1 600 000 € ergab.</lxbase:a><lxbase:a>Roberts außereheliche Tochter Luise, welche in den USA
+lebt, hat bisher noch keinen Pflichtteilsanspruch gegenüber
+Carola geltend gemacht. Von Luise hat Carola erfahren, dass Robert
+ein - seiner Familie jahrelang verheimlichtes - Girokonto bei einer
+Liechtensteiner Privatbank mit einem Guthabenstand von 2 212 336 € hatte.</lxbase:a><lxbase:a><lxbase:fett>Die Firma</lxbase:fett></lxbase:a><lxbase:a>Robert hatte eine kleine vorsteuerabzugsberechtigte bilanzierende
+Einzelfirma als nur künstlerisch tätiger Goldschmied
+(Wirtschaftsjahr = Kalenderjahr). Hinsichtlich dieser Firma
+hat Carola anlässlich des Erbfalles Folgendes festgestellt:</lxbase:a><lxbase:a>Die Firma hatte in den vorangegangenen Jahren folgende Gewinne:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="72*" /><cals:colspec colnum="2" colname="2" colwidth="28*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Bilanzgewinn 2007:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>215 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Bilanzgewinn 2008:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>225 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Bilanzgewinn 2009:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>230 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Der angemessene monatliche Unternehmerlohn für R betrug
+in allen drei Jahren 4 000 €, Robert hatte seinen Unternehmerlohn
+monatlich bar aus der Firmenkasse entnommen und dieses als entsprechende
+Privatentnahme gebucht.</lxbase:a><lxbase:a>Robert hatte im Jahr 2006 26 % der Anteile der Gold
+und Schmidt GmbH in das Betriebsvermögen seiner Firma übernommen,
+um sich gegen die ständigen Schwankungen des Goldpreises
+abzusichern. Ohne diese Beteiligung konnte Robert seine Firma nicht
+wirtschaftlich betreiben. Der gemeine Wert der Anteile beträgt
+lt. gesonderter Feststellung 220 000 €. Die Gold und Schmidt GmbH
+hat keinerlei Verwaltungsvermögen. Robert erhielt im Jahr
+2008 eine in 2007 beschlossene Gewinnausschüttung in Höhe
+von 35 000 €. Robert hat in 2008 an den Anwalt anlässlich
+der Bewertung der Anteile für die Finanzverwaltung ein
+Beratungshonorar von 4 200 € bezahlt.</lxbase:a><lxbase:a>Im Jahr 2009 hatte Robert eine Teilwertabschreibung auf diese
+Beteiligung in Höhe von 20 000 € vorgenommen;
+ebenso erhielt er in 2009 eine in 2009 beschlossene Ausschüttung
+aus der Gold und Schmidt GmbH in Höhe von 3 000 €.
+Des Weiteren fiel im Jahr 2009 durch ein ausgefallenes Kundendarlehen in
+der Firma des Robert ein außerordentlicher Aufwand von
+30 000 € an. Im Jahr 2010 liefen die Geschäfte
+von Robert atypisch gut. Der Substanzwert des Betriebes beträgt
+1 300 000 €.</lxbase:a><lxbase:a><lxbase:fett>Das Handy</lxbase:fett></lxbase:a><lxbase:a>Der Erblasser hat am 23. Dezember 2009 ein neues Handy von Motorola
+durch Kauf bei einer Versandfirma im Internet erworben. Der Kaufpreis
+betrug 481 €. Robert hat auf das Handy nur eine Anzahlung
+von 200 € geleistet. Wegen Lieferschwierigkeiten wurde
+das Handy noch nicht ausgeliefert.</lxbase:a><lxbase:a><lxbase:fett>Das Geburtstagspäckchen</lxbase:fett></lxbase:a><lxbase:a>Robert hatte unmittelbar vor seinem Tod seinem Rechtsanwalt -
+welcher ihn wegen der Trennung von Carola beraten hatte - eine Flasche
+Wein schicken wollen. Carola fand im Nachlass ein vollständig
+frankiertes Päckchen (Porto 4,90 €) mit einer
+Flasche französischem Rotwein (Wert 18 €) vor.</lxbase:a><lxbase:a><lxbase:fett>Die Bürgschaft</lxbase:fett></lxbase:a><lxbase:a>Robert hatte für seinen Nachbarn Friedhelm Schiller
+im Jahr 2008 eine Bürgschaft über 20 000 € gegenüber
+der Bayerischen Landesbank übernommen. Da Schiller mehrfach
+seine Zahlungsverpflichtungen gegenüber der Bank in terminlicher
+Hinsicht verletzt hat, hat die Landesbank angekündigt,
+dass sie sich am Bürgen schadlos halten werde. Eine konkrete
+Zahlungsaufforderung hat Robert jedoch noch nicht erhalten.</lxbase:a><lxbase:a><lxbase:fett>Beerdigungskosten</lxbase:fett></lxbase:a><lxbase:a>Carola hat die Beerdigungskosten (10 800 €) für
+die Beerdigung von Robert übernommen. Zudem rechnet sie
+noch ernsthaft mit Pflichtteilansprüchen von Luise, denn
+Luise hatte gegenüber Hans auf ihren (durch die Ausschlagung) erhöhten
+Pflichtteilsanspruch in Höhe von 170 000 € hingewiesen.</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Ermitteln Sie die zutreffende festzusetzende Erbschaftsteuer
+für Carola Rundlich, falls Luise ihren Pflichtteilsanspruch
+nicht geltend gemacht hat, aber sich auch weigert, sich irgendwie
+dazu zu erklären.</lxbase:a><lxbase:a>Gehen Sie dabei auf alle durch den Sachverhalt aufgeworfenen
+Rechtsfragen ein; erforderliche Anträge gelten allgemein
+als gestellt, jedoch hat Carola keinen Antrag auf 100%ige
+Steuerbefreiung des BV gestellt. Selbst ermittelte Beträge
+sind ggf. auf zwei Nachkommastellen zu runden. Der Basiszinssatz
+für 2010 beträgt 3,98 %.</lxbase:a><lxbase:a>Begründen Sie Ihre Entscheidungen unter Angabe der maßgebenden
+Vorschriften.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500005">Anlage	 1 zu § 14
+Abs. 1 BewG</lxbase:ueberschrift></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500014">Kapitalwert einer lebenslänglichen
+Nutzung oder Leistung im Jahresbetrag von einem Euro für
+Bewertungsstichtage ab 1. Januar 2010</lxbase:ueberschrift><lxbase:a>Der Kapitalwert ist nach der am 24. September 2009 veröffentlichten
+Sterbetafel 2006/2008 des Statistischen Bundesamtes unter
+Berücksichtigung von Zwischenzinsen und Zinseszinsen mit
+5,5 Prozent errechnet worden. Der Kapitalwert der Tabelle ist der
+Mittelwert zwischen dem Kapitalwert für jährlich
+vorschüssige und jährlich nachschüssige
+Zahlungsweise.</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="21*" /><cals:colspec colnum="2" colname="2" colwidth="21*" /><cals:colspec colnum="3" colname="3" colwidth="21*" /><cals:colspec colnum="4" colname="4" colwidth="21*" /><cals:colspec colnum="5" colname="5" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" morerows="1"><lxbase:a>Vollendetes Lebensalter</lxbase:a></cals:entry><cals:entry namest="2" nameend="3"><lxbase:a>Männer</lxbase:a></cals:entry><cals:entry namest="4" nameend="5"><lxbase:a>Frauen</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Durchschnittliche Lebenserwartung</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>Kapitalwert</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>Durchschnittliche Lebenserwartung</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>Kapitalwert</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>0</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>77,17</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,382</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>82,40</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,455</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>1</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>76,49</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,371</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>81,67</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,446</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>2</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>75,51</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,354</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>80,70</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,434</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>3</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>74,53</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,336</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>79,71</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,420</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>4</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>73,54</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,318</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>78,72</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,406</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>5</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>72,55</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,298</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>77,73</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,391</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>6</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>71,56</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,277</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>76,74</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,375</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>7</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>70,56</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,255</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>75,74</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,358</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>8</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>69,57</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,231</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>74,75</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,340</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>9</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>68,58</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,207</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>73,75</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,322</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>10</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>67,58</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,181</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>72,76</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,302</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>11</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>66,59</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,153</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>71,76</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,281</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>12</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>65,60</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,125</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>70,77</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,259</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>13</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>64,60</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,094</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>69,78</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,236</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>14</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>63,61</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,062</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>68,78</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,212</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>15</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>62,62</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18,028</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>67,79</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,186</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>16</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>61,63</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,993</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>66,80</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,159</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>17</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>60,65</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,955</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>65,81</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,131</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>18</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>59,67</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,916</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>64,82</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,101</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>19</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>58,71</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,876</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>63,84</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,069</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>20</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>57,74</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,833</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>62,85</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,036</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>21</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>56,78</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,788</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>61,86</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>18,001</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>22</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>55,81</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,741</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>60,88</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,964</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>23</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>54,84</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,690</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>59,89</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,925</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>24</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>53,87</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,638</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>58,91</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,885</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>25</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>52,91</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,582</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>57,92</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,841</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>26</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>51,94</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,524</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>56,93</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,795</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>27</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>50,97</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,462</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>55,94</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,747</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>28</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>50,00</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,397</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>54,96</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,697</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>29</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>49,03</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,329</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>53,97</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,643</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>48,06</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,257</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>52,99</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,587</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>31</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>47,09</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,181</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>52,00</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,528</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>32</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>46,13</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,101</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>51,02</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,465</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>33</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>45,16</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>17,017</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>50,04</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,400</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>34</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>44,19</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>16,928</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>49,05</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,330</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>35</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>43,23</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>16,836</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>48,07</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,257</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>36</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>42,27</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>16,739</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>'47,10</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,181</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>37</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>41,30</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>16,635</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>46,12</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,101</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>38</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>40,35</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>16,528</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>45,14</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>17,015</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>39</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>39,39</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>16,415</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>44,17</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>16,926</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>40</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>38,44</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>16,296</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>43,20,</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>16,833</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>41</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>37,49</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>16,172</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>42,23</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>16,734</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>42</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>36,55</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>16,042</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>41,27</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>16,632</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>43</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>35,61</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>15,906</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>40,31</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>16,524</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>44</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>34,68</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>15,764</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>39,35</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>16,410</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>45</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>33,76</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>15,617</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>38,40</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>16,291</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>46</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>32,84</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>15,462</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>37,45</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>16,166</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>47</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>31,93</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>15,301</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>36,51</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>16,037</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>48</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>31,04</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>15,136</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>35,57</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>15,900</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>49</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>30,15</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>14,963</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>34,64</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>15,758</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>50</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>29,27</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>14,784</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>33,71</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>15,609</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>51</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>28,39</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>14,596</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>32,79</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>15,454</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>52</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>27,53</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>14,403</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>31,87</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>15,291</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>53</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>26,68</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>14,204</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>30,96</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>15,121</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>54</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>25,83</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>13,996</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>30,05</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>14,943</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>55</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>24,99</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>13,780</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>29,15</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>14,759</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>56</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>24,17</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>13,560</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>28,25</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>14,565</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>57</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>23,35</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>13,330</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>27,36</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>14,364</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>58</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>22,53</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>13,090</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>26,47</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>14,154</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>59</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>21,73</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>12,845</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>25,59</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>13,935</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>60</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>20,93</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>12,590</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>24,71</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>13,706</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>61</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>20,15</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>12,330</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>23,84</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>13,469</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>62</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>19,38</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>12,063</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>22,98</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>13,223</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>63</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>18,61</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>11,784 </lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>22,12</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>12,966</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>64</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>17,86</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>11,502</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>21,27</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>12,700</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>65</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>17,11</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>11,208</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>20,41</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>12,418</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>66</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>16,38</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>10,910</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>19,57</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>12,130</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>67</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>15,65</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>10,600</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>18,72</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>11,825</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>68</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>14,93</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>10,282</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>17,89</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>11,513</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>69</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>14,23</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>9,961</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>17,06</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>11,187</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>70</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>13,54</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>9,633</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>16,25</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>10,855</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>71</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>12,86</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>9,298</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>15,44</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>10,508</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>72</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>12,20</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>8,960</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>14,65</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>10,155</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>73</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>11,56</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>8,621</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>13,88</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>9,796</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>74</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>10,94</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>8,282</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>13,12</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>9,427</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>75</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>10,34</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>7,942</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>12,38</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>9,053</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>76</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>9,76</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>7,603</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>11,66</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>8,675</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>77</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>9,21</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>7,272</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>10,95</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>8,287</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>78</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>8,67</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>6,938</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>10,27</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>7,902</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>79</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>8,16</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>6,613</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>9,61</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>7,514</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>80</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>7,65</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>6,279</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>8,97</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>7,125</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>81</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>7,17</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>5,956</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>8,36</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>6,741</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>82</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>6,71</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>5,638</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>7,78</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>6,365</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>83</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>6,27</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>5,327</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>7,22</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>5,990</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>84</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>5,86</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>5,031</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>6,69</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>5,624</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>85</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>5,46</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>4,735</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>6,19</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>5,270</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>86</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>5,10</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>4,464</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>5,72</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>4,928</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>87</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>4,78</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>4,218</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>5,30</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>4,615</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>88</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>4,46</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>3,968</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>4,90</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>4,311</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>89</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>4,16</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>3,730</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>4,53</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>4,023</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>3,84</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>3,472</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>4,15</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>3,722</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>91</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>3,56</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>3,242</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>3,80</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>3,439</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>92</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>3,32</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>3,042</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>3,51</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>3,201</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>93</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>3,10</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>2,857</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>3,26</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>2,992</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>94</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>2,90</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>2,687</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>3,06</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>2,823</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>95</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>2,71</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>2,523</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>2,88</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>2,670</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>96</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>2,54</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>2,375</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>2,72</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>2,532</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>97</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>2,38</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>2,235</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>2,54</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>2,375</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>98</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>2,24</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>2,111</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>2,38</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>2,235</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>99</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>2,10</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>1,987</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>2,23</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>2,103</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>100</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>1,98</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>1,879</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>2,10</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>1,987</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>und darüber</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500006">Prüfungsaufgaben
+aus dem Gebiet der Ertragsteuern</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523385500007">Teil I: Einkommensteuer/Gewerbesteuer</lxbase:ueberschrift><lxbase:a><lxbase:fett>Sachverhalt 1:</lxbase:fett></lxbase:a><lxbase:a>Zweck der in 2008 gegründeten Mayer GmbH &amp; Co.
+KG (KG) mit Sitz in Aachen ist die Herstellung und der Vertrieb
+von Armaturen. Gesellschafter der KG waren die weder am Vermögen
+noch am Gewinn und Verlust der KG beteiligte Mayer Verwaltungs-GmbH
+(V-GmbH) als Komplementärin, die ihren Sitz ebenfalls in
+Aachen hat, sowie als alleiniger Kommanditist (Kommanditeinlage 25
+000 €, in 2008 bereits voll eingezahlt), der als solcher
+ausschließlich am Vermögen sowie Gewinn und Verlust
+der KG beteiligt ist, der ledige, konfessionslose Maschinenbauingenieur
+Berthold Mayer (BM). BM ist auch alleiniger Gesellschafter und Geschäftsführer
+der V-GmbH, die ein voll eingezahltes Stammkapital von 40 000 € hat.
+BM ist unentgeltlich als Geschäftsführer der V-GmbH
+tätig. Das Kommanditkapital der KG hat BM durch ein Darlehen
+bei einer Bank finanziert und in den Jahren 2009 und 2010 hierfür
+jährlich Zinsen in Höhe von 1 500 € von
+seinem privaten Bankkonto gezahlt. Die jährlich im Dezember
+von der KG an die V-GmbH gezahlte vertraglich geschuldete Haftungsvergütung
+i. H. v. 1 000 € hat die KG als Aufwand verbucht.</lxbase:a><lxbase:a>Das von der KG seit dem 1. Februar 2010 genutzte Produktionsgrundstück
+in Aachen wird ihr unentgeltlich von der Vermietungs- und Überlassungs-OHG (OHG)
+zur Verfügung gestellt. Gesellschafter, der im Handelsregister
+eingetragenen OHG und an deren Vermögen sowie Gewinn und
+Verlust beteiligt, sind BM zu 80 % sowie sein Vater, Fritz
+Mayer (FM), zu 20 %. Der Gesellschaftszweck und auch die
+tatsächliche Geschäftstätigkeit der OHG
+liegen in dem Erwerb und der langfristigen Überlassung
+von Grundvermögen an die KG. Alleiniger Geschäftsführer
+der OHG ist BM.</lxbase:a><lxbase:a>Einzelsachverhalte:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Die OHG hatte das
+der KG überlassene Grundstück im Januar 2010 (Notarvertrag)
+zu einem Kaufpreis von 800 000 € zzgl. Kosten für
+Notar und Grundbucheintragung erworben (Anteil Grund und Boden 25 %, Übergang Nutzen
+und Lasten sowie Fälligkeit Kaufpreis am 1. Februar 2010,
+Bauantrag Gebäude vom 5. Februar 1990). Die Kosten für
+Notar und Grundbucheintragung (10 000 €) und die Grunderwerbsteuer
+i. H. v. 28 000 € waren lt. Kaufvertrag von der OHG zu
+zahlen. Zur Finanzierung des Kaufpreises einschließlich
+der Kosten für Notar und Grundbucheintragung sowie Grunderwerbsteuer
+hat die OHG bei einer Bank ein Darlehen über 838 000 € aufgenommen.
+Nach dem Darlehensvertrag sind monatliche Zinszahlungen ab Februar
+2010 von 3 500 € und jeweils zum 31. Dezember (erstmals
+zum 31. Dezember 2010) eine jährliche Tilgungsrate von
+10 000 € zu erbringen. Die monatlichen Zinszahlungen leisteten
+BM und FM entsprechend ihrer Beteiligungsquoten an der OHG von ihrem
+jeweiligen Privatkonto. Die Zinszahlungen für November
+und Dezember sowie die Tilgungsraten überwiesen BM und
+FM - entsprechend ihren Beteiligungsquoten an der OHG - erst am
+5. Januar 2011 an die Bank von ihrem jeweiligen privaten Bankkonto.
+Weitere Wirtschaftsgüter überlässt die
+OHG nicht.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Gegen die KG wurden in den Jahren 2009
+und 2010 von der Bezirksregierung Köln Geldbußen
+i. H. v. jeweils 2 000 € wegen Verstoßes gegen Arbeitsschutzvorschriften
+festgesetzt. Ein wirtschaftlicher Vorteil ist mit den Geldbußen,
+die auch jeweils in 2009 und 2010 gezahlt und von der KG als Aufwand
+verbucht worden sind, nicht abgeschöpft worden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>Die Bilanz der KG zum 31. Dezember 2009
+sieht - vereinfacht dargestellt - wie folgt aus:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="24*" /><cals:colspec colnum="2" colname="2" colwidth="16*" /><cals:colspec colnum="3" colname="3" colwidth="26*" /><cals:colspec colnum="4" colname="4" colwidth="18*" /><cals:colspec colnum="5" colname="5" colwidth="16*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2" align="center"><lxbase:a><lxbase:fett>Aktiva</lxbase:fett></lxbase:a></cals:entry><cals:entry namest="3" nameend="5" align="center"><lxbase:a><lxbase:fett>Passiva</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>diverse Aktiva</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>140 000 €</lxbase:a></cals:entry><cals:entry namest="3" nameend="4" colsep="0" rowsep="0"><lxbase:a>Kommanditkapital
+BM </lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right"><lxbase:a>25 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapitalkonto BM</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right" /><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>1. 1. 2009</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right"><lxbase:a>10
+000 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Einlagen</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right"><lxbase:a>0 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Entnahmen</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right"><lxbase:a>0 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Gewinnanteil</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right"><lxbase:a> 65
+000 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapitalkonto</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right" /><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>31.12. 2009</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right" /><cals:entry colname="5" rowsep="0" align="right"><lxbase:a>75 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right" /><cals:entry colname="3" colsep="0"><lxbase:a>diverse Passiva</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" align="right" /><cals:entry colname="5" align="right"><lxbase:a>40 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right"><lxbase:a><lxbase:fett>140 000 €</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3" colsep="0" /><cals:entry colname="4" colsep="0" align="right" /><cals:entry colname="5" align="right"><lxbase:a><lxbase:fett>140 000 €</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d."><lxbase:a>	Die Bilanz der KG zum 31. Dezember 2010
+sieht - vereinfacht dargestellt - wie folgt aus:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="23*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:colspec colnum="3" colname="3" colwidth="26*" /><cals:colspec colnum="4" colname="4" colwidth="16*" /><cals:colspec colnum="5" colname="5" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2" align="center"><lxbase:a><lxbase:fett>Aktiva</lxbase:fett></lxbase:a></cals:entry><cals:entry namest="3" nameend="5" align="center"><lxbase:a><lxbase:fett>Passiva</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>diverse Aktiva</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>118 500 €</lxbase:a></cals:entry><cals:entry namest="3" nameend="4" colsep="0" rowsep="0"><lxbase:a>Kommanditkapital
+BM </lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right"><lxbase:a>25 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapitalkonto BM</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right" /><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>1. 1. 2010</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right"><lxbase:a>75
+000 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Einlagen</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right"><lxbase:a>0 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Entnahmen</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right"><lxbase:a>95
+000€</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Gewinnanteil</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right"><lxbase:a> 48
+000 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapitalkonto</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right" /><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>31.12. 2009</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right" /><cals:entry colname="5" rowsep="0" align="right"><lxbase:a>28 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right" /><cals:entry colname="3" colsep="0"><lxbase:a>diverse Passiva</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" align="right" /><cals:entry colname="5" align="right"><lxbase:a>65 500 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right"><lxbase:a><lxbase:fett>118 500 €</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3" colsep="0" /><cals:entry colname="4" colsep="0" align="right" /><cals:entry colname="5" align="right"><lxbase:a><lxbase:fett>118 500 €</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e."><lxbase:a>Im Gesamthandsvermögen der KG
+sind in 2009 und 2010 keine Schuldzinsen angefallen.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Ermitteln Sie die sich für den nach § 1 Abs.
+1 EStG unbeschränkt einkommensteuerpflichtigen BM aus dem
+obigen Sachverhalt ergebenden einkommensteuerpflichtigen Einkünfte
+für 2010 und gehen Sie auch auf etwaige Tarifvorschriften
+ein. Begründen Sie Ihre Ergebnisse ausführlich
+unter Hinweis auf die einschlägigen Rechtsgrundlagen.</lxbase:a><lxbase:a><lxbase:fett>Bearbeitungshinweise:</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Aus Vereinfachungsgründen
+ist auf Fragen der Gewerbesteuer nicht einzugehen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Sofern verschiedene Lösungsmöglichkeiten
+bestehen, wählt BM das günstigste steuerliche
+Ergebnis.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Erforderliche Anträge gelten als gestellt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Die Veranlagung 2009 ist bereits durchgeführt
+und die Bekanntgabe des Einkommensteuerbescheides 2009
+ist am 1. Juli 2010 erfolgt. BM hat für diesen Veranlagungszeitraum
+einen Antrag auf begünstigte Besteuerung der nicht entnommenen
+Gewinne gestellt, weil er alleine mit seinen übrigen Einkünften
+bereits dem Spitzensteuersatz unterlegen hat.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Unterstellen Sie für Ihre Bearbeitung, soweit
+erforderlich, dass etwaige Bescheide von dem zuständigen
+Finanzamt noch im Oktober 2011 bekannt gegeben werden.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Sachverhalt 2:</lxbase:fett></lxbase:a><lxbase:a>Doris Döring (D) mit Wohnsitz in Duisburg betreibt in
+Langenfeld, Hildener Str. 47, ein Bauunternehmen unter der Firma "Bauen
+Döring". Der Gewinn wird durch Bestandsvergleich
+nach § 4 Abs. 1, § 5 Abs. 1 EStG ermittelt; Wirtschaftsjahr
+ist das Kalenderjahr.</lxbase:a><lxbase:a>Harry Hallhuber (H) ist seit dem Jahr 2002 als leitender Angestellter
+für das Bauunternehmen tätig. H steht arbeitsvertraglich
+ein monatliches Bruttogehalt von 10 000 € zu, was ihm nach
+Abzug der Arbeitnehmerbeiträge zur Sozialversicherung und
+der Lohnsteuer jeweils zum 15. eines Monats ausgezahlt wird. Der
+Arbeitgeberanteil zur Sozialversicherung beträgt im Jahr
+2010 monatlich 1 300 €.</lxbase:a><lxbase:a>Im Februar 2010 einigen sich D und H darauf, das Bauunternehmen
+ab dem 1. März 2010 gemeinsam in einer KG zu betreiben,
+an der D als geschäftsführende Komplementärin
+und H als Kommanditist beteiligt sind. Hierfür gründen D
+und H mit notariellem Vertrag vorn 17. Februar 2010 die "Bauen
+Döring KG" (KG), die am 15. März 2010
+im Handelsregister eingetragen wird. D hat nach dem Gesellschaftsvertrag
+als Gründungseinlage das bisher von ihr unter der Firma "Bauen
+Döring" betriebene Bauunternehmen mit allen Aktiva
+und Passiva auf die KG zu übertragen. Die Kommanditeinlage
+des H beträgt 100 000 € und ist als Bareinlage
+zu erbringen. Am Vermögen sowie am Gewinn und Verlust der
+KG sind D mit 80 % und H mit 20 % beteiligt. D
+steht darüber hinaus vorab eine monatliche Tätigkeitsvergütung
+für die von ihr auszuübende Geschäftsführertätigkeit
+i. H. v. 30 000 € zu, die auch im Verlustfall jeweils zum
+Monatsersten zu zahlen ist. Die monatlichen Auszahlungen der Vergütung sind
+nach den Vorgaben des Gesellschaftsvertrages in der Gesamthandsbilanz der
+KG als Entnahmen der D zu erfassen.</lxbase:a><lxbase:a>H zahlt seine Kommanditeinlage am 1. März 2010 auf das
+Bankkonto der KG ein. D überträgt zu diesem Zeitpunkt
+alle Aktiva und Passiva ihres Bauunternehmens auf die KG. Die Gründungseinlagen
+werden jeweils in voller Höhe den Kapitalkonten von D bzw.
+H bei der KG gutgeschrieben.</lxbase:a><lxbase:a>Der zwischen D und H bestehende Anstellungsvertrag wird von der
+KG fortgeführt. Der von der KG ab dem 1. März
+2010 an H gezahlte Arbeitslohn unterliegt der Sozialversicherungspflicht.</lxbase:a><lxbase:a>D stellt auf den 28. Februar 2010 folgende Abschlussbilanz für
+ihr Bauunternehmen auf:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="19*" /><cals:colspec colnum="4" colname="4" colwidth="19*" /><cals:colspec colnum="5" colname="5" colwidth="19*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2" align="center"><lxbase:a><lxbase:fett>Aktiva</lxbase:fett></lxbase:a></cals:entry><cals:entry namest="3" nameend="5" align="center"><lxbase:a><lxbase:fett>Passiva</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Anlagevermögen</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapital 1. 1.</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0"><lxbase:a>200 000 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>(unbeb. Grdst.)</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>400 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Gewinn</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0"><lxbase:a>100 000 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Umlaufvermögen </lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>100 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapital 28. 2.</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" /><cals:entry colname="5" rowsep="0"><lxbase:a>300 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" /><cals:entry colname="3" colsep="0"><lxbase:a>sonst. Verbindlichkeiten</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" /><cals:entry colname="5"><lxbase:a>200 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a><lxbase:fett>500 000 €</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3" colsep="0" /><cals:entry colname="4" colsep="0" /><cals:entry colname="5"><lxbase:a><lxbase:fett>500 000 €</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Der gemeine Wert (hier = Teilwert) des zutreffend im
+Anlagevermögen ausgewiesenen unbebauten Grundstücks
+beträgt im Zeitpunkt des Übergangs auf die KG
+500 000 €. Weitere stille Reserven sind nicht vorhanden.</lxbase:a><lxbase:a>Die KG erteilt H am 1. November 2010 eine schriftliche Pensionszusage.
+Die Voraussetzungen des § 6a Abs. 1 und 2 EStG sind erfüllt.
+Der Teilwert der Pensionszusage i. S. d. § 6a Abs. 3 Satz
+1 Nr. 1 EStG beträgt am 31. Dezember 2010 150 000 €.</lxbase:a><lxbase:a><lxbase:unterst>Auszug aus der Pensionszusage vom 1. November 2010:
+ </lxbase:unterst></lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a><lxbase:unterst>§ 1 Pension </lxbase:unterst></lxbase:a><lxbase:a>Die Pension wird H gewährt, wenn er aus den Diensten
+des Unternehmens ausscheidet und die Altersgrenze erreicht hat.
+Altersgrenze ist das vollendete 67. Lebensjahr. Die Altersrente
+beträgt monatlich 1 500 €.</lxbase:a><lxbase:a><lxbase:unterst>§ 5 Vorzeitiges Ausscheiden </lxbase:unterst></lxbase:a><lxbase:a>Bei einem vorzeitigen Ausscheiden aus dem Unternehmen bleiben
+H die Ansprüche aus der Pensionszusage erhalten. Die Höhe
+des Anspruches errechnet sich in diesem Fall aus dem Verhältnis
+der seit Erteilung der Pensionszusage tatsächlich zurückgelegten
+zur insgesamt bis zur Vollendung des 67. Lebensjahres möglichen
+Betriebszugehörigkeit.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Die Gewinn- und Verlustrechnung der KG weist für den
+Zeitraum vom 1. März 2010 bis zum 31. Dezember 2010 einen
+Verlust i. H. v. 220 000 € aus: Die Gehaltszahlungen an
+H (einschließlich der Arbeitgeber- und Arbeitnehmeranteile
+zur Sozialversicherung) wurden hierbei ebenso Gewinn mindernd berücksichtigt
+wie der Aufwand aus der Einbuchung der Pensionsrückstellung
+i. H. v. 150 000 € aufgrund der H erteilten Pensionszusage.</lxbase:a><lxbase:a>In der Buchführung der KG sind monatliche Entnahmen
+der D i. H. v. 30 000 € im Hinblick auf die ihr zustehende
+Vergütung für die Geschäftsführertätigkeit erfasst.
+Darüber hinaus haben D und H im Jahr 2010 keine Einlagen
+und Entnahmen getätigt.</lxbase:a><lxbase:a><lxbase:fett>Aufgaben:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Ermitteln Sie die bei den Einkommensteuerveranlagungen
+von D und H aufgrund des vorgenannten Sachverhalts für
+das Jahr 2010 anzusetzenden Einkünfte. Auf allgemeine Fragen
+(persönliche Steuerpflicht, Veranlagungsform, Tarif etc.)
+ist nicht einzugehen. Der Lohnsteuerabzug ist nicht zu überprüfen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Prüfen Sie die sachliche und persönliche
+Gewerbesteuerpflicht im Hinblick auf das bis zum 28. Februar 2010
+als Einzelunternehmen der D und ab dem 1. März 2010 über
+die KG geführte Bauunternehmen "Bauen Döring". Ermitteln
+Sie ggf. den festzusetzenden Gewerbesteuermessbetrag (bzw. die festzusetzenden
+Gewerbesteuermessbeträge) für das Jahr 2010. Auf
+Hinzurechnungen und Kürzungen nach § 8 und § 9
+GewStG ist nicht einzugehen.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Begründen Sie Ihre Ergebnisse ausführlich unter
+Hinweis auf die einschlägigen Rechtsgrundlagen.</lxbase:a><lxbase:a><lxbase:fett>Bearbeitungshinweise:</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>	Sofern verschiedene Lösungsmöglichkeiten
+bestehen, ist das für 2010 günstigste steuerliche
+Ergebnis zu wählen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Eine Gewerbesteuerrückstellung ist nicht
+zu bilden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Bilanzen sind nicht aufzustellen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Auf Grunderwerbsteuer und Umsatzsteuer ist nicht einzugehen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Erforderliche Anträge gelten als gestellt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Auf Cent lautende Beträge sind abzurunden. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Sachverhalt 3:</lxbase:fett></lxbase:a><lxbase:a>Adam Abel (A) mit Wohnsitz in Essen ist seit dem 1. April 2004
+(Übergang Nutzen und Lasten; Erwerb durch notariellen Kaufvertrag
+vom 2. März 2004) Eigentümer eines Einfamilienhauses
+in Köln, Luxemburger Str. 290d (Baujahr 1990). Die Anschaffungskosten
+betragen 500 000 €. Davon entfallen 200 000 € auf
+den Grund und Boden sowie 300 000 € auf das Gebäude.
+A hat das Einfamilienhaus ursprünglich vollständig
+aus Eigenmitteln finanziert.</lxbase:a><lxbase:a>Das Einfamilienhaus ist seit dem Erwerb im Jahr 2004 durchgehend
+an die Witwe Walburga Witte (W) vermietet, die das Haus ausschließlich
+für eigene Wohnzwecke nutzt. Die fremdübliche,
+angemessene und jeweils pünktlich am 1. Werktag eines Monats
+gezahlte Miete (einschließlich Umlagen) beträgt
+im Jahr 2010 monatlich 2 500 €. Laufende Grundstückskosten
+fallen im Jahr 2010 i. H. v. 800 € monatlich an.</lxbase:a><lxbase:a>A und W kommen am 24. Juni 2010 überein, das Einfamilienhaus
+zukünftig auf gemeinsame Rechnung zu bewirtschaften. Aus
+diesem Grund gründen sie die Abel &amp; Witte GbR
+(AW-GbR). Die notarielle Beurkundung des Gesellschaftsvertrages
+erfolgt am 25. Juni 2010.</lxbase:a><lxbase:a><lxbase:unterst>Auszug aus dem Gesellschaftsvertrag vom 25. Juni 2010:
+ </lxbase:unterst></lxbase:a><lxbase:a><lxbase:unterst>§ 1 Gesellschaftszweck</lxbase:unterst></lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>Gesellschaftszweck der AW-GbR
+ist die Vermietung des Grundstücks Luxemburger Str. 290d
+in Köln. Zu diesem Zweck soll das bisher im Eigentum des
+A stehende Grundstück von der AW-GbR erworben werden der
+zwischen A und W bestehende Mietvertrag soll von der AW-GbR unverändert fortgeführt
+werden. Die monatlichen Mietzahlungen werden zum 1. Januar eines
+jeden Jahres unter Berücksichtigung der allgemeinen Mietpreisentwicklung
+in Köln angepasst.</lxbase:a><lxbase:a><lxbase:unterst>§ 4 Gewinn- und Verlustverteilung</lxbase:unterst></lxbase:a><lxbase:a>A und W sind am Gewinn und Verlust der AW-GbR zu je 50 % beteiligt. Steuerliche
+Abweichungen von der zivilrechtlichen Gewinn-Verlustverteilung sind
+ausschließlich dem betroffenen Gesellschafter zuzurechnen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Mit notariell beurkundetem Kaufvertrag vom 28. Juni 2010 erwirbt
+die AW-GbR das Grundstück Luxemburger Str. 290d zu einem
+Kaufpreis von 700 000 € von A (Anteil Grund und Boden:
+300 000 €). Nutzen und Lasten gehen vereinbarungsgemäß nach
+Zahlung des Kaufpreises am 1. Juli 2010 auf die AW-GbR über.
+Die Eintragung des Eigentümerwechsels im Grundbuch erfolgt
+am 25. September 2010.</lxbase:a><lxbase:a>Die AW-GbR tritt mit Wirkung zum 1. Juli 201,0 in den zwischen
+A und W geschlossenen Mietvertrag ein (vgl. § 1 des Gesellschaftsvertrages).
+Die monatliche Miete i. H. v. 2 500 € überweist
+W ab dem 1. Juli 2010 auf das Konto der AW-GbR.</lxbase:a><lxbase:a>Die AW-GbR finanziert den gesamten Kaufpreis für das
+Einfamilienhaus mit einem Darlehen der Volksbank Köln,
+für das jährlich vorschüssig Zinsen i.
+H. v. 4 % zu zahlen sind. Die Zinsen für den Zeitraum
+vom 1. Juli 2010 bis zum 30. Juni 2011 i. H. v. 28 000 € werden
+dem Konto der AW-GbR am 1. Juli 2010 belastet.</lxbase:a><lxbase:a>Die laufenden Grundstückskosten i. H. v. 800 € monatlich
+werden ab dem 1. Juli 2010 vom Konto der AW-GbR beglichen.</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Ermitteln Sie die von A und W aufgrund des vorgenannten Sachverhalts
+im Jahr 2010 erzielten Einkünfte. Begründen Sie
+Ihre Ergebnisse ausführlich unter Hinweis auf die einschlägigen
+Rechtsgrundlagen. Auf allgemeine Fragen (persönliche Steuerpflicht,
+Veranlagungsform, Tarif etc.) ist <lxbase:fett>nicht</lxbase:fett> einzugehen.</lxbase:a><lxbase:a><lxbase:fett>Bearbeitungshinweise:</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>	Sofern verschiedene Lösungsmöglichkeiten
+bestehen, ist das für 2010 günstigste steuerliche
+Ergebnis zu wählen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Auf Grunderwerbsteuer und Umsatzsteuer ist nicht einzugehen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Erforderliche Anträge gelten als gestellt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Auf Cent lautende Beträge sind abzurunden. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Sachverhalt 4:</lxbase:fett></lxbase:a><lxbase:a>Gesellschaftszweck der am 1. Januar 2009 gegründeten
+Grundbesitz-Verwaltungs GmbH &amp; Co. KG (nachfolgend: KG)
+ist der Erwerb und die Verwaltung von Grundbesitz. Komplementärin
+der KG ist seit der Gründung die X-GmbH, die weder am Gewinn
+und Verlust der KG noch an deren Vermögen beteiligt ist.
+Kommanditisten der KG sind Herr Fleißig zu 70 % und
+Herr Müde zu 30 %. Die Beteiligungsquote bezieht
+sich auf die Gewinn- und Verlustbeteiligung sowie auf die Vermögensbeteiligung.</lxbase:a><lxbase:a>Gesellschafter der X-GmbH sind ebenfalls Herr Fleißig
+zu 70 % und Herr Müde zu 30 %.</lxbase:a><lxbase:a>Die X-GmbH ist nach dem Gesellschaftsvertrag der KG zur alleinigen Geschäftsführung
+der KG verpflichtet und befugt. Zwischen der GmbH und Herrn Fleißig
+wurde ein Geschäftsführervertrag abgeschlossen.
+Die Geschäftsführung bei der KG übt die
+GmbH durch ihren Geschäftsführer Herrn Fleißig aus.
+Die zwischen Herrn Fleißig und der GmbH hierfür
+vereinbarte Vergütung von jährlich 30 000 € entspricht
+auch der zwischen der KG und der GmbH vereinbarten Geschäftsführervergütung
+und wurde von der KG in 2010 unmittelbar an Herrn Fleißig
+ausbezahlt.</lxbase:a><lxbase:a>In 2009 erwarb die KG ein mit einem Hotelgebäude bebautes
+Grundstück in Düsseldorf (Anschaffungskosten Grund
+und Boden: 100 000 €; Anschaffungskosten Gebäude:
+800 000 €; Einheitswert nach den Wertverhältnissen
+auf den 1. Januar 1964: 100 000 €). Die Anschaffungskosten
+wurden zum Teil aus den Einlagen der Gesellschafter und zum Teil
+aus steuerlich anzuerkennenden Darlehen der Gesellschafter finanziert.
+Die aufgrund dieser Darlehensverträge in 2010 an die Gesellschafter
+gezahlten Darlehenszinsen betragen 10 000 € an Herrn Fleißig
+und 3 000 € an Herrn Müde.</lxbase:a><lxbase:a>Seit dem Erwerb des Grundstücks vermietet die KG dieses
+an die Hotel-Betriebs-GmbH, die darin einen Hotelbetrieb unterhält.
+An der Hotel-Betriebs-GmbH sind fremde Dritte als Gesellschafter
+beteiligt. Die monatlich zu zahlende Miete, die stets pünktlich
+zum 1. des jeweiligen Monats gezahlt wird, beträgt 15 000 €.</lxbase:a><lxbase:a>Für das Jahr 2010 hat die KG folgende vorläufige
+Berechnung mit den steuerlich zutreffenden Werten erstellt:</lxbase:a><lxbase:a><lxbase:fett>Einnahmen		</lxbase:fett></lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="78*" /><cals:colspec colnum="2" colname="2" colwidth="22*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>- Mieteinnahmen</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>180 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>- Zinsen aus Festgeldanlage</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>8 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a><lxbase:fett>Ausgaben/Aufwand</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>- Kostenersatz für
+Geschäftsführung an GmbH</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>– 30
+000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>- Zinszahlungen an
+Gesellschafter</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>– 13
+000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>- AfA auf das Gebäude</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>– 24
+000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>- übrige
+Grundbesitzaufwendungen</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a><lxbase:unterst>– 40
+000 €</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a><lxbase:fett>Überschuss/Gewinn</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a><lxbase:fett>81 000 €</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:fett>Erläuterung:		</lxbase:fett></lxbase:a><lxbase:a>Die Festgeldanlage resultiert aus der Anlage von Mietüberschüssen
+bei der D-Bank. Der bei der Gewinnermittlung angesetzte Betrag von
+8 000 € stellt den Bruttoertrag vor Abzug der Kapitalertragsteuer
+(2 000 €) sowie des Solidaritätszuschlages (110 €)
+dar.</lxbase:a><lxbase:a><lxbase:fett>Aufgaben:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>	Prüfen Sie die Gewerbesteuerpflicht
+der KG und ermitteln Sie bejahendenfalls den Gewerbesteuermessbetrag
+für 2010.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Nehmen Sie dazu Stellung, ob und ggf. welche
+gewerbesteuerlichen Änderungen sich ergeben, wenn an der
+Hotel-Betriebs-GmbH anstelle der fremden Dritten die Gesellschafter
+der KG Herr Fleißig zu 70 % und Herr Müde zu
+30 % beteiligt sind.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Begründen Sie Ihre Ergebnisse ausführlich unter
+Angabe der einschlägigen Rechtsgrundlagen.</lxbase:a><lxbase:a><lxbase:fett>Bearbeitungshinweise:</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Sofern verschiedene Lösungsmöglichkeiten
+bestehen, ist das für 2010 günstigste steuerliche
+Ergebnis zu wählen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Auf Hinzurechnungen und Kürzungen nach § 8
+und § 9 GewStG ist einzugehen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Erforderliche Anträge gelten als gestellt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Auf Cent lautende Beträge sind abzurunden. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500008">Teil II: Körperschaftsteuer</lxbase:ueberschrift><lxbase:a><lxbase:fett>A. Allgemeines</lxbase:fett></lxbase:a><lxbase:a>Die A-GmbH mit Sitz in Münster/Westfälen
+wurde zum 1. Januar 1990 mit einem eingezahlten Stammkapital von
+umgerechnet 50 000 € gegründet. Gegenstand des
+Unternehmens ist der Handel mit Personenkraftwagen aller Art und
+entsprechendem Zubehör.</lxbase:a><lxbase:a>An der A-GmbH sind A mit 30 % stimmberechtigten Anteilen
+und Y mit 70 % stimmberechtigten Anteilen beteiligt. Sowohl
+A also auch Y sind zu Geschäftsführern der A-GmbH
+bestellt.</lxbase:a><lxbase:a>Zum 31. Dezember 2010 hat die A-GmbH folgende Handelsbilanz:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="24*" /><cals:colspec colnum="2" colname="2" colwidth="21*" /><cals:colspec colnum="3" colname="3" colwidth="35*" /><cals:colspec colnum="4" colname="4" colwidth="21*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="4"><lxbase:a align="zentriert"><lxbase:fett>Handelsbilanz 31.
+Dezember 2010</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>div. Aktiva</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>1 066 715 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Gezeichnetes Kapital</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>100 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Forderung gg.</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Jahresüberschuss</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>492 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>B-GmbH</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>75 285 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapitalrücklage</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>10 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right" /><cals:entry colname="3" colsep="0"><lxbase:a>Sonstige Passiva</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>540 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right"><lxbase:a><lxbase:fett>1 142 000 €</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3" colsep="0" /><cals:entry colname="4" align="right"><lxbase:a><lxbase:fett>1 142 000 €</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>und folgende Gewinn- und Verlustrechnung aufgestellt:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="22*" /><cals:colspec colnum="3" colname="3" colwidth="22*" /><cals:colspec colnum="4" colname="4" colwidth="22*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2" align="center"><lxbase:a><lxbase:fett>Aufwendungen</lxbase:fett></lxbase:a></cals:entry><cals:entry namest="3" nameend="4" align="center"><lxbase:a><lxbase:fett>Erträge</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Aufwendungen</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>1 000 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Erlöse</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>1 492 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0"><lxbase:a>Jahresüberschuss</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>492 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" /><cals:entry colname="4" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right"><lxbase:a><lxbase:fett>1 492 000 €</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3" colsep="0" /><cals:entry colname="4" align="right"><lxbase:a><lxbase:fett>1 492 000 €</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Das Wirtschaftsjahr der A-GmbH und aller Tochtergesellschaften
+ist identisch mit dem Kalenderjahr.</lxbase:a><lxbase:a>Es ist kein Körperschaftsteuerguthaben vorhanden. Der
+Bestand des steuerlichen Einlagekontos i. S. d. § 27 KStG
+wurde zum 31. Dezember 2009 mit 30 000 € festgestellt.
+Der auf den 31. Dezember 2009 ermittelte ausschüttbare Gewinn
+i. S. d. § 27 KStG beträgt 0 €.</lxbase:a><lxbase:a><lxbase:fett>B. Einzelsachverhalte</lxbase:fett></lxbase:a><lxbase:a>Im Wirtschaftsjahr 2010 der A-GmbH ereigneten sich u. a. folgende
+Geschäftsvorfälle:</lxbase:a><lxbase:a><lxbase:fett>1.	 Steueraufwendungen und sonstige betriebliche Erträge</lxbase:fett></lxbase:a><lxbase:a>Folgende Beträge buchte die A-GmbH im Wirtschaftsjahr
+2010 in der Handelsbilanz als Aufwand:		</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="71*" /><cals:colspec colnum="2" colname="2" colwidth="29*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Geleistete Körperschaftsteuervorauszahlungen:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>30 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Zuführung
+zur Bildung der</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Körperschaftsteuerrückstellung:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>7 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Zuführung
+zur Bildung der</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Gewerbesteuerrückstellung
+2010:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>5 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Gewerbesteuernachzahlung
+für 2007:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>1 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Nachforderungszinsen zur Gewerbesteuer
+2007:</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>60 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:fett>2. 	Kapitalerhöhung</lxbase:fett></lxbase:a><lxbase:a>Am 15. Juni 2010 beschloss die Gesellschafterversammlung einstimmig
+eine Erhöhung des Stammkapitals von 50 000 € auf
+100 000 € durch eine von Y zu erbringende Sacheinlage in
+Gestalt eines unbebauten Grundstücks, das Y am 15. Juni
+2009 für 40 000 € zzgl. 2 000 € Nebenkosten
+(einschl. Grunderwerbsteuer) für private Zwecke erworben
+hatte. Der notariell beurkundete Beschluss über die Erhöhung
+des Stammkapitals enthält folgende Regelung:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Der Wert des von
+Y einzubringenden Grundstücks beträgt 90 000 €.
+Nach Abzug der mit übernommenen persönlichen Verbindlichkeiten
+i. H. v. 30 00 € wird der Einbringungswert auf 60 000 € festgesetzt.
+Hiervon wird ein Betrag von 50 000 € auf die zu übernehmende
+Stammeinlage angerechnet. Im Übrigen erfolgt eine Zuweisung
+zur Kapitalrücklage mit der Maßgabe, dass Auflösungen
+eines Gesellschafterbeschlusses bedürfen. Die Nebenkosten
+der Übertragung des Grundstücks trägt
+die A-GmbH."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Der Bemessung des Grundstückwertes liegt ein von der
+A-GmbH vorgelegtes und nicht zu beanstandendes Verkehrswertgutachten
+zugrunde.</lxbase:a><lxbase:a>Y übernahm die zu leistende Stammeinlage in einer notariell
+beurkundeten Erklärung vom 16. Juni 2010.</lxbase:a><lxbase:a>Mit notariell beurkundetem Kauf- und Auflassungsvertrag vom 17.
+Juni 2010 übertrug Y das Grundstück auf die A-GmbH.
+Besitz, Nutzungen und Lasten gehen laut Vertrag mit Ablauf des 17.
+Juni 2010 auf die A-GmbH über. Die Eintragung in das Grundbuch
+erfolgte am 3. November 2010. Die Kosten der Beurkundung und der
+Eintragung in das Grundbuch hat vereinbarungsgemäß die
+A-GmbH getragen.</lxbase:a><lxbase:a>Die Eintragung der Kapitalerhöhung in das Handelsregister
+erfolgte am 1. September 2010.</lxbase:a><lxbase:a>Folgende Kosten fielen anlässlich der Kapitalerhöhung
+und ihrer Durchführung an:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="89*" /><cals:colspec colnum="2" colname="2" colwidth="11*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Für die
+notarielle Beurkundung der Abänderung des Gesellschaftsvertrages:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>264 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Für die
+notarielle Beurkundung der Übernahmeerklärung
+des Y:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>285 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Für die
+notarielle Beurkundung des Kaufs und Auflassungsvertrags:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>198 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Grunderwerbsteuer:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>700 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Für die
+Eintragung der A-GmbH in das Grundbuch: 132 €</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Für die
+notarielle Beglaubigung der Anmeldung zum Handelsregister:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>66 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Für die Eintragung in
+das Handelsregister und die öffentliche Bekanntmachung:</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>141 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Umsatzsteuer fiel nicht an, weil der beauftragte Notar in 2010
+unter die Kleinunternehmerregelung des § 19 UStG fiel.
+Der gesamte Vorgang wurde wie folgt zutreffend gebucht (zusammengefasst):</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="28*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="36*" /><cals:colspec colnum="4" colname="4" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Grund und Boden</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>91
+030 € an</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>gez. Kapital</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>50 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Sonst. betriebl. Aufwand</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>756 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapitalrücklage </lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>10 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>übernommene
+Verbindlichkeiten</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>30 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Verbindlichkeiten
+aus Nebenkosten</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>1 030 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" colsep="0" /><cals:entry colname="3" colsep="0"><lxbase:a>Sonstige Verbindlichkeiten</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>756 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Der gebuchte sonstige betriebliche Aufwand setzt sich aus den
+Positionen Beurkundung der Abänderung des Gesellschaftsvertrages.
+(264 €), notarielle Beurkundung der Übernahmeerklärung
+des Y (285 €), notarielle Beurkundung der Anmeldung zum
+Handelsregister (66 €) sowie Eintragung in das Handelsregister
+und öffentliche Bekanntmachung (141 €) zusammen.</lxbase:a><lxbase:a>Die Bezahlung der Verbindlichkeiten erfolgte im Wirtschaftsjahr
+2011.</lxbase:a><lxbase:a><lxbase:fett>3. Organschaft</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>a) Historie/Ausschüttung des Bilanzgewinns
+2009</lxbase:fett></lxbase:a><lxbase:a>Die A-GmbH ist seit Jahren zu 90 % an der B-GmbH in
+Dortmund beteiligt, die ebenfalls mit Personenkraftwagen aller Art
+handelt. Zwischen der A-GmbH und der B-GmbH liegen seit dem 20.
+Mai 2010 die Voraussetzungen einer körperschaftsteuerrechtlichen
+Organschaft vor. Weiterer Gesellschafter der B-GmbH ist die C-GmbH
+aus Stuttgart, die nach den nicht zu beanstandenden Vereinbarungen
+von der A-GmbH am 30. Dezember eines Jahres für entgangene
+Dividenden eine jährliche Ausgleichszahlung i. H. v. 17
+000 € erhält.</lxbase:a><lxbase:a>In der Bilanz der B-GmbH auf den 31. Dezember 2009 war ein Bilanzgewinn
+in Höhe von 400 000 € ausgewiesen. Anfang November
+2010 beschloss die Gesellschafterversammlung der B-GmbH die Vollausschüttung.
+Die Auszahlung erfolgte Ende November 2010 unter Einbehaltung von
+Kapitalertragsteuer i. H. v. insgesamt 100 000 € und unter
+Einbehaltung des Solidaritätszuschlags i. H. v. insgesamt
+5 500 € und wurde von den Beteiligten zutreffend gebucht. Ordnungsgemäße
+Steuerbescheinigungen liegen vor.</lxbase:a><lxbase:a><lxbase:fett>b) Handelsbilanz der B-GmbH</lxbase:fett></lxbase:a><lxbase:a>Zum 31. Dezember 2010 hat die B-GmbH folgende Handelsbilanz vorgelegt:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="27*" /><cals:colspec colnum="2" colname="2" colwidth="17*" /><cals:colspec colnum="3" colname="3" colwidth="40*" /><cals:colspec colnum="4" colname="4" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="4"><lxbase:a align="zentriert"><lxbase:fett>Handelsbilanz 31.
+Dezember 2010</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Anlagevermögen</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>173 450 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>gezeichnetes Kapital</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>100 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Umlaufvermögen</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>25 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Gewinnrücklage</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>30 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>KSt-Guthaben</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>10 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>KSt-Rückstellung</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>3 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>SolZ-Rückstellung</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>165 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right" /><cals:entry colname="3" colsep="0"><lxbase:a>Gewinnabführungsverbindl. </lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>75 285 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right"><lxbase:a><lxbase:fett>208 450 €</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3" colsep="0" /><cals:entry colname="4" align="right"><lxbase:a><lxbase:fett>208 450 €</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:fett>c) 	Ausgleichszahlung</lxbase:fett></lxbase:a><lxbase:a>Die A-GmbH leistete die vereinbarte Ausgleichszahlung an die
+C-GmbH unter Abzug von Kapitalertragsteuer und Solidaritätszuschlag
+am 30. Dezember 2010. Der Vorgang wurde ordnungsgemäß als
+Aufwand gebucht.</lxbase:a><lxbase:a><lxbase:fett>d)	 Gewinnrücklage</lxbase:fett></lxbase:a><lxbase:a>Die B-GmbH hat von ihrem vorläufigen Jahresüberschuss
+2010 einen Betrag i. H. v. 30 000 € in die Gewinnrücklage
+eingestellt. Der Betrag soll in den Folgejahren für eine
+von der Geschäftsleitung bereits fest eingeplante und von
+der Gesellschafterversammlung genehmigte Errichtung mehrerer Filialen
+zur Verfügung stehen. Der übrige Teil des Jahresüberschusses
+ist in der Handelsbilanz als Gewinnabführungsverbindlichkeit
+ausgewiesen.</lxbase:a><lxbase:a><lxbase:fett>e) 	Dividendenerträge</lxbase:fett></lxbase:a><lxbase:a>Die B-GmbH ist seit Jahren an diversen Aktiengesellschaften beteiligt.
+Aus diesen Beteiligungen erzielte sie in 2010 eine Bruttodividende
+in Höhe von 40 000 €, deren Vereinnahmung nach
+Abzug von Kapitalertragsteuer i. H. v. 10 000 € und nach
+Abzug des Solidaritätszuschlags i. H. v. 550 € korrekt
+gebucht wurde.</lxbase:a><lxbase:a><lxbase:fett>f) 	Körperschaftsteuerguthaben</lxbase:fett></lxbase:a><lxbase:a>Im Rahmen der Aufzinsung des bisherigen Barwerts und der Teilauszahlung ihres
+eigenen Körperschaftsteuerguthabens hat die B-GmbH in 2010
+zutreffend einen Betrag in Höhe von 2 000 € als
+außerordentlichen Ertrag gebucht. Aus der Teilauszahlung
+eines ihr in 2010 von einer anderen Kapitalgesellschaft abgetretenen
+Körperschaftsteuerguthabens hat die B-GmbH ebenfalls zutreffend
+einen Betrag in Höhe von 1 500 € als außerordentlichen
+Ertrag gebucht.</lxbase:a><lxbase:a><lxbase:fett>g) Spenden der B-GmbH</lxbase:fett></lxbase:a><lxbase:a>Die B-GmbH spendete in 2010 einen Betrag in Höhe von
+3 000 € an die X-Partei (politische Partei i. S, d. § 2
+des Parteiengesetzes) und einen Betrag in Höhe von 30 000 € an
+den örtlichen Tierschutzverein e, V. (Körperschaftsteuerfreistellungsbescheid
+liegt vor). Ordnungsgemäße Zuwendungsbestätigungen liegen
+- soweit erforderlich - ebenfalls vor. Beide Spenden wurden als
+Aufwand gebucht.</lxbase:a><lxbase:a>Des Weiteren spendete die B-GmbH einen auf 0 € abgeschriebenen
+PC-Drucker an den oben genannten örtlichen Tierschutzverein
+e. V. Die Anschaffungskosten des Druckers betrugen 1 000 € zzgl.
+190 € USt; der Einkaufspreis vergleichbarer gebrauchter
+Drucker beträgt 100 € zzgl. 19 € USt.
+Der Teilwert des gebrauchten Druckers kann mit 100 € angesetzt
+werden. Die Spende wurde bisher nicht gebucht. Eine ordnungsgemäße
+Zuwendungsbestätigung liegt vor.</lxbase:a><lxbase:a>Die Umsätze der B-GmbH in 2010 betrugen 2 000 000 €,
+die aufgewendeten Löhne und Gehälter 20 000 €.</lxbase:a><lxbase:a><lxbase:fett>4. Beteiligungsverlust</lxbase:fett></lxbase:a><lxbase:a>Die A-GmbH ist seit dem 1. Januar 2010 als Teilhaberin mit einer
+(bereits geleisteten) Einlage in Höhe von 100 000 € am
+Handelsgewerbe der Z-GmbH atypisch still beteiligt. Das Wirtschaftsjahr
+der Z-GmbH ist identisch mit dem Kalenderjahr. Der auf die A-GmbH
+entfallende Verlustanteil des Wirtschaftsjahres 2010 beträgt
+20 000 €, wurde von dieser vereinbarungsgemäß per
+Banküberweisung ausgeglichen und als "Aufwendungen
+aus Verlustübernahmen" erfolgswirksam gebucht.</lxbase:a><lxbase:a><lxbase:fett>C. Aufgabe</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Ermitteln Sie unter Berücksichtigung
+der allgemeinen Angaben und der Einzelsachverhalte in den Textziffern
+1 bis 4 das zu versteuernde Einkommen und die verbleibende Körperschaftsteuer
+der nach § 1 Abs. 1 KStG unbeschränkt steuerpflichtigen
+und buchführungspflichtigen A-GmbH für den Veranlagungszeitraum
+2010.</lxbase:a><lxbase:a>Zu ermitteln ist das für die Steuerpflichtige jeweils
+günstigste Ergebnis. Ggf. erforderliche Anträge
+gelten als gestellt.</lxbase:a><lxbase:a>Auf Umsatzsteuerfragen ist insoweit einzugehen, wie dies für
+die Ermittlung der ertragsteuerlichen Bemessungsgrundlage erforderlich
+ist.</lxbase:a><lxbase:a>Begründen Sie Ihre Entscheidung ausführlich
+unter Angabe der maßgeblichen Rechtsgrundlagen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Ermitteln Sie den Bestand des steuerlichen
+Einlagekontos i. S. d. § 27 KStG zum 31. Dezember 2010.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500009">Prüfungsaufgaben
+aus dem Gebiet Buchführung und Bilanzen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523385500010">Teil I: Einzelunternehmen
+Herbst</lxbase:ueberschrift><lxbase:a><lxbase:fett>Allgemeiner Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>Der Kaufmann Georg Herbst (GH) betreibt seit 2002 als Einzelunternehmer einen
+Großhandel mit Werkzeugen in Bremen. Einige Spezialwerkzeuge
+stellt er in einer Produktionshalle auf seinem Betriebsgrundstück
+auch selber her.</lxbase:a><lxbase:a>Die Gewinnermittlung erfolgt nach § 5 Abs. 1 EStG. Etwa
+erforderliche Verzeichnisse nach § 5 Abs. 1 Satz 2 und
+3 EStG werden geführt. Die Voraussetzungen des § 7g
+EStG liegen nicht vor. Das Kalenderjahr und das Wirtschaftsjahr
+stimmen überein.</lxbase:a><lxbase:a>GH ist zum Vorsteuerabzug berechtigt. Er versteuert seine Umsätze
+nach vereinbarten Entgelten mit dem Steuersatz von 19 %.
+Die Belege der Buchführung liegen vor und die Aufzeichnungspflichten
+wurden beachtet.</lxbase:a><lxbase:a>GH wünscht im Jahr 2010 einen möglichst hohen
+Eigenkapitalausweis in seiner Handelsbilanz (1. Priorität)
+und einen möglichst niedrigen steuerlichen Gewinn (2. Priorität).</lxbase:a><lxbase:a>Nach dem vorläufigen Ergebnis der Buchführung
+ergibt sich ein Jahresüberschuss in Höhe von 500
+000 €.</lxbase:a><lxbase:a>GH hat Sie gebeten, den Jahresabschluss für das Jahr
+2010 zu erstellen. Gehen Sie davon aus, dass Sie diese Arbeit am
+31. März 2011 erledigen/erledigt haben.</lxbase:a><lxbase:a>In Zweifelsfällen ist der Verwaltungsauffassung zu folgen.</lxbase:a><lxbase:a><lxbase:fett>Aufgaben:</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>	Beurteilen Sie die nachfolgenden
+Einzelsachverhalte 1 bis 5 unter Hinweis auf die gesetzlichen Bestimmungen
+des Handels- und Steuerrechts sowie die Verwaltungsanweisungen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Stellen Sie in der <lxbase:fett>Anlage</lxbase:fett> die Änderungen
+des vorläufigen Jahresüberschusses aufgrund der
+nachstehenden Einzelsachverhalte dar und berechnen Sie den sich
+danach ergebenden Jahresüberschuss in der Handelsbilanz
+und den steuerlichen Gewinn.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Einzelsachverhalte:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a><lxbase:fett>Baumaßnahmen Produktionshalle</lxbase:fett></lxbase:a><lxbase:a>Die Produktionshalle hat GH aufgrund eines Bauantrags vom März
+2002 auf seinem bilanzierten Grundstück errichten lassen.
+Die Herstellungskosten haben 300 000 € betragen. Die Halle
+wurde Anfang Januar 2003 fertiggestellt.</lxbase:a><lxbase:a>Die Halle wird sowohl in der Handelsbilanz als auch in der Steuerbilanz nach
+den für massive Gebäude geltenden Vorschriften
+des Steuerrechts abgeschrieben.</lxbase:a><lxbase:a>Im Jahr 2009 hatte GH aus rechtlichen Gründen einen
+Teilabriss vornehmen lassen müssen. Er hatte daher zum
+31. Dezember 2009 zu Recht eine Absetzung für außerplanmäßige
+Abschreibung (AfaA) in Höhe von 40 000 € vorgenommen.</lxbase:a><lxbase:a>Im Jahr 2010 wurde die Produktionshalle in der zeit von Anfang
+Juli bis Ende September - rechtlich zulässig - um 25 % vergrößert
+und sodann mit einem einheitlichen Außenanstrich versehen.
+Die Produktion konnte in dieser Zeit in eingeschränktem
+Umfang fortgeführt werden. Am 1.	Oktober 2010 wurde die
+vergrößerte Halle feierlich in Betrieb genommen.</lxbase:a><lxbase:a>Die Rechnung des Bauunternehmers buchte GH im Oktober 2010 wie
+folgt:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="32*" /><cals:colspec colnum="2" colname="2" colwidth="23*" /><cals:colspec colnum="3" colname="3" colwidth="8*" /><cals:colspec colnum="4" colname="4" colwidth="15*" /><cals:colspec colnum="5" colname="5" colwidth="23*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Produktionshalle</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>100
+000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" colsep="0" rowsep="0" /><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Vorsteuer</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" align="right"><lxbase:a>19 000 € </lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an</lxbase:a></cals:entry><cals:entry colname="4" colsep="0"><lxbase:a>Bank</lxbase:a></cals:entry><cals:entry colname="5" align="right"><lxbase:a>119 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Die Rechnung eines Malermeisters für den Ende September
+2010 erfolgten Außenanstrich der gesamten Halle buchte
+GH ebenfalls im Oktober 2010:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="22*" /><cals:colspec colnum="3" colname="3" colwidth="8*" /><cals:colspec colnum="4" colname="4" colwidth="16*" /><cals:colspec colnum="5" colname="5" colwidth="22*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Sonstige betriebliche Aufwendungen</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>20
+000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" colsep="0" rowsep="0" /><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Vorsteuer</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" align="right"><lxbase:a>3 800 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an</lxbase:a></cals:entry><cals:entry colname="4" colsep="0"><lxbase:a>Bank</lxbase:a></cals:entry><cals:entry colname="5" align="right"><lxbase:a>23 800 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Weitere Buchungen sind bisher in diesem Zusammenhang für
+2010 nicht erfolgt. Freistellungsbescheinigungen nach § 48b
+EStG liegen vor.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a><lxbase:fett>	Multifunktionswerkzeug</lxbase:fett></lxbase:a><lxbase:a>Im Januar 2010 hatte GH bei der Inventur festgestellt, dass sich
+ein Werkzeug, das die Vorteile eines Hammers, einer Zange und eines
+Bohrers in sich vereinigte und zudem einfach zu handhaben und preisgünstig
+war, nicht in seinem Warenangebot befand. Bei Recherchen konnte
+er auch am Markt kein Werkzeug finden, das seinen Vorstellungen
+entsprach.</lxbase:a><lxbase:a>Im Februar und im März verwendete er einige Mühe
+darauf, ein neuartiges Werkzeug dieser Art in sein Angebot aufnehmen
+zu können.</lxbase:a><lxbase:a>Am 1. April 2010 kam er durch eine überraschende Eingebung
+darauf, welche konkreten Eigenschaften dieses Werkzeug haben müsste,
+und es gelang ihm innerhalb weniger Tage, den Entwurf eines solchen
+Werkzeugs zu zeichnen und ein patentfähiges Konzept zu
+erstellen.</lxbase:a><lxbase:a>Die Materialkosten bei der Suche nach einer möglichen
+Realisierung seiner Vorstellungen im Februar und März 2010
+betrugen 7 000 € und wurden als Betriebsausgaben gebucht.
+Die ebenfalls als Aufwand gebuchten Gemeinkosten in diesem Zusammenhang
+betrugen 5 000 €. Der eigene Arbeitslohn von GH wäre
+mit 6 000 € angemessen berücksichtigt. Eine Buchung
+des Arbeitslohns ist bisher nicht erfolgt.</lxbase:a><lxbase:a>Die gebuchten Aufwendungen im April für den Entwurf
+des Werkzeugs und das patentfähige Konzept betrugen insgesamt
+9 000 €. Der angemessene Arbeitslohn von GH in Höhe
+von 4 000 € wurde auch hier nicht gebucht.</lxbase:a><lxbase:a>Die als Aufwand gebuchten Beratungskosten und die Gebühr
+für die Registrierung des Patents betrugen daneben insgesamt
+12 000 €. Das Patent ist damit für GH ab 1. September
+2010 für 15 Jahre geschützt.</lxbase:a><lxbase:a>Der bisher nicht gebuchte Firmenwert ist durch die gesicherte
+Möglichkeit der konkurrenzlosen Fertigung des neuartigen
+Werkzeugs nach zutreffender Einschätzung vom Jahresbeginn
+bis zum 31. Dezember 2010 von 300 000 € auf 450 000 € gestiegen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a><lxbase:fett>Herstellung einer Maschine</lxbase:fett></lxbase:a><lxbase:a>Da eine geeignete Maschine zur Herstellung der neuartigen Werkzeuge
+(2. Einzelsachverhalt) am Markt nicht angeboten wurde, entschloss
+sich GH, diese Produktionsmaschine mit den Arbeitnehmern in seiner
+Firma selber herzustellen.</lxbase:a><lxbase:a>Diese Maschine wird seit Fertigstellung am 1. September 2010
+zur Produktion der neuartigen Werkzeuge eingesetzt.</lxbase:a><lxbase:a>Die Materialkosten und die Fertigungskosten betrugen 25 000 €.
+Die angemessenen Gemeinkosten betrugen 15 000 € und die
+anteiligen Kosten der allgemeinen Verwaltung beliefen sich auf 3
+500 €.</lxbase:a><lxbase:a>Außerdem nahm GH zur Finanzierung der Maschine ein Darlehen
+auf. Die auf den Zeitraum der Herstellung der Maschine entfallenden
+Zinsen betragen 1 200 €.</lxbase:a><lxbase:a>Die genannten Kosten wurden zunächst als Aufwand gebucht.</lxbase:a><lxbase:a>Die Materialkosten und die Fertigungskosten hat GH sodann als
+Herstellungskosten angesehen und die Maschine, die eine Nutzungsdauer
+von fünf Jahren hat, unter Berücksichtigung einer
+linearen Abschreibung (AfA) von 5 000 € zum 31. Dezember
+2010 noch mit 20 000 € aktiviert.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a><lxbase:fett>Wertpapiere</lxbase:fett></lxbase:a><lxbase:a>GH hatte im Januar 2008 börsennotierte Aktien zur langfristigen
+Stärkung seines Betriebsvermögens erworben und
+mit den Anschaffungskosten wie folgt gebucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="54*" /><cals:colspec colnum="2" colname="2" colwidth="16*" /><cals:colspec colnum="3" colname="3" colwidth="14*" /><cals:colspec colnum="4" colname="4" colwidth="16*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Wertpapiere des Anlagevermögens</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>(X-Aktien)</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>100
+000 € </lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>an Bank</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>100 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Wertpapiere des Anlagevermögens</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" rowsep="0" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>(Y-Aktien)</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" align="right"><lxbase:a>50 000 € </lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an Bank</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>50 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Entgegen den Erwartungen von GH verloren die X-Aktien 2009 recht
+deutlich an Wert. Im Jahr 2010 und dann bis zur Jahresabschlusserstellung
+im Jahr 2011 gingen die Kurse weiter stetig, aber nur noch leicht,
+zurück.</lxbase:a><lxbase:a>Die Werte der Y-Aktien verloren im Jahr 2009 noch deutlicher
+an Wert. Bis zur Bilanzaufstellung im März 2010 blieben
+die Kurse im Jahr 2010 zunächst unverändert. Im
+Herbst 2010 erholten sie sich jedoch überraschend deutlich
+und stiegen seitdem stetig leicht an. Die Kurse vom Januar 2008 wurden
+bisher aber noch nicht wieder erreicht.</lxbase:a><lxbase:a>Die Werte der bilanzierten Aktien entwickelten sich wie folgt:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="19*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:colspec colnum="3" colname="3" colwidth="20*" /><cals:colspec colnum="4" colname="4" colwidth="20*" /><cals:colspec colnum="5" colname="5" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>31.12.2009 </lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" align="right"><lxbase:a>31.3.2010 </lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right"><lxbase:a> 31.12.2010 </lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right"><lxbase:a> 31.3.2011</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>X-Aktien</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>74
+000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" align="right"><lxbase:a>73
+000 €</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="right"><lxbase:a>72
+000 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right"><lxbase:a>71 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Y-Aktien</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" align="right"><lxbase:a>26 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" align="right"><lxbase:a>26 000 €</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" align="right"><lxbase:a>40 000 €</lxbase:a></cals:entry><cals:entry colname="5" align="right"><lxbase:a>41 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Im Jahresabschluss zum 31. Dezember 2009 hat GH die Aktien in
+der Handelsbilanz mit dem höchstmöglichen Wert
+und in der Steuerbilanz mit dem niedrigstmöglichen Wert
+angesetzt.</lxbase:a><lxbase:a>In der Buchführung 2010 sind bisher keine Buchungen
+vorgenommen worden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a><lxbase:fett>Forderungen</lxbase:fett></lxbase:a><lxbase:a>Am 2. August 2010 hat GH Werkzeuge an einen Kunden in den Vereinigten Staaten
+(USA) auf der Basis von US-Dollar (USD) und mit einer Zahlungsfrist
+bis zum 1. Mai 2011 verkauft und geliefert. </lxbase:a><lxbase:a>Die entstandene Forderung beträgt 30 000 USD und wurde
+mit dem - hier zu unterstellen - zutreffenden Kurs in Euro (€)
+umgerechnet und mit 22 000 € eingebucht.</lxbase:a><lxbase:a>Die zutreffenden Umrechnungskurse betragen für einen
+Euro am 31. Dezember 2010 = 1,25 USD und am 31. März
+2011 = 1,20 USD.</lxbase:a><lxbase:a>Weitere Buchungen sind in diesem Zusammenhang bisher nicht erfolgt.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500011">Teil II: X-GmbH</lxbase:ueberschrift><lxbase:a><lxbase:fett>Allgemeiner Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>Die X-GmbH betreibt eine Maschinenfabrik. Sitz der Gesellschaft
+ist Magdeburg. Das Stammkapital der im Jahr 2001 gegründeten
+Gesellschaft beträgt 1 000 000 € und ist voll
+eingezahlt. Zum 31. Dezember 2010 werden in der Bilanz 500 000 € Gewinnrücklagen
+(frei verfügbar) und 300 000 € Gewinnvortrag ausgewiesen.
+Geschäftsführender Gesellschafter der X-GmbH ist
+Anton X. Er hält 80 % der Anteile. Weitere 20 % werden
+zu je 5 % von den Herren A, B, C und D gehalten. Gewinnausschüttungen
+wurden für 2009 nicht beschlossen und sind auch für
+2010 nicht geplant.</lxbase:a><lxbase:a>Die X-GmbH führt mit den Erlösen aus der Maschinenfabrik
+nur zum Vorsteuerabzug berechtigende Umsätze aus.</lxbase:a><lxbase:a>Nach den Betriebsgrößenmerkmalen wird die X-GmbH
+als mittelgroße Kapitalgesellschaft i. S. d. § 267
+HGB eingestuft. Das Wirtschaftsjahr der GmbH stimmt mit dem Kalenderjahr überein.
+Für die Wirtschaftsjahre bis einschließlich 2009
+wurden ausschließlich Handelsbilanzen erstellt. Soweit
+sich steuerlich abweichende Ansätze oder Bewertungen ergeben
+haben, wurden Überleitungsrechnungen gemäß § 60
+Abs. 2 Satz 1 EStDV aufgestellt. Abweichungen haben sich zum 31.
+Dezember 2009 nur für den Bereich der Drohverlustrückstellungen
+und der latenten Steuern ergeben. Aus den Konten des betrieblichen
+Rechnungswesens ergibt sich ein vorläufiger Jahresüberschuss von
+700 000 €. Die Konten des betrieblichen Rechnungswesens
+enthalten die handelsrechtlich maßgeblichen Werte und Bestände.</lxbase:a><lxbase:a>Aufgaben:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Erläutern Sie unter
+Angabe der einschlägigen Vorschriften, wie die dargestellten
+Einzelsachverhalte 1 bis 5 handelsrechtlich und steuerrechtlich
+zu beurteilen sind. Dabei sind die sich aus den Sachverhalten ergebenden
+Kontobestände zum 31. Dezember 2010 für die Handelsbilanz
+und einer gegebenenfalls abweichenden steuerrechtlichen Beurteilung
+zu ermitteln.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Die für die Erstellung der Handelsbilanz noch
+erforderlichen Buchungssätze und gegebenenfalls Korrekturbuchungssätze
+sind anzugeben.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Weichen die steuerlichen Lösungen vom Handelsrecht
+ab, sind zur Erstellung einer Überleitungsrechnung nach § 60
+Abs. 2 Satz 1 EStDV für das Jahr 2010 die entsprechenden
+Abweichungen - ausgehend von der Handelsbilanz - anzugeben.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Die noch nicht gebuchten Steuerrückstellungen
+sind zu berechnen und zu buchen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Ermitteln Sie den handelsrechtlichen Jahresüberschuss
+und den steuerlichen Gewinn.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Hinweise:</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Soweit es zulässig
+ist, sollen planmäßige Abschreibungen in Handelsbilanz und
+Steuerbilanz einheitlich linear vorgenommen werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>In der Handelsbilanz soll ein möglichst hohes
+Vermögen ausgewiesen werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Das steuerliche Ergebnis soll möglichst niedrig
+ausfallen, wobei degressive Abschreibungen nicht erwünscht
+sind.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Die Ertragsteuerbelastung beträgt 30 % (15 % Körperschaftsteuer,
+15 % Gewerbesteuer). Auf den Solidaritätszuschlag
+ist nicht einzugehen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Steuervorauszahlungen sind nicht geleistet worden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Hinzurechnungen oder Kürzungen - außer
+den sich aus dem Sachverhalt ergebenden - zur Ermittlung des Gewerbeertrags
+und des zu versteuernden Einkommens liegen nicht vor.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Einzelsachverhalte:</lxbase:fett></lxbase:a><lxbase:a>1. <lxbase:fett>Drohverlustrückstellung</lxbase:fett></lxbase:a><lxbase:a>In der Bilanz zum 31. Dezember 2009 wurde zutreffend eine Rückstellung
+für drohende Verluste aus schwebenden Geschäften
+in Höhe von 200 000 € passiviert. In der steuerlichen Überleitungsrechnung
+wurde die Rückstellung zutreffend gewinnerhöhend
+berücksichtigt. Wegen der Differenz zwischen dem handelsrechtlichen
+und steuerrechtlichen Ansatz wurde eine aktive Steuerabgrenzung
+gem. § 274 Abs. 1 Satz 2 HGB in Höhe von 60 000 € in
+der Bilanz ausgewiesen.</lxbase:a><lxbase:a>Zum 31. Dezember 2010 ist nur noch mit einem drohenden Verlust
+von 80 000 € zu rechnen. Aus diesem Grund wurde diese Rückstellung
+richtigerweise in Höhe von 120 000 € erfolgswirksam
+aufgelöst.</lxbase:a><lxbase:a>Zur Erstellung der Handelsbilanz wurde wie folgt gebucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="28*" /><cals:colspec colnum="2" colname="2" colwidth="16*" /><cals:colspec colnum="3" colname="3" colwidth="6*" /><cals:colspec colnum="4" colname="4" colwidth="34*" /><cals:colspec colnum="5" colname="5" colwidth="16*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Rückstellungen für drohende
+Verluste</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" align="right"><lxbase:a>120 000 € </lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an</lxbase:a></cals:entry><cals:entry colname="4" colsep="0"><lxbase:a>Erträge aus der Auflösung
+von Rückstellungen</lxbase:a></cals:entry><cals:entry colname="5" align="right"><lxbase:a>120 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Weitere Buchungen sind in diesem Zusammenhang bisher nicht erfolgt.</lxbase:a><lxbase:a>2.	 <lxbase:fett>Betriebsprüfung</lxbase:fett></lxbase:a><lxbase:a>Für die Jahre 2008 und 2009 fand eine steuerliche Betriebsprüfung
+(Bp) statt. Die einzige Feststellung im Rahmen dieser Prüfung
+war die Aufwandsbuchung von 20 000 € Anschaffungskosten
+für eine am 3. Januar 2009 angeschaffte Standbohrmaschine.
+Der Betriebsprüfer aktivierte diesen Betrag und berücksichtigte
+wegen der fünfjährigen Nutzungsdauer in der Gewinnermittlung
+lt. Bp 4 000 € AfA (linear). Aufgrund der Gewinnerhöhung
+von (saldiert) 16 000 € wurden in der Prüferbilanz
+noch Rückstellungen für Gewerbesteuer von 2 400 € und
+Körperschaftsteuer von 2 400 € gebildet. Als steuerlicher
+Ausgleichsposten wird in der Prüferbilanz ein Betrag von
+11 200 € ausgewiesen. Die aufgrund der geänderten
+Steuerbescheide nachzuzahlende Gewerbesteuer und Körperschaftsteuer
+wurde im November 2010 durch Banküberweisung bezahlt und
+in der Buchführung als Aufwand im Konto Steuern vom Einkommen
+und Ertrag gebucht.</lxbase:a><lxbase:a>Außerdem wurde der Anlagenspiegel korrigiert sowie gebucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="28*" /><cals:colspec colnum="2" colname="2" colwidth="15*" /><cals:colspec colnum="3" colname="3" colwidth="8*" /><cals:colspec colnum="4" colname="4" colwidth="34*" /><cals:colspec colnum="5" colname="5" colwidth="15*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Technische Anlagen
+und Maschinen</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>20
+000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" colsep="0" rowsep="0" /><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Abschreibungen auf
+Sachanlagen</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>8
+000 € </lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>an</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0"><lxbase:a>Erhöhung
+des Bestands von Sachanlagen </lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right"><lxbase:a>20 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" colsep="0" /><cals:entry colname="3" colsep="0" /><cals:entry colname="4" colsep="0"><lxbase:a>Technische Anlagen und Maschinen</lxbase:a></cals:entry><cals:entry colname="5" align="right"><lxbase:a>8 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>3.	 <lxbase:fett>Erwerb der Anteile des Gesellschafters A</lxbase:fett></lxbase:a><lxbase:a>Im Gesellschaftsvertrag der X-GmbH ist geregelt, dass die Gesellschaft
+berechtigt ist, Gesellschaftsanteile ihrer Gesellschafter zum Nennwert
+oder zu einem anderen Wert zu erwerben, um einen schweren Schaden
+von der Gesellschaft abzuwenden, insbesondere dann, wenn ein Gesellschafter
+gegen die Interessen der Gesellschaft verstoßen hat. Da
+der Gesellschafter A der Untreue überführt wurde,
+beschloss die Gesellschafterversammlung am 20. November 2010, die Anteile
+des A (Nennwert 50 000 €) durch die Gesellschaft auf eigene
+Kosten zum Preis von 70 000 € zu erwerben. Auf eine Strafanzeige
+gegen A wurde verzichtet. Da A mit dem Vorgehen einverstanden war,
+erwarb die X-GmbH im Dezember 2010 seine Anteile mit notariellem
+Vertrag für 70 000 €, obwohl sich der gemeine
+Wert auf 300 000 € belief. An Notarkosten fielen gemäß ordnungsgemäßer
+Rechnung 3 000 € zuzüglich 570 € Umsatzsteuer
+an. Sämtliche Zahlungen wurden noch im Dezember 2010 vom
+Bankkonto der X-GmbH gezahlt.</lxbase:a><lxbase:a>Gebucht wurde:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="54*" /><cals:colspec colnum="2" colname="2" colwidth="15*" /><cals:colspec colnum="3" colname="3" colwidth="7*" /><cals:colspec colnum="4" colname="4" colwidth="10*" /><cals:colspec colnum="5" colname="5" colwidth="14*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Gezeichnetes Kapital</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>70
+000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" colsep="0" rowsep="0" /><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Aufwendungen aus
+dem Erwerb eigener Anteile</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>3
+000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" colsep="0" rowsep="0" /><cals:entry colname="5" rowsep="0" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Anrechenbare Vorsteuer</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" align="right"><lxbase:a>570 € </lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an</lxbase:a></cals:entry><cals:entry colname="4" colsep="0"><lxbase:a>Bank</lxbase:a></cals:entry><cals:entry colname="5" align="right"><lxbase:a>73 570 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:fett>4. 	Übernahme des Betriebs der Bohrmaschinen-GmbH</lxbase:fett></lxbase:a><lxbase:a>Im Zuge des Erwerbs der gesamten Vermögensgegenstände
+und Schulden der Bohrmaschinen-GmbH (sog. "asset deal")
+am 2. Januar 2010 wurde folgende ordnungsgemäße
+Rechnung (auszugsweise) erstellt:</lxbase:a><lxbase:a>Für die Übernahme der gesamten Vermögensgegenstände
+und Schulden der Bohrmaschinen-GmbH ist ein Kaufpreis von 1 250
+000 € zu zahlen. Umsatzsteuer fällt nicht an (§ 1
+Abs. 1 a UStG).</lxbase:a><lxbase:a>Der Zeitwert des erworbenen Sachanlagevermögens beträgt
+2 500 000 € und entfällt insgesamt auf Produktionsmaschinen
+mit einer Restnutzungsdauer von fünf Jahren. Die übernommenen
+Schulden entfallen ausschließlich auf Verbindlichkeiten
+aus Lieferungen und Leistungen in Höhe von 1 500 000 €.
+Die Verbindlichkeiten wurden bislang nicht getilgt. Vorräte
+und unfertige Erzeugnisse waren am 2. Januar 2010 nicht vorhanden.
+Gründe, die bei Annahme eines Geschäfts- oder
+Firmenwertes eine Nutzungsdauer' von mehr als fünf
+Jahren rechtfertigen würden, liegen nicht vor.</lxbase:a><lxbase:a>Der Kaufpreis von 1 250 000 € wurde sofort vom betrieblichen
+Bankkonto überwiesen.</lxbase:a><lxbase:a>Gebucht wurde:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="24*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="8*" /><cals:colspec colnum="4" colname="4" colwidth="30*" /><cals:colspec colnum="5" colname="5" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Technische Anlagen
+und Maschinen </lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>2
+750 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>an </lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0"><lxbase:a>Bank</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right"><lxbase:a>1 250 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" colsep="0" /><cals:entry colname="3" colsep="0" /><cals:entry colname="4" colsep="0"><lxbase:a>Verbindlichkeiten aus Lieferungen
+und Leistungen</lxbase:a></cals:entry><cals:entry colname="5" align="right"><lxbase:a> 1 500 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Weitere Buchungen sind in diesem Zusammenhang bisher nicht erfolgt.</lxbase:a><lxbase:a><lxbase:fett>5. Sonderposten mit Rücklageanteil</lxbase:fett></lxbase:a><lxbase:a>In der Handelsbilanz auf den 31. Dezember 2009 wurde - wie auch
+schon im Abschluss zum 31. Dezember 2008 - ein Sonderposten mit
+Rücklageanteil nach § 247 Abs. 3, § 273
+HGB (alte Fassung) in Höhe von 300 000 € ausgewiesen. Der
+Ausweis dieses Sonderpostens erfolgte wegen der Bildung einer Rücklage nach § 6b
+EStG im steuerrechtlichen Abschluss aufgrund eines Grundstücksverkaufs
+im September 2008. Die Übertragung der Rücklage
+ist für einen im Mai 2012 vorgesehenen Grundstückserwerb
+geplant.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500012">Teil III: A-B-GmbH &amp; Co.
+KG </lxbase:ueberschrift><lxbase:a><lxbase:fett>Allgemeiner Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>A und B sind Kommanditisten der A-B-GmbH &amp; Co. KG. Die
+KG hat ihren Sitz in Hannover. Geschäftszweck ist der Handel
+mit Finanzdienstleistungsprodukten. A und B sind am Gewinn der KG
+zu jeweils 40 %, die Komplementär-GmbH ist zu
+20 % beteiligt. Gesellschafter der Komplementär-GmbH
+sind A und B zu jeweils 50 %. A ist der Vater von B. Das
+Geschäfts- bzw. Wirtschaftsjahr der KG entspricht dem Kalenderjahr.</lxbase:a><lxbase:a>Die KG hat zum 31. Dezember 2009 folgende - vereinfacht dargestellte
+- Handelsbilanz aufgestellt:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="30*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:colspec colnum="3" colname="3" colwidth="30*" /><cals:colspec colnum="4" colname="4" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2" align="center"><lxbase:a><lxbase:fett>Aktiva</lxbase:fett></lxbase:a></cals:entry><cals:entry namest="3" nameend="4" align="center"><lxbase:a><lxbase:fett>Passiva</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Diverse Aktiva</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>1 300 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapital A</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>400 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Beteiligung X-OHG </lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>400 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapital B</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>400 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapital GmbH</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>200 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right" /><cals:entry colname="3" colsep="0"><lxbase:a>Diverse Passiva</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>700 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right"><lxbase:a><lxbase:fett>1 700 000 €</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3" colsep="0" /><cals:entry colname="4" align="right"><lxbase:a><lxbase:fett>1 700 000 €</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Den Anteil an der X-OHG i. H. v. 400 000 € hatte die
+KG bereits unmittelbar nach ihrer Gründung im Jahr 1989
+erworben. Geschäftszweck der OHG ist der Bau und Verkauf
+von Solaranlagen. Außer der KG ist an der OHG noch der
+X beteiligt, der mit A und B nicht verwandt ist. X und die KG sind
+zu je 50 % beteiligt. Dies entspricht auch der Beteiligung
+am Gewinn und Verlust. Auch bei der OHG entspricht das Geschäfts-
+bzw. Wirtschaftsjahr dem Kalenderjahr.</lxbase:a><lxbase:a>Die - ebenfalls vereinfacht dargestellte - Handelsbilanz der
+X-OHG auf den 31. 12. 2009 sieht wie folgt aus:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:colspec colnum="4" colname="4" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2" align="center"><lxbase:a><lxbase:fett>Aktiva</lxbase:fett></lxbase:a></cals:entry><cals:entry namest="3" nameend="4" align="center"><lxbase:a><lxbase:fett>Passiva</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Diverse Aktiva</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>1 500 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapital X</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>400 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Unbebaute</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right" /><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kapital KG</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>400 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0"><lxbase:a>Grundstücke</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>500 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>Diverse Passiva </lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>1 200 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" align="right"><lxbase:a><lxbase:fett>2 00 000 €</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3" colsep="0" /><cals:entry colname="4" align="right"><lxbase:a><lxbase:fett>2 000 000 €</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>In den Aktiva ruhen stille Reserven in Höhe von 735
+000 €, davon entfallen 50 000 € auf das unbebaute
+Grundstück. Weiterhin existiert ein selbst geschaffener Firmenwert
+in Höhe von 850 000 €.</lxbase:a><lxbase:a><lxbase:fett>Aufgaben:</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Nehmen Sie zu den unten
+dargestellten Einzelsachverhalten 1 bis 3 hinsichtlich der KG und
+der OHG unter handelsrechtlichen und ertragsteuerrechtlichen Gesichtspunkten
+detailliert Stellung und erstellen Sie die Handels- und Steuerbilanz(en)
+der KG und der OHG auf den 31. Dezember 2010 einschließlich
+der erforderlichen Korrekturbuchungssätze. Eventuell erforderliche
+Sonderbilanzen sind nicht zu erstellen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Die KG und die OHG wünschen keine Überleitungsrechnung
+nach § 60 Abs. 2 Satz 1 EStDV, sondern in jedem Fall eine
+Steuerbilanz. Wahlrechte sollen so ausgeübt werden, dass
+sich ein möglichst geringer steuerlicher Gewinn ergibt.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Hinweise</lxbase:fett>:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Gehen Sie für die
+Lösung davon aus, dass es neben den im Aufgabentext aufgeführten
+Geschäftsvorfällen bei der OHG und KG keine weiteren
+gegeben hat.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Die laufende Buchführung der KG wird von A
+persönlich manuell - ohne EDV-Unterstützung -
+erstellt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Schuldzinsen sind weder bei der OHG noch bei der KG
+angefallen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Etwaige Auswirkungen auf die persönliche Einkommensteuer
+der Gesellschafter A, B und X sowie Auswirkungen auf die Körperschaft-
+und Gewerbesteuer der Komplementär-GmbH sind in die Stellungnahmen
+nicht einzubeziehen. Ebenso ist auf steuerliche Aspekte außerhalb
+der Ertragsteuer (z. B. Schenkungsteuer, Grunderwerbsteuer) nicht
+einzugehen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>In Zweifelsfällen ist der Verwaltungsauffassung
+zu folgen. Auf latente Steuern ist nicht einzugehen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Einzelsachverhalte:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a><lxbase:fett>Unbebautes Grundstück</lxbase:fett></lxbase:a><lxbase:a>Bei dem unbebauten Grundstück in der Bilanz der OHG
+(3 000 m2) handelt es sich um Bauland, welches die OHG zulässigerweise
+bilanziert hat und schon seit längerem verkaufen will.
+Aufgrund eines Unfalls in einer benachbarten Chemiefabrik in der
+Nacht zum 2. April 2010 wird das Grundstück jedoch verseucht.
+Der als Ordnungsbehörde zuständige Landkreis Schaumburg
+hat den Betreiber der Chemiefabrik per Verwaltungsakt zur Beseitigung
+der Schäden im Erdreich des Grundstücks verpflichtet.
+Aus der Begründung dieser Verfügung ergibt sich,
+dass der Landkreis aus Gründen der Verhältnismäßigkeit
+bei der Störerauswahl nicht beabsichtigt, die OHG als Eigentümerin
+des Grundstückes ebenfalls für die Schadensbeseitigung heranzuziehen.</lxbase:a><lxbase:a>Es steht allerdings fest, dass die vom Landkreis geforderte Sanierung
+nur dazu führt, dass vom Grundstück keine Gefahren
+für die angrenzenden Grundstücke und das Grundwasser
+mehr ausgehen. Nach einem Sachverständigengutachten, welches
+die OHG eingeholt hat, ist das Grundstück auch nach der
+Sanierung nicht mehr als Bauland verwendbar. Aus diesem Grunde ist
+das Grundstück am Markt nicht mehr zu verkaufen. Die OHG will
+das Grundstück nach der Sanierung als Lagerplatz verwenden.</lxbase:a><lxbase:a>Die OHG hat gegen den Betreiber der Chemiefabrik Schadensersatzforderungen
+geltend gemacht, die vom Betreiber allerdings abgelehnt werden.
+Mit Schriftsatz vom 16. Januar 2011 hat die OHG Klage beim zuständigen
+Landgericht eingereicht. Mit einem Urteil ist jedoch aufgrund der Überlastung des
+Gerichts und der Notwendigkeit weiterer Sachverständigengutachten
+vor Mitte 2014 nicht zu rechnen.</lxbase:a><lxbase:a>Das operative Geschäft und die zukünftigen
+Gewinnerwartungen der OHG werden durch diesen Vorfall nicht beeinträchtigt.</lxbase:a><lxbase:a>Die OHG erfasst den Vorfall in der laufenden Buchführung
+wie folgt:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="34*" /><cals:colspec colnum="2" colname="2" colwidth="17*" /><cals:colspec colnum="3" colname="3" colwidth="7*" /><cals:colspec colnum="4" colname="4" colwidth="26*" /><cals:colspec colnum="5" colname="5" colwidth="16*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Außerplanmäßige Abschreibungen
+auf Sachanlagen</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" align="right"><lxbase:a>499 999 € </lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an</lxbase:a></cals:entry><cals:entry colname="4" colsep="0"><lxbase:a> Unbebaute Grundstücke </lxbase:a></cals:entry><cals:entry colname="5" align="right"><lxbase:a>499 999 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>In der KG wird dieser Geschäftsvorfall ebenfalls erfasst,
+und zwar mit folgendem Buchungssatz:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="36*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:colspec colnum="3" colname="3" colwidth="8*" /><cals:colspec colnum="4" colname="4" colwidth="20*" /><cals:colspec colnum="5" colname="5" colwidth="18*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Abschreibungen auf Finanzanlagen </lxbase:a></cals:entry><cals:entry colname="2" colsep="0" align="right"><lxbase:a>399 999 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an</lxbase:a></cals:entry><cals:entry colname="4" colsep="0"><lxbase:a>Beteiligung X-OHG</lxbase:a></cals:entry><cals:entry colname="5" align="right"><lxbase:a>399 999 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a><lxbase:fett>Aktien der Z-AG</lxbase:fett></lxbase:a><lxbase:a>Unter den diversen Aktiva der KG befinden sich unter anderem
+Finanzanlagen in Form von Aktien der Z-AG mit Sitz in Braunschweig.
+Diese Aktien gehören seit 1990 ununterbrochen zum Anlagevermögen
+der KG. Es handelt sich dabei um 1 000 Aktien, die zum 31. Dezember
+2009 mit einem Wert von je 50 € erfasst wurden. Am 1. März
+2010 wird bei der AG eine, Kapitalerhöhung durchgeführt,
+durch welche der Anteil der KG am Grundkapital auf 4,8 % sinkt.
+Am 21. April 2010 beschloss die Hauptversammlung der AG auf Betreiben
+des mit 95,2 % in Form von Aktien am Grundkapital beteiligten
+Z den Übergang der Aktien der KG auf Z gemäß § 327a
+AktG gegen Barabfindung zum Kurswert im Zeitpunkt der Hauptversammlung
+(80 € je Aktie). Der Beschluss wurde am 5. Juli 2010 ins
+Handelsregister eingetragen. Eine Anfechtung des Beschlusses ist
+nicht mehr möglich. Die Barabfindung wurde am 26. Juli
+2010 auf das Bankkonto der KG überwiesen.</lxbase:a><lxbase:a>In der Buchführung der KG wurde dies von A wie folgt
+gebucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="34*" /><cals:colspec colnum="2" colname="2" colwidth="16*" /><cals:colspec colnum="3" colname="3" colwidth="7*" /><cals:colspec colnum="4" colname="4" colwidth="28*" /><cals:colspec colnum="5" colname="5" colwidth="16*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Anlagenabgang (Finanzanlagen)</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a> 50
+000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" colsep="0" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Einstellung in den
+Sonderposten mit Rücklageanteil nach R 6.6 EStR </lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>30
+000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" colsep="0" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Bank </lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>80
+000 € </lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>an</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0"><lxbase:a>Finanzanlagen</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right"><lxbase:a>50 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" colsep="0" rowsep="0"><lxbase:a>Sonderposten mit Rücklageanteil </lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right"><lxbase:a>30 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" colsep="0" /><cals:entry colname="3" colsep="0" /><cals:entry colname="4" colsep="0"><lxbase:a>Erlöse aus Anlagenabgang </lxbase:a></cals:entry><cals:entry colname="5" align="right"><lxbase:a>80 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Auf Nachfrage erklärt ihnen der A, dass die KG für
+80 000 € Aktien der Y-AG in Syke erwerben will. Dieser
+Erwerb ist noch nicht geschehen, soll aber im Jahr 2011 in jedem
+Fall noch erfolgen. Ein Kapitalertragsteuerabzug ist nicht erfolgt.
+Sowohl die Z-AG als auch die Y-AG sind inländische Versicherungsunternehmen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a><lxbase:fett>Übertragung eines Grundstücks</lxbase:fett></lxbase:a><lxbase:a>A war Eigentümer eines Grundstücks, welches
+mit einem Mietshaus mit insgesamt vier Etagenwohnungen bebaut ist.
+Die Wohnungen vermietete er an fremde Dritte zu Wohnzwecken. Den
+Bauantrag für das Mietshaus hatte er am 1. Februar 2004
+gestellt, das Gebäude wurde am 1. Juni 2005 fertiggestellt.
+Die Herstellungskosten für das Gebäude betrugen
+600 000 €. Die AfA hat A bislang linear vorgenommen. Den
+Grund und Boden hatte A im Oktober 2003 für 150 000 € erworben.</lxbase:a><lxbase:a>Mit Wirkung vom 1. Juni 2010 - Datum des notariellen Vertrages
+- überträgt A das Grundstück auf die
+KG. Nutzen und Lasten gehen zu diesem Zeitpunkt auf die KG über.
+Auf Wunsch des A soll der Wert zur Hälfte dem B "gutgeschrieben" werden.
+Dies wird in den notariellen Vertrag aufgenommen. Am 26. August
+2010 wird die KG im Grundbuch als Eigentümerin eingetragen.
+Der Verkehrswert des Mietshauses beträgt zu diesem Zeitpunkt 500
+000 €, der des Grund und Bodens 150 000 €. Der
+Verkehrswert entspricht dem Teilwert.</lxbase:a><lxbase:a>In der Buchführung der KG ist der Vorgang wie folgt
+erfasst:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="26*" /><cals:colspec colnum="2" colname="2" colwidth="23*" /><cals:colspec colnum="3" colname="3" colwidth="8*" /><cals:colspec colnum="4" colname="4" colwidth="19*" /><cals:colspec colnum="5" colname="5" colwidth="24*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Grund und Boden</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>150
+000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" colsep="0" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Gebäude</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="right"><lxbase:a>500
+000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a> an</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0"><lxbase:a>Kapital A </lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="right"><lxbase:a>325 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" colsep="0" /><cals:entry colname="3" colsep="0" /><cals:entry colname="4" colsep="0"><lxbase:a>Kapital B </lxbase:a></cals:entry><cals:entry colname="5" align="right"><lxbase:a>325 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Abschreibungen für das Gebäude wurden in der
+Buchführung noch nicht erfasst. Die voraussichtliche Nutzungsdauer
+des Gebäudes beträgt noch 50 Jahre.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523385500013">Anlage</lxbase:ueberschrift><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="50*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Kaufmann Georg Herbst</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Ergebnis der Handelsbilanz</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Steuerliches Ergebnis</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Vorläufiger Jahresüberschuss
+2010</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>500 000 €</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>500 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Änderungen laut Einzelsachverhalt "Produktionshalle"</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Änderungen laut Einzelsachverhalt "Multifunktionswerkzeug"</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Änderungen laut Einzelsachverhalt "Maschine"</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Änderungen laut Einzelsachverhalt "Wertpapiere"</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Änderungen laut Einzelsachverhalt "Forderungen"</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Jahresüberschuss nach den vorstehenden Änderungen</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>-</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Außerbilanzielle Korrekturen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>-</lxbase:a></cals:entry><cals:entry colname="3" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Steuerliches Ergebnis nach den vorstehenden Änderungen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>-</lxbase:a></cals:entry><cals:entry colname="3" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Berufsrecht Steuerberater</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bayern</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

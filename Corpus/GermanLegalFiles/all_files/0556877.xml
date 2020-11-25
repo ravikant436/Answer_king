@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" dok-nummer="0556877" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Münster</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>InvZ-1010 - 46 - St 13 - 31</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>InvZ-1010</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>InvZ-1010 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>InvZ-1010 |</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2000-04-18" /></lxbase:daten><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Die Fußnoten sind am Ende des Dokumentes aufgelistet.</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>InvZulG:2</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>InvZulG:3</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>InvZulG:4</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2000" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Investitionszulagengesetz 1999 <lxbase:za /> Bezug:
+Verfügung vom 10. 2. 1999, Az.: <lxbase:az normform="InvZ101046St1331" manuell="nein">InvZ-1010 - 46 - St 13 - 31</lxbase:az></lxbase:a></lxbase:headline></lxbase:titel><lxrvw:vwa-inhalt><lxbase:a>Als
+Anlage übersende ich eine Arbeitshilfe zu den Investitionszulagen
+gem. §§ 2, 3 und 4 InvZulG 99. Die mit der Bezugsverfügung übersandten
+Übersichten zu §§ 3 und 4 InvZulG werden hierdurch ersetzt.</lxbase:a><lxbase:a>Die
+Regelungen des § 2 InvZulG für betriebliche Investitionen stehen
+in einigen Punkten noch immer unter dem Vorbehalt der Zustimmung
+der EU-Kommission (BMF-Schreiben vom 12. 1. 1999, EStG-Kartei NRW
+ESt-Allgem. Nr. 8). Da durch die Neufassung des InvZulG 99 vom 22.
+12. 1999 zumindest einige Bedenken der EU- Kommission ausgeräumt
+wurden, darf § 2 InvZulG 99 nunmehr nur noch hinsichtlich folgender
+Fallgestaltungen nicht angewandt werden:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a) Ersatzinvestitionen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) nach dem 31. 12. 1999 begonnene Investitionen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>In
+allen anderen Fällen kann das InvZulG 99 nunmehr angewandt werden.</lxbase:a><lxbase:a>Hinweis: <lxbase:za /> Es
+ist beabsichtigt, das InvZulG 99 erneut zu ändern. U. a. ist vorgesehen</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>den erhöhten Fördersatz für
+Investitionen in Berlin auf 20 v. H. zu beschränken und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>die Fünf-Jahres-Frist gem.
+§ 2 Abs. 1 und Abs. 2 InvZulG in Fällen, in denen die Investition
+vor dem 1. 1. 2000 begonnen worden ist, durch eine Drei-Jahres-Frist zu
+ersetzen (teilweise Rückgängigmachung der Verlängerung).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Anlage
+1</lxbase:a><lxbase:a align="zentriert"><lxbase:fett><lxbase:unterst>Investitionszulage</lxbase:unterst></lxbase:fett> <lxbase:za /><lxbase:fett><lxbase:unterst>für
+bewegliche Wirtschaftsgüter</lxbase:unterst></lxbase:fett></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="10*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="12*" /><cals:colspec colnum="4" colname="4" colwidth="16*" /><cals:colspec colnum="5" colname="5" colwidth="42*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Betrifft</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Voraussetzungen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Beginn u. Abschluß
+der Investition</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Anmerkungen</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>verarbeitendes Gewerbe und produktionsnahe Dienstleistungen</lxbase:fett></lxbase:a><lxbase:a>Anschaffung/
+Herstellung neuer beweglicher WG</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>§
+2 I, II Nr. 1 InvZulG</lxbase:fett></lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß AV eines Betriebs oder einer Betriebsstätte
+im FörderGeb.</lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß Verbleib in Betriebsstätte im FörderGeb.</lxbase:a><lxbase:a>-
+max. 10 % priv. Nutzung in jedem Jahr des 5-Jahres-Zeitraums</lxbase:a><lxbase:a>-
+kein geringwertiges WG i.S.d. § II EStG, kein Luftfahrzeug, kein
+PKW</lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß Verbleib in Betrieben des verarbeitenden
+Gewerbes oder der produktionsnahen Dienstleistungen</lxbase:a><lxbase:a>-
+keine Investition im Bereich der sensiblen Sektoren gem. Anlage
+zu § 2 II S. 3 InvZulG <lxbase:fn-verw nummer="4" idref="D055687700004" /></lxbase:a><lxbase:a>Bei
+Investitionsbeginn vor dem 01.01.2000 gilt statt des 5:-Jahres-Zeitraums
+ein 3-Jahres-Zeitraum. Wenn die betriebsgewöhnliche Nutzungsdauer
+kürzer als 5 (bzw. 3) Jahre ist, dann ist die betriebsgewöhnliche Nutzungsdauer
+maßgeblich.</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:unterst>Beginn:</lxbase:unterst></lxbase:a><lxbase:a>nach dem 24.08.1997</lxbase:a><lxbase:a><lxbase:unterst>Abschluß</lxbase:unterst> 
+:</lxbase:a><lxbase:a><lxbase:unterst>bei Erstinvestitionen:</lxbase:unterst></lxbase:a><lxbase:a>01.01.1999
+- 31.12.2004</lxbase:a><lxbase:a><lxbase:unterst>bei Ersatzinvestitionen:</lxbase:unterst></lxbase:a><lxbase:a>01.01.1999
+- 31.12.2001</lxbase:a><lxbase:a>(wenn
+in allen Jahren des 5-Jahres-Zeitraums max. 250 ArbN, dann 01.01.1999
+- 31.12.2004)</lxbase:a><lxbase:a>Bei Investitionsbeginn
+vor dem 01.01.2000 gilt statt des 5-Jahres-Zeitraums ein 3-Jahres- Zeitraum (vgl. Spalte 2).</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>wenn
+in allen Jahren des 5-Jahres-Zeitraumes max. 250 ArbN.:</lxbase:fett></lxbase:a><lxbase:a><lxbase:unterst>bei
+Erstinvestitionen:</lxbase:unterst></lxbase:a><lxbase:a>20
+% bei Inv-Beginn vor dem 01.01.2000</lxbase:a><lxbase:a>25
+% bei Inv-Beginn nach
+dem 31.12.1999</lxbase:a><lxbase:a><lxbase:unterst>bei
+Ersatzinvestitionen:</lxbase:unterst> </lxbase:a><lxbase:a>10
+% bei lnv-Abschluß vor dem 01.01.2002</lxbase:a><lxbase:a>5
+% bei Inv-Abschluß 01.01.2002 - 31.12.2004</lxbase:a><lxbase:a><lxbase:fett>wenn mehr
+als 250 ArbN.:</lxbase:fett></lxbase:a><lxbase:a><lxbase:unterst>bei
+Erstinvestitionen:</lxbase:unterst></lxbase:a><lxbase:a>10
+% bei Inv-Beginn vor dem 01.01.2000</lxbase:a><lxbase:a>12,5
+% bei Inv-Beginn nach
+dem 31.12.1999</lxbase:a><lxbase:a><lxbase:unterst>bei
+Ersatzinvestitionen:</lxbase:unterst> </lxbase:a><lxbase:a>5
+% bei Inv-Abschluß vor dem 01.01.2002</lxbase:a><lxbase:a>Bei
+Investitionsbeginn vor dem 01.01.2000 gilt statt des 5-Jahres-Zeitraums
+ein 3-Jahres-Zeitraum (vgl. Spalte 2).</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>-
+maßgeblich für die Einordnung des Betriebes ist die Klassifikation der
+Wirtschaftszweige, Ausgabe 1993 (<lxbase:fn-verw nummer="1" idref="D055687700001" /> Abschn. II)</lxbase:a><lxbase:a>-
+maßgeblich für die Einordnung in das verarbeitende Gewerbe: alle Betriebsstätten
+im FörderGeb., § 2 II Nr. I S. 3 InvZulG</lxbase:a><lxbase:a>-
+maßgeblich für die Einordnung in die produktionsnahen Dienstleistungen:
+alle Betriebsstätten innerhalb und außerhalb des FörderGeb.</lxbase:a><lxbase:a>-
+abschließende Aufzählung der Betriebe der produktionsnahen Dienstleistungen
+in § 2 II Nr. I InvZulG</lxbase:a><lxbase:a>-
+die Grenze von 250 ArbN darf während des gesamten 5-Jahres-Zeitraums
+nicht überschritten werden.</lxbase:a><lxbase:a>-
+Auszubildende sind nicht zu berücksichtigen</lxbase:a><lxbase:a>-
+maßgeblich ist die Zahl der ArbN aller Betriebsstätten innerhalb und
+außerhalb des FörderGeb.</lxbase:a><lxbase:a>-
+Zum Begriff "Erstinvestition" Hinweis auf § 2 VIII InvZulG und <lxbase:fn-verw nummer="2" idref="D055687700002" /> Rz. 1</lxbase:a><lxbase:a>Bei
+Investitionsbeginn vor dem 01.01.2000 gilt statt des 5-Jahres Zeitraums
+ein 3-Jahres-Zeitraum (vgl. Spalte 2).</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Betrifft</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Voraussetzungen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Beginn u. Abschluß
+der Investition</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Anmerkungen</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>kleine und mittlere Handwerksbetriebe</lxbase:fett></lxbase:a><lxbase:a>Anschaffung/
+Herstellung neuer beweglicher WG</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>§
+2 I, II Nr. 2 InvZulG</lxbase:fett></lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß AV eines Betriebs oder einer Betriebsstätte
+im FörderGeb.</lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß Verbleib in Betriebsstätte im FörderGeb.</lxbase:a><lxbase:a>-
+max. 10 % priv. Nutzung in jedem Jahr des 5-Jahres-Zeitraums</lxbase:a><lxbase:a>-
+kein geringwertiges WG i.S.d. § 6 II EStG, kein Luftfahrzeug, kein
+PKW</lxbase:a><lxbase:a>-
+5 Jahre nach lnv-Abschluß dient WG ausschließlich kleinen und mittleren Betrieben (nicht
+mehr als 250 ArbN) des Handwerks</lxbase:a><lxbase:a>-
+keine Investition im Bereich der sensiblen Sektoren gem. Anlage
+zu § 2 II S. 3 InvZulG <lxbase:fn-verw nummer="4" idref="D055687700004" /></lxbase:a><lxbase:a>Bei
+Investitionsbeginn <lxbase:fett>vor dem 01.01.2000</lxbase:fett> 
+ gilt statt des 5-Jahres-Zeitraums ein <lxbase:fett>3-Jahres-Zeitraum.</lxbase:fett> 
+ Wenn die betriebsgewöhnliche Nutzungsdauer kürzer als 5 (bzw. 3) Jahre
+ist, dann ist die betriebsgewöhnliche Nutzungsdauer maßgeblich.</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:unterst>Beginn:</lxbase:unterst></lxbase:a><lxbase:a>nach dem 24.08.1997</lxbase:a><lxbase:a><lxbase:unterst>Abschluß:</lxbase:unterst></lxbase:a><lxbase:a>01.01.1999
+- 31.12.2001</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:unterst>bei
+Erstinvestitionen:</lxbase:unterst></lxbase:a><lxbase:a>10
+% bei Inv-Beginn vor dem 01.01.2000 </lxbase:a><lxbase:a>12,5
+% bei Inv-Beginn nach
+dem 31.12.1999</lxbase:a><lxbase:a><lxbase:unterst>bei
+Ersatzinvestitionen:</lxbase:unterst></lxbase:a><lxbase:a>5
+%</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>-
+als Handwerksbetrieb gilt ein Gewerbe, welches in die Handwerksrolle
+oder das Verzeichnis handwerksähnlicher Betriebe eingetragen ist.
+Begünstigt sind mir Investitionen in diesem eingetragenen Gewerbe
+(§ 2 II Nr. 2 S. 2 InvZulG)</lxbase:a><lxbase:a>-
+der Betrieb darf nicht mehr als 250 ArbN beschäftigen</lxbase:a><lxbase:a>-
+die Grenze von 250 ArbN darf während des gesamten 5-Jahres-Zeitraums
+nicht überschritten werden.</lxbase:a><lxbase:a>-
+Auszubildende sind nicht zu berücksichtigen</lxbase:a><lxbase:a>-
+maßgeblich sind die ArbN aller Betriebsstätten innerhalb und außerhalb
+des FörderGeb, egal, ob sie im eingetragenen Handwerk oder für eine
+nicht begünstigte Tätigkeit tätig sind.</lxbase:a><lxbase:a>-
+Zum Begriff "Erstinvestition" Hinweis auf § 2 VIII InvZulG und <lxbase:fn-verw nummer="2" idref="D055687700002" /> Rz. 1</lxbase:a><lxbase:a>Bei
+Investitionsbeginn vor dem 01.01.2000 gilt statt des 5-Jahres-Zeitraums
+ein 3-Jahres-Zeitraum (vgl. Spalte 2).</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Betrifft</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Voraussetzungen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Beginn u Abschluß
+der Investition</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Anmerkungen</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a><lxbase:fett>kleine und mittlere Betriebe des Groß- oder Einzelhandels
+mit Betriebsstätten des Groß- oder Einzelhandels in den Innenstädten</lxbase:fett></lxbase:a><lxbase:a>Anschaffung/
+Herstellung neuer beweglicher WG</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>§
+2 I, II Nr. 3 InvZulG</lxbase:fett></lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß AV eines Betriebs oder einer Betriebsstätte
+im FörderGeb.</lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß Verbleib in Betriebsstätte im FörderGeb.</lxbase:a><lxbase:a>-
+max. 10 % priv. Nutzung in jedem Jahr des 5-Jahres-Zeitraums</lxbase:a><lxbase:a>-
+kein geringwertiges WG i.S.d. § 6 11 EStG, kein Luftfahrzeug, kein
+PKW</lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß Verbleib in<lxbase:za />kleinen und mittleren Betrieben
+des Groß- oder Einzelhandels (mit nicht mehr als 50 ArbN)<lxbase:za /><lxbase:unterst>und</lxbase:unterst> gleichzeitig
+in Betriebsstätten des Groß- oder Einzelhandels in den Innenstädten</lxbase:a><lxbase:a>-
+keine Investition im Bereich der sensiblen Sektoren gem. Anlage
+zu § 2 II S. 3 InvZulG <lxbase:fn-verw nummer="4" idref="D055687700004" /></lxbase:a><lxbase:a>Bei
+Investitionsbeginn <lxbase:fett>vor dem 01.01.2000</lxbase:fett> 
+ gilt statt des 5-Jahres-Zeitraums ein <lxbase:fett>3-Jahres-Zeitraum.</lxbase:fett> 
+ Wenn die betriebsgewöhnliche Nutzungsdauer kürzer als 5 (bzw. 3) Jahre
+ist, dann ist die betriebsgewöhnliche Nutzungsdauer maßgeblich.</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:unterst>Beginn:</lxbase:unterst></lxbase:a><lxbase:a>nach dem 24.08.1997</lxbase:a><lxbase:a><lxbase:unterst>Abschluß:</lxbase:unterst></lxbase:a><lxbase:a>01.01.1999
+- 31.12.2001</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:unterst>bei
+Erstinvestitionen:</lxbase:unterst></lxbase:a><lxbase:a>10
+% bei Inv-Beginn vor dem 01.01.2000</lxbase:a><lxbase:a>12,5
+% bei Inv-Beginn nach
+dem 31.12.1999</lxbase:a><lxbase:a><lxbase:unterst>bei
+Ersatzinvestitionen:</lxbase:unterst></lxbase:a><lxbase:a>5
+%</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>-
+maßgeblich für die Einordnung des Betriebes ist die Klassifikation der
+Wirtschaftszweige, Ausgabe 1993 (<lxbase:fn-verw nummer="1" idref="D055687700001" /> Abschn. II, <lxbase:fn-verw nummer="3" idref="D055687700003" /> Rz. 2)</lxbase:a><lxbase:a>-
+maßgeblich für die Einordnung des Betriebes ist die Gesamttätigkeit
+mit allen Betriebsstätten innerhalb und außerhalb des FörderGeb.</lxbase:a><lxbase:a>-
+zusätzlich muß nach der Klassifikation der Wirtschaftszweige auch geprüft
+werden, ob die Betriebsstätte eine solche des Groß- oder Einzelhandels
+darstellt. Hier ist nur auf die Tätigkeit der Betriebsstätte abzustellen.</lxbase:a><lxbase:a>-
+die Grenze von 50 ArbN darf während des gesamten 5-Jahres-Zeitraums
+nicht überschritten werden.</lxbase:a><lxbase:a>-
+Auszubildende sind nicht zu berücksichtigen</lxbase:a><lxbase:a>-
+maßgeblich sind die ArbN aller Betriebsstätten innerhalb und außerhalb
+des FörderGeb.</lxbase:a><lxbase:a>-
+die Betriebsstätte muß im gesamten 5-Jahre-Zeitraum im Innenstadtbereich
+liegen. Für die Gewährung der InvZul ist eine Bescheinigung i.S.d.
+§ 2 II Nr. 3 S. 3 InvZulG erforderlich</lxbase:a><lxbase:a>-
+Zum Begriff "Erstinvestition" Hinweis auf § 2 VIII InvZulG und <lxbase:fn-verw nummer="2" idref="D055687700002" /> Rz. 1</lxbase:a><lxbase:a>Bei
+Investitionsbeginn vor dem 01.01.2000 gilt statt des 5-Jahres Zeitraums
+ein 3-Jahres-Zeitraum (vgl. Spalte 2)</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a align="zentriert"><lxbase:fett><lxbase:unterst>Investitionszulage</lxbase:unterst></lxbase:fett> <lxbase:za /> <lxbase:fett><lxbase:unterst>für
+betrieblich genutzte Gebäude</lxbase:unterst></lxbase:fett></lxbase:a><lxbase:a /><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="12*" /><cals:colspec colnum="2" colname="2" colwidth="22*" /><cals:colspec colnum="3" colname="3" colwidth="14*" /><cals:colspec colnum="4" colname="4" colwidth="14*" /><cals:colspec colnum="5" colname="5" colwidth="38*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Betrifft</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Voraussetzungen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Beginn u. Abschluß der Investition</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Anmerkungen</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>verarbeitendes Gewerbe
+und produktionsnahe Dienstleistungen</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Anschaffung
+/ Herstellung neuer Gebäude</lxbase:fett>   (Gebäude, ETW, in Teileigentum stehende Räume u. andere Gebäudeteile, die
+selbständige unbewegliche WG sind)</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>§
+2 III Nr. 1 InvZulG</lxbase:fett></lxbase:a><lxbase:a>-
+Belegenheit des neuen Gebäudes im FörderGeb.</lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß Verwendung in Betrieb des verarbeitenden Gewerbes
+oder der produktionsnahen Dienstleistungen</lxbase:a><lxbase:a>-
+keine Investition im Bereich der sensiblen Sektoren gem. Anlage
+zu § 2 II S. 3 InvZulG <lxbase:fn-verw nummer="4" idref="D055687700004" /></lxbase:a><lxbase:a>-
+Erstinvestition<lxbase:za />zum Begriff "Erstinvestition" Hinweis
+auf § 2 VIII InvZulG u. <lxbase:fn-verw nummer="2" idref="D055687700002" />   Rz. 1<lxbase:za />Bei der Anschaffung
+oder Herstellung neuer Gebäude wird eine Erstinvestition i.d.R.
+vorliegen.- in Anschaffungsfällen darf für das Gebäude noch keine
+InvZul in Anspruch genommen haben</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:unterst>Beginn:</lxbase:unterst></lxbase:a><lxbase:a>nach dem 24.08.1997</lxbase:a><lxbase:a><lxbase:unterst>Abschluß:</lxbase:unterst></lxbase:a><lxbase:a>01.01.1999
+- 31.12.2004</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>10
+% bei Inv-Beginn vor dem 01.01.2000</lxbase:a><lxbase:a>12,5
+% bei Inv-Beginn nach
+dem 31.12.1999</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>-
+Anschaffung eines neuen Gebäudes liegt nur vor bei Anschaffung im
+Jahr der Fertigstellung</lxbase:a><lxbase:a>-
+Zugehörigkeit zum Anlagevermögen eines Betriebes nicht erforderlich</lxbase:a><lxbase:a>-
+maßgeblich für die Einordnung des nutzenden Betriebes ist die Klassifikation
+der Wirtschaftszweige, Ausgabe 1993 (<lxbase:fn-verw nummer="1" idref="D055687700001" />   Abschn. II)</lxbase:a><lxbase:a>-
+maßgeblich für die Einordnung in das verarbeitende Gewerbe: alle
+Betriebsstätten im FörderGeb., § 2 III Nr. 1 i.V.m. II Nr. 1 S.
+3 InvZulG</lxbase:a><lxbase:a>-
+maßgeblich für die Einordnung in die produktionsnahen Dienstleistungen:
+alle Betriebe innerhalb und außerhalb des FörderGeb.</lxbase:a><lxbase:a>-
+abschließende Aufzählung der Betriebe der produktionsnahen Dienstleistungen
+in § 2 II Nr. 1 InvZulG</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Betrifft</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Voraussetzungen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Beginn u. Abschluß der Investition</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Anmerkungen</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>kleine und mittlere Handwerksbetriebe</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Anschaffung
+/ Herstellung neuer Gebäude</lxbase:fett>   (Gebäude, ETW, in Teileigentum stehende Räume u. andere Gebäudeteile, die
+selbständige unbewegliche WG sind)</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>§
+2 III Nr. 2 InvZulG</lxbase:fett></lxbase:a><lxbase:a>-
+Belegenheit des neuen Gebäudes im FörderGeb.</lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß Verwendung in kleinen und mittleren (max.
+250 ArbN) Betrieben des Handwerks</lxbase:a><lxbase:a>-
+keine Investition im Bereich der sensiblen Sektoren gem. Anlage
+zu § 2 II S. 3 InvZulG <lxbase:fn-verw nummer="4" idref="D055687700004" /></lxbase:a><lxbase:a>-
+Erstinvestition<lxbase:za />zum Begriff "Erstinvestition" Hinweis
+auf § 2 VIII InvZulG u. <lxbase:fn-verw nummer="2" idref="D055687700002" />   Rz. 1<lxbase:za />Bei der Anschaffung
+oder Herstellung neuer Gebäude wird eine Erstinvestition i.d.R.
+vorliegen.</lxbase:a><lxbase:a>-
+in Anschaffungsfallen darf für das Gebäude noch keiner InvZul in
+Anspruch genommen haben</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:unterst>Beginn:</lxbase:unterst></lxbase:a><lxbase:a>nach dem 24.08.1997</lxbase:a><lxbase:a><lxbase:unterst>Abschluß:</lxbase:unterst></lxbase:a><lxbase:a>01.01.1999
+- 31.12.2001</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>10
+% bei Inv-Beginn vor dem 01.01.2000</lxbase:a><lxbase:a>12,5
+% bei Inv-Beginn nach
+dem 31.12.1999</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>-
+Anschaffung eines neuen Gebäudes liegt nur vor bei Anschaffung im
+Jahr der Fertigstellung</lxbase:a><lxbase:a>-
+Zugehörigkeit zum Anlagevermögen eines Betriebes nicht erforderlich</lxbase:a><lxbase:a>-
+als Handwerksbetrieb gilt ein Gewerbe, welches in die Handwerksrolle
+oder das Verzeichnis handwerksähnlicher Betriebe eingetragen ist.<lxbase:za />Das
+Gebäude muß ausschließlich oder nahezu ausschließlich (mind. 90
+%) im eingetragenen Gewerbe Verwendung finden (vgl. BFH v. 17.11.1998, BStBl.
+99 II S. 837)</lxbase:a><lxbase:a>-
+die Grenze von 250 ArbN darf während des gesamten 5-Jahres-Zeitraums
+nicht überschritten werden.</lxbase:a><lxbase:a>-
+Auszubildende sind nicht zu berücksichtigen</lxbase:a><lxbase:a>-
+maßgeblich sind die ArbN aller Betriebsstätten innerhalb und außerhalb
+des FörderGeb., egal, ob sie im eingetragenen Handwerk oder für
+eine nicht begünstigte Tätigkeit tätig sind.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Betrifft</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Voraussetzungen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Beginn u. Abschluß der Investition</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Anmerkungen</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a><lxbase:fett>kleine und mittlere Betriebe
+des Groß- oder Einzelhandels mit Betriebsstätten des Groß- oder Einzelhandels
+in den Innenstädten</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Anschaffung
+/ Herstellung neuer Gebäude</lxbase:fett>   (Gebäude, ETW, in Teileigentum stehende Räume u. andere Gebäudeteile, die
+selbständige unbewegliche WG sind)</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>§
+2 III Nr. 3 InvZulG</lxbase:fett></lxbase:a><lxbase:a>-
+Belegenheit des neuen Gebäudes im FörderGeb.</lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß Verwendung in kleinen und mittleren Betrieben des
+Groß- oder Einzelhandels (max. 50 ArbN) und gleichzeitig in Betriebsstätten
+des Groß- oder Einzelhandels in den Innenstädten i.S.d. § 2 Abs.
+2 Nr. 3 S. 3 InvZulG</lxbase:a><lxbase:a>-
+keine Investition im Bereich der sensiblen Sektoren gem. Anlage
+zu § 2 II S. 3 InvZulG <lxbase:fn-verw nummer="4" idref="D055687700004" /></lxbase:a><lxbase:a>-
+Erstinvestition<lxbase:za />zum Begriff "Erstinvestition" Hinweis
+auf § 2 VIII InvZulG u. <lxbase:fn-verw nummer="2" idref="D055687700002" />   Rz. 1<lxbase:za />Bei der Anschaffung
+oder Herstellung neuer Gebäude wird eine Erstinvestition i.d.R.
+vorliegen.</lxbase:a><lxbase:a>-
+in Anschaffungsfällen darf für das Gebäude noch keiner InvZul in
+Anspruch genommen haben</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:unterst>Beginn:</lxbase:unterst></lxbase:a><lxbase:a>nach dem 24.08.1997</lxbase:a><lxbase:a><lxbase:unterst>Abschluß:</lxbase:unterst></lxbase:a><lxbase:a>01.01.1999.- 31.12.2001</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>10
+% bei Inv-Beginn vor dem 01.01.2000</lxbase:a><lxbase:a>12,5
+%bei Inv-Beginn nach
+dem 31.12.1999</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>-
+Anschaffung eines neuen Gebäudes liegt nur vor bei Anschaffung im
+Jahr der Fertigstellung</lxbase:a><lxbase:a>-
+Zugehörigkeit zum Anlagevermögen eines Betriebes nicht erforderlich</lxbase:a><lxbase:a>-
+maßgeblich für die Einordnung des Betriebes ist die Klassifikation
+der Wirtschaftszweige, Ausgabe 1993 (<lxbase:fn-verw nummer="1" idref="D055687700001" />   Abschn. II, <lxbase:fn-verw nummer="3" idref="D055687700003" />   Rz. 2)</lxbase:a><lxbase:a>-
+maßgeblich für die Einordnung des Betriebes ist die Gesamttätigkeit
+mit allen Betriebsstätten innerhalb und außerhalb des FörderGeb.</lxbase:a><lxbase:a>-
+zusätzlich muß nach der Klassifikation der Wirtschaftszweige auch
+geprüft werden, ob die Betriebsstätte eine solche des Groß- oder
+Einzelhandels darstellt. Hier ist mir auf die Tätigkeit der Betriebsstätte
+abzustellen.</lxbase:a><lxbase:a>-
+die Grenze von 50 ArbN darf während des gesamten 5-Jahres-Zeitraums
+nicht überschritten werden.</lxbase:a><lxbase:a>-
+Auszubildende sind nicht zu berücksichtigen</lxbase:a><lxbase:a>-
+maßgeblich sind die ArbN aller Betriebsstätten innerhalb und außerhalb
+des FörderGeb.</lxbase:a><lxbase:a>-
+die Betriebsstätte muß im gesamten 5-Jahreszeitraum im Innenstadtbereich
+liegen. Für die Gewährung der InvZul ist eine Bescheinigung i.S.d.
+§ 2 II Nr. 3 S. 3 InvZulG erforderlich.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Soweit das InvZulG 99 hinsichtlich
+bestimmter Tatbestandsmerkmale identisch ist <lxbase:az normform="mit-dem-InvZulG-91/93" manuell="nein">mit dem InvZulG 91/93</lxbase:az> /96
+und dem FördG, kann auf die BMF-Schreiben zu diesen Regelungen zurückgegriffen
+werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Zum <lxbase:fett>FördGeb.</lxbase:fett> i.S.d.
+§ 2 InvZulG gehören die <lxbase:fett>neuen Bundesländer einschl. West-
+und Ost-Berlin</lxbase:fett> , § 1 Abs. 2 InvZulG. <lxbase:fett>Für
+Berlin</lxbase:fett> bestehen jedoch <lxbase:fett>Sonderregelungen</lxbase:fett> ,
+vgl. § 10 InvZulG (z.B. keine InvZul i.H.v. 25 v.H. in Berlin gem.
+§ 10 Abs. 4 InvZulG)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Die Regelung des § 2 InvZulG
+in der Fassung des Gesetzes vom 18.08.1997 steht in einigen Punkten
+noch unter <lxbase:fett>EU-Vorbehalt</lxbase:fett>  . Da sich jedoch
+einige Bedenken der EU-Kommission bereits mit der geänderten Version
+des InvZulG vorn 22.12.1999 erledigt haben, kann das InvZulG 99
+nur hinsichtlich folgender Fallgestaltungen nicht angewandt werden:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+Investitionen mit Investitionsbeginn nach dem 31.12.1999</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) Ersatzinvestitionen</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>Die InvZul für Investitionen,
+die zu einem Investitionsvorhaben gehören, das die Anmeldevoraussetzungen
+gem. dem <lxbase:fett>multisektoralen Regionalbeihilferahmen</lxbase:fett> für
+große Investitionsvorhaben (ab Projekt-Gesamtkosten von 50 Mio.
+ECU) erfüllt, darf erst festgesetzt werden, wenn die Europäische
+Kommission die höchstzulässige Beihilfeintensität festgelegt hat.
+Sollte ein anmeldepflichtiges Vorhaben vorliegen, wird die FinVerw.
+von den Stellen informiert, die für die außersteuerlichen Beihilfen
+zuständig sind (vgl. BMF vom 18.09.1998, IV B 3 – S 2056 – <lxbase:az normform="130/98" manuell="nein">130/98</lxbase:az>, EStG-Kartei
+NRW ESt-Allgem. Nr. 7)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a><lxbase:fett>Bemessungsgrundlage</lxbase:fett> für
+die Investitionszulage gem. § 2 InvZulG:</lxbase:a><lxbase:a>AK und HK der begünstigten WG</lxbase:a><lxbase:a>+ im betreffenden Jahr geleistete Anzahlungen auf AK und
+entstandenen Teil-HK für begünstigte Investitionen der Folgejahre</lxbase:a><lxbase:a>- vor dem 01.01.1999 geleistete Anzahlungen auf AK und
+entstandene Teil-HK</lxbase:a><lxbase:a>- Anzahlungen auf AK und Teil-HK, die in den vorab genannten
+AK und HK enthalten sind, soweit hierfür in den Vorjahren bereits
+InvZul gewährt wurde</lxbase:a><lxbase:a>= BMG für die InvZul</lxbase:a><lxbase:a>(keine Kürzung um Zuschüsse aus öffentlichen und privaten
+Mitteln)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>bei der <lxbase:fett>Einordnung
+in einen Betrieb der produktionsnahen Dienstleistungen</lxbase:fett> ist
+eine genaue Beurteilung der Tätigkeit des Betriebes erforderlich,
+weil die in § 2 II Nr. 1 InvZulG bezeichneten Tätigkeiten in den
+unteren Einstufungsebenen der Klassifikation der Wirtschaftszweige
+zu finden sind.</lxbase:a><lxbase:a>Die Zuordnung erfolgt "von oben nach unten", d.h. der
+Betrieb ist zunächst dem Abschnitt mit dem höchsten Anteil zuzurechnen;
+beim nächsten Schritt der Abteilung, die innerhalb des Abschnitts
+am wichtigsten ist, dann der Gruppe, die innerhalb der Abteilung
+am bedeutendsten ist, darauf der Klasse, die innerhalb der Gruppe
+den größten Anteil hat und letztlich der bedeutendsten Unterklasse
+innerhalb der Klasse der Klassifikation der Wirtschaftszweige. (Hinweis
+auf Tz. 3.3 der Klassifikation der Wirtschaftszweige)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a><lxbase:fett><lxbase:unterst>Beispiel</lxbase:unterst></lxbase:fett> (Vorlage:
+Rosarius, "Die neue Investitionsförderung - alle Investitionszulagen
+für die Neuen Länder und Berlin ab 1999"):</lxbase:a><lxbase:a>In einem einheitlichen. Betrieb werden folgende Tätigkeiten
+ausgeübt, mit denen die aufgeführten Wertschöpfungsanteile erwirtschaftet
+werden:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="85*" /><cals:colspec colnum="2" colname="2" colwidth="15*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Ingenieurleistungen
+im Bereich bautechnische Gesamtplanung (74.20.4):</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>30
+%</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Architektenleistungen
+im Hochbau (74.20.1):</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>25
+%</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Bauträger im Wohnungsbau
+(70.11.3):</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>45 %</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Auf den ersten Blick erscheint der Betrieb als Betrieb
+des nicht begünstigten Grundstückswesens (Unterklasse 70.11.3) einzustufen
+zu sein. Bei Anwendung der "Top-down-Methode" ergibt sich folgende
+Abgrenzung (jeweils Position mit dem höchsten Wertschöpfungsanteil
+in der Gliederungsstufe):</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="78*" /><cals:colspec colnum="2" colname="2" colwidth="22*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Abschnitt
+K:</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>100
+%</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>davon
+Abteilung 74:</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>55%</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>davon
+Gruppe 74.2:</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>55
+%</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>davon
+Klasse 74.20:</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>55
+%</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>davon Unterklasse
+74.20.4:</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>30 %</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Der Betrieb ist demnach als Ingenieurbüro für bautechnische
+Gesamtplanung insgesamt begünstigt, obwohl mit dieser Tätigkeit
+nicht die absolut höchste Wertschöpfungsquote erwirtschaftet wird.
+Dies ergibt sich daraus, daß die nicht begünstigte Tätigkeit im
+Architekturbereich der gleichen Abteilung innerhalb der Klassifikation
+der Wirtschaftszweige zuzurechnen ist wie die Ingenieurleistung.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a align="zentriert"><lxbase:unterst><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:unterst> <lxbase:za /><lxbase:unterst><lxbase:fett>für
+fremden Wohnzwecken dienende Gebäude</lxbase:fett></lxbase:unterst></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="12*" /><cals:colspec colnum="2" colname="2" colwidth="11*" /><cals:colspec colnum="3" colname="3" colwidth="14*" /><cals:colspec colnum="4" colname="4" colwidth="20*" /><cals:colspec colnum="5" colname="5" colwidth="43*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Maßnahme</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Investitionsabschluß</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Voraussetzungen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Anmerkungen</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a><lxbase:fett>§
+3 I Nr. 1 InvZulG</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>nachträgliche Herstellungsarbeiten an Gebäuden</lxbase:fett></lxbase:a><lxbase:a>(Gebäude,
+ETW, in Teileigentum stehende Räume und andere Gebäudeteile, die
+selbständige WG sind, <lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 1)</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>	01.01.1999
+-31.12.2004	</lxbase:fett></lxbase:a><lxbase:a>(Beendigung der Herstellungsarbeiten)</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>15
+%</lxbase:fett></lxbase:a><lxbase:a>der nachtr. HK,
+die ab 01.01.1999 entstanden sind</lxbase:a><lxbase:a>beachte: Bagatellbetrag 5000
+DM und HB 1200 DM/qm</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>-
+Gebäude liegt im FörderGeb.<lxbase:za />(5 neue Bundesländer und Ost-Berlin,
+§ 1 II InvZulG)</lxbase:a><lxbase:a>-
+Gebäude ist (wirtsch.) Eigentum des Investors</lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß dient Gebäude der entgeltlichen Überlassung
+zu Wohnzwecken (<lxbase:fn-verw nummer="5" idref="D055687700005" /> 
+, Rz. 8)</lxbase:a><lxbase:a>-
+Gebäude vor dem 01.01.1991 fertiggestellt</lxbase:a><lxbase:a>-
+keine erhöhte Absetzung für betroffene Investition</lxbase:a><lxbase:a>-
+Wird das Gebäude veräußert u. hat der Erwerber für das Gebäude FördG-AfA
+für vor dem 01.01.1999 geleistete Anzahlungen auf AK in Anspruch genommen, kann
+der Veräußerer insoweit keine InvZul in Anspruch nehmen (§ 3 I S.
+4 InvZulG).</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>-
+HB 1200 DM/qm: maßgebl. ist Wohnfläche des Gebäudes (bzw. des selbst.
+Gebäudeteils), die der entgeltl. Überlassung zu Wohnzwecken dient,
+bei Beendigung der Arbeiten (<lxbase:fn-verw nummer="5" idref="D055687700005" />  , Rz. 13, vgl. §§ 42 - 44 2. BerechnungsVO, <lxbase:fn-verw nummer="6" idref="D055687700006" /> )</lxbase:a><lxbase:a>-
+HB 1200 DM/qm bezieht sich auf die Se. aller Aufwendungen i.S.d. §
+3 I Nr. 1 - 3 InvZulG in den Jahren 1999 - 2004 ohne Anzahlungen
+und Teil-HK vor dem 01.01.1999 (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 14 u. 15)</lxbase:a><lxbase:a>-
+Verwendung zu eigenen Wohnzwecken schädlich</lxbase:a><lxbase:a>-
+Wenn Miete &lt; 50% der ortsübliche Miete, ist von unentgeltlicher Nutzungsüberlassung
+auszugehen (<lxbase:fn-verw nummer="5" idref="D055687700005" /> ,
+Rz. 8)</lxbase:a><lxbase:a>-
+Der 5-jährige Verwendungszeitraum zu Vermietungszwecken kann bei
+Veräußerung auch durch den Erwerber fortgeführt werden (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 8)</lxbase:a><lxbase:a>-
+Eine Ferienwohnung ist nicht begünstigt, wenn sie nur zur vorübergehenden
+Beherbergung bestimmt ist. (Keine Wohnzwecke, R 42a 1 EStR 97)</lxbase:a><lxbase:a>-
+Wenn durch Baumaßnahme nach dem 31.12.90 anderes
+WG entstanden ist, ist Gebäude <lxbase:az normform="nicht-vor-01/01" manuell="nein">nicht vor 01.01</lxbase:az>.91
+fertiggestellt (<lxbase:fn-verw nummer="5" idref="D055687700005" /> ,
+Rz. 2).</lxbase:a><lxbase:a>-
+nur Inanspruchnahme erhöhter Absetzung für dieselben nachtr. Herstellungsarbeiten
+schädlich</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="9*" /><cals:colspec colnum="2" colname="2" colwidth="8*" /><cals:colspec colnum="3" colname="3" colwidth="13*" /><cals:colspec colnum="4" colname="4" colwidth="28*" /><cals:colspec colnum="5" colname="5" colwidth="42*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Maßnahme</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Investitionsabschluß</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Voraussetzungen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Anmerkungen</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a><lxbase:fett>§
+3 I Nr. 2 InvZulG</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>nachträgliche Herstellungsarbeiten im Zusammenhang
+mit der Anschaffung eines Gebäudes</lxbase:fett></lxbase:a><lxbase:a>(Gebäude, ETW, in Teileigentum stehende Räume
+und andere Gebäudeteile, die selbständige WG sind, <lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 1)</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>	01.01.1999
+-31.12.2004	</lxbase:fett></lxbase:a><lxbase:a>(Beendigung der nachtr. Herstellungsarbeiten u. Übergang des wirtsch. Eigentums)</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>15
+%</lxbase:fett></lxbase:a><lxbase:a>der
+AK, soweit auf nachträgl. Herstellungsarbeiten entfallend (ohne Kaufpreisanteil für GruBo und
+Altbau und ohne Anzahlungen vor dem 01.01.99)</lxbase:a><lxbase:a>beachte:<lxbase:za />Bagatellbetrag 5000
+DM und HB 1200 DM/qm</lxbase:a><lxbase:a>bei
+Veräußerung gleichartiger Modernisierungsobjekte an verschiedene Erwerber:<lxbase:za />einheitliche
+u. ges. Feststellung der Kaufpreisaufteilung durch Betriebs-FA des Veräußerers
+(<lxbase:fn-verw nummer="7" idref="D055687700007" /> , Abschn. 5)</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>-
+Gebäude liegt im FörderGeb. (5 neue Bundesländer und Ost-Berlin)</lxbase:a><lxbase:a>-
+die Herstellungsarbeiten müssen<lxbase:za />• vom Veräußerer oder
+im Auftrag des Veräußerers<lxbase:za />• nach Abschluß des Kaufvertrages
+durchgeführt werden</lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß dient Gebäude der entgeltlichen Überlassung
+zu Wohnzwecken (<lxbase:fn-verw nummer="5" idref="D055687700005" /> 
+, Rz. 8)</lxbase:a><lxbase:a>-
+Gebäude vor dem 01.01.1991 fertiggestellt</lxbase:a><lxbase:a>-
+keine erhöhte Absetzung für betroffene Investition (für dieselben
+nachtr. Herstellungsarbeiten)</lxbase:a><lxbase:a>-
+keine Inanspruchnahme v. InvZul durch bisherigen Eigentümer oder
+Zwischenerwerber (§ 3 I S. 3 InvZulG) für dieses Gebäude (<lxbase:fn-verw nummer="5" idref="D055687700005" />  , Rz. 4)</lxbase:a><lxbase:a>-
+Wird das Gebäude veräußert u. hat der Erwerber für das Gebäude FördG-AfA für
+vor dem 01.01.1999 geleistete Anzahlungen auf AK in Anspruch genommen,
+kann der Veräußerer insoweit keine InvZul in Anspruch nehmen (§ 3
+I S. 4 InvZulG).</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>-
+Es muß sich um nachträgliche Herstellungsarbeiten des Veräußerers
+handeln, Erhaltungsaufwendungen des Veräußerers sind nicht begünstigt
+(<lxbase:fn-verw nummer="5" idref="D055687700005" />  , Rz. 10)</lxbase:a><lxbase:a>-
+HB 1200 DM/qm: maßgebl. ist Wohnfläche des Gebäudes (bzw. des selbst.
+Gebäudeteils), die der entgelt. Vermietung dient, bei Beendigung
+der Arbeiten (<lxbase:fn-verw nummer="5" idref="D055687700005" /> ,
+Rz. 13, vgl. §§ 42 - 44 2. BerechnungsVO, <lxbase:fn-verw nummer="6" idref="D055687700006" />  )</lxbase:a><lxbase:a>-
+HB 1200 DM/qm bezieht sich auf die Se. aller Aufwendungen i.S.d.
+§ 3 1 Nr. 1 - 3 InvZulG in den Jahren 1999 - 2004 ohne Anzahlungen
+und Teil-HK vor dem 01.01. 1999 (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 14 u. 15)</lxbase:a><lxbase:a>-
+Verwendung zu eigenen Wohnzwecken schädlich</lxbase:a><lxbase:a>-
+Wenn Miete &lt; 50% der ortsübliche Miete, ist von unentgeltlicher Nutzungsüberlassung
+auszugehen (<lxbase:fn-verw nummer="5" idref="D055687700005" /> ,
+Rz. 8)</lxbase:a><lxbase:a>-
+Der 5-jährige Verwendungszeitraum zu Vermietungszwecken kann bei
+Veräußerung auch durch den Erwerber fortgeführt werden (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 8)</lxbase:a><lxbase:a>-
+Eine Ferienwohnung ist nicht begünstigt, wenn sie nur zur vorübergehenden
+Beherbergung bestimmt ist. (Keine Wohnzwecke, R 42a I EStR 97)</lxbase:a><lxbase:a>-
+Wenn durch Baumaßnahme nach dem 31.12.90 anderes
+WG entstanden ist, ist Gebäude <lxbase:az normform="nicht-vor-01/01" manuell="nein">nicht vor 01.01</lxbase:az>.91
+fertiggestellt (<lxbase:fn-verw nummer="5" idref="D055687700005" /> ,
+Rz. 2).</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="8*" /><cals:colspec colnum="2" colname="2" colwidth="8*" /><cals:colspec colnum="3" colname="3" colwidth="15*" /><cals:colspec colnum="4" colname="4" colwidth="15*" /><cals:colspec colnum="5" colname="5" colwidth="54*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Maßnahme</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Investitionsabschluß</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Voraussetzungen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Anmerkungen</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a><lxbase:fett>§
+3 I Nr. 3</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>InvZulG Erhaltungsarbeiten an Gebäuden</lxbase:fett></lxbase:a><lxbase:a>(Gebäude, ETW, in Teileigentum stehende Räume und andere Gebäudeteile, die selbständige WG sind, <lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 1)</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>01.01.1999
+-31.12.2004</lxbase:fett></lxbase:a><lxbase:a>(Beendigung der Erhaltungsarbeiten)</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>15
+%</lxbase:fett></lxbase:a><lxbase:a>der
+Aufwendungen für Erhaltungsarbeiten (ohne Anzahlungen vor dem 01.01.99)</lxbase:a><lxbase:a>Wenn Erhaltungsarbeiten
+im maßgebl. Kalenderjahr beendet: Zahlungstermin unmaßgeblich</lxbase:a><lxbase:a>Wenn Erhaltungsarbeiten
+im Kalenderjahr nicht beendet: InvZul nur für geleistete Anzahlungen
+auf Erhaltungsaufwendungen (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 11)</lxbase:a><lxbase:a>beachte:<lxbase:za />Bagatellbetrag 5000
+DM und HB 1200 DM/qm</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>-
+Gebäude liegt im FörderGeb. (5 neue Bundesländer und Ost-Berlin,
+§ 1 II InvZulG)</lxbase:a><lxbase:a>-
+Gebäude ist (wirtsch.) Eigentum des Investors</lxbase:a><lxbase:a>-
+5 Jahre nach lnv-Abschluß dient Gebäude der entgeltlichen Überlassung
+zu Wohnzwecken (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz.
+8)</lxbase:a><lxbase:a>-
+Gebäude vor dem 01.01.1991 fertiggestellt</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>-
+nur Erhaltungsarbeiten, die der Anspruchsberechtigte selbst durchfuhrt oder
+durchführen läßt. Keine Begünstigung für Erhaltungsaufwendungen
+des Veräußerers in Anschaffungsfällen (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 10).</lxbase:a><lxbase:a>-
+HB 1200 DM/qm: maßgebl. ist Wohnfläche des Gebäudes (bzw. des selbst.
+Gebäudeteils), die der entgelt. Vermietung dient, bei Beendigung
+der Arbeiten (<lxbase:fn-verw nummer="5" idref="D055687700005" /> ,
+Rz. 13, vgl. §§ 42 - 44 2. BerechnungsVO, <lxbase:fn-verw nummer="6" idref="D055687700006" />  )</lxbase:a><lxbase:a>-
+HB 1200 DM/qm bezieht sich auf die Se. aller Aufwendungen i.S.d.
+§ 3 1 Nr. 1 - 3 InvZulG in den Jahren 1999 - 2004 ohne Anzahlungen
+und Teil-HK vor dem 01.01.1999 (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 14 u. 15)</lxbase:a><lxbase:a>-
+Verwendung zu eigenen Wohnzwecken schädlich</lxbase:a><lxbase:a>-
+Wenn Miete &lt; 50% der ortsübliche Miete, ist von unentgeltlicher
+Nutzungsüberlassung auszugehen (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 8)</lxbase:a><lxbase:a>-
+Der 5-jährige Verwendungszeitraum zu Vermietungszwecken kann bei
+Veräußerung auch durch den Erwerber fortgeführt werden (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 8)</lxbase:a><lxbase:a>-
+Eine Ferienwohnung ist nicht begünstigt, wenn sie nur zur vorübergehenden
+Beherbergung bestimmt ist. (Keine Wohnzwecke, R 42a I EStR 97)</lxbase:a><lxbase:a>-
+Wenn durch Baumaßnahme nach dem 31.12.90 anderes
+WG entstanden ist, ist Gebäude <lxbase:az normform="nicht-vor-01/01" manuell="nein">nicht vor 01.01</lxbase:az>.91
+fertiggestellt (<lxbase:fn-verw nummer="5" idref="D055687700005" /> ,
+Rz. 2).</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="12*" /><cals:colspec colnum="2" colname="2" colwidth="8*" /><cals:colspec colnum="3" colname="3" colwidth="8*" /><cals:colspec colnum="4" colname="4" colwidth="22*" /><cals:colspec colnum="5" colname="5" colwidth="50*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Maßnahme</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Investitionsabschluß</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Voraussetzungen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Anmerkungen</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a><lxbase:fett>§
+3 I Nr. 4 InvZulG</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Anschaffung/ Herstellung neuer Gebäude</lxbase:fett></lxbase:a><lxbase:a>(Gebäude,
+ETW, in Teileigentum stehende Räume und andere Gebäudeteile, die
+selbständige WG sind, <lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 1)</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>01.01.1999-31.12.2001</lxbase:fett></lxbase:a><lxbase:a>(Zeitpunkt
+der Anschaffung oder Fertigstellung)</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>10 %</lxbase:fett></lxbase:a><lxbase:a>der AK/HK (ohne Anzahlungen/Teil-HK vor dem 01.01.1999)</lxbase:a><lxbase:a>beachte:<lxbase:za />Bagatellbetrag 5000 DM und
+I IB 4000 DM/qm</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>-
+Gebäude liegt im FörderGeb. (5 neue Bundesländer und Ost-Berlin,
+§ 1 II InvZulG)</lxbase:a><lxbase:a>-
+5 Jahre nach Inv-Abschluß dient Gebäude der entgeltlichen Überlassung
+zu Wohnzwecken (<lxbase:fn-verw nummer="5" idref="D055687700005" />  ,
+Rz. 8)</lxbase:a><lxbase:a>-
+Belegenheit im Zeitpunkt der Anschaffung/Herstellung in Sanierungs-, Erhaltungs-
+oder Kerngebiet (oder in einem aufgrund der Bebauung der näheren
+Umgebung dem Kerngebiet entsprechenden Gebiet)<lxbase:za />Nachweis
+durch Bescheinigung der Gemeinde (<lxbase:fn-verw nummer="5" idref="D055687700005" />  , Rz. 6 u. 7)</lxbase:a><lxbase:a>-
+bei Anschaffung: Anschaffung im Jahr der Fertigstellung</lxbase:a><lxbase:a>-
+keine Inanspruchnahme v. InvZul durch bisherigen Eigentümer oder Zwischenerverber
+(§ 3 1 S. 3 InvZulG) für dieses Gebäude (<lxbase:fn-verw nummer="5" idref="D055687700005" />  , Rz. 4)</lxbase:a><lxbase:a>-
+bei Herstellung: Wird das Gebäude veräußert, u. hat der Erwerber
+für das Gebäude FördG-AfA für vor dem 01.01.1999 geleistete Anzahlungen
+auf AK in Anspruch genommen, kann der Veräußerer insoweit keine
+InvZul in Anspruch nehmen, § 3 I S. 4 InvZulG</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>-
+HB 4000 DM/qm: maßgebl. ist Wohnfläche des Gebäudes (bzw. des selbst. Gebäudeteils
+(<lxbase:fn-verw nummer="5" idref="D055687700005" />  , Rz. 17,
+vgl. §§ 42 - 44. 2. BerechnungsVO, <lxbase:fn-verw nummer="6" idref="D055687700006" /> )</lxbase:a><lxbase:a>-
+HB 4000 DM/qm bezieht sich auf die Se. aller Aufwendungen i.S.d.
+§ 3 I Nr. 4 InvZulG in den Jahren 1999 - 2001. Einzubeziehen sind
+die Teil-HK u. Anzahlungen auf AK vor dem 01.01.99 (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 17)</lxbase:a><lxbase:a>-
+Verwendung zu eigenen Wohnzwecken schädlich</lxbase:a><lxbase:a>-
+Wenn Miete &lt; 50% der ortsübliche Miete, ist von unentgeltlicher
+Nutzungsüberlassung auszugehen (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 8)</lxbase:a><lxbase:a>-
+Der 5-jährige Verwendungszeitraum zu Vermietungszwecken kann bei
+Veräußerung auch durch den Erwerber fortgeführt werden (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 8)</lxbase:a><lxbase:a>-
+Eine Ferienwohnung ist nicht begünstigt, wenn sie nur zur vorübergehenden Beherbergung
+bestimmt ist. (Keine Wohnzwecke, R 42a I EStR 97)</lxbase:a><lxbase:a>-
+Es muß ein Neubau im bautechnischen Sinn vorliegen. Die Herstellung
+eines anderen Gebäudes (R 43 V EStR) führt nicht zu einem neuen
+Gebäude i.S.d. § 3 I Nr. 4 InvZulG (<lxbase:fn-verw nummer="5" idref="D055687700005" /> , Rz. 5)</lxbase:a><lxbase:a>-
+Die Belegenheitsbescheinigung der Gemeinde ist materiellrechtliche
+Voraussetzung für die InvZul-Gewährung und Grundlagenbescheid (i.S.d.
+§ 171 X AO)</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:fett><lxbase:unterst>Berechnung
+der BMG</lxbase:unterst></lxbase:fett> (vgl. Fn. 5, Rz. 9)</lxbase:a><lxbase:a><lxbase:kursiv>Getrennt
+nach Investitionen gem. § 3 I Nr. 1 - 3 und nach § 3 I Nr. 4 InvZulG
+99 vornehmen</lxbase:kursiv></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="4" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="31*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:colspec colnum="3" colname="3" colwidth="32*" /><cals:colspec colnum="4" colname="4" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry nameend="2" namest="1"><lxbase:a>a)
+Fälle des § 3 1 Nr. 1 - 3 InvZulG 99</lxbase:a></cals:entry><cals:entry nameend="4" namest="3"><lxbase:a>b)
+Fälle des3 1 Nr. 4 Inv7,01G 99</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry nameend="4" namest="1"><lxbase:a>1.
+Schritt</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>HB
+1200 DM/qm x qm Wohnfläche</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>HB
+4000 DM/qm x qm Wohnfläche</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>./.
+Invest-Volumen der Vorjahre ab 01.01.99 gem. § 3 I Nr. 1 - 3 InvZulG
+insgesamt (einschl. Anzahlungen u. Teil-HK, die bei InvZul der Vorjahre
+berücksichtigt wurden)</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>	./.
+bisherige AK/HK der Vorjahre (einschl. Anzahlungen und Teil-HK,
+die bei InvZul der Vorjahre berücksichtigt wurden, und	 Anzahlungen
+und Teil-HK vor dem 01.01.99)	</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1"><lxbase:a>=	
+verbliebener HB (kein negativer Betrag) <lxbase:fett>(1)</lxbase:fett></lxbase:a></cals:entry><cals:entry colsep="0" colname="2" /><cals:entry colsep="0" colname="3"><lxbase:a>=
+	verbliebener HB (kein negativer Betrag) <lxbase:fett>(4)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry nameend="4" namest="1"><lxbase:a>2.
+Schritt </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Se.
+der Aufwendungen gem. § 3 I Nr. 1 - 3 InvZulG</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>Se.
+der Aufwendungen gem. § 3 I Nr. 4 InvZulG = verbliebener HB (kein negativer
+Betrag)</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>./.
+Anzahlg. u. Teil-HK vor dem 01.01.99 (soweit vorab enthalten)</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>./.
+Anzahlg. u. Teil-HK vor dem 01.01.99 (soweit vorab enthalten)</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>./.
+Anzahlg. u. Teil-HK (ab 1999) für die in Vorjahren InvZul gewährt wurde
+(soweit vorab in Se. der Aufw. enthalten)</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>./.
+Anzahlg. u. Teil-HK (ab 1999) für die in Vorjahren InvZul gewährt wurde
+(soweit vorab in Se. der Aufw. enthalten)</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>=
+Invest-Volumen des Jahres <lxbase:fett>(2)</lxbase:fett></lxbase:a></cals:entry><cals:entry colsep="0" colname="2" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>=
+Invest-Volumen des Jahres <lxbase:fett>(5)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>./.
+verbliebenen HB übersteigendes Invest-Volumen des Jahres <lxbase:fett>(2 ./.
+1)</lxbase:fett> (mind. 0,- DM)</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>./.
+verbliebenen HB übersteigendes Invest-Volumen des Jahres <lxbase:fett>(5
+./. 4)</lxbase:fett> (mind. 0,- DM)</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1"><lxbase:a>=
+	begünstigtes Invest-Volumen des Jahres <lxbase:fett>(3)</lxbase:fett></lxbase:a></cals:entry><cals:entry colsep="0" colname="2" /><cals:entry colsep="0" colname="3"><lxbase:a>=
+begünstigtes Invest-Volumen des Jahres <lxbase:fett>(6)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry nameend="4" namest="1" rowsep="0"><lxbase:a>3.
+Schritt</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry colname="2" rowsep="0" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>begünstigtes
+Invest-Volumen des Jahres <lxbase:fett>(6)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry colname="2" rowsep="0" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>./.
+Bagatellbetrag 5.000 DM <lxbase:fett>(7)</lxbase:fett> (max. begünstigtes
+Invest-Vol. d. Jahres <lxbase:fett>(6)</lxbase:fett> )</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry colname="2" rowsep="0" /><cals:entry colsep="0" colname="3"><lxbase:a>=
+BMG für InvZul gem. § 3 I Nr. 4 InvZulG (10 %)</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1"><lxbase:a>4.
+Schritt</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" /><cals:entry colsep="0" colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Bagatellbetrag</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>5.000
+DM</lxbase:a></cals:entry><cals:entry colsep="0" colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>./.
+Bagatellbetrag soweit im 3. Schritt abgezogen <lxbase:fett>(7)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colsep="0" colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>=
+restlicher Bagatellbetrag <lxbase:fett>(8)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colsep="0" colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>begünstigtes
+Investitionsvolumen des Jahres <lxbase:fett>(3)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colsep="0" colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>./.
+restlicher Bagatellbetrag <lxbase:fett>(8)</lxbase:fett> (max. begünstigtes
+Invest-Vol. d. Jahres <lxbase:fett>(3)</lxbase:fett> )</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colsep="0" colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>=
+BMG für InvZul gem. § 3 I Nr. 1-3 InvZulG (15 %)</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colsep="0" colname="3" /><cals:entry colname="4" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a> die Regelung des § 3 InvZulG
+steht nicht unter Vorbehalt der Zustimmung der EU-Kommission. Die
+InvZul gem. § 3 InvZulG kann daher festgesetzt werden</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a><lxbase:fett>In Übergangsfällen</lxbase:fett> 
+ (Investitionsbeginn vor dem 1. 1. 1999 und Investitionsbeschluß
+nach dem 31. 12. 1998) ist die ESt-Erklärung 1998 des Antragstellers beizuziehen
+(keine InvZul für Teil-HK und Anzahlungen auf AK vor dem 1. 1. 1999)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a><lxbase:fett>Zuschüsse</lxbase:fett> aus
+öffentlichen und privaten Mitteln mindern die BMG für die InvZul nicht
+(Hinweis auf BMF v. 28. 8. 1991, EStG-Kartei NRW InvZulG Nr. 5).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett><lxbase:unterst>Beispielsfälle
+zu § 3 InvZulG 99</lxbase:unterst></lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>(übernommen
+von der OFD Karlsruhe)</lxbase:fett></lxbase:a><lxbase:a>Fall
+1</lxbase:a><lxbase:a>Sachverhalt</lxbase:a><lxbase:a>A
+stellte im Januar 1998 ein zur Vermietung bestimmtes Wohnhaus in
+Potsdam fertig, das in einem förmlich festgelegten Sanierungsgebiet
+liegt. Die Herstellungskosten betrugen 600.000 DM. Im Jahr 2001
+entstehen nachträgliche Herstellungskosten i. H. von 80.000 DM für
+den Ausbau des bisher nicht nutzbaren Dachbodens (40 qm) zu einer
+Wohnung.</lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>A
+kann im Jahr 1998 Sonder-AfA nach § 3 Satz 2 Nr. 1 FördG i. V. m.
+§ 4 Abs. 2 Satz 2 Nr. 1 FördG i. H. von 25 v. H. aus 600.000 DM
+= 150.000 DM geltend machen. Der Begünstigungszeitraum für die Sonder-
+AfA umfaßt die Jahre 1998 - 2002.</lxbase:a><lxbase:a>Gleichwohl
+können im Jahr 2001 die nachträglichen Herstellungskosten nicht
+in die Bemessungsgrundlage für die Sonder-AfA einbezogen werden.
+Wegen der zeitlichen Befristung für begünstigte Investitionen nach
+dem FördG können für nachträgliche Herstellungskosten, die nach
+dem 31. 12. 1998 entstehen, in keinem Fall Sonder-AfA in Anspruch
+genommen werden (der a. A. von Zitzmann, <lxprod:doknr-verw linkend="HT0148496">DB 1998 S. 952</lxprod:doknr-verw>  ,
+ist nicht zu folgen).</lxbase:a><lxbase:a>Die
+Bemessungsgrundlage für die lineare Gebäude-AfA erhöht sich im Jahr
+2001 um 80.000 DM auf 680.000 DM. Der Restwert zum 31. 12. 2002
+ermittelt sich wie folgt:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="76*" /><cals:colspec colnum="2" colname="2" colwidth="7*" /><cals:colspec colnum="3" colname="3" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Baukosten
+gesamt:</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0" /><cals:entry align="right" colname="3" rowsep="0"><lxbase:a>680.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Sonder-AfA
+§§ 3 Satz 2 Nr. 1, 4 Abs. 2 Satz 2 Nr. 1 FördG</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0"><lxbase:a>./.</lxbase:a></cals:entry><cals:entry align="right" colname="3" rowsep="0"><lxbase:a>150.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>lineare
+AfA § 7 Abs. 4 Nr. 2 a EStG</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0" /><cals:entry align="right" colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>-
+1998 – 2000 (600.000 DM x 2 v.H. = 12.000 DM x 3 Jahre)</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0"><lxbase:a>./.</lxbase:a></cals:entry><cals:entry align="right" colname="3" rowsep="0"><lxbase:a>36.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>-
+2001 – 2002 (680.000 DM x 2 v.H. = 13.600 DM x 2 Jahre)</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2"><lxbase:a>./.</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>27.200
+DM </lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Restwert</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" /><cals:entry align="right" colname="3"><lxbase:a>466.800
+DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Die
+Restwert-AfA beträgt ab 2003 jeweils 1/45 des Restwerts (466.800 <lxbase:az normform="DM-x-1/45" manuell="nein">DM x 1/45</lxbase:az> ) =
+10.374 DM.</lxbase:a><lxbase:a>Investitionszulage
+kann nicht gewährt werden, da das InvZulG 1999 nachträgliche Herstellungsarbeiten
+nur an vor dem 1. 1. 1991 fertiggestellten Gebäuden begünstigt.</lxbase:a><lxbase:a>Fall
+2</lxbase:a><lxbase:a>Sachverhalt</lxbase:a><lxbase:a>Sachverhalt
+wie Fall 1 mit der Abweichung, dass A vor Abschluss der Baumaßnahmen
+an dem Dachgeschoss Wohnungseigentum begründete.</lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Durch
+die Begründung des Wohnungseigentums entsteht ein erstmals neues
+Wirtschaftsgut (BMF-Schreiben vom 10. 7. 1996, <lxprod:doknr-verw linkend="HT0131668">BStBl I S. 689</lxprod:doknr-verw> ,
+Anhang 35 I EStH 1998, Dachgeschosserlass, Rz. 9 und 10<lxbase:fn-verw nummer="8" idref="D055687700008" />  ). Eine Förderung gemäß
+§ 3 Abs. 1 Nr. 4 InvZulG 1999 ist für das Jahr 2001 somit in folgender
+Höhe möglich:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="79*" /><cals:colspec colnum="2" colname="2" colwidth="21*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Baukosten
+des Dachgeschosses (höchstens 4.000 DM x 40 qm = 160.000 DM)</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>80.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Selbstbehalt</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>5.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>begünstigte
+Baukosten</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>75.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Investitionszulage
+§ 3 Abs. 1 Nr. 4, Abs. 4 Nr. 2 InvZulG 1999 10 v.H.</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>7.500
+DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Fall
+3</lxbase:a><lxbase:a>Sachverhalt</lxbase:a><lxbase:a>B
+schloss am 20. 12. 1998 einen Kaufvertrag mit einem Bauträger für
+den Erwerb einer noch zu sanierenden Eigentumswohnung (Wohnfläche
+100 qm) in Riesa ab. Der Kaufpreis betrug 450.000 DM, davon entfallen
+auf den Grund und Boden 50.000 DM, auf das Altgebäude 100.000 DM
+und auf die Sanierung 300.000 DM. Der Abschluss der Sanierung und
+der Übergang von Nutzen und Lasten erfolgten im Jahr 1999. B leistete
+im Jahr 1998 eine Anzahlung von 225.000 DM.</lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>B
+kann 40 v. H. Sonder-AfA für die in 1998 geleistete Anzahlung auf
+die Sanierungsaufwendungen in Anspruch nehmen. Von der Anzahlung
+i. H. von 225.000 DM entfallen 150.000 DM auf die Sanierungsmaßnahme
+(225.000 DM x 300/450). Die Sonder-AfA beträgt somit (150.000 DM
+x 40 v. H. =) 60.000 DM.</lxbase:a><lxbase:a>Für
+1999 kann B Investitionszulage in folgender Höhe in Anspruch nehmen:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="75*" /><cals:colspec colnum="2" colname="2" colwidth="6*" /><cals:colspec colnum="3" colname="3" colwidth="19*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Sanierungsaufwendungen
+(anteilige Anschaffungskosten)</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0" /><cals:entry align="right" colname="3" rowsep="0"><lxbase:a>300.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Anzahlung
+1998</lxbase:a></cals:entry><cals:entry colsep="0" colname="2"><lxbase:a>./. </lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>150.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry colsep="0" colname="2" rowsep="0" /><cals:entry align="right" colname="3" rowsep="0"><lxbase:a>150.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>begünstigt
+sind höchstens 100 qm x 1.200 DM</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0" /><cals:entry align="right" colname="3" rowsep="0"><lxbase:a>120.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Selbstbehalt</lxbase:a></cals:entry><cals:entry colsep="0" colname="2"><lxbase:a>./.</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>5.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Bemessungsgrundlage</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0" /><cals:entry align="right" colname="3" rowsep="0"><lxbase:a>115.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Investitionszulage
+§ 3 Abs. 1 Nr. 2, Abs., 4 Nr. 1 InvZulG 1999 15 v.H.</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" /><cals:entry align="right" colname="3"><lxbase:a>17.250
+DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Fall
+4</lxbase:a><lxbase:a>Sachverhalt</lxbase:a><lxbase:a>Sachverhalt
+wie Fall 3 mit der Abweichung, dass <lxbase:az normform="B1998" manuell="nein">B 1998</lxbase:az> eine Anzahlung von 450.000 DM
+leistete.</lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Da
+die Fertigstellung des Objekts im Jahr 1999 erfolgt, ist die Anzahlung
+in voller Höhe des Kaufpreises nicht willkürlich (R 45 Abs. 5 EStR
+1998).</lxbase:a><lxbase:a>Für
+die im Jahr 1998 geleistete Anzahlung kann B Sonder-AfA nach den
+§§ 3 Satz 2 Nr. 3, 4 Abs. 2 Satz 1 Nr. 3 b FördG in Höhe von (40
+v. H. aus 300.000 DM =) 120.000 DM in dem Begünstigungszeitraum
+1998 - 2002 in Anspruch nehmen. Eine Förderung nach dem InvZulG
+1999 kommt nicht in Betracht, da vor dem 1. 1. 1999 geleistete Anzahlungen
+nicht begünstigt sind (§ 3 Abs. 3 InvZulG 1999).</lxbase:a><lxbase:a>Fall
+5</lxbase:a><lxbase:a>Sachverhalt</lxbase:a><lxbase:a>C
+ist Eigentümer eines im Jahr 1961 errichteten, Wohnzwecken dienenden
+Mehrfamilienhauses (Wohnfläche 300 qm) in Cottbus, an dem er die
+Bäder erneuern ließ. Die Reparaturarbeiten wurden im Zeitraum von
+Dezember 1998 bis Januar 1999 durchgeführt. Im Dezember 1998 leistete
+er eine Abschlagszahlung i. H. von 25.000 DM. Nach Abschluss der
+Baumaßnahme im Januar 1999 zahlte er den Restbetrag von 75.000 DM.</lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die
+Abschlagszahlung von 25.000 DM auf die Reparaturarbeiten ist als
+Werbungskosten bei den Einkünften aus Vermietung und Verpachtung
+im Veranlagungszeitraum 1998 zu berücksichtigen. Der 1999 gezahlte
+Restbetrag von 75.000 DM ist im Jahr 1999 als Werbungskosten bei
+den Einkünften aus Vermietung und Verpachtung abzugsfähig.</lxbase:a><lxbase:a>Für
+die im Jahr 1999 abgeschlossenen Erhaltungsmaßnahmen kann zusätzlich
+eine Investitionszulage nach § 3 Abs. 1 Nr. 3 InvZulG gewährt werden.</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="73*" /><cals:colspec colnum="2" colname="2" colwidth="7*" /><cals:colspec colnum="3" colname="3" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Modernisierungskosten</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0" /><cals:entry align="right" colname="3" rowsep="0"><lxbase:a>100.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Anzahlung
+1998</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2"><lxbase:a>./.</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>25.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry colsep="0" align="right" colname="2" rowsep="0" /><cals:entry align="right" colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>begünstigungsfähiges
+Volumen (höchstens 1.200 DM x 300 qm = 360.000 DM)</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0" /><cals:entry align="right" colname="3" rowsep="0"><lxbase:a>75.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Selbstbehalt</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2"><lxbase:a>./.</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>5.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Bemessungsgrundlage</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0" /><cals:entry align="right" colname="3" rowsep="0"><lxbase:a>70.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Investitionszulage
+§ 3 Abs. 1 Nr. 3, Abs. 4 Nr. 1 InvZulG 1999 15 v.H.</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" /><cals:entry align="right" colname="3"><lxbase:a>10.500
+DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a align="zentriert"><lxbase:fett><lxbase:unterst>Investitionszulage</lxbase:unterst></lxbase:fett> <lxbase:za /><lxbase:fett><lxbase:unterst>für
+eigenen Wohnzwecken dienende Wohnung</lxbase:unterst></lxbase:fett></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="10*" /><cals:colspec colnum="2" colname="2" colwidth="9*" /><cals:colspec colnum="3" colname="3" colwidth="10*" /><cals:colspec colnum="4" colname="4" colwidth="15*" /><cals:colspec colnum="5" colname="5" colwidth="56*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Maßnahme</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Investitionsabschluß</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Investitionszulage</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Voraussetzungen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Anmerkungen</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a><lxbase:fett>§
+4 InvZulG</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>•	 nachträgliche Herstellungsarbeiten	und	</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>• Erhaltungsarbeiten</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>an Wohnung im eigenen Haus</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>01.01.1999
+-31.12.2004</lxbase:fett></lxbase:a><lxbase:a>(Vornahme
+der nachträgl. Herstellungs- u. Erhaltungsarbeiten)</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>15
+%</lxbase:fett></lxbase:a><lxbase:a>der <lxbase:unterst>geleisteten</lxbase:unterst> 
+ Zahlungen ab01.01.1999</lxbase:a><lxbase:a>beachte:<lxbase:za />Bagatellbetrag 5000 DM/anno und Höchstbetrag 40.000
+DM (Se. 1999 - 2004)</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>-
+Wohnung liegt im FörderGeb. (5 neue Bundesländer und Ost-Berlin)</lxbase:a><lxbase:a>-
+Wohnung ist (wirtsch.) Eigentum des Investors</lxbase:a><lxbase:a>-
+Wohnung vor dem 01.01.1991 fertiggestellt</lxbase:a><lxbase:a>-
+Wohnung dient<lxbase:za />• bei Beendigung der Arbeiten<lxbase:za />•
+eigenen Wohnzwecken</lxbase:a><lxbase:a>-
+Aufwendungen nicht begünstigt, <lxbase:unterst>soweit</lxbase:unterst> <lxbase:za />-
+BA oder WK vorliegen oder<lxbase:za />- Förderung gem. § 10 e, § 10
+f oder § 10 i EStG oder EigZulG erfolgt</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>-
+Die BMG für die InvZul mindert sich um Zuschüsse aus öffentlichen
+und privaten Mitteln.</lxbase:a><lxbase:a>-
+Der Höchstbetrag (40.000 DM) wird um die Aufw. i. Zush. mit der
+gleichen Wohnung gekürzt, für die bereits ein Abzugsbetrag gem.
+§ 7 FördG gewährt wurde, § 4 II Nr. 3 S. 3 InvZulG</lxbase:a><lxbase:a>-
+HB (40.000 DM) und Selbstbehalt (5.000 DM) wird bei Miteigentumsanteil
+entsprechend anteilig berücksichtigt</lxbase:a><lxbase:a>-
+Ist durch Herstellungsarbeiten nach dem 31.12.90 ein
+anderes oder neues Gebäude entstanden, kann keine InvZul gem. §
+4 InvZulG gewährt werden.</lxbase:a><lxbase:a>-
+Nutzung zu eigenen Wohnzwecken liegt auch bei unentgeltlicher Überlassung
+an Angehörige (§ 15 AO) zu Wohnzwecken vor (Unentgeltlichkeit ist
+auch gegeben bei Miete, die geringer als 50 % der ortsüblichen Miete ist,
+vgl. BMF v. 24.08.98, Rz. 8, EStG-Kartei NRW InvZulG Nr. 18).</lxbase:a><lxbase:a>-
+keine Objektverbrauchsregelung (wie bei § 10 e EStG und EigZulG)</lxbase:a><lxbase:a>-
+Eine Ferienwohnung ist nicht begünstigt, wenn sie nur zur vorübergehenden
+Unterbringung bestimmt ist. (Keine eigenen Wohnzwecke, R 42a I EStR
+97)</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="4" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="32*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:colspec colnum="3" colname="3" colwidth="32*" /><cals:colspec colnum="4" colname="4" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>1.
+Schritt:</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>2.
+Schritt:</lxbase:a></cals:entry><cals:entry align="right" colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="right" colname="2"><lxbase:a>40.000
+DM<lxbase:fn-verw nummer="9" idref="D055687700009" /></lxbase:a></cals:entry><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>Se
+der Zahlungen im betroffenen Kalenderjahr für nachträgt. HK und Erhaltungsaufwendungen
+(begünstigte Zahlungen)</lxbase:a></cals:entry><cals:entry align="right" colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>./.
+Aufwendungen, für die bisher bereits ein Abzugsbetrag gem. § 7 FördG für
+die gleiche Wohnung* gewährt wurde</lxbase:a></cals:entry><cals:entry align="right" colname="2" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>./.
+Selbstbehalt</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>5.000
+DM*</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>./.
+bisher i.R.d. § 4 InvZulG 99 berücksichtigte Aufwendungen* </lxbase:a></cals:entry><cals:entry align="right" colname="2" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>=
+BMG vor HB-Begrenzung <lxbase:fett>(2)</lxbase:fett></lxbase:a></cals:entry><cals:entry align="right" colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>=
+verbliebener HB <lxbase:fett>(1)</lxbase:fett></lxbase:a></cals:entry><cals:entry align="right" colname="2" /><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>		./.
+Zahlungen (abzüglich Selbstbehalt), soweit sie den verbliebenen
+HB übersteigen (<lxbase:fett>(2)</lxbase:fett>   ./. <lxbase:fett>(1)</lxbase:fett> )
+(mind. 0,- DM)		</lxbase:a></cals:entry><cals:entry align="right" colname="4" /></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1" /><cals:entry align="right" colname="2" /><cals:entry colsep="0" colname="3"><lxbase:a>=
+BMG für InvZul gem. § 4 InvZulG (15 %)</lxbase:a></cals:entry><cals:entry align="right" colname="4" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxrvw:vwa-inhalt></lxrvw:text-rspvwa><lxbase:fussnoten><lxbase:fussnote id="D055687700001" nummer="1"><lxbase:a>BMF-Schreiben
+vom 30. 12. 1994, EStG-Kartei NRW InvZulG Nr. 10</lxbase:a></lxbase:fussnote><lxbase:fussnote id="D055687700002" nummer="2"><lxbase:a>BMF-Schreiben
+vom 1. 10. 1997, EStG-Kartei NRW ESt-Allgem. Nr. 3, IV</lxbase:a></lxbase:fussnote><lxbase:fussnote id="D055687700003" nummer="3"><lxbase:a>BMF-Schreiben
+vom 12. 2. 1996, EStG-Kartei NRW InvZulG Nr. 11</lxbase:a></lxbase:fussnote><lxbase:fussnote id="D055687700004" nummer="4"><lxbase:a>zu
+"Verarbeitung und Vermarktung landwirtschaftl. Produkte": Vfg. v.
+14. 5. 1999, <lxbase:az normform="InvZ101042St1331" manuell="nein">InvZ
+1010 - 42 - St 13 - 31</lxbase:az> , EStG-Kartei NRW InvZulG Nr.
+3002 </lxbase:a></lxbase:fussnote><lxbase:fussnote id="D055687700005" nummer="5"><lxbase:a>BMF-Schreiben
+vom 24.08.1998, EStG-Kartei NRW InvZulG Nr. 18</lxbase:a></lxbase:fussnote><lxbase:fussnote id="D055687700006" nummer="6"><lxbase:a>vgl.
+EStH 1998 Anhang 4 III (S. 1092)</lxbase:a></lxbase:fussnote><lxbase:fussnote id="D055687700007" nummer="7"><lxbase:a>Vfg.
+vom 01.03.2000, <lxbase:az normform="S1998100St1331" manuell="nein">S
+1998 - 100 - St 13 - 31</lxbase:az> , EStG-Kartei NRW FördG Nr.
+3000</lxbase:a></lxbase:fussnote><lxbase:fussnote id="D055687700008" nummer="8"><lxbase:a>EStG-Kartei
+NRW § 7 EStG Fach 3 Nr. 12</lxbase:a></lxbase:fussnote><lxbase:fussnote id="D055687700009" nummer="9"><lxbase:a>jeweils
+ggf. anteilig nach Miteigentumsanteil</lxbase:a></lxbase:fussnote></lxbase:fussnoten><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Steuerliche Förderungsgesetze</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Nordrhein-Westfalen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:deskriptoren> Kw/00/38 </lxbase:deskriptoren></lxbase:allgemeine-angaben></lxrvw:rspvwa>

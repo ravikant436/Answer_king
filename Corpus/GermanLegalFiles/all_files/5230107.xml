@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="5230107" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Koblenz</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2233 A - St 31 1</lxbase:aktenzeichen><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2006-04-12" ts="nein" /></lxbase:daten><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Für Wirtschaftsjahr<lxbase:az normform="2005/20" manuell="nein"> 2005/20</lxbase:az>
+06 siehe OFD Koblenz
+S-2233 A - St 31 1 v. 2. 1. 2007</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:4/1</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:4/3</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:6/2</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:7g</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:13</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:13a</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2006" /></lxbase:jahre><lxbase:zitate><lxbase:passiv-zitate><lxbase:vwa-zitat>OFD Koblenz S-2233 A - St 31 1 v. 2. 1. 2007</lxbase:vwa-zitat></lxbase:passiv-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Einkommensteuerbesteuerung der nicht Buch führenden Landwirte;</lxbase:a><lxbase:a>hier: Ermittlung des Gewinns aus Obst- und Gemüsebau
+für das Wirtschaftsjahr<lxbase:az normform="2004/20" manuell="nein"> 2004/20</lxbase:az>
+05</lxbase:a><lxbase:a>Anlage: Richtwerttabellen für den Obst- und Gemüsebau;
+Wj.<lxbase:az normform="2004/20" manuell="nein"> 2004/20</lxbase:az>
+05</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700001"><lxbase:a>1	 Zur Ertragslage im Obst- und Gemüsebau</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700002"><lxbase:a>1.1 	Obstbau </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700003"><lxbase:a>1.2 	Gemüsebau </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700004"><lxbase:a>2 	Allgemeines</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700005"><lxbase:a>2.1	 Betriebseinnahmen</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700006"><lxbase:a>2.1.1 	Ansatz
+von Richtwerten lt. Anlagen 1 und 2</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700007"><lxbase:a>2.1.2 Vernichtung
+von Buchführungsunterlagen oder sonstigen Aufzeichnungen
+durch höhere Gewalt</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700008"><lxbase:a>2.1.3 Besonderer
+Anbau beim Gemüsebau</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700009"><lxbase:a>2.1.4 In den
+Richtwerten nicht enthaltene Betriebseinnahmen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700010"><lxbase:a>2.1.5 Großmarktabrechnungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700011"><lxbase:a>2.2 	Betriebsausgaben</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700012"><lxbase:a>2.2.1	 Sachliche
+Kosten </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700013"><lxbase:a>2.2.2 Mit dem
+pauschalen Kostenansatz nicht abgegoltene Aufwendungen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700014"><lxbase:a>2.2.3	 Folienanbau </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700015"><lxbase:a>2.2.4 AfA</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700016"><lxbase:a>2.3	 Zur Anwendung
+der Richtwerte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700017"><lxbase:a>3	 Gewinnermittlung
+nach § 4 Abs. 3 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700018"><lxbase:a>4 	Gewinnermittlung
+nach § 4 Abs. 1 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700019"><lxbase:a>5	 Gewinnermittlung
+nach Durchschnittssätzen (§ 13 a EStG)</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700020"><lxbase:a>5.1 Anwendungsvoraussetzungen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700021"><lxbase:a>	5.2 Abgrenzung
+der landwirtschaftlichen von der gärtnerischen Nutzung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700022"><lxbase:a>	5.3 Pauschalierter
+Gewinnzuschlag</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700023"><lxbase:a>	5.4 Antrag
+nach § 13a Abs. 2 EStG auf eine anderweitige Gewinnermittlung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700024"><lxbase:a>6	 Wechsel
+der Gewinnermittlungsart</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700025"><lxbase:a>7 	Vordruck
+"Anlage Obstbau" oder "Anlage Gemüsebau"</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700026"><lxbase:a>8 	Ansparabschreibungen
+bei Obstanlagen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700027"><lxbase:a>Anlage 1</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700029"><lxbase:a>Richtwerte
+für den Obstbau; Wj. 2004/2005</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700028"><lxbase:a>Anlage 2</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523010700030"><lxbase:a>Richtwerte
+für den Gemüsebau; Wj. 2004/2005</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:a>Soweit die nachfolgenden Ausführungen in den Tz. 2 -
+5 zur Gewinnermittlung aus Obst- und Gemüsebau gegenüber
+den bisher maßgebenden Grundsätzen lt. Rdvfg.
+vom 21.01.1999 - S-2233 A - St 31 2 - und vom 19.12.2000 - S-2233
+A - St 32 3 - Ergänzungen oder - über redaktionelle
+Anpassungen hinaus - Änderungen beinhalten, sind diese
+durch Randstrich kenntlich gemacht.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700001">1	 Zur Ertragslage im
+Obst- und Gemüsebau</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523010700002">1.1 	Obstbau </lxbase:ueberschrift><lxbase:a>Die Ernte des Wirtschaftsjahres (Wj.)<lxbase:az normform="2004/20" manuell="nein"> 2004/20</lxbase:az>
+05 war bei allen Obstsorten
+gut. Hagel-und Frostschäden wurden nur örtlich
+festgestellt.</lxbase:a><lxbase:a>Allgemein herrschte beim Obst ein schlechtes Preisniveau. Die
+Preise für Süßkirschen, Erdbeeren und
+Holunder sind gegenüber dem Vorjahr leicht angestiegen,
+die für Zwetschen und Sauerkirschen hingegen etwas niedriger
+als im Vorjahr.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700003">1.2 	Gemüsebau </lxbase:ueberschrift><lxbase:a>Die schlechten Absatzmöglichkeiten und unterdurchschnittlichen
+Preise haben sich in 2004 auch im 2. Halbjahr fortgesetzt. Die Preise
+für die ersten Kulturen im Frühjahr waren unterdurchschnittlich,
+im weiteren Verlauf des Wj. zeigte sich jedoch eine positive Entwicklung
+bei den meisten Kulturen. Insgesamt ergab sich eine etwas günstigere
+Erlös-Kosten Relation.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700004">2 	Allgemeines</lxbase:ueberschrift><lxbase:a>Die Einkünfte aus der Bewirtschaftung von Obst- und
+Gemüsebauflächen gehören gem. § 13
+Abs. 1 Nr. 1 EStG zu den Einkünften aus Land- und Forstwirtschaft.
+Bei land- und forstwirtschaftlichen Betrieben mit Obst- und Gemüsebau
+sowie bei reinen Obst- und Gemüsebaubetrieben (im Nachfolgenden
+als Obst- und Gemüsebaubetrieb bezeichnet), deren Gewinn
+nicht nach § 13a Abs. 3 - 5 EStG ermittelt wird, sind die
+Besteuerungsgrundlagen nach § 162 AO zu schätzen,
+wenn dem Finanzamt aufgrund fehlender Buchführung bzw.
+Aufzeichnungen keine ausreichenden Unterlagen für die Feststellung
+des tatsächlichen Gewinns zur Verfügung gestellt
+werden.</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D523010700005">2.1	 Betriebseinnahmen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523010700006">2.1.1 	Ansatz von Richtwerten
+lt. Anlagen 1 und 2</lxbase:ueberschrift><lxbase:a>Werden die Betriebseinnahmen für den Obst- und Gemüsebau
+eines gemischten land- und forstwirtschaftlichen Betriebes oder
+eines Betriebes mit ausschließlich entsprechenden Sonderkulturen <lxbase:unterst>erstmalig</lxbase:unterst>
+ nicht
+oder nicht vollständig erklärt, sind sie <lxbase:fett>grundsätzlich</lxbase:fett>
+ mit den
+in den Anlagen 1 und 2 aufgeführten mittleren Richtwerten
+zu schätzen. Hierbei handelt es sich um Bruttobeträge,
+d. h. einschl. Umsatzsteuer. Sie beziehen sich auf einen Ertragsbaum,
+Ertragsstrauch bzw. auf ein Ar (siehe Spalten 2 - 4 der "Anlage
+Obstbau" und Spalten 2 - 6 der "Anlage Gemüsebau").</lxbase:a><lxbase:a>Um einen Anhaltspunkt für eine sachgerechte Schätzung
+mit über den mittleren Richtwerten liegenden Werten zu
+bieten, sind in der Anlage 1 und 2 neben mittleren Richtwerten zusätzlich
+obere Richtwerte enthalten. Hierbei handelt es sich nicht um Höchstwerte,
+sondern um über dem Mittelwert liegende gemittelte Werte.</lxbase:a><lxbase:a>Sowohl die Mittelwerte als auch die oberen Werte basieren auf
+Erhebungen in einer Vielzahl vergleichbarer landwirtschaftlicher
+Betriebe im Bereich der Oberfinanzdirektion Koblenz.</lxbase:a><lxbase:a>Die für die Ermittlung der Richtwerte durchgeführten
+Erhebungen haben gezeigt, dass eine Vielzahl von Obst- und Gemüsebaubetrieben
+den Mittelwert zum Teil erheblich und eine Reihe von Betrieben den
+oberen Wert überschreiten.</lxbase:a><lxbase:a>Durch die Gewinnschätzung darf nach der Rechtsprechung
+keine Besserstellung gegenüber solchen Steuerpflichtigen
+eintreten, die ihren steuerlichen Verpflichtungen durch das Führen
+ordnungsmäßiger Bücher und Aufzeichnungen
+in vollem Umfang nachkommen (BFH-Urteil vom 07.04.92, BStBl II S. 854).
+Deshalb kann das Finanzamt insbesondere eine wiederholte Gewinnschätzung
+als Anhaltspunkt dafür ansehen, dass der Gewinn aus Land-
+und Forstwirtschaft in der Vergangenheit zu niedrig geschätzt
+worden ist.</lxbase:a><lxbase:a>Vor allem in derartigen Fällen können um Sicherheitszuschläge
+erhöhte Richtwerte angesetzt werden. Diese erhöhten
+Werte sind dem Land- und Forstwirt - spätestens in der
+Anlage zum Steuerbescheid - mitzuteilen.</lxbase:a><lxbase:a>Über die Höhe und die Staffelung der Sicherheitszuschläge
+entscheidet das Finanzamt nach pflichtgemäßem
+Ermessen unter Berücksichtigung sämtlicher Umstände
+des Einzelfalls.</lxbase:a><lxbase:a>Der in der Anlage 1 und 2 aufgeführte obere Wertansatz
+kann im Allgemeinen Ausgangsbasis der Schätzung für
+das entsprechende Wj. sein, wenn in mindestens fünf vorangegangenen
+Wj. Gewinnschätzungen erfolgten.</lxbase:a><lxbase:a>Unter Berücksichtigung der vorstehenden Grundsätze
+kann einer Schätzung im Einzelfall deshalb - wie bisher
+- auch vor Ablauf von fünf Wj. der obere Wertansatz zugrunde
+gelegt werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700007">2.1.2 Vernichtung von
+Buchführungsunterlagen oder sonstigen Aufzeichnungen durch
+höhere Gewalt</lxbase:ueberschrift><lxbase:a>Sind jedoch Buchführungsunterlagen oder sonstige Aufzeichnungen
+durch Unwetter vernichtet worden oder verlorengegangen und muss
+der Gewinn deshalb ausnahmsweise geschätzt werden, so sind
+im Rahmen der Schätzung hieraus keine nachteiligen Folgerungen
+zu ziehen (Rdvfg. vom 27.12.1993 - S 1915 A - St 31 1 - Tz. 2).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700008">2.1.3 Besonderer Anbau
+beim Gemüsebau</lxbase:ueberschrift><lxbase:a>Bei Gemüsebaubetrieben sind bei einem Vertragsanbau
+die Betriebseinnahmen mit 30 v. H. bis 40 v. H. und bei einem Anbau
+unter Glas (siehe Spalte 6 der "Anlage Gemüsebau") mit
+300 v. H. bis 400 v. H. des mittleren Rahmensatzes zu schätzen.</lxbase:a><lxbase:a>Sind die Betriebseinnahmen beim Vertragsanbau oder Anbau unter
+Glas zu schätzen, ist - auch bei wiederholter Schätzung
+- jeweils nur der mittlere Richtwert und nicht der obere Wert für
+die Anwendung der o. a. Prozentsätze maßgebend.
+Im Übrigen gelten die vorstehenden Grundsätze
+analog, d. h. bei einer wiederholten Schätzung können
+die höheren Prozentsätze angewendet werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700009">2.1.4 In den Richtwerten
+nicht enthaltene Betriebseinnahmen</lxbase:ueberschrift><lxbase:a>In den Richtbeträgen für die Erlöse
+sind (wie bisher) z. B.</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>der Eigenverbrauch,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Einnahmen aus Hilfsgeschäften,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Erstattungen für Ertragsausfall (Versicherungsschäden, Wildschäden,
+Manöverschäden u. ä.),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Erstattung der Fondsgebühren und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Entschädigungen/Zuschüsse
+aus öffentlichen Förderungsprogramme</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>nicht enthalten (siehe Abschnitt C. der "Anlage Obstbau" und
+Abschnitt II. der "Anlage Gemüsebau").</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700010">2.1.5 Großmarktabrechnungen</lxbase:ueberschrift><lxbase:a>Bei Großmarktabrechnungen ist der in den Abrechnungen
+ausgewiesene Bruttowarenwert maßgebend und nicht der in
+den Abrechnungen ebenfalls aufgeführte und vom Großmarkt
+dem Land- und Forstwirt später tatsächlich gutgeschriebene
+- deutlich niedrigere - Auszahlungsbetrag (siehe Abschnitt C. der "Anlage
+Obstbau" und Abschnitt II. der "Anlage Gemüsebau"). Vom
+Bruttowarenwert werden nämlich betriebliche Aufwendungen
+auszahlungsmindernd abgezogen, die mit den - nachfolgend aufgeführten
+- sachlichen Kosten abgegolten sind. Deshalb würde der
+Ansatz des Auszahlungsbetrages als Betriebseinnahme zu einem doppelten
+Ansatz von Betriebsausgaben führen.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700011">2.2 	Betriebsausgaben</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523010700012">2.2.1	 Sachliche Kosten </lxbase:ueberschrift><lxbase:a>Werden die sachlichen Kosten nicht durch Aufzeichnungen oder
+Belege nachgewiesen, können sie mit folgenden v. H.-Sätzen
+bezogen auf die Einnahmen berücksichtigt werden:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Obstbau	 20 v. H.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Gemüsebau	 33 v. H.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Der pauschale Ansatz umfasst mit Ausnahme der nachfolgend unter
+Tz. 2.2.2 genannten Aufwendungen alle sachlichen Kosten einschl.
+der Umsatzsteuer und gilt auch bei einem Ertragsausfall von über
+70 v. H. Neben diesem pauschalen Ansatz kommen die Pflegekosten
+für Jungpflanzen nicht mehr in Betracht. Höhere
+Betriebsausgaben muss der Land- und Forstwirt nachweisen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700013">2.2.2 Mit dem pauschalen
+Kostenansatz nicht abgegoltene Aufwendungen </lxbase:ueberschrift><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>	Lohnkosten,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Marktgebühren,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Zahlungen in den Betriebsfonds bei den Märkten,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Pachtzahlungen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Schuldzinsen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	sachlicher Aufwand bei Folienanbau (siehe Tz. 2.2.3),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Buchführungskosten,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Hagelversicherung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Absetzungen für Abnutzung (AfA) und Aufwendungen
+nach § 6 Abs. 2 EStG (siehe Tz. 2.2.4 ff) </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>(siehe Abschnitt D. der "Anlage Obstbau" und Abschnitt III. der
+"Anlage Gemüsebau").</lxbase:a><lxbase:a>Diese Aufwendungen können bei entsprechendem Nachweis
+neben den vorerwähnten sachlichen Kosten zusätzlich
+abgezogen werden. Sofern neben der (normalen) land- und forstwirtschaftlichen
+Nutzung noch die Nutzung im Bereich der Sonderkultur Obst- und/oder
+Gemüsebau vorliegt, gelten zum Arbeitskräftebedarf
+und zur Aufteilung der Lohnkosten auf diese unterschiedlichen Nutzungsarten
+die Ausführungen in der Rdvfg. vom 15.04.1992 - S-2230 A
+- St 34 2 - Tz. 4.6.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700014">2.2.3	 Folienanbau </lxbase:ueberschrift><lxbase:a>Soweit der Anbau unter Folie erfolgt und der Land- und Forstwirt
+diese Aufwendungen nicht nachweist, können 15 €/Ar
+als zusätzliche Kosten berücksichtigt werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700015">2.2.4 AfA</lxbase:ueberschrift><lxbase:a>Die AfA für Wirtschaftsgüter (einschl. Dauerkulturen),
+die zum Betriebsvermögen des Obst- und Gemüsebetriebes
+gehören und die Aufwendungen nach § 6 Abs. 2 EStG
+sind nur noch gegen Nachweis (Anlagenverzeichnis) zu berücksichtigen.</lxbase:a><lxbase:a><lxbase:fett><lxbase:unterst>2.2.4.1 Angaben im Anlagenverzeichnis</lxbase:unterst></lxbase:fett></lxbase:a><lxbase:a>Grundsätzlich reicht es aus, wenn im Anlagenverzeichnis
+folgende Angaben gemacht werden:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>	Genaue Bezeichnung des
+Wirtschaftsguts,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Anschaffungs- oder Herstellungszeitpunkt,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Anschaffungs- oder Herstellungskosten (ggf. mit einem
+entsprechenden Hinweis, sofern es sich um geschätzte Beträge
+handelt);</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Nutzungsdauer lt. amtl. AfA-Tabelle zum Anschaffungs- oder
+Herstellungszeitpunkt;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Buchwert des Wirtschaftsgutes (ggf. unter Berücksichtigung geltend
+gemachter Sonderabschreibungen, z. B. nach § 7g EStG oder § 76 EStDV
+1990 und unter Beachtung von § 7a Abs. 9 EStG 1990); der
+Gewinnabzug nach § 78 EStDV 1990 ist jedoch hierbei nicht
+zu berücksichtigen;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	AfA im Wj.;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	auf den Obst- oder Gemüsebau entfallender
+Teil der AfA.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett><lxbase:unterst>2.2.4.2 Nachweis der Anschaffung und Herstellung von
+Wirtschaftsgütern aus vor dem Beginn des Wj.<lxbase:az normform="1997/98" manuell="nein"> 1997/98</lxbase:az>
+ abgelaufenen
+Wj. </lxbase:unterst></lxbase:fett></lxbase:a><lxbase:a>Sofern der Land- und Forstwirt AfA aus der Anschaffung und Herstellung von
+Wirtschaftsgütern aus Veranlagungszeiträumen vor
+dem Beginn des Wj.<lxbase:az normform="1997/98" manuell="nein"> 1997/98</lxbase:az>
+ geltend
+macht, können diese grundsätzlich nur berücksichtigt
+werden, soweit er die Anschaffung oder Herstellung der Wirtschaftsgüter
+nachweist. Hierfür ist grundsätzlich die Vorlage der
+entsprechenden Belege erforderlich, sofern dies nicht bereits in
+früheren Veranlagungszeiträumen erfolgte (z. B.
+zur Inanspruchnahme von Sonderabschreibungen oder für die
+Gewährung von Investitionszulage).</lxbase:a><lxbase:a><lxbase:fett><lxbase:unterst>2.2.4.3 Ansatz der Anschaffungs- oder Herstellungskosten</lxbase:unterst>
+ </lxbase:fett></lxbase:a><lxbase:a>Zwar sind die (ursprünglichen) Anschaffungs- oder Herstellungskosten
+der unter die vorstehende Tz. 2.2.4.2 fallenden Wirtschaftsgüter,
+die noch nicht vollständig abgeschrieben sind, grundsätzlich
+nachzuweisen oder glaubhaft zu machen. Ausnahmsweise können
+jedoch die (ursprünglichen) Anschaffungs- oder Herstellungskosten
+für solche Wirtschaftsgüter geschätzt
+werden.</lxbase:a><lxbase:a>Bei der Schätzung der Herstellungskosten für
+die Errichtung von Dauerkulturen in vor dem Beginn des Wj.<lxbase:az normform="1997/98" manuell="nein"> 1997/98</lxbase:az>
+ abgelaufenen
+Wj. können ab dem Kalenderjahr 1982 (bis einschl. dem Kalenderjahr
+1996) grundsätzlich entsprechend den BMF-Schreiben vom 11.10.1982, <lxprod:doknr-verw linkend="HT0059219">BStBl I S. 775</lxprod:doknr-verw>
+,
+782 (Anlage 1, Tabelle 1 a) und vom 28.08.1991, BStBl I S. 768, 779
+(Anlage 1 a); entspricht Rdvfg. vom 21.10.1982 - InvZ-1010 A - St
+32 1 - und vom 30.09.1991 - InvZ-1010 A - St 32 1 -) folgende durchschnittliche Werte
+einer Neuanlage angehalten werden:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="26*" /><cals:colspec colnum="3" colname="3" colwidth="19*" /><cals:colspec colnum="4" colname="4" colwidth="15*" /><cals:colspec colnum="5" colname="5" colwidth="15*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Obst- oder Gemüseart</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Pflanzung</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>Pflanzabstand</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>Pflanzen</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>Herstellungskosten</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a>ca. je ha</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>DM/ha</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Äpfel</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Normalpflanzung</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>4,00 x 2,50 m</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>bis 900</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>8.600</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a>Dichtpflanzung</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>3,75 x 1,50 m</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>1.600</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>13.500</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Birnen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Normalpflanzung</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>4,00 x 2,50 m</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>900</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>9.600</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Johannisbeeren</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>- Rote, Busch</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>3,00 x 1,25 m</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>2.400</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>6.900</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>- Rote, Hecke</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>2,50 x 1,00 m</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>3.600</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>9.800</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>- Schwarze, Busch</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>2,50 x 2,00 m</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>1.800</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>5.500</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Stachelbeeren</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>2,00 x 1,00 m</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>4.500</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>19.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Himbeeren</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Drahtrahmenerziehung</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a>12.000</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>16.800</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Brombeeren</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Drahtrahmenerziehung</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a>1.285</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>13.300</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Sauerkirschen</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>4,50 x 4,00 m</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>500</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>5.100</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Süßkirschen</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>5,00 x 4,00 m</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>450</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>4.600</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Pflaumen /Zwetschen /Mirabellen</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>4,50 x 4,00 m</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>500</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>5.400</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Pfirsiche</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>4,50 x 4,00 m</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>500</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>5.300</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" morerows="2"><lxbase:a>Spargel </lxbase:a><lxbase:a /><lxbase:a>ab
+Kalenderjahr 1991</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Normales Pflanzgut</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>5.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Reines Pflanzgut</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>10.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>9.850</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Rhabarberab Kalenderjahr 1991</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>2.600</lxbase:a><lxbase:a>3.500</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Bei den vorgenannten Werten handelt es sich um Einzelkosten ohne Pflege-,
+Lohn- und Gemeinkosten, vgl. BMF-Schreiben vom 15.12.1981, <lxprod:doknr-verw linkend="HT0021949">BStBl I S. 878</lxprod:doknr-verw>
+,
+Tz. 3.2.1; entspricht FM-Erlass vom 15.12.81 - S-2163 A - 442; ESt-Kartei;
+Karte 15 zu § 13 EStG. Der Ansatz eines AfA-Hilfswerts
+oder der Richtwerte für die sachlichen Kosten einschl.
+AfA steht der Ausübung des Aktivierungswahlrechts von Pflege-
+und Gemeinkosten bei Dauerkulturen (vgl. das vorgenannte BMF-Schreiben
+vom 15.12.1981, a. a. O.) in demselben Wj. entgegen.</lxbase:a><lxbase:a>Sofern die Pflanzung des Obstbaubetriebes nachweislich einen
+anderweitigen Pflanzabstand hat (z. B. bei Äpfel und Birnen)
+und deshalb eine von der vorstehenden Aufstellung abweichende Zahl
+von Pflanzen je ha vorliegt, bestehen im Allgemeinen keine Bedenken,
+die o. a. Herstellungskosten durch Umrechnung des dort zugrunde
+gelegten Pflanzenbestandes auf den tatsächlichen Pflanzenbestand
+(jedoch beschränkt bei Äpfeln in Dichtpflanzung
+auf höchstens 4.500 Pflanzen je ha (= Herstellungskosten
+von höchstens 37.970 DM/ha) und bei Birnen in
+Dichtpflanzung auf höchstens 2.000 Pflanzen je ha (= Herstellungskosten
+von höchstens 21.333 DM/ha)) anzupassen.</lxbase:a><lxbase:a>Soweit in den vor dem Beginn des Wj.<lxbase:az normform="1997/98" manuell="nein"> 1997/98</lxbase:az>
+ zurückliegenden
+Wj. von Obst- oder Gemüsebaubetrieben Richtbeträge
+einschl. AfA in Anspruch genommen wurden, kann im Allgemeinen davon
+ausgegangen werden, dass neben den vorgenannten Einzelkosten keine aktivierungspflichtigen
+Lohnkosten angefallen sind. Sofern der Land- und Forstwirt solche
+Lohnkosten geltend macht, muss er diese nachweisen oder glaubhaft
+machen. Für das Entstehen derartiger Aufwendungen trägt
+er die Feststellungslast.</lxbase:a><lxbase:a><lxbase:fett><lxbase:unterst>2.2.4.4 Nutzungsdauer der Wirtschaftsgüter</lxbase:unterst></lxbase:fett></lxbase:a><lxbase:a>Für nach dem 31.12.1992 im Wirtschaftszweig "Gartenbau"
+angeschaffte oder hergestellte Wirtschaftsgüter ist die
+betriebsgewöhnliche Nutzungsdauer lt. amtlicher AfA-Tabelle
+im BMF-Schreiben vom 04.08.1993, <lxprod:doknr-verw linkend="HT0107000">BStBl 1993 I S. 650</lxprod:doknr-verw>
+ und für
+nach dem 31.12.1997 angeschaffte oder hergestellte die im BMF-Schreiben
+vom 17.07.1998, BStBl I S. 955, maßgebend.</lxbase:a><lxbase:a>Die mit BMF-Schreiben vom 15.12.2000 <lxprod:doknr-verw linkend="HT0575112">BStBl I S. 1532</lxprod:doknr-verw>
+,
+veröffentlichten Abschreibungstabellen für die
+allgemein verwendbaren Anlagegüter, die nach dem 31.12.2000 angeschafft
+wurden, sind nur anwendbar, wenn in der jeweiligen Branchentabelle
+(hier: Obstbau und Gemüsebau) kein entsprechendes Wirtschaftsgut
+enthalten ist. Sind Wirtschaftsgüter sowohl in der vorgenannten
+Branchentabelle als auch in der Abschreibungstabelle für
+die allgemein verwendbaren Anlagegüter aufgeführt,
+gilt immer die Branchentabelle, obwohl sie - im Gegensatz zur Branchentabelle
+- mit dem o. a. BMF-Schreiben vom 15.12.2000 aktualisiert wurde.
+Die Nutzungsdauer beispielsweise von Schleppern beträgt
+hiernach lt. der Branchentabelle - abweichend von der allgemeinen
+Abschreibungstabelle - weiterhin 8 Jahre.</lxbase:a><lxbase:a>Es bestehen in den hier betroffenen Fällen grundsätzlich
+keine Bedenken, diese AfA-Tabelle auch für vor dem 01.01.1993
+angeschaffte oder hergestellte Wirtschaftsgüter anzuwenden.
+Weil für Wirtschaftsgebäude von Obst- und Gemüsebaubetrieben
+keine von der üblichen betriebsgewöhnlichen Nutzungsdauer
+von Gebäuden abweichende Nutzungsdauer festgestellt wurde,
+sind insoweit § 7 Abs. 4 und 5 EStG einschlägig.</lxbase:a><lxbase:a>Zur Frage, wann eine Dauerkultur fertiggestellt ist, siehe BMF-Schreiben vom
+17.09.1990, BStBl. I S. 420; entspricht FM-Erlass vom 17.09.1990
+- S-2190 A - 442 -; ESt-Kartei: Karte 4 zu § 13 EStG.</lxbase:a><lxbase:a>Nach § 76 EStDV 1990 waren für dort näher
+bezeichnete Wirtschaftsgüter, die bis zum Ende des Wj.<lxbase:az normform="1991/92" manuell="nein">1991/92</lxbase:az>
+ angeschafft
+oder hergestellt wurden, Sonderabschreibungen zulässig.
+Sofern derartige Sonderabschreibungen vorgenommen wurden, ist für
+diese Wirtschaftsgüter nach § 76 Abs. 4 EStDV
+1990 von einer höchstens 30-jährigen Nutzungsdauer
+auszugehen.</lxbase:a><lxbase:a><lxbase:fett><lxbase:unterst>2.2.4.5 Restbuchwert zum Beginn des Wj. <lxbase:az normform="1997/98" manuell="nein">	1997/98</lxbase:az></lxbase:unterst></lxbase:fett></lxbase:a><lxbase:a>Bei der Ermittlung des Restbuchwertes der abnutzbaren Wirtschaftsgüter ist
+ferner zu beachten, dass die Richtbeträge in den abgelaufenen
+Veranlagungszeiträumen - unter Berücksichtigung
+der üblichen betriebsgewöhnlichen Nutzungsdauer
+- auch deren normale AfA enthielten.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700016">2.3	 Zur Anwendung der
+Richtwerte</lxbase:ueberschrift><lxbase:a>Die Finanzämter sind an die veröffentlichten
+Richtbeträge und die v. H.-Sätze für
+die sachlichen Kosten nicht gebunden, wenn ihre Anwendung im Einzelfall
+zu einer unzutreffenden Gewinnschätzung führt.
+Bestehen Anhaltspunkte für eine derartige Gewinnschätzung,
+kann der Betrieb auch der zuständigen landwirtschaftlichen
+Bp-Stelle gemeldet werden.</lxbase:a><lxbase:a>Dies kann beispielsweise in Betracht kommen, wenn</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>in nachfolgenden Wj. wiederholt
+zwischen dem Ansatz der Richtwerte und dem v. H.-Satz der sachlichen
+Kosten einerseits und einer vollständigen und zutreffenden
+Gewinnermittlung auf der Grundlage der tatsächlichen Betriebsergebnisse
+andererseits gewechselt wird oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a> ein Wechsel der Gewinnermittlung vorliegt und im Rahmen der
+Gewinnschätzung ein Übergangsgewinn zu ermitteln ist.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Eine Minderung des geschätzten Gewinns aufgrund von
+Einwänden gegen einzelne Punkte der Schätzung
+kommt selbst dann regelmäßig nicht in Betracht, wenn
+die Mittelwerte lt. Anlage 1 und 2 um Sicherheitszuschläge
+erhöht oder die oberen Werte angesetzt wurden, weil hierdurch
+allein zuverlässige Rückschlüsse auf
+den tatsächlichen Gewinn des Betriebes nicht gezogen werden können
+(siehe BFH-Urteil vom 29.03.2001, BStBl II S. 484).</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700017">3	 Gewinnermittlung
+nach § 4 Abs. 3 EStG</lxbase:ueberschrift><lxbase:a>Bei der Gewinnermittlung nach § 4 Abs. 3 EStG ist unter
+Berücksichtigung des Zu- und Abflussprinzips in § 11
+EStG der Überschuss der Betriebseinnahmen über
+die Betriebsausgaben anzusetzen. Hierzu gelten die grundsätzlichen
+Ausführungen der Tz. 2 ff. Eine Gewinnschätzung
+nach Richtsätzen ist auch bei Gewinnermittlung nach § 4
+Abs. 3 EStG zulässig (siehe BFH-Urteil vom 15.04.1999,
+BStBl II S. 481).</lxbase:a><lxbase:a>Nichtbuchführungspflichtige Obst- oder Gemüsebaubetriebe,
+die ihren Gewinn nach § 4 Abs. 3 EStG ermitteln, haben
+grundsätzlich ihre Betriebsausgaben nachzuweisen. Sofern
+sie den Nachweis für die sachlichen Kosten nicht führen,
+können diese mit den sich aus der Tz. 2.2.1. ergebenden
+v. H.-Sätzen geschätzt werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700018">4 	Gewinnermittlung
+nach § 4 Abs. 1 EStG</lxbase:ueberschrift><lxbase:a>Bei Obst- und Gemüsebauern, die zur Buchführung
+verpflichtet sind, aber keine ordnungsmäßigen
+Bücher führen, ist der Gewinn nach den Grundsätzen des § 4
+Abs. 1 EStG zu schätzen (§ 162 AO, R 13.5 Abs.
+1 EStR). Der dabei durchzuführende Betriebsvermögensvergleich
+i.S.d. § 4 Abs. 1 EStG muss sich auf das gesamte Betriebsvermögen,
+insbesondere auf das Vorratsvermögen, die Forderungen und
+Schulden, erstrecken.</lxbase:a><lxbase:a>Müssen die sachlichen Kosten geschätzt werden,
+so können die sich aus Tz. 2.2.1. ergebenden v. H.-Sätze
+als Maßstab angehalten werden. Im Übrigen gelten
+die grundsätzlichen Ausführungen der Tz. 2 entsprechend.
+Eine generelle Kürzung der Richtwerte wegen der wirtschaftlichen
+Bearbeitung der größeren Flächen ist
+nicht vorzunehmen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700019">5	 Gewinnermittlung
+nach Durchschnittssätzen (§ 13 a EStG)</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523010700020">5.1 Anwendungsvoraussetzungen </lxbase:ueberschrift><lxbase:a>(Siehe im Einzelnen die im Intranet unter "Steuerfachthemen/Einkommensteuer/Fortbildungen/Fortbildungsunterlagen
+zur Land- und Forstwirtschaft/§ 13a EStG" eingestellte
+Fortbildungsunterlage "Ermittlung des Gewinns nach Durchschnittssätzen
+(§ 13a EStG 1999)", Abschnitt III. Tz. 1.2.4 ff.).</lxbase:a><lxbase:a>Sofern in einem land- und forstwirtschaftlichen Betrieb <lxbase:fett><lxbase:unterst>eine</lxbase:unterst></lxbase:fett>
+ Sondernutzung
+mit einem Vergleichswert von über 2.000 DM vorliegt, z.
+B. gärtnerische Nutzung (= obst-  und gemüsebauliche
+Nutzung sowie Baumschulen) von über 2.000 DM (dieser Wert
+kann in Rheinland-Pfalz bei obstbaulicher Nutzung ab 1,25 ha und
+bei gemüsebaulicher Nutzung ab 0,5 ha im Freiland sowie
+ab 0,03 ha bei Unterglasanbau überschritten werden), sind
+die Anwendungsvoraussetzungen von § 13a Abs. 1 EStG nicht
+mehr erfüllt. Dieser Betrieb ist unverzüglich
+auf den Wegfall der Voraussetzungen für die Gewinnermittlung
+nach § 13a EStG hinzuweisen (§ 13a Abs. 1 Satz
+2 EStG). Mit dem rechtzeitigen Hinweis auf den Wegfall der Anwendungsvoraussetzungen
+von § 13a EStG entfällt - im Gegensatz zur Rechtslage
+nach § 13a EStG a. F. - für den <lxbase:fett>gesamten
+land- und forstwirtschaftlichen Betrieb</lxbase:fett>
+ die Möglichkeit
+der Durchschnittssatzgewinnermittlung.</lxbase:a><lxbase:a>Land- und forstwirtschaftliche Betriebe mit Obst- oder Gemüsebau
+können deshalb ihren Gewinn nach Durchschnittssätzen
+nach § 13a EStG ermitteln, wenn der nach den Grundsätzen
+des BewG ermittelte Wert der obst- oder gemüsebaulich genutzten
+Flächen zu Beginn des Wirtschaftsjahres 2.000 DM nicht übersteigt
+oder wenn dieser Wert zwar überschritten wird, jedoch der
+Land- und Forstwirt nicht rechtzeitig auf den Wegfall der Gewinnermittlung
+nach Durchschnittssätzen hingewiesen wurde.</lxbase:a><lxbase:a>Nach dem BFH-Urteil vom 29.11.2001, <lxprod:doknr-verw linkend="HT0573796">BStBl 2002
+II S. 147</lxprod:doknr-verw>
+, kann bei falschen Angaben des Land- und Forstwirts
+ggf. auch ohne eine Mitteilung über den Wegfall der Anwendungsvoraussetzungen
+von § 13a EStG die Durchschnittssatzgewinnermittlung entfallen. § 13a
+EStG i. d. F. des StEntlG<lxbase:az normform="1999/20" manuell="nein"> 1999/20</lxbase:az>
+00/2002
+ist erstmals für Wirtschaftsjahre anzuwenden, die nach dem
+30.12.1999 enden.</lxbase:a><lxbase:a>Zugepachtete Flächen sind bei der Berechnung des Vergleichswertes
+zu berücksichtigen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700021">	5.2 Abgrenzung der
+landwirtschaftlichen von der gärtnerischen Nutzung</lxbase:ueberschrift><lxbase:a>Zur Abgrenzung der landwirtschaftlichen und gärtnerischen
+Nutzung vgl. Abschn. 1.08 Abs. 2 und 4, 1.11 Abs. 3, 6.07 Abs. 1
+Nr. 1, 6.33 und 6.34 BewRL.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700022">	5.3 Pauschalierter
+Gewinnzuschlag</lxbase:ueberschrift><lxbase:a>Der Gewinn aus der gärtnerischen Nutzung ist nach § 13a
+Abs. 3 Nr. 2 i. V. m. Abs. 5 EStG pauschaliert mit einem Zuschlag
+zum Durchschnittssatzgewinn in Höhe von 512 € anzusetzen,
+sofern der Wert dieser Nutzung nach dem BewG mehr als 500 DM beträgt.
+Bis zu dieser Bagatellgrenze entfällt der Ansatz eines Zuschlages. Übersteigt
+der Wert dieser Nutzung die Grenze von 2.000 DM und ist dennoch
+ausnahmsweise ein Durchschnittssatzgewinn zu ermitteln, verbleibt es
+trotzdem bei dem Zuschlag von 512 €.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700023">	5.4 Antrag nach § 13a
+Abs. 2 EStG auf eine anderweitige Gewinnermittlung</lxbase:ueberschrift><lxbase:a>(Siehe im Einzelnen die im Intranet eingestellte Fortbildungsunterlage "Ermittlung
+des Gewinns nach Durchschnittssätzen (§ 13a EStG
+1999)", Abschnitt III. Tz. 2 ff.)</lxbase:a><lxbase:a>Der Antrag nach § 13a Abs. 2 EStG, den Gewinn für
+vier aufeinanderfolgende Wj. durch Vergleich der Betriebseinnahmen
+mit den Betriebsausgaben zu ermitteln, ist zunächst wirksam,
+wenn sämtliche Betriebseinnahmen und Betriebsausgaben für
+das erste Wirtschaftsjahr einzeln aufgezeichnet werden. Der Antrag
+ist deshalb unwirksam, wenn z. B. die Betriebseinnahmen geschätzt oder
+mit Richtbeträgen oder die Betriebsausgaben mit v. H.-Sätzen
+angesetzt werden (BFH-Urteil vom 18.03.1993, <lxprod:doknr-verw linkend="HT0103400">BStBl 1993
+II S. 549</lxprod:doknr-verw>
+).</lxbase:a><lxbase:a>Ich bitte zu beachten, dass das Antragswahlrecht nach § 13a
+Abs. 2 EStG i. d. F. des StEntlG<lxbase:az normform="1999/20" manuell="nein"> 1999/20</lxbase:az>
+00/2002 nunmehr
+nur dann für den gesamten 4-Jahreszeitraum wirksam ausgeübt
+wird, wenn der Gewinn entsprechend den Ausführungen im
+vorhergehenden Absatz für den gesamten Antragszeitraum,
+d. h. vier aufeinanderfolgende Wirtschaftsjahre, tatsächlich
+nach § 4 Abs. 1 oder Abs. 3 EStG ermittelt wird. § 13a
+Abs. 2 EStG i. d. F. des StBereinG, <lxbase:lit-fs normform="BStBl-2000-I-0013" manuell="nein">BStBl 2000 I
+S. 13</lxbase:lit-fs>
+, stellt dies nochmals ausdrücklich klar.</lxbase:a><lxbase:a>Wird der Gewinn eines der Wj. des Antragszeitraums durch den
+Steuerpflichtigen nicht durch vollständigen Betriebsvermögensvergleich
+oder durch Vergleich der tatsächlichen Betriebseinnahmen
+mit den Betriebsausgaben ermittelt, ist der Gewinn für
+den gesamten Zeitraum von vier Wirtschaftsjahren nach § 13a
+Abs. 3 bis 6 EStG zu ermitteln (§ 13a Abs. 2 S. 2 EStG
+i. d. F. des StBereinG 1999).</lxbase:a><lxbase:a>Innerhalb des Bindungszeitraumes ist ein Wechsel von der Gewinnermittlung
+nach § 4 Abs. 1 EStG zur Gewinnermittlung nach § 4
+Abs. 3 EStG und umgekehrt zulässig.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700024">6	 Wechsel der Gewinnermittlungsart</lxbase:ueberschrift><lxbase:a>Ein Wechsel der Gewinnermittlungsart kann sich bei einem Obst-
+oder Gemüsebaubetrieb oder land- und forstwirtschaftlichen
+Betrieb mit Obst- oder Gemüsebau vor allem ergeben, wenn
+von der</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Gewinnermittlung nach § 13a
+EStG zur Einnahmenüberschussrechnung oder umgekehrt oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Gewinnermittlung durch Bestandsvergleich zur Einnahmenüberschussrechnung
+oder umgekehrt</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>(freiwillig oder wegen Wegfalls der Voraussetzungen für
+die bisherige Gewinnermittlungsart) gewechselt wird. Hierbei ist
+ein Übergangsgewinn zu ermitteln, der insbesondere Vorratsvermögen,
+Forderungen, Verbindlichkeiten und Rechnungsabgrenzungsposten erfasst.
+Zu den hierbei ggf. betroffenen Wirtschaftsgütern und der
+Ermittlung eines Übergangsgewinns siehe die im Intranet
+unter "Steuerfachthemen/Einkommensteuer/Fortbildungen/Fortbildungsunterlagen
+zur Land- und Forstwirtschaft/§ 13a EStG" eingestellte
+Fortbildungsunterlage "Ermittlung des Gewinns nach Durchschnittssätzen
+(§ 13a EStG 1999)", Abschnitt III. Tz. 8 ff.</lxbase:a><lxbase:a>Ich bitte auf die Erfassung eines solchen Übergangsgewinns,
+der sich bei Obst- und Gemüsebaubetrieben insbesondere
+aus den im Übergangszeitpunkt vorhandenen Forderungen ergeben
+kann, besonders zu achten.</lxbase:a><lxbase:a>Sofern in derartigen Fällen gegen die vom Land- und
+Forstwirt erklärten Wertansätze seines Betriebes
+Bedenken bestehen, kann der Gartenbausachverständige eingeschaltet
+werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700025">7 	Vordruck "Anlage
+Obstbau" oder "Anlage Gemüsebau"</lxbase:ueberschrift><lxbase:a>Die landeseigenen Vordrucke "Anlage Obstbau" und "Anlage Gemüsebau" sind
+von dem betroffenen Personenkreis als unselbständige Anlage
+der "Anlage L zur Einkommensteuer- oder Feststellungserklärung
+der Einkünfte aus Land- und Forstwirtschaft" beizufügen.
+Es handelt sich hierbei jeweils nicht um einen amtlich vorgeschriebenen
+Vordruck i. S. v. § 150 Abs. 1 und 2 AO.</lxbase:a><lxbase:a>Werden diese Anlagen vom Land- und Forstwirt nicht eingereicht,
+kann deren Abgabe - im Gegensatz beispielsweise zur "Anlage L" oder
+"Anlage Weinbau" nicht mit Zwangsmaßnahmen nach §§ 328
+- 335 AO durchgesetzt werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700026">8 	Ansparabschreibungen
+bei Obstanlagen</lxbase:ueberschrift><lxbase:a>Die Bildung von Ansparabschreibungen nach § 7g Abs.
+3 und 7 EStG bei beabsichtigter Herstellung von Anlagen mit Obstgehölzen
+(= Dauerkultur) ist grundsätzlich zulässig,
+weil es sich um bewegliche Wirtschaftsgüter handelt. Derartige
+Dauerkulturen können jedoch erst im dritten Jahr nach dem
+Wirtschaftsjahr der Anpflanzung fertig gestellt sein.</lxbase:a><lxbase:a>Nach dem BMF-Schreiben vom 17.09.1990, BStBl. I S. 420; entspricht FM-Erlass
+vom 17.09.1990 - S-2190 A - 442 -; ESt-Kartei: Karte 4 zu § 13 EStG
+sind Dauerkulturen mit Äpfeln und Birnen in Dichtpflanzung
+(= über 1.600 St/ha Bodenfläche)
+bereits im ersten Wj. nach dem Wj. der Anpflanzung fertig gestellt.
+Die übrigen Dauerkulturen mit Obstgehölzen sind
+hingegen erst im dritten Wj. nach dem Wj. der Anpflanzung hergestellt.</lxbase:a><lxbase:a>Weil der begünstigte Investitionszeitraum nach § 7g
+Abs. 3 EStG nur zwei Wirtschaftsjahre beträgt, können
+Ansparabschreibungen für die Herstellung von Anlagen mit
+Obstgehölzen mit einem Herstellungszeitraum von mindestens
+3 Wj. erst nach dem Wirtschaftsjahr der Anpflanzung und vor dem
+Wirtschaftsjahr der Fertigstellung wirksam gebildet werden. Eine
+frühere Bildung von Ansparabschreibungen bei solchen Dauerkulturen
+scheidet aus.</lxbase:a><lxbase:a>Siehe im Einzelnen zum Zeitpunkt, der Höhe und der Auflösung
+der Ansparabschreibungen sowie der Bezeichnung der einzelnen Dauerkultur
+die Rdvfg. vom 21.11.2002 - S-2233 A - St 31 1 - Tz. 6, zur insoweit
+vergleichbaren Herstellung einer Rebanlage.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700027">Anlage 1</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523010700029">Richtwerte für
+den Obstbau; Wj.<lxbase:az normform="2004/20" manuell="nein"> 2004/20</lxbase:az>
+05</lxbase:ueberschrift><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="39*" /><cals:colspec colnum="2" colname="2" colwidth="31*" /><cals:colspec colnum="3" colname="3" colwidth="31*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Obstart und Erziehungsform</lxbase:a></cals:entry><cals:entry namest="2" nameend="3" align="center"><lxbase:a><lxbase:fett>Erlöse
+je Baum oder Strauch</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a>mittlerer Richtwert €</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>oberer Richtwert €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Apfel</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>6</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>10</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Aprikose</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>14</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>20</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Birne</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>6</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>11</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Mirabelle</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>15</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>25</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Nuss</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>15</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>30</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Pfirsich</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>20</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>30</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Sauerkirsche</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>9</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>16</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Süßkirsche</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>40</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>60</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Zwetsche und Pflaume</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>15</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>25</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Holunder</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>20</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>25</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Johannisbeere</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>10</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>15</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="19*" /><cals:colspec colnum="2" colname="2" colwidth="43*" /><cals:colspec colnum="3" colname="3" colwidth="38*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry namest="2" nameend="3" align="center"><lxbase:a><lxbase:fett>Erlöse
+je Ar</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a>mittlerer Richtwert €</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>oberer Richtwert €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Brombeere</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>180</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>190</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Erdbeere</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>297</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>400</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Himbeere</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>400</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>700</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="0"><cals:entry namest="1" nameend="3"><lxbase:a>Anmerkung: Bei den oberen Werten
+handelt es sich nicht um die Höchstwerte, sondern um über
+dem Mittelsatz liegende gemittelte Werte.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523010700028">Anlage 2</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523010700030">Richtwerte für
+den Gemüsebau; Wj.<lxbase:az normform="2004/20" manuell="nein"> 2004/20</lxbase:az>
+05</lxbase:ueberschrift><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:colspec colnum="3" colname="3" colwidth="33*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Gemüseart</lxbase:a></cals:entry><cals:entry namest="2" nameend="3" align="center"><lxbase:a><lxbase:fett>Erlöse
+je Ar</lxbase:fett>
+ Rahmensätze</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a>mittlerer Richtwert €</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>oberer Richtwert €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:unterst>Blattgemüse</lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Endiviensalat</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>100</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>130</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Feldsalat</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>100</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>180</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Kopfsalat, früh</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>170</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Kopfsalat, spät</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>80</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>110</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Bunter Salat</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>100</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>160</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Spinat</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>40</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>80</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:colspec colnum="3" colname="3" colwidth="33*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:unterst>Fruchtgemüse</lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Erbsen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>20</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>70</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Kürbis</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>110</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Stangenbohnen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>130</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>170</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Tomaten</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>250</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>350</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Zucchini</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>180</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>220</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:colspec colnum="3" colname="3" colwidth="33*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:unterst>Kohlgemüse</lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Blumenkohl, früh</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>95</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>160</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Blumenkohl, spät</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>55</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>100</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Chinakohl</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>190</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Kohlrabi, früh</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>110</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Kohlrabi, spät</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>75</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>100</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Rotkohl, früh</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>70</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>100</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Rotkohl, spät</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>50</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>60</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Weißkohl, früh</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>60</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>110</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Weißkohl, spät</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>75</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>95</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Wirsing, früh</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>45</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>65</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Wirsing, spät</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>60</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>80</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Grünkohl</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>40</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>60</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Rheinland-Pfalz</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:branchen><lxbase:branche>Landwirtschaft</lxbase:branche></lxbase:branchen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

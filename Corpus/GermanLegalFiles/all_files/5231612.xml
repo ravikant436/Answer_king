@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" dok-nummer="5231612" dok-art="Schreiben (koordinierter Ländererlass)" dok-typ="Verwaltungsanweisung" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:externe-dateien><lxbase:datei name="d5231612-001.gif" /></lxbase:externe-dateien><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bundesministerium der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>IV C 6 - S-2290a / 07 / 10001</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2290</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2290 A - St 31 3</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-0130 A - 19 - St 23</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-0130</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2290a</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2290 1.1-2/2 St32</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2290a A - St 213</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2290a A - 1 - St 213</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2290 | S</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-0130 | S</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Elwi-Lohn" id="21" /><lxbase:lizenz2 name="Elwi-Rewe" id="22" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2008-08-11" ts="nein" /><lxbase:datum normdat="2008-12-03" ts="ja" /><lxbase:datum normdat="2009-11-02" ts="ja" /><lxbase:datum normdat="2010-02-16" ts="ja" /><lxbase:datum normdat="2011-11-09" ts="ja" /><lxbase:datum normdat="2015-03-10" ts="ja" /><lxbase:datum normdat="2015-07-02" ts="ja" /><lxbase:datum normdat="2017-10-19" is="ja" ts="ja" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BStBl-2008-I-0838</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DStR-2008-1637</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DStZ-2008-0623</lxbase:fs-kuerzel><lxbase:fs-kuerzel>FR-2008-0930</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände, die nach dem 31. 12. 2017 verwirklicht werden, durch <lxprod:doknr-verw linkend="HT5236851">IV A 2 – O-2000 / 18 / 10001</lxprod:doknr-verw> v. 18. 3. 2019 koordinierter Ländererlass</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände, die nach dem 31. 12. 2016 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5236585"> IV A 2 – O-2000 / 17 / 10001 </lxprod:doknr-verw> v. 19. 3. 2018 koordinierter Ländererlass </lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2015 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5236239">IV A 2 - O-2000 / 16 / 10001</lxprod:doknr-verw> v.
+21. 3. 2017 (koordinierter Ländererlass) </lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit  bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2014 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5235900">IV A 2 - O-2000 / 15 / 10001</lxprod:doknr-verw> v.
+14. 3. 2016 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit  bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2013 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5235510">IV A 2 - O-2000 / 14 / 10001</lxprod:doknr-verw> v.
+23. 3. 2015 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2012 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5234965">IV A 2 - O-2000 / 13 / 10002</lxprod:doknr-verw> v.
+24. 3. 2014 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2011 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5234454">IV A 2 - O-2000 / 12 / 10001</lxprod:doknr-verw> v.
+9. 4. 2013 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2010 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5233887">IV A 2 - O-2000
+/ 11 / 10006</lxprod:doknr-verw> v. 27. 3. 2012 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2009 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5233244">IV A 2 - O-1000
+/ 10 / 10283</lxprod:doknr-verw> v. 4. 4. 2011 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt durch BMF <lxprod:doknr-verw linkend="HT5232677">IV A 6 - O-1000
+/ 09 / 10095</lxprod:doknr-verw> v. 23. 4. 2010 (koordinierter Ländererlass
+- "Schreiben zur Eindämmung der Normenflut")</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:redakt><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="19*" /><cals:colspec colnum="2" colname="2" colwidth="81*" /><cals:tbody><cals:row rowsep="1"><cals:entry nameend="2" namest="1"><lxbase:a><lxbase:fett>Bibliographie
+der inhaltlich entsprechenden Verwaltungsanweisungen:</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Rheinland-Pfalz</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Koblenz S-2290 A - St 31
+3 vom 03.12.2008<lxbase:za />EStK § 34a EStG Karte 2</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Bayern</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Bayerisches Landesamt für Steuern
+S-2290 1.1-2/2 St32 vom 02.11.2009<lxbase:za />EStK § 34a EStG Karte
+1.1</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Hessen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Frankfurt am Main S-0130
+A - 19 - St 23 vom 16.02.2010<lxbase:za />OFD Frankfurt am Main S-2290a
+A - St 213 vom 09.11.2011<lxbase:za />EStK § 34a EStG Karte 1<lxbase:za />OFD
+Frankfurt am Main S-2290a A - 1 - St 213 vom 10.03.2015 OFD Frankfurt
+am Main S-2290a A - 1 - St 213 vom 02.07.2015<lxbase:za />OFD Frankfurt
+am Main S-2290a A - 1 - St 213 vom 19.10.2017</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:34a</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:34a/5</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:34a/6</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:6/3</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>UmwStG:24</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2008" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Anwendungsschreiben zur Begünstigung
+der nicht entnommenen Gewinne (§ 34a EStG)</lxbase:a></lxbase:headline></lxbase:titel><lxbase:teaser><lxbase:a>BMF: Anwendungsschreiben zur Begünstigung der nicht entnommenen
+Gewinne (§ 34a EStG)</lxbase:a></lxbase:teaser><lxbase:kapitel><lxbase:a>Im Einvernehmen mit den obersten Finanzbehörden der Länder
+gilt zur Anwendung der Tarifbegünstigung für nicht entnommene Gewinne
+nach § 34a EStG Folgendes:</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200001">I. Tarifbegünstigung für
+nicht entnommene Gewinne</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523161200002">1. Begünstigte
+Einkunftsarten</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>1</lxbase:randziffer><lxbase:a>Der unbeschränkt oder beschränkt Steuerpflichtige kann
+die Tarifbegünstigung nach § 34a EStG für Einkünfte aus Land- und
+Forstwirtschaft (§ 13 EStG), Gewerbebetrieb (§ 15 EStG) und selbständiger
+Arbeit (§ 18 EStG) für den nicht entnommenen Teil des Gewinns aus
+einem Einzelunternehmen oder aus einem Mitunternehmeranteil in Anspruch
+nehmen. Die Ermittlung des zu versteuernden Einkommens (§ 2 Abs.
+5 EStG) bleibt durch § 34a EStG unberührt. Damit sind insbesondere
+die Regelungen über den Verlustausgleich und -abzug vorrangig zu
+beachten. Der Verlustausgleich und -abzug ist auch dann vorzunehmen,
+wenn für nicht entnommene Gewinne die Tarifbegünstigung nach § 34a
+EStG in Anspruch genommen wird. Durch § 34a EStG kann daher kein
+Verlustvortrag nach § 10d EStG generiert werden.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>2</lxbase:randziffer><lxbase:a>Bei Mitunternehmeranteilen kommt eine Inanspruchnahme
+des § 34a EStG für den Gewinnanteil des Mitunternehmers aus der
+Mitunternehmerschaft, d. h. für den Anteil am Gewinn der Gesellschaft
+sowie aus etwaigen Ergänzungs- und Sonderbilanzen des Mitunternehmers
+in Betracht. Auch der persönlich haftende Gesellschafter einer Kommanditgesellschaft
+auf Aktien, der kein Mitunternehmer ist, jedoch wie ein Mitunternehmer
+zu behandeln ist, kann für seinen nicht entnommenen Gewinnanteil
+nach § 15 Abs. 1 Satz 1 Nr. 3 EStG die Tarifbegünstigung nach §
+34a EStG in Anspruch nehmen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200003">2.	 Begünstigter
+Gewinn bei beschränkter Steuerpflicht</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>3</lxbase:randziffer><lxbase:a>Abweichend von der Behandlung der unbeschränkt Steuerpflichtigen
+gilt für beschränkt Steuerpflichtige Folgendes:</lxbase:a><lxbase:a>Bei beschränkt Steuerpflichtigen erstreckt sich die Anwendung
+des § 34a EStG auf die Gewinneinkünfte nach § 49 EStG (ggf. eingeschränkt
+durch ein Doppelbesteuerungsabkommen). Entnahmen und Einlagen, die
+nicht diesen Einkünften zugeordnet werden können, bleiben außer
+Ansatz. Zu grenzüberschreitenden Überführungen und Übertragungen
+vgl. Tz. 34 ff.</lxbase:a><lxbase:a>Zusatz der OFD Frankfurt am Main v. 2. 7. 2015:</lxbase:a><lxbase:a><lxbase:unterst>Verhältnis zu Verlustausgleich und Verlustabzug</lxbase:unterst></lxbase:a><lxbase:a>Das Finanzgericht Baden-Württemberg hat mit Urteil vom
+07.11.2014 - <lxprod:doknr-verw linkend="HT5017292">9
+K 3297/13</lxprod:doknr-verw> klargestellt, dass der Ausgangspunkt für die
+Berechnung des begünstigten Gewinns nach § 34a EStG das zu versteuernde
+Einkommen nach § 2 Abs. 5 EStG sei. § 34a EStG werde auf das zu
+versteuernde Einkommen <lxbase:fett>nach</lxbase:fett> Durchführung
+eines horizontalen und vertikalen Verlustausgleichs angewendet.
+Die thesaurierten Gewinne blieben Teil der synthetischen ESt und
+würden nicht aus diesem System herausgelöst.</lxbase:a><lxbase:a>Demzufolge sind die betrieblichen Einkünfte aus mehreren
+Einzelunternehmen und/oder mehreren Beteiligungen an Mitunternehmerschaften
+zu saldieren. Nur wenn danach positive betriebliche Einkünfte verbleiben,
+kommt § 34a EStG zur Anwendung.</lxbase:a><lxbase:a>Gegen die Entscheidung des FG Baden-Württemberg wurde
+Revision eingelegt (Az.: <lxprod:doknr-verw linkend="HT0950344">X R 65/14</lxprod:doknr-verw>). Diesbezügliche
+Einspruchsverfahren ruhen daher nach § 363 Abs. 2 Satz 2 AO. Aussetzung
+der Vollziehung ist nicht zu gewähren.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200004">3.	 Veräußerungsgewinne</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>4</lxbase:randziffer><lxbase:a>Für Veräußerungsgewinne, bei denen der Steuerpflichtige
+den Freibetrag nach § 16 Abs. 4 EStG oder die Tarifermäßigung nach
+§ 34 Abs. 3 EStG in Anspruch nimmt, ist eine Tarifbegünstigung nach
+§ 34a EStG nicht möglich. Dies gilt auch für den Veräußerungsgewinn,
+der nach Abzug des Freibetrags nach § 16 Abs. 4 EStG zu versteuern
+ist, der bei Inanspruchnahme des § 34 Abs. 3 EStG die Höchstgrenze überschreitet
+oder nach § 3 Nr. 40 Satz 1 Buchst. b EStG dem Teileinkünfteverfahren unterliegt.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>5</lxbase:randziffer><lxbase:a>Eine Tarifbegünstigung nach § 34a EStG kommt jedoch in
+Betracht, soweit es sich um einen Veräußerungsgewinn handelt, der
+nicht aus dem Unternehmen entnommen wurde (z. B. bei Veräußerung
+eines Teilbetriebs oder Veräußerung eines in einem Betriebsvermögen
+befindlichen Mitunternehmeranteils) und kein Antrag nach § 16 Abs.
+4 oder § 34 Abs. 3 EStG gestellt wurde.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>6</lxbase:randziffer><lxbase:a>Sind sowohl die Voraussetzungen für eine Tarifbegünstigung
+nach § 34a EStG als auch die Voraussetzung für eine Begünstigung
+nach § 34 Abs. 1 EStG erfüllt, kann der Steuerpflichtige wählen,
+welche Begünstigung er in Anspruch nehmen will. Dies gilt auch für
+übrige Tarifermäßigungen (z. B. § 34b EStG).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200005">4. Antragstellung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>7</lxbase:randziffer><lxbase:a>Der Antrag auf Tarifbegünstigung nach § 34a EStG ist grundsätzlich
+bei Abgabe der Einkommensteuererklärung für jeden Betrieb oder Mitunternehmeranteil
+gesondert zu stellen. Dabei kann der Steuerpflichtige für jeden
+Betrieb oder Mitunternehmeranteil wählen, ob und in welcher Höhe
+er für den jeweils nicht entnommenen Gewinn die Tarifbegünstigung
+nach § 34a EStG in Anspruch nimmt. Der Antrag kann für jeden Betrieb
+oder Mitunternehmeranteil bis zur Höhe des nicht entnommenen Gewinns
+gestellt werden.</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D523161200006">a)	Antragstellung
+bei Einzelunternehmern</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>8</lxbase:randziffer><lxbase:a>Einzelunternehmer können unabhängig von der Höhe des Gewinns
+nach § 4 Abs. 1 Satz 1 oder § 5 EStG die Tarifbegünstigung nach
+§ 34a EStG ganz oder teilweise in Anspruch nehmen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200007">b)	Antragstellung
+bei Mitunternehmern</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>9</lxbase:randziffer><lxbase:a>Jeder einzelne Mitunternehmer kann nur dann einen Antrag
+stellen, wenn die Beteiligung am Gewinn (aus Gesamthands-, Sonder-
+und Ergänzungsbilanz) nach § 4 Abs. 1 Satz 1 oder § 5 EStG mehr
+als 10 % oder mehr als 10.000 € beträgt. Der vertraglichen Gewinnverteilungsabrede
+kommt keine Bedeutung zu. Einer einheitlichen Antragstellung aller
+Mitunternehmer einer Personengesellschaft bedarf es nicht.</lxbase:a><lxbase:beispiel><lxbase:a>A und B sind Mitunternehmer der AB-OHG. A ist zu 90 %,
+B ist nach der getroffenen Gewinnverteilungsabrede zu 10 % am Gesamthandsgewinn
+beteiligt. Der Gewinn nach § 4 Abs. 1 Satz 1 EStG aus dem Gesamthandsbereich
+beträgt 200.000 €. Es sind nicht abzugsfähige Betriebsausgaben in
+Höhe von 30.000 € angefallen. B hat in seiner Sonderbilanz aus der
+Vermietung eines Grundstücks an die AB-OHG einen Verlust von 12.000
+€ erzielt.</lxbase:a><lxbase:a>Der nach § 4 Abs. 1 S. 1 und § 5 EStG ermittelte Gewinn
+der Mitunternehmerschaft beträgt 188.000 € (200.000 € Gesamthand
+abzgl. 12.000 € Sonderbilanz des B; die nicht abzugsfähigen Betriebsausgaben
+haben den Gewinn nach § 4 Abs. 1 Satz 1 EStG gemindert.). Hieran
+ist B mit weniger als 10.000 € (20.000 € Gesamthandsbereich abzgl.
+12.000 € aus Sonderbilanz = 8.000 €) und nicht zu mehr als 10% (8/188
+= 4,25%) beteiligt, so dass die Anwendung des § 34a EStG nur für
+A (Gewinnanteil 180.000 €) zulässig ist.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200008">c) Änderung
+des Antrags</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>10</lxbase:randziffer><lxbase:a>Hinsichtlich der Änderung des Antrages nach § 34a Abs.
+1 Satz 1 EStG gelten die allgemeinen Grundsätze zur Ausübung von
+Wahlrechten (vgl. Nr. 8 des AEAO vor §§ 172 - 177). Danach können
+nach Eintritt der Unanfechtbarkeit der Steuerfestsetzung Wahlrechte
+nur noch ausgeübt werden, soweit die Steuerfestsetzung nach §§ 129, 164,
+165, 172 ff. AO oder nach entsprechenden Regelungen in den Einzelsteuergesetzen
+korrigiert werden kann; dabei sind die §§ 177 und 351 Abs. 1 AO
+zu beachten. Darüber hinaus kann der Antrag jederzeit noch bis zur
+Unanfechtbarkeit des Einkommensteuerbescheids für den folgenden
+Veranlagungszeitraum ganz oder teilweise zurückgenommen (§ 34a Abs.
+1 Satz 4 EStG) werden.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200009">II. Nicht entnommener
+Gewinn</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>11</lxbase:randziffer><lxbase:a>Maßgeblich für die Tarifbegünstigung nach § 34a EStG ist
+der nach § 4 Abs. 1 Satz 1 oder § 5 EStG ermittelte Gewinn (einschließlich
+Ergebnisse aus Ergebnisabführungsverträgen in Organschaftsfällen
+oder steuerfreier Gewinnbestandteile wie z. B. steuerfreie Betriebsstättengewinne,
+steuerfreie Teileinkünfte oder Investitionszulage). Dieser Gewinn
+ist der Unterschiedsbetrag zwischen dem Betriebsvermögen am Schluss
+des Wirtschaftsjahrs und dem Betriebsvermögen am Schluss des vorangegangenen
+Wirtschaftsjahrs (§ 4 Abs. 1 Satz 1, 1. Halbsatz EStG), vermehrt
+um die Hinzurechnungen der privat veranlassten Wertabgaben, die
+das Betriebsvermögen gemindert haben (Entnahmen) und vermindert
+um die privat veranlassten Wertzuführungen, die das Betriebsvermögen
+erhöht haben (Einlagen, § 4 Abs. 1 Satz 1, 2. Halbsatz EStG). Im
+Gewinn nach § 4 Abs. 1 Satz 1 EStG sind auch noch die Beträge enthalten,
+die zur weiteren Ermittlung des steuerpflichtigen Gewinns außerhalb
+der Bilanz abgezogen (z. B. steuerfreie Gewinnanteile) oder hinzugerechnet
+(z. B. nicht abzugsfähige Betriebsausgaben) werden.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>12</lxbase:randziffer><lxbase:a>Bei Personengesellschaften umfasst der Gewinn nach § 4
+Abs. 1 Satz 1 EStG auch die Korrekturen aufgrund von Ergänzungsbilanzen
+und die Ergebnisse der Sonderbilanzen der Mitunternehmer.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>13</lxbase:randziffer><lxbase:a>Der nicht entnommene Gewinn i. S. d. § 34a EStG wird durch
+Abzug des positiven Saldos aus Entnahmen und Einlagen (bei Mitunternehmeranteilen
+Entnahmen und Einlagen der Gesamthands-, Sonder- und Ergänzungsbilanzen)
+vom Gewinn nach § 4 Abs. 1 Satz 1 EStG ermittelt (maximaler Begünstigungsbetrag).</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>14</lxbase:randziffer><lxbase:a>Entnahmen i. S. d. § 34a EStG sind die Entnahmen nach
+§ 4 Abs. 1 Satz 2 i. V. m. § 6 Abs. 1 Nr. 4 EStG. Es wird nicht
+zwischen Bar-, Sach- und Nutzungsentnahmen unterschieden. Zur Behandlung
+von Entnahmen nach § 4 Abs. 1 Satz 3 EStG bei Überführung von Wirtschaftsgütern
+ins Ausland vgl. Tz. 34 ff.</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D523161200010">1. Gewinnermittlungsart</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>15</lxbase:randziffer><lxbase:a>Die Tarifbegünstigung nach § 34a EStG kann nur in Anspruch
+genommen werden, wenn der Gewinn durch Bestandsvergleich (§ 4 Abs.
+1 Satz 1 oder § 5 EStG) ermittelt wird. Das Erfordernis der Gewinnermittlung
+durch Bestandsvergleich erstreckt sich auch auf etwaige im Betriebsvermögen
+gehaltene Beteiligungen an vermögensverwaltenden, land- und forstwirtschaftlichen,
+gewerblichen oder freiberuflichen Personengesellschaften (vgl. BFH-Beschluss
+vom 11. April 2005, <lxprod:doknr-verw linkend="HT5000524">BStBl II S. 679</lxprod:doknr-verw>).
+Es ist nicht erforderlich, dass die Untergesellschaft selbst ihren
+Gewinn nach § 4 Abs. 1 Satz 1 oder § 5 EStG ermittelt. Jedoch muss
+die Obergesellschaft ihren Gewinn aus der Untergesellschaft nach
+§ 4 Abs. 1 Satz 1 oder § 5 EStG ermitteln.</lxbase:a><lxbase:a>Bei Gewinnermittlung durch Einnahmenüberschussrechnung
+(§ 4 Abs. 3 EStG) oder bei pauschalierten Gewinnermittlungen (§§
+5a, 13a EStG) ist eine ermäßigte Besteuerung nicht möglich.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200011">2.	 Nicht
+abzugsfähige Betriebsausgaben</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>16</lxbase:randziffer><lxbase:a>Die nach § 4 Abs. 4a, 5, 5a und 5b und § 4h EStG nicht
+abzugsfähigen Betriebsausgaben haben den nach § 4 Abs. 1 Satz 1
+oder § 5 EStG ermittelten Gewinn gemindert, da sie außerbilanziell
+hinzuzurechnen sind. Soweit der steuerpflichtige Gewinn also auf
+Betriebsausgabenabzugsverboten beruht, kann keine Tarifbegünstigung nach
+§ 34a EStG in Anspruch genommen werden.</lxbase:a><lxbase:beispiel><lxbase:a>Der Gewinn (§ 4 Abs. 1 Satz 1 oder § 5 EStG) des Unternehmens
+beträgt 330.000 €. Es sind nicht abzugsfähige Betriebsausgaben (§
+4 Abs. 5 EStG) von 45.000 € angefallen. Der Unternehmer hat 70.000
+€ entnommen. Einlagen wurden in Höhe von 10.000 € getätigt.</lxbase:a><lxbase:a>Der nicht entnommene Gewinn beträgt 270.000 € (330.000
+€ abzgl. Saldo Entnahmen (70.000 €) und Einlagen (10.000 €) (60.000
+€)). Der steuerpflichtige Gewinn beträgt 375.000 € (330.000 € zzgl.
+45.000 € nicht abzugsfähige Betriebsausgaben). Der Steuerpflichtige
+kann einen Antrag nach § 34a EStG für einen Gewinn bis zu 270.000
+€ stellen.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200012">3.	 Steuerfreie
+Gewinnanteile</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>17</lxbase:randziffer><lxbase:a>Steuerfreie Gewinnanteile sind Bestandteil des Steuerbilanzgewinns,
+können aufgrund ihrer Steuerfreiheit jedoch selbst nicht Gegenstand
+der Tarifbegünstigung nach § 34a EStG sein. Bei der Ermittlung des
+nicht entnommenen Gewinns gelten sie jedoch als vorrangig entnommen.</lxbase:a><lxbase:beispiel><lxbase:a>Der Gewinn (§ 4 Abs. 1 Satz 1 oder § 5 EStG) des Unternehmens
+beträgt 330.000 €. Hierin sind steuerfreie Gewinnanteile (z. B.
+nach § 3 Nr. 40 EStG) von 50.000 € enthalten. Der Unternehmer hat
+70.000 € entnommen. Einlagen wurden nicht getätigt.</lxbase:a><lxbase:a>Der nicht entnommene Gewinn beträgt 260.000 € (330.000
+€ abzgl. 70.000 € Entnahmen). Der steuerpflichtige Gewinn beträgt
+280.000 € (330.000 € abzgl. 50.000 € steuerfreie Gewinnanteile).
+Der Steuerpflichtige kann einen Antrag nach § 34a EStG für einen
+Gewinn bis zu 260.000 € stellen.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200013">4. Ausländische
+Betriebsstätten</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>18</lxbase:randziffer><lxbase:a>Einkünfte ausländischer Betriebsstätten sind im Rahmen
+des Betriebsvermögensvergleichs des Gesamtunternehmens zu erfassen
+und führen zu einem um die ausländischen Gewinnanteile erhöhten
+oder verminderten Gewinn nach § 4 Abs. 1 Satz 1 oder § 5 EStG. Damit
+beeinflussen ausländische Betriebsstättenergebnisse unmittelbar
+den nicht entnommenen Gewinn des (inländischen) Betriebes. Soweit
+die Gewinne aus ausländischen Betriebsstätten steuerfrei (z. B.
+aufgrund eines Doppelbesteuerungsabkommens) gestellt sind, können
+sie - wie die anderen steuerfreien Gewinnanteile - nicht Gegenstand
+der Tarifbegünstigung nach § 34a EStG sein. Vergleiche im Übrigen
+Tz. 34 ff.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200014">5. Abweichendes
+Wirtschaftsjahr</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>19</lxbase:randziffer><lxbase:a>Bei Personenunternehmen, die Einkünfte aus Gewerbebetrieb
+beziehen und ein abweichendes Wirtschaftsjahr haben, gilt der Gewinn
+in dem Veranlagungsjahr als bezogen, in dem das Wirtschaftsjahr
+endet (§ 4a Abs. 2 Nr. 2 EStG). Eine Aufteilung des Gewinns des
+Wirtschaftsjahrs 2007/2008 sowie der Entnahmen und Einlagen für Zwecke
+des § 34a EStG ist nicht vorzunehmen. Daher kann die Tarifbegünstigung nach
+§ 34a EStG auch schon für den gesamten Gewinn des Wirtschaftsjahrs
+2007/2008 beantragt werden, wenn die übrigen Voraussetzungen erfüllt
+sind.</lxbase:a><lxbase:a>Dagegen ist der Gewinn bei Personenunternehmen, die Einkünfte
+aus Land- und Forstwirtschaft erzielen und ein abweichendes Wirtschaftsjahr
+haben, auf die Kalenderjahre, in denen das Wirtschaftsjahr beginnt
+und endet, zeitanteilig aufzuteilen (§ 4a Abs. 2 Nr. 1 EStG). Die
+Entnahmen und Einlagen sind dabei für Zwecke des § 34a EStG ebenfalls
+zeitanteilig auf die betreffenden Kalenderjahre aufzuteilen. Der Antrag
+nach § 34a Abs. 1 EStG kann somit auch nur für den danach auf das
+jeweilige Kalenderjahr entfallenden nicht entnommenen Gewinn gestellt
+werden.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200015">6. 	Nicht
+entnommener Gewinn bei Personengesellschaften</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>20</lxbase:randziffer><lxbase:a>Bei Mitunternehmeranteilen werden sowohl die Entnahmen
+und Einlagen des Gesamthandsvermögens als auch die des Sonderbetriebsvermögens
+berücksichtigt. Deren Ermittlung erfolgt für Zwecke des § 34a EStG
+mitunternehmeranteilsbezogen, d. h. eine Entnahme des Mitunternehmers
+aus dem Betriebsvermögen der Mitunternehmerschaft mindert den nicht
+entnommenen Gewinn nur, wenn sie in sein Privatvermögen oder in
+ein anderes Betriebsvermögen erfolgt.</lxbase:a><lxbase:a>Die Übertragung eines Wirtschaftsguts aus dem Gesamthandsvermögen
+einer Mitunternehmerschaft in das Sonderbetriebsvermögen eines Mitunternehmers
+bei derselben Mitunternehmerschaft (und umgekehrt) hat keinen Einfluss
+auf die Höhe des nicht entnommenen Gewinns dieses Mitunternehmeranteils.
+Die Zahlung von Sondervergütungen i. S. v. § 15 Abs. 1 Satz 1 Nr.
+2 Satz 1, 2. Halbsatz EStG an einen Mitunternehmer führt nur dann
+zu einer Entnahme i. S. d. § 34a EStG, wenn die Zahlung ins Privatvermögen
+(z. B. auf ein privates Bankkonto des Mitunternehmers) erfolgt.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200016">7.	 Nicht
+entnommener Gewinn bei doppel- und mehrstöckigen Personengesellschaften</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>21</lxbase:randziffer><lxbase:a>Bei doppel- und mehrstöckigen Personengesellschaften ist
+für den Mitunternehmer der Obergesellschaft nur ein einheitlicher
+begünstigter Gewinn zu ermitteln, der neben dem Gewinn aus der Obergesellschaft
+- einschließlich der Ergebnisse aus Ergänzungs- und Sonderbilanzen
+- auch die Ergebnisse aus einer etwaigen Sonderbilanz nach § 15
+Abs. 1 Satz 1 Nr. 2 Satz 2 EStG bei der Untergesellschaft umfasst. Entnahmen
+des Mitunternehmers bei der Obergesellschaft sind zu addieren mit
+Entnahmen, die von ihm aus seinem Sonderbetriebsvermögen bei der
+Untergesellschaft (§ 15 Abs. 1 Satz 1 Nr. 2 Satz 2 EStG) getätigt
+werden. Gleiches gilt für Einlagen.</lxbase:a><lxbase:a>Zahlungen zwischen der Obergesellschaft und der Untergesellschaft
+haben keinen Einfluss auf das Begünstigungsvolumen.</lxbase:a><lxbase:beispiel><lxbase:a>An der X-KG (Obergesellschaft) ist A zu 50 % als Mitunternehmer
+beteiligt. Die X-KG ist ihrerseits an der Y-OHG (Untergesellschaft)
+beteiligt. Die X-KG erzielt (einschließlich des von der Y-OHG stammenden
+Gewinnanteils) einen Gewinn von 80.000 €, der A zur Hälfte zugerechnet
+wird. A erzielt aus einem an die Y-OHG vermieteten Grundstück (Sonderbetriebsvermögen
+des A bei der Y-OHG) einen Gewinn von 5.000 €. Die gesamten Mietzahlungen
+der Y-OHG in Höhe von 20.000 € hat A privat verwendet. Aus der X-KG
+hat A 15.000 € entnommen. Weitere Entnahmen oder Einlagen wurden
+nicht getätigt.</lxbase:a><lxbase:a>Der nicht entnommene Gewinn des A beträgt 10.000 € (40.000
+€ Gewinnanteil Obergesellschaft zzgl. 5.000 € Gewinn aus dem Sonderbetriebsvermögen
+bei der Untergesellschaft) = 45.000 € Gewinn nach § 4 Abs. 1 Satz
+1 EStG abzgl. Saldo aus Entnahmen (15.000 € aus Obergesellschaft
+zzgl. 20.000 € aus Sonderbetriebsvermögen bei der Untergesellschaft
+= 35.000 €) und Einlagen (0 €)).</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200017">III. Begünstigungsbetrag/
+Nachversteuerungspflichtiger Betrag</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>22</lxbase:randziffer><lxbase:a>Aus der Ausgangsgröße des nicht entnommenen Gewinns werden
+zunächst der Begünstigungsbetrag (§ 34a Abs. 3 Satz 1 EStG) und
+daraus der nachversteuerungspflichtige Betrag entwickelt (§ 34a
+Abs. 3 Satz 2 EStG).</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D523161200018">1. Begünstigungsbetrag</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>23	</lxbase:randziffer><lxbase:a>Der Begünstigungsbetrag ist der Teil des nicht entnommenen
+Gewinns, für den der Steuerpflichtige einen Antrag nach § 34a Abs.
+1 EStG stellen kann und diesen auch gestellt hat. Der Begünstigungsbetrag
+ist die Bemessungsgrundlage für die Steuer nach § 34a Abs. 1 Satz
+1 EStG.</lxbase:a><lxbase:beispiel><lxbase:a>Der nicht entnommene Gewinn (§ 34a Abs. 2 EStG) beträgt
+150.000 €. Der Steuerpflichtige stellt einen Antrag nach § 34a Abs.
+1 Satz 1 EStG für 60.000 €.</lxbase:a><lxbase:a>Der Begünstigungsbetrag (§ 34a Abs. 3 Satz 1 EStG) beträgt
+60.000 €.</lxbase:a><lxbase:a>Der Steuerpflichtige muss 90.000 € mit dem progressiven
+persönlichen Steuersatz (Bemessungsgrundlage verbleibendes z. v.
+E. nach Abzug des nach § 34a EStG begünstigt zu versteuernden Gewinns)
+versteuern. Für den Begünstigungsbetrag zahlt er 16.950 € (28,25
+% v. 60.000 €) ESt zzgl. 932,25 € (5,5 % v. 16.950 €) SolZ.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200019">2. Nachversteuerungspflichtiger
+Betrag des Veranlagungszeitraums</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>24</lxbase:randziffer><lxbase:a>Der nachversteuerungspflichtige Betrag des Betriebs oder
+Mitunternehmeranteils für den laufenden Veranlagungszeitraum wird
+aus dem Begünstigungsbetrag durch Abzug der auf den Begünstigungsbetrag
+entfallenden Steuerbelastung (ESt und SolZ, nicht jedoch der KiSt)
+ermittelt. Der Betrag ist Euro und Cent genau zu ermitteln.</lxbase:a><lxbase:beispiel><lxbase:a>Der Steuerpflichtige hat für 60.000 € seines im Jahr 01
+nicht entnommenen Gewinns die Tarifbegünstigung nach § 34a EStG
+beantragt (wie voriges Beispiel).</lxbase:a><lxbase:a>Der nachversteuerungspflichtige Betrag des Jahres 01 ermittelt
+sich wie folgt:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="66*" /><cals:colspec colnum="2" colname="2" colwidth="34*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Begünstigungsbetrag	</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>60.000,00 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Abzgl.
+ESt (28,25 % von 60.000 €)	</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>16.950,00 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Abzgl.
+SolZ (5,5 % von 16.950 €)	</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>932,25 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Nachversteuerungspflichtiger
+Betrag	</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>42.117,75 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200020">3. Ermittlung
+des nachversteuerungspflichtigen Betrags zum Ende des Veranlagungszeitraums</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>25</lxbase:randziffer><lxbase:a>Der nachversteuerungspflichtige Betrag ist jährlich fortzuschreiben
+und zum Ende des Veranlagungszeitraums für jeden Betrieb und Mitunternehmeranteil
+gesondert festzustellen (§ 34a Abs. 3 Satz 3 EStG). In den Fällen
+des § 34a Abs. 7 EStG (vgl. Tz. 47) ist der nachversteuerungspflichtige
+Betrag zum Ende des Tages vor dem steuerlichen Übertragungsstichtag
+festzustellen.</lxbase:a><lxbase:a>Die Ermittlung und Fortschreibung des nachversteuerungspflichtigen
+Betrags (§ 34a Abs. 3 Satz 2 EStG) wird durch das nachfolgende Schema
+veranschaulicht:</lxbase:a><lxbase:a>Nachversteuerungspflichtiger Betrag zum 31.12. des vorangegangenen
+Veranlagungszeitraums </lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="12*" /><cals:colspec colnum="2" colname="2" colwidth="88*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>zzgl.</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>nachversteuerungspflichtiger
+Betrag des laufenden Veranlagungszeitraums (§ 34a Abs. 3 EStG)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>zzgl.</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>auf diesen Betrieb
+oder Mitunternehmeranteil von einem anderen Betrieb oder Mitunternehmeranteil
+desselben Steuerpflichtigen übertragener nachversteuerungspflichtiger
+Betrag (§ 34a Abs. 5 EStG)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>abzgl.</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>Nachversteuerungsbetrag
+des laufenden Veranlagungszeitraums (§ 34a Abs. 4, 5 und 6 EStG)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>abzgl.</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>auf einen anderen
+Betrieb oder Mitunternehmeranteil von diesem Betrieb oder Mitunternehmeranteil
+übertragener nachversteuerungspflichtiger Betrag (§ 34a Abs. 5 EStG)</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>=</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Nachversteuerungspflichtiger
+Betrag zum 31.12. des Veranlagungszeitraums</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200021">IV. Nachversteuerung (§
+34a Abs. 4 EStG)</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>26</lxbase:randziffer><lxbase:a>Liegt in späteren Jahren der positive Saldo von Entnahmen
+und Einlagen über dem Gewinn dieses Jahres, ist nach § 34a Abs.
+4 EStG insoweit eine Nachversteuerung des festgestellten nachversteuerungspflichtigen
+Betrags durchzuführen.</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D523161200022">1. Nachversteuerungsbetrag</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>27</lxbase:randziffer><lxbase:a>Es kommt grundsätzlich zur Nachversteuerung, wenn der
+positive Saldo von Entnahmen und Einlagen im Wirtschaftsjahr den
+(positiven) Gewinn nach § 4 Abs. 1 Satz 1 oder § 5 EStG dieses Wirtschaftsjahrs
+übersteigt (Entnahmenüberhang). Im Fall eines Verlustes ist der
+Entnahmenüberhang so hoch wie der positive Saldo von Entnahmen und
+Einlagen. In Höhe des Entnahmenüberhangs entsteht ein Nachversteuerungsbetrag
+(Ausnahme: Entnahmen zur Zahlung von Erbschaft-/ Schenkungsteuer,
+vgl. Tz. 30 und Fälle des § 34a Abs. 5 Satz 2 EStG, vgl. Tz. 32
+und 33). Die Nachversteuerung wird in Höhe des Nachversteuerungsbetrags
+(max. in Höhe des festgestellten nachversteuerungspflichtigen Betrags)
+mit einem festen Steuersatz von 25 % zzgl. Solidaritätszuschlag
+und ggf. Kirchensteuer neben der Versteuerung des zu versteuernden
+Einkommens des laufenden Veranlagungszeitraums mit dem persönlichen
+Steuersatz vorgenommen.</lxbase:a><lxbase:beispiel><lxbase:a>Der Steuerpflichtige hat im Jahr 04 einen Gewinn nach
+§ 4 Abs. 1 Satz 1 EStG i. H. v. 8.000 €. Die Entnahmen betragen
+50.000 €. Der für das Vorjahr festgestellte nachversteuerungspflichtige
+Betrag beträgt 60.000 €. Einlagen wurden nicht getätigt.</lxbase:a><lxbase:a>Der Steuerpflichtige muss den laufenden Gewinn des Jahres
+(8.000 €) nach § 32a EStG versteuern. Der Entnahmenüberhang beträgt
+42.000 €, für die er 10.500 € ESt (25 % von 42.000 €) und 577,50
+€ SolZ zahlen muss. Der nachversteuerungspflichtige Betrag zum 31.12.04
+ist i. H. v. 18.000 € festzustellen.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>28</lxbase:randziffer><lxbase:a>Bei der Ermittlung des Entnahmenüberhangs sind außerbilanzielle
+Hinzurechnungen (z. B. nicht abzugsfähige Betriebsausgaben) nicht
+zu berücksichtigen.</lxbase:a><lxbase:a>Beispiel:</lxbase:a><lxbase:a>Der Steuerpflichtige hat im Jahr 04 einen Gewinn nach
+§ 4 Abs. 1 Satz 1 EStG i. H. v. 60.000 €. Es sind nicht abzugsfähige
+Betriebsausgaben nach § 4 Abs. 5 EStG i. H. v. 30.000 € entstanden.
+Die Entnahmen betragen 80.000 €. Der für das Vorjahr festgestellte
+nachversteuerungspflichtige Betrag beträgt 60.000 €. Einlagen wurden
+nicht getätigt.</lxbase:a><lxbase:a>Der Steuerpflichtige muss den laufenden Gewinn des Jahres
+(90.000 € (60.000 € zzgl. nichtabzugsfähige Betriebsausgaben von
+30.000 €)) nach § 32a EStG versteuern. Der Entnahmenüberhang beträgt
+20.000 € (60.000 € abzgl. 80.000 €), für die er 5.000 € ESt (25
+% von 20.000 €) und 275 € SolZ zahlen muss. Der nachversteuerungspflichtige
+Betrag zum 31.12.04 ist i. H. v. 40.000 € festzustellen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200023">2. Verwendungsreihenfolge</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>29</lxbase:randziffer><lxbase:a>Die Verwendungsreihenfolge des positiven Saldos aus Entnahmen
+und Einlagen ist wie folgt aufgebaut:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>	positiver
+steuerfreier Gewinn des laufenden Jahres</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>	positiver steuerpflichtiger
+Gewinn des laufenden Jahres</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a>	nicht entnommene und nach
+§ 34a EStG begünstigte Gewinne der Vorjahre (= Nachversteuerungspflichtiger
+Gewinn der Vorjahre)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a>	steuerfreie und nicht entnommene
+mit dem persönlichen Steuersatz versteuerte Gewinne der Vorjahre.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200024">3. Entnahmen
+zur Zahlung von Erbschaft-/ Schenkungsteuer</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>30</lxbase:randziffer><lxbase:a>Eine Nachversteuerung nach § 34a Abs. 4 Satz 1 EStG ist
+nicht durchzuführen, soweit sie durch Entnahmen für die Erbschaft-/
+Schenkungsteuer anlässlich der Übertragung des Betriebs oder Mitunternehmeranteils
+ausgelöst wird. Die Erbschaft-/ Schenkungsteuer anlässlich der Übertragung
+des Betriebs oder Mitunternehmeranteils berechnet sich wie folgt:</lxbase:a><lxbase:abbildung><lxbase:graphik width="697" xoffset="0.001pt" nsoffset="0.001pt" angle="0.000" align="center" position="inline" impang="0.000" cropped="0" height="186" float="0" sideways="0" dpi="150" bild="d5231612-001.gif" yoffset="0.001pt" bloffset="-1.364pt" /></lxbase:abbildung></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>31</lxbase:randziffer><lxbase:a>Entnahmen für die Erbschaft-/ Schenkungsteuer sind bei
+der Ermittlung des nicht entnommenen Gewinns des laufenden Wirtschaftsjahrs
+zu berücksichtigen (vgl. Tz. 11). Die Regelung des § 34a Abs. 4
+Satz 1 EStG lässt diese nur bei der Ermittlung des Nachversteuerungsbetrags
+unberücksichtigt.</lxbase:a><lxbase:a>Eine Entnahme aus einem Betrieb für die Erbschaftsteuer
+eines anderen Betriebsvermögens desselben Steuerpflichtigen fällt
+nicht unter die Ausnahmeregelung und führt daher im Fall des Entnahmenüberhangs
+zur Nachversteuerung beim Betrieb, bei dem die Entnahme getätigt
+wurde.</lxbase:a><lxbase:a>Wird die Erbschaft-/ Schenkungsteuer nur teilweise aus
+dem Betrieb entnommen, gilt die Entnahme vorrangig als für die auf
+den Betrieb oder Mitunternehmeranteil entfallende Erbschaft-/ Schenkungsteuer
+getätigt.</lxbase:a><lxbase:beispiel><lxbase:a>Die Erbschaftsteuer beträgt insgesamt 100.000 €, davon
+entfallen 50.000 € auf den geerbten Gewerbebetrieb. Zur Bezahlung
+der Erbschaftsteuer entnimmt der Steuerpflichtige 80.000 € aus dem
+Betrieb. Die restlichen 20.000 € werden aus privaten Mitteln beglichen.
+Der Gewinn des Betriebs beträgt 0 €. Es wurde ein nachversteuerungspflichtiger
+Betrag von 60.000 € für diesen Betrieb festgestellt.</lxbase:a><lxbase:a>Der Entnahmenüberhang beträgt 80.000 €. Davon entfallen
+50.000 € auf die Entnahme für Erbschaftsteuer (§ 34a Abs. 4 Satz
+1 EStG). Es sind daher lediglich 30.000 € nachzuversteuern.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200025">V. Übertragungen und Überführungen
+von einzelnen Wirtschaftsgütern</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523161200026">1. Entnahmereihenfolge
+bei Übertragung oder Überführung von einzelnen Wirtschaftsgüter
+(§ 34a Abs. 5 EStG)</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>32</lxbase:randziffer><lxbase:a>Es besteht nach § 34a Abs. 5 Satz 2 EStG die Möglichkeit,
+bei Übertragungen und Überführungen von einzelnen Wirtschaftsgütern
+zum Buchwert in ein anderes Betriebsvermögen nach § 6 Abs. 5 ESG
+statt einer Nachversteuerung beim Ursprungsbetrieb den (anteiligen)
+nachversteuerungspflichtigen Betrag auf das übernehmende Unternehmen
+zu übertragen.</lxbase:a><lxbase:a>§ 34a Abs. 5 Satz 2 EStG ist nicht anzuwenden, wenn Geldbeträge
+von einem Betrieb oder Mitunternehmeranteil in einen anderen Betrieb
+oder Mitunternehmeranteil des Steuerpflichtigen unter den Voraussetzungen
+des § 6 Abs. 5 EStG überführt oder übertragen werden.</lxbase:a><lxbase:a>Ist in späteren Wirtschaftsjahren nach § 6 Abs. 5 Satz
+4 oder 6 EStG für den Übertragungs-/ Überführungsvorgang auf Grund
+eines schädlichen Ereignisses rückwirkend der Teilwert anzusetzen,
+ist insoweit die Übertragung des nachversteuerungspflichtigen Betrags
+rückgängig zu machen.</lxbase:a><lxbase:beispiel><lxbase:a>Der Steuerpflichtige überführt in 01 ein Grundstück (Buchwert
+200.000 €) zum Buchwert von seinem Einzelunternehmen in das Sonderbetriebsvermögen
+einer Personengesellschaft, an der er beteiligt ist. Der Steuerpflichtige
+tätigt in 01 übrige Entnahmen i. H. v. 60.000 €. Der Gewinn seines
+Einzelunternehmens beträgt in 01 40.000 €. Der nachversteuerungspflichtige
+Betrag des Einzelunternehmens zum 31.12.00 beträgt 300.000 €. Einlagen
+wurden nicht getätigt.</lxbase:a><lxbase:a>Die Gesamtentnahmen des Steuerpflichtigen betragen 260.000
+€. Der Nachversteuerungsbetrag nach § 34a Abs. 4 EStG beträgt zunächst
+220.000 € (260.000 € Entnahmen abzgl. 40.000 € Gewinn). Auf Antrag
+des Steuerpflichtigen können 200.000 € (= Buchwert des überführten
+Grundstücks) auf den nachversteuerungspflichtigen Betrag des Mitunternehmeranteils
+übertragen werden. Es verbleiben 20.000 €, die der Nachversteuerung
+mit 25 % unterliegen (= 5.000 €). Der nachversteuerungspflichtige
+Betrag des Einzelunternehmens zum 31.12.01 beträgt 80.000 € (300.000 €
+abzgl. 200.000 € Übertragung abzgl. 20.000 € Nachversteuerung).</lxbase:a></lxbase:beispiel></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>33</lxbase:randziffer><lxbase:a>Der übertragungsfähige nachversteuerungspflichtige Betrag
+i. S. d. § 34a Abs. 5 EStG ist der nach Berücksichtigung der übrigen
+Entnahmen und hierauf nach § 34a Abs. 4 EStG erfolgender Nachversteuerungen
+verbleibende nachversteuerungspflichtige Betrag, maximal jedoch
+der Buchwert.</lxbase:a><lxbase:beispiel><lxbase:a>Der Steuerpflichtige überführt in 01 ein Grundstück (Buchwert
+200.000 €) zum Buchwert von seinem Einzelunternehmen in das Sonderbetriebsvermögen
+einer Personengesellschaft, an der er beteiligt ist. Der Steuerpflichtige
+tätigt in 01 übrige Entnahmen i. H. v. 60.000 €. Der Gewinn seines
+Einzelunternehmens beträgt in 01 0 €. Der nachversteuerungspflichtige
+Betrag des Einzelunternehmens zum 31.12.00 beträgt 150.000 €. Einlagen
+wurden nicht getätigt.</lxbase:a><lxbase:a>Die Gesamtentnahmen des Steuerpflichtigen betragen 260.000
+€. Der Entnahmenüberhang nach § 34a Abs. 4 EStG beträgt (zunächst)
+260.000 €, da ein Gewinn nicht erzielt wurde. Der Steuerpflichtige
+muss 60.000 € nachversteuern, da der Entnahmenüberhang insoweit
+auf den übrigen Entnahmen beruht. Auf Antrag des Steuerpflichtigen
+können 90.000 € (= Buchwert des überführten Grundstücks (200.000
+€, maximal jedoch verbleibender nachversteuerungspflichtiger Betrag
+(150.000 € abzgl. Nachversteuerungsbetrag 60.000 €) auf den nachversteuerungspflichtigen Betrag
+des Mitunternehmeranteils übertragen werden. Der nachversteuerungspflichtige
+Betrag des Einzelunternehmens zum 31.12.01 beträgt 0 € (150.000
+€ abzgl. 60.000 € Nachversteuerungsbetrag abzgl. 90.000 € Übertragungsbetrag).</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200027">2. Grenzüberschreitende
+Überführungen und Übertragungen von Wirtschaftsgütern</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>34</lxbase:randziffer><lxbase:a>Entnahmen i. S. d. § 4 Abs. 1 Satz 3 ff. EStG aufgrund
+der Überführung oder Übertragung von Wirtschaftsgütern aus einem
+inländischen Betriebsvermögen in ein ausländisches Betriebsvermögen
+desselben Steuerpflichtigen sind grundsätzlich auch bei der Ermittlung
+des nicht entnommenen Gewinns und des Entnahmenüberhangs i. S. d.
+§ 34a EStG zu berücksichtigen. Gleiches gilt für Einlagen i. S d.
+§ 4 Abs. 1 Satz 7 EStG aufgrund der Überführung oder Übertragung
+aus einem ausländischen Betriebsvermögen in ein inländisches Betriebsvermögen
+desselben Steuerpflichtigen. Dabei sind jedoch folgende Fallgruppen
+zu unterscheiden:</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D523161200028">a. Überführungen
+innerhalb eines Betriebs oder Mitunternehmeranteils</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>35</lxbase:randziffer><lxbase:a>Bei unbeschränkt Steuerpflichtigen wirkt sich die Überführung
+eines Wirtschaftsguts von einer inländischen in eine ausländische
+Betriebsstätte nicht auf den Gewinn des Gesamtunternehmens aus,
+da der Entnahme aus der inländischen Betriebsstätte eine korrespondierende
+Einlage in die ausländische Betriebsstätte gegenübersteht. Entsprechendes
+gilt für die Überführung eines Wirtschaftsguts von einer ausländischen
+in eine inländische Betriebsstätte.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>36</lxbase:randziffer><lxbase:a>Bei beschränkt Steuerpflichtigen ist die Anwendung des
+§ 34a EStG begrenzt auf den nicht entnommenen Gewinn/den Entnahmenüberhang
+der inländischen Betriebsstätte (vgl. Tz. 3). Die der Einlage in
+die inländische Betriebsstätte vorhergehende Entnahme aus dem ausländischen
+Betriebsvermögen oder die der Entnahme aus der inländischen Betriebsstätte
+nachfolgenden Einlage in das ausländische Betriebsvermögen bleibt
+infolge der in Satz 1 beschriebenen Begrenzung unberücksichtigt.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200029">b. Überführungen
+und Übertragungen zwischen mehreren Betrieben oder Mitunternehmeranteilen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>37</lxbase:randziffer><lxbase:a>Die Überführung eines Wirtschaftsguts von einem inländischen
+Betrieb in einen anderen, im Ausland belegenen Betrieb desselben
+unbeschränkt Steuerpflichtigen ist eine Entnahme aus dem inländischen
+und eine Einlage in den ausländischen Betrieb. Eine Zusammenfassung
+ist - wie bei reinen Inlandsvorgängen - nicht zulässig. Entsprechendes
+gilt für die Überführung eines Wirtschaftsguts von einem ausländischen Betrieb
+in einen anderen, im Inland belegenen Betrieb desselben unbeschränkt Steuerpflichtigen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>38</lxbase:randziffer><lxbase:a>Bei beschränkt Steuerpflichtigen haben derartige Vorgänge
+nur Bedeutung für den nicht entnommenen Gewinn/den Entnahmenüberhang
+der inländischen Betriebsstätte. Infolge der in Tz. 36 Satz 1 beschriebenen
+Begrenzung auf den nicht entnommenen Gewinn/den Entnahmenüberhang
+der inländischen Betriebsstätte sind die Verhältnisse im Ausland
+ohne Bedeutung.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>39</lxbase:randziffer><lxbase:a>Die grenzüberschreitende Übertragung eines Wirtschaftsguts
+aus dem oder in das Gesamthandsvermögen einer Personengesellschaft
+steht der grenzüberschreitenden Überführung aus einem oder in einen
+Betrieb gleich. Insoweit gelten die Ausführungen in Tz. 37 entsprechend.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200030">c. Grenzüberschreitende
+Überführungen und Übertragungen bei Einkünften aus Land- und Forstwirtschaft
+und selbständiger Arbeit</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>40</lxbase:randziffer><lxbase:a>Die vorstehenden Grundsätze gelten sinngemäß für Einkünfte
+aus Land- und Forstwirtschaft und selbständiger Arbeit.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200031">VI. Nachversteuerungsfälle
+nach § 34a Abs. 6 EStG</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>41</lxbase:randziffer><lxbase:a>Nach § 34a Abs. 6 EStG ist eine Nachversteuerung auch
+in den folgenden Fällen durchzuführen:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>Betriebsaufgaben (einschl. Realteilung nach § 16 Abs.
+3 Satz 2 bis 4 EStG), -veräußerungen (vgl. Tz. 42)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Umwandlungsfälle (vgl. Tz.
+43)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Wechsel der Gewinnermittlungsart
+(vgl. Tz. 44)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Antrag des Steuerpflichtigen
+(freiwillige Nachversteuerung) (vgl. Tz. 45).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D523161200032">1. Betriebsaufgabe,
+-veräußerung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>42</lxbase:randziffer><lxbase:a>Wird ein ganzer Betrieb oder ein ganzer Mitunternehmeranteil
+vollständig aufgegeben, real geteilt oder veräußert (§ 16 EStG),
+entfällt die Grundlage für die Tarifbegünstigung nach § 34a EStG
+und damit die Möglichkeit, beim Steuerpflichtigen eine Nachversteuerung
+durchzuführen (§ 34a Abs. 6 Satz 1 Nr. 1 EStG). Der für diesen Betrieb
+oder Mitunternehmeranteil festgestellte nachversteuerungspflichtige
+Betrag ist in voller Höhe aufzulösen und nachzuversteuern. Dies
+gilt auch für die Fälle des § 16 Abs. 2 Satz 3 EStG.</lxbase:a><lxbase:a>Veräußert der Steuerpflichtige nur einen Teil seines Betriebs
+oder Mitunternehmeranteils oder einen Teilbetrieb, löst dies hingegen
+keine Nachversteuerung der zuvor nach § 34a EStG begünstigten Gewinne
+aus, da eine Nachversteuerung beim Steuerpflichtigen im Rahmen des
+verbleibenden Teils des Betriebs oder Mitunternehmeranteils weiterhin
+möglich ist.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200033">2. Umwandlungsfälle</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>43</lxbase:randziffer><lxbase:a>Eine Nachversteuerung in voller Höhe des festgestellten
+nachversteuerungspflichtigen Betrags ist bei Einbringung eines Betriebs
+oder Mitunternehmeranteils in eine Kapitalgesellschaft oder eine
+Genossenschaft sowie in den Fällen des Formwechsels einer Personengesellschaft
+in eine Kapitalgesellschaft oder Genossenschaft vorzunehmen (§ 34a
+Abs. 6 Satz 1 Nr. 2 EStG). Bei der Einbringung eines Teils eines Betriebs,
+eines Teilbetriebs oder eines Teils eines Mitunternehmeranteils
+gilt Tz. 42 2. Absatz entsprechend.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200034">3. Wechsel
+der Gewinnermittlungsart</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>44</lxbase:randziffer><lxbase:a>Beim Übergang von der Gewinnermittlung durch Betriebsvermögensvergleich
+zur Einnahmenüberschussrechnung oder zu einer pauschalierten Gewinnermittlung
+(z. B. § 5a EStG, § 13a EStG) ist der festgestellte nachversteuerungspflichtige
+Betrag ebenfalls in voller Höhe aufzulösen (§ 34a Abs. 6 Satz 1
+Nr. 3 EStG).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200035">4. Antrag
+auf Nachversteuerung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>45</lxbase:randziffer><lxbase:a>Eine Nachversteuerung des gesamten oder eines Teils des
+festgestellten nachversteuerungspflichtigen Betrags ist zudem durchzuführen,
+wenn der Steuerpflichtige dies beantragt (§ 34a Abs. 6 Satz 1 Nr.
+4 EStG).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200036">5. Stundung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>46</lxbase:randziffer><lxbase:a>Bei Nachversteuerungen nach § 34a Abs. 6 Satz 1 Nr. 1
+und 2 EStG besteht die Möglichkeit, die nach § 34a Abs. 4 EStG geschuldete
+Steuer über einen Zeitraum von bis zu 10 Jahren zinslos zu stunden.
+Voraussetzung ist jedoch, dass die sofortige Begleichung der Steuer
+eine erhebliche Härte darstellen würde. Ob eine erhebliche Härte vorliegt,
+ist nach den Gesamtumständen des jeweiligen Einzelfalls nach den
+Grundsätzen des § 222 AO zu prüfen.</lxbase:a><lxbase:a>Eine Stundung nach § 34a Abs. 6 Satz 2 EStG ist bei Wechsel
+der Gewinnermittlungsart und bei freiwilliger Nachversteuerung nicht
+vorgesehen. Die Stundungsmöglichkeit nach § 222 AO bleibt unberührt.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200037">VII. Fälle des § 6 Abs.
+3 EStG und § 24 UmwStG</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>47</lxbase:randziffer><lxbase:a>In den Fällen der unentgeltlichen Übertragung eines ganzen
+Betriebs oder eines ganzen Mitunternehmeranteils nach § 6 Abs. 3
+EStG und den Fällen der Einbringung eines ganzen Betriebs oder eines
+ganzen Mitunternehmeranteils zu Buchwerten in eine Personengesellschaft
+nach § 24 UmwStG ist nach § 34a Abs. 7 EStG der für diesen Betrieb
+oder Mitunternehmeranteil festgestellte nachversteuerungspflichtige Betrag
+(vgl. Tz. 25) auf den neuen (Mit-)Unternehmer zu übertragen. Bei
+der Übertragung eines Teils eines Betriebs, eines Teilbetriebs oder
+eines Teils eines Mitunternehmeranteils verbleibt der nachversteuerungspflichtige
+Betrag in voller Höhe beim bisherigen (Mit-)Unternehmer. Erfolgt
+die Einbringung eines ganzen Betriebs oder eines ganzen Mitunternehmeranteils
+hingegen nicht zu Buchwerten, ist der nachversteuerungspflichtige
+Betrag im Jahr der Einbringung in voller Höhe nachzuversteuern.</lxbase:a><lxbase:a>Findet die unentgeltliche Übertragung des Betriebs oder
+Mitunternehmeranteils nicht zum Ende des Wirtschaftsjahres statt,
+ist eine Schlussbilanz auf den Zeitpunkt der Übertragung zu erstellen.
+Geschieht dies nicht, sind die Entnahmen und Einlagen des Wirtschaftsjahres
+der Übertragung vor dem Übertragungsstichtag dem Rechtsvorgänger
+und die Entnahmen und Einlagen des Wirtschaftsjahres der Übertragung nach
+dem Übertragungsstichtag dem Rechtsnachfolger zuzurechnen. Maßgeblich
+ist der tatsächliche Zeitpunkt der Entnahmen und Einlagen. Der Gewinn
+des Wirtschaftsjahres der Übertragung ist im Wege der Schätzung
+auf Rechtsvorgänger und Rechtsnachfolger aufzuteilen. Zur Feststellung
+des nachversteuerungspflichtigen Betrags vgl. Tz. 25 Satz 2.</lxbase:a><lxbase:a>Die Übertragung des nachversteuerungspflichtigen Betrags
+auf den Rechtsnachfolger kann vermieden werden, wenn der Rechtsvorgänger
+vor der Übertragung die Nachversteuerung nach § 34a Abs. 6 Satz
+1 Nr. 4 EStG beantragt.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523161200038">VIII. Anwendungszeitpunkt</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>48</lxbase:randziffer><lxbase:a>Dieses Schreiben ist ab Veranlagungszeitraum 2008 anzuwenden.</lxbase:a><lxbase:a>Dieses Schreiben wird im Bundessteuerblatt Teil I veröffentlicht.</lxbase:a><lxbase:a><lxbase:unterst>Zusatz der OFD Frankfurt am Main vom 9.
+11. 2011 und vom 10. 3. 2015: </lxbase:unterst></lxbase:a><lxbase:a><lxbase:unterst>Gesonderte Feststellung</lxbase:unterst></lxbase:a><lxbase:a>Hinsichtlich der nach § 34a Abs. 10 EStG durchzuführenden
+gesonderten Feststellung verweise ich auf die AO-Kartei § 180 Karte
+1N.</lxbase:a><lxbase:a>Sobald der nachversteuerungspflichtige Betrag im Rahmen
+der Einkommensteuer vollständig nachversteuert wurde, ist eine gesonderte
+Feststellung der für die Tarifermittlung erforderlichen Besteuerungsgrundlagen
+nicht mehr erforderlich. ESt-4B-Mitteilungen enthalten daher in
+den entsprechenden Fällen die Bitte mitzuteilen, dass Angaben nach
+§ 34a EStG nicht mehr benötigt werden. Solche Mitteilungen können
+nicht programmgesteuert erstellt werden, sondern sind von den Wohnsitz-Finanzämtern
+der betreffenden Gesellschafter personell zu fertigen und dem für
+die Personengesellschaft zuständigen Betriebs-Finanzamt zu übermitteln.</lxbase:a><lxbase:a><lxbase:unterst>Entnahme ausländischer Erbschaftsteuer</lxbase:unterst></lxbase:a><lxbase:a>Das HMdF hat mit Erlass vom 30.04.2010 <lxbase:az normform="S2290aA001II31" manuell="nein">S-2290a A - 001
+- II 31</lxbase:az> folgendes mitgeteilt:</lxbase:a><lxbase:a>Nach § 34a Abs. 4 Satz 3 EStG ist der Nachversteuerungsbetrag
+um die Beträge, die für die Erbschaftsteuer (Schenkungsteuer) anlässlich
+der Übertragung des Betriebs oder Mitunternehmeranteils entnommen
+werden, zu vermindern.</lxbase:a><lxbase:a>Der Wortlaut der Vorschrift unterscheidet dabei weder
+zwischen in- und ausländischer Erbschaftsteuer (Schenkungsteuer)
+noch zwischen Erbschaftsteuer (Schenkungsteuer) aus EU-Mitgliedstaaten
+und sonstigen Drittstaaten.</lxbase:a><lxbase:a>Vielmehr ist für die Minderung des Nachversteuerungsbetrags
+Voraussetzung, dass die tatsächlich gezahlte und keinem Ermäßigungsanspruch
+- auch nicht durch Anrechnung im jeweiligen nationalen Recht - unterliegende
+Erbschaftsteuer (Schenkungsteuer) für einen inländischen Betrieb
+oder Mitunternehmeranteil gezahlt wird (betriebsbezogene Betrachtungsweise).
+Außerdem ist zu beachten, dass die ausländische Erbschaftsteuer
+der deutschen Erbschaftsteuer entsprechen muss.</lxbase:a><lxbase:a>In diesem Zusammenhang merke ich an, dass ein bundeseinheitlich
+abgestimmtes Verzeichnis "Ausländische Steuern, die der deutschen
+Erbschaft-/Schenkungsteuer entsprechen" derzeit nicht geplant ist.
+Bekannt ist bislang lediglich, dass die kanadische "capital gains
+tax" und die portugiesische Erbersatzsteuer negativ von der deutschen
+Erbschaftsteuer abgegrenzt wurden, weil es sich bei diesen - ihrer
+jeweiligen Erhebungsform nach - um Steuern auf das Einkommen handelt.</lxbase:a><lxbase:a><lxbase:unterst>Unentgeltliche Übertragung eines Teilbetriebes
+oder eines Teils eines Mitunternehmeranteils</lxbase:unterst></lxbase:a><lxbase:a>Diese Vorgänge sind nicht als Entnahme anzusehen, da auch
+im Rahmen des § 34a EStG die allgemein gültige Definition der Gewinnermittlungsbegriffe
+anzuwenden ist. Daher lösen sie <lxbase:fett>keine</lxbase:fett> sofortige
+Nachversteuerung aus.</lxbase:a><lxbase:a>Zusatz der OFD Frankfurt am Main vom 19.10.2017:</lxbase:a><lxbase:a><lxbase:unterst>Gesonderte Feststellung</lxbase:unterst></lxbase:a><lxbase:a>Hinsichtlich der nach § 34a Abs. 10 EStG durchzuführenden
+gesonderten Feststellung verweise ich auf ofix: AO/180/6.</lxbase:a><lxbase:a>Sobald der nachversteuerungspflichtige Betrag im Rahmen
+der Einkommensteuer vollständig nachversteuert wurde, ist eine gesonderte
+Feststellung der für die Tarifermittlung erforderlichen Besteuerungsgrundlagen
+nicht mehr erforderlich. ESt-4B-Mitteilungen enthalten daher in
+den entsprechenden Fällen die Bitte mitzuteilen, dass Angaben nach
+§ 34a EStG nicht mehr benötigt werden. Solche Mitteilungen können
+nicht programmgesteuert erstellt werden, sondern sind von den Wohnsitz-Finanzämtern
+der betreffenden Gesellschafter personell zu fertigen und dem für
+die Personengesellschaft zuständigen Betriebs-Finanzamt zu übermitteln.</lxbase:a><lxbase:a><lxbase:unterst>Entnahme ausländischer Erbschaftsteuer</lxbase:unterst></lxbase:a><lxbase:a>Das HMdF hat mit Erlass vom 30.04.2010 <lxbase:az normform="S2290aA001II31" manuell="nein">S 2290a A – 001
+– II 31</lxbase:az> folgendes mitgeteilt:</lxbase:a><lxbase:a>Nach § 34a Abs. 4 Satz 3 EStG ist der Nachversteuerungsbetrag
+um die Beträge, die für die Erbschaftsteuer (Schenkungsteuer) anlässlich
+der Übertragung des Betriebs oder Mitunternehmeranteils entnommen
+werden, zu vermindern.</lxbase:a><lxbase:a>Der Wortlaut der Vorschrift unterscheidet dabei weder
+zwischen in- und ausländischer Erbschaftsteuer (Schenkungsteuer)
+noch zwischen Erbschaftsteuer (Schenkungsteuer) aus EU-Mitgliedstaaten
+und sonstigen Drittstaaten.</lxbase:a><lxbase:a>Vielmehr ist für die Minderung des Nachversteuerungsbetrags
+Voraussetzung, dass die tatsächlich gezahlte und keinem Ermäßigungsanspruch
+– auch nicht durch Anrechnung im jeweiligen nationalen Recht – unterliegende
+Erbschaftsteuer (Schenkungsteuer) für einen inländischen Betrieb
+oder Mitunternehmeranteil gezahlt wird (betriebsbezogene Betrachtungsweise).
+Außerdem ist zu beachten, dass die ausländische Erbschaftsteuer
+der deutschen Erbschaftsteuer entsprechen muss.</lxbase:a><lxbase:a>In diesem Zusammenhang merke ich an, dass ein bundeseinheitlich
+abgestimmtes Verzeichnis „Ausländische Steuern, die der deutschen
+Erbschaft-/Schenkungsteuer entsprechen“ derzeit nicht geplant ist.
+Bekannt ist bislang lediglich, dass die kanadische „capital gains
+tax“ und die portugiesische Erbersatzsteuer negativ von der deutschen
+Erbschaftsteuer abgegrenzt wurden, weil es sich bei diesen – ihrer
+jeweiligen Erhebungsform nach – um Steuern auf das Einkommen handelt.</lxbase:a><lxbase:a><lxbase:unterst>Unentgeltliche Übertragung eines Teilbetriebes
+oder eines Teils eines Mitunternehmeranteils</lxbase:unterst></lxbase:a><lxbase:a>Diese Vorgänge sind nicht als Entnahme anzusehen, da auch
+im Rahmen des § 34a EStG die allgemein gültige Definition der Gewinnermittlungsbegriffe
+anzuwenden ist. Daher lösen sie <lxbase:fett>keine</lxbase:fett> sofortige
+Nachversteuerung aus.</lxbase:a><lxbase:a><lxbase:unterst>Verhältnis zu Verlustausgleich und Verlustabzug</lxbase:unterst></lxbase:a><lxbase:a>Das Finanzgericht Baden-Württemberg hat mit Urteil vom
+07.11.2014 – <lxprod:doknr-verw linkend="HT5017292">9 K 3297/13</lxprod:doknr-verw> klargestellt, dass der Ausgangspunkt für
+die Berechnung des begünstigten Gewinns nach § 34a EStG das zu versteuernde
+Einkommen nach § 2 Abs. 5 EStG sei. § 34a EStG werde auf das zu
+versteuernde Einkommen <lxbase:fett>nach </lxbase:fett>Durchführung
+eines horizontalen und vertikalen Verlustausgleichs angewendet.
+Die thesaurierten Gewinne blieben Teil der synthetischen ESt und
+würden nicht aus diesem System herausgelöst.</lxbase:a><lxbase:a>Demzufolge sind die betrieblichen Einkünfte aus mehreren
+Einzelunternehmen und/oder mehreren Beteiligungen an Mitunternehmerschaften
+zu saldieren. Nur wenn danach positive betriebliche Einkünfte verbleiben,
+kommt § 34a EStG zur Anwendung.</lxbase:a><lxbase:a>Der BFH hat diese Rechtsauffassung mit Urteil vom 20.03.2017
+(<lxprod:doknr-verw linkend="HT0950344">BStBl II 2017, 958</lxprod:doknr-verw>) bestätigt. Die Thesaurierungsbegünstigung des
+§ 34a EStG kann danach nicht in Anspruch genommen werden, wenn zwar
+begünstigungsfähige Einkünfte vorhanden sind, das zu versteuernde
+Einkommen aber negativ ist.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Körperschaftsteuer</lxbase:rthema><lxbase:rthema>ELWI-REWE</lxbase:rthema><lxbase:rthema>ELWI-Lohn</lxbase:rthema><lxbase:rthema>ELWI-Lohn</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Rheinland-Pfalz</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Bayern</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:uuthemen><lxbase:thema>Weitergeltung Normenflut</lxbase:thema></lxbase:uuthemen><lxbase:newsrelevant datum="2008-08-14" /><lxbase:newsgebiete><lxbase:newsgebiet>einkommensteuer/lohnsteuer</lxbase:newsgebiet></lxbase:newsgebiete><lxbase:newsletterlex><lxbase:newsletterrelevant ausgabe="200833" relevant="ja" /><lxbase:newsletter-text><lxbase:a>Im Einvernehmen mit den obersten Finanzbehörden der Länder
+nimmt das BMF zur Anwendung der Tarifbegünstigung für nicht entnommene
+Gewinne nach § 34a EStG Stellung.</lxbase:a><lxbase:a>Der unbeschränkt oder beschränkt Steuerpflichtige kann
+die Tarifbegünstigung nach § 34a EStG für Einkünfte aus Land- und
+Forstwirtschaft (§ 13 EStG), Gewerbebetrieb (§ 15 EStG) und selbständiger
+Arbeit (§ 18 EStG) für den nicht entnommenen Teil des Gewinns aus
+einem Einzelunternehmen oder aus einem Mitunternehmeranteil in Anspruch
+nehmen. Die Ermittlung des zu versteuernden Einkommens (§ 2 Abs.
+5 EStG) bleibt durch § 34a EStG unberührt. Damit sind insbesondere
+die Regelungen über den Verlustausgleich und -abzug vorrangig zu
+beachten. Der Verlustausgleich und -abzug ist auch dann vorzunehmen,
+wenn für nicht entnommene Gewinne die Tarifbegünstigung nach § 34a
+EStG in Anspruch genommen wird. Durch § 34a EStG kann daher kein
+Verlustvortrag nach § 10d EStG generiert werden. </lxbase:a><lxbase:a>Das Anwendungsschreiben ist ab VZ 2008 anzuwenden.</lxbase:a></lxbase:newsletter-text></lxbase:newsletterlex></lxbase:allgemeine-angaben></lxrvw:rspvwa>

@@ -1,0 +1,1011 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="5232628" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:externe-dateien><lxbase:datei name="d5232628.gif" /></lxbase:externe-dateien><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bayerisches Staatsministerium der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>37 - S-0853 - 109 - 707/10</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-0853</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-0853 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-0853 | S</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Recht" id="08" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2010-01-12" ts="nein" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BStBl-2010-I-0196</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:jahre><lxbase:jahr jahr="2010" /><lxbase:jahr jahr="2009" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Bekanntmachung über die Steuerberaterprüfung
+2009</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800001"><lxbase:a>Prüfungsaufgaben aus dem Verfahrensrecht und anderen
+Steuerrechtsgebieten</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800002"><lxbase:a>Teil I: Abgabenordnung
+und Finanzgerichtsordnung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800003"><lxbase:a>Teil II: Umsatzsteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800004"><lxbase:a>Teil III: Erbschaftsteuer
+und Schenkungsteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800005"><lxbase:a>Prüfungsaufgaben
+aus dem Gebiet der Ertragsteuern</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800006"><lxbase:a>Teil I: Einkommensteuer/Gewerbesteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800007"><lxbase:a>Teil II: Körperschaftsteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800008"><lxbase:a>Prüfungsaufgaben
+aus dem Gebiet Buchführung und Bilanzwesen</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800009"><lxbase:a>Teil I: Einzelunternehmen
+Alt</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800010"><lxbase:a>Teil II: Fünf
+(unabhängige) Sachverhalte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800011"><lxbase:a>Teil III: A-GmbH</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523262800012"><lxbase:a>Anlage zum
+Teil III (Sachverhalt A-GmbH):</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:a>Im Einvernehmen mit den obersten Finanzbehörden der
+Länder werden nachstehend die Prüfungsaufgaben
+der Aufsichtsarbeiten des schriftlichen Teils der Steuerberaterprüfung
+2009 veröffentlicht.</lxbase:a><lxbase:a align="zentriert"><lxbase:fett>Steuerberaterprüfung 2009</lxbase:fett></lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D523262800001">Prüfungsaufgaben
+aus dem Verfahrensrecht und anderen Steuerrechtsgebieten</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523262800002">Teil I: Abgabenordnung
+und Finanzgerichtsordnung</lxbase:ueberschrift><lxbase:a><lxbase:fett>Sachverhalt I:</lxbase:fett></lxbase:a><lxbase:a>Fritz Grüner (E. G.) war im Kalenderjahr 2007 als Richter
+am Amtsgericht Rosenheim (Bundesland Bayern) tätig.</lxbase:a><lxbase:a>Nebenberuflich hatte er als selbständiger Dozent für
+den Auftraggeber "Bayerisches Juristenrepetitorium" im
+Frühjahr und Herbst des Jahres 2007 an je zwei Wochenenden
+einen Crash-Kurs für die Examensvorbereitung von Rechtsreferendaren
+in München, Nürnberg und Würzburg gehalten.</lxbase:a><lxbase:a>In seiner Einkommensteuererklärung für den
+Veranlagungszeitraum 2007, beim örtlich zuständigen
+Finanzamt Rosenheim im August 2008 abgegeben, hatte er die Anlage "N" mit
+seinen Einkünften als Richter ausgefüllt. In der
+Anlage "GSE" war ein gewerblicher Gewinn i. H.
+v. 2 200 € aus seiner Beteiligung als Kommanditist bei
+der "Arlberger &amp; Co. Maschinenbau KG" in
+Lindau (Bayern) angegeben.</lxbase:a><lxbase:a>Seine Einkünfte aus der Nebentätigkeit als
+Dozent waren in der Steuererklärung nicht enthalten, er
+hatte dafür auch keine Gewinnermittlung abgegeben.</lxbase:a><lxbase:a>Im November 2008 war der Einkommensteuerbescheid für
+den Veranlagungszeitraum 2007 ordnungsgemäß an
+ihn bekannt gegeben worden, das Finanzamt hatte die Angaben aus
+der Steuererklärung ohne Veränderung übernommen;
+die Einkommensteuer war bei einem zu versteuernden Einkommen von
+80 000 € auf 24 000 € festgesetzt worden.</lxbase:a><lxbase:a>Im März 2009 war eine ordnungsgemäße
+finanzamtliche Außenprüfung bei dem Bayerischen
+Juristenrepetitorium, einer körperschaftsteuerpflichtigen GmbH,
+die Unterricht für die Examensvorbereitung von Jurastudenten
+außerhalb der Universität anbietet, durch einen
+Außenprüfer des Finanzamtes München für
+Körperschaften durchgeführt worden.</lxbase:a><lxbase:a>Bei dieser hatte der Außenprüfer Kontrollmitteilungen
+wegen der Honorarzahlungen der GmbH an freie Mitarbeiter ausgestellt.</lxbase:a><lxbase:a>Beim Finanzamt Rosenheim war die Kontrollmitteilung betreffend
+Fritz Grüner eingegangen, darin waren für das
+Kalenderjahr 2007 10 000 € als Unterrichtshonorar und 600 € als
+pauschale Spesenabgeltung angegeben (Zufluss bei Grüner
+im Kalenderjahr 2007).</lxbase:a><lxbase:a>Da die Einkommensteuererklärung für den Veranlagungszeitraum
+2007 keine Angaben zu dieser Tätigkeit enthielt, wurde
+Grüner vom Finanzamt Rosenheim aufgefordert, entsprechende
+Angaben nachzuholen.</lxbase:a><lxbase:a>Grüner teilte mit, dass er diese Einnahmen als nicht
+steuerbare Aufwandsentschädigung für sein Wochenendhobby
+ansehe, sie seien deshalb keiner Einkunftsart zuzurechnen.</lxbase:a><lxbase:a>Das Finanzamt versandte am 8.6.2009 einen nach § 173
+AO geänderten Einkommensteuerbescheid 2007 an Fritz Grüner.
+In dem Bescheid waren die oben angesprochenen Honorarzahlungen als
+Einnahmen i. H. v. 10 600 € aus selbständiger
+freiberuflicher Tätigkeit angesetzt worden.</lxbase:a><lxbase:a>Das Finanzamt hatte mangels Angaben von Grüner geschätzte
+Betriebsausgaben für Fahrtkosten, Übernachtung
+usw. i. H. v. 600 € abgezogen.</lxbase:a><lxbase:a>Das zu versteuernde Einkommen wurde mit 90 000 € festgestellt,
+die Einkommensteuer 2007 wurde auf 27 000 € festgesetzt.</lxbase:a><lxbase:a>Am 10.7.2009 rief Fritz Grüner nach der Rückkehr
+aus seinem Sommerurlaub in Kanada den für ihn zuständigen
+Veranlagungsbeamten im Finanzamt Rosenheim an und erklärte
+Folgendes:</lxbase:a><lxbase:a>"Ich habe mich jetzt steuerlich informiert, es ist mir
+bewusst geworden, dass ich meine Aufwendungen im Zusammenhang mit
+meiner Dozententätigkeit als Betriebsausgaben geltend machen
+kann.</lxbase:a><lxbase:a>Diese Aufwendungen haben sich im Jahr 2007 auf mindestens 1 000 € belaufen,
+das ist schon mal sicher. Wie hoch sie genau waren, das muss ich
+erst noch zusammenstellen."</lxbase:a><lxbase:a>Grüner wurde bei dem Telefonat von dem Finanzbeamten
+aufgeklärt, dass er einen Einspruch innerhalb der Einspruchsfrist
+(die er Grüner gegenüber auch zutreffend berechnete)
+schriftlich oder zumindest per Telefax einreichen müsste und
+dass er auf jeden Fall innerhalb, der Einspruchsfrist seine Ausgaben
+detailliert darlegen und durch entsprechende Belege nachweisen müsste.
+Dieser Anruf reiche so auf jeden Fall nicht aus, um irgendwelche
+Maßnahmen des Finanzamtes auszulösen.</lxbase:a><lxbase:a>Am 14.7.2009 geht beim Finanzamt Rosenheim mit der normalen Post
+am Vormittag ein von Fritz Grüner unterzeichnetes Schreiben
+vom 12.7.2009 ein, in dem er erklärte:</lxbase:a><lxbase:a>"Ich nehme Bezug auf mein Telefonat vom 10.7.2009. Ich
+bin im Jahr 2007 insgesamt 2 630 km mit meinem Fahrzeug, VW Passat
+2.0 TDI, zu den Wochenendveranstaltungen im Rahmen der Repetitoriumsveranstaltungen
+gefahren. Da ich kein Fahrtenbuch führe, setze ich als
+Ausgaben 0,30 € für jeden beruflich gefahrenen
+Kilometer an, insgesamt also 789 €.</lxbase:a><lxbase:a>Übernachtungsbelege habe ich über eine Gesamtsumme
+von 471 € beigelegt.</lxbase:a><lxbase:a>Als beruflich veranlasste Verpflegungsmehraufwendungen mache
+ich 160 € geltend.</lxbase:a><lxbase:a>Ich habe nicht jeden Beleg für meine Ausgaben für
+Papier, Stifte, Folien, Drucker und PC-Equipment aufgehoben, deshalb
+mache ich eine Arbeitsmittelpauschale für meine freiberufliche
+Tätigkeit i. H. v. 100 € geltend."</lxbase:a><lxbase:a>Dem Schreiben waren die notwendigen Belege beigefügt.</lxbase:a><lxbase:a>Am 7.9.2009 erhielt Grüner ein Schreiben des Finanzamtes
+Rosenheim.</lxbase:a><lxbase:a>Ihm wurde mitgeteilt, dass eine erstmalige Mitteilung des Finanzamtes
+Lindau über den Gewinnanteil für 2007 von Fritz
+Grüner an der Arlberger &amp; Co. KG eingegangen sei,
+sein Gewinnanteil betrage 2 800 €, während in
+der Steuererklärung nur ein Betrag von 2 200 € angegeben
+gewesen sei, der Bescheid müsse deshalb geändert
+werden. Grüner wurde eine Frist bis zum 30.9.2009 für
+eine Stellungnahme gesetzt, in der er sich zu dem Vorgang äußern
+könne.</lxbase:a><lxbase:a>Am 29.9.2009 ging Grüners Stellungnahme beim Finanzamt
+Rosenheim mit folgendem Inhalt ein:</lxbase:a><lxbase:a>"Ich wundere mich, was im Finanzamt Rosenheim vorgeht.</lxbase:a><lxbase:a>Sie haben mir jetzt eine Steuererhöhung angedroht, anstatt
+endlich über meine Einwendungen vom 12.7.2009 zu entscheiden.
+Zu meiner Verwunderung wollen Sie die Einkommensteuerfestsetzung
+für 2007 wegen meines Gewinnanteils an der Arlberger &amp; Co.
+KG ändern.</lxbase:a><lxbase:a>Meine Einkünfte als Kommanditist waren doch vom Finanzamt
+Rosenheim schon längst im Einkommensteuerbescheid 2007
+rechtskräftig festgesetzt worden, damit ist der Fall erledigt.</lxbase:a><lxbase:a>Ich habe alles getan, was von mir erwartet werden kann, ich genieße
+Vertrauensschutz. Es ist doch keine Änderung mehr zulässig,
+nur weil ein Finanzamt in Lindau, das für mich nicht einmal
+zuständig ist, anderer Meinung ist.</lxbase:a><lxbase:a>Ich habe meine Angaben damals nach bestem Wissen und Gewissen
+gemacht, der Steuerberater der KG hat mir damals den von mir erklärten
+Gewinn telefonisch mitgeteilt.</lxbase:a><lxbase:a>Ich halte Ihre Absicht für rechtswidrig und bitte um
+die von mir beantragte Änderung zu meinen Gunsten."</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Stellen Sie in einem Gutachten dar, ob und wie der Einkommensteueranspruch 2007
+gegenüber Fritz Grüner aufgrund der im Sachverhalt
+dargestellten Erkenntnisse festgesetzt werden muss.</lxbase:a><lxbase:a>Vor der Entscheidung erhält der Veranlagungsbeamte eine
+Mitteilung des Finanzamtes Lindau, dass von der Arlberger &amp; Co.
+Maschinenbau KG ein zulässiger Einspruch gegen den Gewinnfeststellungsbescheid
+2007 des Finanzamtes Lindau eingelegt worden ist. Es ist dann daraufhin
+teilweise Aussetzung der Vollziehung des Gewinnfeststellungsbescheides
+2007 gewährt worden, der Gewinnanteil von Grüner
+ist davon i. H. v. 600 C. betroffen.</lxbase:a><lxbase:a>Bearbeitervermerk:</lxbase:a><lxbase:a>Alle Verwaltungsakten waren mit zutreffender Rechtsbehelfsbelehrung
+versehen.</lxbase:a><lxbase:a>Gehen Sie bei Ihrer Lösung abweichend vom gesetzlichen
+Steuertarif von einem linearen Steuersatz i. H. v. 30 % aus,
+es genügt aber auch die Darstellung der Lösung
+anhand des dem Einkommensteuertarif zugrunde zu legenden zu versteuernden
+Einkommens.</lxbase:a><lxbase:a>Die Dozententätigkeit für das Bayerische Juristenrepetitorium
+ist als selbständige freiberufliche Tätigkeit
+i. S. d. §18Abs. 1 Nr. 1 EStG zu qualifizieren.</lxbase:a><lxbase:a>Der geltend gemachte Verpflegungsaufwand entspricht der gesetzlichen Abzugsmöglichkeit,
+der Ansatz der Aufwendungen für die beruflich veranlassten
+Fahrtkosten mit 0,30 €/km und der pauschale Ansatz
+der Arbeitsmittel mit 100 € entspricht der Verwaltungsübung
+in solchen Fällen.</lxbase:a><lxbase:a>Die als Ausgaben geltend gemachten beruflich bedingten Übernachtungskosten sind
+nicht zu beanstanden.</lxbase:a><lxbase:a><lxbase:fett>Sachverhalt II:</lxbase:fett></lxbase:a><lxbase:a>Für den Gewinnermittlungszeitraum 2007 hatte das Finanzamt
+Starnberg (Bundesland Bayern) Anfang November 2008 einen Feststellungsbescheid über
+die Einkünfte aus Gewerbebetrieb gegenüber Christoph
+Steinherr (C. S.) ordnungsgemäß an ihn selbst
+an seine Wohnadresse in Garmisch-Partenkirchen (Bayern) bekannt
+gegeben. Der Gewinn aus Gewerbebetrieb 2007 war auf 160 000 € festgestellt
+worden.</lxbase:a><lxbase:a>Im Mai 2009 führte das Finanzamt Starnberg eine Betriebsprüfung
+gegenüber Christoph Steinherr in seinem Sanitärgroßhandel
+in Starnberg durch.</lxbase:a><lxbase:a>In der Prüfungsanordnung vom 17.3.2009, gerichtet an
+Christoph Steinherr, war angegeben, dass unter anderem der Gewinn
+aus Gewerbebetrieb 2007 geprüft werden solle.</lxbase:a><lxbase:a>In dem nach Abschluss der Außenprüfung erstellten
+Prüfungsbericht vom 17.7.2009 ist ausgeführt,
+dass der Gewinn 2007 um 20 000 € erhöht werden müsse,
+da Ausgaben, die bisher als Gebäudeerhaltungsaufwand behandelt
+worden seien, als nachträgliche Herstellungskosten zu qualifizieren
+seien.</lxbase:a><lxbase:a>Im Rahmen der Außenprüfung wurde mit Christoph
+Steinherr besprochen, dass die in der Feststellungsakte des Finanzamtes
+Starnberg abgeheftete Ausfertigung des Gewinnfeststellungsbescheids
+2007 den handschriftlichen Vermerk "unter dem Vorbehalt
+der Nachprüfung, § 164 Abs. 1 AO, wegen der anstehenden
+Betriebsprüfung" enthalte, während auf
+dem bekannt gegebenen Bescheid dieser Zusatz fehle.</lxbase:a><lxbase:a>Es befand sich kein Hinweis des Bearbeiters in den Akten, dass
+er die Absicht, den Bescheid unter Vorbehalt der Nachprüfung
+zu erlassen, nicht verwirklichen wollte.</lxbase:a><lxbase:a>Er erklärte vielmehr bei seiner Befragung, dass er sich
+zwar nicht mehr erinnern könne, es erscheine ihm jetzt
+nur als Geschehensablauf plausibel, dass ihm die Abweichung der
+Bescheidausfertigung von dem Akteninhalt versehentlich passiert
+sei, ein vernünftiger Grund sei für ihn nicht
+erkennbar. Er hätte bei einem bewussten Abweichen mit Sicherheit
+einen speziellen Aktenvermerk angefertigt. Der Außenprüfer
+vertrat bei der Schlussbesprechung die Auffassung, dass der Bescheid
+aufgrund dieser Erkenntnisse ohne Probleme nach § 164 Abs.
+2 AO geändert werden könne.</lxbase:a><lxbase:a>Das Finanzamt Starnberg versandte dann am 4.8.2009, einen geänderten Gewinnfeststellungsbescheid
+2007 an Christoph Steinherr, der Gewinn war auf 180 000 € erhöht
+worden.</lxbase:a><lxbase:a>Als Begründung war angegeben: ‚Änderung
+aufgrund der Außenprüfung, der Grund ist aus dem
+Ihnen übersandten Betriebsprüfungsbericht bekannt.
+Die Änderung erfolgt nach § 164 Abs. 2 AO. Der
+Vorbehalt der Nachprüfung wird aufgehoben."</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Mit dem geänderten Gewinnfeststellungsbescheid kommt
+Steinherr am 7.9.2009 um 18:00 Uhr zu Steuerberater Funk in Garmisch
+mit der Bitte zu prüfen, ob ein Einspruch gegen die Feststellung
+einer Besteuerungsgrundlage überhaupt (noch) zulässig
+sei, wie man diesen heute am 7.9.2009 noch am besten einlege, und
+ob vielleicht der rechtzeitige Eingang beim Finanzamt Garmisch ausreichen
+würde.</lxbase:a><lxbase:a>Vor allem solle Funk natürlich auch die Rechtmäßigkeit
+des geänderten Gewinnfeststellungsbescheides vom 4.8.2009
+prüfen.</lxbase:a><lxbase:a>Alle Verwaltungsakten waren mit zutreffender Rechtsbehelfsbelehrung
+versehen.</lxbase:a><lxbase:a>Erstellen Sie ein Gutachten über die Fragen des Steinherr.</lxbase:a><lxbase:a>Die materiell-rechtliche Rechtsauffassung des Außenprüfers
+ist als richtig zu unterstellen.</lxbase:a><lxbase:a>Auf die Problematik einer eventuellen vorsätzlichen
+oder leichtfertigen Steuerverkürzung ist bei der Lösung
+nicht einzugehen.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5232628.gif" dpi="75" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="379" height="314" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Feiertage 2009 in Bayern:</lxbase:fett></lxbase:a><lxbase:a>01.01. Neujahr</lxbase:a><lxbase:a>06.01. Heilige drei Könige </lxbase:a><lxbase:a>10.04. Karfreitag</lxbase:a><lxbase:a>13.04. Ostermontag</lxbase:a><lxbase:a> 01.05. Tag der Arbeit </lxbase:a><lxbase:a>21.05. Christi Himmelfahrt </lxbase:a><lxbase:a>01.06. Pfingstmontag </lxbase:a><lxbase:a>11.06. Fronleichnam </lxbase:a><lxbase:a>15.08. Mariä Himmelfahrt</lxbase:a><lxbase:a>03.10. Tag der Deutschen Einheit</lxbase:a><lxbase:a>01.11. Allerheiligen</lxbase:a><lxbase:a>25. und 26.12. Weihnachtsfeiertage</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523262800003">Teil II: Umsatzsteuer</lxbase:ueberschrift><lxbase:a><lxbase:fett>Allgemeine Hinweise:</lxbase:fett></lxbase:a><lxbase:a>Erforderliche Belege und Aufzeichnungen sind vorhanden. Rechnungen
+enthalten, soweit aus dem Sachverhalt nichts Gegenteiliges hervorgeht,
+die nach §§ 14, 14a UStG bzw. §§ 33,
+34 UStDV erforderlichen Angaben. Die formellen Voraussetzungen des § 25b
+UStG sind gegebenenfalls erfüllt.</lxbase:a><lxbase:a>Alle angesprochenen Unternehmer versteuern, soweit sich aus dem
+Sachverhalt nicht ausdrücklich etwas Gegenteiliges ergibt,
+ihre Umsätze nach den allgemeinen Vorschriften des UStG
+und nach vereinbarten Entgelten. Voranmeldungszeitraum ist der Kalendermonat.</lxbase:a><lxbase:a>Soweit aus dem Sachverhalt nichts anderes ersichtlich ist, verwenden
+die Unternehmer im innergemeinschaftlichen Waren- und Dienstleistungsverkehr die
+Umsatzsteuer-Identifikationsnummer ihres Heimatlandes.</lxbase:a><lxbase:a>Die Kalenderjahre bis einschließlich 2008 sind bestandskräftig
+veranlagt. Die steuerliche Beurteilung war jeweils zutreffend.</lxbase:a><lxbase:a>Orte ohne Länderangaben liegen im Inland. </lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Beurteilen Sie die angeführten Sachverhalte in ihrer
+umsatzsteuerlichen Auswirkung auf die Reischl KG und Josef, Maria,
+Anton und Julia Reischl im Besteuerungszeitraum 2009. In Tz. 5 ist
+auch der Besteuerungszeitraum 2008 zu prüfen. Hierbei ist
+insbesondere auf die Umsatzart, die Steuerpflicht, die Bemessungsgrundlage
+für steuerpflichtige Umsätze und auf den Vorsteuerabzug
+einzugehen. Die Umsatzsteuer für steuerpflichtige Umsätze
+ist zu berechnen.</lxbase:a><lxbase:a>Wo es der Sachverhalt erlaubt, ist auch anzugeben, in welchem
+Voranmeldungszeitraum die Steuer entsteht bzw. zu berichtigen ist
+und die Vorsteuer abgezogen werden kann.</lxbase:a><lxbase:a>Gehen Sie jeweils kurz auf die Unternehmereigenschaft und den
+Umfang des Unternehmens der Reischl KG, Josef, Maria, Anton und
+Julia Reischl sowie der Massivbau GmbH und der Massivbau Salzburg
+GesmbH ein</lxbase:a><lxbase:a>Begründen Sie bitte Ihre Entscheidungen unter Angabe
+der gesetzlichen Bestimmungen.</lxbase:a><lxbase:a><lxbase:fett>Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>Die Firma Reischl KG (KG) betreibt seit vielen Jahren ein Bauunternehmen und
+einen Baustoffhandel in Rosenheim, Münchner Straße
+125. Die KG ist ein Familienunternehmen. 40 % der Anteile
+hält der Komplementär Josef Reischl. Kommanditisten
+sind seine Ehefrau Maria Reischl, die 40 % der Anteile
+innehat, und ihre beiden Kinder Anton und Julia, die im Besitz von
+jeweils 10 % der Anteile sind. Die Familie Reischl bewohnt
+ein geräumiges Haus in Rosenheim, Chiemsee Straße
+1.</lxbase:a><lxbase:a>Im Kalenderjahr 2009 kam es unter anderem zu folgenden Geschäftsvorfällen:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Alleiniger Geschäftsführer
+der KG ist der Komplementär Josef Reischl. Für seine
+Geschäftsführungs- und Vertretungsleistungen erhält
+er eine Tätigkeitsvergütung in Höhe von
+8 000 € monatlich. Der Betrag wird jeweils am Monatsende
+auf das Konto des Josef Reischl bei der Sparkasse Rosenheim überwiesen.
+Die KG behandelt die Vergütung im Rahmen ihrer Ergebnisermittlung
+als Aufwand.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>1  Zum 1.2.2009 konnte die KG
+51 % der Anteile der Massivbau GmbH mit Sitz in Traunstein
+zum Preis von 1 Mio. € übernehmen. Die Massivbau
+GmbH - der größte Konkurrent der KG - war infolge
+der Wirtschaftskrise in eine finanzielle Schieflage geraten. Die
+Beteiligung an der Massivbau GmbH war insbesondere auch deshalb
+sehr vorteilhaft, weil die KG dadurch auch die Kontrolle über
+die Massivbau Salzburg GesmbH mit Sitz in Salzburg (Österreich)
+- einer 100%igen Tochter der Massivbau GmbH -erlangte.
+Um die Synergieeffekte, die sich aus der Beteiligung ergeben, optimal
+nutzen zu können, wurde eine intensive Zusammenarbeit bei der
+Ausführung von Bauaufträgen vereinbart.</lxbase:a><lxbase:a>Mit der vertraglichen Gestaltung der Anteilsübernahme
+und der steuerlichen Beratung hatte die KG Rechtsanwalt und Steuerberater
+Dr. Franz Hofer betraut. Seine Rechnung vom 10.2.2009 in Höhe
+von 10 000 € zuzüglich 19 % USt 1 900 €,
+die der KG zwei Tage später zuging, wurde von dieser umgehend
+beglichen.</lxbase:a><lxbase:a>2.2 Zum alleinigen Geschäftsführer beider Gesellschaften
+(Massivbau GmbH und Massivbau Salzburg GesmbH) wurde mit Wirkung
+zum 1.2.2009 Anton Reischl bestellt. In seinem Arbeitsvertrag sind
+u. a. der Urlaubsanspruch, feste Arbeitszeiten, Lohnfortzahlung
+im Krankheitsfall und die Weisungsgebundenheit geregelt. Darüber
+hinaus hat er laut Vertrag bei allen wichtigen, über den
+laufenden Geschäftsbetrieb hinausreichenden Entscheidungen
+die Zustimmung der KG einzuholen. Der Arbeitsvertrag sieht außerdem
+auch ausdrücklich vor, dass die KG dem alleinigen Geschäftsführer dieser
+beiden Gesellschaften Anton Reischl jederzeit Vorgaben und Weisungen
+hinsichtlich der laufenden Geschäftsführung erteilen
+kann. Ferner wurden dem Anton Reischl Richtlinien zur Führung
+der laufenden Geschäfte erteilt. Er erhält ein
+angemessenes monatliches Gehalt von insgesamt 7 000 €.</lxbase:a><lxbase:a>Darüber hinaus darf er laut Arbeitsvertrag den ihm von
+der GmbH zur Verfügung gestellten Firmenwagen auch für
+Fahrten zwischen Wohnung und Betrieb und sonstigen Privatfahrten
+nutzen.</lxbase:a><lxbase:a>Der Firmenwagen war von der Massivbau GmbH am 1.8.2008 für
+40 000 € zuzüglich 19 % USt 7 600 € erworben
+und seither ausschließlich für betriebliche Fahrten
+verwendet worden. Der Pkw wird von der GmbH auf sechs Jahre linear
+abgeschrieben. Seit 1.2.2009 wird der Pkw ausschließlich
+von Anton Reischl genutzt.</lxbase:a><lxbase:a>Laut ordnungsgemäßem Fahrtenbuch belief sich
+die Gesamtfahrleistung des Pkw in der Zeit vom 1.2.2009 bis zum
+31.12.2009 auf 30 000 km. Davon entfielen auf die sonstigen Privatfahrten
+5 000 km. Für Fahrten zwischen Wohnung und Betrieb (Entfernung
+25 km) wurde der Pkw von Anton Reischl an 200 Tagen benutzt.</lxbase:a><lxbase:a>Insgesamt entstanden der Massivbau GmbH durch die Pkw-Nutzung
+im Jahr 2009 neben der AfA noch folgende Kosten:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="50*" /><cals:colspec colnum="2" colname="2" colwidth="50*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Kfz-Steuer und -Versicherung</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>2 000 € (Jahresbetrag)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Treibstoff (seit
+1. Februar 2009)</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>3 500 € zuzüglich
+USt 665 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Inspektion (15. August 2009)</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>1 500 € zuzüglich USt 285 €.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Die Massivbau Salzburg GesmbH erhielt im
+Februar 2009 den Zuschlag zur Errichtung des Rohbaus eines neuen
+Hotels in Berchtesgaden. Sie begann am 6.4.2009 mit den Arbeiten
+in Berchtesgaden. Die Abnahme des Rohbaus erfolgte am 4.9.2009.
+Den Beton für die Bodenplatte bezog sie von der KG. Die
+Anlieferung erfolgte in der Zeit vom 5.4. bis 15.4.2009. Die KG
+stellte der Massivbau Salzburg GesmbH dafür am 25.4.2009
+insgesamt 50 000 € zuzüglich 19 % USt
+9 500 € in Rechnung. Die Massivbau Salzburg GesmbH beglich
+die Rechnung zwei Wochen später.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>Die KG bezieht schon seit vielen Jahren
+hochwertigen Marmor von der Firma Renato Rossi aus Carrare (Italien).
+Am 25.4.2009 bestellte sie zehn Paletten Marmorplatten bei Rossi.</lxbase:a><lxbase:a>Drei der Paletten waren für die Firma Hinter aus Innsbruck
+(Österreich) bestimmt. Die Firma Hinter hatte den Marmor
+eine Woche vorher bei der KG geordert.</lxbase:a><lxbase:a>Zwei der Paletten hatte die berühmte Operndiva Marlene
+Moll bei der KG für ihre Villa in Bad Wiessee am Tegernsee
+bestellt.</lxbase:a><lxbase:a>Die restlichen fünf Paletten waren für die
+KG selbst bestimmt und zunächst in das Lager nach Rosenheim
+verbracht worden.</lxbase:a><lxbase:a>Am 3.5.2009 erfolgte der Transport durch Rossi. Wie mit der KG
+vereinbart, lieferte Rossi zunächst die bestellten Paletten
+direkt bei der Firma Hinter in Innsbruck und bei Marlene Moll in
+Bad Wiessee ab, bevor er die restlichen Paletten nach Rosenheim
+zur KG brachte.</lxbase:a><lxbase:a>Mit der Ware übergab Rossi der KG auch die Rechnung
+in Höhe von insgesamt 50 000 € für zehn
+Paletten Marmor (5 000 € je Palette).</lxbase:a><lxbase:a>Eine Woche später erhielten die Firma Hinter und Marlene
+Moll von der KG ihre Rechnung: die Firma Hinter in Höhe
+von insgesamt 18 000 € für drei Paletten und Marlene
+Moll in Höhe von insgesamt 12 000 € zuzüglich
+19 % USt 2 280 € für zwei Paletten Marmor.
+Nachdem Hinter und Moll ihre Rechnungen am 25.5.2009 beglichen hatten,
+bezahlte auch die KG am 2.6.2009 die Rechnung von Rossi.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a>Im Jahr 2008 gelang es der KG nach längeren
+Bemühungen endlich, das unbebaute Nachbargrundstück
+Münchner Straße 126 zum Preis von 500 000 € zu
+erwerben. Der Veräußerer, der Pensionär
+Paul Prem, wollte sich von dem Erlös einen Altersruhesitz
+auf Gran Canaria kaufen. Obergang von Besitz, Nutzen und Lasten
+war der 1.9.2008.</lxbase:a><lxbase:a>Unmittelbar danach begann die KG mit den Bauarbeiten für
+ihr neues Bürogebäude.</lxbase:a><lxbase:a>Das neue Bürogebäude sollte laut Plan aus drei
+Etagen mit jeweils 200 qm Nutzfläche bestehen. Im 2. Obergeschoss
+war eine Hausmeisterwohnung mit 100 qm Nutzfläche vorgesehen,
+die einem Hausmeister im Rahmen des Arbeitsverhältnisses
+als Vergütung für geleistete Dienste überlassen
+werden sollte.</lxbase:a><lxbase:a>Die Bauarbeiten führte die KG mit eigenen Arbeitnehmern
+aus. Das erforderliche Baumaterial wurde von der KG eigens für
+das Bauvorhaben erworben. Dafür wurden ihr im Jahr 2008
+noch 100 000 € zuzüglich 19 % USt 19 000 € und
+2009 120 000 € zuzüglich 19 % USt 22
+800 € in Rechnung gestellt.</lxbase:a><lxbase:a>Die Sanitärinstallationen wurden von der Firma Röhrich
+aus Ebersberg erbracht. Nach Abnahme ihrer Arbeiten am 10.7.2009
+stellte sie noch im Juli 70 000 € in Rechnung. Davon entfielen
+auf das Badezimmer der Hausmeisterwohnung 5 000 €. Die
+KG beglich die Rechnung eine Woche später.</lxbase:a><lxbase:a>Nach Fertigstellung des Gebäudes zum 31.7.2009 wurden
+die Geschäftsräume ab 1.8.2009 genutzt. Die Hausmeisterwohnung
+stand zunächst leer. Da trotz intensiver Bemühungen
+kein geeignetes Hausmeisterehepaar gefunden werden konnte, fasste
+die <lxbase:az normform="KG-am-1/11" manuell="nein">KG am 1.11</lxbase:az>.2009 den endgültigen Entschluss, die Räume
+ab 1.12.2009 ebenfalls als Geschäftsräume zu nutzen.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523262800004">Teil III: Erbschaftsteuer
+und Schenkungsteuer</lxbase:ueberschrift><lxbase:a>Der ehemalige Unternehmer Robert Rundlich verstarb am 27.5.2008
+durch einen Stromschlag in seinem Bastelkeller.</lxbase:a><lxbase:a>Robert lebte bis zu seinem Tode mit seiner 20 Jahre jüngeren
+Ehefrau Carola zusammen; die Ehegatten lebten seit 1982 im Güterstand
+der Gütertrennung.</lxbase:a><lxbase:a>Sein außerehelicher Sohn Hans Rundlich, geboren am 29.3.1990,
+lebt seit 2006 in Kanada. Carola und Robert hatten ein gemeinschaftliches
+Testament in rechtlich wirksamer Weise errichtet, nach welchem Carola
+die alleinige Erbin ist. Hans sollte nach diesem Testament nur ein
+betagtes Rennrad der Marke Bauer (gemeiner Wert 50 €) erhalten.
+Erst nach dem Tode von Carola sollte Hans etwas erben.</lxbase:a><lxbase:a><lxbase:fett>Das Haus in München</lxbase:fett></lxbase:a><lxbase:a>In München hatte Robert sich ein großes Grundstück
+gekauft, um sich einen Alterswohnsitz zu schaffen. Carolas Vorschlag
+folgend hatte er das Grundstück - München, Lerchenstraße
+117 - in den Jahren 2001 und 2002 mit einem 3-Familien-Haus bebaut.
+Hinter seinem Haus ließ Robert einen großen Swimmingpool
+erbauen. Das Haus wurde im Dezember 2002 bezugsfertig, der Swimmingpool
+hingegen erst im Mai 2003.</lxbase:a><lxbase:a>Robert hatte das unbebaute Grundstück von der Witwe
+Bolte (geb. 30.9.1932) am 22.1.1999 erworben; Nutzen und Lasten
+gingen am 5.6.1999 auf Robert über.</lxbase:a><lxbase:a>Frau Bolte wollte den Erlös aus der Veräußerung
+des Grundstücks sowohl zur Begleichung von Restschulden
+aus ihrer mittlerweile aufgegebenen Hühnerbraterei verwenden
+als auch zur Begleichung der Kosten für das Altenheim,
+in welchem sie jetzt lebt.</lxbase:a><lxbase:a>In der notariellen Urkunde wurde diesbezüglich Folgendes
+geregelt:</lxbase:a><lxbase:a>"Der Erwerber entrichtet den Kaufpreis für
+das Grundstück wie folgt (bei Eintragung ins Grundbuch
+22.2.1999):</lxbase:a><lxbase:a>Zahlung von 700 000 € an die Max und Moritz OHG zum
+Zwecke der Tilgung von gewerblichen Restverbindlichkeiten der Verkäuferin.</lxbase:a><lxbase:a>Zahlung von 2 000 € monatlich jeweils zum Monatsersten,
+solange die Verkäuferin lebt; die erste Zahlung ist am
+1.7.1999 fällig. Die Zahlungen sind jedoch maximal befristet
+bis zum 1.3.2012."</lxbase:a><lxbase:a>Robert Rundlich hat die am 1.5.2008 fällige Rentenzahlung
+an Bolte geleistet.</lxbase:a><lxbase:a>Das Haus hat drei gleich große Wohnungen mit je 110
+qm anrechenbarer Wohnfläche, welche wie folgt genutzt werden:</lxbase:a><lxbase:a>Das Erdgeschoss des Hauses war an die Lebman Bank vermietet,
+welche dort ein Rechenzentrum betrieb.</lxbase:a><lxbase:a>Mit der Bank hatte Rundlich im Jahr 2006 einen 10-Jahres-Mietvertrag
+abgeschlossen, welcher eine zu Beginn des Monats fällige
+monatliche Miete von 2 500 € vorsah. Hinzu kamen noch Nebenkosten
+von 220 € für die Heizung, 80 € für
+den Strom und 60 € für Wasser.</lxbase:a><lxbase:a>Die letzte eingegangene Miete war für März
+2008; seit April 2008 hat Rundlich hierfür keine Miete
+erhalten. Wegen einer Mietbürgschaft einer Bayerischen Großbank
+konnte Robert Rundlich jedoch sicher sein, sein Geld zu erhalten.</lxbase:a><lxbase:a>Die Wohnung im ersten Obergeschoss nutzt Hans Rundlich bei seinen
+gelegentlichen Besuchen in München; Hans zahlt dafür
+keine Miete, die Zurverfügungstellung der Wohnung wurde
+vielmehr von Hans und Robert als Unterhalt angesehen.</lxbase:a><lxbase:a>Im zweiten Obergeschoss lebte Robert Rundlich selbst.</lxbase:a><lxbase:a>Üblicherweise sind für Wohnungen dieser Art
+in München - soweit diese Wohnzwecken dienen - folgende
+Mieten ortsüblich gewesen:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="19*" /><cals:colspec colnum="2" colname="2" colwidth="81*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>2007:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>14 €./qm ohne
+Nebenkosten</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>2008:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>16 €/qm ohne
+Nebenkosten</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>ab 2009:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>17 €/qm ohne Nebenkosten.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Für gewerblich genutzte Objekte lag in allen Jahren
+die übliche Miete uni 3 €/qm höher.</lxbase:a><lxbase:a>Das Grundstück hat - ausweislich des Kaufvertrages -
+eine Fläche von 2 000 qm. Eine Nachvermessung im Januar
+2007 ergab jedoch, dass die tatsächliche Fläche
+des Grundstücks 2 005 qm betrug.</lxbase:a><lxbase:a>Der Gutachterausschuss der Landeshauptstadt München
+hat für das Objekt München, Lerchenstraße
+117 den Wert eines qm Grund und <lxbase:az normform="Boden-zum-31/12" manuell="nein">Boden zum 31.12</lxbase:az>.2006 auf 600 € festgestellt.</lxbase:a><lxbase:a>Ein von Hans beauftragter Gutachter hat zum Todestag von Robert
+einen reinen Grundstückswert (Grund und Boden nebst Gebäude
+und Außenanlagen) für die Immobilie in München,
+Lerchenstraße 117 von 1 300 000 € festgestellt.</lxbase:a><lxbase:a>Wegen einer kürzlich bekannt gewordenen Grundwasserbelastung
+durch eine ehemalige chemische Fabrik auf dem Nachbargrundstück
+der Immobilie hat er einen Wertabschlag vorgenommen, so dass sich
+letztlich ein Wert von 970 000 € ergab.</lxbase:a><lxbase:a>Als Hans vom Tod seines Vaters Robert erfuhr, überlegte
+er sich, ob er den Pflichtteil geltend machen sollte. Bis jetzt
+hat er aber noch keinen Pflichtteilsanspruch gegenüber
+Carola - welche keinerlei Versorgungsbezüge erhält
+- geltend gemacht.</lxbase:a><lxbase:a><lxbase:fett>Die GmbH</lxbase:fett></lxbase:a><lxbase:a>Robert Rundlich war an der handwerklich tätigen Zweirad-GmbH
+mit Sitz in München beteiligt.</lxbase:a><lxbase:a>Die GmbH hat ein Stammkapital von 300 000 €, davon sind
+200 000 € einbezahlt. Robert Rundlich war am Stammkapital
+mit 165 000 € beteiligt. Die Beteiligung gehört
+bei ihm ertragsteuerlich zum Privatvermögen. Er hat seinen Anteil
+vollständig einbezahlt.</lxbase:a><lxbase:a>Die GmbH wurde 1998 gegründet und bilanziert seither
+jeweils zum 31.12. eines Jahres. Eine Zwischenbilanz auf den Todestag
+des Robert Rundlich wurde nicht erstellt.</lxbase:a><lxbase:a>In der eingereichten Vermögensaufstellung wird das Betriebsvermögen
+mit 2 000 000 € ausgewiesen. Dabei wurden sämtliche
+Buchwerte aus der Steuerbilanz zum 31.12.2007 übernommen.
+Carola Rundlich hat die Anteile an der Zweirad-GmbH im Februar 2009
+veräußert.</lxbase:a><lxbase:a>Das gemäß §§ 7 und 8 KStG
+zu versteuernde Einkommen beträgt für die Wirtschaftsjahre</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="10*" /><cals:colspec colnum="2" colname="2" colwidth="90*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>2005</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>+ 52 000 €,</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>2006</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>+ 12 000 € (unter
+Berücksichtigung eines vollständigen Verlustrücktrages
+aus dem Jahr 2007),</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>2007</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>– 152 000 €.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Der Steuerbilanz-/Handesbilanzgewinn des Jahres 2008
+beträgt 168 000 €.</lxbase:a><lxbase:a>Die Ertragslage der Zweirad-GmbH hat sich in 2008 erheblich verbessert;
+der Fortbestand der GmbH steht außer Frage.</lxbase:a><lxbase:a>Das zuständige Finanzamt hat hinsichtlich der Zweirad-GmbH
+Folgendes festgestellt:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Die Zweirad-GmbH hat einen entgeltlich
+erworbenen Firmenwert in Höhe von 80 000 € zum
+31.12.2007 aktiviert.</lxbase:a><lxbase:a>Die jährliche Absetzung auf den Firmenwert beträgt
+zutreffend 12 000 € (Nutzungsdauer 15 Jahre).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Die Zweirad-GmbH hat am 1.2.2008 26 % der
+Anteile an der Motorrad Weiß GmbH in München für
+280 000 € erworben. Der gemeine Wert dieser Anteile wurde
+zum Besteuerungszeitpunkt zutreffend mit 160 000 € gesondert
+festgestellt (Stuttgarter Verfahren).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Die Gesellschafterversammlung der Zweirad
+GmbH hat am 1.5.2008 beschlossen, den Bilanzgewinn des Jahres 2007
+i. H. v. 80 000 € auszuschütten. Die Ausschüttung
+erfolgte im Januar 2009 entsprechend der jeweiligen Beteiligungsverhältnisse
+der Gesellschafter.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:fett>Die Kamera</lxbase:fett></lxbase:a><lxbase:a>Der Erblasser hat am 25.9.2007 bei der Firma eines Freundes eine
+neue Digitalkamera zum Preis von 1 200 € inkl. USt gekauft.
+Beim Abschluss des Kaufvertrages hatte der Erblasser die Hälfte
+des Kaufpreises (600 €) angezahlt.</lxbase:a><lxbase:a>Die andere Hälfte des Kaufpreises war in drei Raten ä 200 € (beginnend
+am 1.8.2010, letzte Rate am 1.8.2012) zu bezahlen.</lxbase:a><lxbase:a>Am Todestag des Erblassers war das Gerät wegen Frachtproblemen
+noch nicht geliefert.</lxbase:a><lxbase:a><lxbase:fett>Das Segelboot</lxbase:fett></lxbase:a><lxbase:a>Robert Rundlich hatte am 24.12.2007 ein Segelboot der Marke Klepper
+Fam von dem ehemaligen Sportsegler Max Metzger gekauft.</lxbase:a><lxbase:a>Da wegen Weihnachten die Liquiditätslage von Rundlich
+schlecht war, vereinbarten Erwerber und Verkäufer eine
+Ratenzahlung bezüglich des Kaufpreises.</lxbase:a><lxbase:a>Die zinslosen Ratenzahlungen sollten über fünf
+Jahre laufen. Die ersten drei Jahre sollte Rundlich 100 € pro
+Monat zahlen, in den letzten zwei Jahren sollte dann die monatliche
+Rate auf 300 € pro Monat steigen. Die erste Rate war laut Vertrag
+- nach Übergabe an Rundlich nebst der ersten erfolgreichen
+Probefahrt im Mai 2008 - am 1.6.2008 fällig.</lxbase:a><lxbase:a>Der Marktwert des Segelbootes im Jahr 2008 betrug 9 000 €.</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Ermitteln Sie die zutreffende festzusetzende Erbschaftsteuer
+für Carola Rundlich, falls Hans Rundlich seinen Pflichtteilsanspruch
+nicht geltend gemacht hat, aber sich auch weigert, eine entsprechende
+Verzichtserklärung abzugeben.</lxbase:a><lxbase:a>Carola hat keinen Antrag nach Art. 3 Abs. 1 ErbStRG auf Anwendung
+der geänderten Vorschriften des ErbStG und des Bewertungsgesetzes
+gestellt.</lxbase:a><lxbase:a>Gehen Sie dabei auf alle durch den Sachverhalt aufgeworfenen
+Rechtsfragen ein.</lxbase:a><lxbase:a>Selbst ermittelte Beträge sind ggf. auf zwei Nachkommastellen
+zu runden.</lxbase:a><lxbase:a>Begründen Sie Ihre Entscheidungen unter Angabe der maßgebenden
+Vorschriften.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523262800005">Prüfungsaufgaben
+aus dem Gebiet der Ertragsteuern</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523262800006">Teil I: Einkommensteuer/Gewerbesteuer</lxbase:ueberschrift><lxbase:a><lxbase:fett>1. Teilaufgabe </lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>In 1998 gründeten die natürlichen Personen
+A und B. mit Wohnsitz in Kassel, die A+B-GmbH mit Sitz
+in Göttingen. Das Stammkapital beträgt 200 000 € und wurde
+von A und 13 entsprechend ihrer hälftigen Beteiligung eingebracht.
+Im Laufe der Jahre hat sich der Teilwert (= Verkehrswert)
+der gesamten Anteile der GmbH wie folgt entwickelt:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="63*" /><cals:colspec colnum="2" colname="2" colwidth="37*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>- 31.12.2000 (umgerechnet)</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>160 000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>- 1.12.2003 bis 31.12.2007
+jeweils</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>170 000</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>- September 2008</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>500 000</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Rechtswirksam zum
+27.9.2008 veräußerte A seine im Privatvermögen gehaltene
+Beteiligung für 100 000 € an seinen Sohn C. Die
+hierbei entstandenen Notarkosten wurden von A getragen und betrugen
+2 000 €.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>B hatte seine Anteile in seinem inländischen
+Einzelunternehmen (Buchhandel in gemieteten Räumen] zutreffenderweise
+als Betriebsvermögen ausgewiesen. Im Veranlagungszeitraum
+2000 (das Wirtschaftsjahr entspricht dem Kalenderjahr) hatte er
+wegen der schlechten Ertragslage eine steuerlich anzuerkennende
+Teilwertabschreibung von (umgerechnet) 20 000 € auf diese
+Beteiligung vorgenommen. Im Veranlagungszeitraum 2003 korrigierte er
+diesen Wertansatz nach § 6 Abs. 1 Nr. 2 Satz 3 EStG um
+5 000 € nach oben (= zutreffend). Am 25.9.2008 überführte
+er seine Anteile an der A+B-GmbH in sein Privatvermögen.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:fett>Aufgaben:</lxbase:fett></lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Stellen Sie die einkommen-
+und gewerbesteuerrechtlichen Folgen der Anteilsübertragung
+des A dar und begründen Sie Ihre Auffassung.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Stellen Sie die einkommen- und gewerbesteuerrechtlichen
+Folgen der Entnahme der Anteile an der A+B-GmbH für
+B dar und begründen Sie Ihre Auffassung.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:fett>2. Teilaufgabe </lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>Frau C lebt seit Jahren in dem arabischen Staat Bahrain (kein
+DBA) und ist auch Staatsbürgerin von Bahrain. Zurzeit schreibt
+sie im Auftrag eines deutschen Verlages an einem Buch über
+die Entwicklung der Energiepreise in Deutschland und deren Auswirkungen
+auf die Situation der Golfstaaten. Hierzu hat sie sich zeitweise,
+insgesamt für 30 Tage, in Deutschland aufgehalten. In Zusammenhang
+mit der Bucherstellung entstanden 2008 Kosten von insgesamt 7 500 €.</lxbase:a><lxbase:a>Während eines ihrer Aufenthalte in Deutschland besuchte
+C ein Rugby-Turnier und fertigte hierfür eine Kolumne für
+eine überregionale deutsche Wochenzeitschrift. Der Zeitschrift
+stellte C eine Rechnung ohne Ausweis von Umsatzsteuer in Höhe
+von 2 000 €. In Zusammenhang mit der Kolumne entstanden
+C in 2008 Kosten in Höhe von 500 €.</lxbase:a><lxbase:a>Die Aufwendungen im Zusammenhang mit der Bucherstellung und der
+Fertigung der Kolumne entfallen anteilig auf ein in Hamburg angemietetes
+Büro, das ausschließlich für diese Zwecke
+genutzt wurde.</lxbase:a><lxbase:a>Aus der Vermietung eines Mietwohngrundstücks in Eisenach
+erzielte C in 2008 Einnahmen in Höhe von 14 000 €.
+In 2008 sind unstreitig 6 000 € Werbungskosten (inkl. AfA)
+zu berücksichtigen. Mit einem Darlehen, das durch diesen Grundbesitz
+gesichert wurde, finanzierte C eine Festgeldanlage, aus der sie
+in 2008 Zinseinnahmen in Höhe von 3 000 € erzielte.
+Mit den Darlehenszinsen wird C erst nach Ende der Laufzeit zum 31.122012
+belastet.</lxbase:a><lxbase:a>C ist an der Bahrain-Handelsgesellschaft, einer der deutschen
+OHG vergleichbaren Personengesellschaft, beteiligt. Die Bahrain-Handelsgesellschaft
+hat eine inländische Betriebsstätte. Von dem Betriebsstättenergebnis
+des Jahres 2008 entfällt auf C ein Verlust in Höhe
+von 4 000 €. Der Verlust wurde nach deutschen Steuerrechtsgrundsätzen
+zutreffend ermittelt und gesondert festgestellt.</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Ermitteln Sie die festzusetzende Einkommensteuer für
+C.</lxbase:a><lxbase:a><lxbase:fett>3. Teilaufgabe</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett> Sachverhalt: </lxbase:fett></lxbase:a><lxbase:a>D, wohnhaft in Heringen (Hessen), ist seit dem 20.9.1986 rechtskräftig
+von seiner Ehefrau E geschieden. Seine gerichtlich festgesetzten
+Unterhaltsleistungen betragen im Veranlagungszeitraum 2008 mtl.
+1 100 €. Auch die zweite Ehe des D mit Frau F hielt nicht
+lange; sie wurde am 30.9.2005 rechtskräftig geschieden,
+hier beträgt die Unterhaltsverpflichtung im Veranlagungszeitraum
+2008 mtl. 1 200 €. Beiden Unterhaltsverpflichtungen ist
+D immer fristgerecht nachgekommen. Frau E wohnt weiterhin in Heringen,
+Frau F hingegen ist bereits in 2006 nach Liechtenstein verzogen.
+Herr D beantragt für den Veranlagungszeitraum 2008 den
+Abzug der Unterhaltsaufwendungen als Sonderausgabe oder außergewöhnliche
+Belastung. Eine entsprechende Anlage U, die von Frau F unterschrieben
+ist, liegt der Einkommensteuererklärung des D ebenso bei
+wie eine Bescheinigung des Finanzamtes von Vaduz (Liechtenstein [kein
+DBA]), aus der hervorgeht, dass Frau F ihre erhaltenen
+Unterhaltszahlungen dort versteuert hat. Für Frau E liegt
+keine Anlage U vor.</lxbase:a><lxbase:a>Beide ehemaligen Ehefrauen sind nichtselbständig tätig.
+Der Jahresbruttoarbeitslohn von Frau E betrug in 2008 4 300 €,
+der von Frau F 2 500 €. Frau E bezog darüber hinaus
+eine monatliche Unfallrente in Höhe von 210 € aus
+der gesetzlichen Unfallversicherung. Beide Damen verfügen
+nur über geringfügiges Vermögen.</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Prüfen Sie, ob für die Unterhaltsaufwendungen
+ein Sonderausgabenabzug bzw. ein Abzug als außergewöhnliche
+Belastung in Betracht kommt, und begründen Sie Ihre Auffassung.</lxbase:a><lxbase:a><lxbase:fett>4. Teilaufgabe </lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>Anton Meyer, geboren am 1.1.1951, mit Wohnsitz in Chemnitz, ist
+gemeinsam mit Max Nitzsche Gesellschafter der M &amp; N Maschinenbau
+OHG mit Sitz und einziger Betriebsstätte in Chemnitz. Die
+Gesellschafter sind zu je 1/2 beteiligt. Die OHG hat ein
+vom Kalenderjahr abweichendes Wirtschaftsjahr vom 1. Februar bis
+zum 31. Januar. Die Bilanz zum 31.1.2008 weist einen Gewinn von
+100 000 € aus. Das Kapitalkonto von Anton Meyer und Max
+Nitzsche beträgt je 500 000 €. Der gemeine Wert
+der Anteile zum 31.1.2008 beträgt je 750 000 €.</lxbase:a><lxbase:a>Für seine Geschäftsleitungstätigkeit
+erhält Anton Meyer 3 000 € pro Monat, die auf
+sein privates Konto überwiesen werden und in der OHG als
+Aufwand gebucht werden. Ferner steht ihm ein der OHG gehörender
+Pkw mit einem Bruttolistenpreis von 50 000 € (einschließlich
+Umsatzsteuer) neben der überwiegend beruflichen auch zur
+privaten Verwendung zur Verfügung, ein Fahrtenbuch wird
+nicht geführt.</lxbase:a><lxbase:a>Am 7.3.2008 und am 6.6.2008 überweist Anton Meyer vom
+Konto der OHG jeweils 11 000 € an das Finanzamt als Vorauszahlung
+zur Einkommensteuer 2008.</lxbase:a><lxbase:a>Da Anton Meyer und Max Nitzsche die mit einer OHG verbundenen
+Haftungsrisiken zu groß geworden sind, wollen sie ihre
+Geschäfte als GmbH weiterführen.</lxbase:a><lxbase:a>Zu diesem Zweck wandeln sie die OHG mit Notarvertrag vom 1.7.2008
+formwechselnd (§ 25 UmwStG) in die M &amp; N GmbH
+(Stammkapital 50 000 €) um.</lxbase:a><lxbase:a>Sie erhalten im Gegenzug einen Stammkapitalanteil von je 25 000 €.
+Der Formwechsel soll mit steuerlicher Rückwirkung zum 31.1.2008
+und zu Buchwerten erfolgen. Die übersteigenden Werte der
+Kapitalkonten werden bei der GmbH als Kapitalrücklage ausgewiesen.</lxbase:a><lxbase:a>Anton Meyer und Max Nitzsche werden zu Geschäftsführern
+der GmbH bestellt; es werden Anstellungsverträge geschlossen,
+aufgrund derer Anton Meyer wie bisher bei der OHG 3 000 € pro
+Monat zuzüglich der privaten Nutzung des Firmenwagens erhält.</lxbase:a><lxbase:a>Am 13.7.2008 erfolgt die Eintragung des Formwechsels ins Handelsregister und
+die Löschung der OHG.</lxbase:a><lxbase:a>Am 31.7.2008 übersieht Anton Meyer auf der Fahrt zu
+einem Kunden ein STOP-Schild und verursacht dadurch einen schweren
+Verkehrsunfall, bei dem er und der Unfallgegner erheblich verletzt
+werden.</lxbase:a><lxbase:a>Anton Meyer ist so schwer verletzt, dass er seinen Beruf nicht
+mehr ausüben kann. Das Geschäftsführerverhältnis
+wird daher zum 30.9.2008 beendet, bis dahin erhält er vertragsgemäß das
+volle Gehalt. Allerdings nutzt er den Firmenwagen für private
+Zwecke letztmals im Juli 2008. Danach ist ihm die private Nutzung
+untersagt. Das Verbot wird überwacht. Ab dem 1.10.2008
+erhält er ein Verletztengeld der Berufsgenossenschaft von
+1 500 € pro Monat und eine lebenslange Rente von 1 000 € aus
+einer vom Anstellungsverhältnis unabhängigen Berufsunfähigkeitsversicherung
+mit der Z-VVaG.</lxbase:a><lxbase:a>Am 1.11.2008 verkauft er seine Gesellschaftsanteile für
+800 000 € an Max Nitzsche; Veräußerungskosten
+in Höhe von 2 000 € werden von Anton Meyer in
+2008 gezahlt.</lxbase:a><lxbase:a>Im Dezember erhält er einen Strafbefehl des Amtsgerichts,
+in dem wegen des Unfalls eine Geldstrafe wegen fahrlässiger
+Körperverletzung in Höhe von 30 Tagessätzen
+von 125 € festgesetzt wird, ferner eine Rechnung seines
+Verteidigers über 1 500 €. Beide Beträge
+begleicht er umgehend.</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Ermitteln Sie den Gesamtbetrag der Einkünfte von Anton
+Meyer in 2008. Erläutern Sie die Aspekte, die für
+die Höhe der tariflichen Einkommensteuer des Anton Meyer
+von Bedeutung sind. Begründen Sie Ihre Auffassung.</lxbase:a><lxbase:a><lxbase:fett>Hinweise:</lxbase:fett></lxbase:a><lxbase:a>Alle erforderlichen Anträge sind gestellt. Gewerbesteuer
+ist aus Vereinfachungsgründen nicht zu berücksichtigen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523262800007">Teil II: Körperschaftsteuer</lxbase:ueberschrift><lxbase:a><lxbase:fett>Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>Die X-GmbH betreibt ein Bauunternehmen. Sitz der Gesellschaft
+ist Magdeburg. Das Stammkapital der in 2005 gegründeten
+Gesellschaft beträgt 100 000 € und ist voll eingezahlt.
+Das Wirtschaftsjahr der GmbH stimmt mit dem Kalenderjahr überein.
+Für die Wirtschaftsjahre bis einschließlich 2007
+wurden jeweils nur Handelsbilanzen erstellt. Geschäftsführender
+Gesellschafter der X-GmbH ist Peter X. Er hält 100 % der
+Anteile. Die Anteile gehören zum Betriebsvermögen
+seines Einzelunternehmens. Gewinnausschüttungen wurden für
+2007 nicht beschlossen und sind auch für 2008 nicht geplant.
+Aus den Konten des betrieblichen Rechnungswesens ergibt sich ein
+vorläufiger - formlos ermittelter - (handelsrechtlicher)
+Jahresüberschuss von 100 000 €. Die Konten des
+betrieblichen Rechnungswesens enthalten die handelsrechtlich maßgeblichen
+Werte und Bestände. Es ist nicht beabsichtigt, eine gesonderte
+Steuerbilanz aufzustellen. Etwaig erforderlich werdende abweichende
+steuerliche Beurteilungen sollen formlos in einer Überleitungsrechnung
+gem. § 60 Abs. 2 Satz 1 EStDV berücksichtigt werden.
+Die aufgrund Ihrer Beurteilung ggf. noch erforderlichen Korrekturen
+im handelsrechtlichen Abschluss werden nach Begutachtung der folgenden
+Teilsachverhalte durch die X-GmbH berücksichtigt. Auf eine
+Abgrenzung für latente Steuern möchte die X-GmbH
+- soweit möglich - dabei verzichten. Die X-GmbH führt
+mit den Erlösen aus dem Bauunternehmen nur zum Vorsteuerabzug
+berechtigende Umsätze aus.</lxbase:a><lxbase:a>Ausgehend von den Konten der Buchführung sind für
+die Erstellung der Körperschaftsteuererklärung
+und der Gewerbesteuererklärung 2008 die folgenden Teilsachverhalte
+noch zu überprüfen.</lxbase:a><lxbase:a><lxbase:fett>Teilsachverhalte:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a><lxbase:fett>Steuern</lxbase:fett></lxbase:a><lxbase:a>Die X-GmbH hat in 2008 Gewerbesteuer-Vorauszahlungen für
+2008 in Höhe von 10 000 € und Körperschaftsteuer-Vorauszahlungen
+in Höhe von 15 000 € geleistet und als Aufwand
+gebucht.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a><lxbase:fett>Ingangsetzungskosten</lxbase:fett></lxbase:a><lxbase:a>Im Jahr 2007 wurden die für den Neuaufbau der Organisation
+und des Vertriebsnetzes sowie eine Werbekampagne aufgewendeten Kosten
+von insgesamt 120 000 € zulässigerweise als Ingangsetzungskosten
+in der Handelsbilanz aktiviert. Außerdem wurde deswegen
+in der Handelsbilanz zum 31.12.2007 eine - nicht zu beanstandende
+- Rückstellung für latente Steuern in Höhe
+von 40 000 € gebildet. Für 2008 wurden daraufhin
+30 000 € planmäßige Abschreibungen auf
+die Ingangsetzungskosten gebricht und in Höhe von 10 000 € ein
+Ertrag aus der Auflösung der Rückstellung für
+latente Steuern ausgewiesen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a><lxbase:fett>Bungalow</lxbase:fett></lxbase:a><lxbase:a>Der Gesellschafter Peter X hat im Jahre 2008 auf seinem Wochenendgrundstück
+in der Nähe von Magdeburg einen Bungalow errichten lassen
+und dafür Material und Arbeitskräfte der X-GmbH
+eingesetzt.</lxbase:a><lxbase:a>Folgende Einzelkosten hat die GmbH getragen und als Aufwand erfasst:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="70*" /><cals:colspec colnum="2" colname="2" colwidth="30*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Material</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>40 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Fertigungslöhne (brutto)</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>20 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Die für die Materiallieferungen in Rechnung gestellte
+Umsatzsteuer in Höhe von 7 600 € wurde als Vorsteuer
+abgezogen und entsprechend gebucht.</lxbase:a><lxbase:a>Eine Weiterbelastung des Gesellschafters ist nicht erfolgt und
+auch nicht beabsichtigt.</lxbase:a><lxbase:a>Für Zwecke der Kalkulation von Verkaufspreisen setzt
+die X-GmbH folgende Gemeinkostenzuschläge an:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="70*" /><cals:colspec colnum="2" colname="2" colwidth="30*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Material</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>10 %</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Fertigungslöhne</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>150 %</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Weiterhin werden zugrunde gelegt:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="27*" /><cals:colspec colnum="2" colname="2" colwidth="73*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Verwaltungskosten</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>5 % auf Einzel- und Gemeinkosten
+für Material und Fertigung</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Vertrieb</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>5 % auf Einzel- und Gemeinkosten für
+Material und Fertigung</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Auf die Selbstkosten erfolgt ein Gewinnzuschlag von 20 %.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a><lxbase:fett>Beteiligung an der T-GmbH</lxbase:fett></lxbase:a><lxbase:a>Die X-GmbH hält seit zwei Jahren 95 % der Anteile
+am Stammkapital der ebenfalls in Magdeburg ansässigen T-GmbH,
+die einen Baustoffhandel betreibt. 5 % der Anteile hält
+Anne W. im Privatvermögen. Sie ist für die T-GmbH
+nicht beruflich tätig. Aufgrund eines handelsrechtlich
+und steuerlich wirksamen Gewinnabführungsvertrages sowie
+der finanziellen Eingliederung der T-GmbH in die X-GmbH sind die
+Voraussetzungen für ein körperschaftsteuerlich
+(und gewerbesteuerlich) anzuerkennendes Organschaftsverhältnis
+im Sinne der §§ 14 und 17 KStG gegeben. Im Jahresüberschuss
+der X-GmbH ist ein Erlös aus Gewinnabführung der
+T-GmbH in Höhe von 50 000 € enthalten, für
+die eine Forderung gegen verbundene Unternehmen aktiviert wurde.</lxbase:a><lxbase:a>Die T-GmbH hat zum 31.12.2008 folgende - gekürzt dargestellte
+- Gewinn- und Verlustrechnung aufgestellt:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="83*" /><cals:colspec colnum="2" colname="2" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Ergebnis der gewöhnlichen
+Geschäftstätigkeit</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>100 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Steuern vom Einkommen
+und Ertrag</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>1 500 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Ausgleichszahlung
+Minderheitsgesellschafterin</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>8 500 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Aufwand aus Gewinnabführung
+(§ 277 Abs. 3 Satz 2 HGB)</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>50 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Jahresüberschuss</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>40 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Gewinnvortrag aus
+dem Vorjahr</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>0 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Einstellungen in
+andere Gewinnrücklagen (§ 272 Abs. 3 HGB)</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>40 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Bilanzgewinn</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>0 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Das Ergebnis der gewöhnlichen Geschäftstätigkeit
+ist nicht durch Einnahmen oder Ausgaben, die für die Einkommensermittlung
+relevant sein könnten, beeinflusst worden. Da die T-GmbH
+eine größere, wirtschaftlich sinnvolle Investition
+plant, sollen ihr dafür (in Übereinstimmung mit
+dem Gewinnabführungsvertrag) 40 000 € belassen
+werden. Der Betrag wurde in eine freie Rücklage (= andere
+Gewinnrücklage gem. § 272 Abs. 3 HGB) eingestellt.
+Der übrige Jahresüberschuss ist - mit Ausnahme
+der an die Minderheitsgesellschafterin zu zahlenden Ausgleichszahlung
+- an die X-GmbH abzuführen (Aufwand gem. § 277
+Abs. 3 Satz 2 HGB). Die Minderheitsgesellschafterin hat Anspruch
+auf eine jährliche Ausgleichszahlung von 8 500 € als
+Dividende einschließlich Kapitalertragsteuer. Zum 31.12.2008
+wurde dafür eine sonstige Verbindlichkeit (Ausschüttungsverpflichtung)
+in der Bilanz der T-GmbH ausgewiesen (Aufwand im Sinne des § 277
+Abs. 3 Satz 2 HGB, § 158 Abs. 2 AktG analog). Der entsprechende
+Auszahlungsbetrag wurde am 10.5.2009 unter Abzug vor) 25 % Kapitalertragsteuer
+an Anne W. überwiesen. Unter der Position "Steuern
+vom Einkommen und Ertrag" wird ausschließlich
+die Körperschaftsteuer 2008 ausgewiesen, für die
+mangels Vorauszahlungen eine entsprechende Rückstellung
+gebildet wurde.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a><lxbase:fett>Beteiligung Kalksandstein-GmbH</lxbase:fett></lxbase:a><lxbase:a>Peter X betreibt neben seiner Geschäftsführertätigkeit
+bei der X-GmbH ein Einzelunternehmen (Einzelhandel mit Baustoffen).
+Zum Betriebsvermögen dieses Unternehmens gehört
+seit Gründung im Jahr 2005 die Beteiligung an der X-GmbH
+und seit dem Jahr 2004 eine Beteiligung in Höhe von 28 % an der
+Kalksandstein-GmbH, deren Stammkapital 100 000 € beträgt.
+Die Stimmrechtsanteile entsprechen den Anteilen am Stammkapital.
+Der Buchwert dieser Beteiligung beläuft sich ausweislich
+der Bilanz des Einzelunternehmens auf den 31.12.2008 auf 28 000 € und
+entspricht dem bei Gründung bar eingezahlten Betrag. Im
+Zuge der Umorganisation seines Betriebs übertrug Peter
+X am 15.1.2008 rechtswirksam seine Anteile an der Kalksandstein GmbH
+unentgeltlich auf die X-GmbH. Obwohl die Kalksandstein-GmbH in den
+Jahren 2004 bis 2006 Jahresfehlbeträge erwirtschaftete,
+beträgt der gemeine Wert der übertragenen Beteiligung,
+der dem Teilwert entspricht, aufgrund der positiven Geschäftsaussichten
+unstreitig 50 000 €. Die Kosten der Übertragung
+in Höhe von 500 € wurden von Peter X getragen
+und sind ordnungsgemäß als Aufwand bei ihm behandelt
+worden. Die Beteiligung an der Kalksandstein-GmbH <lxbase:az normform="wird-zum-31/12" manuell="nein">wird zum 31.12</lxbase:az>.2008
+in der Bilanz der X-GmbH unter Finanzanlagen (Beteiligungen) ausgewiesen.
+Aufgrund dieser Vermögensmehrung ist in den sonstigen betrieblichen
+Erträgen ein Betrag von 50 000 € enthalten. Eine
+Kapitalrücklage (aus Einlagen) gem. § 272 Abs.
+2 Nr. 4 HGB wurde nicht gebildet.</lxbase:a><lxbase:a>Im Einzelnen ergeben sich aus den vorliegenden Steuerbescheiden
+bzw. Feststellungsbescheiden und Gewerbesteuer-Messbescheiden für
+die Kalksandstein-GmbH für die Jahre 2004 bis 2007 folgende
+Besteuerungsmerkmale:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="34*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="19*" /><cals:colspec colnum="4" colname="4" colwidth="16*" /><cals:colspec colnum="5" colname="5" colwidth="13*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0" align="center"><lxbase:a>2004</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" align="center"><lxbase:a>2005</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="center"><lxbase:a>2006</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="center"><lxbase:a>2007 </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Jahresfehlbetrag/Jahresüberschuss</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="center"><lxbase:a>./.
+150 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" align="center"><lxbase:a>./.
+100 000 €</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="center"><lxbase:a>./.
+1 000 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="center"><lxbase:a>1 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Gesamtbetrag der
+Einkünfte</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" align="center"><lxbase:a>./.
+160 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" align="center"><lxbase:a>./.
+125 000 €</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" rowsep="0" align="center"><lxbase:a>2
+000 €</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="center"><lxbase:a>3 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Gewerbeertrag</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" align="center"><lxbase:a>./.
+140000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" align="center"><lxbase:a>./.
+110 000 €</lxbase:a></cals:entry><cals:entry colname="4" colsep="0" align="center"><lxbase:a>12 000 € </lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>8 000€</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Nehmen Sie unter Angabe der einschlägigen Vorschriften
+dazu Stellung, wie die dargestellten Teilsachverhalte steuerrechtlich
+zu behandeln sind.</lxbase:a><lxbase:a>Ermitteln Sie formlos</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>die Auswirkungen auf den in der Handelsbilanz
+auszuweisenden Jahresüberschuss /Jahresfehlbetrag
+für 2008 der X-GmbH,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>die Auswirkungen auf die Überleitungsrechnung
+gem. § 60 Abs. 2 Satz 1 EStDV für 2008 für
+die X-GmbH,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>die Auswirkungen auf etwaige außerbilanzielle
+Korrekturen im Rahmen der Ermittlung des zu versteuernden Einkommens
+2008 der X-GmbH,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>die Korrekturen wegen Organschaft bei der X-GmbH für
+2008,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>das Einkommen der Organgesellschaft T-GmbH für
+2008,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>den der Gewerbesteuererklärung der Organgesellschaft
+T-GmbH zugrunde zu legenden Gewerbeertrag für 2008,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>die sich aus dem Sachverhalt ergebenden Auswirkungen
+auf den zum 31.12.2008 festzustellenden körperschaftsteuerlichen
+Verlustvortrag und den Gewerbeverlust der Kalksandstein GmbH.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Soweit sich aus dem Sachverhalt Auswirkungen auf</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>die der Einkommensteuer und ggf. der Gewerbesteuer
+des Gesellschafters der X-GmbH, Peter X, zugrunde zu legenden Besteuerungsmerkmale
+für das Jahr 2008,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>die der Einkommensteuer der Gesellschafterin der T-GmbH,
+Anne W., zugrunde zu legenden Einnahmen für die Jahre 2008
+und 2009,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>das steuerliche Einlagekonto der X-GmbH _und
+der T-GmbH auf den 31.12.2008</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>ergeben, sind diese ebenfalls darzustellen. Steuerbescheide sind
+insoweit für die genannten Personen noch nicht ergangen.</lxbase:a><lxbase:a><lxbase:fett>Hinweise:</lxbase:fett></lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>Hinzurechnungen und Kürzungen
+bei der Ermittlung des Gewerbeertrages und des körperschaftsteuerlichen
+Einkommens liegen bei der X-GmbH, bei der T-GmbH und bei der Kalksandstein-GmbH
+- außer denen, die sich ggf. aus dem Sachverhalt ergeben
+-nicht vor.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Solidaritätszuschlag ist (aus Vereinfachungsgründen)
+nicht zu berücksichtigen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Auf evtl. Fragen der Kapitalertragsteuer ist nicht
+einzugehen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Cent-Beträge sind auf volle Euro abzurunden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Bei sämtlichen aufgeführten Unternehmen
+stimmt das Wirtschaftsjahr mit dem Kalenderjahr überein.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Auf Umsatzsteuerfragen ist insoweit einzugehen, wie
+dies für die Ermittlung der ertragsteuerlichen Bemessungsgrundlage
+erforderlich ist.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523262800008">Prüfungsaufgaben
+aus dem Gebiet Buchführung und Bilanzwesen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523262800009">Teil I: Einzelunternehmen
+Alt</lxbase:ueberschrift><lxbase:a><lxbase:fett>Sachverhalt:</lxbase:fett></lxbase:a><lxbase:a>Alfons Alt (A) betreibt seit 15 Jahren in Dresden (Sachsen) eine
+Spielwarenproduktion in der Rechtsform eines Einzelunternehmens
+(abweichendes Wirtschaftsjahr 1.10. bis 30.9.).</lxbase:a><lxbase:a>Der von A angestellte Buchhalter (B) hat die Buchführung
+und auf den 30.9.2008 eine vorläufige Bilanz erstellt.
+B hat allerdings noch einige Zweifel hinsichtlich einzelner Geschäftsvorfälle
+bzw. Buchungsvorgänge.</lxbase:a><lxbase:a>A wendet sich deshalb an Sie als Steuerberater/-in und
+bittet um Überprüfung der nachfolgend dargestellten
+Einzelsachverhalte hinsichtlich deren (steuer-)bilanziellen Behandlung.
+A ist daran interessiert, möglichst wenig Steuern zu bezahlen,
+und legt daher großen Wert darauf, dass der Gewinn seines
+Einzelunternehmens für das Wirtschaftsjahr 2007/2008
+möglichst niedrig ist. Um langjährige Rechtsbehelf-
+bzw. Klageverfahren zu vermeiden, soll in Zweifelsfällen nach
+der Verwaltungsauffassung entschieden werden.</lxbase:a><lxbase:a>Tag der Bilanzaufstellung ist der 15.12.2008.</lxbase:a><lxbase:a><lxbase:fett>Aufgabe zu Teil I:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Nehmen Sie zu den nachfolgend
+dargestellten Einzelsachverhalten unter Hinweis auf die einschlägigen
+Rechtsvorschriften Stellung.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Geben Sie dabei die jeweils noch erforderlichen
+Buchungen in der "Steuerbilanz" für das
+Wirtschaftsjahr 2007/2008 an und stellen Sie zu jedem Einzelsachverhalt
+die daraus resultierenden Gewinnauswirkungen dar (Bilanzposten-Methode
+oder Gewinn- und Verlust-Posten-Methode).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Sollten außerbilanzielle Änderungen
+erforderlich sein, sind diese anzuführen und deren Auswirkungen
+darzustellen.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:fett>Hinweise:</lxbase:fett></lxbase:a><lxbase:a>A versteuert seine Umsätze nach vereinbarten Entgelten
+und führt ausschließlich zum Vorsteuerabzug berechtigende
+Umsätze aus. Die Eingangsrechnungen erfüllen sämtliche
+Voraussetzungen der §§ 14 ff. UStG.</lxbase:a><lxbase:a>Eine Übertragung etwaiger steuerfreier Rücklagen
+ist im Wirtschaftsjahr 2007/2008 nicht vorgesehen. Außerdem
+sind die Grenzen des § 7g EStG seit Jahren überschritten.
+Cent-Beträge sind zu runden.</lxbase:a><lxbase:a>Sofern sich aus dem Sachverhalt nichts anderes ergibt, wurden
+noch keine Buchungen vorgenommen.</lxbase:a><lxbase:a>Auf evtl. von der Steuerbilanz abweichende Bilanzansätze
+in der Handelsbilanz und deren Auswirkungen ist nicht einzugehen.</lxbase:a><lxbase:a>Auf gewerbesteuerliche Probleme ist nicht einzugehen.</lxbase:a><lxbase:a><lxbase:fett> Einzelsachverhalte zu Teil I:</lxbase:fett></lxbase:a><lxbase:a>In dem vorläufigen Jahresabschluss des Einzelunternehmens
+des A zum 30.9.2008 sind von Ihnen die nachfolgenden Einzelsachverhalte
+noch zu überprüfen.</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>A erwarb zum 1.10.2007 (Übergang
+von Besitz, Nutzen und Lasten) von Volker Voll (V) ein im Jahr 1995
+bebautes Grundstück zu folgenden Bedingungen:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>A hat zum 1.10.2007 sofort 80 000 € an
+V zu bezahlen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Zusätzlich übernimmt er von V ein
+Ende September 2011 zurückzuzahlendes Fälligkeitsdarlehen
+in Höhe von 120 000 € sowie die Bezahlung der
+Zinsen für die Zeit ab 1.7.2007 (Zinssatz 5 %).
+Die Zinsen sind halbjährlich fällig, und zwar
+jeweils am 1.1. und 1.7. nach Ablauf des Zinszahlungszeitraums.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Des Weiteren hat A an V ab dem 1.10.2007 eine lebenslange
+Leibrente von monatlich 5 000 € zu entrichten, zahlbar
+zu Beginn eines jeden Monats. V hat im Zeitpunkt der Übertragung
+das 40. Lebensjahr vollendet.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Vom Kaufpreis entfallen 1/4 auf den Grund und Boden
+und 3/4 auf das Gebäude.</lxbase:a><lxbase:a>Die Anschaffung des in vollem Umfang für das Einzelunternehmen
+des A genutzten bebauten Grundstücks wurde wie folgt verbucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="22*" /><cals:colspec colnum="3" colname="3" colwidth="22*" /><cals:colspec colnum="4" colname="4" colwidth="22*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Grund und Boden</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>20 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Gebäude</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>60 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an Bank</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>80 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Die Zinsen für das übernommene Darlehen wurden
+am 1.1.2008 und am 1.7.2008 jeweils wie folgt verbucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="22*" /><cals:colspec colnum="3" colname="3" colwidth="22*" /><cals:colspec colnum="4" colname="4" colwidth="22*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Zinsaufwand</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>3 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an Bank</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>3 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Die monatlichen Rentenzahlungen wurden bei Fälligkeit über
+das Konto "sonstige betriebliche Aufwendungen" verbucht
+und dem betrieblichen Bankkonto belastet.</lxbase:a><lxbase:a>Die Notar- und Grundbuchkosten von zusammen 4 500 € zzgl.
+855 € Umsatzsteuer bezahlte A aus privaten Mitteln; insoweit
+unterblieb eine Verbuchung.</lxbase:a><lxbase:a>Die laut Grunderwerbsteuerbescheid vorn 6.3.2008 am 10.4.2008
+fällige Grunderwerbsteuer in Höhe von 38 900 € wurde
+erst am 20.6.2008 überwiesen. Angefallene Säumniszuschläge
+in Höhe von 750 € wurden ebenfalls am 20.6.2008
+bezahlt. (Die Höhe der Säumniszuschläge
+ist als zutreffend zu unterstellen.) Der Vorgang wurde wie folgt
+verbucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="31*" /><cals:colspec colnum="2" colname="2" colwidth="23*" /><cals:colspec colnum="3" colname="3" colwidth="23*" /><cals:colspec colnum="4" colname="4" colwidth="23*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Sonstige Steuern</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>39 650 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an Bank</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>39 650 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Die Abschreibung des Gebäudes wurde mit 4 % von
+60 000 € = 2 400 E angesetzt und zum 30.9.2008
+wie folgt verbucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:colspec colnum="4" colname="4" colwidth="25*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>AfA</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>2 400 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an Gebäude</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>2 400 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Um den bisherigen Mieter M des Gebäudes zum vorzeitigen
+Auszug zu bewegen, hat A außerdem am 4.10.2007 an M eine
+Abfindung in Höhe von 10 000 E für die vorzeitige
+Auflösung des Mietvertrags ab Oktober 2007 bezahlt. M hatte
+den Mietvertrag ursprünglich bis zum 31.12.2012 abgeschlossen.
+Dies wurde wie folgt verbucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="41*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:colspec colnum="3" colname="3" colwidth="20*" /><cals:colspec colnum="4" colname="4" colwidth="20*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Sonst. betr. Aufwendungen</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>10 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an Bank</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>10 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Auf einem anderen Betriebsgrundstück
+des Einzelunternehmens des A wurde von Oktober 2003 bis April 2004
+ein Betriebsgebäude errichtet (Bauantrag Juli 2003).</lxbase:a><lxbase:a>Das Betriebsgebäude (Herstellungskosten 120 000 €;
+AfA nach § 7 Abs. 4 Satz 1 Nr. 1 EStG mit 3 %)
+<lxbase:az normform="steht-zum-30/09" manuell="nein">steht zum 30.09</lxbase:az>.2007 mit 120 000 € J. 31/2 Jahre x
+3 % = 107 400 € und der Grund und Boden
+mit 16 000 € zu Buche. Die Abschreibung auf das Gebäude
+wurde dabei auch im Wirtschaftsjahr 2007/2008 mit 3 % von
+120 000 € = 3 600 berücksichtigt und
+entsprechend verbucht.</lxbase:a><lxbase:a>Im November 2007 wurde in diesem Gebäude ein mit dem
+Grundstück untrennbar verbundenes Förderband mit
+elektronisch gesteuertem Verteilersystem für 30 000 € (netto)
+eingebaut. Die betriebsgewöhnliche Nutzungsdauer beträgt
+10 Jahre.</lxbase:a><lxbase:a>Für das Förderband wurde A am 20.8.2008 eine
+Investitionszulage in Höhe von 4 500 € überwiesen.
+Die Investitionszulage und die in Zusammenhang mit dem Förderantrag
+entstandenen Kosten in Höhe von 300 € wurden im Wirtschaftsjahr
+2007/2008 wie folgt verbucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="39*" /><cals:colspec colnum="2" colname="2" colwidth="14*" /><cals:colspec colnum="3" colname="3" colwidth="33*" /><cals:colspec colnum="4" colname="4" colwidth="14*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Bank</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>4 500 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>an sonst. betr. Erträge</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0"><lxbase:a>4 500 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>und</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Sonst. betr. Aufwendungen</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>300 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an Bank</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>300 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Im Mai 2008 wurde auf diesem Grundstück außerdem
+ein Teil der Freifläche mit Schotter eingedeckt sowie anschließend
+asphaltiert und der so entstandene Kundenparkplatz zur Straßenseite
+hin durch einen Zaun abgeschlossen. Die Kosten betrugen für
+den Parkplatz 20 000 € (netto) und für den Zaun
+4 000 € (netto). Die betriebsgewöhnliche Nutzungsdauer
+beträgt jeweils zehn Jahre.</lxbase:a><lxbase:a>Der Gesamtbetrag von 54 000 € (30 000 € + 20
+000 € + 4 000 €) wurde dem Grund und
+Boden hinzu aktiviert. Die Umsatzsteuer ist zutreffend verbucht worden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Das Einzelunternehmen des A verkaufte im
+Februar 2008 Spielwaren an den Kunden K, der ein zum Vorsteuerabzug
+berechtigter Unternehmer ist, für 5 000 € zzgl.
+950 € Umsatzsteuer und buchte insoweit:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="15*" /><cals:colspec colnum="3" colname="3" colwidth="32*" /><cals:colspec colnum="4" colname="4" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Forderungen aus LuL</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>5 950 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>an Warenverkauf</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0"><lxbase:a>5 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" colsep="0" /><cals:entry colname="3" colsep="0"><lxbase:a>Umsatzsteuer</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>950 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>K war anschließend allerdings nicht mehr bereit, den
+vereinbarten Kaufpreis zu bezahlen, obwohl er die Qualität
+der gelieferten Waren nicht beanstandete. Deshalb überwies
+er am 15.3.2008 nur einen Betrag von 3 570 €, welcher von
+A zutreffend verbucht wurde. A war damit nicht einverstanden. Nachdem
+mehrere Mahnungen erfolglos geblieben waren, verklagte</lxbase:a><lxbase:a>A den K im Juli 2008 auf Zahlung des Restkaufpreises von 2.380 €.</lxbase:a><lxbase:a>Der von A beauftragte Rechtsanwalt verlangte mittels einer Vorausrechnung einen
+Vorschuss von 200 € zzgl. 38 € Umsatzsteuer. Dieser
+wurde bei Bezahlung im Juni 2008 wie folgt verbucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="38*" /><cals:colspec colnum="2" colname="2" colwidth="21*" /><cals:colspec colnum="3" colname="3" colwidth="21*" /><cals:colspec colnum="4" colname="4" colwidth="21*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Geleistete Anzahlung</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>200 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Vorsteuer</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>38 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an Bank</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>238 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Die Gerichtskosten von 300 € wurden von A bei Einreichung
+der Klage vorausbezahlt und wie folgt verbucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="31*" /><cals:colspec colnum="2" colname="2" colwidth="23*" /><cals:colspec colnum="3" colname="3" colwidth="23*" /><cals:colspec colnum="4" colname="4" colwidth="23*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Prozesskosten</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>300 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an Bank</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>300 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Das zuständige Amtsgericht gab der Klage statt und verurteilte
+K. am 10.10.2008 zur Zahlung von 2 380 € nebst 120 € Verzugszinsen
+sowie zur Tragung der Kosten des Rechtsstreits.</lxbase:a><lxbase:a>K ließ die Frist zur Einlegung der Berufung verstreichen,
+so dass das Urteil im November 2008 rechtskräftig wurde.</lxbase:a><lxbase:a>Insgesamt musste zum 30.9.2008 für die Anwälte
+des A und des K mit Anwaltsgebühren von jeweils 500 € zzgl.
+95 € Umsatzsteuer gerechnet werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>A hat sich wegen der guten geschäftlichen
+Entwicklung in den vorausgegangenen Wirtschaftsjahren und im Wirtschaftsjahr
+2007/2008 bei einer Betriebsversammlung im August 2008
+seinen Arbeitnehmern gegenüber jeweils durch schriftliche
+Einzelzusage zur Zahlung einer einmaligen Gratifikation in einer
+Gesamtsumme von 60 000 € verpflichtet. Hiermit sollen in erster
+Linie die Betriebstreue und die erbrachten Leistungen in der Vergangenheit
+honoriert werden. Die Höhe der Gratifikation für
+den einzelnen Arbeitnehmer richtet sich nach der Dauer seiner Betriebszugehörigkeit
+und der Höhe des durchschnittlichen Monatsverdienstes im
+Wirtschaftsjahr 2007/2008.</lxbase:a><lxbase:a>Um die Arbeitnehmer auch weiterhin an den Betrieb zu binden,
+soll die Gratifikation erst zum 30.9.2013 ausbezahlt werden. Im
+Falle eines vorzeitigen Ausscheidens durch Kündigung entfällt
+der Anspruch auf Auszahlung ersatzlos. Nach den Erfahrungen in der
+Vergangenheit kann davon ausgegangen werden, dass auf die betroffenen
+Mitarbeiter, die vorzeitig aus dem Unternehmen ausscheiden werden,
+voraussichtlich ca. 10 % der Gratifikation entfallen. Diesbezüglich
+wurde in der Bilanz zum 30.9.2008 eine Rückstellung in
+Höhe von 60 000 € ausgewiesen (Gegenkonto "Löhne
+und Gehälter").</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523262800010">Teil II: Fünf
+(unabhängige) Sachverhalte</lxbase:ueberschrift><lxbase:a><lxbase:fett>Sachverhalt 1:</lxbase:fett></lxbase:a><lxbase:a>Der Einzelunternehmer A bilanziert und nimmt in seiner Steuererklärung
+für das Jahr 2008 einen Investitionsabzugsbetrag In Höhe
+von 20 000 € in Anspruch. Er plant, im Jahr 2011 eine neue
+Papierschneidemaschine zu erwerben, deren voraussichtliche Anschaffungskosten
+50 000 betragen sollen.</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Die Maschine wird
+im Januar 2011 tatsächlich für 50 000 erworben
+(Nutzungsdauer zehn Jahre).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Die Maschine wird im Januar 2011 für
+40 000 erworben.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>Der Erwerb der Maschine unterbleibt. </lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Stellen Sie die Auswirkungen
+der Sachverhalte a bis c bei A in den Jahren 2008 und 2011 dar.
+Soweit diese sich durch Buchungen dokumentieren lassen, geben Sie
+bitte die erforderlichen Buchungssätze an.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Wie hoch ist der Buchwert der Papierschneidemaschine
+zum 31.12.2013 in den Alternativen a und b?</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:fett>Hinweise:</lxbase:fett></lxbase:a><lxbase:a>A erfüllt die Voraussetzungen für die Inanspruchnahme
+des Investitionsabzugsbetrages.</lxbase:a><lxbase:a>A möchte im Jahr 2011 möglichst wenig versteuern.</lxbase:a><lxbase:a>Umsatzsteuer ist aus Vereinfachungsgründen nicht zu
+berücksichtigen.</lxbase:a><lxbase:a><lxbase:fett>Sachverhalt 2:</lxbase:fett></lxbase:a><lxbase:a>Einzelunternehmer B plant im Jahr 2008, sein Büro im
+Jahr 2009 komplett neu auszustatten und in diesem Zusammenhang die
+Anschaffung von zehn neuen Schreibtischen zu einem Netto-Preis von
+je 240 €/Schreibtisch (Nutzungsdauer: zehn Jahre).
+Die Schreibtische werden im Januar 2009 zum veranschlagten Preis
+erworben.</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Wie verfährt B, wenn
+er im Jahr 2009 möglichst wenig versteuern möchte? Wie
+lautet die Buchung im Jahr 2009?</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Was wird B tun, wenn er keine Steuerminimierung
+anstrebt? Stellen Sie die buchtechnische Entwicklung und den bilanziellen
+<lxbase:az normform="Wert-zum-31/12" manuell="nein">Wert zum 31.12</lxbase:az>.2009 dar.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:fett>Hinweise:</lxbase:fett></lxbase:a><lxbase:a>Auch hier ist von der Zulässigkeit des Investitionsabzugsbetrages
+auszugehen.</lxbase:a><lxbase:a>Umsatzsteuer ist nicht zu berücksichtigen.</lxbase:a><lxbase:a><lxbase:fett>Sachverhalt 3:</lxbase:fett></lxbase:a><lxbase:a>Einzelunternehmer C nimmt im Dezember 2007 einen Investitionsabzugsbetrag für
+eine neue Computeranlage in Höhe von 600 € in
+Anspruch und erwirbt die Anlage im Juni 2008 zum Preis von 1 500 € (Nutzungsdauer:
+drei Jahre).</lxbase:a><lxbase:a>Drei Monate später wird die Anlage durch Überspannung
+(Blitzschlag) zerstört.</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Was empfehlen Sie C, um im Jahr 2008 eine möglichst
+geringe Steuerbelastung zu erreichen? Wie lauten dann die Buchungen,
+die sich bilanziell auswirken?</lxbase:a><lxbase:a>Wie wäre zu verfahren, wenn C aus anderen Gründen
+kein Interesse an einer möglichst geringen Steuerbelastung
+hat?</lxbase:a><lxbase:a><lxbase:fett>Hinweise:</lxbase:fett></lxbase:a><lxbase:a>Auch hier ist von der Zulässigkeit des Investitionsabzugsbetrages
+auszugehen.</lxbase:a><lxbase:a>Umsatzsteuer ist nicht zu berücksichtigen.</lxbase:a><lxbase:a><lxbase:fett>Sachverhalt 4:</lxbase:fett></lxbase:a><lxbase:a>Der bilanzierende D nutzt einen im Januar 2008 angeschafften
+Audi A 8 (Listenpreis inkl. Umsatzsteuer = 119 000 €)
+auch für seinen Betrieb. Die Jahresfahrleistung 2008 beläuft
+sich auf 22 000 km; hiervon entfallen 2 800 km auf betriebliche
+Fahrten sowie 8 800 km auf Fahrten zwischen seiner Wohnung und seiner
+Firma (an 200 Tagen, einfache Entfernung = 22 km). Die
+Aufwendungen für das Fahrzeug betragen einschließlich
+AfA 30 000 €. D führt kein Fahrtenbuch.</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Welche Auswirkungen hat der Sachverhalt auf die steuerliche Gewinnermittlung
+für das <lxbase:fett>gesamte Jahr</lxbase:fett> 2008?</lxbase:a><lxbase:a>Wie ist am Jahresende zu buchen? </lxbase:a><lxbase:a><lxbase:fett>Hinweise:</lxbase:fett></lxbase:a><lxbase:a>Auch hier ist die Umsatzsteuer nicht zu berücksichtigen.
+D hat sämtliche Aufwendungen für den Audi A 8
+während des Jahres zunächst als betrieblichen Aufwand
+erfasst. Das Fahrzeug ist angemessen i. S. d. § 4 Abs.
+5 Nr. 7 EStG.</lxbase:a><lxbase:a><lxbase:fett>Sachverhalt 5:</lxbase:fett></lxbase:a><lxbase:a>E, ein bilanzierender Gewerbetreibender mit einem Jahresgewinn
+im Jahr 2008 von 1,5 Mio. €, veräußerte
+am 15.1.2008 ein Gebäude, in welchem sich ein Hochregallager
+für Ersatzteile befand, zu einem Preis von 900 000 € (Anschaffung
+am 1.3.1998). Davon entfielen auf</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="74*" /><cals:colspec colnum="2" colname="2" colwidth="26*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Grund und Boden</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>250 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Gebäude</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>550 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>(vollautomatisches)
+Hochregallager</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>100 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="2" rowsep="0"><lxbase:a>Die Buchwerte lauteten
+wie folgt:</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Grund und Boden</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>50 000 E</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Gebäude</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>300 000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Hochregallager</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>10 000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Am 2.11.2008 schaffte er ein neues Bürogebäude
+an, dessen Kaufpreis 800 000 € betragen hat (Grund und
+Boden 150 000 €, Gebäude 650 000 €).</lxbase:a><lxbase:a><lxbase:fett>Aufgabe:</lxbase:fett></lxbase:a><lxbase:a>Wie ist der Sachverhalt beider Vorgänge steuerlich zu
+würdigen?</lxbase:a><lxbase:a>Welche Gewinnauswirkungen ergeben sich in 2008? Wie lauten die
+Buchungen?</lxbase:a><lxbase:a>Wie hoch ist der Buchwert des Gebäudes in der Bilanz
+zum 31.12.2008?</lxbase:a><lxbase:a><lxbase:fett>Hinweise:</lxbase:fett></lxbase:a><lxbase:a>Im vollautomatischen Hochregallager ist der Aufenthalt von Menschen
+bei laufendem Betrieb verboten. Umsatz-</lxbase:a><lxbase:a>steuer ist nicht zu berücksichtigen. E möchte
+in 2008 eine möglichst niedrige Steuerbelastung erreichen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523262800011">Teil III: A-GmbH</lxbase:ueberschrift><lxbase:a><lxbase:fett>Allgemeines:</lxbase:fett></lxbase:a><lxbase:a>Die A-GmbH betreibt Gaststätten und einen Catering-Service
+in gemieteten Räumen in Magdeburg. Das Wirtschaftsjahr
+der GmbH stimmt mit dem Kalenderjahr überein. Für
+die Wirtschaftsjahre bis einschließlich 2007 wurden ausschließlich
+einheitliche Handels- und Steuerbilanzen erstellt, weil sich abweichende
+Ansätze oder Bewertungen nicht ergeben haben. Aus Kostengründen
+sollen auch in Zukunft möglichst einheitliche Steuer- und
+Handelsbilanzen erstellt werden.</lxbase:a><lxbase:a>Geschäftsführender Gesellschafter der A-GmbH
+ist Günther A. Er hält 100 % der Anteile.</lxbase:a><lxbase:a>Die A-GmbH führt nur zum Vorsteuerabzug berechtigende
+Umsätze aus. Gewinnausschüttungen wurden für
+2007 nicht beschlossen und sind auch für 2008 nicht geplant.
+Aus den Konten des betrieblichen Rechnungswesens ergibt sich für
+2008 ein vorläufiger - formlos ermittelter - Jahresüberschuss
+von 100 000 €.</lxbase:a><lxbase:a>Ausgehend von den Konten der Buchführung sind für
+die Erstellung der Handels- und Steuerbilanz sowie der entsprechenden
+Gewinn- und Verlustrechnungen zum 31.12.2008 die folgenden Teilsachverhalte
+noch zu überprüfen.</lxbase:a><lxbase:a>Tag der Bilanzaufstellung ist der 31.3.2009. Soweit sich Auswirkungen
+auf das Jahr 2007 ergeben, soll eine Korrektur durch Aufstellung
+einer Steuerbilanz zum 31.12.2007 erfolgen.</lxbase:a><lxbase:a>Aus Vereinfachungsgründen wird für das durch
+die Betriebsprüfung geprüfte Jahr auch ein Umsatzsteuersatz
+von 19 % angenommen.</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a><lxbase:fett>Betriebsprüfung
+für das Jahr 2006</lxbase:fett></lxbase:a><lxbase:a>Im August 2008 fand bei der A-GmbH eine Betriebsprüfung
+(Bp) statt. Die Prüfung wurde vom Finanzamt im Juli 2008
+angeordnet und umfasste das Jahr 2006. Der Jahresabschluss zum 31.12.2007
+wurde von der GmbH im Juni 2008 aufgestellt; daraufhin wurden -
+ohne das Ergebnis der Betriebsprüfung abzuwarten - die
+Steuererklärungen für 2007 im August 2008 dem Finanzamt
+eingereicht. Steuerbescheide sind für das Jahr 2007 noch
+nicht ergangen.</lxbase:a><lxbase:a>Die Feststellungen der Betriebsprüfung waren im August
+2008 noch nicht bekannt, weil die Schlussbesprechung erst im September
+2008 erfolgte und der Betriebsprüfungsbericht mit den geänderten
+Steuerbescheiden für 2006 im Dezember 2008 bekannt gegeben
+wurde. Im Januar 2009 wurden die geänderten Steuerbescheide
+für 2006 bestandskräftig und die Steuernachzahlungen
+entrichtet.</lxbase:a><lxbase:a>Die Gesellschaft wünscht (als zulässige Möglichkeit
+der Angleichung der Bilanzen an die Betriebsprüfung), die
+Ergebnisse der Betriebsprüfung im Jahresabschluss zum 31.
+Dezember 2008 auszuweisen, so dass zu diesem Termin Handels- und
+Steuerbilanz - soweit zulässig - möglichst übereinstimmen.
+Diese Möglichkeit ist in diesem Fall wegen der nicht schwerwiegenden Feststellungen
+handelsrechtlich ausdrücklich erlaubt. Eine Überprüfung
+der Richtigkeit der Feststellungen der Betriebsprüfung
+soll nicht erfolgen.</lxbase:a><lxbase:a>Durch die Betriebsprüfung wurden folgende Feststellungen
+getroffen:</lxbase:a><lxbase:a><lxbase:fett>Sachanlagen, Konto Kegelbahn</lxbase:fett></lxbase:a><lxbase:a>Im Januar 2006 hat die A-GmbH eine Kegelbahn (Mietereinbau/materielles Wirtschaftsgut)
+errichten lassen. Die Herstellungskosten von 50 000 € wurden,
+ausgehend von einer Nutzungsdauer von vier Jahren, linear abgeschrieben.
+Die Vorsteuer wurde korrekt gebucht.</lxbase:a><lxbase:a>Von der Betriebsprüfung wurde eine Nutzungsdauer der
+Kegelbahn von acht Jahren festgestellt; dementsprechend hat sie
+den AfA-Satz auf 12,5 % geändert. Ein Antrag auf
+Anwendung einer anderweitigen Abschreibungsmethode wurde seitens
+der GmbH nicht gestellt.</lxbase:a><lxbase:a>Im Dezember 2006 wurde die Kegelbahn noch um einen Meter verlängert, um
+die Vorgaben des Deutschen Keglerbundes zu erfüllen. Die
+am 20.12.2006 eingegangene Rechnung über 5 000 € zuzüglich
+950 € Umsatzsteuer wurde im Januar 2007 beglichen und wie
+folgt gebucht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="22*" /><cals:colspec colnum="3" colname="3" colwidth="22*" /><cals:colspec colnum="4" colname="4" colwidth="22*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Reparaturaufwand</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>5 000 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0" /><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Vorsteuer</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>950 €</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>an Bank</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>5 950 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Der Betriebsprüfer aktivierte den Betrag von 5 000 € als
+nachträgliche Herstellungskosten und berechnete für
+die Kegelbahn zum 31.12.2006 einen Buchwert von 48 125 €.</lxbase:a><lxbase:a><lxbase:fett>Verbindlichkeiten, Konten Verbindlichkeiten aus Lieferungen
+und Leistungen und Umsatzsteuerverbindlichkeit lt. Bp</lxbase:fett></lxbase:a><lxbase:a>In der Prüferbilanz wird die Verbindlichkeit für
+die Erweiterung der Kegelbahn in Höhe von 5 950 € ausgewiesen.</lxbase:a><lxbase:a>Hinsichtlich der Vorsteuer wurde die Umsatzsteuerverbindlichkeit
+lt. <lxbase:az normform="Bp-zum-31/12" manuell="nein">Bp zum 31.12</lxbase:az>.2006 um 950 € vermindert.</lxbase:a><lxbase:a><lxbase:fett>Vorräte, Konto Warenbestand</lxbase:fett></lxbase:a><lxbase:a>Bei der Bewertung der Warenvorräte ist der Gesellschaft
+ein Fehler unterlaufen. Die Bestände waren deshalb lt.
+<lxbase:az normform="Bp-zum-31/12" manuell="nein">Bp zum 31.12</lxbase:az>.2006 um 9 000 € zu erhöhen. Dieser
+Fehler wurde auch bei der Warenbewertung zum 31.12.2007 und 2008
+gemacht. Die zu aktivierenden Vorräte sind deshalb zum
+31.12.2007 um 4 000 € und zum 31.12.2008 um 6 000 € zu
+erhöhen.</lxbase:a><lxbase:a><lxbase:fett>Verdeckte Gewinnausschüttungen, Konto Umsatzsteuerverbindlichkeit Bp</lxbase:fett></lxbase:a><lxbase:a>Der Prüfer stellte verdeckte Gewinnausschüttungen
+in Höhe von 23 800 € fest. Es handelt sich hierbei
+um Nutzungsüberlassungen und Warenentnahmen, die in Höhe
+von 20 000 den Jahresüberschuss gemindert haben. Da diese
+verdeckten Gewinnausschüttungen gleichzeitig steuerpflichtige Umsätze
+darstellen, ergab sich dafür eine Umsatzsteuer in Höhe
+von 3 800 e, die in der Prüferbilanz in der Position USt
+lt. Bp enthalten ist.</lxbase:a><lxbase:a>Die verdeckten Gewinnausschüttungen sind in dieser Höhe
+auch im Jahre 2007 angefallen, aber nicht erklärt worden.</lxbase:a><lxbase:a>Für 2008 liegen keine verdeckten Gewinnausschüttungen
+vor, weil die Nutzungsüberlassungen und Warenentnahmen
+ordnungsgemäß in Rechnung gestellt und als umsatzsteuerpflichtige
+Erlöse erfasst wurden.</lxbase:a><lxbase:a><lxbase:fett>Steuerrückstellungen, Konten Gewerbesteuerrückstellung
+lt. Bp und Körperschaftsteuerrückstellung lt.
+Bp</lxbase:fett></lxbase:a><lxbase:a>Für die Gewerbesteuer- und die Körperschaftsteuernachzahlung
+aufgrund der Betriebsprüfung ist in der Prüferbilanz
+jeweils eine entsprechende - nicht zu beanstandende - Rückstellung
+gebildet worden.</lxbase:a><lxbase:a><lxbase:fett>Mindergewinn lt. Bp</lxbase:fett></lxbase:a><lxbase:a>Der steuerliche Mindergewinn wird in der Prüferbilanz
+als steuerlicher Ausgleichsposten ausgewiesen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a><lxbase:fett>Steuerrückstellungen zum
+31.122007 und zum 31.12.2008</lxbase:fett></lxbase:a><lxbase:a>Die in der vorliegenden Bilanz zum 31.12.2007 bisher enthaltenen
+Steuerrückstellungen sind - ohne Berücksichtigung
+von etwaigen Folgewirkungen durch die Betriebsprüfung -
+korrekt ermittelt worden.</lxbase:a><lxbase:a>Zum 31.12.2008 wurden bisher noch keine Steuerrückstellungen
+ermittelt. Vorauszahlungen für Gewerbesteuer und Körperschaftsteuer
+sind nicht entrichtet worden. Nicht abziehbare Ausgaben und etwaige
+Hinzurechnungen oder Kürzungen, außer denen, die
+sich ggf. unmittelbar aus dem Sachverhalt ergeben, liegen nicht
+vor.</lxbase:a><lxbase:a>Auf Solidaritätszuschlag und Verzinsung von Steuern
+ist nicht einzugehen.</lxbase:a><lxbase:a>Im Jahr 2007 beträgt</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>der Gewerbesteuermessbetrag 5 %,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>der Gewerbesteuerhebesatz 400 %),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>der Körperschaftsteuersatz 25 %.
+Im Jahr 2008 beträgt</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>der Gewerbesteuermessbetrag 3,5 %,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>der Gewerbesteuerhebesatz 400 %,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>der Körperschaftsteuersatz 15 %. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Aufgabe zu Teil III</lxbase:fett></lxbase:a><lxbase:a>Ermitteln Sie den in Handelsbilanz und Steuerbilanz auszuweisenden
+Jahresüberschuss für das Jahr 2008 und den der
+Besteuerung zugrunde zu legenden Jahresüberschuss für
+das Jahr 2007, die sich aufgrund der genannten Feststellungen ergeben.</lxbase:a><lxbase:a>Der steuerliche Ausgleichsposten ist zum 31.12.2007 fortzuführen;
+zum 31.12.2008 soll er möglichst nicht mehr ausgewiesen
+werden.</lxbase:a><lxbase:a>Beurteilen Sie unter Angabe der einschlägigen Ansatz-
+und Bewertungsvorschriften, wie die dargestellten Teilsachverhalte
+aus handelsrechtlicher und steuerrechtlicher Sicht zu behandeln
+sind. Dabei sind die sich aus den Sachverhalten ergebenden Kontobestände
+in € zum 31.12.2008 zu ermitteln.</lxbase:a><lxbase:a>Eine Überprüfung der Richtigkeit der Feststellungen
+der Betriebsprüfung soll nicht erfolgen.</lxbase:a><lxbase:a>Planmäßige Abschreibungen sollen in Handelsbilanz
+und Steuerbilanz möglichst einheitlich vorgenommen werden.
+Degressive Abschreibungen sind nicht erwünscht.</lxbase:a><lxbase:a>Der Jahresüberschuss in der Steuerbilanz soll möglichst
+niedrig ausfallen.</lxbase:a><lxbase:a>Verwenden Sie bitte für die Aufstellung der Bilanzen
+die als <lxbase:fett>Anlage</lxbase:fett> beigefügte Bilanztabelle,
+in der in vereinfachter Form die maßgebenden Konten der
+Buchführung mit den sich aus dem Sachverhalt ergebenden
+Beständen enthalten sind. Soweit ausgehend von Ihrer Lösung
+weitere Konten einzurichten sind, verwenden Sie bitte die dafür
+vorgesehenen freigehaltenen Zeilen. Fügen Sie die Anlage
+Ihrer Lösung bei.</lxbase:a><lxbase:a>Die Aufgabe sollte in folgender <lxbase:fett>Reihenfolge</lxbase:fett> gelöst
+werden:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. Für das Jahr
+2007 sind die Gewinnauswirkungen in einer Mehr- und Wenigerrechnung
+nach der GuV-Methode aufzuzeigen. Hierbei sind die Änderungen
+der Rückstellungen für GewSt und KSt zu ermitteln.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Eine berichtigte Steuerbilanz auf den 31.12.2007
+ist zu erstellen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. Zum 31.12.2008 sind die erforderlichen Buchungssätze
+(einschl. etwaig erforderlicher Korrekturbuchungssätze)
+- ausgehend von der vorliegenden Handelsbilanz zum 31.12.2008 -
+anzugeben.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. Die Steuerrückstellungen (GewSt und KSt)
+für 2008 sind für Handelsbilanz und Steuerbilanz
+zu ermitteln und zu buchen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. Der endgültige Jahresüberschuss
+für 2008 ist zu ermitteln.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>6. Auf den 31.12.2008 ist - wenn möglich -
+eine Einheitsbilanz aufzustellen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523262800012">Anlage zum Teil III
+(Sachverhalt A-GmbH):</lxbase:ueberschrift><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="7" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="24*" /><cals:colspec colnum="2" colname="2" colwidth="13*" /><cals:colspec colnum="3" colname="3" colwidth="13*" /><cals:colspec colnum="4" colname="4" colwidth="13*" /><cals:colspec colnum="5" colname="5" colwidth="13*" /><cals:colspec colnum="6" colname="6" colwidth="13*" /><cals:colspec colnum="7" colname="7" colwidth="13*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry namest="2" nameend="3" align="center"><lxbase:a><lxbase:fett>31.12.2006</lxbase:fett></lxbase:a></cals:entry><cals:entry namest="4" nameend="5" align="center"><lxbase:a><lxbase:fett>31.12.2007</lxbase:fett></lxbase:a></cals:entry><cals:entry namest="6" nameend="7" align="center"><lxbase:a><lxbase:fett>31.12.2008</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Aktiva</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a><lxbase:fett>HB/StB</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a><lxbase:fett>BpB</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a><lxbase:fett>HB/StB</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a><lxbase:fett>berichtigte StB</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a><lxbase:fett>vorläufige HB</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a><lxbase:fett>HB/StB</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Kegelbahn</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>37 500</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>48 125</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>25 000</lxbase:a></cals:entry><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right"><lxbase:a>12 500</lxbase:a></cals:entry><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Waren</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>100 000</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>109 000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>80 000</lxbase:a></cals:entry><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right"><lxbase:a>120 000</lxbase:a></cals:entry><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>steuerlicher Ausgleichsposten</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>6 487</lxbase:a></cals:entry><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Sonstige Aktiva</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>528 000</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>528 000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>626 000</lxbase:a></cals:entry><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right"><lxbase:a>942 600</lxbase:a></cals:entry><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a><lxbase:fett>Summe Aktiva</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>665 500</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>691 612</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>731 000</lxbase:a></cals:entry><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right"><lxbase:a>1 075 100 </lxbase:a></cals:entry><cals:entry colname="7" align="right" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="7" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="24*" /><cals:colspec colnum="2" colname="2" colwidth="13*" /><cals:colspec colnum="3" colname="3" colwidth="13*" /><cals:colspec colnum="4" colname="4" colwidth="13*" /><cals:colspec colnum="5" colname="5" colwidth="13*" /><cals:colspec colnum="6" colname="6" colwidth="13*" /><cals:colspec colnum="7" colname="7" colwidth="13*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry namest="2" nameend="3" align="center"><lxbase:a><lxbase:fett>31.12.2006</lxbase:fett></lxbase:a></cals:entry><cals:entry namest="4" nameend="5" align="center"><lxbase:a><lxbase:fett>31.12.2007</lxbase:fett></lxbase:a></cals:entry><cals:entry namest="6" nameend="7" align="center"><lxbase:a><lxbase:fett>31.12.2008</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Passiva</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a><lxbase:fett>HB/StB</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a><lxbase:fett>BpB</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a><lxbase:fett>HB/StB</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a><lxbase:fett>berichtigte StB</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a><lxbase:fett>vorläufige HB</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a><lxbase:fett>HB/StB</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Stammkapital</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>100 000</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>100 000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>100 000</lxbase:a></cals:entry><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right"><lxbase:a>100 000</lxbase:a></cals:entry><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Gewinnvortrag</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>200 000</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>200 000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>350 000</lxbase:a></cals:entry><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right"><lxbase:a>420 000</lxbase:a></cals:entry><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Jahresüberschuss</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>150 000</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>150 000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>70 000</lxbase:a></cals:entry><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right"><lxbase:a>100 000</lxbase:a></cals:entry><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>steuert. Ausgleichsposten</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Verbindl. aus L. u. L.</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>5 950</lxbase:a></cals:entry><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Umsatzsteuer</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>50 000</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>50 000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>40 000</lxbase:a></cals:entry><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right"><lxbase:a>60 000</lxbase:a></cals:entry><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>USt lt. Bp</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>2 850</lxbase:a></cals:entry><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>GewSt lt. Bp</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>5 770</lxbase:a></cals:entry><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>KSt lt. Bp</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>11 542</lxbase:a></cals:entry><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /><cals:entry colname="4" align="right" /><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right" /><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>sonstige Passiva</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>165500</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>165 500</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>171 000</lxbase:a></cals:entry><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right"><lxbase:a>395 100</lxbase:a></cals:entry><cals:entry colname="7" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a><lxbase:fett>Summe Passiva</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>665 500</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>691 612</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>731 000</lxbase:a></cals:entry><cals:entry colname="5" align="right" /><cals:entry colname="6" align="right"><lxbase:a>1 075 100</lxbase:a></cals:entry><cals:entry colname="7" align="right" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Berufsrecht Steuerberater</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bayern</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

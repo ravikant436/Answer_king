@@ -1,0 +1,821 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Schreiben (koordinierter Ländererlass)" dok-typ="Verwaltungsanweisung" dok-nummer="5233764" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bundesministerium der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>IV A 3 - S-0062 / 08 / 10007 - 12 / IV C 4 - S-0171 / 07 / 0038 - 007</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-0171</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-0170</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-0170 A - 001 - II 4a</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-0170 A - 7 - St 53</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-0062</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>IV A 3 - S-0062 / 08 / 10007</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>IV C 4 - S-0171 / 07 / 0038</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Info" id="25" /><lxbase:lizenz2 name="INFO-KANZLEI" id="30" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2012-01-17" ts="nein" /><lxbase:datum normdat="2012-01-23" ts="ja" /><lxbase:datum normdat="2012-01-24" ts="ja" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BStBl-2012-I-0083</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DStR-2012-0298</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DStZ-2012-0139</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Aufgehoben für Steuertatbestände, die nach dem 31. 12. 2012 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5234965">IV A 2 - O-2000 / 13 / 10002</lxprod:doknr-verw> v. 24. 3. 2014 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Aufgehoben durch BMF <lxprod:doknr-verw linkend="HT5234877">IV A 3 - S-0062 / 14 / 10002 </lxprod:doknr-verw>v.
+31. 1. 2014</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2011 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5234454">IV A 2 - O-2000 / 12 / 10001</lxprod:doknr-verw> v.
+9. 4. 2013 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2010 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5233887">IV
+A 2 - O-2000 / 11 / 10006</lxprod:doknr-verw> v. 27. 3. 2012
+(koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:redakt><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="15*" /><cals:colspec colnum="2" colname="2" colwidth="85*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Bibliographie der inhaltlich entsprechenden
+Verwaltungsanweisungen:</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Hessen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Hessisches Ministerium der Finanzen S-0170
+A - 001 - II 4a vom 23.01.2012 <lxbase:za />OFD Frankfurt am Main S-0170
+A - 7 - St 53 vom 24.01.2012</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>AO:Allgemein</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2012" /></lxbase:jahre><lxbase:zitate><lxbase:passiv-zitate><lxbase:lit-zitat>Deubner Verlag <lxprod:doknr-verw linkend="HT0941410">StX 2012 108</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Dt. Anwalts- u. Steuerberatervereinigung f. d. mittelständische Wirtschaft e. V. Anmerkung Dok.-Nr. <lxprod:doknr-verw linkend="HT0410290">0410290</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Gersch <lxprod:doknr-verw linkend="HT0634435">AO-StB 2012 176</lxprod:doknr-verw></lxbase:lit-zitat></lxbase:passiv-zitate></lxbase:zitate><lxbase:arbeitshilfen><lxbase:muster-checklisten><lxbase:muster-checkliste><lxbase:a><lxprod:doknr-verw linkend="HT0922523">Abtretungsanzeige / Verpfändungsanzeige
+- Muster</lxprod:doknr-verw></lxbase:a></lxbase:muster-checkliste></lxbase:muster-checklisten></lxbase:arbeitshilfen></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Änderung des Anwendungserlasses zur Abgabenordnung
+(AEAO)</lxbase:a></lxbase:headline></lxbase:titel><lxbase:teaser><lxbase:a>BMF: Änderung des Anwendungserlasses zur Abgabenordnung
+(AEAO)</lxbase:a></lxbase:teaser><lxbase:kapitel><lxbase:a>Unter Bezugnahme auf das Ergebnis der Erörterung
+mit den obersten Finanzbehörden der Länder wird
+der Anwendungserlass zur Abgabenordnung vom 2. Januar 2008 (BStBl
+I S. 26 ), der zuletzt durch das BMF-Schreiben vom 11. Juli 2011
+(BStBl I S. 706 ) geändert worden ist, mit sofortiger Wirkung
+wie folgt geändert:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Nummer 5 der <lxbase:fett>Regelung
+zu § 31a </lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>"5. Rückgewähr einer Leistung
+aus öffentlichen Mitteln (§ 31a Abs. 1 Nr. 2) </lxbase:fett> Die
+Offenbarung ist zulässig, wenn sie für die Geltendmachung
+eines Anspruchs auf Rückgewähr einer Forderung
+aus öffentlichen Mitteln erforderlich ist. Hierunter ist
+sowohl die Durchsetzung, insbesondere die Vollstreckung, von nach § 31
+a Abs. 1 Nr. 1 Buchstabe b Doppelbuchstabe bb bereits festgesetzten
+Rückforderungen von Leistungen aus öffentlichen
+Mitteln, z.B. durch die für die Vollstreckung zuständigen
+Hauptzollämter, als auch die privatrechtliche Rückabwicklung
+von Leistungen oder Subventionen aus öffentlichen Mitteln
+durch die zuständigen Stellen zu verstehen. Eine Offenbarung
+ist insbesondere auch zulässig für die Rückforderung
+von Zahlungen der gesetzlichen Krankenkassen und Ersatzkassen gegenüber Ärzten,
+Zahnärzten, Apothekern und Krankenhäusern auf
+Grund von Abrechnungsbetrügereien. Die Mitteilungen erfolgen
+im Regelfall nur aufgrund einer Anfrage der zuständigen
+Stelle bzw. auf Anfrage des Betroffenen. Die Mitteilungen sind an
+die für die Vollstreckung zuständigen Stellen
+bzw. an die für die Rückgewährung der
+Leistung aus öffentlichen Mitteln zuständigen
+Stellen (z.B. Sozialleistungsträger, Gewährer
+von Fördermitteln oder Subventionsgeber) zu richten."</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Nummer 6 der <lxbase:fett>Regelung zu § 46 </lxbase:fett> wird
+wie folgt gefasst:</lxbase:a><lxbase:a>"6. Für die Anzeige der Abtretung oder Verpfändung
+eines Erstattungs- oder Vergütungsanspruches wird der in
+der Anlage abgedruckte Vordruck bestimmt. Die bislang geltende Fassung
+des Vordrucks kann weiterhin verwendet werden, wenn in Abschnitt
+III Nummer 3 im Freitextfeld nach dem Wort "oder" eine
+kurze stichwortartige Kennzeichnung des der Abtretung zugrunde liegenden
+schuldrechtlichen Lebenssachverhaltes erfolgt (vgl. BFH-Urteil vom
+28.9.2011 - <lxprod:doknr-verw linkend="HT0928041">VII
+R 52/10</lxprod:doknr-verw> - BStBl 2012 II, S. ...)."</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Die <lxbase:fett>Regelung zu § 51 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>Vor Nummer 1 wird folgende Überschrift eingefügt: </lxbase:a><lxbase:a><lxbase:fett>"Zu § 51 Abs. 1:"</lxbase:fett></lxbase:a><lxbase:a>Nach Nummer 6 werden folgende Überschriften sowie die
+neuen Nummern 7 bis 12 angefügt:</lxbase:a><lxbase:a><lxbase:fett>"Zu § 51 Abs. 2:</lxbase:fett></lxbase:a><lxbase:a>7. Verwirklicht die Körperschaft ihre förderungswürdigen
+Zwecke nur außerhalb von Deutschland, setzt die Steuerbegünstigung
+- neben den sonstigen Voraussetzungen der §§ 51
+ff. - zusätzlich den so genannten Inlandsbezug nach § 51
+Abs. 2 i.d.F. des Jahressteuergesetzes 2009 vom 19.12.2008 (BGBl.
+I S. 2794 ) voraus. Dieser liegt zum einen vor, wenn natürliche
+Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt
+im Inland haben, gefördert werden. Auf die Staatsangehörigkeit
+der natürlichen Personen kommt es dabei nicht an.</lxbase:a><lxbase:a>Falls durch die Tätigkeit im Ausland keine im Inland
+lebenden Personen gefördert werden, ist ein Inlandsbezug
+gegeben, wenn die Tätigkeit der Körperschaft neben
+der Verwirklichung der steuerbegünstigten Zwecke auch zur Verbesserung
+des Ansehens Deutschlands im Ausland beitragen kann. Dabei bedarf
+es keiner spürbaren oder messbaren Auswirkung auf das Ansehen Deutschlands
+im Ausland. Bei im Inland ansässigen Körperschaften
+ist der mögliche Beitrag zum Ansehen Deutschlands im Ausland
+- ohne besonderen Nachweis - bereits dadurch erfüllt, dass
+sie sich personell, finanziell, planend, schöpferisch oder
+anderweitig an der Förderung gemeinnütziger und mildtätiger
+Zwecke im Ausland beteiligen (Indizwirkung). Der Feststellung der
+positiven Kenntnis aller im Ausland Begünstigten oder aller
+Mitwirkenden von der Beteiligung deutscher Organisationen bedarf
+es dabei nicht.</lxbase:a><lxbase:a>Ausländische Körperschaften können
+den Inlandsbezug ebenfalls erfüllen, beispielsweise indem
+sie ihre steuerbegünstigten Zwecke zum Teil auch in Deutschland
+verwirklichen oder - soweit sie nur im Ausland tätig sind
+- auch im Inland lebende natürliche Personen fördern,
+selbst wenn die Personen sich zu diesem Zweck im Ausland aufhalten.
+Bei der Tatbestandsalternative des möglichen Ansehensbeitrags
+zugunsten Deutschlands entfällt zwar bei ausländischen
+Körperschaften die Indizwirkung, die Erfüllung
+dieser Tatbestandsalternative durch ausländische Einrichtungen
+ist aber nicht grundsätzlich ausgeschlossen.</lxbase:a><lxbase:a>Der nach § 51 Abs. 2 bei Auslandsaktivitäten
+zusätzlich geforderte Inlandsbezug wirkt sich nicht auf
+die Auslegung der weiteren, für die Anerkennung der Gemeinnützigkeit
+notwendigen Voraussetzungen aus. Deren Vorliegen ist weiterhin unabhängig
+von der Frage, ob die Tätigkeit im In- oder Ausland ausgeübt
+wird, zu prüfen. Der Inlandsbezug hat somit insbesondere
+keine Auswirkung auf Inhalt und Umfang der in den §§ 52
+bis 53 beschriebenen förderungswürdigen Zwecke.
+Daher können beispielsweise kirchliche Zwecke weiterhin
+nur zugunsten inländischer Religionsgemeinschaften, die
+Körperschaften des öffentlichen Rechts sind, verfolgt
+werden; andererseits kann die Förderung der Religion nach § 52
+Abs. 2 Satz 1 Nr. 2 wie bisher auch im Ausland erfolgen; auch kann
+wie bisher z.B. eine hilflose Person im Ausland unterstützt
+werden (§ 53 Nr. 1).</lxbase:a><lxbase:a>Mit der Prüfung des Inlandsbezugs selbst ist keine zusätzliche
+inhaltliche Prüfung der Tätigkeit der Körperschaft
+verbunden. Das heißt, es ist weder ein weiteres Mal zu
+ermitteln, ob die Körperschaft gemeinnützige oder
+mildtätige Zwecke i.S.d. §§ 52 und 53
+fördert, noch kommt es darauf an, ob die Tätigkeit
+mit den im Ausland geltenden Wertvorstellungen übereinstimmt und
+somit nach ausländischen Maßstäben ein
+Beitrag zum Ansehen Deutschlands geleistet werden kann. Falls die
+Verfolgung der in den §§ 52 und 53 genannten förderungswürdigen
+Zwecke zu bejahen ist, ist daher davon auszugehen, dass eine solche
+Tätigkeit dem Ansehen Deutschlands im Ausland nicht entgegensteht.
+Der Inlandsbezug wird für die Anerkennung der Gemeinnützigkeit
+ab Veranlagungszeitraum 2009 vorausgesetzt.</lxbase:a><lxbase:a><lxbase:fett>Zu § 51 Abs. 3:</lxbase:fett></lxbase:a><lxbase:a>8. Der Ausschluss so genannter extremistischer Körperschaften
+von der Steuerbegünstigung ist nunmehr in § 51
+Abs. 3 gesetzlich geregelt.</lxbase:a><lxbase:a>9. Die Ergänzung des § 51 soll klarstellen,
+dass eine Körperschaft nur dann als steuerbegünstigt
+behandelt werden kann, wenn sie weder nach ihrer Satzung und ihrer
+tatsächlichen Geschäftsführung Bestrebungen
+im Sinne des § 4 des Bundesverfassungsschutzgesetzes (BVerfSchG)
+verfolgt noch dem Gedanken der Völkerverständigung
+zuwiderhandelt. § 4 BVerfSchG ist im Zusammenhang mit § 3
+BVerfSchG zu lesen, der die Aufgaben der Verfassungsschutzbehörden
+des Bundes und der Länder und die Voraussetzungen für
+ein Tätigwerden des Verfassungsschutzes festlegt. Die Aufgabe
+besteht in der Sammlung und Auswertung von Informationen über
+die in § 3 Abs. 1 BVerfSchG erwähnten verfassungsfeindlichen
+Bestrebungen, die § 4 BVerfSchG zum Teil definiert. So
+beinhaltet § 4 BVerfSchG im ersten Absatz eine Legaldefinition
+von Bestrebungen</lxbase:a><lxbase:a>a) gegen den Bestand des Bundes oder eines Landes</lxbase:a><lxbase:a>b) gegen die Sicherheit des Bundes oder eines Landes</lxbase:a><lxbase:a>c) gegen die freiheitliche demokratische Grundordnung.</lxbase:a><lxbase:a>Im zweiten Absatz des § 4 BVerfSchG werden die grundlegenden
+Prinzipien der freiheitlichen demokratischen Grundordnung aufgeführt.</lxbase:a><lxbase:a>Gemäß § 51 Abs. 3 Satz 1 ist eine
+Steuervergünstigung auch ausgeschlossen, wenn die Körperschaft
+dem Gedanken der Völkerverständigung zuwiderhandelt.
+Diese Regelung nimmt Bezug auf § 3 Abs. 1 Nr. 4 BVerfSchG,
+der wiederum auf Artikel 9 Abs. 2 Grundgesetz (gegen den Gedanken
+der Völkerverständigung gerichtete Bestrebungen)
+sowie Artikel 26 Abs. 1 Grundgesetz (Störung des friedlichen
+Zusammenlebens der Völker) verweist.</lxbase:a><lxbase:a>10. Die Regelung des § 51 Abs. 3 Satz 2 gilt in allen
+offenen Fällen. Der Tatbestand des § 51 Abs. 3
+Satz 2 ist nur bei solchen Organisationen erfüllt, die im
+Verfassungsschutzbericht des Bundes oder eines Landes für
+den zu beurteilenden Veranlagungszeitraum ausdrücklich
+als extremistisch eingestuft werden oder bei denen es nach einem
+Verfassungsschutzbericht zumindest belegbare Hinweise für
+eine Einstufung als extremistisch gibt. Hat das Finanzamt die Körperschaft
+bisher als steuerbegünstigt behandelt und wird später
+ein Verfassungsschutzbericht veröffentlicht, in dem die
+Körperschaft als extremistisch aufgeführt wird,
+kommt ggf. eine Änderung nach § 173 Abs. 1 Nr.
+1 in Betracht.</lxbase:a><lxbase:a>11. Bei Organisationen, die nicht unter § 51 Abs. 3
+Satz 2 fallen, ist eine Prüfung nach § 51 Abs.
+3 Satz 1 vorzunehmen (vgl. Nr. 9). Insbesondere eine Erwähnung
+als "Verdachtsfall" oder eine nur beiläufige
+Erwähnung im Verfassungsschutzbericht, aber auch sonstige
+Erkenntnisse bieten im Einzelfall Anlass zu weitergehenden Ermittlungen
+der Finanzbehörde, z.B. auch durch Nachfragen bei den Verfassungsschutzbehörden.</lxbase:a><lxbase:a>12. Die Finanzbehörden sind befugt und verpflichtet,
+den Verfassungsschutzbehörden Tatsachen i.S.d. § 51
+Abs. 3 Satz 3 unabhängig davon mitzuteilen, welchen Besteuerungszeitraum
+diese Tatsachen betreffen."</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>Die <lxbase:fett>Regelung zu § 52 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) In Nummer 2 wird der zweite Absatz gestrichen.</lxbase:a><lxbase:a>b) Nach Nummer 2 wird folgende neue Nummer 2.1 eingefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"2.1 Jugendliche
+i.S.d. § 52 Abs. 2 Nr. 4 bzw. des § 68 Nr. 1 Buchstabe
+b sind alle Personen vor Vollendung des 27. Lebensjahres."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>c) Die bisherigen Nummern 2.1 bis 2.5 werden die neuen Nummern
+2.2 bis 2.6.</lxbase:a><lxbase:a>d) Nummer 6 Satz 3 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Dagegen sind Skat
+(BFH-Urteil vom 17.2.2000 - I R 108, <lxbase:az normform="109/98" manuell="nein">109/98</lxbase:az> - BFH/NV S. 1071),
+Bridge, Gospiel, Gotcha, Paintball und Tipp-Kick kein Sport i.S.d.
+Gemeinnützigkeitsrechts."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>e. Die bisherige Nummer 16 wird gestrichen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a>Die <lxbase:fett>Regelung zu § 53 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) Nach Nummer 8 wird folgende neue Nummer 9 eingefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"9. Als Vermögen,
+das zur nachhaltigen Verbesserung des Unterhalts ausreicht und dessen
+Verwendung für den Unterhalt zugemutet werden kann (§ 53
+Nr. 2 Satz 2), ist in der Regel ein Vermögen mit einem
+gemeinen Wert (Verkehrswert) von mehr als 15.500 € anzusehen.
+Dabei bleiben außer Ansatz:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>Vermögensgegenstände,
+deren Veräußerung offensichtlich eine Verschleuderung
+bedeuten würde oder die einen besonderen Wert, z.B. Erinnerungswert,
+für die unterstützte Person haben oder zu seinem
+Hausrat gehören</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>ein angemessenes Hausgrundstück im Sinne des § 90
+Abs. 2 Nr. 8 SGB XII, das die unterstützte Person allein
+oder zusammen mit Angehörigen, denen es nach dem Tod der
+unterstützten Person weiter als Wohnraum dienen soll, bewohnt.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Die Grenze bezieht sich auch bei einem Mehrpersonenhaushalt auf
+jede unterstützte Person. H 33a. 1 (Geringes Vermögen
+- "Schonvermögen") EStH 2010 gilt entsprechend."</lxbase:a><lxbase:a>b) Die bisherige Nummer 9 wird neue Nummer 10 und deren Satz
+3 wird wie folgt gefasst:</lxbase:a><lxbase:a>"Eine Berechnung der maßgeblichen Einkünfte
+und Bezüge sowie eine Berechnung des Vermögens
+sind stets beizufügen."</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6."><lxbase:a>Die <lxbase:fett>Regelung zu § 55 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) Nummer 2 wird gestrichen.</lxbase:a><lxbase:a>b) Die bisherigen Nummern 3 bis 21 werden die neuen Nummern 2
+bis 20.</lxbase:a><lxbase:a>c) Nach der neuen Nummer 20 wird folgende neue Nummer 21 eingefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"21. Eine Unternehmergesellschaft
+im Sinne des § 5a Abs. 1 GmbHG i.d.F. des Gesetzes zur
+Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen
+(MoMiG) vom 23.10.2008 (BGBl. I S. 2026 ) ist nach § 5a
+Abs. 3 GmbHG i.d.F. des MoMiG gesetzlich verpflichtet, von ihrem
+um einen Verlustvortrag aus dem Vorjahr geminderten Jahresüberschuss
+bis zum Erreichen des Stammkapitals von 25.000 € mindestens
+25 % in eine gesetzliche Rücklage einzustellen.
+Mit der Bildung dieser Rücklage verstößt
+die Unternehmergesellschaft grundsätzlich nicht gegen das
+Gebot der zeitnahen Mittelverwendung."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>d) Der Nummer 22 wird folgender Satz angefügt:</lxbase:a><lxbase:a>"Eingezahlte Kapitalanteile i.S.d. § 55 Abs.
+1 Nr. 2 und 4 liegen nicht vor, soweit für die Kapitalerhöhung
+Gesellschaftsmittel verwendet wurden (z.B. nach § 57c GmbHG)."</lxbase:a><lxbase:a>e) Nach Nummer 22 werden folgende neue Überschrift und
+folgende neue Nummer 23 eingefügt:</lxbase:a><lxbase:a><lxbase:fett>"Zu § 55 Abs. 1 Nr. 3:</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>23. Bei Vorstandsmitgliedern
+von Vereinen sind Tätigkeitsvergütungen gemeinnützigkeitsrechtlich
+nur zulässig, wenn eine entsprechende Satzungsregelung
+besteht. Zu Einzelheiten bei Zahlungen an den Vorstand steuerbegünstigter
+Vereine siehe BMF-Schreiben vom 14.10.2009 - <lxprod:doknr-verw linkend="HT5232360">IV
+C 4 - S 2121/07/0010</lxprod:doknr-verw> - BStBl I S. 1318.</lxbase:a><lxbase:a>Diese Regelung gilt für Stiftungen entsprechend."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>f) Die bisherige Nummer 23 wird neue Nummer 24; in deren Absatz
+2 wird Satz 2 wie folgt gefasst:</lxbase:a><lxbase:a>"Die satzungsmäßigen Anforderungen
+an die Vermögensbindung sind in § 61 geregelt."</lxbase:a><lxbase:a>g) Die bisherige Nummer 24 wird neue Nummer 25 und deren Sätze
+2 und 3 werden durch folgenden neuen Satz ersetzt:</lxbase:a><lxbase:a>"Als Empfänger des Vermögens der Körperschaft
+kommen neben inländischen Körperschaften auch
+die in § 5 Abs. 2 Nr. 2 KStG aufgeführten Körperschaften
+in Betracht."</lxbase:a><lxbase:a>h) Die bisherigen Nummern 25 bis 29 werden die neuen Nummern
+26 bis 30.</lxbase:a><lxbase:a>i) Die bisherige Nummer 30 wird neue Nummer 31 und in deren Satz
+1 wird die Angabe " § 6 Abs. 1 Nr. 4 Satz 5 EStG" durch
+die Angabe "§ 6 Abs. 1 Nr. 4 Satz 4 EStG" ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7."><lxbase:a>Die <lxbase:fett>Regelung zu § 56 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) Es wird folgende Nummer 1 vorangestellt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"1. Das Ausschließlichkeitsgebot
+des § 56 besagt, dass eine Körperschaft nicht
+steuerbegünstigt ist, wenn sie neben ihrer steuerbegünstigten
+Zielsetzung weitere Zwecke verfolgt und diese Zwecke nicht steuerbegünstigt sind.
+Im Zusammenhang mit der Vermögensverwaltung und wirtschaftlichen
+Geschäftsbetrieben, die Nicht-Zweckbetriebe sind, folgt
+daraus, dass deren Unterhaltung der Steuerbegünstigung
+einer Körperschaft entgegensteht, wenn sie in der Gesamtschau
+zum Selbstzweck wird und in diesem Sinne neben die Verfolgung des
+steuerbegünstigten Zwecks der Körperschaft tritt.
+Die Vermögensverwaltung sowie die Unterhaltung eines Nicht-Zweckbetriebs
+sind aus der Sicht des Gemeinnützigkeitsrechts nur dann
+unschädlich, wenn sie um des steuerbegünstigten
+Zwecks willen erfolgen, indem sie z.B. der Beschaffung von Mitteln
+zur Erfüllung der steuerbegünstigten Aufgabe dienen.
+Ist die Vermögensverwaltung bzw. der wirtschaftliche Geschäftsbetrieb
+dagegen nicht dem steuerbegünstigten Zweck untergeordnet,
+sondern ein davon losgelöster Zweck oder gar Hauptzweck
+der Betätigung der Körperschaft, so scheitert
+deren Steuerbegünstigung an § 56. In einem solchen
+Fall kann die Betätigung der Körperschaft nicht
+in einen steuerfreien und in einen steuerpflichtigen Teil aufgeteilt
+werden; vielmehr ist dann die Körperschaft insgesamt als steuerpflichtig
+zu behandeln. Bei steuerbegünstigten Körperschaften,
+insbesondere Mittelbeschaffungskörperschaften, die sich
+im Rahmen ihrer tatsächlichen Geschäftsführung
+an die in ihrer Satzung enthaltene Pflicht zur Verwendung sämtlicher
+Mittel für die satzungsmäßigen Zwecke
+halten, ist das Ausschließlichkeitsgebot selbst dann als
+erfüllt anzusehen, wenn sie sich vollständig aus
+Mitteln eines steuerpflichtigen wirtschaftlichen Geschäftsbetriebs
+oder aus der Vermögensverwaltung finanzieren. Auf das BFH-Urteil
+vom 4.4.2007 - <lxprod:doknr-verw linkend="HT0586767">I
+R 76/05</lxprod:doknr-verw> - BStBl II, S. 631, wird hingewiesen."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>b) Die bisherige Regelung wird neue Nummer 2 und deren Satz 1
+wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Eine Körperschaft
+darf mehrere steuerbegünstigte Zwecke nebeneinander verfolgen,
+ohne dass dadurch die Ausschließlichkeit verletzt wird."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="8."><lxbase:a>Nummer 2 der <lxbase:fett>Regelung zu § 57 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) Satz 4 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Die Körperschaft
+hat durch Vorlage entsprechender Vereinbarungen nachzuweisen, dass
+sie den Inhalt und den Umfang der Tätigkeit der Hilfsperson
+im Innenverhältnis bestimmen kann."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>b) Sätze 5 und 6 werden gestrichen.</lxbase:a><lxbase:a>c) Nach dem neuen Satz 8 wird folgender neuer Satz 9 in einem
+neuen Absatz eingefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Die Steuerbegünstigung
+einer Hilfsperson ist nicht ausgeschlossen, wenn die Körperschaft
+mit ihrer Hilfspersonentätigkeit nicht nur die steuerbegünstigte
+Tätigkeit einer anderen Körperschaft unterstützt,
+sondern zugleich eigene steuerbegünstigte Satzungszwecke
+verfolgt."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>d) Der neue Satz 10 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Keine Hilfspersonentätigkeit,
+sondern eine eigene unmittelbare Tätigkeit, liegt auch
+dann vor, wenn der auftraggebenden Person dadurch nicht nach § 57
+Abs. 1 Satz 2 die Gemeinnützigkeit vermittelt wird, z.B.
+Tätigkeiten im Auftrag von juristischen Personen des öffentlichen
+Rechts (Hoheitsbereich), voll steuerpflichtigen Körperschaften
+oder natürlichen Personen."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>e) Der bisherige Satz 12 wird gestrichen:</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="9."><lxbase:a>Die <lxbase:fett>Regelung zu § 58 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) Nummer 2 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"2. Die teilweise
+(nicht überwiegende) Weitergabe eigener Mittel (auch Sachmittel)
+ist unschädlich. Als Mittelempfänger kommen in
+Betracht:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>inländische steuerbegünstigte
+Körperschaften</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>die in § 5 Abs. 2 Nr. 2 KStG aufgeführten
+Körperschaften</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>juristische Personen des öffentlichen Rechts.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Ausschüttungen und sonstige Zuwendungen einer steuerbegünstigten
+Körperschaft sind unschädlich, wenn die Gesellschafter
+oder Mitglieder als Begünstigte ausschließlich
+steuerbegünstigte Körperschaften sind. Entsprechendes
+gilt für Ausschüttungen und sonstige Zuwendungen
+an juristische Personen des öffentlichen Rechts, die die
+Mittel für steuerbegünstigte Zwecke verwenden."</lxbase:a><lxbase:a>b) Nummer 10 wird wie folgt geändert:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>aa) Nach Satz 6 werden die
+neuen Sätze 7 bis 12 als neuer Absatz eingefügt:</lxbase:a><lxbase:a>"Unter diesen Voraussetzungen ist auch eine Wiederbeschaffungsrücklage
+für Grundstücke, Fahrzeuge und andere Wirtschaftsgüter,
+für deren Anschaffung die laufenden Einnahmen nicht ausreichen,
+zulässig. Daraus folgt aber nicht, dass Mittel in Höhe
+der Abschreibungen generell einer Rücklage nach § 58
+Nr. 6 zugeführt werden dürfen. Vielmehr ist es
+erforderlich, dass tatsächlich eine Neuanschaffung des
+einzelnen Wirtschaftsguts geplant und in einem angemessenen Zeitraum
+möglich ist. Eine Einstellung von Mitteln in Höhe
+der Abschreibungen in die Rücklage wäre z.B. dann
+nicht gerechtfertigt, wenn ein Fuhrpark verkleinert oder ein Gebäude
+während unabsehbar langer Zeit nicht durch einen Neubau ersetzt
+werden soll. Die Zuführung von Mitteln in Höhe
+der Abschreibungen dürfte z.B. dann nicht ausreichen, wenn
+das vorhandene Wirtschaftsgut entweder frühzeitig oder
+durch ein besseres, größeres und teureres Wirtschaftsgut
+ersetzt werden soll. Die Zuführung dürfte z.B.
+dann überhöht sein, wenn die steuerlich zulässigen
+(Sonder-)Abschreibungen nicht mit dem tatsächlichen Wertverlust übereinstimmen."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>bb) Der bisherige Satz 7 wird zum neuen Satz 13 und als neuer
+Absatz angefügt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="10."><lxbase:a>Die <lxbase:fett>Regelung zu § 60 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) In Nummer 1 wird Satz 3 gestrichen.</lxbase:a><lxbase:a>b) Nummer 2 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"2. Die Satzung
+muss die in der Mustersatzung bezeichneten Festlegungen enthalten,
+soweit sie für die jeweilige Körperschaft im Einzelfall
+einschlägig sind.</lxbase:a><lxbase:a>Unter anderem sind in folgenden Fällen Abweichungen
+vom Wortlaut der Mustersatzung möglich:</lxbase:a><lxbase:a>a) Bei Mittelbeschaffungskörperschaften (§ 58
+Nr. 1) kann entgegen § 1 der Mustersatzung auf das Gebot
+der Unmittelbarkeit verzichtet werden (vgl. Nr. 1 zu § 59).</lxbase:a><lxbase:a>b) Insbesondere bei Stiftungen ist der in § 3 der Mustersatzung
+verwendete Begriff "Mitglieder" durch eine andere
+geeignete Formulierung zu ersetzen (vgl. § 55 Abs. 3).</lxbase:a><lxbase:a>c) Körperschaften, deren Gesellschafter oder Mitglieder
+steuerbegünstigte Körperschaften sind und/oder
+juristische Personen des öffentlichen Rechts, die die Mittel
+für steuerbegünstigte Zwecke verwenden, können auf
+die Regelung in § 3 Satz 2 der Mustersatzung verzichten.</lxbase:a><lxbase:a>d) § 5 der Mustersatzung kann in Satzungen von Vereinen
+ohne die Formulierung "Aufhebung" verwendet werden.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Derselbe Aufbau und dieselbe Reihenfolge der Bestimmungen wie
+in der Mustersatzung werden nicht verlangt."</lxbase:a><lxbase:a>c) Folgende neue Nummer 3 wird eingefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"3. Die Bestimmung,
+dass die Satzung die in der Mustersatzung bezeichneten Festlegungen
+enthalten muss (§ 60 Abs. 1 Satz 2), gilt für
+Körperschaften, die nach dem 3 1.12.2008 gegründet
+werden oder die ihre Satzung mit Wirkung nach diesem Zeitpunkt ändern.
+Die Satzung einer Körperschaft, die bereits vor dem 1.1.2009
+bestanden hat, braucht nicht allein zur Anpassung an die Festlegungen
+in der Mustersatzung geändert werden."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>d) Die bisherige Nummer 3 wird neue Nummer 4.</lxbase:a><lxbase:a>e) Die bisherige Nummer 4 wird neue Nummer 5 und die Angabe "Anlage 2" wird
+durch die Angabe "Anlage zu Nr. 5 zu § 60" ersetzt.</lxbase:a><lxbase:a>f) Die bisherigen Nummern 5 und 6 werden die neuen Nummern 6
+und 7.</lxbase:a><lxbase:a>g) Nach der neuen Nummer 7 werden die Überschrift "Anlage
+1 zu § 60" und der Text der Mustersatzung gestrichen
+sowie die Überschrift "Anlage 2 zu § 60" geändert
+in "Anlage zu Nr. 5 zu § 60."</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="11."><lxbase:a>Die <lxbase:fett>Regelung zu § 61 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) In Nummer 1 wird Satz 2 wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Als Empfänger
+des Vermögens kommen in Betracht: </lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>inländische steuerbegünstigte
+Körperschaften,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>die in § 5 Abs. 2 Nummer 2 KStG aufgeführten
+Körperschaften,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>juristische Personen des öffentlichen Rechts."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>b) Die Nummer 3 wird gestrichen.</lxbase:a><lxbase:a>c) Die bisherigen Nummern 4 bis 9 werden die neuen Nummern 3
+bis 8.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="12."><lxbase:a>Die <lxbase:fett>Regelung zu § 62 </lxbase:fett> wird
+aufgehoben.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="13."><lxbase:a>Die <lxbase:fett>Regelung zu § 63 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) In Nummer 3 Satz 1 wird der Klammerzusatz "(vgl.
+zu § 52, Nr. 16)" gestrichen.</lxbase:a><lxbase:a>b) In Nummer 3 werden nach Satz 2 folgende neue Sätze
+3 und 4 angefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Die verfassungsmäßige
+Ordnung wird schon durch die Nichtbefolgung von polizeilichen Anordnungen
+durchbrochen (BFH-Urteil vom 29.8.1984, <lxprod:doknr-verw linkend="HT0061256">BStBl 1985
+II, S. 106</lxprod:doknr-verw> ). Gewaltfreier Widerstand, z.B. Sitzblockaden,
+gegen geplante Maßnahmen des Staates, verstößt
+grundsätzlich nicht gegen die verfassungsmäßige
+Ordnung (vgl. BVerfG-Beschluss vom 10.1.1995 - <lxbase:az normform="1-BvR-718/89" manuell="nein">1 BvR 718/89</lxbase:az>, <lxbase:az normform="1-BvR-7-19/89" manuell="nein">1 BvR 7 19/89</lxbase:az>, <lxbase:az normform="1-BvR-722/89" manuell="nein">1 BvR 722/89</lxbase:az> , <lxbase:az normform="1-BvR-723/89" manuell="nein">1 BvR 723/89</lxbase:az> - <lxbase:lit-fs normform="BVerfGE-0092-0001" manuell="nein">BVerfGE 92,
+1-25</lxbase:lit-fs>)."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="14."><lxbase:a>Die <lxbase:fett>Regelung zu § 64 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) In Nummer 3 wird nach Satz 7 folgender neuer Satz 8 angefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Dies gilt aber
+nur insoweit, als die überlassenen wesentlichen Betriebsgrundlagen
+bei dem Betriebsunternehmen nicht in einem steuerpflichtigen wirtschaftlichen
+Geschäftsbetrieb eingesetzt werden."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>b) Nummer 10 wird wie folgt geändert: </lxbase:a><lxbase:a>aa) Nach Satz 1 wird folgender Satz 2 eingefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Dies ist z.B.
+der Fall, wenn die Körperschaft dem Sponsor das Recht einräumt,
+in einem von ihr herausgegebenen Publikationsorgan Werbeanzeigen
+zu schalten, einschlägige sponsorbezogene Themen darzustellen und
+bei Veranstaltungen der Körperschaft deren Mitglieder über
+diese Themen zu informieren und dafür zu werben (vgl. BFH-Urteil
+vom 7.11. 2007 - <lxprod:doknr-verw linkend="HT0587492">I
+R 42/06</lxprod:doknr-verw> -, <lxprod:doknr-verw linkend="HT0587492">BStBl 2008 II, S. 949</lxprod:doknr-verw>)"</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>bb) Die bisherigen Sätze 2 und 3 werden die neuen Sätze
+3 und 4.</lxbase:a><lxbase:a>c) In Nummer 25 wird am Ende des Satzes 3 folgender Klammerzusatz
+eingefügt: "(vgl. BFH-Urteil vom 11.2.2009 - <lxprod:doknr-verw linkend="HT0179267">I R 73/08</lxprod:doknr-verw> -
+BStBl II, S. 516)"</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="15."><lxbase:a>Die <lxbase:fett>Regelung zu § 65 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) In Nummer 3 wird folgender neuer Satz 3 angefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Dies ist zum Beispiel
+nicht der Fall beim Betrieb einer Beschaffungsstelle (zentraler
+Ein- und Verkauf von Ausrüstungsgegenständen,
+Auftragsbeschaffung, etc.), da dieser weder unentbehrlich noch das
+einzige Mittel zur Erreichung des steuerbegünstigten Zwecks
+ist."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>b) In Nummer 4 wird Satz 2 durch die folgenden neuen Sätze
+2 und 3 ersetzt; der bisherige Satz 3 wird neuer Satz 4:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Wettbewerb i.S.d. § 65
+Nr. 3 setzt nicht voraus, dass die Körperschaft auf einem
+Gebiet tätig ist, in der sie tatsächlich in Konkurrenz
+zu steuerpflichtigen Betrieben derselben oder ähnlicher
+Art tritt. Der Sinn und Zweck des § 65 Nr. 3 liegt in einem
+umfänglichen Schutz des Wettbewerbs, der auch den potentiellen
+Wettbewerb umfasst (vgl. BFH-Urteile vom 27. 10.1993 - <lxprod:doknr-verw linkend="HT0109182">I R 60/91</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT0109182">BStBl 1994
+II, S. 573</lxprod:doknr-verw> und vom 29.1.2009 - <lxprod:doknr-verw linkend="HT0587669">V R 46/06</lxprod:doknr-verw> - BStBl II, S. 560)."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="16."><lxbase:a>Die <lxbase:fett>Regelung zu § 66 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) Nummer 6 wird wie folgt geändert:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>aa) Nach Satz 1 werden die
+folgenden neuen Sätze 2 und 3 eingefügt:</lxbase:a><lxbase:a>"Die steuerbegünstigten Körperschaften üben
+ihren Rettungsdienst und Krankentransport entgegen der Annahme des
+BFH in seinem Beschluss vom 18.9.2007 - <lxprod:doknr-verw linkend="HT0587434">I R 30/06</lxprod:doknr-verw>; <lxprod:doknr-verw linkend="HT0587434">BStBl 2009
+II, S. 126</lxprod:doknr-verw> - regelmäßig nicht des Erwerbs
+wegen und zur Beschaffung zusätzlicher Mittel aus, sondern
+verfolgen damit ihren satzungsmäßigen steuerbegünstigten
+Zweck der Sorge für Not leidende oder gefährdete
+Menschen. Sind die übrigen Voraussetzungen erfüllt,
+können deshalb auch Leistungen wie der Krankentransport
+und der Rettungsdienst, die Wohlfahrtsverbände zu denselben Bedingungen
+wie private gewerbliche Unternehmen anbieten, begünstigte
+Einrichtungen der Wohlfahrtspflege sein."</lxbase:a><lxbase:a>bb) Der bisherige Satz 2 wird neuer Satz 4</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>b) Nach Nummer 6 wird folgende neue Nummer 7 eingefügt.</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Werden die Leistungen
+unter gleichen Bedingungen sowohl gegenüber hilfsbedürftigen
+als auch nicht hilfsbedürftigen Personen erbracht, ist
+ein einheitlicher wirtschaftlicher Geschäftsbetrieb "Einrichtung
+der Wohlfahrtspflege" anzunehmen. Dieser ist als Zweckbetrieb
+zu behandeln, wenn die 2/3-Grenze des § 66 erfüllt
+wird."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>c) Die bisherige Nummer 7 wird neue Nummer 8.</lxbase:a><lxbase:a>d) Die bisherige Nummer 8 wird gestrichen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="17."><lxbase:a>Die <lxbase:fett>Regelung zu § 67a </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) In Nummer 11 wird nach Satz 1 folgender Satz 2 angefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Zur Vermietung öffentlicher
+Schwimmbäder an Schwimmvereine und zur Nutzung durch Schulen
+für den Schwimmunterricht siehe Nr. 13."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>b) Nach Nummer 12 wird folgende neue Nummer 13 eingefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"13. Durch den
+Betrieb eines öffentlichen Schwimmbades werden gemeinnützige
+Zwecke (öffentliche Gesundheitspflege und Sport) unabhängig
+davon gefördert, ob das Schwimmbad von einem Verein oder
+von einer juristischen Person des öffentlichen Rechts als
+Betrieb gewerblicher Art unterhalten wird.</lxbase:a><lxbase:a>Die verschiedenen Tätigkeiten eines gemeinnützigen
+Schwimmvereins sind wie folgt zu beurteilen:</lxbase:a><lxbase:a>a) <lxbase:fett>Schulschwimmen</lxbase:fett></lxbase:a><lxbase:a>Die Vermietung des Schwimmbads auf längere Dauer an
+die Träger der Schulen ist als Vermögensverwaltung
+anzusehen. Eine Vermietung auf längere Dauer ist in Anlehnung
+an Abschnitt 4.12.3 Absatz 2 UStAE bei stundenweiser Nutzungsmöglichkeit
+des Schwimmbads durch die Schulen anzunehmen, wenn die Nutzung mehr
+als ein Schulhalbjahr (mindestens sechs Monate) erfolgt. Unselbständige
+Nebenleistungen des Vereins, wie Reinigung des Schwimmbads, gehören
+mit zur Vermögensverwaltung.</lxbase:a><lxbase:a><lxbase:fett>b) Vereinsschwimmen</lxbase:fett></lxbase:a><lxbase:a>Das Vereinsschwimmen und die Durchführung von Schwimmkursen
+sind nach Maßgabe des § 67a Zweckbetriebe (sportliche
+Veranstaltungen). Dabei ist es ohne Bedeutung, ob die Teilnehmer
+an den Schwimmkursen Mitglieder des Vereins oder Vereinsfremde sind.</lxbase:a><lxbase:a><lxbase:fett>c) Jedermannschwimmen</lxbase:fett></lxbase:a><lxbase:a>Das Jedermannschwimmen ist insgesamt als Zweckbetrieb i.S.d. § 65 anzusehen,
+wenn die nicht unmittelbar dem Schwimmen dienenden Angebote (zum
+Beispiel Sauna, Solarium) von untergeordneter Bedeutung sind. Schwimmbäder,
+die danach als Zweckbetriebe begünstigt sind, stehen in
+keinem schädlichen Wettbewerb zu steuerpflichtigen Schwimmbädern
+(§ 65 Nr. 3), weil sie i.d.R. anders strukturiert sind
+(so genannte Spaßbäder) und sich ihre Angebote
+erheblich von dem im Wesentlichen auf das Schwimmen begrenzten Angebot
+der Vereinsschwimmbäder unterscheiden."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>c) Die bisherigen Nummern 13 bis 27 werden die neuen Nummern
+14 bis 28.</lxbase:a><lxbase:a>d) In Satz 5 der neuen Nummer 28 wird die Angabe "(vgl.
+Nr. 31)" durch die Angabe "(vgl. Nr. 32)" ersetzt.</lxbase:a><lxbase:a>e) Die bisherigen Nummern 28 und 29 werden die neuen Nummern
+29 und 30.</lxbase:a><lxbase:a>f) In Satz 2 der neuen Nummer 30 wird die Angabe "Nr.
+27" durch die Angabe "Nr. 28" ersetzt.</lxbase:a><lxbase:a>g) Die bisherige Nummer 30 wird neue Nummer 31.</lxbase:a><lxbase:a>h) In Satz 2 der neuen Nummer 31 wird die Angabe "Nr.
+37" durch die Angabe "Nr. 38" ersetzt.</lxbase:a><lxbase:a>i) Die bisherigen Nummern 31 bis 35 werden die neuen Nummern
+32 bis 36.</lxbase:a><lxbase:a>j) In Satz 2 der neuen Nummer 36 wird die Angabe "Nr.
+31" durch die Angabe "Nr. 32" ersetzt.</lxbase:a><lxbase:a>k) Die bisherige Nummer 36 wird neue Nummer 37.</lxbase:a><lxbase:a>l) In Satz 2 der neuen Nummer 37 wird die Angabe "(vgl.
+Nr. 29)" durch die Angabe "(vgl. Nr. 30)" ersetzt.</lxbase:a><lxbase:a>m) Die bisherigen Nummern 37 bis 39 werden die die Nummern 38
+bis 40.</lxbase:a><lxbase:a>n) In Satz 6 der neuen Nummer 40 wird die Angabe "vgl.
+Nrn. 16 und 18" durch die Angabe "vgl. Nrn. 17
+und 19" ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="18."><lxbase:a>Die <lxbase:fett>Regelung zu § 68 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) In Nummer 4 wird Satz 1 durch folgende neue Sätze
+ersetzt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"Von § 68
+Nr. 2 Buchstabe b werden nur solche Selbstversorgungseinrichtungen
+umfasst, die den darin genannten Handwerksbetrieben vergleichbar
+sind. Werden auch Leistungen gegenüber Außenstehenden erbracht,
+sind nur solche Einrichtungen der steuerbegünstigten Körperschaft
+begünstigt, die nicht regelmäßig ausgelastet
+sind und deshalb gelegentlich auch Leistungen an Außenstehende
+erbringen, nicht aber solche, die über Jahre hinweg Leistungen
+an Außenstehende ausführen und hierfür
+auch personell entsprechend ausgestattet sind (vgl. BFH-Urteil vom 29.1.2009
+- <lxprod:doknr-verw linkend="HT0587669">V R 46/06</lxprod:doknr-verw> -
+BStBl II, S. 560 und BMF-Schreiben vom 12.4.2011 - <lxbase:az normform="IVC4S0187/09/10005:001" manuell="nein">IV
+C 4 - S 0187/09/10005 :001</lxbase:az> - BStBl I S. 538).
+Außenstehende im Sinne dieser Regelung sind auch Arbeitnehmer
+der Körperschaft."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>b) Nummer 5 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"5. Der Begriff "Werkstatt
+für behinderte Menschen" bestimmt sich nach § 136
+Sozialgesetzbuch - Neuntes Buch - (SGB IX). Werkstätten
+für behinderte Menschen bedürfen der förmlichen
+Anerkennung. Anerkennungsbehörde ist die Bundesagentur
+für Arbeit, die im Einvernehmen mit dem überörtlichen
+Träger der Sozialhilfe über die Anerkennung einer Einrichtung
+als Werkstatt für behinderte Menschen durch Anerkennungsbescheid
+entscheidet (§ 142 SGB IX)</lxbase:a><lxbase:a>Läden oder Verkaufsstellen von Werkstätten
+für behinderte Menschen sind grundsätzlich als
+Zweckbetriebe zu behandeln, wenn dort Produkte verkauft werden,
+die von der - den Laden oder die Verkaufsstelle betreibenden - Werkstatt
+für behinderte Menschen oder einer anderen Werkstatt für
+behinderte Menschen i.S.d. § 68 Nr. 3a hergestellt worden
+sind. Werden von dem Laden oder der Verkaufsstelle der Werkstatt
+für behinderte Menschen auch zugekaufte Waren, die nicht
+von ihr oder von anderen Werkstätten für behinderte
+Menschen hergestellt worden sind, weiterverkauft, liegt insoweit
+ein gesonderter steuerpflichtiger wirtschaftlicher Geschäftsbetrieb
+vor.</lxbase:a><lxbase:a>Zu den Zweckbetrieben gehören auch die von den Trägern
+der Werkstätten für behinderte Menschen betriebenen
+Kantinen, weil die besondere Situation der behinderten Menschen
+auch während der Mahlzeiten eine Betreuung erfordert."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>c) Nummer 6 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"6. Integrationsprojekte
+i.S.d. § 132 SGB IX sind rechtlich und wirtschaftlich selbständige
+Unternehmen (Integrationsunternehmen) oder unternehmensinterne oder
+von öffentlichen Arbeitgebern im Sinne des § 73
+Abs. 3 SGB IX geführte Betriebe (Integrationsbetriebe)
+oder Abteilungen (Integrationsabteilungen) zur Beschäftigung
+schwerbehinderter Menschen, deren Teilhabe an einer sonstigen Beschäftigung
+auf dem allgemeinen Arbeitsmarkt aufgrund von Art oder Schwere der
+Behinderung oder wegen sonstiger Umstände voraussichtlich
+auf besondere Schwierigkeiten stößt. Während
+Integrationsprojekte i.S.d. § 132 SGB IX mindestens 25 % und
+höchstens 50 % besonders betroffene schwerbehinderte
+Menschen beschäftigen sollen, um sozialrechtlich als Integrationsprojekt
+anerkannt werden zu können, bedarf es für die
+steuerliche Eignung als Zweckbetrieb nach § 68 Nr. 3 Buchstabe
+c einer Beschäftigungsquote von mindestens 40 % dieser
+Personengruppe. Für Integrationsprojekte wird anders als
+bei Werkstätten für behinderte Menschen kein förmliches
+Anerkennungsverfahren durchgeführt. Als Nachweis für die
+Eigenschaft als Integrationsprojekt dient der Bescheid des zuständigen
+Integrationsamtes über erbrachte Leistungen nach § 134
+SGB IX (Leistungsbescheid). Zusätzlich ist für
+die steuerliche Beurteilung als Integrationsprojekt nach § 68
+Nr. 3 Buchstabe c eine Beschäftigungsquote von mindestens
+40 % der o. g. Personengruppe nachzuweisen."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>d) Nach Nummer 6 wird folgende neue Nummer 7 eingefügt:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"7. Zusätzliche
+Beschäftigungsmöglichkeiten für (schwer-)behinderte Menschen
+schaffen Handelsbetriebe, die als wohnortnahe Einzelhandelsgeschäfte
+beispielsweise mit einem Lebensmittelvollsortiment und entsprechendem
+Einsatz von Fachpersonal betrieben werden. Mit dieser Beschäftigungsform
+soll behinderten Menschen eine Möglichkeit zur Teilhabe
+am Arbeitsleben auf dem allgemeinen Arbeitsmarkt auch außerhalb
+von Werkstätten für behinderte Menschen geboten
+werden.</lxbase:a><lxbase:a>Handelsbetriebe, die keine Läden oder Verkaufsstellen
+von Werkstätten für behinderte Menschen i.S.d.
+Nr. 5 darstellen, können als Integrationsprojekt (vgl.
+Nr. 6) oder als zusätzlicher Arbeitsbereich, zusätzlicher Betriebsteil
+oder zusätzliche Betriebsstätte einer (anerkannten)
+Werkstatt für behinderte Menschen gegründet werden.
+Im letzteren Fall muss die Werkstatt für behinderte Menschen
+bei den Anerkennungsbehörden (§ 142 SGB IX) die
+Erweiterung der anerkannten Werkstatt um den zusätzlichen
+Arbeitsbereich, den Betriebsteil oder die zusätzliche Betriebsstätte "Handelsbetrieb" anzeigen
+und um deren Einbeziehung in die Anerkennung nach § 142
+SGB IX ersuchen. Die Anerkennungsbehörden prüfen, ob
+die anerkannte Werkstatt für behinderte Menschen auch mit
+einer solchen Erweiterung insgesamt noch die Anerkennungsvoraussetzungen
+als Werkstatt für behinderte Menschen nach § 142
+SGB IX erfüllt.</lxbase:a><lxbase:a>Handelsbetriebe, die von den Sozialbehörden als Integrationsprojekte gefördert
+werden, stellen grundsätzlich einen steuerbegünstigten
+Zweckbetrieb nach § 68 Nr. 3 Buchstabe c dar, wenn die
+Beschäftigungsquote von 40 % der Personengruppe
+erreicht ist.</lxbase:a><lxbase:a>Die von den Sozialbehörden vorgenommene sozialrechtliche
+Einordnung dieser Handelsbetriebe als Teil einer Werkstatt für
+behinderte Menschen (§ 68 Nr. 3 Buchstabe a) oder als Integrationsprojekt
+(§ 68 Nr. 3 Buchstabe c) soll von der zuständigen
+Finanzbehörde regelmäßig übernommen werden.
+Dem zuständigen Finanzamt obliegt aber die abschließende rechtsverbindliche
+Entscheidung im Einzelfall. Dabei kommt den Bescheiden der Sozialbehörden
+(Anerkennungsbescheid nach § 142 SGB IX bzw. Bescheid über
+erbrachte Leistungen nach § 134 SGB IX) grundsätzlich
+Tatbestandswirkung zu. Die Bescheide stellen aber keine Grundlagenbescheide
+i.S.v. § 171 Abs. 10 dar."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>e) Die bisherigen Nummern 7 bis 9 werden die neuen Nummern 8
+bis 10.</lxbase:a><lxbase:a>f) In der neuen Nummer 10 wird in Satz 1 das Wort "Tombola" durch
+das Wort "Ausspielung" ersetzt.</lxbase:a><lxbase:a>g) Die bisherige Nummer 10 wird neue Nummer 11.</lxbase:a><lxbase:a>h) n der neuen Nummer 11 wird in Satz 2 das Wort "Tombola" durch
+das Wort "Ausspielung" ersetzt.</lxbase:a><lxbase:a>i) Die bisherigen Nummern 11 bis 13 werden die neuen Nummern
+12 bis 14.</lxbase:a><lxbase:a>j) Die bisherige Nummer 14 wird neue Nummer 15 und wie folgt
+gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"15. Auf das BMF-Schreiben
+vom 22.9.1999 (BStBl I, S. 944 ) wird verwiesen. Abweichend von
+Tz. I.5 letzter Satz des genannten BMF-Schreibens kann bei einer
+Forschungseinrichtung, auf die § 68 Nr. 9 anzuwenden ist,
+deren Träger die Finanzierungsvoraussetzungen der Vorschrift
+jedoch nicht erfüllt, nicht zwingend davon ausgegangen
+werden, dass sie in erster Linie eigenwirtschaftliche Zwecke verfolgt.
+Nach den Grundsätzen des BFH-Urteils vom 4.4.2007 - <lxprod:doknr-verw linkend="HT0586767">I R 76/05</lxprod:doknr-verw> -
+BStBl II, S. 631 ist unter Berücksichtigung der gesamten Umstände
+des Einzelfalls zu prüfen, ob sich die Auftragsforschung
+von der steuerbegünstigten Tätigkeit trennen lässt.
+Ist in diesem Fall die Auftragsforschung von untergeordneter Bedeutung,
+kann der Träger der Einrichtung nach § 5 Abs.
+1 Nr. 9 KStG gleichwohl steuerbefreit sein und die Auftragsforschung
+lediglich einen steuerpflichtigen wirtschaftlichen Geschäftsbetrieb
+(§ 64) darstellen. Die Steuerbefreiung nach § 5
+Abs. 1 Nr. 9 KStG geht nur dann verloren, wenn die Auftragsforschung
+als eigenständiger Zweck neben die Eigenforschung (Grundlagenforschung) tritt
+und somit gegen das Gebot der Ausschließlichkeit des § 56
+verstoßen wird."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="19."><lxbase:a>Die <lxbase:fett>Regelung zu § 89 </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) Die Überschrift der Nummer 4 wird wie folgt gefasst:</lxbase:a><lxbase:a>" <lxbase:fett>4. Gebühren für die Bearbeitung
+von Anträgen auf Erteilung einer verbindlichen Auskunft
+(§ 89 Abs. 3 bis 7</lxbase:fett> )"</lxbase:a><lxbase:a>b) Nummer 4.1.1 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"4.1.1 § 89
+Abs. 3 bis 7 in der Fassung des Steuervereinfachungsgesetzes 2011
+vom 1.11.2011 (BGBl. I S. 2131 ) ist erstmals auf Anträge
+anzuwenden, die nach
+dem 4.11.2011 bei der zuständigen Finanzbehörde
+eingegangen sind (Art. 97 § 25 EGAO). Für Anträge,
+die nach dem
+18.12.2006 und vor dem 5.11.2011 bei der zuständigen
+Finanzbehörde eingegangen sind, richtet sich die Gebührenerhebung
+nach § 89 Abs. 3 bis 5 in der Fassung des Jahressteuergesetzes
+2007 vom 13.12.2006 (BGBl. I S. 2878 )."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>c) Nummer 4.2.4 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"4.2.4 Der Gegenstandswert
+ist in entsprechender Anwendung des § 39 Abs. 2 GKG auf
+30 Mio. € begrenzt (§ 89 Abs. 5 Satz 2). Die Gebühr beträgt
+damit höchstens 91.456 €. Beträgt der
+Gegenstandswert weniger als 10.000 €, wird keine Gebühr
+erhoben (§ 89 Abs. 5 Satz 3)."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>d) Nummer 4.3.1 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"4.3.1 Beziffert
+der Antragsteller den Gegenstandswert nicht und ist der Gegenstandswert
+auch nicht durch Schätzung bestimmbar, ist eine Zeitgebühr
+zu berechnen (§ 89 Abs. 6 Satz 1 1. Halbsatz). Die Zeitgebühr beträgt
+50 € je angefangene halbe Stunde Bearbeitungszeit (§ 89
+Abs. 6 Satz 1 2. Halbsatz). Beträgt bei der Gebührenbemessung
+nach dem Zeitwert die Bearbeitungszeit weniger als zwei Stunden,
+wird keine Gebühr erhoben (§ 89 Abs. 6 Satz 2)."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>e) Nummern 4.5.1 und 4.5.2 werden wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"4.5.1 Die Gebühr
+nach § 89 Abs. 3 bis 6 entsteht auch für die Bearbeitung
+eines Antrags auf verbindliche Auskunft, der die formalen Voraussetzungen
+nicht erfüllt (Beispiel: der Antrag beinhaltet keine ausführliche Darlegung
+des Rechtsproblems oder keine eingehende Begründung des Rechtsstandpunkts
+des Antragstellers). Vor einer Ablehnung eines Antrags aus formalen
+Gründen hat die Finanzbehörde den Antragsteller auf
+diese Mängel und auf die Möglichkeit der Ergänzung
+oder Rücknahme des Antrags hinzuweisen.</lxbase:a><lxbase:a>4.5.2 Wird ein Antrag vor Bekanntgabe der Entscheidung über
+den Antrag auf verbindliche Auskunft zurückgenommen, kann
+die Gebühr ermäßigt werden (§ 89
+Abs. 7 Satz 2). Hierbei ist wie folgt zu verfahren:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>Hat die Finanzbehörde noch nicht
+mit der Bearbeitung des Antrags begonnen, ist die Gebühr
+auf Null zu ermäßigen. In diesem Fall kann aus Vereinfachungsgründen
+bereits von der Erteilung eines Gebührenbescheides abgesehen
+werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Hat die Finanzbehörde bereits mit der Bearbeitung
+des Antrags begonnen, ist der bis zur Rücknahme des Antrags
+angefallene Bearbeitungsaufwand angemessen zu berücksichtigen
+und die Gebühr anteilig zu ermäßigen."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="20."><lxbase:a>In der <lxbase:fett>Regelung zu § 150 </lxbase:fett> werden
+die Worte "vgl. BMF-Schreiben vom 27.12.1999, <lxprod:doknr-verw linkend="HT0556176">BStBl I, S.
+1049</lxprod:doknr-verw>" durch die Worte "vgl. BMF-Schreiben
+vom 11.03.2011, <lxprod:doknr-verw linkend="HT5233223">BStBl
+I, S. 247</lxprod:doknr-verw>" ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="21."><lxbase:a>Die <lxbase:fett>Regelung zu § 163 </lxbase:fett> wird
+wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>"Zu § 163 - Abweichende Festsetzung von
+Steuern aus Billigkeitsgründen:</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. § 163 regelt
+Billigkeitsmaßnahmen im Festsetzungsverfahren. Billigkeitsmaßnahmen
+im Erhebungsverfahren regelt § 227. Die Unbilligkeit kann
+sich aus sachlichen oder aus persönlichen Gründen
+ergeben.</lxbase:a><lxbase:a>2. Ein Antrag auf eine Billigkeitsmaßnahme nach § 163
+kann auch nach Eintritt der Unanfechtbarkeit der Steuerfestsetzung
+oder der entsprechenden gesonderten Feststellung gestellt werden.</lxbase:a><lxbase:a>3. Die Entscheidung über eine Billigkeitsmaßnahme
+nach § 163 stellt auch dann einen selbständigen
+Verwaltungsakt dar, wenn sie mit der Steuerfestsetzung oder der
+entsprechenden gesonderten Feststellung verbunden wird. Sie ist
+Grundlagenbescheid für den entsprechenden Steuer- oder
+Feststellungsbescheid (§ 171 Abs. 10). Wird eine Billigkeitsmaßnahme
+erst nach Erlass des hiervon betroffenen Steuer- oder Feststellungsbescheids
+getroffen, muss dieser Bescheid nach § 175 Abs. 1 Satz
+1 Nr. 1 entsprechend angepasst werden.</lxbase:a><lxbase:a>4. Bei der Ermessensentscheidung ist der Zeitraum zwischen Entstehung des
+Steueranspruchs und der Antragstellung zu berücksichtigen.
+Es ist regelmäßig ermessensgerecht, eine Billigkeitsmaßnahme
+nach § 163 abzulehnen, sobald für den Folgebescheid
+die Festsetzungs- oder Feststellungsfrist abgelaufen ist (BFH-Urteil
+vom 17.3.1987 - <lxprod:doknr-verw linkend="HT0084721">VII
+R 26/84</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT0084721">BFH/NV 1987, S. 620</lxprod:doknr-verw>). Eine
+Billigkeitsmaßnahme kann ausnahmsweise auch nach diesem
+Zeitpunkt getroffen werden, wenn der ihr zugrunde liegende Antrag
+vor Ablauf der Festsetzungs- oder Feststellungsfrist gestellt worden
+war.</lxbase:a><lxbase:a>5. Wegen der Auswirkungen einer Billigkeitsmaßnahme
+bei den Steuern vom Einkommen auf die Gewerbesteuer Hinweis auf § 184
+Abs. 2. Danach ist die niedrigere Festsetzung eines Messbetrags
+nach § 163 Abs. 1 Satz 1 nicht zulässig, wenn
+die Voraussetzungen dafür nicht in einer allgemeinen Verwaltungsvorschrift
+der Bundesregierung oder einer obersten Landesfinanzbehörde
+festgelegt sind.</lxbase:a><lxbase:a>6. Zum Einspruchsverfahren gegen die Entscheidung über
+eine Billigkeitsmaßnahme vgl. zu § 347, Nr. 4."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="22."><lxbase:a>Nummer 8 der <lxbase:fett>Regelung vor § 172
+- 177 </lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Im zweiten Absatz wird die Angabe "§ 13a
+Abs. 2 Satz 3, § 36b Abs. 3 Satz 2 EStG" durch
+die Angabe "§ 13a Abs. 2 Satz 3 EStG" ersetzt.</lxbase:a><lxbase:a>b) Im dritten Absatz wird die Angabe "§ 33a
+Abs. 2 Satz 6" durch die Angabe "§ 33a
+Abs. 2 Satz 5" ersetzt.</lxbase:a><lxbase:a>c) Im vierten Absatz wird die Angabe "§ 5a
+Abs. 3, § 36b Abs. 4, § 46 Abs. 2 Nr. 8, § 50
+Abs. 5 Nr. 3 Satz 4" durch die Angabe "§ 5a
+Abs. 3 EStG" ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="23."><lxbase:a>In Nummer 6 der <lxbase:fett>Regelung zu § 177 </lxbase:fett> werden
+die Worte "vgl. zu § 165, Nr. 6" durch
+die Worte "vgl. zu § 165, Nr. 9" ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="24."><lxbase:a>Die <lxbase:fett>Regelung zu § 191 </lxbase:fett> wird
+wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>"AEAO zu § 191 - Haftungsbescheide, Duldungsbescheide:</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. Die materiell-rechtlichen
+Voraussetzungen für den Erlass eines Haftungs- oder Duldungsbescheides
+ergeben sich aus den §§ 69 bis 77, den Einzelsteuergesetzen
+oder den zivilrechtlichen Vorschriften (z.B. §§ 25, 128
+HGB). §§ 93, 227 Abs. 2 InsO schließen
+eine Haftungsinanspruchnahme nach §§ 69 ff. nicht
+aus (BFH-Urteil vom 2.11.2001 - <lxprod:doknr-verw linkend="HT0573622">VII B 155/01</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT0573622">BStBl 2002
+II, S. 73</lxprod:doknr-verw>). Der Gesellschafter einer Außen-GbR
+haftet für Ansprüche aus dem Steuerschuldverhältnis,
+hinsichtlich deren die GbR Schuldnerin ist, in entsprechender Anwendung
+des § 128 HGB (vgl. BGH-Urteil vom 29.1.2001, NJW S. 1056);
+dies gilt auch für Ansprüche, die bei seinem Eintritt
+in die GbR bereits bestanden (entsprechende Anwendung des § 130
+HGB; BGH-Urteil vom 7.4.2003, <lxprod:doknr-verw linkend="HT1524275">NJW 2003 S. 1803</lxprod:doknr-verw>). Nach Ausscheiden
+haftet der Gesellschafter für die Altschulden in analoger
+Anwendung des § 160 HGB. Bei Auflösung der Gesellschaft
+ist § 159 HGB entsprechend anzuwenden (vgl. § 736
+Abs. 2 BGB; BFH-Urteil vom 26.8.1997 - <lxprod:doknr-verw linkend="HT0144351">VII R 63/97</lxprod:doknr-verw> - BStBl II, S. 745).
+Für Gesellschafter aller Formen der Außen-GbR,
+die vor dem 1.7.2003 in die Gesellschaft eingetreten sind, kommt
+aus Gründen des allgemeinen Vertrauensschutzes eine Haftung
+nur für solche Ansprüche aus dem Steuerschuldverhältnis
+in Betracht, die nach ihrem Eintritt in die Gesellschaft entstanden sind.
+Zum Erlass von Haftungsbescheiden in Spaltungsfällen vgl.
+zu § 122, Nr. 2.15.</lxbase:a><lxbase:a>2. Die Befugnis zum Erlass eines Haftungs- oder Duldungsbescheides besteht
+auch, soweit die Haftung und Duldung sich auf steuerliche Nebenleistungen
+erstreckt.</lxbase:a><lxbase:a>3. Auf den (erstmaligen) Erlass eines Haftungsbescheides sind
+die Vorschriften über die Festsetzungsfrist (§§ 169
+- 171) entsprechend anzuwenden. Eine Korrektur zugunsten des Haftungsschuldners
+kann dagegen auch noch nach Ablauf der Festsetzungsfrist erfolgen
+(BFH-Urteil vom 12.8.1997 - <lxprod:doknr-verw linkend="HT0144811">VII R 107/96</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT0144811">BStBl 1998
+II, S. 131</lxprod:doknr-verw>).</lxbase:a><lxbase:a>4. Für die Korrektur von Haftungsbescheiden gelten nicht
+die für Steuerbescheide maßgeblichen Korrekturvorschriften
+(§§ 172 ff.), sondern die allgemeinen Vorschriften über
+die Berichtigung, die Rücknahme und den Widerruf von Verwaltungsakten
+(§§ 129 - 131). Die Rechtmäßigkeit
+des Haftungsbescheides richtet sich nach den Verhältnissen
+im Zeitpunkt seines Erlasses bzw. der entsprechenden Einspruchsentscheidung.
+Anders als bei der Änderung der Steuerfestsetzung (BFH-Urteil
+vom 12.8.1997 - <lxprod:doknr-verw linkend="HT0144811">VII
+R 107/96</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT0144811">BStBl 1998 II, S. 131</lxprod:doknr-verw>) berühren
+Minderungen der dem Haftungsbescheid zugrunde liegenden Steuerschuld
+durch Zahlungen des Steuerschuldners nach Ergehen einer Einspruchsentscheidung
+die Rechtmäßigkeit des Haftungsbescheides nicht.
+Ein rechtmäßiger Haftungsbescheid ist aber zugunsten
+des Haftungsschuldners zu widerrufen, soweit die ihm zugrunde liegende
+Steuerschuld später gemindert worden ist.</lxbase:a><lxbase:a>5. Von der Korrektur eines Haftungsbescheides ist der Erlass
+eines ergänzenden Haftungsbescheides zu unterscheiden.</lxbase:a><lxbase:a>5.1 Für die Zulässigkeit eines neben einem
+bereits bestehenden Haftungsbescheid gegenüber einem bestimmten
+Haftungsschuldner tretenden weiteren Haftungsbescheids ist grundsätzlich
+entscheidend, ob dieser den gleichen Gegenstand regelt wie der bereits
+ergangene Haftungsbescheid oder ob die Haftungsinanspruchnahme für
+verschiedene Sachverhalte oder zu verschiedenen Zeiten entstandene
+Haftungstatbestände erfolgen soll.</lxbase:a><lxbase:a>Stets zulässig ist es, wegen eines eigenständigen
+Steueranspruchs (betreffend einen anderen Besteuerungszeitraum oder
+eine andere Steuerart) einen weiteren Haftungsbescheid zu erlassen,
+selbst wenn der Steueranspruch bereits im Zeitpunkt der ersten Inanspruchnahme
+durch Haftungsbescheid entstanden war.</lxbase:a><lxbase:a>5.2 Die "Sperrwirkung" eines bestandskräftigen
+Haftungsbescheids gegenüber einer erneuten Inanspruchnahme
+des Haftungsschuldners besteht nur, soweit es um ein und denselben
+Sachverhalt geht; sie ist in diesem Sinne nicht zeitraum-, sondern
+sachverhaltsbezogen (BFH-Beschluss vom 7.4.2005 - <lxprod:doknr-verw linkend="HT5000416">I B 140/04</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT5000416">BStBl 2006
+II, S. 530</lxprod:doknr-verw>). Der Erlass eines ergänzenden Haftungsbescheids
+für denselben Sachverhalt ist unzulässig, wenn
+die zu niedrige Inanspruchnahme auf einer rechtsirrtümlichen
+Beurteilung des Sachverhalts oder auf einer fehlerhaften Ermessensentscheidung
+beruhte (vgl. BFH-Urteil vom 25.5.2004 - <lxprod:doknr-verw linkend="HT0818278">VII R 29/02</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT0818278">BStBl 2005
+II, S. 3</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Der Erlass eines ergänzenden Haftungsbescheids ist aber
+zulässig, wenn die Erhöhung der Steuerschuld auf
+neuen Tatsachen beruht, die das Finanzamt mangels Kenntnis im ersten
+Haftungsbescheid nicht berücksichtigen konnte (BFH-Urteil
+vom 15.2.2011 - <lxprod:doknr-verw linkend="HT0927987">VII
+R 66/10</lxprod:doknr-verw> - BStBl II, S. 534).</lxbase:a><lxbase:a>6. Für Duldungsbescheide gelten die Nrn. 3 bis 5 entsprechend.
+Die Inanspruchnahme des Duldungspflichtigen wird durch § 191
+Abs. 3 zeitlich weder begrenzt noch ausgedehnt.</lxbase:a><lxbase:a>7. Zur Zahlungsaufforderung bei Haftungsbescheiden vgl. zu § 219.</lxbase:a><lxbase:a>8. In den Fällen des § 191 Abs. 2 soll die
+Frist für die Abgabe einer Stellungnahme der zuständigen
+Berufskammer im Allgemeinen zwei Monate betragen. Die Stellungnahme
+kann in dringenden Fällen auch fernmündlich eingeholt
+werden. Eine versehentlich unterlassene Anhörung kann nachgeholt
+werden.</lxbase:a><lxbase:a>Wird innerhalb der von der Finanzbehörde zu setzenden
+Frist keine Stellungnahme abgegeben, kann gleichwohl ein Haftungsbescheid
+ergehen.</lxbase:a><lxbase:a>9. Ein erstmaliger Haftungsbescheid kann wegen Akzessorietät
+der Haftungsschuld zur Steuerschuld grundsätzlich nicht
+mehr ergehen, wenn der zugrunde liegende Steueranspruch wegen Festsetzungsverjährung
+gegenüber dem Steuerschuldner nicht mehr festgesetzt werden
+darf oder wenn der gegenüber dem Steuerschuldner festgesetzte
+Steueranspruch durch Zahlungsverjährung oder Erlass erloschen
+ist (§ 191 Abs. 5 Satz 1). Maßgeblich ist dabei
+der Steueranspruch, auf den sich die Haftung konkret bezieht. Daher
+ist bei der Haftung eines Arbeitgebers für zu Unrecht nicht angemeldete
+und abgeführte Lohnsteuer (§ 42d EStG) auf die
+vom Arbeitnehmer nach § 38 Abs. 2 EStG geschuldete Lohnsteuer
+und nicht auf die Einkommensteuer des Arbeitnehmers (§ 25
+EStG) abzustellen. Dabei ist für die Berechnung der die
+Lohnsteuer betreffenden Festsetzungsfrist die Lohnsteuer-Anmeldung
+des Arbeitgebers und nicht die Einkommensteuererklärung
+der betroffenen Arbeitnehmer maßgebend (vgl. BFH-Urteil
+vom 6.3.2008 - <lxprod:doknr-verw linkend="HT0586531">VI
+R 5/05</lxprod:doknr-verw> - BStBl II, S. 597). Bei der Berechnung der
+für die Lohnsteuer maßgebenden Festsetzungsfrist
+sind Anlauf- und Ablaufhemmungen nach §§ 170, 171
+zu berücksichtigen, soweit sie gegenüber dem Arbeitgeber
+wirken."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="25."><lxbase:a>Die <lxbase:fett>Regelung zu § 233a </lxbase:fett> wird
+wie folgt geändert:</lxbase:a><lxbase:a>a) Nummer 2 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"2. Die Verzinsung
+nach § 233a ist beschränkt auf die Festsetzung
+der Einkommen-, Körperschaft-, Vermögen-, Umsatz-
+und Gewerbesteuer (§ 233a Abs. 1 Satz 1). Zu verzinsen
+ist auch der Steuervergütungsanspruch nach § 18
+Abs. 9 UStG i.V.m. §§ 59 ff. UStDV (BFH-Urteil
+vom 17.4.2008 - <lxbase:az normform="V-R-4-1/06" manuell="nein">V
+R 4 1/06</lxbase:az> - <lxprod:doknr-verw linkend="HT0587537">BStBl 2009 II, S. 2</lxprod:doknr-verw>); zur Zinsberechnung
+vgl. auch Nr. 62. Von der Verzinsung ausgenommen sind die übrigen
+Steuern und Abgaben sowie Steuervorauszahlungen und Steuerabzugsbeträge
+(§ 233a Abs. 1 Satz 2); vgl. auch BFH-Beschluss vom 18.9.2007
+- <lxprod:doknr-verw linkend="HT0586576">I R 15/05</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT0586576">BStBl 2008
+II, S. 332</lxprod:doknr-verw>, und BVerfG-Beschluss vom 3.9.2009 - <lxprod:doknr-verw linkend="HT0179213">1 BvR 1098/08</lxprod:doknr-verw> -
+BFH/NV, S. 2115. Auch bei der Nachforderung von Abzugsteuern
+gegenüber dem Arbeitnehmer (vgl. BFH-Urteil vom 17.11.2010
+- <lxprod:doknr-verw linkend="HT0927775">I R 68/10</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT0927775">BFH/NV
+2011, S. 737</lxprod:doknr-verw>), der Festsetzung der vom Arbeitgeber übernommenen
+Lohnsteuer sowie der Festsetzung der Umsatzsteuer im Abzugsverfahren
+erfolgt keine Verzinsung nach § 233a. Kirchensteuern werden
+nur verzinst, soweit die Landeskirchensteuergesetze dies vorsehen.
+Als Einfuhrabgabe unterliegt die Einfuhrumsatzsteuer den sinngemäß geltenden
+Vorschriften für Zölle, weshalb ein sich bei der
+Festsetzung von Einfuhrumsatzsteuer ergebender Unterschiedsbetrag
+nicht nach § 233a zu verzinsen ist (BFH-Urteil vom 23.9.2009
+- <lxprod:doknr-verw linkend="HT0179641">VII R 44/08</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT0179641">BStBl 2010
+II, S. 334</lxprod:doknr-verw>). Der AO lässt sich im Übrigen
+kein allgemeiner Grundsatz des Inhalts entnehmen, dass Ansprüche
+des Steuerpflichtigen aus dem Steuerschuldverhältnis auch
+ohne einzelgesetzliche Grundlage stets zu verzinsen sind (vgl. BFH-Urteil
+vom 16.12.2009 - <lxprod:doknr-verw linkend="HT0179789">I
+R 48/09</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT0179789">BFH/NV 2010, S. 827</lxprod:doknr-verw>)."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>b) Nummern 8 und 9 werden wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"8. Für
+die Einkommen- und Körperschaftsteuer beträgt
+die Karenzzeit 23 Monate (bei Steuern, die vor dem 1.1.2010 entstehen,
+21 Monate; vgl. Art. 97 § 15 Abs. 11 EGAO), wenn die Einkünfte
+aus Land- und Forstwirtschaft bei der erstmaligen Steuerfestsetzung
+für das jeweilige Jahr überwiegen (§ 233a
+Abs. 2 Satz 2); vgl. dazu auch das BFH-Urteil vom 13.7.2006 - <lxprod:doknr-verw linkend="HT5003182">IV R 5/05</lxprod:doknr-verw> -
+BStBl II, S. 881. Unter dieser Voraussetzung beginnt der Zinslauf
+für die Einkommen- und Körperschaftsteuer 2010
+daher nicht bereits am 1.4.2012, sondern am 1.12.2012. Eine über
+die Karenzzeit hinaus gewährte Frist zur Abgabe der Steuererklärung
+ist für die Verzinsung unbeachtlich.</lxbase:a><lxbase:a>9. Stellt sich später heraus, dass die Einkünfte
+aus Land- und Forstwirtschaft die anderen Einkünfte nicht überwiegen,
+bleibt es gleichwohl bei der Karenzzeit von 23 Monaten. Umgekehrt
+bleibt es bei der Karenzzeit von 15 Monaten, wenn sich später
+herausstellt, dass entgegen den Verhältnissen bei der erstmaligen
+Steuerfestsetzung die Einkünfte aus Land- und Forstwirtschaft
+die übrigen Einkünfte überwiegen. Sind
+die Einkünfte aus Land- und Forstwirtschaft negativ, überwiegen
+die anderen Einkünfte, wenn diese positiv oder in geringerem
+Maße negativ sind."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>c) In den Beispielen 14 und 15 der Nummer 70.1.2 wird die Angabe "Beginn des
+fiktiven Zinslaufs 26.4.2006" jeweils durch die Angabe "Beginn
+des fiktiven Zinslaufs 27.4.2006" ersetzt.</lxbase:a><lxbase:a>d) Nummer 74 wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"74. § 233a
+Abs. 2a ist auch dann anzuwenden, wenn das rückwirkende Ereignis
+in einem für den Steuerbescheid verbindlichen Grundlagenbescheid
+berücksichtigt wurde. Im Grundlagenbescheid sind deshalb
+auch entsprechende Feststellungen über die Auswirkungen
+eines erstmals berücksichtigten rückwirkenden
+Ereignisses auf die festgestellten Besteuerungsgrundlagen und den
+Zeitpunkt des Eintritts des rückwirkenden Ereignisses zu
+treffen (vgl. BFH-Urteil vom 19.3.2009 - <lxprod:doknr-verw linkend="HT0179236">IV R 20/08</lxprod:doknr-verw> - <lxprod:doknr-verw linkend="HT0179236">BStBl 2010
+II, S. 528</lxprod:doknr-verw>). Gleiches gilt, wenn ein bereits bei der vorangegangenen
+Feststellung berücksichtigtes rückwirkendes Ereignis
+unmittelbar Änderungen erfährt und der Feststellungsbescheid
+deshalb geändert wird. Wird ein Feststellungsbescheid dagegen
+aus anderen Gründen (z.B. zur Berücksichtigung
+neuer Tatsachen i.S.d. § 173) geändert, sind auch
+dann keine Feststellungen zum früher bereits berücksichtigten
+rückwirkenden Ereignis zu treffen, wenn sich die steuerlichen
+Auswirkungen dieses rückwirkenden Ereignisses aufgrund
+der erstmaligen oder abweichenden Berücksichtigung normal
+zu verzinsender Besteuerungsgrundlagen rechnerisch verändert.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Dies gilt im Verhältnis zwischen Gewerbesteuermessbescheid
+und Gewerbesteuerbescheid sowie in den Fällen des § 35b
+GewStG entsprechend."</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="26."><lxbase:a>Nummer 2 der <lxbase:fett>Regelung zu § 241
+bis 248 </lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>"2. Die für
+die Bundesfinanzverwaltung bekannt gegebenen Bestimmungen über
+Formen der Sicherheitsleistung im Bereich der von der Zollverwaltung
+verwalteten Steuern und Abgaben - SiLDV - (Vorschriftensammlung
+Bundesfinanzverwaltung E - VSF - Kennungen <lxbase:az normform="S1450" manuell="nein">S 1450</lxbase:az> und <lxbase:az normform="Z0915" manuell="nein">Z 0915</lxbase:az>) sind - soweit sie Formen der Sicherheitsleistung
+in Verbrauchsteuerverfahren betreffen - für den Bereich
+der Besitz- und Verkehrsteuern entsprechend anzuwenden."</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="27."><lxbase:a>Die <lxbase:fett>Anlage zu § 46 </lxbase:fett> wird
+wie folgt gefasst:</lxbase:a><lxbase:a><lxprod:doknr-verw linkend="HT0922523">Muster zur Weiterbearbeitung in MS-Word</lxprod:doknr-verw></lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Info</lxbase:rthema><lxbase:rthema>Verfahrensrecht/Abgabenordnung</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:newsrelevant datum="2012-02-02" /><lxbase:newsgebiete><lxbase:newsgebiet>Steuerliches Verfahrensrecht</lxbase:newsgebiet></lxbase:newsgebiete></lxbase:allgemeine-angaben></lxrvw:rspvwa>

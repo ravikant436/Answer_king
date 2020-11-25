@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Schreiben (koordinierter Ländererlass)" dok-typ="Verwaltungsanweisung" dok-nummer="5233528" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bundesministerium der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>IV C 6 - S-2133b / 11 / 10009</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2133b</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2133b A - 2 - St 210</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Elwi-Rewe" id="22" /><lxbase:lizenz2 name="Info" id="25" /><lxbase:lizenz2 name="INFO-KANZLEI" id="30" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2011-09-28" ts="nein" /><lxbase:datum normdat="2011-11-02" ts="ja" /><lxbase:datum normdat="2014-01-07" ts="ja" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BStBl-2011-I-0855</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DB-2011-2231</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DStR-2011-1906</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DStZ-2011-0770</lxbase:fs-kuerzel><lxbase:fs-kuerzel>FR-2011-1120</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände, die nach dem 31. 12. 2017 verwirklicht werden, durch <lxprod:doknr-verw linkend="HT5236851">IV A 2 – O-2000 / 18 / 10001</lxprod:doknr-verw> v. 18. 3. 2019 koordinierter Ländererlass</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände, die nach dem 31. 12. 2016 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5236585"> IV A 2 – O-2000 / 17 / 10001 </lxprod:doknr-verw> v. 19. 3. 2018 koordinierter Ländererlass </lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände, die nach dem 31. 12. 2015 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5236239">IV A 2 - O-2000 / 16 / 10001</lxprod:doknr-verw> v. 21. 3. 2017 (koordinierter Ländererlass) </lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit  bestätigt für Steuertatbestände, die nach dem 31. 12. 2014 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5235900">IV A 2 - O-2000 / 15 / 10001</lxprod:doknr-verw> v. 14. 3. 2016 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit  bestätigt für Steuertatbestände, die nach dem 31. 12. 2013 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5235510">IV A 2 - O-2000 / 14 / 10001</lxprod:doknr-verw> v. 23. 3. 2015 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit  bestätigt für Steuertatbestände, die nach dem 31. 12. 2012 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5234965">IV A 2 - O-2000 / 13 / 10002</lxprod:doknr-verw> v. 24. 3. 2014 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2011 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5234454">IV A 2 - O-2000 / 12 / 10001</lxprod:doknr-verw>
+v. 9. 4. 2013 (koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2010 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5233887">IV
+A 2 - O-2000 / 11 / 10006</lxprod:doknr-verw>
+ v. 27. 3. 2012
+(koordinierter Ländererlass)</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:redakt><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="19*" /><cals:colspec colnum="2" colname="2" colwidth="81*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a><lxbase:fett>Bibliographie der inhaltlich
+entsprechenden Verwaltungansweisungen:</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Hessen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Frankfurt am Main S-2133b A - 2 - St
+210 vom 02.11.2011 <lxbase:za />EStK § 5b EStG Karte 2<lxbase:za />OFD Frankfurt
+am Main S-2133b A - 2 - St 210 vom 09.01.2014</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:4/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:5</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:5a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:5b</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:51/4/1b</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2011" /></lxbase:jahre><lxbase:zitate><lxbase:passiv-zitate><lxbase:lit-zitat>Deubner Verlag <lxprod:doknr-verw linkend="HT0941061">StX 2011 649</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Kußmaul / Ollinger / Weiler <lxprod:doknr-verw linkend="HT0634370">StWi 2012 131</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Kerssenbrock / Kirch <lxprod:doknr-verw linkend="HT4060430">Stbg 2013 385</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Zwirner <lxbase:lit-fs normform="BB-2014-0242" manuell="nein">BB 2014 242</lxbase:lit-fs></lxbase:lit-zitat><lxbase:lit-zitat>Graf <lxprod:doknr-verw linkend="HT4068308">Stbg 2015 458</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Zwirner <lxprod:doknr-verw linkend="HT4070639">BB 2016 1458</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Deubner Verlag Anmerkung Dok.-Nr. <lxprod:doknr-verw linkend="HT0632698">0632698</lxprod:doknr-verw></lxbase:lit-zitat></lxbase:passiv-zitate></lxbase:zitate><lxbase:themenlexika><lxbase:themenlexikon><lxbase:a><lxprod:doknr-verw linkend="HT5228358">Elektronische Bilanz - Übermittlung
+von Bilanzdaten</lxprod:doknr-verw></lxbase:a></lxbase:themenlexikon></lxbase:themenlexika></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>	Elektronische Übermittlung von Bilanzen sowie
+Gewinn- und Verlustrechnungen; Anwendungsschreiben zur Veröffentlichung
+der Taxonomie</lxbase:a></lxbase:headline></lxbase:titel><lxbase:teaser><lxbase:a>BMF: Elektronische Übermittlung von Bilanzen sowie Gewinn-
+und Verlustrechnungen; Anwendungsschreiben zur Veröffentlichung
+der Taxonomie</lxbase:a></lxbase:teaser><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800001"><lxbase:a>I. Persönlicher Anwendungsbereich</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800002"><lxbase:a>II. Besonderer
+sachlicher Anwendungsbereich</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800003"><lxbase:a>1.	 Betriebsstätten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800004"><lxbase:a>2.	 Steuerbefreite
+Körperschaften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800005"><lxbase:a>3. 	Juristische
+Personen des öffentlichen Rechts mit Betrieben gewerblicher Art</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800006"><lxbase:a>4.	 Übergangsregelungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800007"><lxbase:a>III. Übermittlungsformat</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800008"><lxbase:a>IV. Taxonomie
+(Datenschema für Jahresabschlussdaten)</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800009"><lxbase:a>1. Taxonomie</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800010"><lxbase:a>2. Taxonomiearten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800011"><lxbase:a>3. Technische
+Ausgestaltung der Taxonomie</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800012"><lxbase:a>4. Unzulässige
+Positionen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800013"><lxbase:a>5. Rechnerisch
+notwendige Positionen / Summenmussfelder</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800014"><lxbase:a>V. Mindestumfang
+nach § 51 Absatz 4 Nummer 1b EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800015"><lxbase:a>VI. Ausnahmeregelungen
+für bestimmte Berichtsteile/Positionen</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800016"><lxbase:a>1. Kapitalkontenentwicklung
+für Personenhandelsgesellschaften und andere Mitunternehmerschaften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800017"><lxbase:a>2. Sonder-
+und Ergänzungsbilanzen bei Personenhandelsgesellschaften
+und anderen Mitunternehmerschaften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800018"><lxbase:a>3. Abschreibungen
+auf immaterielle Vermögensgegenstände des Anlagevermögens
+und Sachanlagen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800019"><lxbase:a>	VII. Überleitungsrechnung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800020"><lxbase:a>VIII. Zusätzlich
+einzureichende Unterlagen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800021"><lxbase:a>IX. Zeitliche
+Anwendung des § 5b EStG</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800022"><lxbase:a>1. Anwendung
+(Nichtbeanstandungsregelung für 2012)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800023"><lxbase:a>2. Aktualisierung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800024"><lxbase:a>X. Härtefallregelung
+nach § 5b Absatz 2 Satz 2 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523352800025"><lxbase:a>Anlage zu Rn.
+11</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:a>	 Nach § 5b EStG besteht für Steuerpflichtige,
+die ihren Gewinn nach § 4 Absatz 1, § 5 oder § 5a
+EStG ermitteln, die Verpflichtung, den Inhalt der Bilanz sowie der
+Gewinn- und Verlustrechnung nach amtlich vorgeschriebenem Datensatz durch
+Datenfernübertragung zu übermitteln. Nach § 51
+Absatz 4 Nummer 1b EStG ist das Bundesministerium der Finanzen ermächtigt,
+im Einvernehmen mit den obersten Finanzbehörden der Länder
+den Mindestumfang der elektronisch zu übermittelnden Bilanzen
+und Gewinn- und Verlustrechnung zu bestimmen.</lxbase:a><lxbase:a>Unter Bezugnahme auf das Ergebnis der Erörterung mit
+den obersten Finanzbehörden der Länder gilt Folgendes:</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800001">I. Persönlicher
+Anwendungsbereich</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 1</lxbase:randziffer><lxbase:a>	§ 5b EStG gilt für alle Unternehmen, die ihren
+Gewinn nach § 4 Absatz 1, § 5 oder § 5a
+EStG ermitteln. Danach sind die Inhalte einer Bilanz sowie Gewinn- und
+Verlustrechnung durch Datenfernübertragung zu übermitteln
+(sog. E-Bilanz), wenn diese nach den handels- oder steuerrechtlichen
+Bestimmungen aufzustellen sind oder freiwillig aufgestellt werden.
+Damit wird die bisherige Übermittlung durch Abgabe in Papierform
+durch eine Übermittlung durch Datenfernübertragung
+ersetzt. Dies gilt unabhängig von der Rechtsform und der Größenklasse
+	des bilanzierenden Unternehmens. Auch die anlässlich einer Betriebsveräußerung,
+Betriebsaufgabe, Änderung der Gewinnermittlungsart oder
+in Umwandlungsfällen aufzustellende Bilanz ist durch Datenfernübertragung
+zu übermitteln. Zwischenbilanzen, die auf den Zeitpunkt
+eines Gesellschafterwechsels aufgestellt werden, sind als Sonderform
+einer Schlussbilanz ebenso wie Liquidationsbilanzen nach § 11
+KStG durch Datenfernübertragung zu übermitteln.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800002">II. Besonderer sachlicher
+Anwendungsbereich</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523352800003">1.	 Betriebsstätten</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 2</lxbase:randziffer><lxbase:a>	Die vom BFH in ständiger Rechtsprechung aufgestellten
+Grundsätze zur Abgabe der Bilanz und Gewinn- und Verlustrechnung
+bei ausländischen und inländischen Betriebsstätten
+gelten gleichermaßen für die Übermittlung
+der Daten durch Datenfernübertragung.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 3</lxbase:randziffer><lxbase:a>	Hat ein inländisches Unternehmen eine ausländische
+Betriebsstätte, ist - soweit der Gewinn nach § 4
+Absatz 1, § 5 oder § 5a EStG ermittelt wird (siehe
+Rn. 1) - für das Unternehmen als Ganzes eine Bilanz und
+Gewinn- und Verlustrechnung abzugeben (vgl. BFH-Urteil vom 16. Februar
+1996, <lxbase:lit-fs normform="BStBl-1997-II-0128" manuell="nein">BStBl
+II 1997 S. 128</lxbase:lit-fs>
+ ). Entsprechend ist ein Datensatz durch Datenfernübertragung
+zu übermitteln.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 4</lxbase:randziffer><lxbase:a>	Hat ein ausländisches Unternehmen eine inländische
+Betriebsstätte und wird der Gewinn nach § 4 Absatz
+1, § 5 oder § 5a EStG ermittelt (siehe Rn. 1), beschränkt
+sich die Aufstellung der Bilanz und Gewinn- und Verlustrechnung auf
+die inländische Betriebsstätte als unselbständiger
+Teil des Unternehmens. Gleiches gilt grundsätzlich für
+Sachverhalte im Sinne der Randziffern 3 und 7 des BMF-Schreibens
+vom 16. Mai 2011, <lxbase:lit-fs normform="BStBl-2011-I-0053" manuell="nein">BStBl I, S. 53</lxbase:lit-fs>
+ 0 (Einkünfte
+aus Vermietung und Verpachtung gemäß § 49 Absatz
+1 Nummer 2 Buchstabe f Doppelbuchstabe aa und Nummer 6 EStG). Entsprechend
+ist in diesen Fällen ein Datensatz durch Datenfernübertragung
+zu übermitteln.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800004">2.	 Steuerbefreite Körperschaften</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 5</lxbase:randziffer><lxbase:a>	Auf unbeschränkt körperschaftsteuerpflichtige
+Körperschaften, die persönlich von der Körperschaftsteuer
+befreit sind (z. B. § 5 Absatz 1 Nummern 1, 2, 2a, 15 KStG),
+findet § 5b EStG keine Anwendung. Erstreckt sich bei einer
+von der Körperschaftsteuer oder Gewerbesteuer befreiten
+Körperschaft die Befreiung nur auf einen Teil der Einkünfte
+der Körperschaft (z. B. § 5 Absatz 1 Nummern 5,
+6,7, 9, 10, 14, 16, 19, 22 KStG) und ist von der Körperschaft
+eine Bilanz sowie eine Gewinn- und Verlustrechnung aufzustellen,
+ist dieser Datensatz durch Datenfernübertragung zu übermitteln.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800005">3. 	Juristische Personen
+des öffentlichen Rechts mit Betrieben gewerblicher Art</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 6</lxbase:randziffer><lxbase:a>	Sind für einen Betrieb gewerblicher Art eine Bilanz
+sowie eine Gewinn- und Verlustrechnung aufzustellen, ist dieser
+Datensatz durch Datenfernübertragung zu übermitteln.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800006">4.	 Übergangsregelungen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 7</lxbase:randziffer><lxbase:a>	Zur Vermeidung unbilliger Härten wird es in den Fällen
+der Rn. 2 bis 6 für eine Übergangszeit nicht beanstandet,
+wenn die Inhalte der Bilanz und Gewinn- und Verlustrechnung erstmals
+für Wirtschaftsjahre, die nach dem 31. Dezember 2014 beginnen,
+durch Datenfernübertragung übermittelt werden;
+in den Fällen der Rn. 3 jedoch nur, soweit sie auf die
+Ergebnisse der ausländischen Betriebsstätte entfallen.
+In dieser Übergangszeit kann die Bilanz sowie die Gewinn-
+und Verlustrechnung in Papierform abgegeben werden; eine Gliederung
+gemäß der Taxonomie ist dabei nicht erforderlich.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800007">III. Übermittlungsformat</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 8</lxbase:randziffer><lxbase:a>	Für die Übermittlung des amtlich vorgeschriebenen
+Datensatzes wurde mit BMF-Schreiben vom 19. Januar 2010 (BStBl I
+S. 47 ) XBRL (eXtensible Business Reporting Language) als Übermittlungsformat
+festgelegt.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800008">IV. Taxonomie (Datenschema
+für Jahresabschlussdaten)</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523352800009">1. Taxonomie</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 9</lxbase:randziffer><lxbase:a>	Eine Taxonomie ist ein Datenschema für Jahresabschlussdaten.
+Durch die Taxonomie werden die verschiedenartigen Positionen definiert,
+aus denen z. B. eine Bilanz oder eine Gewinn- und Verlustrechnung
+bestehen kann (also etwa die Firma des Kaufmanns oder die einzelnen
+Positionen von Bilanz und Gewinn- und Verlustrechnung) und entsprechend
+ihrer Beziehungen zueinander geordnet.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800010">2. Taxonomiearten</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 10</lxbase:randziffer><lxbase:a>	Das Datenschema der Taxonomien wird hiermit als amtlich vorgeschriebener Datensatz
+nach § 5b EStG veröffentlicht. Die Taxonomien
+stehen unter <lxprod:www-verw linkend="http://www.eSteuer.de" ziel-lizenzen="25 30 31">http://www.eSteuer.de</lxprod:www-verw>
+zur Ansicht und zum Abruf bereit. Die elektronische Übermittlung
+der Inhalte der Bilanz und der Gewinn- und Verlustrechnung erfolgt grundsätzlich
+nach der Kerntaxonomie. Sie beinhaltet die Positionen für
+alle Rechtsformen, wobei im jeweiligen Einzelfall nur die Positionen
+zu befüllen sind, zu 	denen auch tatsächlich Geschäftsvorfälle
+vorliegen. Für bestimmte Wirtschaftszweige wurden Branchentaxonomien
+erstellt, die in diesen Fällen für die Übermittlung
+der Datensätze zu verwenden sind. Dies sind Spezialtaxonomien
+(Banken und Versicherungen) oder Ergänzungstaxonomien (Wohnungswirtschaft,
+Verkehrsunternehmen, Land- und Forstwirtschaft, Krankenhäuser,
+Pflegeeinrichtungen, Kommunale Eigenbetriebe). Individuelle Erweiterungen
+der Taxonomien können nicht übermittelt werden.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800011">3. Technische Ausgestaltung
+der Taxonomie</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 11</lxbase:randziffer><lxbase:a>	Einzelheiten zur technischen Ausgestaltung insbesondere den
+Rechenregeln sind der Anlage zu entnehmen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800012">4. Unzulässige
+Positionen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 12</lxbase:randziffer><lxbase:a>	Als "für handelsrechtlichen Einzelabschluss
+unzulässig" gekennzeichnete Positionen dürfen
+in den der Finanzverwaltung zu übermittelnden Datensätzen
+nicht verwendet werden.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 13</lxbase:randziffer><lxbase:a>	Als "steuerlich unzulässig" gekennzeichnete
+Positionen sind im Rahmen der Umgliederung / Überleitung
+aufzulösen und dürfen in den der Finanzverwaltung
+zu übermittelnden Datensätzen nicht enthalten
+sein.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800013">5. Rechnerisch notwendige
+Positionen / Summenmussfelder</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 14</lxbase:randziffer><lxbase:a>	Da die übermittelten Datensätze auch im Übrigen
+den im Datenschema hinterlegten Rechenregeln genügen müssen,
+werden Positionen, die auf der gleichen Ebene wie rechnerisch verknüpfte
+Mussfelder stehen, als "Rechnerisch notwendig, soweit vorhanden" gekennzeichnet.
+Diese Positionen sind dann zwingend mit Werten zu übermitteln,
+wenn ohne diese Übermittlung die Summe der Positionen auf
+der gleichen Ebene nicht dem Wert der Oberposition entspricht, mit denen
+diese Positionen rechnerisch verknüpft sind. Oberpositionen,
+die über rechnerisch verknüpften Mussfeldern stehen,
+sind als Summenmussfelder gekennzeichnet. Werden z. B. im Datenschema
+rechnerisch in eine Oberposition verknüpfte Positionen übermittelt,
+so ist auch die zugehörige Oberposition mit zu übermitteln.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800014">V. Mindestumfang nach § 51
+Absatz 4 Nummer 1b EStG</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 15</lxbase:randziffer><lxbase:a>	Die Taxonomie enthält die für den Mindestumfang
+im Sinne der §§ 5b, 51 Absatz 4 Nummer 1b EStG
+erforderlichen Positionen, die mit den am Bilanzstichtag vorhandenen
+Daten der einzelnen Buchungskonten zu befüllen sind. Dies
+gilt in Abhängigkeit davon, ob ein derartiger Geschäftsvorfall überhaupt vorliegt
+und in welchem Umfang diese Angaben für Besteuerungszwecke benötigt
+werden.</lxbase:a></lxbase:a-randziffer><lxbase:a>Folgende Positionseigenschaften sind hierbei zu unterscheiden: </lxbase:a><lxbase:a><lxbase:fett>Mussfeld</lxbase:fett></lxbase:a><lxbase:a-randziffer><lxbase:randziffer>Rz. 16</lxbase:randziffer><lxbase:a>	Die in den Taxonomien als "Mussfeld" gekennzeichneten
+Positionen sind zwingend zu befüllen (Mindestumfang). Bei
+Summenmussfeldern gilt dies auch für die darunter liegenden
+Ebenen (vgl. Rn. 14). Es wird elektronisch geprüft, ob formal
+alle Mussfelder in den übermittelten Datensätzen
+enthalten sind. Sofern sich ein Mussfeld nicht mit Werten füllen
+lässt, weil die Position in der ordnungsmäßigen
+individuellen Buchführung nicht geführt wird oder
+aus ihr nicht ableitbar ist, ist zur erfolgreichen Übermittlung
+des Datensatzes die entsprechende Position ohne Wert (technisch:
+NIL-Wert) zu übermitteln.</lxbase:a></lxbase:a-randziffer><lxbase:a><lxbase:fett>Mussfeld, Kontennachweis erwünscht</lxbase:fett></lxbase:a><lxbase:a-randziffer><lxbase:randziffer>Rz. 17</lxbase:randziffer><lxbase:a>	Für die als "Mussfeld, Kontennachweis erwünscht" gekennzeichneten
+Positionen gelten die Ausführungen zum Mussfeld in gleicher
+Weise. Der Auszug aus der Summen-/Saldenliste der in diese
+Position einfließenden Konten im XBRL-Format kann vom Steuerpflichtigen
+mitgeliefert werden (Angaben: Kontonummer, Kontobezeichnung, Saldo
+zum Stichtag).</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 18</lxbase:randziffer><lxbase:a>	Darüber hinaus ist ein freiwilliger Kontennachweis
+auch für jedwede andere Taxonomieposition durch Datenfernübertragung
+(Angabe der Kontonummer, Kontenbezeichnung sowie des Saldos zum
+Stichtag im Datensatz) möglich.</lxbase:a></lxbase:a-randziffer><lxbase:a><lxbase:fett>Auffangpositionen</lxbase:fett></lxbase:a><lxbase:a-randziffer><lxbase:randziffer>Rz. 19</lxbase:randziffer><lxbase:a>Um Eingriffe in das Buchungsverhalten zu vermeiden, aber dennoch
+einen möglichst hohen Grad an Standardisierung zu erreichen,
+sind im Datenschema der Taxonomie Abfangpositionen eingefügt
+(erkennbar durch die Formulierungen im beschreibenden Text "nicht
+zuordenbar" in der Positionsbezeichnung). Ein Steuerpflichtiger,
+der eine durch Mussfelder vorgegebene Differenzierung für
+einen bestimmten Sachverhalt nicht aus der Buchführung
+ableiten kann, kann zur Sicherstellung der rechnerischen Richtigkeit
+für die Übermittlung der Daten alternativ die
+Auffangpositionen nutzen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800015">VI. Ausnahmeregelungen
+für bestimmte Berichtsteile/Positionen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523352800016">1. Kapitalkontenentwicklung
+für Personenhandelsgesellschaften und andere Mitunternehmerschaften</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 20</lxbase:randziffer><lxbase:a>	Die in diesem Bereich als Mussfelder gekennzeichneten Positionen
+sind für eine verpflichtende Übermittlung erst
+für Wirtschaftsjahre vorgesehen, die nach dem 31. Dezember
+2014 (Übergangsphase) beginnen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 21</lxbase:randziffer><lxbase:a>	In der Übergangsphase werden die nach Gesellschaftergruppen
+zusammengefassten Mussfelder der Kapitalkontenentwicklung in der
+Bilanz erwartet, sofern keine Übermittlung im eigenen Teil "Kapitalkontenentwicklung
+für Personenhandelsgesellschaften und andere Mitunternehmerschaften" erfolgt.
+Wird in dieser Übergangsphase der eigene Berichtsbestandteil
+Kapitalkontenentwicklung dennoch eingereicht, so müssen
+in der Bilanz nur die Positionen der Ebene "Kapitalanteile
+der persönlich haftenden Gesellschafter" / "Kapitalanteile
+der Kommanditisten" verpflichtend übermittelt
+werden. Die untergeordneten Mussfelder können ohne Wert
+(NIL-Wert) übermittelt werden.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800017">2. Sonder- und Ergänzungsbilanzen
+bei Personenhandelsgesellschaften und anderen Mitunternehmerschaften</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 22</lxbase:randziffer><lxbase:a>	Sonder- und Ergänzungsbilanzen sind jeweils in gesonderten
+Datensätzen nach dem amtlich vorgeschriebenen Datensatz
+durch Datenfernübertragung zu übermitteln.</lxbase:a><lxbase:a>Für Wirtschaftsjahre, die vor dem 1. Januar 2015 enden,
+wird es nicht beanstandet, wenn Sonder- und Ergänzungsbilanzen
+in dem Freitextfeld "Sonder- und Ergänzungsbilanzen" im
+Berichtsbestandteil "Steuerliche Modifikationen" übermittelt
+werden.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800018">3. Abschreibungen auf
+immaterielle Vermögensgegenstände des Anlagevermögens
+und Sachanlagen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 23</lxbase:randziffer><lxbase:a>	Die Positionen in den Ebenen unter "Abschreibungen
+auf immaterielle Vermögensgegenstände des Anlagevermögens
+und Sachanlagen" können ohne Wert (NIL-Wert) übermittelt
+werden, wenn der Datensatz die Angaben in einem freiwillig übermittelten
+Anlagespiegel im XBRL-Format enthält.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800019">	VII. Überleitungsrechnung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 24</lxbase:randziffer><lxbase:a>	Wird ein handelsrechtlicher Einzelabschluss mit Überleitungsrechnung übermittelt,
+müssen die Positionen in den Berichtsbestandteilen Bilanz
+und Gewinn- und Verlustrechnung die handelsrechtlichen Positionen
+und jeweiligen Wertansätze enthalten. Die nach § 5b
+Absatz 1 Satz 2 EStG vorzunehmenden steuerrechtlichen Anpassungen
+aller Positionen (auf allen Ebenen), deren Ansätze und
+Beträge den steuerlichen Vorschriften nicht entsprechen,
+sind mit der Überleitungsrechnung der Taxonomie darzustellen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800020">VIII. Zusätzlich
+einzureichende Unterlagen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 25</lxbase:randziffer><lxbase:a>	Die zusätzlichen nach § 60 Abs. 3 EStDV der
+Steuererklärung beizufügenden Unterlagen können
+in den entsprechenden Berichtsteilen der Taxonomie durch Datenfernübertragung übermittelt
+werden.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800021">IX. Zeitliche Anwendung
+des § 5b EStG</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523352800022">1. Anwendung (Nichtbeanstandungsregelung
+für 2012)</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 26</lxbase:randziffer><lxbase:a>	§ 5b EStG ist erstmals für Wirtschaftsjahre
+anzuwenden, die nach dem 31. Dezember 2011 beginnen (§ 52
+Absatz 15a EStG i. V. m. § 1 der AnwZpvV). Grundsätzlich
+sind die Inhalte der Bilanz und Gewinn- und Verlustrechnung für Wirtschaftsjahre,
+die nach dem 31. Dezember 2011 beginnen, durch Datenfernübertragung
+zu übermitteln. Die unter Rn. 7, 20 und 22 vorgesehenen Übergangsregelungen
+bleiben hiervon unberührt.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 27</lxbase:randziffer><lxbase:a>	Für das erste Wirtschaftsjahr, das nach dem 31. Dezember
+2011 beginnt, wird es von der Finanzverwaltung nicht beanstandet,
+wenn die Bilanz und die Gewinn- und Verlustrechnung für
+dieses Jahr noch nicht gemäß § 5b EStG
+nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung übermittelt werden.
+Eine Bilanz sowie die Gewinn- und Verlustrechnung können
+in diesen Fällen in Papierform abgegeben werden; eine Gliederung
+gemäß der Taxonomie ist dabei nicht erforderlich.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800023">2. Aktualisierung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 28</lxbase:randziffer><lxbase:a>	Die Taxonomie wird regelmäßig auf notwendige
+Aktualisierungen geprüft und gegebenenfalls um Branchentaxonomien
+erweitert. Wird eine aktuellere Taxonomie veröffentlicht,
+ist diese unter Angabe des Versionsdatums zu verwenden. Es wird
+in jeder Aktualisierungsversion sichergestellt, dass eine Übermittlung auch
+für frühere Wirtschaftsjahre möglich
+ist.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 29</lxbase:randziffer><lxbase:a>	Eine Taxonomie ist solange zu verwenden, bis eine aktualisierte
+Taxonomie veröffentlicht wird.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800024">X. Härtefallregelung
+nach § 5b Absatz 2 Satz 2 EStG</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 30</lxbase:randziffer><lxbase:a>	Hinsichtlich der allgemeinen Härtefallregelung gemäß § 5b
+Absatz 2 Satz 2 EStG i. V. m. § 150 Absatz 8 AO wird auf
+die Rn. 3 des BMF-Schreibens vom 19. Januar 2010 - <lxprod:doknr-verw linkend="HT5232502">IV C 6 - S 2133-b/0</lxprod:doknr-verw>
+- BStBl I, S. 47) hingewiesen.</lxbase:a><lxbase:a>Dieses Schreiben ersetzt das Schreiben vom 16. Dezember 2010, <lxprod:doknr-verw linkend="HT5233059">IV
+C 6 - S 2133-b/10/10001</lxprod:doknr-verw>
+ , 2010/1012271.</lxbase:a><lxbase:a><lxbase:unterst>Zusatz der OFD Frankfurt am Main v. 7. 1. 2014:</lxbase:unterst></lxbase:a><lxbase:a>Eine aktualisierte Auflistung der "FAQ's",
+d. h. der häufig gestellten Fragen zur elektronischen Übermittlung
+von Bilanzen und Gewinn- und Verlustrechnungen sowie Taxonmien und
+Spezialtaxonomien sowie die einschlägigen BMF-Schreiben
+sind unter <lxprod:www-verw linkend="http://www.esteuer.de" ziel-lizenzen="25 30 31">www.esteuer.de</lxprod:www-verw>
+ im
+Internet abrufbar.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523352800025">Anlage zu Rn. 11</lxbase:ueberschrift><lxbase:a>Ausgestaltung der Taxonomie</lxbase:a><lxbase:a>Das für steuerliche Zwecke angepasste Datenschema basiert
+auf der aktuellen HGB-Taxonomie 4.1 vom 8. Februar 2011 und enthält
+die Bilanzposten und Gewinn- und Verlustpositionen des amtlichen
+Datensatzes nach § 5b EStG.</lxbase:a><lxbase:a>Es umfasst ein Stammdaten-Modul ("GCD-Modul")
+und ein Jahresabschluss-Modul ("GAAP-Modul"):</lxbase:a><lxbase:a>Das "GCD"-Modul enthält ein Datenschema
+zur Übermittlung von </lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>Dokumentinformationen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Informationen zum Bericht und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Informationen zum Unternehmen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Das "GAAP"-Modul enthält ein Datenschema
+zur Übermittlung der gebräuchlichen Berichtsbestandteile
+für Unternehmen aller Rechtsformen und Größenordnungen.
+Folgende Berichtsbestandteile können zur Übermittlung
+genutzt werden:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>Bilanz,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Haftungsverhältnisse,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Gewinn und Verlustrechnung in den Varianten Gesamtkosten-
+und Umsatzkostenverfahren,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Ergebnisverwendungsrechnung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Kapitalkontenentwicklung für Personenhandelsgesellschaften / Mitunternehmerschaften,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Eigenkapitalspiegel,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Kapitalflussrechnung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Anhang,</lxbase:a><lxbase:a>Anlagespiegel,</lxbase:a><lxbase:a>diverse Felder zur Aufnahme von textlichen Informationen </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Lagebericht,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>steuerliche Modifikationen (Überleitungsrechnung
+der Wertansätze aus der Handelsbilanz zur Steuerbilanz
+und Zusatzangaben),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Bericht des Aufsichtsrats, Beschlüsse und
+zugehörige Erklärungen. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Detailinformationen zu Positionen (Kontensalden zu
+einer Position)</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Zusätzlich enthält das Datenschema alternativ
+verwendbare weitere Bestandteile, wie etwa die beiden Formen der
+Gewinn- und Verlustrechnung: Gesamtkostenverfahren und Umsatz- kostenverfahren.</lxbase:a><lxbase:a>Auf dieser Grundlage ermöglicht das Datenschema der
+Taxonomie die elektronische Übermittlung des Inhalts der
+Bilanz und Gewinn- und Verlustrechnung an die Finanzverwaltung nach
+amtlich vorgeschriebenem Datensatz. Neben dem Stammdaten-Modul ("GCD"-Modul)
+sind aus dem Jahresabschluss-Modul ("GAAP"-Modul)
+insbesondere die Berichtsbestandteile</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>Bilanz,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Gewinn- und Verlustrechnung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Ergebnisverwendung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Kapitalkontenentwicklung für Personenhandelsgesellschaften
+(und andere Mitunternehmerschaften),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>steuerliche Gewinnermittlung (für Einzelunternehmen
+und Personengesellschaften), </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>steuerliche Gewinnermittlung bei Personengesellschaften,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>steuerliche Gewinnermittlung für besondere
+Fälle (u. a. steuerliche Gewinnermittlung bei Betrieben
+gewerblicher Art und wirtschaftlichem Geschäftsbetrieb),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>steuerliche Modifikationen (insbes. Umgliederung / Überleitungsrechnung).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a> Detailinformationen zu Positionen (Kontensalden zu
+einer Position)</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>zu übermitteln.</lxbase:a><lxbase:a>Die daneben existierenden Berichtsbestandteile können
+zur freiwilligen elektronischen Übermittlung von weiteren
+Informationen genutzt werden (z. B. der von der Finanzverwaltung
+in der Regel benötigte Anlagespiegel im Anhang).</lxbase:a><lxbase:a><lxbase:unterst>Hinweis: </lxbase:unterst></lxbase:a><lxbase:a>Einige Positionen des Anhangs enthalten Mussfeld-Vermerke. Hierbei
+handelt es sich um Positionen der Bilanz mit Mussfeldeigenschaft,
+die technisch in den Anhang gespiegelt wurden. Dies führt
+nicht zur Übermittlungspflicht des Anhangs.</lxbase:a><lxbase:a>Es besteht für den Steuerpflichtigen gem. § 5b
+Absatz 1 EStG die Möglichkeit, den Inhalt des handelsrechtlichen
+Einzelabschlusses mit Überleitungsrechnung oder alternativ
+eine Steuerbilanz zu übermitteln. Die Steuerbilanz stellt
+in diesem Fall eine auf den handelsrechtlichen Grundsätzen
+ordnungsmäßiger Bilanzierung beruhende Bilanz
+dar, deren Ansätze ohne weitere Zusätze und Anmerkungen
+den steuerlichen Vorschriften entsprechen.</lxbase:a><lxbase:a><lxbase:fett>Rechenregeln (calculation link base)</lxbase:fett></lxbase:a><lxbase:a>Der Datensatz muss anhand der in der Taxonomie enthaltenen Rechenregeln auf
+seine rechnerische Richtigkeit hin überprüft werden.
+Diese Rechenregeln sind dem Datenschema direkt zu entnehmen. Soweit
+in der Taxonomie Positionen rechnerisch verknüpft sind,
+müssen die übermittelten Werte diesen Rechenregeln
+genügen. Datensätze, die den Rechenregeln nicht
+entsprechen, werden zurückgewiesen. Die Bilanz und die
+Gewinn- und Verlustrechnung gelten in diesen Fällen als
+nicht übermittelt.</lxbase:a><lxbase:a><lxbase:fett>"davon-Positionen"</lxbase:fett></lxbase:a><lxbase:a>Soweit in der Taxonomie Positionen nicht rechnerisch zur jeweiligen
+Oberposition verknüpft sind (erkennbar daran, dass eine
+entsprechende rechnerische Verknüpfung im Datenschema nicht
+enthalten ist), handelt es sich um so genannte "davon-Positionen".
+Diese Positionen enthalten in der Positionsbezeichnung das Wort "davon".
+Dementsprechend werden Rechenregeln nicht geprüft.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Info</lxbase:rthema><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Info</lxbase:rthema><lxbase:rthema>ELWI-REWE</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:boost ts="ja"><lxbase:a>E-Bilanz, Elektronische Bilanz - Übermittlung
+von Bilanzdaten</lxbase:a></lxbase:boost><lxbase:uuthemen><lxbase:thema>Weitergeltung Normenflut</lxbase:thema></lxbase:uuthemen><lxbase:newsrelevant datum="2011-09-30" /><lxbase:newsgebiete><lxbase:newsgebiet>Reformen</lxbase:newsgebiet></lxbase:newsgebiete><lxbase:newsletterlex><lxbase:newsletterrelevant relevant="ja" ausgabe="201139" /><lxbase:newsletter-text><lxbase:a> Nach § 5b EStG besteht für Steuerpflichtige,
+die ihren Gewinn nach § 4 Absatz 1, § 5 oder § 5a
+EStG ermitteln, die Verpflichtung, den Inhalt der Bilanz sowie der
+Gewinn- und Verlustrechnung nach amtlich vorgeschriebenem Datensatz durch
+Datenfernübertragung zu übermitteln. Nach § 51
+Absatz 4 Nummer 1b EStG ist das Bundesministerium der Finanzen ermächtigt,
+im Einvernehmen mit den obersten Finanzbehörden der Länder
+den Mindestumfang der elektronisch zu übermittelnden Bilanzen
+und Gewinn- und Verlustrechnung zu bestimmen.</lxbase:a><lxbase:a>Das Bundesministerium der Finanzen hat zur elektronischen Übermittlung
+von Bilanzen sowie Gewinn- und Verlustrechnungen Stellung genommen
+und ein Anwendungsschreiben zur E-Bilanz veröffentlicht.</lxbase:a></lxbase:newsletter-text></lxbase:newsletterlex></lxbase:allgemeine-angaben></lxrvw:rspvwa>

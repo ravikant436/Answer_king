@@ -1,0 +1,1228 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrno:rechtsnorm xmlns:lxrno="http://xml.datev.de/lexinform/cms/rechtsnorm/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dok-nummer="6408375" dok-art="Gesetzestext (Gesamttext)" dok-typ="Rechtsnorm" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rechtsnorm/v01  file:////LEXinformRedaktion/XML/Schema/rechtsnorm/v01/lexrno.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Gesetzgeber</lxbase:institution></lxbase:autor><lxbase:norm-id>StBGebV:konsolidiert</lxbase:norm-id><lxbase:lizenzen2><lxbase:lizenz2 name="Gesetze" id="09" /><lxbase:lizenz2 name="Elwi-Stap" id="23" /><lxbase:lizenz2 name="Anwalt" id="82" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2008-04-08" /><lxbase:inkraft normdat="2008-04-12" /><lxbase:ausserkraft normdat="2012-12-20" /><lxbase:bekanntmachung normdat="1981-12-17" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BGBl-2008-I-0666</lxbase:fs-kuerzel><lxbase:fs-kuerzel>BGBl-1981-I-1442</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>StBGebV:konsolidiert</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:normen-k><lxbase:norm-k>StBGebV:1</lxbase:norm-k><lxbase:norm-k>StBGebV:2</lxbase:norm-k><lxbase:norm-k>StBGebV:3</lxbase:norm-k><lxbase:norm-k>StBGebV:4</lxbase:norm-k><lxbase:norm-k>StBGebV:5</lxbase:norm-k><lxbase:norm-k>StBGebV:6</lxbase:norm-k><lxbase:norm-k>StBGebV:7</lxbase:norm-k><lxbase:norm-k>StBGebV:8</lxbase:norm-k><lxbase:norm-k>StBGebV:9</lxbase:norm-k><lxbase:norm-k>StBGebV:10</lxbase:norm-k><lxbase:norm-k>StBGebV:11</lxbase:norm-k><lxbase:norm-k>StBGebV:12</lxbase:norm-k><lxbase:norm-k>StBGebV:13</lxbase:norm-k><lxbase:norm-k>StBGebV:14</lxbase:norm-k><lxbase:norm-k>StBGebV:15</lxbase:norm-k><lxbase:norm-k>StBGebV:16</lxbase:norm-k><lxbase:norm-k>StBGebV:17</lxbase:norm-k><lxbase:norm-k>StBGebV:18</lxbase:norm-k><lxbase:norm-k>StBGebV:19</lxbase:norm-k><lxbase:norm-k>StBGebV:20</lxbase:norm-k><lxbase:norm-k>StBGebV:21</lxbase:norm-k><lxbase:norm-k>StBGebV:22</lxbase:norm-k><lxbase:norm-k>StBGebV:23</lxbase:norm-k><lxbase:norm-k>StBGebV:24</lxbase:norm-k><lxbase:norm-k>StBGebV:25</lxbase:norm-k><lxbase:norm-k>StBGebV:26</lxbase:norm-k><lxbase:norm-k>StBGebV:27</lxbase:norm-k><lxbase:norm-k>StBGebV:28</lxbase:norm-k><lxbase:norm-k>StBGebV:29</lxbase:norm-k><lxbase:norm-k>StBGebV:30</lxbase:norm-k><lxbase:norm-k>StBGebV:31</lxbase:norm-k><lxbase:norm-k>StBGebV:32</lxbase:norm-k><lxbase:norm-k>StBGebV:33</lxbase:norm-k><lxbase:norm-k>StBGebV:34</lxbase:norm-k><lxbase:norm-k>StBGebV:35</lxbase:norm-k><lxbase:norm-k>StBGebV:36</lxbase:norm-k><lxbase:norm-k>StBGebV:37</lxbase:norm-k><lxbase:norm-k>StBGebV:38</lxbase:norm-k><lxbase:norm-k>StBGebV:39</lxbase:norm-k><lxbase:norm-k>StBGebV:40</lxbase:norm-k><lxbase:norm-k>StBGebV:41</lxbase:norm-k><lxbase:norm-k>StBGebV:42</lxbase:norm-k><lxbase:norm-k>StBGebV:43</lxbase:norm-k><lxbase:norm-k>StBGebV:44</lxbase:norm-k><lxbase:norm-k>StBGebV:45</lxbase:norm-k><lxbase:norm-k>StBGebV:46</lxbase:norm-k><lxbase:norm-k>StBGebV:47</lxbase:norm-k><lxbase:norm-k>StBGebV:47a</lxbase:norm-k><lxbase:norm-k>StBGebV:48</lxbase:norm-k><lxbase:norm-k>StBGebV:49</lxbase:norm-k></lxbase:normen-k><lxbase:jahre><lxbase:jahr jahr="2008" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrno:norm-text><lxbase:titel><lxbase:headline><lxbase:a>Steuerberatergebührenverordnung (StBGebV)
+(gültig ab 12.04.2008 bis 19.12.2012)</lxbase:a></lxbase:headline></lxbase:titel><lxbase:prolog><lxbase:a>geändert durch Achtes Gesetz zur Änderung des Steuerberatungsgesetzes
+vom 8.4.2008 (<lxbase:lit-fs normform="BGBl-2008-I-0666" manuell="nein">BGBl I S. 666</lxbase:lit-fs>).
+Betroffene Vorschriften: 40</lxbase:a><lxbase:a>geändert durch Jahressteuergesetz 2007 (JStG 2007) vom
+13.12.2006 (<lxbase:lit-fs normform="BGBl-2006-I-2878" manuell="nein">BGBl I S. 2878</lxbase:lit-fs>). Betroffene
+Vorschriften: 3, 4, 6, 9, 11, 13, 14, 16, 17, 18, 21, 23, 24, 25,
+26, 29, 31, 35, 36, 40, 41, 42, 43, 44</lxbase:a><lxbase:a>geändert durch Gesetz zur Modernisierung des Kostenrechts
+(Kostenrechtsmodernisierungsgesetz – KostRMoG) vom 5.5.2004 (<lxbase:lit-fs normform="BGBl-2004-I-0718" manuell="nein">BGBl I S. 718</lxbase:lit-fs>).
+Betroffene Vorschriften: 45, 46</lxbase:a><lxbase:a>geändert durch Gesetz zur Umstellung des Kostenrechts
+und der Steuerberatergebührenverordnung auf Euro (KostREuroUG) vom
+27.4.2001 (<lxbase:lit-fs normform="BGBl-2001-I-0751" manuell="nein">BGBl
+I S. 751</lxbase:lit-fs>). Betroffene Vorschriften: 3, 13, 16, 18,
+21, 24, 25, 27, 34, 35, 39</lxbase:a><lxbase:a>geändert durch Dritte Verordnung zur Änderung der Steuerberatergebührenverordnung vom
+20.8.1998 (<lxprod:doknr-verw linkend="HT0115264">BGBl
+I S. 2369</lxprod:doknr-verw>)</lxbase:a></lxbase:prolog><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500001"><lxbase:a>Erster Abschnitt: Allgemeine Vorschriften</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500002"><lxbase:a>§ 1 Anwendungsbereich</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500005"><lxbase:a>§ 2 Sinngemäße Anwendung der Verordnung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500006"><lxbase:a>§ 3 Mindestgebühr, Auslagen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500010"><lxbase:a>§ 4 Vereinbarung der Vergütung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500013"><lxbase:a>§ 5 Mehrere Steuerberater</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500014"><lxbase:a>§ 6 Mehrere Auftraggeber</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500017"><lxbase:a>§ 7 Fälligkeit</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500018"><lxbase:a>§ 8 Vorschuß</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500019"><lxbase:a>§ 9 Berechnung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500023"><lxbase:a>Zweiter Abschnitt: Gebührenberechnung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500024"><lxbase:a>§ 10 Wertgebühren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500027"><lxbase:a>§ 11 Rahmengebühren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500028"><lxbase:a>§ 12 Abgeltungsbereich der Gebühren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500035"><lxbase:a>§ 13 Zeitgebühr</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500036"><lxbase:a>§ 14 Pauschalvergütung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500040"><lxbase:a>Dritter Abschnitt: Umsatzsteuer, Ersatz von Auslagen</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500041"><lxbase:a>§ 15 Umsatzsteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500042"><lxbase:a>§ 16 Entgelte für Post- und Telekommunikationsdienstleistungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500043"><lxbase:a>§ 17 Dokumentenpauschale</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500046"><lxbase:a>§ 18 Geschäftsreisen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500050"><lxbase:a>§ 19 Reisen zur Ausführung mehrerer Geschäfte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500051"><lxbase:a>§ 20 Verlegung der beruflichen Niederlassung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500052"><lxbase:a>Vierter Abschnitt: Gebühren für die Beratung und für die
+Hilfeleistung bei der Erfüllung allgemeiner Steuerpflichten</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500053"><lxbase:a>§ 21 Rat, Auskunft, Erstberatung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500056"><lxbase:a>§ 22 Gutachten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500057"><lxbase:a>§ 23 Sonstige Einzeltätigkeiten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500058"><lxbase:a>§ 24 Steuererklärungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500063"><lxbase:a>§ 25 Ermittlung des Überschusses der Betriebseinnahmen
+über die Betriebsausgaben</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500068"><lxbase:a>§ 26 Ermittlung des Gewinns aus Land- und Forstwirtschaft
+nach Durchschnittsätzen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500071"><lxbase:a>§ 27 Ermittlung des Überschusses der Einnahmen über die
+Werbungskosten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500075"><lxbase:a>§ 28 Prüfung von Steuerbescheiden</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500076"><lxbase:a>§ 29 Teilnahme an Prüfungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500077"><lxbase:a>§ 30 Selbstanzeige</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500078"><lxbase:a>§ 31 Besprechungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500081"><lxbase:a>Fünfter Abschnitt: Gebühren für die Hilfeleistung bei
+der Erfüllung steuerlicher Buchführungs- und Aufzeichnungspflichten</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500082"><lxbase:a>§ 32 Einrichtung einer Buchführung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500083"><lxbase:a>§ 33 Buchführung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500092"><lxbase:a>§ 34 Lohnbuchführung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500099"><lxbase:a>§ 35 Abschlußarbeiten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500103"><lxbase:a>§ 36 Steuerliches Revisionswesen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500106"><lxbase:a>§ 37 Vermögensstatus, Finanzstatus für steuerliche Zwecke</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500107"><lxbase:a>§ 38 Erteilung von Bescheinigungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500110"><lxbase:a>§ 39 Buchführungs- und Abschlußarbeiten für land- und
+forstwirtschaftliche Betriebe</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500118"><lxbase:a>Sechster Abschnitt: Gebühren für die Vertretung im außergerichtlichen
+Rechtsbehelfsverfahren und im Verwaltungsvollstreckungsverfahren</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500119"><lxbase:a>§ 40 Verfahren vor den Verwaltungsbehörden</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500128"><lxbase:a>§ 41 (aufgehoben)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500129"><lxbase:a>§ 42 (aufgehoben)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500130"><lxbase:a>§ 43 (aufgehoben)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500131"><lxbase:a>§ 44 Verwaltungsvollstreckungsverfahren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500132"><lxbase:a>Siebenter Abschnitt: Gerichtliche und andere Verfahren</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500133"><lxbase:a>§ 45 Vergütung in gerichtlichen und anderen Verfahren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500134"><lxbase:a>§ 46 Vergütung bei Prozeßkostenhilfe</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500135"><lxbase:a>Achter Abschnitt: Übergangs- und Schlußvorschriften</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500136"><lxbase:a>§ 47 Anwendung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500139"><lxbase:a>§ 47a Übergangsvorschrift für Änderungen dieser Verordnung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500140"><lxbase:a>§ 48 (gegenstandslos)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500141"><lxbase:a>§ 49 Inkrafttreten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500142"><lxbase:a>Anlage 1: Tabelle A (Beratungstabelle)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500143"><lxbase:a>Anlage 2: Tabelle B (Abschlusstabelle)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500144"><lxbase:a>Anlage 3: Tabelle C (Buchführungstabelle)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500145"><lxbase:a>Anlage 4: Tabelle D Teil a (Landwirtschaftliche Tabelle
+– Betriebsfläche)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500146"><lxbase:a>Anlage 4: Tabelle D Teil b (Landwirtschaftliche Tabelle
+– Jahresumsatz)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D640837500147"><lxbase:a>Anlage 5: Tabelle E (Rechtsbehelfstabelle)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxrno:kapitel><lxbase:ueberschrift id="D640837500001">Erster
+Abschnitt: Allgemeine Vorschriften</lxbase:ueberschrift><lxrno:kapitel><lxbase:ueberschrift id="D640837500002" apn="StBGebV:1">§
+1 StBGebV Anwendungsbereich</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500003"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Vergütung (Gebühren und Auslagenersatz)
+des Steuerberaters für seine selbständig ausgeübte Berufstätigkeit
+(§ 33 des Gesetzes) bemißt sich nach dieser Verordnung.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500004"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Vergütung der Steuerbevollmächtigten
+und der Steuerberatungsgesellschaften gelten die Vorschriften über
+die Vergütung der Steuerberater entsprechend.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500005" apn="StBGebV:2">§
+2 StBGebV Sinngemäße Anwendung der Verordnung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Ist in dieser Verordnung über die Gebühren für
+eine Berufstätigkeit des Steuerberaters nichts bestimmt, so sind
+die Gebühren in sinngemäßer Anwendung der Vorschriften dieser Verordnung
+zu bemessen.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500006" apn="StBGebV:3">§
+3 StBGebV Mindestgebühr, Auslagen </lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500007"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Mindestbetrag einer Gebühr ist 10 Euro.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500008"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Mit den Gebühren werden auch die allgemeinen
+Geschäftskosten entgolten.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500009"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Anspruch auf Zahlung der auf die Vergütung
+entfallenden Umsatzsteuer und auf Ersatz für Post- und Telekommunikationsdienstleistungen
+zu zahlende Entgelte, der Dokumentenpauschale und der Reisekosten
+bestimmt sich nach den § <lxbase:intern-verw idref="D640837500041">§
+15</lxbase:intern-verw> bis <lxbase:intern-verw idref="D640837500051">20</lxbase:intern-verw>.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500010" apn="StBGebV:4">§
+4 StBGebV Vereinbarung der Vergütung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500011"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Aus einer Vereinbarung kann der Steuerberater
+eine höhere als die gesetzliche Vergütung nur fordern, wenn die
+Erklärung des Auftraggebers schriftlich abgegeben und nicht in der
+Vollmacht enthalten ist. <lxbase:satz nummer="2" /> Ist das Schriftstück
+nicht vom Auftraggeber verfasst, muss es als Vergütungsvereinbarung
+bezeichnet und die Vergütungsvereinbarung von anderen Vereinbarungen
+deutlich abgesetzt sein; Art und Umfang des Auftrags sind zu bezeichnen. <lxbase:satz nummer="3" /> Hat der Auftraggeber freiwillig und ohne Vorbehalt
+geleistet, kann er das Geleistete nicht deshalb zurückfordern, weil
+seine Erklärung den Vorschriften der Sätze 1 und 2 nicht entspricht.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500012"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Ist eine vereinbarte Vergütung unter Berücksichtigung
+aller Umstände unangemessen hoch, so kann sie im Rechtsstreit auf
+den angemessenen Betrag bis zur Höhe der sich aus dieser Verordnung
+ergebenden Vergütung herabgesetzt werden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500013" apn="StBGebV:5">§
+5 StBGebV Mehrere Steuerberater</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Ist die Angelegenheit mehreren Steuerberatern
+zur gemeinschaftlichen Erledigung übertragen, so erhält jeder Steuerberater
+für seine Tätigkeit die volle Vergütung.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500014" apn="StBGebV:6">§
+6 StBGebV Mehrere Auftraggeber</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500015"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Wird der Steuerberater in derselben Angelegenheit
+für mehrere Auftraggeber tätig, so erhält er die Gebühren nur einmal.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500016"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Jeder Auftraggeber schuldet dem Steuerberater
+die Gebühren und Auslagen, die er schulden würde, wenn der Steuerberater
+nur in seinem Auftrag tätig geworden wäre. <lxbase:satz nummer="2" /> Der
+Steuerberater kann aber insgesamt nicht mehr als die Gebühr nach
+Absatz 1 fordern, die in den Fällen des <lxbase:intern-verw idref="D640837500124">§ 40 Abs. 5</lxbase:intern-verw> nach
+Maßgabe dieser Vorschrift zu berechnen ist; die Auslagen kann er
+nur einmal fordern.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500017" apn="StBGebV:7">§
+7 StBGebV Fälligkeit</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Die Vergütung des Steuerberaters wird fällig,
+wenn der Auftrag erledigt oder die Angelegenheit beendigt ist.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500018" apn="StBGebV:8">§
+8 StBGebV Vorschuß</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater kann von seinem Auftraggeber
+für die entstandenen und die voraussichtlich entstehenden Gebühren
+und Auslagen einen angemessenen Vorschuß fordern.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500019" apn="StBGebV:9">§
+9 StBGebV Berechnung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500020"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater kann die Vergütung nur auf
+Grund einer von ihm unterzeichneten und dem Auftraggeber mitgeteilten
+Berechnung einfordern. <lxbase:satz nummer="2" /> Der Lauf der
+Verjährungsfrist ist von der Mitteilung der Berechnung nicht abhängig.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500021"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> In der Berechnung sind die Beträge der einzelnen
+Gebühren und Auslagen, die Vorschüsse, eine kurze Bezeichnung des
+jeweiligen Gebührentatbestands, die Bezeichnung der Auslagen sowie
+die angewandten Vorschriften dieser Gebührenverordnung und bei Wertgebühren
+auch der Gegenstandswert anzugeben.  <lxbase:satz nummer="2" /> Nach
+demselben Stundensatz berechnete Zeitgebühren können zusammengefaßt
+werden. <lxbase:satz nummer="3" /> Bei Entgelten für Post- und Telekommunikationsdienstleistungen
+genügt die Angabe des Gesamtbetrages.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500022"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Hat der Auftraggeber die Vergütung gezahlt,
+ohne die Berechnung erhalten zu haben, so kann er die Mitteilung
+der Berechnung noch fordern, solange der Steuerberater zur Aufbewahrung
+der Handakten verpflichtet ist.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500023">Zweiter
+Abschnitt: Gebührenberechnung</lxbase:ueberschrift><lxrno:kapitel><lxbase:ueberschrift id="D640837500024" apn="StBGebV:10">§
+10 StBGebV Wertgebühren</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500025"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Wertgebühren bestimmen sich nach den der
+Verordnung als Anlage beigefügten Tabellen A bis E. <lxbase:satz nummer="2" /> Sie werden nach dem Wert berechnet, den der
+Gegenstand der beruflichen Tätigkeit hat. <lxbase:satz nummer="3" /> Maßgebend
+ist, soweit diese Verordnung nichts anderes bestimmt, der Wert des
+Interesses.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500026"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> In derselben Angelegenheit werden die Werte
+mehrerer Gegenstände zusammengerechnet; dies gilt nicht für die
+in den § <lxbase:intern-verw idref="D640837500058">§ 24</lxbase:intern-verw> bis
+ <lxbase:intern-verw idref="D640837500071">27</lxbase:intern-verw>,
+<lxbase:intern-verw idref="D640837500077">30</lxbase:intern-verw>,
+<lxbase:intern-verw idref="D640837500099">35</lxbase:intern-verw> und
+<lxbase:intern-verw idref="D640837500106">37</lxbase:intern-verw> bezeichneten
+Tätigkeiten.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500027" apn="StBGebV:11">§
+11 StBGebV Rahmengebühren</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Ist für die Gebühren ein Rahmen vorgesehen,
+so bestimmt der Steuerberater die Gebühr im Einzelfall unter Berücksichtigung
+aller Umstände, vor allem des Umfangs und der Schwierigkeit der
+beruflichen Tätigkeit, der Bedeutung der Angelegenheit sowie der
+Einkommens- und Vermögensverhältnisse des Auftraggebers, nach billigem
+Ermessen. <lxbase:satz nummer="2" /> Ein besonderes Haftungsrisiko
+des Steuerberaters kann bei der Bemessung herangezogen werden. <lxbase:satz nummer="3" /> Bei Rahmengebühren, die sich nicht nach dem
+Gegenstandswert richten, ist das Haftungsrisiko zu berücksichtigen. <lxbase:satz nummer="4" /> Ist die Gebühr von einem Dritten zu ersetzen,
+ist die von dem Steuerberater getroffene Bestimmung nicht verbindlich,
+wenn sie unbillig ist.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500028" apn="StBGebV:12">§
+12 StBGebV Abgeltungsbereich der Gebühren</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500029"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Gebühren entgelten, soweit diese Verordnung
+nichts anderes bestimmt, die gesamte Tätigkeit des Steuerberaters
+vom Auftrag bis zur Erledigung der Angelegenheit.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500030"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater kann die Gebühren in derselben
+Angelegenheit nur einmal fordern.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500031"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Sind für Teile des Gegenstands verschiedene
+Gebührensätze anzuwenden, so erhält der Steuerberater für die Teile
+gesondert berechnete Gebühren, jedoch nicht mehr als die aus dem
+Gesamtbetrag der Wertteile nach dem höchsten Gebührensatz berechnete
+Gebühr.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500032"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Auf bereits entstandene Gebühren ist es, soweit
+diese Verordnung nichts anderes bestimmt, ohne Einfluß, wenn sich
+die Angelegenheit vorzeitig erledigt oder der Auftrag endigt, bevor
+die Angelegenheit erledigt ist.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500033"><lxrno:nummer>5</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Wird der Steuerberater, nachdem er in einer
+Angelegenheit tätig geworden war, beauftragt, in derselben Angelegenheit
+weiter tätig zu werden, so erhält er nicht mehr an Gebühren, als
+er erhalten würde, wenn er von vornherein hiermit beauftragt worden wäre.
+ <lxbase:satz nummer="2" /> Ist der frühere Auftrag seit mehr
+als zwei Kalenderjahren erledigt, gilt die weitere Tätigkeit als
+neue Angelegenheit.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500034"><lxrno:nummer>6</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Ist der Steuerberater nur mit einzelnen Handlungen
+beauftragt, so erhält er nicht mehr an Gebühren, als der mit der
+gesamten Angelegenheit beauftragte Steuerberater für die gleiche
+Tätigkeit erhalten würde.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500035" apn="StBGebV:13">§
+13 StBGebV Zeitgebühr</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Die Zeitgebühr ist zu berechnen</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. in den Fällen, in denen diese Verordnung
+dies vorsieht,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. wenn keine genügenden Anhaltspunkte
+für eine Schätzung des Gegenstandswerts vorliegen; dies gilt nicht
+für Tätigkeiten nach <lxbase:intern-verw idref="D640837500057">§
+23</lxbase:intern-verw> sowie für die Vertretung im außergerichtlichen
+Rechtsbehelfsverfahren ( <lxbase:intern-verw idref="D640837500119">§
+40</lxbase:intern-verw>), im Verwaltungsvollstreckungsverfahren
+( <lxbase:intern-verw idref="D640837500131">§ 44</lxbase:intern-verw>)
+und in gerichtlichen und anderen Verfahren (§ <lxbase:intern-verw idref="D640837500133">§ 45</lxbase:intern-verw>, <lxbase:intern-verw idref="D640837500134">46</lxbase:intern-verw>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="2" /> Sie beträgt 19 Euro bis 46 Euro je angefangene
+halbe Stunde.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500036" apn="StBGebV:14">§
+14 StBGebV Pauschalvergütung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500037"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für einzelne oder mehrere für denselben Auftraggeber
+laufend auszuführende Tätigkeiten kann der Steuerberater eine Pauschalvergütung
+vereinbaren.  <lxbase:satz nummer="2" /> Die Vereinbarung ist schriftlich
+und für einen Zeitraum von mindestens einem Jahr zu treffen. <lxbase:satz nummer="3" /> In der Vereinbarung sind die vom Steuerberater
+zu übernehmenden Tätigkeiten und die Zeiträume, für die sie geleistet
+werden, im einzelnen aufzuführen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500038"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Vereinbarung einer Pauschalvergütung ist
+ausgeschlossen für</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. die Anfertigung nicht mindestens jährlich
+wiederkehrender Steuererklärungen;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. die Ausarbeitung von schriftlichen
+Gutachten ( <lxbase:intern-verw idref="D640837500056">§ 22</lxbase:intern-verw>);</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. die in <lxbase:intern-verw idref="D640837500057">§ 23</lxbase:intern-verw> genannten
+Tätigkeiten;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. die Teilnahme an Prüfungen ( <lxbase:intern-verw idref="D640837500076">§ 29</lxbase:intern-verw>);</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. die Beratung und Vertretung im außergerichtlichen
+Rechtsbehelfsverfahren ( <lxbase:intern-verw idref="D640837500119">§
+40</lxbase:intern-verw>), im Verwaltungsvollstreckungsverfahren
+( <lxbase:intern-verw idref="D640837500131">§ 44</lxbase:intern-verw>)
+und in gerichtlichen und anderen Verfahren ( <lxbase:intern-verw idref="D640837500133">§ 45</lxbase:intern-verw>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D640837500039"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Gebührenanteil der Pauschalvergütung muß
+in einem angemessenen Verhältnis zur Leistung des Steuerberaters
+stehen.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500040">Dritter
+Abschnitt: Umsatzsteuer, Ersatz von Auslagen</lxbase:ueberschrift><lxrno:kapitel><lxbase:ueberschrift id="D640837500041" apn="StBGebV:15">§
+15 StBGebV Umsatzsteuer</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Der Vergütung ist die Umsatzsteuer hinzuzurechnen,
+die nach § 12 des Umsatzsteuergesetzes auf die Tätigkeit entfällt. <lxbase:satz nummer="2" /> Dies gilt nicht, wenn die Umsatzsteuer nach
+§ 19 Abs. 1 des Umsatzsteuergesetzes unerhoben bleibt.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500042" apn="StBGebV:16">§
+16 StBGebV Entgelte für Post- und Telekommunikationsdienstleistungen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater hat Anspruch auf Ersatz der
+bei der Ausführung des Auftrags für Post- und Telekommunikationsdienstleistungen
+zu zahlenden Entgelte. <lxbase:satz nummer="2" /> Er kann nach seiner
+Wahl an Stelle der tatsächlich entstandenen Kosten einen Pauschsatz
+fordern, der 20 Prozent der sich nach dieser Verordnung ergebenden
+Gebühren beträgt, in derselben Angelegenheit jedoch höchstens 20
+Euro.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500043" apn="StBGebV:17">§
+17 StBGebV Dokumentenpauschale</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500044"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater erhält eine Dokumentenpauschale</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. für Ablichtungen</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+aus Behörden- und Gerichtsakten, soweit deren Herstellung zur sachgerechten Bearbeitung
+der Angelegenheit geboten war,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) zur Mitteilung an Gegner oder Beteiligte
+und Verfahrensbevollmächtigte auf Grund einer Rechtsvorschrift oder
+nach Aufforderung durch das Gericht, die Behörde oder die sonst
+das Verfahren führende Stelle, soweit hierfür mehr als 100 Ablichtungen
+zu fertigen waren,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>c) zur notwendigen Unterrichtung des
+Auftraggebers, soweit hierfür mehr als 100 Ablichtungen zu fertigen
+waren,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>d) in sonstigen Fällen nur, wenn sie
+im Einverständnis mit dem Auftraggeber zusätzlich, auch zur Unterrichtung
+Dritter, angefertigt worden sind und</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. für die Überlassung elektronischer
+Dokumente an Stelle der in Nummer 1 Buchstabe d genannten Ablichtungen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="2" /> Eine Übermittlung durch den Steuerberater per
+Telefax steht der Herstellung einer Ablichtung gleich.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500045"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Höhe der Dokumentenpauschale bemisst sich
+nach den für die Dokumentenpauschale im Vergütungsverzeichnis zum
+Rechtsanwaltsvergütungsgesetz bestimmten Beträgen.  <lxbase:satz nummer="2" /> Die Höhe der Dokumentenpauschale nach Absatz
+1 Nr. 1 ist in derselben Angelegenheit und in gerichtlichen Verfahren
+in demselben Rechtszug einheitlich zu berechnen.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500046" apn="StBGebV:18">§
+18 StBGebV Geschäftsreisen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500047"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für Geschäftsreisen sind dem Steuerberater als
+Reisekosten die Fahrtkosten und die Übernachtungskosten zu erstatten;
+ferner erhält er ein Tage- und Abwesenheitsgeld.  <lxbase:satz nummer="2" /> Eine Geschäftsreise liegt vor, wenn das Reiseziel
+außerhalb der Gemeinde liegt, in der sich die Kanzlei oder die Wohnung
+des Steuerberaters befindet.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500048"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Als Fahrtkosten sind zu erstatten:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. bei Benutzung eines eigenen Kraftfahrzeugs
+zur Abgeltung der Anschaffungs-, Unterhaltungs- und Betriebskosten
+sowie der Abnutzung des Kraftfahrzeugs 0,30 Euro für jeden gefahrenen
+Kilometer zuzüglich der durch die Benutzung des Kraftfahrzeugs aus
+Anlaß der Geschäftsreise regelmäßig anfallenden baren Auslagen,
+insbesondere der Parkgebühren,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. bei Benutzung anderer Verkehrsmittel
+die tatsächlichen Aufwendungen, soweit sie angemessen sind.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D640837500049"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Als Tage- und Abwesenheitsgeld erhält der Steuerberater
+bei einer Geschäftsreise von nicht mehr als 4 Stunden 20 Euro, von
+mehr als 4 bis 8 Stunden 35 Euro und von mehr als 8 Stunden 60 Euro;
+bei Auslandsreisen kann zu diesen Beträgen ein Zuschlag von 50 Prozent
+berechnet werden. <lxbase:satz nummer="2" /> Die Übernachtungskosten
+sind in Höhe der tatsächlichen Aufwendungen zu erstatten, soweit
+sie angemessen sind.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500050" apn="StBGebV:19">§
+19 StBGebV Reisen zur Ausführung mehrerer Geschäfte</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Dient eine Reise der Ausführung mehrerer Geschäfte,
+so sind die entstandenen Reisekosten und Abwesenheitsgelder nach
+dem Verhältnis der Kosten zu verteilen, die bei gesonderter Ausführung
+der einzelnen Geschäfte entstanden wären.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500051" apn="StBGebV:20">§
+20 StBGebV Verlegung der beruflichen Niederlassung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Ein Steuerberater, der seine berufliche Niederlassung
+nach einem anderen Ort verlegt, kann bei Fortführung eines ihm vorher
+erteilten Auftrags Reisekosten und Abwesenheitsgelder nur insoweit
+verlangen, als sie auch von seiner bisherigen beruflichen Niederlassung
+aus entstanden wären.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500052">Vierter
+Abschnitt: Gebühren für die Beratung und für die Hilfeleistung bei
+der Erfüllung allgemeiner Steuerpflichten</lxbase:ueberschrift><lxrno:kapitel><lxbase:ueberschrift id="D640837500053" apn="StBGebV:21">§
+21 StBGebV Rat, Auskunft, Erstberatung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500054"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für einen mündlichen oder schriftlichen Rat
+oder eine Auskunft, die nicht mit einer anderen gebührenpflichtigen
+Tätigkeit zusammenhängt, erhält der Steuerberater eine Gebühr in
+Höhe von 1 Zehntel bis 10 Zehntel der vollen Gebühr nach Tabelle
+A (Anlage 1). <lxbase:satz nummer="2" /> Beschränkt sich die
+Tätigkeit nach Satz 1 auf ein erstes Beratungsgespräch und ist der Auftraggeber
+Verbraucher, so kann der Steuerberater, der erstmals von diesem
+Ratsuchenden in Anspruch genommen wird, keine höhere Gebühr als
+180 Euro fordern. <lxbase:satz nummer="3" /> Bezieht sich der
+Rat oder die Auskunft nur auf steuerstrafrechtliche, bußgeldrechtliche oder
+sonstige Angelegenheiten, in denen die Gebühren nicht nach dem Gegenstandswert berechnet
+werden, so beträgt die Gebühr 19 Euro bis 180 Euro. <lxbase:satz nummer="4" /> Die Gebühr ist auf eine Gebühr anzurechnen,
+die der Steuerberater für eine sonstige Tätigkeit erhält, die mit
+der Raterteilung oder Auskunft zusammenhängt.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500055"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Wird ein Steuerberater, der mit der Angelegenheit
+noch nicht befaßt gewesen ist, beauftragt zu prüfen, ob eine Berufung
+oder Revision Aussicht auf Erfolg hat, so erhält er 13 Zwanzigstel
+einer Gebühr nach Tabelle E (Anlage 5), wenn er von der Einlegung
+der Berufung oder Revision abrät und eine Berufung oder Revision
+durch ihn nicht eingelegt wird.  <lxbase:satz nummer="2" /> Dies
+gilt nicht für die in Absatz 1 Satz 3 genannten Angelegenheiten.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500056" apn="StBGebV:22">§
+22 StBGebV Gutachten</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Für die Ausarbeitung eines schriftlichen Gutachtens
+mit eingehender Begründung erhält der Steuerberater eine Gebühr
+von 10 Zehnteln bis 30 Zehntel der vollen Gebühr nach Tabelle A
+(Anlage 1).</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500057" apn="StBGebV:23">§
+23 StBGebV Sonstige Einzeltätigkeiten</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Die Gebühr beträgt für</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. die Berichtigung einer Erklärung <lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10 bis 10/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. einen Antrag auf Stundung <lxbase:az normform="2/10-bis-8/10" manuell="nein">2/10 bis 8/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. einen Antrag auf Anpassung der Vorauszahlungen
+<lxbase:az normform="2/10-bis-8/10" manuell="nein">2/10 bis
+8/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. einen Antrag auf abweichende Steuerfestsetzung
+aus Billigkeitsgründen <lxbase:az normform="2/10-bis-8/10" manuell="nein">2/10 bis 8/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. einen Antrag auf Erlaß von Ansprüchen
+aus dem Steuerschuldverhältnis oder aus zollrechtlichen Bestimmungen
+<lxbase:az normform="2/10-bis-8/10" manuell="nein">2/10 bis
+8/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>6. einen Antrag auf Erstattung (§ 37
+Abs. 2 der Abgabenordnung) <lxbase:az normform="2/10-bis-8/10" manuell="nein">2/10 bis 8/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>7. einen Antrag auf Aufhebung oder Änderung
+eines Steuerbescheids oder auf Aufhebung einer Steueranmeldung <lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10 bis 10/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>8. einen Antrag auf volle oder teilweise
+Rücknahme oder auf vollen oder teilweisen Widerruf eines Verwaltungsakts
+<lxbase:az normform="4/10-bis-10/10" manuell="nein">4/10 bis
+10/10</lxbase:az> 9. einen Antrag auf Wiedereinsetzung in den vorigen
+Stand außerhalb eines Rechtsbehelfsverfahrens  <lxbase:az normform="4/10-bis-10/10" manuell="nein">4/10 bis 10/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>10. sonstige Anträge, soweit sie nicht
+in Steuererklärungen gestellt werden <lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10 bis 10/10</lxbase:az></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz><lxbase:a>einer
+vollen Gebühr nach Tabelle A (Anlage 1). <lxbase:satz nummer="2" /> Soweit
+Tätigkeiten nach den Nummern 1 bis 10 denselben Gegenstand betreffen,
+ist nur eine Tätigkeit maßgebend, und zwar die mit dem höchsten
+oberen Gebührenrahmen.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500058" apn="StBGebV:24">§
+24 StBGebV Steuererklärungen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500059"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater erhält für die Anfertigung</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. der Einkommensteuererklärung ohne
+Ermittlung der einzelnen Einkünfte <lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10 bis 6/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist die Summe der positiven Einkünfte, jedoch mindestens 6 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. der Erklärung zur gesonderten Feststellung
+der Einkünfte ohne Ermittlung der Einkünfte</lxbase:a><lxbase:a><lxbase:az normform="1/10-bis-5/10" manuell="nein">1/10
+bis 5/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist die Summe der positiven Einkünfte, jedoch mindestens 6 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. der Körperschaftsteuererklärung ohne
+die Erklärung zur gesonderten Feststellung nach den §§ 27, 28, 37
+und 38 des Körperschaftsteuergesetzes 2/10 bis8/10</lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist das Einkommen vor Berücksichtigung eines Verlustabzugs, jedoch
+mindestens12 500 Euro; bei der Anfertigung einer Körperschaftsteuererklärung
+für eine Organgesellschaft ist das Einkommen der Organgesellschaft
+vor Zurechnung maßgebend; das entsprechende Einkommen ist bei der
+Gegenstandsberechnung des Organträgers zu kürzen;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. der Erklärung zur gesonderten Feststellung
+nach den §§ 27, 28, 37 und 38 des Körperschaftsteuergesetzes  <lxbase:az normform="1/10-bis-5/10" manuell="nein">1/10 bis 5/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist die Summe</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+des steuerlichen Einlagenkontos (§ 27 Abs. 2 Satz 1 des Körperschaftsteuergesetzes),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) des durch Umwandlung von Rücklagen
+entstandenen Nennkapitals (§ 28 Abs. 1 Satz 3 des Körperschaftsteuergesetzes),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>c) des Körperschaftsteuerguthabens (§
+37 Abs. 2 Satz 4 des Körperschaftsteuergesetzes) und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>d) des Endbetrags/fortgeschriebenen Endbetrags
+im Sinne des § 36 Abs. 7 des Körperschaftsteuergesetzes aus dem
+Teilbetrag im Sinne des § 30 Abs. 2 Nr. 2 des Körperschaftsteuergesetzes
+in der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (<lxbase:lit-fs normform="BGBl-2000-I-1034" manuell="nein">BGBl. I S. 1034</lxbase:lit-fs>)
+– ( <lxbase:intern-verw idref="D640837500108">§ 38 Abs. 1</lxbase:intern-verw> Satz
+1 und 2 des Körperschaftsteuergesetzes),</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>jedoch mindestens 12 500 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. der Erklärung zur Gewerbesteuer <lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10 bis 6/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist der Gewerbeertrag vor Berücksichtigung des Freibetrags und eines
+Gewerbeverlustes, jedoch mindestens 6 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>6. der Gewerbesteuerzerlegungserklärung
+<lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10 bis
+6/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+sind 10 Prozent der als Zerlegungsmaßstab erklärten Arbeitslöhne
+und Betriebseinnahmen, jedoch mindestens 4 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>7. der Umsatzsteuer-Voranmeldung 1/10
+bis6/10</lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+sind 10 Prozent der Summe aus dem Gesamtbetrag der Entgelte und
+der Entgelte, für die der Leistungsempfänger Steuerschuldner ist,
+jedoch mindestens 500 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>8. der Umsatzsteuererklärung für das
+Kalenderjahr einschließlich ergänzender Anträge und Meldungen <lxbase:az normform="1/10-bis-8/10" manuell="nein">1/10 bis 8/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+sind 10 Prozent der Summe aus dem Gesamtbetrag der Entgelte und
+der Entgelte, für die der Leistungsempfänger Steuerschuldner ist,
+jedoch mindestens 6 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>9. der Vermögensaufstellung zur Ermittlung
+des Einheitswertes des Betriebsvermögens</lxbase:a><lxbase:a><lxbase:az normform="1/20-bis-14/20" manuell="nein">1/20
+bis 14/20</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist das Rohbetriebsvermögen, jedoch mindestens 12 500 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>10. der Vermögensteuererklärung oder
+der Erklärung zur gesonderten Feststellung des Vermögens von Gemeinschaften
+<lxbase:az normform="1/20-bis-18/20" manuell="nein">1/20 bis
+18/20</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist das Rohvermögen, jedoch bei natürlichen Personen mindestens
+12 500 Euro und bei Körperschaften, Personenvereinigungen und Vermögensmassen
+mindestens 25 000 Euro</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>11. der Erklärung zur gesonderten Feststellung
+des gemeinen Wertes nicht notierter Anteile an Kapitalgesellschaften
+ <lxbase:az normform="1/20-bis-18/20" manuell="nein">1/20 bis
+18/20</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist die Summe der Anteilswerte, jedoch mindestens 25 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>12. der Erbschaftsteuererklärung ohne
+Ermittlung der Zugewinnausgleichsforderung nach § 5 des Erbschaftsteuergesetzes
+ <lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10 bis
+10/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist der Wert des Erwerbs von Todes wegen vor Abzug der Schulden
+und Lasten, jedoch mindestens 12 500 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>13. der Schenkungsteuererklärung <lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10 bis 10/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist der Rohwert der Schenkung, jedoch mindestens 12 500 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>14. der Kapitalertragsteuererklärung
+<lxbase:az normform="1/20-bis-6/20" manuell="nein">1/20 bis
+6/20</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist die Summe der kapitalertragsteuerpflichtigen Kapitalerträge,
+jedoch mindestens 3 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>15. der Lohnsteuer-Anmeldung <lxbase:az normform="1/20-bis-6/20" manuell="nein">1/20 bis 6/20</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+sind 20 Prozent der Arbeitslöhne einschließlich sonstiger Bezüge,
+jedoch mindestens 1 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>16. von Steuererklärungen auf dem Gebiet
+der Einfuhr- und Ausfuhrabgaben und der Verbrauchsteuern, die als
+Einfuhrabgaben erhoben werden, <lxbase:az normform="1/10-bis-3/10" manuell="nein">1/10 bis 3/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist der Betrag, der sich bei Anwendung der höchsten in Betracht
+kommenden Abgabensätze auf die den Gegenstand der Erklärung bildenden
+Waren ergibt, jedoch mindestens 1 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>17. von Anmeldungen oder Erklärungen
+auf dem Gebiet der Verbrauchsteuern, die nicht als Einfuhrabgaben
+erhoben werden, <lxbase:az normform="1/10-bis-3/10" manuell="nein">1/10
+bis 3/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist für eine Steueranmeldung der angemeldete Betrag und für eine
+Steuererklärung der festgesetzte Betrag, jedoch mindestens 1 000
+Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>18. von Anträgen auf Gewährung einer
+Verbrauchsteuervergütung oder einer einzelgesetzlich geregelten
+Verbrauchsteuererstattung, sofern letztere nicht in der monatlichen
+Steuererklärung oder Steueranmeldung geltend zu machen ist, <lxbase:az normform="1/10-bis-3/10" manuell="nein">1/10 bis 3/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist die beantragte Vergütung oder Erstattung, jedoch mindestens
+1 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>19. von Anträgen auf Gewährung einer
+Investitionszulage <lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10 bis 6/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist die Bemessungsgrundlage;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>20. von Anträgen auf Steuervergütung
+nach § 4a des Umsatzsteuergesetzes <lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10 bis 6/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist die beantragte Vergütung;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>21. von Anträgen auf Vergütung der abziehbaren
+Vorsteuerbeträge an im Ausland ansässige Unternehmer <lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10 bis 6/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist die beantragte Vergütung, jedoch mindestens 1 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>22. von Anträgen auf Erstattung von Kapitalertragsteuer
+und Vergütung der anrechenbaren Körperschaftsteuer  <lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10 bis 6/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist die beantragte Erstattung, jedoch mindestens 1 000 Euro;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>23. von Anträgen nach Abschnitt X des
+Einkommensteuergesetzes  <lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10 bis 10/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist das beantragte Jahreskindergeld;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>24. von Anträgen nach dem Eigenheimzulagengesetz
+ <lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10 bis
+10/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist die beantragte Eigenheimzulage;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>25. der Anmeldung über den Steuerabzug
+von Bauleistungen <lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10 bis 6/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
+ist der angemeldete Steuerabzugsbetrag (§§ 48 ff. des Einkommensteuergesetzes),
+jedoch mindestens 1 000 Euro.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D640837500060"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Ermittlung der Zugewinnausgleichsforderung
+nach § 5 des Erbschaftsteuergesetzes erhält der Steuerberater 5
+Zehntel bis 15 Zehntel einer vollen Gebühr nach Tabelle A (Anlage
+1); Gegenstandswert ist der ermittelte Betrag, jedoch mindestens
+12 500 Euro.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500061"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für einen Antrag auf Lohnsteuer-Ermäßigung (Antrag
+auf Eintragung von Freibeträgen) erhält der Steuerberater <lxbase:az normform="1/20-bis-4/20" manuell="nein">1/20 bis 4/20</lxbase:az> einer
+vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der
+voraussichtliche Jahresarbeitslohn; er beträgt mindestens 4 500 Euro.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500062"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater erhält die Zeitgebühr</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. für die Anfertigung einer Erklärung
+zur Hauptfeststellung, Fortschreibung oder Nachfeststellung der
+Einheitswerte für Grundbesitz oder einer Feststellungserklärung nach
+§ 138 des Bewertungsgesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. für Arbeiten zur Feststellung des
+verrechenbaren Verlusts gemäß § 15a des Einkommensteuergesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. für die Anfertigung einer Meldung
+über die Beteiligung an ausländischen Körperschaften, Vermögensmassen
+und Personenvereinigungen und an ausländischen Personengesellschaften;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. für die Anfertigung eines Erstattungsantrages
+nach § 50 Abs. 5 Satz 2 Nr. 3 des Einkommensteuergesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. für die Anfertigung einer Anmeldung
+nach § 50a Abs. 5 des Einkommensteuergesetzes, § 73e der Einkommensteuer-Durchführungsverordnung;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>6. für die Anfertigung eines Antrags
+auf Erteilung einer Freistellungsbescheinigung nach § 48b des Einkommensteuergesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>7. für die Anfertigung eines Antrages
+auf Altersvorsorgezulage nach § 89 des Einkommensteuergesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>8. für die Anfertigung eines Antrags
+auf Festsetzung der Zulage nach § 90 Abs. 4 des Einkommensteuergesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>9. für die Anfertigung eines Antrags
+auf Verwendung für eine eigenen Wohnzwecken dienende Wohnung im
+eigenen Haus nach den §§ 92a, 92b Abs. 1 des Einkommensteuergesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>10. für die Anfertigung eines Antrags
+auf Festsetzung des Rückzahlungsbetrags nach § 94 Abs. 2 des Einkommensteuergesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>11. für die Anfertigung eines Antrags
+auf Stundung nach § 95 Abs. 2 des Einkommensteuergesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>12. für die Anfertigung eines Antrags
+auf Gewährung der Zulage nach Neubegründung der unbeschränkten Steuerpflicht
+nach § 95 Abs. 3 des Einkommensteuergesetzes.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500063" apn="StBGebV:25">§
+25 StBGebV Ermittlung des Überschusses der Betriebseinnahmen über
+die Betriebsausgaben</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500064"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Gebühr für die Ermittlung des Überschusses
+der Betriebseinnahmen über die Betriebsausgaben bei den Einkünften
+aus Land- und Forstwirtschaft, Gewerbebetrieb oder selbständiger
+Arbeit beträgt 5 Zehntel bis 20 Zehntel einer vollen Gebühr nach Tabelle
+B (Anlage 2).  <lxbase:satz nummer="2" /> Gegenstandswert ist
+der jeweils höhere Betrag, der sich aus der Summe der Betriebseinnahmen
+oder der Summe der Betriebsausgaben ergibt, jedoch mindestens 12
+500 Euro.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500065"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für Vorarbeiten, die über das übliche Maß erheblich
+hinausgehen, erhält der Steuerberater die Zeitgebühr.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500066"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Sind bei mehreren Einkünften aus derselben Einkunftsart
+die Überschüsse getrennt zu ermitteln, so erhält der Steuerberater
+die Gebühr nach Absatz 1 für jede Überschußrechnung.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500067"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Aufstellung eines schriftlichen Erläuterungsberichts
+zur Ermittlung des Überschusses der Betriebseinnahmen über die Betriebsausgaben
+erhält der Steuerberater <lxbase:az normform="2/10-bis-12/10" manuell="nein">2/10 bis 12/10</lxbase:az> einer
+vollen Gebühr nach Tabelle B (Anlage 2). <lxbase:satz nummer="2" /> Der
+Gegenstandswert bemisst sich nach Absatz 1 Satz 2.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500068" apn="StBGebV:26">§
+26 StBGebV Ermittlung des Gewinns aus Land- und Forstwirtschaft
+nach Durchschnittsätzen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500069"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Gebühr für die Ermittlung des Gewinns nach
+Durchschnittsätzen beträgt 5 Zehntel bis 20 Zehntel einer vollen
+Gebühr nach Tabelle B (Anlage 2). <lxbase:satz nummer="2" /> Gegenstandswert
+ist der Durchschnittssatzgewinn nach § 13a Abs. 3 Satz 1 des Einkommensteuergesetzes.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500070"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Sind für mehrere land- und forstwirtschaftliche
+Betriebe desselben Auftraggebers die Gewinne nach Durchschnittsätzen
+getrennt zu ermitteln, so erhält der Steuerberater die Gebühr nach
+Absatz 1 für jede Gewinnermittlung.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500071" apn="StBGebV:27">§
+27 StBGebV Ermittlung des Überschusses der Einnahmen über die Werbungskosten</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500072"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Gebühr für die Ermittlung des Überschusses
+der Einnahmen über die Werbungskosten bei den Einkünften aus nichtselbständiger
+Arbeit, Kapitalvermögen, Vermietung und Verpachtung oder sonstigen
+Einkünften beträgt 1 Zwanzigstel bis 12 Zwanzigstel einer vollen
+Gebühr nach Tabelle A (Anlage 1). <lxbase:satz nummer="2" /> Gegenstandswert
+ist der jeweils höhere Betrag, der sich aus der Summe der Einnahmen
+oder der Summe der Werbungskosten ergibt, jedoch mindestens 6 000
+Euro.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500073"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Beziehen sich die Einkünfte aus Vermietung und
+Verpachtung auf mehrere Grundstücke oder sonstige Wirtschaftsgüter
+und ist der Überschuß der Einnahmen über die Werbungskosten jeweils
+getrennt zu ermitteln, so erhält der Steuerberater die Gebühr nach Absatz
+1 für jede Überschußrechnung.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500074"><lxrno:nummer>3</lxrno:nummer><lxbase:a>(aufgehoben)</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500075" apn="StBGebV:28">§
+28 StBGebV Prüfung von Steuerbescheiden</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Für die Prüfung eines Steuerbescheids erhält
+der Steuerberater die Zeitgebühr.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500076" apn="StBGebV:29">§
+29 StBGebV Teilnahme an Prüfungen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater erhält</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. für die Teilnahme an einer Prüfung,
+insbesondere an einer Außen- oder Zollprüfung (§ 193 der Abgabenordnung,
+Artikel 78 der Verordnung (EWG) Nr. 2913/92 des Rates vom 12. Oktober
+1992 zur Festlegung des Zollkodex der Gemeinschaften (ABl. EG Nr.
+L 302 S. 1, 1993 Nr. L 79 S. 84, 1996 Nr. L 97 S. 38), die zuletzt
+durch die Verordnung (EG) Nr. 648/2005 des Europäischen Parlaments
+und des Rates vom 13. April 2005 (ABl. EU Nr. L 117 S. 13) geändert
+worden ist, in der jeweils geltenden Fassung) einschließlich der
+Schlußbesprechung und der Prüfung des Prüfungsberichts, an einer
+Ermittlung der Besteuerungsgrundlagen (§ 208 der Abgabenordnung)
+oder an einer Maßnahme der Steueraufsicht (§§ 209 bis 217 der Abgabenordnung)
+die Zeitgebühr;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. für schriftliche Einwendungen gegen
+den Prüfungsbericht 5 Zehntel bis 10 Zehntel einer vollen Gebühr
+nach Tabelle A (Anlage 1).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500077" apn="StBGebV:30">§
+30 StBGebV Selbstanzeige</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Für die Tätigkeit im Verfahren der Selbstanzeige
+(§§ 371 und 378 Abs. 3 der Abgabenordnung) einschließlich der Ermittlungen
+zur Berichtigung, Ergänzung oder Nachholung der Angaben erhält der
+Steuerberater 10 Zehntel bis 30 Zehntel einer vollen Gebühr nach Tabelle
+A (Anlage 1).</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500078" apn="StBGebV:31">§
+31 StBGebV Besprechungen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500079"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für Besprechungen mit Behörden oder mit Dritten
+in abgaberechtlichen Sachen erhält der Steuerberater <lxbase:az normform="5/10-bis-10/10" manuell="nein">5/10 bis 10/10</lxbase:az> einer
+vollen Gebühr nach Tabelle A (Anlage 1).</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500080"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Besprechungsgebühr entsteht, wenn der Steuerberater
+an einer Besprechung über tatsächliche oder rechtliche Fragen mitwirkt,
+die von der Behörde angeordnet ist oder im Einverständnis mit dem
+Auftraggeber mit der Behörde oder mit einem Dritten geführt wird. <lxbase:satz nummer="2" /> Der Steuerberater erhält diese Gebühr nicht
+für die Beantwortung einer mündlichen oder fernmündlichen Nachfrage
+der Behörde.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500081">Fünfter
+Abschnitt: Gebühren für die Hilfeleistung bei der Erfüllung steuerlicher Buchführungs-
+und Aufzeichnungspflichten</lxbase:ueberschrift><lxrno:kapitel><lxbase:ueberschrift id="D640837500082" apn="StBGebV:32">§
+32 StBGebV Einrichtung einer Buchführung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Für die Hilfeleistung bei der Einrichtung einer
+Buchführung erhält der Steuerberater die Zeitgebühr.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500083" apn="StBGebV:33">§
+33 StBGebV Buchführung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500084"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Buchführung einschließlich</lxbase:a><lxbase:a>des
+Kontierens der Belege beträgt die</lxbase:a><lxbase:a>Monatsgebühr
+<lxbase:az normform="2/10-bis-12/10" manuell="nein">2/10 bis
+12/10</lxbase:az></lxbase:a><lxbase:a>einer
+vollen Gebühr nach Tabelle C (Anlage 3).</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500085"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für das Kontieren der Belege</lxbase:a><lxbase:a>beträgt
+die Monatsgebühr 1/10 bis6/10</lxbase:a><lxbase:a>einer
+vollen Gebühr nach Tabelle C (Anlage 3).</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500086"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Buchführung nach vom</lxbase:a><lxbase:a>Auftraggeber
+kontierten Belegen oder</lxbase:a><lxbase:a>erstellten
+Kontierungsunterlagen</lxbase:a><lxbase:a>beträgt
+die Monatsgebühr 1/10 bis6/10</lxbase:a><lxbase:a>einer
+vollen Gebühr nach Tabelle C (Anlage 3).</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500087"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Buchführung nach vom Auftraggeber erstellten
+Eingaben für die Datenverarbeitung und mit beim Auftraggeber eingesetzten
+Datenverarbeitungsprogrammen des Steuerberaters erhält der Steuerberater
+neben der Vergütung für die Datenverarbeitung und für den Einsatz
+der Datenverarbeitungsprogramme</lxbase:a><lxbase:a>eine
+Monatsgebühr von <lxbase:az normform="1/20-bis-10/20" manuell="nein">1/20 bis 10/20</lxbase:az></lxbase:a><lxbase:a>einer
+vollen Gebühr nach Tabelle C (Anlage 3).</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500088"><lxrno:nummer>5</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die laufende Überwachung der</lxbase:a><lxbase:a>Buchführung
+des Auftraggebers beträgt</lxbase:a><lxbase:a>die
+Monatsgebühr <lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10
+bis 6/10</lxbase:az></lxbase:a><lxbase:a>einer
+vollen Gebühr nach Tabelle C (Anlage 3).</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500089"><lxrno:nummer>6</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Gegenstandswert ist der jeweils höchste Betrag,
+der sich aus dem Jahresumsatz oder aus der Summe des Aufwands ergibt.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500090"><lxrno:nummer>7</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Hilfeleistung bei sonstigen Tätigkeiten
+im Zusammenhang mit der Buchführung erhält der Steuerberater die
+Zeitgebühr.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500091"><lxrno:nummer>8</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Mit der Gebühr nach den Absätzen 1, 3 und 4
+sind die Gebühren für die Umsatzsteuervoranmeldung ( <lxbase:intern-verw idref="D640837500059">§ 24 Abs. 1</lxbase:intern-verw> Nummer
+7) abgegolten.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500092" apn="StBGebV:34">§
+34 StBGebV Lohnbuchführung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500093"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die erstmalige Einrichtung von Lohnkonten
+und die Aufnahme der Stammdaten erhält der Steuerberater eine Gebühr
+von 2,60 bis 9 Euro je Arbeitnehmer.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500094"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Führung von Lohnkonten und die Anfertigung
+der Lohnabrechnung erhält der Steuerberater eine Gebühr von 2,60
+bis 15 Euro je Arbeitnehmer und Abrechnungszeitraum.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500095"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Führung von Lohnkonten und die Anfertigung
+der Lohnabrechnung nach vom Auftraggeber erstellten Buchungsunterlagen
+erhält der Steuerberater eine Gebühr von 1 bis 5 Euro je Arbeitnehmer
+und Abrechnungszeitraum.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500096"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Führung von Lohnkonten und die Anfertigung
+der Lohnabrechnung nach vom Auftraggeber erstellten Eingaben für
+die Datenverarbeitung und mit beim Auftraggeber eingesetzten Datenverarbeitungsprogrammen
+des Steuerberaters erhält der Steuerberater neben der Vergütung
+für die Datenverarbeitung und für den Einsatz der Datenverarbeitungsprogramme
+eine Gebühr von 0,50 bis 2,60 Euro je Arbeitnehmer und Abrechnungszeitraum.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500097"><lxrno:nummer>5</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Hilfeleistung bei sonstigen Tätigkeiten
+im Zusammenhang mit dem Lohnsteuerabzug und der Lohnbuchführung
+erhält der Steuerberater die Zeitgebühr.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500098"><lxrno:nummer>6</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Mit der Gebühr nach den Absätzen 2 bis 4 sind
+die Gebühren für die Lohnsteueranmeldung ( <lxbase:intern-verw idref="D640837500059">§ 24 Abs. 1</lxbase:intern-verw> Nr.
+15) abgegolten.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500099" apn="StBGebV:35">§
+35 StBGebV Abschlußarbeiten</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500100"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Gebühr beträgt für</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. a) die Aufstellung eines Jahresabschlusses
+(Bilanz und Gewinn- und Verlustrechnung) <lxbase:az normform="10/10-bis-40/10" manuell="nein">10/10 bis 40/10</lxbase:az></lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>b)
+die Erstellung eines Anhangs <lxbase:az normform="2/10-bis-12/10" manuell="nein">2/10 bis 12/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>c) die Erstellung eines Lageberichts
+<lxbase:az normform="2/10-bis-12/10" manuell="nein">2/10 bis
+12/10</lxbase:az></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. die Aufstellung eines Zwischenabschlusses
+oder eines vorläufigen Abschlusses (Bilanz und Gewinn- und Verlustrechnung)
+ <lxbase:az normform="5/10-bis-12/10" manuell="nein">5/10 bis
+12/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+die Ableitung des steuerlichen Ergebnisses aus dem Handelsbilanzergebnis</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10
+bis 10/10</lxbase:az></lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>b)
+die Entwicklung einer Steuerbilanz aus der Handelsbilanz <lxbase:az normform="5/10-bis-12/10" manuell="nein">5/10 bis 12/10</lxbase:az></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. die Aufstellung einer Eröffnungsbilanz
+ <lxbase:az normform="5/10-bis-12/10" manuell="nein">5/10 bis
+12/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. die Aufstellung einer Auseinandersetzungsbilanz
+ <lxbase:az normform="5/10-bis-20/10" manuell="nein">5/10 bis
+20/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>6. den schriftlichen Erläuterungsbericht
+zu Tätigkeiten nach den Nummern 1 bis 5</lxbase:a><lxbase:a><lxbase:az normform="2/10-bis-12/10" manuell="nein">2/10
+bis 12/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>7. </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+die beratende Mitwirkung bei der Aufstellung eines Jahresabschlusses
+(Bilanz und Gewinn- und Verlustrechnung) <lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10 bis 10/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) die beratende Mitwirkung bei der Erstellung
+eines Anhangs <lxbase:az normform="2/10-bis-4/10" manuell="nein">2/10
+bis 4/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>c) die beratende Mitwirkung bei der Erstellung
+eines Lageberichts <lxbase:az normform="2/10-bis-4/10" manuell="nein">2/10 bis 4/10</lxbase:az></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>8. die Zusammenstellung eines Jahresabschlusses
+(Bilanz und Gewinn- und Verlustrechnung) aus übergebenen Endzahlen
+(ohne Vornahme von Prüfungsarbeiten) 2/10 bis6/10</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>einer
+vollen Gebühr nach Tabelle B (Anlage 2).</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500101"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Gegenstandswert ist</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. in den Fällen des Absatzes 1 Nr. 1
+bis 3, 7 und 8 das Mittel zwischen der berichtigten Bilanzsumme
+und der betrieblichen Jahresleistung;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. in den Fällen des Absatzes 1 Nr. 4
+und 5 die berichtigte Bilanzsumme;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. in den Fällen des Absatzes 1 Nr. 6
+der Gegenstandswert, der für die dem Erläuterungsbericht zugrunde
+liegenden Abschlußarbeiten maßgeblich ist.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:satz nummer="2" /> Die berichtigte Bilanzsumme ergibt sich aus
+der Summe der Posten der Aktivseite der Bilanz zuzüglich Privatentnahmen
+und offener Ausschüttungen, abzüglich Privateinlagen, Kapitalerhöhungen
+durch Einlagen und Wertberichtigungen.  <lxbase:satz nummer="3" /> Die
+betriebliche Jahresleistung umfaßt Umsatzerlöse, sonstige betriebliche
+Erträge, Erträge aus Beteiligungen, Erträge aus anderen Wertpapieren
+und Ausleihungen des Finanzanlagevermögens, sonstige Zinsen und
+ähnliche Erträge, Veränderungen des Bestands an fertigen und unfertigen
+Erzeugnissen, andere aktivierte Eigenleistungen sowie außerordentliche
+Erträge.  <lxbase:satz nummer="4" /> Ist der betriebliche Jahresaufwand
+höher als die betriebliche Jahresleistung, so ist dieser der Berechnung
+des Gegenstandswerts zugrunde zu legen. <lxbase:satz nummer="5" /> Betrieblicher
+Jahresaufwand ist die Summe der Betriebsausgaben einschließlich
+der Abschreibungen. <lxbase:satz nummer="6" /> Bei der Berechnung
+des Gegenstandswerts ist eine negative berichtigte Bilanzsumme als
+positiver Wert anzusetzen. <lxbase:satz nummer="7" /> Übersteigen
+die betriebliche Jahresleistung oder der höhere betriebliche Jahresaufwand
+das 5 fache der berichtigten Bilanzsumme, so bleibt der übersteigende
+Betrag bei der Ermittlung des Gegenstandswerts außer Ansatz.  <lxbase:satz nummer="8" /> Der Gegenstandswert besteht nur aus der berichtigten
+Bilanzsumme, wenn die betriebliche Jahresleistung geringer als 3
+000 Euro ist. <lxbase:satz nummer="9" /> Der Gegenstandswert
+besteht nur aus der betrieblichen Jahresleistung, wenn die berichtigte
+Bilanzsumme geringer als 3 000 Euro ist.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500102"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Anfertigung oder Berichtigung von Inventurunterlagen
+und für sonstige Abschlußvorarbeiten bis zur abgestimmten Saldenbilanz
+erhält der Steuerberater die Zeitgebühr.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500103" apn="StBGebV:36">§
+36 StBGebV Steuerliches Revisionswesen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500104"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater erhält für die Prüfung einer
+Buchführung, einzelner Konten, einzelner Posten des Jahresabschlusses,
+eines Inventars, einer Überschussrechnung oder von Bescheinigungen
+für steuerliche Zwecke und für die Berichterstattung hierüber die
+Zeitgebühr.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500105"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater erhält</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. für die Prüfung einer Bilanz, einer
+Gewinn- und Verlustrechnung, eines Anhangs, eines Lageberichts oder
+einer sonstigen Vermögensrechnung für steuerliche Zwecke <lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10 bis 10/10</lxbase:az></lxbase:a><lxbase:a>einer vollen Gebühr nach Tabelle B (Anlage 2) sowie die
+Zeitgebühr;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. für die Berichterstattung über eine
+Tätigkeit nach Nummer 1 die Zeitgebühr. Der Gegenstandswert bemißt
+sich nach § 35 Abs. 2.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500106" apn="StBGebV:37">§
+37 StBGebV Vermögensstatus, Finanzstatus für steuerliche Zwecke</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Die Gebühr beträgt für</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. die Erstellung eines Vermögensstatus
+oder Finanzstatus <lxbase:az normform="5/10-bis-15/10" manuell="nein">5/10 bis 15/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. die Erstellung eines Vermögensstatus
+oder Finanzstatus aus übergebenen Endzahlen (ohne Vornahme von Prüfungsarbeiten)
+<lxbase:az normform="2/10-bis-6/10" manuell="nein">2/10 bis
+6/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. den schriftlichen Erläuterungsbericht
+zu den Tätigkeiten nach Nummer <lxbase:az normform="1-1/10-bis-6/10" manuell="nein">1 1/10 bis 6/10</lxbase:az></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz><lxbase:a>einer
+vollen Gebühr nach Tabelle B (Anlage 2). <lxbase:satz nummer="2" /> Gegenstandswert
+ist für die Erstellung eines Vermögensstatus die Summe der Vermögenswerte,
+für die Erstellung eines Finanzstatus die Summe der Finanzwerte.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500107" apn="StBGebV:38">§
+38 StBGebV Erteilung von Bescheinigungen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500108"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater erhält für die Erteilung einer
+Bescheinigung über die Beachtung steuerrechtlicher Vorschriften
+in Vermögensübersichten und Erfolgsrechnungen 1 Zehntel bis 6 Zehntel
+einer vollen Gebühr nach Tabelle B (Anlage 2). <lxbase:satz nummer="2" /> Der Gegenstandswert bemißt sich nach § 35 Abs.
+2.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500109"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Der Steuerberater erhält für die Mitwirkung
+an der Erteilung von Steuerbescheinigungen die Zeitgebühr.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500110" apn="StBGebV:39">§
+39 StBGebV Buchführungs- und Abschlußarbeiten für land- und forstwirtschaftliche Betriebe</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500111"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für Angelegenheiten, die sich auf land- und
+forstwirtschaftliche Betriebe beziehen, gelten abweichend von den
+§ <lxbase:intern-verw idref="D640837500082">§ 32</lxbase:intern-verw>,
+ <lxbase:intern-verw idref="D640837500083">33</lxbase:intern-verw>,
+<lxbase:intern-verw idref="D640837500099">35</lxbase:intern-verw> und
+<lxbase:intern-verw idref="D640837500103">36</lxbase:intern-verw> die
+Absätze 2 bis 7.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500112"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Gebühr beträgt für</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. laufende Buchführungsarbeiten einschließlich
+Kontieren der Belege jährlich <lxbase:az normform="3/10-bis-20/10" manuell="nein">3/10 bis 20/10</lxbase:az></lxbase:a><lxbase:a /></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. die Buchführung nach vom Auftraggeber
+kontierten Belegen oder erstellten Kontierungsunterlagen jährlich
+ <lxbase:az normform="3/20-bis-20/20" manuell="nein">3/20 bis
+20/20</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. die Buchführung nach vom Auftraggeber
+erstellten Datenträgern oder anderen Eingabemitteln für die Datenverarbeitung
+neben der Vergütung für die Datenverarbeitung und für den Einsatz
+der Datenverarbeitungsprogramme jährlich <lxbase:az normform="1/20-bis-16/20" manuell="nein">1/20 bis 16/20</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. die laufende Überwachung der Buchführung
+jährlich <lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10
+bis 6/10</lxbase:az></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz><lxbase:a>einer
+vollen Gebühr nach Tabelle D (Anlage 4). <lxbase:satz nummer="2" /> Die
+volle Gebühr ist die Summe der Gebühren nach Tabelle D Teil a und
+Tabelle D Teil b.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500113"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Gebühr beträgt für</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. die Abschlußvorarbeiten  <lxbase:az normform="1/10-bis-5/10" manuell="nein">1/10 bis 5/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. die Aufstellung eines Abschlusses
+<lxbase:az normform="3/10-bis-10/10" manuell="nein">3/10 bis
+10/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. die Entwicklung eines steuerlichen
+Abschlusses aus dem betriebswirtschaftlichen Abschluß oder aus der
+Handelsbilanz oder die Ableitung des steuerlichen Ergebnisses vom
+Ergebnis des betriebswirtschaftlichen Abschlusses oder der Handelsbilanz
+<lxbase:az normform="3/20-bis-10/20" manuell="nein">3/20 bis
+10/20</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. die beratende Mitwirkung bei der Erstellung
+eines Abschlusses <lxbase:az normform="1/20-bis-10/20" manuell="nein">1/20 bis 10/20</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. die Prüfung eines Abschlusses für
+steuerliche Zwecke <lxbase:az normform="1/10-bis-8/10" manuell="nein">1/10 bis 8/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>6. den schriftlichen Erläuterungsbericht
+zum Abschluß <lxbase:az normform="1/10-bis-8/10" manuell="nein">1/10
+bis 8/10</lxbase:az></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz><lxbase:a>einer
+vollen Gebühr nach Tabelle D (Anlage 4). <lxbase:satz nummer="2" /> Die
+volle Gebühr ist die Summe der Gebühren nach Tabelle D Teil a und
+Tabelle D Teil b.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500114"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Gebühr beträgt für</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. die Hilfeleistung bei der Einrichtung
+einer Buchführung <lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10 bis 6/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. die Erfassung der Anfangswerte bei
+Buchführungsbeginn  <lxbase:az normform="3/10-bis-15/10" manuell="nein">3/10 bis 15/10</lxbase:az></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz><lxbase:a>einer
+vollen Gebühr nach Tabelle D Teil a (Anlage 4).</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500115"><lxrno:nummer>5</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Gegenstandswert ist für die Anwendung der Tabelle
+D Teil a die Betriebsfläche. <lxbase:satz nummer="2" /> Gegenstandswert
+für die Anwendung der Tabelle D Teil b ist der Jahresumsatz zuzüglich
+der Privateinlagen, mindestens jedoch die Höhe der Aufwendungen
+zuzüglich der Privatentnahmen. <lxbase:satz nummer="3" /> Im
+Falle des Absatzes 3 vermindert sich der 100 000 Euro übersteigende
+Betrag auf die Hälfte.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500116"><lxrno:nummer>6</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Bei der Errechnung der Betriebsfläche (Absatz
+5) ist</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. bei einem Jahresumsatz bis zu 1 000
+Euro je Hektar das Einfache,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. bei einem Jahresumsatz über 1 000
+Euro je Hektar das Vielfache,</lxbase:a><lxbase:a>das sich aus dem durch 1 000 geteilten Betrag des Jahresumsatzes
+je Hektar ergibt,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. bei forstwirtschaftlich genutzten
+Flächen  die Hälfte,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. bei Flächen mit bewirtschafteten Teichen
+ die Hälfte,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. bei durch Verpachtung genutzten Flächen
+ ein Viertel</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz><lxbase:a>der
+tatsächlich genutzten Flächen anzusetzen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500117"><lxrno:nummer>7</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Mit der Gebühr nach Absatz 2 Nr. 1, 2 und 3
+ist die Gebühr für die Umsatzsteuervoranmeldungen ( <lxbase:intern-verw idref="D640837500059">§ 24 Abs. 1</lxbase:intern-verw> Nr.
+7) abgegolten.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500118">Sechster
+Abschnitt: Gebühren für die Vertretung im außergerichtlichen Rechtsbehelfsverfahren
+und im Verwaltungsvollstreckungsverfahren</lxbase:ueberschrift><lxrno:kapitel><lxbase:ueberschrift id="D640837500119" apn="StBGebV:40">§
+40 StBGebV Verfahren vor den Verwaltungsbehörden</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500120"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Für die Vertretung im Rechtsbehelfsverfahren
+vor Verwaltungsbehörden erhält der Steuerberater eine Geschäftsgebühr
+von <lxbase:az normform="5/10-bis-25/10" manuell="nein">5/10
+bis 25/10</lxbase:az> einer vollen Gebühr nach Tabelle E (Anlage
+5). <lxbase:satz nummer="2" /> Eine Gebühr von <lxbase:az normform="mehr-als-13/10" manuell="nein">mehr als 13/10</lxbase:az> einer
+vollen Gebühr nach Tabelle E (Anlage 5) kann nur gefordert werden,
+wenn die Tätigkeit umfangreich oder schwierig war.  <lxbase:satz nummer="3" /> Beschränkt sich der Auftrag auf ein Schreiben
+einfacher Art, das weder schwierige rechtliche Ausführungen noch
+größere sachliche Auseinandersetzungen enthält, beträgt die Gebühr
+3/10 einer vollen Gebühr nach Tabelle E (Anlage 5).</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500121"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Geschäftsgebühr ermäßigt <lxbase:az normform="sich-auf-3/10" manuell="nein">sich auf 3/10</lxbase:az>
+bis 20/10 einer vollen Gebühr nach Tabelle E (Anlage 5), wenn der
+Steuerberater in dem Verwaltungsverfahren, das dem Verfahren nach
+Absatz 1 vorausgeht, Gebühren nach  <lxbase:intern-verw idref="D640837500075">§ 28</lxbase:intern-verw> erhält.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500122"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Die Geschäftsgebühr ermäßigt <lxbase:az normform="sich-auf-1/10" manuell="nein">sich auf 1/10</lxbase:az> bis
+7,5/10 einer vollen Gebühr nach Tabelle E (Anlage 5), wenn der Steuerberater
+im Zusammenhang mit dem Verfahren nach Absatz 1 Gebühren nach <lxbase:intern-verw idref="D640837500058">§ 24</lxbase:intern-verw> erhält.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500123"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Erhält der Steuerberater im Verwaltungsverfahren,
+das dem Verfahren nach Absatz 1 vorausgeht, Gebühren nach  <lxbase:intern-verw idref="D640837500057">§ 23</lxbase:intern-verw>, so darf die
+Summe dieser Gebühren und der Gebühr nach Absatz <lxbase:az normform="1-25/10" manuell="nein">1 25/10</lxbase:az> einer
+vollen Gebühr nach Tabelle E (Anlage 5) nicht übersteigen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500124"><lxrno:nummer>5</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Wird der Steuerberater in derselben Angelegenheit
+für mehrere Auftraggeber tätig und ist der Gegenstand der beruflichen
+Tätigkeit derselbe, so erhöht sich die Geschäftsgebühr für jeden
+weiteren Auftraggeber um 3/10, in den Fällen des Absatzes <lxbase:az normform="2-um-2/10" manuell="nein">2 um 2/10</lxbase:az> und
+in den Fällen des Absatzes <lxbase:az normform="3-um-1/10" manuell="nein">3 um 1/10</lxbase:az> einer vollen Gebühr
+nach Tabelle E (Anlage 5). <lxbase:satz nummer="2" /> Die Erhöhung
+wird nach dem Betrag berechnet, an dem die Auftraggeber gemeinschaftlich beteiligt
+sind. <lxbase:satz nummer="3" /> Mehrere Erhöhungen dürfen den
+Betrag von 20/10, in den Fällen des Absatzes 2 den Betrag von 16/10
+und in den Fällen des Absatzes 3 den Betrag von 6/10 einer vollen
+Gebühr nach Tabelle E (Anlage 5) nicht übersteigen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500125"><lxrno:nummer>6</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Erhält der Steuerberater in dem Verwaltungsverfahren,
+das dem Verfahren nach Absatz 1 vorausgeht, eine Gebühr nach <lxbase:intern-verw idref="D640837500078">§ 31</lxbase:intern-verw>, so darf die
+Summe dieser Gebühr und der Gebühr nach Absatz <lxbase:az normform="1-25/10" manuell="nein">1 25/10</lxbase:az> einer
+vollen Gebühr nach Tabelle E (Anlage 5) nicht übersteigen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500126"><lxrno:nummer>7</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Das Verwaltungsverfahren auf Aussetzung der
+Vollziehung oder auf Beseitigung der aufschiebenden oder hemmenden
+Wirkung ist zusammen mit dem Verfahren nach Absatz 1 eine Angelegenheit.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D640837500127"><lxrno:nummer>8</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Erledigt sich eine Angelegenheit ganz oder teilweise
+nach Rücknahme, Widerruf, Aufhebung, Änderung oder Berichtigung
+des mit einem Rechtsbehelf angefochtenen Verwaltungsaktes, so erhält
+der Steuerberater, der bei der Erledigung mitgewirkt hat, eine Gebühr
+von 10/10 einer vollen Gebühr nach Tabelle E (Anlage 5).</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500128" apn="StBGebV:41">§
+41 StBGebV (aufgehoben)</lxbase:ueberschrift></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500129" apn="StBGebV:42">§
+42 StBGebV (aufgehoben)</lxbase:ueberschrift></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500130" apn="StBGebV:43">§
+43 StBGebV (aufgehoben)</lxbase:ueberschrift></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500131" apn="StBGebV:44">§
+44 StBGebV Verwaltungsvollstreckungsverfahren</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Auf die Vergütung des Steuerberaters im Verwaltungsvollstreckungsverfahren
+sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes vom 5.
+Mai 2004 (<lxbase:lit-fs normform="BGBl-2004-I-0718" manuell="nein">BGBl.
+I S. 718, 788</lxbase:lit-fs>), zuletzt geändert durch Artikel 3
+des Gesetzes vom 8. Juli 2006 (<lxbase:lit-fs normform="BGBl-2006-I-1426" manuell="nein">BGBl. I S. 1426</lxbase:lit-fs>),
+in der jeweils geltenden Fassung sinngemäß anzuwenden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500132">Siebenter
+Abschnitt: Gerichtliche und andere Verfahren</lxbase:ueberschrift><lxrno:kapitel><lxbase:ueberschrift id="D640837500133" apn="StBGebV:45">§
+45 StBGebV Vergütung in gerichtlichen und anderen Verfahren</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Auf die Vergütung des Steuerberaters im Verfahren
+vor den Gerichten der Finanzgerichtsbarkeit und der Verwaltungsgerichtsbarkeit,
+im Strafverfahren, berufsgerichtlichen Verfahren, Bußgeldverfahren
+und in Gnadensachen sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes
+sinngemäß anzuwenden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500134" apn="StBGebV:46">§
+46 StBGebV Vergütung bei Prozeßkostenhilfe</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Für die Vergütung des im Weg der Prozeßkostenhilfe
+beigeordneten Steuerberaters gelten die Vorschriften des Rechtsanwaltsvergütungsgesetzes
+sinngemäß.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500135">Achter
+Abschnitt: Übergangs- und Schlußvorschriften</lxbase:ueberschrift><lxrno:kapitel><lxbase:ueberschrift id="D640837500136" apn="StBGebV:47">§
+47 StBGebV Anwendung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D640837500137"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Diese Verordnung ist erstmals anzuwenden auf</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1. Angelegenheiten, mit deren Bearbeitung
+nach dem Inkrafttreten dieser Verordnung begonnen wird,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. die Vertretung in Verfahren vor Verwaltungsbehörden,
+wenn das Verfahren nach Inkrafttreten dieser Verordnung beginnt.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D640837500138"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" /> Hat der Steuerberater vor der Verkündung der
+Verordnung mit dem Auftraggeber schriftliche Vereinbarungen getroffen,
+die den Vorschriften dieser Verordnung nicht entsprechen, so ist
+insoweit diese Verordnung spätestens zwei Jahre nach ihrem Inkrafttreten
+anzuwenden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500139" apn="StBGebV:47a">§
+47a StBGebV Übergangsvorschrift für Änderungen dieser Verordnung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><lxbase:a><lxbase:satz nummer="1" /> Die Vergütung ist nach bisherigem Recht zu berechnen,
+wenn der Auftrag zur Erledigung der Angelegenheit vor dem Inkrafttreten
+einer Änderung der Verordnung erteilt worden ist. <lxbase:satz nummer="2" /> Hat der Steuerberater mit dem Auftraggeber schriftliche
+Vereinbarungen über auszuführende Tätigkeiten mit einer Geltungsdauer
+von mindestens einem Jahr getroffen oder eine Pauschalvergütung
+im Sinne des <lxbase:intern-verw idref="D640837500036">§ 14</lxbase:intern-verw> vereinbart
+und tritt während der Geltungsdauer dieser Vereinbarung eine Änderung
+der Verordnung in Kraft, so ist die Vergütung bis zum Ablauf des
+Jahres, in dem eine Änderung der Verordnung in Kraft tritt, nach
+bisherigem Recht zu berechnen. <lxbase:satz nummer="3" /> Die
+Sätze 1 und 2 gelten auch, wenn Vorschriften geändert werden, auf
+die diese Verordnung verweist.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500140" apn="StBGebV:48">§
+48 StBGebV (gegenstandslos)</lxbase:ueberschrift></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500141" apn="StBGebV:49">§
+49 StBGebV Inkrafttreten</lxbase:ueberschrift></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500142">Anlage
+1: Tabelle A (Beratungstabelle)</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="26*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="4*" /><cals:colspec colnum="4" colname="4" colwidth="35*" /><cals:colspec colnum="5" colname="5" colwidth="16*" /><cals:tbody><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>Gegenstandswert</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>volle
+Gebühr ( <lxbase:sup>10</lxbase:sup>/ <lxbase:sub>10</lxbase:sub>)</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>Gegenstandswert</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0"><lxbase:a>volle
+Gebühr ( <lxbase:sup>10</lxbase:sup>/ <lxbase:sub>10</lxbase:sub>)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>Euro
+</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry align="center" colname="4"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry align="center" colname="5"><lxbase:a>Euro</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+300</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>25</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+170 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+662</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+600</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>45</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+185 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+739</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+900</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>65</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+200 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+816</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+1 200</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>85</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+230 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+934</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+1 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>105</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+260 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+052</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+2 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>133</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+290 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+170</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+2 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>161</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+320 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+293</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+3 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>189</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+350 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+347</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+3 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>217</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+380 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+399</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+4 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>245</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+410 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+450</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+4 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>273</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+440 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+499</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+5 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>301</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+470 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+547</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+6 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>338</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+500 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+594</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+7 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>375</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+550 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+663</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+8 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>412</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+600 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+730</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+9 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>449</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+10 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>486</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry morerows="2" align="center" colname="4" rowsep="0"><lxbase:a>vom
+Mehrbetrag bis 5 000 000 Euro</lxbase:a><lxbase:a> je
+angefangene 50 000 Euro</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>120</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+13 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>526</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+16 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>566</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+19 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>606</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+22 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>646</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry morerows="2" align="center" colname="4" rowsep="0"><lxbase:a>vom
+Mehrbetrag über 5 000 000 Euro bis 25 000 000 Euro</lxbase:a><lxbase:a> je
+angefangene 50 000 Euro</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>90</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+25 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>686</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+30 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>758</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+35 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>830</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+40 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>902</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry morerows="2" align="center" colname="4" rowsep="0"><lxbase:a>vom
+Mehrbetrag über 25 000 000 Euro</lxbase:a><lxbase:a>je
+angefangene 50 000 Euro</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>70</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+45 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>974</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+50 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+046</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+65 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+123</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colsep="0" colname="4" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+80 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+200</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colsep="0" colname="4" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+95 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+277</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colsep="0" colname="4" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+110 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+354</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colsep="0" align="center" colname="4" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+125 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+431</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colsep="0" align="center" colname="4" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+140 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+508</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colsep="0" align="center" colname="4" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry align="center" colname="1"><lxbase:a>bis
+155 000</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>1
+585</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colsep="0" colname="4" /><cals:entry colname="5" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500143">Anlage
+2: Tabelle B (Abschlusstabelle)</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="31*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="5*" /><cals:colspec colnum="4" colname="4" colwidth="28*" /><cals:colspec colnum="5" colname="5" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>Gegenstandswert</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a> volle
+Gebühr ( <lxbase:sup>10</lxbase:sup>/ <lxbase:sub>10</lxbase:sub>)
+</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>Gegenstandswert</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a> volle
+Gebühr ( <lxbase:sup>10</lxbase:sup>/ <lxbase:sub>10</lxbase:sub>)
+</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry align="center" colname="5"><lxbase:a>Euro</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+3 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>39</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+1 750 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+154</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+3 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>46</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+2 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+237</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+4 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>54</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+2 250 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+311</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+4 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>61</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+2 500 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+378</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+5 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>69</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+3 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+441</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+6 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>77</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+3 500 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+566</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+7 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>84</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+4 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+676</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+8 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>92</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+4 500 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+776</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+9 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>97</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+5 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+868</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+10 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>103</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+7 500 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+182</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+12 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>108</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+10 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+536</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+15 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>121</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+12 500 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+824</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+17 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>133</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+15 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>3
+064</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+20 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>143</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+17 500 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>3
+268</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+22 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>153</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+20 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>3
+444</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+25 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>162</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+22 500 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>3
+669</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+37 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>172</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+25 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>3
+876</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+50 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>210</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+30 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>4
+264</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+62 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>243</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+35 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>4
+620</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+75 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>271</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+40 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>4
+951</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+87 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>283</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+45 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>5
+261</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+100 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>296</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+50 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>5
+554</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+125 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>339</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry morerows="3" align="center" colname="4" rowsep="0"><lxbase:a>vom
+Mehrbetrag bis 125 000 000 Euro</lxbase:a><lxbase:a>je
+angefangene 5 000 000 Euro </lxbase:a></cals:entry><cals:entry morerows="3" align="center" colname="5" rowsep="0"><lxbase:a>219</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+150 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>377</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+175 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>410</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+200 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>440</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+225 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>467</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry morerows="3" colname="4" rowsep="0"><lxbase:a>vom
+Mehrbetrag über 125 000 000 Euro bis 250 000 000 Euro</lxbase:a><lxbase:a>je
+angefangene 12 500 000 Euro</lxbase:a></cals:entry><cals:entry morerows="3" align="center" colname="5" rowsep="0"><lxbase:a>383</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+250 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>491</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+300 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>514</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+350 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>559</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+400 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>599</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry morerows="3" colname="4" rowsep="0"><lxbase:a>vom
+Mehrbetrag über 250 000 000 Euro</lxbase:a><lxbase:a>je
+angefangene 25 000 000 Euro</lxbase:a></cals:entry><cals:entry morerows="3" align="center" colname="5" rowsep="0"><lxbase:a>546</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+450 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>634</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+500 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>668</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+625 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>699</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+750 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>776</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+875 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>843</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+1 000 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>903</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+1 250 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>957</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0" /><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry align="center" colname="1"><lxbase:a>bis
+1 500 000</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>1
+062</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500144">Anlage
+3: Tabelle C (Buchführungstabelle)</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="4" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="18*" /><cals:colspec colnum="2" colname="2" colwidth="36*" /><cals:colspec colnum="3" colname="3" colwidth="31*" /><cals:colspec colnum="4" colname="4" colwidth="16*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>Gegenstandswert</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a> volle
+Gebühr ( <lxbase:sup>10</lxbase:sup>/ <lxbase:sub>10</lxbase:sub>)
+</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" /><cals:entry align="center" colname="2"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+15 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>58</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+17 500</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>64</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+20 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>70</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+22 500</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>75</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+25 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>81</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+30 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>87</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+35 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>93</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+40 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>98</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+45 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>104</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+50 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>110</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+62 500</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>116</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+75 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>127</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+87 500</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>139</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+100 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>150</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+125 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>168</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+150 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>185</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+200 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>220</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+250 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>254</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+300 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>289</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+350 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>324</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+400 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>353</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+450 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>381</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>bis
+500 000</lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3" rowsep="0"><lxbase:a>410</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1" /><cals:entry align="center" colname="2"><lxbase:a>vom
+Mehrbetrag über 500 000 Euro je angefangene 50 000 Euro </lxbase:a></cals:entry><cals:entry colsep="0" align="center" colname="3"><lxbase:a>29</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500145">Anlage
+4: Tabelle D Teil a (Landwirtschaftliche Tabelle – Betriebsfläche)</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="31*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="5*" /><cals:colspec colnum="4" colname="4" colwidth="28*" /><cals:colspec colnum="5" colname="5" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>Betriebsfläche</lxbase:a><lxbase:a>Hektar</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a> volle
+Gebühr ( <lxbase:sup>10</lxbase:sup>/ <lxbase:sub>10</lxbase:sub>)
+</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>Betriebsfläche</lxbase:a><lxbase:a>Hektar</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a> volle
+Gebühr ( <lxbase:sup>10</lxbase:sup>/ <lxbase:sub>10</lxbase:sub>)
+</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" /><cals:entry align="center" colname="2"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" /><cals:entry align="center" colname="5"><lxbase:a>Euro</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+40</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>296</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+400</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>987</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+45</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>317</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+420</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+012</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+50</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>337</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+440</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+037</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+55</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>356</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+460</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+061</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+60</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>375</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+480</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+084</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+65</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>392</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+500</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+107</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+70</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>408</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+520</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+130</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+75</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>423</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+540</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+152</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+80</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>437</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+560</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+173</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+85</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>450</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+580</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+194</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+90</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>462</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+600</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+215</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+95</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>472</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+620</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+235</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+100</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>482</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+640</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+254</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+110</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>506</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+660</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+273</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+120</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>529</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+680</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+291</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+130</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>551</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+700</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+309</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+140</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>573</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+750</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+349</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+150</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>595</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+800</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+385</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+160 </lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>616</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+850</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+415</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+170</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>636</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+900</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+441</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+180</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>656</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+950</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+462</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+190</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>675</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+1 000 </lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+478</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+200</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>694</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+210</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>712</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+2 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1,35
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+220</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>730</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+3 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1,23
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+230</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>748</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+4 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1,10
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+240</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>764</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+5 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>0,98
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+250</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>780</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+6 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>0,86
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+260</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>796</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+7 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>0,74
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+270</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>811</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+8 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>0,61
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+280</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>825</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+9 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>0,49
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+290</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>839</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+10 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>0,36
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+300</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>852</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+11 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>0,24
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+320</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>880</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+12 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>0,12
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+340</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>908</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>ab
+12 000 je ha</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>0,12
+mehr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+360</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>935</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry align="center" colname="1"><lxbase:a>bis
+380</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>961</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry align="center" colname="4" /><cals:entry align="center" colname="5" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500146">Anlage
+4: Tabelle D Teil b (Landwirtschaftliche Tabelle – Jahresumsatz)</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="31*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="5*" /><cals:colspec colnum="4" colname="4" colwidth="28*" /><cals:colspec colnum="5" colname="5" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>Jahresumsatz
+i.S.v. § 39 Abs. 5</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a> volle
+Gebühr ( <lxbase:sup>10</lxbase:sup>/ <lxbase:sub>10</lxbase:sub>)
+</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>Jahresumsatz
+i.S.v. § 39 Abs. 5</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a> volle
+Gebühr ( <lxbase:sup>10</lxbase:sup>/ <lxbase:sub>10</lxbase:sub>)
+</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry align="center" colname="5"><lxbase:a>Euro</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+40 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>308</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+255 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+432</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+42 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>323</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+260 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+456</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+45 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>338</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+265 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+478</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+47 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>354</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+270 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+501</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+50 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>369</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+275 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+523</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+55 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>399</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+280 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+545</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+60 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>428</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+285 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+567</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+65 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>458</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+290 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+589</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+70 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>486</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+295 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+610</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+75 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>515</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+300 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+631</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+80 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>544</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+305 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+652</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+85 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>572</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+310 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+673</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+90 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>600</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+315 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+693</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+95 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>628</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+320 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+713</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+100 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>655</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+325 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+733</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+105 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>682</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+330 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+753</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+110 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>709</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+335 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+772</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+115 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>736</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+340 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+791</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+120 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>763</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+345 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+810</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+125 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>789</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+350 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+828</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+130 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>815</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+355 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+847</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+135 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>841</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+360 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+865</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+140 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>868</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+365 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+882</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+145 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>893</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+370 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+900</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+150 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>919</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+375 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+917</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+155 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>945</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+380 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+929</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+160 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>970</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+385 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+951</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+165 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>996</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+390 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+967</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+170 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+021</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+395 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+983</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+175 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+046</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+400 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+999</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+180 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+071</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+410 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+030</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+185 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+096</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+420 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+061</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+190 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+121</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+430 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+092</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+195 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+146</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+440 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+122</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+200 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+170</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+450 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+151</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+205 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+195</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+460 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+180</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+210 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+219</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+470 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+208</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+215 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+243</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+480 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+235</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+220 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+268</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+490 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+260</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+225 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+292</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+500 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+285</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+230 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+315</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry morerows="3" align="center" colname="4" rowsep="0"><lxbase:a>vom
+Mehrbetrag über 500 000 Euro</lxbase:a><lxbase:a>je
+angefangene 50 000 Euro</lxbase:a></cals:entry><cals:entry morerows="2" align="center" colname="5" rowsep="0"><lxbase:a>132</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+235 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+339</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+240 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+363</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+245 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>1
+386</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry align="center" colname="1"><lxbase:a>bis
+250 000</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>1
+409</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry align="center" colname="4" /><cals:entry align="center" colname="5" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D640837500147">Anlage
+5: Tabelle E (Rechtsbehelfstabelle)</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="31*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="5*" /><cals:colspec colnum="4" colname="4" colwidth="28*" /><cals:colspec colnum="5" colname="5" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>Gegenstandswert</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a> volle
+Gebühr ( <lxbase:sup>10</lxbase:sup>/ <lxbase:sub>10</lxbase:sub>)
+</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>Gegenstandswert</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a> volle
+Gebühr ( <lxbase:sup>10</lxbase:sup>/ <lxbase:sub>10</lxbase:sub>)
+</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4"><lxbase:a>Euro</lxbase:a></cals:entry><cals:entry align="center" colname="5"><lxbase:a>Euro</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+300</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>25</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+50 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+046</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+600</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a> 45</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+65 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+123</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+900</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>65</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+80 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+200</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+1 200</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>85</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+95 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+277</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+1 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>105</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+110 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+354</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+2 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>133</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+125 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+431</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+2 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>161</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+140 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+508</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+3 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>189</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+155 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+585</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+3 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>217</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+170 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+662</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+4 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>245</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+185 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+739</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+4 500</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>273</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+200 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+816</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+5 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>301</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+230 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>1
+934</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+6 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>338</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+260 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+052</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+7 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>375</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+290 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+170</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+8 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>412</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+320 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+288</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+9 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>449</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+350 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+406</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+10 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>486</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+380 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+524</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+13 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>526</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+410 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+642</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+16 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>566</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+440 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+760</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+19 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>606</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+470 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+878</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+22 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>646</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0"><lxbase:a>bis
+500 000</lxbase:a></cals:entry><cals:entry align="center" colname="5" rowsep="0"><lxbase:a>2
+996</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+25 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>686</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry align="center" colname="4" rowsep="0" /><cals:entry align="center" colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+30 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>758</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry morerows="3" align="center" colname="4"><lxbase:a>vom
+Mehrbetrag über 500 000 Euro</lxbase:a><lxbase:a>je
+angefangene 50 000 Euro</lxbase:a></cals:entry><cals:entry morerows="2" align="center" colname="5" rowsep="0"><lxbase:a>150</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+35 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>830</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1" rowsep="0"><lxbase:a>bis
+40 000</lxbase:a></cals:entry><cals:entry align="center" colname="2" rowsep="0"><lxbase:a>902</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry align="center" colname="1"><lxbase:a>bis
+45 000</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>974</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry align="center" colname="5" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:norm-text><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Berufsrecht Steuerberater</lxbase:rthema><lxbase:rthema>Elwi-STAP</lxbase:rthema><lxbase:rthema>Berufsrecht</lxbase:rthema><lxbase:rthema>elwi-stap</lxbase:rthema></lxbase:rthemen></lxbase:allgemeine-angaben></lxrno:rechtsnorm>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0579460" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Koblenz</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2532 A - St 31 2</lxbase:aktenzeichen><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2005-06-16" ts="nein" /></lxbase:daten><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:Allgemein</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2005" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Vordrucke für die personelle Einkommensteuerveranlagung
+unbeschränkt und beschränkt Steuerpflichtiger
+für 2004;<lxbase:za />Veranlagungsverfügung vom 15.02.2005
+- S-2319 A - St 31 2 - </lxbase:a></lxbase:headline></lxbase:titel><lxbase:kapitel><lxbase:a>Ergänzend zur o. a. Veranlagungsverfügung teile
+ich Folgendes mit:</lxbase:a><lxbase:a>Die für die Durchführung der personellen Einkommensteuerveranlagungen
+und Feststellungen neu aufgelegten Vordrucke wurden an die ab 2004
+geltende Rechtslage angepasst.</lxbase:a><lxbase:a>a) 	<lxbase:fett><lxbase:unterst>Entfallene Vordrucke:</lxbase:unterst></lxbase:fett></lxbase:a><lxbase:a>Aufgrund der Neuregelung des Verlustabzugs durch Art. 1 des Gesetzes
+zur Umsetzung der Protokollerklärung der Bundesregierung
+zur Vermittlungsempfehlung zum Steuervergünstigungsabbaugesetz
+(sog. <lxbase:fett>"Korb II-Gesetz"</lxbase:fett>) vom 22.12.2003 (<lxprod:doknr-verw linkend="HT0170533">BStBl 2004 I
+S. 14</lxprod:doknr-verw>) und der Neufassung von § 2 Abs. 3 EStG
+durch Art. 9 des Haushaltsbegleitgesetzes 2004 - <lxbase:fett>HBeglG 2004</lxbase:fett> -
+vom 29.12.2003 (<lxbase:lit-fs normform="BStBl-2004-I-0120" manuell="nein">BStBl
+2004 I S. 120</lxbase:lit-fs>) ist die Auflage folgender Vordrucke ab dem
+VZ 2004 nicht mehr erforderlich:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="35*" /><cals:colspec colnum="2" colname="2" colwidth="65*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1. <lxbase:fett>Anlage ESt 2 AM</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>- Mindestbesteuerung § 2 Abs. 3 EStG</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>2. <lxbase:fett>Anlage ESt 3 AM</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>- Mindestbesteuerung § 2 Abs. 3 EStG</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>3. <lxbase:fett>Anlage ESt 2 AV - 1 V</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>- Verlustvortrag nach § 10d EStG -
+Einzelveranlagung</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>4. <lxbase:fett>Anlage ESt 2 AV - 2 V</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> - Verlustvortrag nach § 10d EStG
+- Zusammenveranlagung</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>5. <lxbase:fett>Anlage ESt 2 AV - 1 R</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>- Verlustrücktrag nach § 10d
+EStG - Einzelveranlagung</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>6. <lxbase:fett>Anlage ESt 2 AV - 2 R</lxbase:fett> </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>- Verlustrücktrag nach § 10d
+EStG - Zusammenveranlagung (Verlustrücktrag bis 511.500 €)</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>7. <lxbase:fett>Anlage ESt 2 AV - 3 R</lxbase:fett> </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>- Verlustrücktrag nach § 10d
+ EStG - Zusammenveranlagung</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>b) 	<lxbase:fett><lxbase:unterst>Unveränderte Vordrucke</lxbase:unterst></lxbase:fett></lxbase:a><lxbase:a>Folgende jahresneutrale Vordrucke sind inhaltlich gegenüber
+dem Jahr 2003 nicht geändert worden und können
+weiterhin verwendet werden:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="41*" /><cals:colspec colnum="2" colname="2" colwidth="59*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1. <lxbase:fett>Anlage ESt 2 L/3 L (2002)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>- Gewinnermittlung nach § 13a EStG</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>2.<lxbase:fett> ESt 7g (2003)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>- Überwachungsbogen Ansparabschreibung</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>3. <lxbase:fett>ESt 14a (2003)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>- Überwachungsbogen zu § 14a
+Abs. 4 EStG</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>c) 	<lxbase:fett><lxbase:unterst>Geänderte Vordrucke</lxbase:unterst></lxbase:fett></lxbase:a><lxbase:a>Zu den wesentlichen inhaltlichen Änderungen gegenüber
+dem Vorjahr gebe ich folgende Erläuterungen:</lxbase:a><lxbase:a>1. <lxbase:fett><lxbase:unterst>ESt 2 A</lxbase:unterst></lxbase:fett> - (Berechnungsbogen
+- unbeschränkt Stpfl.)</lxbase:a><lxbase:a>In <lxbase:fett>Zeile 2</lxbase:fett> wurde der Hinweis auf § 14a
+Abs. 5 EStG entfernt, da ein entsprechender Freibetrag im VZ 2004
+nur noch in Ausnahmefällen in Betracht kommt.</lxbase:a><lxbase:a>In den <lxbase:fett>Zeilen 24 und 29</lxbase:fett> werden die durch das HBeglG
+2004 abgesenkten Beträge des Arbeitnehmer-Pauschbetrags
+und des Sparer-Freibetrags ausgewiesen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 39</lxbase:fett> (Versorgungs-Freibetrag bei Leistungen
+aus einem Pensionsfonds in Ausnahmefällen) wurde im Hinblick
+auf § 52 Abs. 34b Satz 1 EStG <lxbase:fett>neu</lxbase:fett> eingefügt.</lxbase:a><lxbase:a>Die <lxbase:fett>bisherigen Zeilen 50 bis 52</lxbase:fett> konnten aufgrund
+der Neufassung von § 2 Abs. 3 EStG durch das HBeglG 2004
+entfallen.</lxbase:a><lxbase:a>Der Gesetzgeber ist im Hinblick auf den Verlustabzug zu der Rechtslage zurückgekehrt,
+die bis zum VZ 1998 galt. Die <lxbase:fett>bisherigen</lxbase:fett> Zeilen zum
+durch Erbfolge übergegangenen und beim Erblasser nicht
+ausgeglichenen Verlust (<lxbase:fett>Zeilen 6, 12, 17, 25, 30, 33 und 48</lxbase:fett>)
+konnten aufgrund der Änderung durch das Korb II-Gesetz
+entfallen. Für den Abzug ererbter Verluste ist einkunftsartenübergreifend
+die <lxbase:fett>neue Zeile 50</lxbase:fett> vorgesehen.</lxbase:a><lxbase:a>Die <lxbase:fett>neue Zeile 60</lxbase:fett> ermöglicht den Abzug
+des Entlastungsbetrags für Alleinerziehende nach § 24b
+EStG, der durch das HBeglG 2004 eingeführt wurde.</lxbase:a><lxbase:a>Die <lxbase:fett>neuen Zeilen 64 bis 70</lxbase:fett> setzen den neuen Verlustabzug
+("Mindestbesteuerung" - § 10d EStG) um und ersetzen die<lxbase:fett> bisherigen
+Zeilen 91 bis 93</lxbase:fett>.</lxbase:a><lxbase:a>Der Abzug für den Haushaltsfreibetrag nach § 32
+Abs. 7 EStG in der <lxbase:fett>bisherigen Zeile 102</lxbase:fett> ist entfallen.</lxbase:a><lxbase:a>Die <lxbase:fett>Zeilen 98 bis 103</lxbase:fett> berücksichtigen die
+Auswirkungen der ab 2004 geänderten Ländergruppeneinteilung
+(BMF-Schreiben vom 17.11.2003, <lxprod:doknr-verw linkend="HT0577925">BStBl I S. 637</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Ebenfalls entfallen konnten die <lxbase:fett>bisherigen Zeilen 105 bis
+114</lxbase:fett> aufgrund der Neufassung von § 2 Abs. 3 EStG
+sowie der Neuregelung des Verlustabzugs.</lxbase:a><lxbase:a><lxbase:fett>Fußnote 19a</lxbase:fett> zu den <lxbase:fett>Zeilen 118, 125
+und 140</lxbase:fett> weist darauf hin, dass bei Eintragungen darauf zu
+achten ist, dass der hier ggf. einzutragende Quellensteuerhöchstsatz
+lt. DBA die ESt zuzüglich des SolZ umfasst (BFH-Urteil
+vom 13.11.2002, <lxprod:doknr-verw linkend="HT0814499">BStBl
+2003 II S. 587</lxprod:doknr-verw>).</lxbase:a><lxbase:a><lxbase:fett>Zeile 140</lxbase:fett> wurde um Auswahlfelder zur Steuersatzbegrenzung
+ergänzt.</lxbase:a><lxbase:a>Die <lxbase:fett>neue Zeile 180</lxbase:fett> berücksichtigt die Änderungen
+von § 34 Abs. 3 EStG durch das HBeglG 2004.</lxbase:a><lxbase:a>Für den in Nummer 2 des Zusatzprotokolls vom 12.11.2003
+zu Art. 23 DBA-Belgien vorgesehenen Minderungsbetrag steht die <lxbase:fett>neue
+Zeile 186</lxbase:fett> zur Verfügung.</lxbase:a><lxbase:a>Die Neufassung vom § 31 Satz 4 EStG sowie die Aufhebung
+von § 36 Abs. 2 Satz 1 EStG durch das StÄndG 2003
+vom 15.12.2003 (<lxbase:lit-fs normform="BStBl-2004-I-0710" manuell="nein">BStBl
+2004 I S. 710</lxbase:lit-fs>) erforderte die Anpassung von <lxbase:fett>Zeile
+217</lxbase:fett>.</lxbase:a><lxbase:a>Die <lxbase:fett>neue Fußnote 27a zu Zeile 315</lxbase:fett> korrespondiert
+mit der neuen Fußnote 19a und den Erläuterungen
+zu den Zeilen 118, 125 und 140.</lxbase:a><lxbase:a>Aufgrund der Neufassung von § 10 Abs. 1 Nr. 7 EStG durch
+das Gesetz zur Änderung der AO und anderer Gesetze vom
+21.07.2004 (BGBl I S. 1753) wurde <lxbase:fett>Zeile 504</lxbase:fett> neu gefasst.</lxbase:a><lxbase:a /><lxbase:a>Die ab dem VZ 2004 geltende Rundungsregel in § 10c 
+Abs. 2 Satz 3 EStG i. d. F. des § 52 Abs. 24c EStG wurde
+in den <lxbase:fett>Zeilen 528 und 532</lxbase:fett> berücksichtigt.</lxbase:a><lxbase:a>lm Hinblick auf die Begrenzung des Abzugs bestimmter Versicherungsbeiträge als
+Sonderausgaben durch § 10 Abs. 1 Nr. 2 Buchst. b Satz 2
+EStG i. d. F. des HBeglG 2004 wurde die <lxbase:fett>bisherige Zeile 560</lxbase:fett> in
+die <lxbase:fett>Zeilen 560 und 561</lxbase:fett> aufgegliedert.</lxbase:a><lxbase:a>Die bisherigen <lxbase:fett>Fußnoten</lxbase:fett> 13, 14, 17 und
+22 konnten entfallen. Die Fußnoten 3, 4, 11 und 19 wurden
+an die aktuelle Rechtslage angepasst. Die Fußnoten 13,
+14, 15 und 27a wurden neu aufgenommen.</lxbase:a><lxbase:a>2. <lxbase:fett><lxbase:unterst>ESt 3 A</lxbase:unterst> </lxbase:fett>	- (Bescheid - unbeschränkt
+Stpfl.)</lxbase:a><lxbase:a>Die im Berechnungsbogen <lxbase:kursiv>"ESt 2 A"</lxbase:kursiv> vorgenommenen Änderungen
+wurden im personellen ESt-Bescheid <lxbase:kursiv>"ESt 3 A"</lxbase:kursiv> nachvollzogen.
+Die Rechtsbehelfsbelehrung wurde angepasst.</lxbase:a><lxbase:a>3. <lxbase:unterst><lxbase:fett>ESt 2 B/3 B </lxbase:fett></lxbase:unterst>	- (Feststellungsbogen/-bescheid)</lxbase:a><lxbase:a>Aufgrund des Beschlusses der Referatsleiter AO und KSt zur <lxbase:fett>sog.</lxbase:fett> <lxbase:kursiv><lxbase:fett>"Brutto-Feststellung"</lxbase:fett></lxbase:kursiv> werden
+die Einkünfte nicht mehr im Feststellungsbogen und -bescheid
+selbst ausgewiesen. </lxbase:a><lxbase:a>Die festgestellten Besteuerungsgrundlagen ergeben sich aus den
+beizufügenden Anlagen.</lxbase:a><lxbase:a>4. <lxbase:fett><lxbase:unterst>Anlagen zum Vordruck ESt 2 B13 B</lxbase:unterst></lxbase:fett></lxbase:a><lxbase:a>Die Vordrucke "<lxbase:kursiv><lxbase:fett>ESt 4 B-FE 1 "</lxbase:fett></lxbase:kursiv>, <lxbase:kursiv><lxbase:fett>"ESt
+4 B-FE 2/3"</lxbase:fett></lxbase:kursiv>,<lxbase:kursiv><lxbase:fett> "ESt 4 B-FE
+AUS 1/2"</lxbase:fett></lxbase:kursiv>,<lxbase:kursiv><lxbase:fett> "ESt 4 B-FE KAP</lxbase:fett></lxbase:kursiv>"
+und <lxbase:kursiv><lxbase:fett>"ESt 4 B-FE K"</lxbase:fett></lxbase:kursiv> wurden inhaltlich
+an die Muster 2004 der <lxbase:unterst>Anlagen</lxbase:unterst> <lxbase:kursiv>"FE 1</lxbase:kursiv>", <lxbase:kursiv>"FE
+2"</lxbase:kursiv>, <lxbase:kursiv>"FE 3"</lxbase:kursiv>,"<lxbase:kursiv>FE-AUS 1"</lxbase:kursiv>,<lxbase:kursiv>"FE-AUS
+2"</lxbase:kursiv>,<lxbase:kursiv>"FE-KAP"</lxbase:kursiv> und <lxbase:kursiv>"FE-K"</lxbase:kursiv> angeglichen.</lxbase:a><lxbase:a>In der Mitteilung <lxbase:kursiv><lxbase:fett>"ESt 4 B-FE 1"</lxbase:fett></lxbase:kursiv> wurde
+zudem für den bei der Veranlagung einer natürlichen
+Person anzusetzenden Gewinn ein <lxbase:fett>gesonderter Zeilenblock</lxbase:fett> angefügt.
+Damit soll <lxbase:fett>nachrichtlich</lxbase:fett> (wegen der Brutto-Feststellung)
+dem Bearbeiter der bei der Veranlagung einer natürlichen
+Person anzusetzende Gewinn bzw. Überschuss mitgeteilt werden.</lxbase:a><lxbase:a>5. <lxbase:unterst><lxbase:fett>ESt 2 C/3 C/4 C</lxbase:fett></lxbase:unterst> 	-
+(Gesonderte Feststellung des Gewinns)</lxbase:a><lxbase:a>Auf eine gesonderte Feststellung von Gewinnen i. S. d. § 14a
+Abs. 5 EStG, die in den Einkünften aus Land- und Forstwirtschaft
+enthalten sind, wird verzichtet, da eine Anwendung der Vorschrift
+im Feststellungszeitraum 2004 nur noch in Ausnahmefällen
+in Betracht kommt.</lxbase:a><lxbase:a>Die Beschreibung des Umfangs der in den Einkünften enthaltenen
+gewerblichen Einkünfte für Zwecke des § 35
+EStG wurde verbessert.</lxbase:a><lxbase:a>Aufgrund des statistischen Jahrs 2004 wurde der Verfügungspunkt
+7 ergänzt.</lxbase:a><lxbase:a><lxbase:fett>Fußnote 5</lxbase:fett> wurde aufgrund der Aufhebung
+von § 10 Abs. 6 AStG angepasst.</lxbase:a><lxbase:a>Die Rechtsbehelfsbelehrung wurde angepasst. </lxbase:a><lxbase:a>6. <lxbase:unterst><lxbase:fett>ESt 2 D/3 D</lxbase:fett></lxbase:unterst> 	- (Verlustfeststellungsbogen/-bescheid) </lxbase:a><lxbase:a>Die Rechtsbehelfsbelehrung wurde angepasst.</lxbase:a><lxbase:a>7. <lxbase:fett><lxbase:unterst>ESt 2 E/3 E</lxbase:unterst></lxbase:fett> 	- (Gesonderte
+Feststellungen nach § 2a EStG) </lxbase:a><lxbase:a>Die Rechtsbehelfsbelehrung wurde angepasst.</lxbase:a><lxbase:a>8. <lxbase:fett><lxbase:unterst>ESt 5 A (2004)</lxbase:unterst></lxbase:fett> - (Anfrage/Mitteilung
+bei getrennter Veranlagung)</lxbase:a><lxbase:a>Anlässlich der Weiterentwicklung des ESt-Festsetzungsprogramms
+bei den außergewöhnlichen Belastungen (Differenzierung
+nach solchem mit und solchen ohne Opfergrenzenberechnung) wurden
+die zu den <lxbase:fett>Kennzahlen 14.100, 14.161, 14.166 und 14.167</lxbase:fett> beschriebenen
+Besteuerungsmerkmale in den Vordruck aufgenommen.</lxbase:a><lxbase:a>Die Beschreibung zur <lxbase:fett>Kennzahl 14.180</lxbase:fett> wurde aufgrund
+der ab 2004 geänderten Ländergruppeneinteilung
+angepasst.</lxbase:a><lxbase:a>9. <lxbase:fett><lxbase:unterst>ESt 7 A (2004)</lxbase:unterst></lxbase:fett> 	- (Überwachungsbogen
+für Gebäude)</lxbase:a><lxbase:a>Aufgrund der Änderung von § 7 Abs. 5 EStG durch
+das HBeglG 2004 wurde <lxbase:fett>Zeile 25</lxbase:fett> ergänzt und <lxbase:fett>Zeile
+26 neu</lxbase:fett> eingefügt.</lxbase:a><lxbase:a>10. <lxbase:unterst><lxbase:fett>ESt 2 G</lxbase:fett></lxbase:unterst> 	- (Berechnungsbogen
+- beschränkt Stpfl.)</lxbase:a><lxbase:a>In <lxbase:fett>Zeile 2</lxbase:fett> wurde der Hinweis auf § 14a
+Abs. 5 EStG entfernt, da ein entsprechender Freibetrag im VZ 2004
+nur noch in Ausnahmefällen in Betracht kommt.</lxbase:a><lxbase:a>In <lxbase:fett>Zeile 16</lxbase:fett> wird der durch das HBeglG 2004 abgesenkte
+Betrag des Arbeitnehmer-Pauschbetrags ausgewiesen.</lxbase:a><lxbase:a>Mit dem Korb II-Gesetz ist der Gesetzgeber im Hinblick auf den
+Verlustabzug zu der Rechtslage zurückgekehrt, die bis zum
+VZ 1998 galt. Die bisherigen Zeilen zum durch Erbfolge übergegangenen
+und beim Erblasser nicht ausgeglichenen Verlust (<lxbase:fett>Zeilen 4,
+10, 14, 20, 24, 27 und 32</lxbase:fett>) konnten daher entfallen. Für den
+Abzug wurde die <lxbase:fett>neue Zeile 33</lxbase:fett> vorgesehen.</lxbase:a><lxbase:a>Die <lxbase:fett>bisherigen Zeilen 34 und 35</lxbase:fett> konnten aufgrund
+der Neufassung von § 2 Abs. 3 EStG durch das HBeglG 2004
+entfallen.</lxbase:a><lxbase:a>Die ab dem VZ 2004 geltende Rundungsregel in § 10c Abs.
+2 Satz 3 EStG i. d. F. des § 52 Abs. 24c EStG wurde in
+den <lxbase:fett>Zeilen 57 und 61</lxbase:fett> berücksichtigt.</lxbase:a><lxbase:a>Die <lxbase:fett>neuen Zeilen 63 bis 69</lxbase:fett> setzen den neuen Verlustabzug
+(<lxbase:kursiv>"Mindestbesteuerung"</lxbase:kursiv> - § 10d  EStG) um
+und ersetzen die <lxbase:fett>bisherigen Zeilen 71 bis 73</lxbase:fett>.</lxbase:a><lxbase:a>Ebenfalls entfallen konnten die <lxbase:fett>bisherigen Zeilen 75 bis
+84</lxbase:fett> aufgrund der Neufassung von § 2 Abs. 3 EStG sowie
+der Neuregelung des Verlustabzugs.</lxbase:a><lxbase:a><lxbase:fett>Fußnote 7a</lxbase:fett> weist auf den begrenzten Anwendungsbereich
+des Mindeststeuersatzes i. S. d. § 50 Abs. 3 Satz 2 EStG
+hin (BFH-Urteil vom 19.11.2003, <lxbase:lit-fs normform="BStBl-2003-II-0773" manuell="nein">BStBl II S. 773</lxbase:lit-fs> und BMF-Schreiben
+vom 10.09.2004, BStBl I S. 860).</lxbase:a><lxbase:a><lxbase:fett>Fußnote 7b</lxbase:fett> zu den Zeilen 92, 107 und 115
+weist darauf hin, dass bei Eintragungen darauf zu achten ist, dass
+der hier ggf. einzutragende Quellensteuerhöchstsatz lt.
+DBA die ESt zuzüglich des SolZ umfasst (BFH-Urteil vom 13.11.2002, <lxprod:doknr-verw linkend="HT0814499">BStBl 2003
+II S. 587</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Die bei Bezug von Einkünften aus nichtselbständiger
+Arbeit für den Mindeststeuersatz maßgebliche Bezugsgröße
+wurde in<lxbase:fett> Zeile 98</lxbase:fett> richtig gestellt.</lxbase:a><lxbase:a><lxbase:fett>Zeile 115</lxbase:fett> wurde um Auswahlfelder zur Steuersatzbegrenzung
+ergänzt.</lxbase:a><lxbase:a>Die <lxbase:fett>neue Zeile 155</lxbase:fett> berücksichtigt die Änderungen
+von § 34 Abs. 3 EStG durch das HBeglG 2004.</lxbase:a><lxbase:a>Für den in Nr. 2 des Zusatzprotokolls vom 12.11.2003
+zu Art. 23 DBA-Belgien vorgesehenen Minderungsbetrag steht die<lxbase:fett> neue
+Zeile 161</lxbase:fett> zur Verfügung.</lxbase:a><lxbase:a>Die <lxbase:fett>neue Fußnote 11a</lxbase:fett> zu <lxbase:fett>Zeile 310</lxbase:fett> korrespondiert
+mit der neuen Fußnote 7b und den Eintragungen zu den Zeilen
+92, 107 und 115.</lxbase:a><lxbase:a>Aufgrund der Neuregelung des Verlustabzugs durch das Korb II-Gesetz
+und der Neufassung von § 2 Abs. 3 EStG durch das HBeglG
+2004 konnte der <lxbase:fett>Unterabschnitt "<lxbase:kursiv>V. Verlustausgleich</lxbase:kursiv>"</lxbase:fett> entfallen.</lxbase:a><lxbase:a>11. <lxbase:fett><lxbase:unterst>ESt 3 G</lxbase:unterst></lxbase:fett>	 - (Bescheid - beschränkt
+Stpfl.)</lxbase:a><lxbase:a>Die im Berechnungsbogen "ESt 2 G" vorgenommenen Änderungen
+wurden im personellen ESt-Bescheid "ESt 3 G" nachvollzogen. Die
+Rechtsbehelfsbelehrung wurde angepasst.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Rheinland-Pfalz</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

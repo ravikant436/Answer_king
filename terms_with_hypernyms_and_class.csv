@@ -1,0 +1,737 @@
+,Entity,Original_word,Class,Hypernyms,Paragraph Id,File
+0,Buchführung,Buchführungspflicht,Entity,[],para_1,0011317.xml
+1,23. März,23. März,,,para_3,0011317.xml
+2,Bundesautobahn 22,A - 22,,,para_3,0011317.xml
+3,2. Juni,2. Juni,,,para_3,0011317.xml
+4,Bundesstraße 2,B - 2,,,para_3,0011317.xml
+5,28. Januar,28. Januar,,,para_4,0011317.xml
+6,Bundesautobahn 3,A - 3,,,para_4,0011317.xml
+7,Friedrich III. (Brandenburg-Bayreuth),III,,,para_4,0011317.xml
+8,Unternehmenskauf,Übernahme,Entity,[],para_10,0011317.xml
+9,Betriebsstoff,Betriebs,,,para_10,0011317.xml
+10,Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte,Gemä,,,para_12,0011317.xml
+11,Gesetz,Gesetzen,,,para_12,0011317.xml
+12,Steuer,Besteuerung,Entity,[],para_12,0011317.xml
+13,Landwirtschaft,Land,Entity,[],para_12,0011317.xml
+14,Grundrechte,Grund,Entity,[],para_12,0011317.xml
+15,Kaufmann (HGB),Kaufmannseigenschaft,,,para_12,0011317.xml
+16,Landgericht,Land,Entity,[],para_12,0011317.xml
+17,Ausgleichsanspruch des Handelsvertreters,Ausgleichsanspruch des Handelsvertreters,,,para_12,0011317.xml
+18,13. Mai,13. Mai,,,para_12,0011317.xml
+19,Bundesgesetzblatt (Deutschland),BGBl,,,para_12,0011317.xml
+20,Unternehmen,Unternehmens,,,para_12,0011317.xml
+21,Handelsregister,Handelsregister,Entity,['Tabelle'],para_12,0011317.xml
+22,Handelsgesetzbuch,HGB,,,para_12,0011317.xml
+23,Abgabenordnung,AO,,,para_13,0011317.xml
+24,29. Juni,29. Juni,,,para_13,0011317.xml
+25,West Autobahn,A - 1,,,para_13,0011317.xml
+26,Lich,lich,,,para_14,0011317.xml
+27,Umsatzsteuergesetz (Deutschland),UStG,,,para_14,0011317.xml
+28,Deutsche Mark,DM,Entity,[],para_14,0011317.xml
+29,Brandenburg,bb,,,para_15,0011317.xml
+30,Vermögen von Parteien und Massenorganisationen der DDR,Vermögen,Entity,[],para_15,0011317.xml
+31,Forstwirtschaft,Forstwirtschaft,Entity,[],para_16,0011317.xml
+32,Mark (DDR),DM,Entity,[],para_16,0011317.xml
+33,Große Mühl,Größe,Entity,"['Lebewesen', 'Lebewesen']",para_17,0011317.xml
+34,Land- und forstwirtschaftlicher Betrieb,land- und forstwirtschaftlichen,,,para_17,0011317.xml
+35,Betrieb,Betrieb,Entity,[],para_17,0011317.xml
+36,Shara Worden,worden,,,para_17,0011317.xml
+37,Forstwirt,Forstwirt,Entity,"['Lebewesen', 'Lebewesen']",para_17,0011317.xml
+38,Grundstück,Grundstücke,,,para_17,0011317.xml
+39,Bewirtschaftung,bewirtschaftet,,,para_17,0011317.xml
+40,31. Januar,31. Januar,,,para_17,0011317.xml
+41,Bundesautobahn 6,A - 6,,,para_17,0011317.xml
+42,Konjunkturpaket II,II,,,para_17,0011317.xml
+43,Bundesstraße 11,B 11,,,para_17,0011317.xml
+44,Vermögen (Fähigkeit),Vermögen,Entity,[],para_17,0011317.xml
+45,Sinn (Wahrnehmung),Sinne,,,para_17,0011317.xml
+46,Zahl,zählen,Entity,[],para_17,0011317.xml
+47,Fläche (Mathematik),Flächen,,,para_17,0011317.xml
+48,Ertragsteuer,ertragsteuerlichen,,,para_17,0011317.xml
+49,Betriebsvermögen,Betriebsvermögen,Entity,[],para_17,0011317.xml
+50,Wertpapier,Wert,Entity,[],para_17,0011317.xml
+51,Wirtschaftsgut (Steuerlehre),Wirtschaftsgüter,,,para_17,0011317.xml
+52,Einheitswert,Einheitsbewertung,Entity,[],para_17,0011317.xml
+53,Rechtsnorm,Vorschriften,,,para_17,0011317.xml
+54,Größenordnung (Fläche),Flächen,,,para_17,0011317.xml
+55,Vergleichswertverfahren,Vergleichswert,Entity,[],para_17,0011317.xml
+56,Bewertungsgesetz,BewG,,,para_17,0011317.xml
+57,Gemeiner Wert,gemeinen Wert,,,para_17,0011317.xml
+58,Bewertung (Rechnungswesen),bewertet,,,para_17,0011317.xml
+59,Wert (Wirtschaft),Wert,Entity,[],para_17,0011317.xml
+60,Vermögen (Wirtschaft),Vermögens,,,para_17,0011317.xml
+61,Menschenwürde,würde,,,para_17,0011317.xml
+62,Wertvorstellung,Wert,Entity,[],para_17,0011317.xml
+63,Gewinn,Gewinn,Entity,[],para_18,0011317.xml
+64,Jahr,Kalenderjahres,,,para_18,0011317.xml
+65,Geschäftsjahr,Wirtschaftsjahr,Entity,[],para_18,0011317.xml
+66,Mach-Zahl,ma,,,para_18,0011317.xml
+67,Jahresabschlussprüfung,Prüfung,Entity,[],para_18,0011317.xml
+68,Einkommensteuergesetz,EStG,,,para_18,0011317.xml
+69,Einkommensteuer-Durchführungsverordnung,EStDV,,,para_18,0011317.xml
+70,Landwirt,Land,Entity,[],para_19,0011317.xml
+71,Einkommensteuer,Einkommensteuer,Entity,[],para_19,0011317.xml
+72,Jahrmillion,ma,,,para_19,0011317.xml
+73,Zeitpunkt,Zeitpunkt,Entity,[],para_19,0011317.xml
+74,Veranlagung (Steuerrecht),Veranlagung,Entity,[],para_19,0011317.xml
+75,Umsatzsteuer,Umsatzsteuer,Entity,[],para_19,0011317.xml
+76,Finanzbehörde,Finanzbehörde,Entity,['Gebäude'],para_20,0011317.xml
+77,Grundschule,Grund,Entity,[],para_20,0011317.xml
+78,Schulabschluss,Abschlüsse,,,para_20,0011317.xml
+79,Steuerbescheid,Steuerbescheid,Entity,[],para_21,0011317.xml
+80,Grundlagenbescheid,Feststellungsbescheid,Entity,[],para_21,0011317.xml
+81,Einkommensteuererklärung,Einkommensteuererklärung,Entity,['Steuererklärung'],para_21,0011317.xml
+82,Steuerpflicht,Steuerpflichtigen,,,para_22,0011317.xml
+83,Order of Canada,cc,,,para_23,0011317.xml
+84,Bilanz,Eröffnungsbilanz,Entity,['Berechnung'],para_23,0011317.xml
+85,Gold,au,,,para_23,0011317.xml
+86,Naci Erdem,erdem,,,para_23,0011317.xml
+87,Datenverarbeitung,Datenverarbeitungsanlage,Entity,[],para_23,0011317.xml
+88,Steuererklärung,Steuererklärung,Entity,[],para_24,0011317.xml
+89,Betriebswirtschaftslehre,Betriebs,,,para_25,0011317.xml
+90,Eigentum,Erwerb,Entity,[],para_25,0011317.xml
+91,Begründung,Begründung,Entity,[],para_25,0011317.xml
+92,Maßeinheit,ma,,,para_26,0011317.xml
+93,Anlagevermögen,Anlage,Entity,[],para_26,0011317.xml
+94,Einkommensteuer (Deutschland),Einkommensteuerbescheid,Entity,['Steuerbescheid'],para_26,0011317.xml
+95,Grundbesitz,land,,,para_26,0011317.xml
+96,Kasus,Fall,Entity,[],para_27,0011317.xml
+97,Kausalität,Wirkung,Entity,[],para_27,0011317.xml
+98,Aostatal,AO,,,para_27,0011317.xml
+99,Überquerung,überschritten,,,para_27,0011317.xml
+100,Verfassungsbeschwerde,Beschwerde,Entity,[],para_28,0011317.xml
+101,Richter (Deutschland),Unabhängig,,,para_28,0011317.xml
+102,Verfahrensrecht,Verfahrensrecht,Entity,[],para_29,0011317.xml
+103,Lohnsteuer,Lohnsteuer,Entity,['Einkommensteuer'],para_29,0011317.xml
+104,Steuerfestsetzung,Festsetzung,Entity,[],para_6,0019421.xml
+105,Steuervorauszahlung,Vorauszahlungen,,,para_6,0019421.xml
+106,Erbbaurecht,Erbbaurecht,Entity,[],para_9,0019421.xml
+107,Nießbrauch,Nießbrauch,Entity,['Nutzungsrecht'],para_10,0019421.xml
+108,Ehe,Ehegatten,,,para_12,0019421.xml
+109,Wirtschaftliche Betrachtungsweise,Wirtschaftliches Eigentum,,,para_14,0019421.xml
+110,Güterrecht,Güterstand,Entity,[],para_15,0019421.xml
+111,Mitunternehmerschaft,Mitunternehmerschaft,,,para_16,0019421.xml
+112,Vorweggenommene Erbfolge,vorweggenommenen Erbfolge,,,para_17,0019421.xml
+113,Boden (Produktionsfaktor),Bodens,,,para_23,0019421.xml
+114,Lockheed U-2,u. 2,,,para_25,0019421.xml
+115,Fallen (Geologie),Fällen,,,para_25,0019421.xml
+116,Schacht (Bergbau),Nutzung,Entity,[],para_25,0019421.xml
+117,Kataster,Liegenschaftskataster,Entity,['Tabelle'],para_25,0019421.xml
+118,Bonifatius VIII.,VIII,,,para_29,0019421.xml
+119,Gregor IX.,IX,,,para_29,0019421.xml
+120,Gewerkschaft Deutscher Lokomotivführer,GDL,,,para_30,0019421.xml
+121,Zahlung,Zahlung,Entity,[],para_30,0019421.xml
+122,Freibetrag,Freibeträge,,,para_31,0019421.xml
+123,Zuständigkeit,Zuständigkeit,Entity,[],para_48,0019421.xml
+124,Feststellungsklage,Feststellung,Entity,[],para_48,0019421.xml
+125,Ermittlungsverfahren,Ermittlung,Entity,[],para_51,0019421.xml
+126,Forderungsbesichertes Wertpapier,Abs,,,para_57,0019421.xml
+127,Selbständigkeit (beruflich),selbständig,Entity,[],para_60,0019421.xml
+128,Satz (Grammatik),Satz,Entity,[],para_61,0019421.xml
+129,Verdichtungsverhältnis,vgl,,,para_61,0019421.xml
+130,Antiblockiersystem,Abs,,,para_61,0019421.xml
+131,Bundessteuerblatt,BStBl,,,para_61,0019421.xml
+132,Elliniki Radiofonia Tileorasi,ert,,,para_63,0019421.xml
+133,Einkommensteuer-Richtlinien,EStR,,,para_65,0019421.xml
+134,Verfügungsverbot,Veräußerungs,,,para_66,0019421.xml
+135,Kleingewerbe,Kleingewerbetreibender,Entity,"['Lebewesen', 'Lebewesen']",para_67,0019421.xml
+136,Veräußerung,Veräußerung,Entity,[],para_67,0019421.xml
+137,Boden (Bodenkunde),Bodens,,,para_68,0019421.xml
+138,Laufendes Gut,laufenden,,,para_68,0019421.xml
+139,Daniel Weder,weder,,,para_71,0019421.xml
+140,Betriebsmittel (Produktion),Betriebsmitteln,,,para_71,0019421.xml
+141,Falabella,Nutzung,Entity,[],para_71,0019421.xml
+142,Infimum und Supremum,im allgemeinen,,,para_72,0019421.xml
+143,Gemüse,Gemüse,Entity,[],para_72,0019421.xml
+144,Schnittblume,Blumen,,,para_72,0019421.xml
+145,Zierpflanzenbau,Zierpflanzenanbau,,,para_72,0019421.xml
+146,Baumschule,Baumschulen,,,para_72,0019421.xml
+147,Weinbau,Weinbau,Entity,[],para_72,0019421.xml
+148,Hopfen,Hopfen,Entity,"['Lebewesen', 'Lebewesen']",para_72,0019421.xml
+149,Gemüsespargel,Spargel,Entity,"['Lebewesen', 'Lebewesen']",para_72,0019421.xml
+150,Obstbau,Obstbau,Entity,"['Anbau', 'Anbau']",para_72,0019421.xml
+151,Maschine,Maschinen,,,para_72,0019421.xml
+152,Gerät,Geräten,,,para_72,0019421.xml
+153,Dünger,Düngung,Entity,[],para_72,0019421.xml
+154,Kultur,Kulturen,,,para_72,0019421.xml
+155,Mitglied,Mitgliedschaft,Entity,[],para_72,0019421.xml
+156,Landwirtschaftliche Alterskasse,landwirtschaftliche Alterskasse,,,para_72,0019421.xml
+157,Agrarstruktur,Agrarstruktur,Entity,[],para_72,0019421.xml
+158,Dritte Welt,Dritten,,,para_74,0019421.xml
+159,Privatschule,private,,,para_75,0019421.xml
+160,Nutzgarten,Hausgärten,,,para_75,0019421.xml
+161,Kleingarten,Schrebergärten,,,para_75,0019421.xml
+162,Erla (Fluss),Erla,,,para_75,0019421.xml
+163,Friedrich Wilhelm III. (Preußen),III,,,para_77,0019421.xml
+164,Altpreußisches Infanterieregiment No. 2 (1806),Nr. 2,,,para_77,0019421.xml
+165,Pachtvertrag (Deutschland),Verpachtete,,,para_78,0019421.xml
+166,Heideland (Thüringen),Heideland,Entity,['Fläche'],para_79,0019421.xml
+167,Unland,Unland,,,para_80,0019421.xml
+168,Wassergraben,Wassergräben,,,para_80,0019421.xml
+169,Brache,Brachliegende,,,para_81,0019421.xml
+170,Sozialbrache,Sozialbrache,,,para_81,0019421.xml
+171,Wirtschaftlichkeit,wirtschaftlichen,,,para_81,0019421.xml
+172,Immobiliarmiete,Pachtverhältnis,Entity,[],para_82,0019421.xml
+173,Verwandtschaftsbeziehung,Eltern,Entity,"['Lebewesen', 'Verwandter', 'Lebewesen']",para_82,0019421.xml
+174,Kindheit,Kinder,,,para_82,0019421.xml
+175,Entnahme,Entnahme,Entity,[],para_82,0019421.xml
+176,Veranlagungszeitraum,Veranlagungszeitraum,Entity,['Zeitraum'],para_86,0019421.xml
+177,Einkünfte aus Vermietung und Verpachtung (Deutschland),Einkünfte aus Vermietung und Verpachtung,,,para_86,0019421.xml
+178,Die Zeit,Zeit,Entity,[],para_87,0019421.xml
+179,Ungarn,ung,,,para_89,0019421.xml
+180,Betriebswasser,Betriebs,,,para_90,0019421.xml
+181,Dingliches Recht (Deutschland),Belastung,Entity,[],para_92,0019421.xml
+182,Betriebsveräußerung,Betriebsveräußerung,,,para_92,0019421.xml
+183,Erbbauzins,Erbbauzinsen,,,para_92,0019421.xml
+184,Recht,rechtlichen,,,para_93,0019421.xml
+185,Trdat III.,III,,,para_93,0019421.xml
+186,Rekursion,Beispiele,,,para_95,0019421.xml
+187,Regelungstechnik,Regelung,Entity,[],para_95,0019421.xml
+188,Erbengemeinschaft,Erbengemeinschaft,Entity,[],para_98,0019421.xml
+189,Landwirtschaftliche Nutzfläche,Ackerfläche,Entity,['Fläche'],para_101,0019421.xml
+190,Großseggenried,grö,,,para_101,0019421.xml
+191,Kanton Zug,Zug,Entity,['Fläche'],para_103,0019421.xml
+192,Weinberg,Rebfläche,Entity,['Fläche'],para_104,0019421.xml
+193,Ertrag,Ertrag,Entity,['Einkünfte'],para_104,0019421.xml
+194,Wald,Wald,Entity,['Fläche'],para_104,0019421.xml
+195,Vieh,grö,,,para_105,0019421.xml
+196,Gewinnmitnahme,Gewinnrealisierung,,,para_105,0019421.xml
+197,Wirtschaft,wirtschaftlichen,,,para_108,0019421.xml
+198,Gut (Wirtschaftswissenschaft),Wirtschaftsgut,Entity,[],para_109,0019421.xml
+199,Herausgabeanspruch,Herausgabeanspruch,Entity,['Berechtigung'],para_109,0019421.xml
+200,Elternschaft,Elternteil,Entity,"['Lebewesen', 'Verwandter', 'Lebewesen']",para_109,0019421.xml
+201,Ständigkeit,bzw,,,para_109,0019421.xml
+202,Minderjährigkeit,minderjährigen,,,para_109,0019421.xml
+203,Verwaltungsrecht (Deutschland),Verwaltungsrecht,Entity,[],para_109,0019421.xml
+204,Gütergemeinschaft (Ehe),Gütergemeinschaft,Entity,['Güterstand'],para_111,0019421.xml
+205,Der Betrieb,Betrieb,Entity,[],para_111,0019421.xml
+206,Rolle VD,Rolle,Entity,['Aufgabe'],para_111,0019421.xml
+207,Gewerbe,gewerblichen,,,para_113,0019421.xml
+208,Kapital,Kapital,Entity,[],para_113,0019421.xml
+209,Semantik,Bedeutung,Entity,[],para_113,0019421.xml
+210,Zitat,vgl,,,para_113,0019421.xml
+211,Sozialverhalten,Verhalten,Entity,[],para_116,0019421.xml
+212,Freier Wille,Willen,Entity,[],para_116,0019421.xml
+213,Objektivität,objektiven,,,para_116,0019421.xml
+214,Merkmal,Merkmale,,,para_116,0019421.xml
+215,Karl Überla,überlä,,,para_116,0019421.xml
+216,Stille Reserven,stillen Reserven,,,para_119,0019421.xml
+217,Übereignung,Übertragung,Entity,[],para_120,0019421.xml
+218,Australischer Dollar,au,,,para_122,0019421.xml
+219,Inventar,Inventar,Entity,[],para_122,0019421.xml
+220,Entgelt,unentgeltlich,Entity,[],para_122,0019421.xml
+221,Hektar,ha,,,para_124,0019421.xml
+222,Gebäude,Gebäude,Entity,[],para_124,0019421.xml
+223,Relation,Verhältnis,Entity,[],para_127,0019421.xml
+224,Rechtsnachfolge,Nachfolger,Entity,"['Lebewesen', 'Lebewesen']",para_128,0019421.xml
+225,Erlass (Verwaltungsrecht),Erlasses,,,para_128,0019421.xml
+226,Wahlrecht,Wahlrecht,Entity,['Berechtigung'],para_128,0019421.xml
+227,Wahl,wählen,Entity,[],para_128,0019421.xml
+228,Verfahrenstechnik,verfahren,Entity,[],para_131,0019421.xml
+229,Gewerkschaft,ig,,,para_132,0019421.xml
+230,Einkünfte aus Land- und Forstwirtschaft (Deutschland),Einkünfte aus Land- und Forstwirtschaft,,,para_132,0019421.xml
+231,Notwendige und hinreichende Bedingung,hinreichend,Entity,[],para_132,0019421.xml
+232,Erla (Schwarzenberg),Erla,,,para_135,0019421.xml
+233,Totem,totem,,,para_135,0019421.xml
+234,Finanzamt,Finanzamt,Entity,['Gebäude'],para_135,0019421.xml
+235,Erdoberfläche,Gesamtfläche,Entity,['Fläche'],para_137,0019421.xml
+236,Ludwig II. (Hessen),II,,,para_138,0019421.xml
+237,Frauenwahlrecht,Wahlrecht,Entity,['Berechtigung'],para_138,0019421.xml
+238,Kanton Obwalden,ob,,,para_138,0019421.xml
+239,Staatsgebiet,Fläche,Entity,[],para_138,0019421.xml
+240,Guillotine,Fall,Entity,[],para_138,0019421.xml
+241,Betriebsaufgabe,Betriebsaufgabe,Entity,[],para_138,0019421.xml
+242,Ware,Waren,,,para_139,0019421.xml
+243,Nebenberuf,Nebenberuf,Entity,[],para_141,0019421.xml
+244,Nutzung (Technik),Anwendung,Entity,[],para_145,0019421.xml
+245,Organismus,Organismus,Entity,[],para_145,0019421.xml
+246,Jennifer Weist,Weist,,,para_150,0019421.xml
+247,Bodenschätzung,Bodenschätzung,,,para_150,0019421.xml
+248,Ausschlussfrist,Ausschlußfrist,,,para_153,0019421.xml
+249,Betriebsfinanzamt,Betriebsfinanzamt,,,para_153,0019421.xml
+250,Bebauungsplan (Deutschland),Bebauungsplan,Entity,[],para_153,0019421.xml
+251,Gemeinde (Deutschland),Gemeinde,Entity,[],para_153,0019421.xml
+252,Teilwert,Teilwert,Entity,[],para_154,0019421.xml
+253,Wegerecht (Sachenrecht),Wege,,,para_155,0019421.xml
+254,Acker,Ackerland,Entity,"['Fläche', 'Grünland']",para_155,0019421.xml
+255,Bauland,Bauland,Entity,[],para_155,0019421.xml
+256,Grundsteuer,Grundsteuer,Entity,[],para_155,0019421.xml
+257,U'u,u. U,,,para_155,0019421.xml
+258,Vermögensteuer,Vermögensteuer,Entity,[],para_155,0019421.xml
+259,Erbschaftsteuer,Erbschaftsteuer,Entity,[],para_155,0019421.xml
+260,Achtes Buch Sozialgesetzbuch,VIII,,,para_157,0019421.xml
+261,Jahresüberschuss,Verluste,,,para_157,0019421.xml
+262,Betriebsausgabe,Abzugsverbot,,,para_157,0019421.xml
+263,Bildungssystem in Österreich,allgemein,Entity,[],para_165,0019421.xml
+264,Anschaffungskosten,Anschaffungskosten,Entity,['Kosten'],para_166,0019421.xml
+265,Aktivierung (Rechnungswesen),aktivieren,Entity,[],para_166,0019421.xml
+266,Kapitaleinlage,Einlage,Entity,"['Wertgegenstand', 'Wertgegenstand', 'Wertgegenstand', 'Betrag', 'Geldsumme', 'Betrag']",para_166,0019421.xml
+267,Spareinlage,Einlagen,,,para_166,0019421.xml
+268,Herstellungskosten,Herstellungskosten,Entity,['Kosten'],para_166,0019421.xml
+269,Gesetzblatt,in der Fassung,,,para_169,0019421.xml
+270,Fließ,Flie,,,para_169,0019421.xml
+271,Teilzahlungsgeschäft,Ratenzahlung,Entity,['Zahlung'],para_169,0019421.xml
+272,Veräußerungsgewinn,Veräußerungsgewinn,Entity,['Einkünfte'],para_169,0019421.xml
+273,Kaufvertrag,Käufer,Entity,"['Lebewesen', 'Lebewesen']",para_170,0019421.xml
+274,Senat,Senats,,,para_214,0019421.xml
+275,Bundesfinanzhof,BFH,,,para_214,0019421.xml
+276,Großer Senat,Große Senat,,,para_214,0019421.xml
+277,Regionaler Strukturwandel,Strukturwandel,Entity,[],para_215,0019421.xml
+278,Gartenbau,Gärtnerei,Entity,['Gebäude'],para_215,0019421.xml
+279,1. Juli,1. Juli,,,para_219,0019421.xml
+280,31. Dezember,31. Dezember,,,para_219,0019421.xml
+281,Tilgung (Geldverkehr),Tilgung,Entity,['Zahlung'],para_225,0019421.xml
+282,Schulden,Schulden,Entity,[],para_225,0019421.xml
+283,In einem anderen Land (1957),anderen land,,,para_225,0019421.xml
+284,Ayten Erten,erten,,,para_226,0019421.xml
+285,Abfindung,Abfindung,Entity,"['Wertgegenstand', 'Wertgegenstand', 'Wertgegenstand', 'Betrag', 'Geldsumme', 'Betrag']",para_227,0019421.xml
+286,Erbschaft,Erben,,,para_227,0019421.xml
+287,Gesetzliche Erbfolge,gesetzlichen Erbfolge,,,para_227,0019421.xml
+288,Erbrecht,erbberechtigt,Entity,[],para_227,0019421.xml
+289,Vermächtnis,Vermächtnis,Entity,[],para_227,0019421.xml
+290,Erbe,Erben,,,para_227,0019421.xml
+291,Steuersubvention,Steuervergünstigung,Entity,['Steuererleichterung'],para_231,0019421.xml
+292,Abfindung (Arbeitsrecht Deutschlands),Abfindungen,,,para_232,0019421.xml
+293,Betriebsrat,Betriebs,,,para_232,0019421.xml
+294,Buchstabe,Buchstabe,Entity,[],para_234,0019421.xml
+295,Einkommen,Einkommen,Entity,['Einkünfte'],para_257,0019421.xml
+296,Berliner Mauer,Grenze,Entity,[],para_257,0019421.xml
+297,Großstadt,grö,,,para_262,0019421.xml
+298,Emrah Eren,eren,,,para_262,0019421.xml
+299,Ortsteil,Ortsteil,Entity,['Fläche'],para_262,0019421.xml
+300,Acht (Eifel),acht,Entity,[],para_262,0019421.xml
+301,Oberbürgermeister,ob,,,para_262,0019421.xml
+302,Antragsrecht,Antragsrecht,,,para_266,0019421.xml
+303,Sekundarstufe II,II,,,para_270,0019421.xml
+304,Fragebogen,Fragebogen,Entity,['Formular'],para_270,0019421.xml
+305,Evaluation,Auswertung,Entity,[],para_270,0019421.xml
+306,Beratung,Berater,Entity,"['Lebewesen', 'Lebewesen']",para_270,0019421.xml
+307,Frühkindlicher Reflex,StNr,,,para_270,0019421.xml
+308,Varta AG,AfA,,,para_7,0022233.xml
+309,Nutzungswert,Nutzungswert,,,para_9,0022233.xml
+310,Winzer,Winzer,Entity,"['Lebewesen', 'Lebewesen']",para_13,0022233.xml
+311,Carbonsäureester,EStER,,,para_13,0022233.xml
+312,Wirtschaftszweig,Betriebszweig,Entity,[],para_13,0022233.xml
+313,Fahrgestell,Rahmen,Entity,[],para_13,0022233.xml
+314,Weinbau in Deutschland,Weinbau,Entity,[],para_15,0022233.xml
+315,Ernte,Ernte,Entity,"['Ertrag', 'Einkünfte']",para_16,0022233.xml
+316,Weintraube,Trauben,,,para_16,0022233.xml
+317,Maischen,Maische,Entity,[],para_16,0022233.xml
+318,Most (Getränk),Most,Entity,[],para_16,0022233.xml
+319,Trester (Pressrückstände),Trester,Entity,['Branntwein'],para_16,0022233.xml
+320,Branntwein,Branntwein,Entity,[],para_16,0022233.xml
+321,Backhefe,Hefe,Entity,[],para_16,0022233.xml
+322,Produkt (Wirtschaft),Erzeugnisse,,,para_16,0022233.xml
+323,Privathaushalt,private,,,para_16,0022233.xml
+324,Lebensstil,Lebensführung,Entity,[],para_16,0022233.xml
+325,Aufwand,Aufwendungen,,,para_17,0022233.xml
+326,Bauwerk,Bebauung,Entity,[],para_17,0022233.xml
+327,Straßen- und Wegebau,Ausbau,Entity,[],para_17,0022233.xml
+328,Vertrieb,Vertrieb,Entity,['Gebäude'],para_17,0022233.xml
+329,Karl Groß (Künstler),Grö,,,para_21,0022233.xml
+330,Orhan Eren,eren,,,para_21,0022233.xml
+331,Anlagenbau,Anlagen,,,para_21,0022233.xml
+332,Schädlingsbekämpfung,Schädlingsbekämpfung,Entity,[],para_22,0022233.xml
+333,Hubschrauber,Hubschrauber,Entity,[],para_22,0022233.xml
+334,Genossenschaftsbank,Raiffeisenkassen,,,para_22,0022233.xml
+335,Landwirtschaftliche Berufsgenossenschaft,Landwirtschaftlichen Berufsgenossenschaft,,,para_23,0022233.xml
+336,Berufsgenossenschaft,Berufsgenossenschaft,Entity,[],para_23,0022233.xml
+337,Regierungsbezirk Rheinhessen-Pfalz,Rheinhessen-Pfalz,,,para_23,0022233.xml
+338,Speyer,Speyer,Entity,['Fläche'],para_23,0022233.xml
+339,Abfallentsorgung,Beseitigung,Entity,[],para_24,0022233.xml
+340,Richterskala,starke,,,para_24,0022233.xml
+341,Hochwasser,Überflutungen,,,para_24,0022233.xml
+342,Pfalz (Region),pfälzischen,,,para_24,0022233.xml
+343,Kallstadt,Kallstadt,,,para_24,0022233.xml
+344,Leistadt,Leistadt,,,para_24,0022233.xml
+345,Ungstein,Ungstein,,,para_24,0022233.xml
+346,Freinsheim,Freinsheim,,,para_24,0022233.xml
+347,Friedelsheim,Friedelsheim,,,para_24,0022233.xml
+348,Gönnheim,Gönnheim,,,para_24,0022233.xml
+349,Aßberg (Thüringer Schiefergebirge),a. Berg,,,para_24,0022233.xml
+350,Sachverständiger,sachverständiger,,,para_25,0022233.xml
+351,Gerechtigkeit,gerecht,Entity,[],para_25,0022233.xml
+352,Mitzwa,geboten,Entity,[],para_25,0022233.xml
+353,Handelsvertreter,Vertreter,Entity,"['Lebewesen', 'Lebewesen']",para_25,0022233.xml
+354,Behörde,amtliche,,,para_25,0022233.xml
+355,Absetzung für Abnutzung,AfA,,,para_31,0022233.xml
+356,Kosten,Kosten,Entity,[],para_31,0022233.xml
+357,Vertriebskosten,Vertriebskosten,Entity,['Kosten'],para_32,0022233.xml
+358,Versicherungsbeitrag,Beiträge,,,para_33,0022233.xml
+359,Versicherung (Kollektiv),Versicherung,Entity,"['Wertgegenstand', 'Wertgegenstand', 'Wertgegenstand', 'Betrag', 'Geldsumme', 'Betrag']",para_33,0022233.xml
+360,Weinreben,Reben,,,para_33,0022233.xml
+361,Hagel,Hagelschaden,Entity,[],para_33,0022233.xml
+362,Flurbereinigung,Flurbereinigung,Entity,[],para_34,0022233.xml
+363,Beitrag,Beiträge,,,para_36,0022233.xml
+364,Wasserverband,Wasserverbände,,,para_37,0022233.xml
+365,Beregnung,Beregnung,Entity,[],para_37,0022233.xml
+366,Gros,Ma,,,para_40,0022233.xml
+367,Zahlzeichen,Ziffer,Entity,['Zahl'],para_40,0022233.xml
+368,Abstich (Önologie),Abstich,Entity,[],para_42,0022233.xml
+369,Bierflasche,Flaschen,,,para_42,0022233.xml
+370,Korken,Korken,Entity,[],para_42,0022233.xml
+371,Etikett,Etiketten,,,para_42,0022233.xml
+372,Fracht,Fracht,Entity,[],para_42,0022233.xml
+373,Wasser,Wasser,Entity,[],para_42,0022233.xml
+374,Abwasser,Reinigung,Entity,[],para_42,0022233.xml
+375,Afa (Korsika),AfA,,,para_43,0022233.xml
+376,Pfropfrebe,Pfropfreben,,,para_43,0022233.xml
+377,Nutzungsdauer,Nutzungsdauer,Entity,[],para_43,0022233.xml
+378,Reblaus,Reblaus,Entity,"['Lebewesen', 'Lebewesen']",para_44,0022233.xml
+379,Abschreibung,AfA,,,para_44,0022233.xml
+380,Rechnung,Rechnung,Entity,[],para_44,0022233.xml
+381,Gemeinde,Gemeinde,Entity,[],para_45,0022233.xml
+382,Gemeinde (Frankreich),Gemeinde,Entity,[],para_45,0022233.xml
+383,Ruwer,Ruwer,,,para_47,0022233.xml
+384,Arbeitsverhältnis,Arbeitsverhältnis,Entity,[],para_51,0022233.xml
+385,Arbeitnehmer,Arbeitskräfte,,,para_51,0022233.xml
+386,Beschäftigung,Beschäftigung,Entity,[],para_51,0022233.xml
+387,Arbeitskraft,Arbeitskräfte,,,para_51,0022233.xml
+388,Anzahl,Zahl,Entity,[],para_52,0022233.xml
+389,Schätzung,Schätzung,Entity,[],para_52,0022233.xml
+390,Definition,Definition,Entity,[],para_52,0022233.xml
+391,Begriff (Philosophie),Begriffs,,,para_52,0022233.xml
+392,Erf (Fluss),erfa,,,para_53,0022233.xml
+393,Dafur,dafür,,,para_54,0022233.xml
+394,Arbeit (Physik),Beispiele,,,para_3,0022808.xml
+395,Beschleunigung,Berechnung,Entity,[],para_3,0022808.xml
+396,Strömungswiderstandskoeffizient,Wertes,,,para_3,0022808.xml
+397,Arbeitsleistung,Arbeitsleistung,Entity,[],para_11,0022808.xml
+398,Gemüsebau,Gemüsebau,Entity,"['Anbau', 'Anbau']",para_15,0022808.xml
+399,Zins,Schuldzinsen,,,para_18,0022808.xml
+400,Tierhaltung,Tierhaltung,Entity,[],para_38,0022808.xml
+401,Steuerermäßigung,Steuerermäßigung,Entity,[],para_54,0022808.xml
+402,Bundesministerium der Finanzen,BMF,,,para_54,0022808.xml
+403,Shinyanga (Region),Tz 2.2,,,para_57,0022808.xml
+404,Beschäftigter,beschäftigte,,,para_63,0022808.xml
+405,Lohnunternehmer,Lohnunternehmen,,,para_63,0022808.xml
+406,Pflegeversicherung (Deutschland),Pflege,Entity,['Reinigung'],para_63,0022808.xml
+407,Personenschaden,Personen,,,para_68,0022808.xml
+408,Angehöriger,Angehörige,Entity,"['Lebewesen', 'Lebewesen']",para_68,0022808.xml
+409,Der Fremde (1961),fremde,,,para_68,0022808.xml
+410,Der Dritte,Dritte,,,para_68,0022808.xml
+411,Tabelle Standardnormalverteilung,Tabelle,Entity,[],para_68,0022808.xml
+412,Mittelwert,durchschnittlichen,,,para_68,0022808.xml
+413,Tierversuch,Tieren,,,para_73,0022808.xml
+414,Feinstaub,vgl,,,para_73,0022808.xml
+415,Zimmern (Adelsgeschlecht),von Zimmern,,,para_74,0022808.xml
+416,Kapitalbeteiligung,Beteiligungen,,,para_78,0022808.xml
+417,Urteil (Recht),Urteil,Entity,[],para_82,0022808.xml
+418,Haushund,Zucht,Entity,[],para_94,0022808.xml
+419,Hauspferd,Reitpferde,,,para_94,0022808.xml
+420,Arbeitsentgelt,Löhne,,,para_95,0022808.xml
+421,Kopfkohl,Kopfkohl,,,para_96,0022808.xml
+422,Weißkohl,Weißkohl,Entity,"['Lebewesen', 'Lebewesen']",para_96,0022808.xml
+423,Rotkohl,Rotkohl,Entity,"['Lebewesen', 'Lebewesen']",para_96,0022808.xml
+424,Wirsing,Wirsingkohl,Entity,"['Lebewesen', 'Lebewesen']",para_96,0022808.xml
+425,Fruchtfolge,Fruchtfolge,Entity,[],para_96,0022808.xml
+426,Kohl,Kohlarten,,,para_96,0022808.xml
+427,Erbse,Erbsen,,,para_96,0022808.xml
+428,Bohne,Bohnen,,,para_96,0022808.xml
+429,Kultur (Archäologie),Kulturen,,,para_96,0022808.xml
+430,Weizen,Weizen,Entity,[],para_96,0022808.xml
+431,Roggen,Roggen,Entity,"['Lebewesen', 'Getreide', 'Lebewesen']",para_96,0022808.xml
+432,Gerste,Gerste,Entity,[],para_96,0022808.xml
+433,Hafer,Hafer,Entity,[],para_96,0022808.xml
+434,Rüben,Rüben,,,para_96,0022808.xml
+435,Endivie,Endivien,,,para_96,0022808.xml
+436,Kopfsalat,Kopfsalat,Entity,"['Gemüse', 'Lebewesen', 'Lebewesen']",para_96,0022808.xml
+437,Feldsalat,Feldsalat,Entity,"['Gemüse', 'Lebewesen', 'Lebewesen']",para_96,0022808.xml
+438,Spinat,Spinat,Entity,"['Gemüse', 'Lebewesen', 'Lebewesen']",para_96,0022808.xml
+439,Karotte,Möhren,,,para_96,0022808.xml
+440,Echter Sellerie,Sellerie,Entity,"['Gemüse', 'Lebewesen', 'Lebewesen']",para_96,0022808.xml
+441,Rote Bete,Rote Beete,Entity,['Gemüse'],para_96,0022808.xml
+442,Zwiebel,Zwiebeln,,,para_96,0022808.xml
+443,Rettiche,Rettich,Entity,"['Gemüse', 'Lebewesen', 'Lebewesen']",para_96,0022808.xml
+444,Lauch,Porree,Entity,['Gemüse'],para_96,0022808.xml
+445,Tomate,Tomaten,,,para_96,0022808.xml
+446,Kohlrabi,Kohlrabi,Entity,"['Lebewesen', 'Lebewesen']",para_96,0022808.xml
+447,Gurke,Gurken,,,para_96,0022808.xml
+448,Schwank,schwanken,Entity,[],para_97,0022808.xml
+449,Prozent,v. H,,,para_98,0022808.xml
+450,Einnahme,Einnahmen,,,para_98,0022808.xml
+451,Art – Das Kunstmagazin,Art,Entity,['Verhalten'],para_98,0022808.xml
+452,Marketing,Vermarktung,Entity,[],para_98,0022808.xml
+453,Auktion,Versteigerung,Entity,[],para_98,0022808.xml
+454,Großhandel,Großhandel,Entity,[],para_98,0022808.xml
+455,Hofladen,"ab Hof, Verkauf",,,para_98,0022808.xml
+456,Wochenmarkt,Wochenmarkt,Entity,[],para_98,0022808.xml
+457,Schatzung,Schätzung,Entity,[],para_107,0022808.xml
+458,Klima,Klima,Entity,[],para_108,0022808.xml
+459,Großmarkthalle,Großmarkt,Entity,['Gebäude'],para_109,0022808.xml
+460,Familie,Familienangehörigen,,,para_111,0022808.xml
+461,Wohnung,Wohnzwecken,,,para_111,0022808.xml
+462,Wohnrecht,Wohnrecht,Entity,[],para_111,0022808.xml
+463,Dingliches Recht,dinglich,Entity,[],para_111,0022808.xml
+464,Dauernde Last,dauernde Last,,,para_111,0022808.xml
+465,Graphical Environment Manager,gem,,,para_121,0022808.xml
+466,Windows Aero,Voraussetzungen,,,para_121,0022808.xml
+467,Schätzfunktion,Schätzung,Entity,[],para_129,0022808.xml
+468,Messunsicherheit,Unsicherheiten,,,para_129,0022808.xml
+469,Gehen,gehen,Entity,[],para_129,0022808.xml
+470,Belastung (Physik),Lasten,,,para_129,0022808.xml
+471,Vernachlässigung,Vernachlässigung,Entity,[],para_129,0022808.xml
+472,Johannes Stets,stets,,,para_131,0022808.xml
+473,Vorbehalt der Nachprüfung,Vorbehalt der Nachprüfung,,,para_133,0022808.xml
+474,Steuerhinterziehung (Deutschland),Steuerhinterziehung,Entity,[],para_135,0022808.xml
+475,Willenserklärung,Erklärung,Entity,[],para_135,0022808.xml
+476,Strafrecht,Straf,,,para_135,0022808.xml
+477,Buße (Verwaltungsrecht),Bu,,,para_135,0022808.xml
+478,Friedrich-Alexander-Universität Erlangen-Nürnberg,erlangen,Entity,[],para_135,0022808.xml
+479,Steuergefährdung,Steuergefährdung,,,para_136,0022808.xml
+480,Erfahrungssatz,Erfahrungssätze,,,para_138,0022808.xml
+481,Henning Schluß,Schlu,,,para_147,0022808.xml
+482,Lumen (Einheit),LM,,,para_150,0022808.xml
+483,Logarithmus,LN,,,para_152,0022808.xml
+484,Hof (Architektur),Hofraum,Entity,['Fläche'],para_168,0022808.xml
+485,Wasserversorgung,Wasser,Entity,[],para_168,0022808.xml
+486,Steinbruch,Steinbrüche,,,para_168,0022808.xml
+487,Tagebau,Sandgruben,,,para_168,0022808.xml
+488,Ampere,ma,,,para_168,0022808.xml
+489,Hackfrucht,Hackfrucht,Entity,"['Lebewesen', 'Lebewesen']",para_168,0022808.xml
+490,Grünland,Grünland,Entity,['Fläche'],para_168,0022808.xml
+491,Dekanat,Bezirk,Entity,[],para_169,0022808.xml
+492,Arnsberg,Arnsberg,,,para_169,0022808.xml
+493,Kreis Brilon,Brilon,,,para_169,0022808.xml
+494,Lüdenscheid,Lüdenscheid,,,para_169,0022808.xml
+495,Meschede,Meschede,,,para_169,0022808.xml
+496,Bundestagswahlkreis Olpe – Meschede,"Meschede, Olpe",,,para_169,0022808.xml
+497,Kreis Olpe,Olpe,,,para_169,0022808.xml
+498,Siegen,Siegen,Entity,['Fläche'],para_169,0022808.xml
+499,Standarddeutsch,hoch,Entity,[],para_169,0022808.xml
+500,Golfplatz,Abschlag,Entity,"['Wertgegenstand', 'Wertgegenstand', 'Wertgegenstand', 'Betrag', 'Geldsumme', 'Betrag']",para_169,0022808.xml
+501,Bodentyp,Staunässe,Entity,[],para_169,0022808.xml
+502,Stattgabe,Stattgabe,,,para_169,0022808.xml
+503,Grundsteuer (Deutschland),Grundsteuern,,,para_170,0022808.xml
+504,Zucht,Tierzucht,Entity,[],para_179,0022808.xml
+505,Oberfinanzdirektion Münster,Oberfinanzdirektion Münster,,,para_179,0022808.xml
+506,Wiese (Grünland),Wiesen,,,para_195,0022808.xml
+507,Weide (Grünland),Viehweiden,,,para_195,0022808.xml
+508,Kleegras,Kleegras,,,para_195,0022808.xml
+509,Luzerne,Luzerne,Entity,"['Lebewesen', 'Lebewesen']",para_195,0022808.xml
+510,Esparsetten,Esparsette,Entity,"['Lebewesen', 'Lebewesen']",para_195,0022808.xml
+511,Wicken (Vicia),Wicken,,,para_195,0022808.xml
+512,Lupinen,Süßlupinen,,,para_195,0022808.xml
+513,Futtermittel,Futterpflanzen,,,para_195,0022808.xml
+514,Getreide,Getreide,Entity,"['Lebewesen', 'Lebewesen']",para_196,0022808.xml
+515,Selbstbestäubung,selbst,,,para_196,0022808.xml
+516,Bauernhof,Betrieb,Entity,[],para_196,0022808.xml
+517,Überbestand,Überbestand,,,para_198,0022808.xml
+518,Volkseigener Betrieb,VE,,,para_200,0022808.xml
+519,Haushuhn,Legehennen,,,para_203,0022808.xml
+520,Zuschlagmarke,Zuschlag,Entity,[],para_203,0022808.xml
+521,Löhne,Löhne,,,para_205,0022808.xml
+522,Feldmaß,feldmä,,,para_206,0022808.xml
+523,Betragsfunktion,Betrags,,,para_210,0022808.xml
+524,Fällung,Fällen,,,para_213,0022808.xml
+525,Nachweisreaktion,Nachweis,Entity,[],para_213,0022808.xml
+526,Abschlag (Archäologie),Abschlag,Entity,"['Wertgegenstand', 'Wertgegenstand', 'Wertgegenstand', 'Betrag', 'Geldsumme', 'Betrag']",para_213,0022808.xml
+527,Vektor,Betrag,Entity,[],para_213,0022808.xml
+528,Zusammenhang,Zusammenhang,Entity,[],para_218,0022808.xml
+529,Bergbuch,Unterlagen,,,para_221,0022808.xml
+530,Landwirtschaftskammer (Deutschland),Landwirtschaftskammer,Entity,['Gebäude'],para_223,0022808.xml
+531,Gebäudeversicherung,Gebäudeversicherung,Entity,['Vereinbarung'],para_223,0022808.xml
+532,Bemessung (Ingenieurwesen),Bemessung,Entity,['Feststellung'],para_224,0022808.xml
+533,Verschleiß,Abnutzung,Entity,[],para_224,0022808.xml
+534,Bemessungsgrundlage (Steuerrecht),Bemessungsgrundlage,Entity,[],para_228,0022808.xml
+535,Summe,Summe,Entity,"['Wertgegenstand', 'Wertgegenstand', 'Wertgegenstand', 'Betrag', 'Betrag']",para_228,0022808.xml
+536,Division (Mathematik),dividiert,,,para_228,0022808.xml
+537,Verfügung,Rundverfügung,,,para_232,0022808.xml
+538,Altenteil,Altenteiler,,,para_236,0022808.xml
+539,Gebäudeheizung,Heizung,Entity,[],para_240,0022808.xml
+540,Beleuchtung,Beleuchtung,Entity,[],para_240,0022808.xml
+541,Before Present,Bp,,,para_242,0022808.xml
+542,Viehbesatz,Tierbesatz,,,para_243,0022808.xml
+543,Verwaltungsverfahren,verfahren,Entity,[],para_244,0022808.xml
+544,Lohnsteueraußenprüfung,Lohnsteuer-Außenprüfung,,,para_245,0022808.xml
+545,Oberfinanzdirektion,OFD,,,para_19,0023110.xml
+546,Saarbrücken,Saarbrücken,Entity,['Fläche'],para_19,0023110.xml
+547,Otto III. (Brandenburg),III,,,para_24,0023110.xml
+548,Land (Deutschland),Land,Entity,[],para_24,0023110.xml
+549,Sonderabschreibung,Sonderabschreibung,Entity,[],para_30,0023110.xml
+550,Ordnungswidrigkeit,Allgemeines,,,para_32,0023110.xml
+551,Vorsteuerpauschale,Durchschnittsbesteuerung,,,para_33,0023110.xml
+552,Betriebsvermögensvergleich,Betriebsvermögensvergleich,,,para_34,0023110.xml
+553,Tätigkeit,Betätigung,Entity,['Zeitpunkt'],para_41,0023110.xml
+554,VW Golf III,III,,,para_42,0023110.xml
+555,Beruf,Berufe,,,para_42,0023110.xml
+556,Schriftform,schriftlich,Entity,[],para_43,0023110.xml
+557,Widerruf (Recht),widerrufen,Entity,[],para_43,0023110.xml
+558,Gewinnvortrag,Gewinn,Entity,[],para_49,0023110.xml
+559,Saatzucht,Saatzucht,Entity,[],para_63,0023110.xml
+560,Vergleichszeichen,Vergleichs,,,para_68,0023110.xml
+561,Minderung der Erwerbsfähigkeit,Minderung der Erwerbsfähigkeit,,,para_69,0023110.xml
+562,Krankheit,Krankheit,Entity,[],para_69,0023110.xml
+563,Beschäftigung (Kostenrechnung),Beschäftigung,Entity,[],para_69,0023110.xml
+564,Sonderkultur,Sonderkulturen,,,para_69,0023110.xml
+565,Abbau (Bergbau),Abbauland,,,para_70,0023110.xml
+566,Führungskraft (Wirtschaft),Leitung,Entity,[],para_71,0023110.xml
+567,Geld,Betrag,Entity,[],para_71,0023110.xml
+568,Person,Person,Entity,[],para_71,0023110.xml
+569,Schachtförderung,Betrieb,Entity,[],para_71,0023110.xml
+570,Schwiegerkind,Schwiegersohn,Entity,"['Lebewesen', 'Verwandter', 'Lebewesen']",para_71,0023110.xml
+571,Saldo,Saldierung,Entity,['Ermittlung'],para_80,0023110.xml
+572,Kapitalintensität,kapitalintensiven,,,para_81,0023110.xml
+573,Erdbeeren,Erdbeeren,,,para_85,0023110.xml
+574,Binnenfischerei,Binnenfischerei,Entity,[],para_87,0023110.xml
+575,Teichwirtschaft,Teichwirtschaft,Entity,[],para_89,0023110.xml
+576,Pilzanbau,Pilzanbau,,,para_90,0023110.xml
+577,Aquakultur,Fischzucht,Entity,['Tierzucht'],para_91,0023110.xml
+578,Imker,Imkerei,Entity,['Gebäude'],para_93,0023110.xml
+579,Holz,Holz,Entity,[],para_97,0023110.xml
+580,Aufforstung,Bestockung,Entity,[],para_97,0023110.xml
+581,Instandhaltung,Haltung,Entity,[],para_101,0023110.xml
+582,Leistung (Rechnungswesen),Leistungen,,,para_102,0023110.xml
+583,Mietvertrag (Deutschland),Vermietung,Entity,['Abtretung'],para_102,0023110.xml
+584,Nebentätigkeit,Nebentätigkeit,Entity,[],para_102,0023110.xml
+585,Produktion,Erzeuger,Entity,"['Lebewesen', 'Lebewesen']",para_102,0023110.xml
+586,Normales Gut,normalen,,,para_104,0023110.xml
+587,Schachtansatzpunkt,anzusetzen,,,para_106,0023110.xml
+588,Blutgerichtsbarkeit,Höhe,Entity,[],para_108,0023110.xml
+589,Hypothekengewinnabgabe,Hypothekengewinnabgabe,,,para_109,0023110.xml
+590,Nutzung (Recht),Nutzungen,,,para_109,0023110.xml
+591,Deich,Deich,Entity,[],para_110,0023110.xml
+592,Wasser- und Bodenverband,Wasser- und Bodenverbänden,,,para_110,0023110.xml
+593,Sonderausgabe (Steuerrecht),Sonderausgaben,,,para_110,0023110.xml
+594,Saarland,Saarlandes,,,para_115,0023110.xml
+595,Arbeitsplatz,Stelle,Entity,[],para_116,0023110.xml
+596,Vertrag,Vereinbarung,Entity,[],para_117,0023110.xml
+597,Joachim II. (Brandenburg),II,,,para_118,0023110.xml
+598,Algorithmus,Verfahren,Entity,[],para_118,0023110.xml
+599,Abschlussprüfung (Berufsausbildung),Prüfung,Entity,[],para_128,0023110.xml
+600,Elli Erl,Erl,,,para_128,0023110.xml
+601,Cesta I. triedy 67,I - 67,,,para_128,0023110.xml
+602,Bundesautobahn 2,a - 2,,,para_128,0023110.xml
+603,Dm-drogerie markt,DM,Entity,[],para_129,0023110.xml
+604,Phönizische Schrift,nun,,,para_129,0023110.xml
+605,II. Korps (Bundeswehr),II,,,para_131,0023110.xml
+606,Stabsabteilung,S. 3,,,para_131,0023110.xml
+607,Sächsische II,II,,,para_131,0023110.xml
+608,Preußische S 9,S. 9,,,para_131,0023110.xml
+609,Fuge (Bauwesen),Verfügung,Entity,[],para_134,0023110.xml
+610,Gabelstapler,Gabelstapler,Entity,[],para_134,0023110.xml
+611,Kunde,Empfänger,Entity,[],para_135,0023110.xml
+612,Nutzungsrecht,Nutzungsrecht,Entity,[],para_135,0023110.xml
+613,Schadensersatz,Inanspruchnahme,Entity,[],para_13,0023358.xml
+614,Von Amts wegen,von Amts wegen,,,para_24,0023358.xml
+615,Anfechtungsklage,angefochten,,,para_24,0023358.xml
+616,Arbeitsrecht,Arbeitsvertrag,Entity,['Vereinbarung'],para_25,0023358.xml
+617,Behinderung (Sozialrecht),behindert,Entity,[],para_25,0023358.xml
+618,Körperbehinderung,körperlichen,,,para_25,0023358.xml
+619,Flächenmaß,Flächen,,,para_27,0023358.xml
+620,Rudolf Felzmann (Heimatforscher),Felzmann,,,para_27,0023358.xml
+621,Natürliche Person,Personen,,,para_28,0023358.xml
+622,NS-Zwangsarbeit,Arbeitskraft,Entity,"['Lebewesen', 'Lebewesen']",para_29,0023358.xml
+623,Akaflieg Darmstadt München DM-1,DM = -- 1,,,para_29,0023358.xml
+624,Ackerbau,Anbau,Entity,[],para_29,0023358.xml
+625,Weißdorne,Wei,,,para_29,0023358.xml
+626,Schäferei,Wanderschäferei,,,para_29,0023358.xml
+627,V-Motor,v. 8,,,para_34,0023358.xml
+628,Tabak,Tabakanbau,Entity,"['Anbau', 'Anbau']",para_37,0023358.xml
+629,Wechsel (Urkunde),Wechsel,Entity,[],para_39,0023358.xml
+630,Schwierigkeitsskala (Klettern),III,,,para_41,0023358.xml
+631,Art (Biologie),Art,Entity,['Verhalten'],para_41,0023358.xml
+632,Flight Management System,FMS,,,para_42,0023358.xml
+633,Aktenzeichen (Deutschland),Az,,,para_42,0023358.xml
+634,Bayern,Bayer,Entity,"['Lebewesen', 'Lebewesen']",para_43,0023358.xml
+635,"Bayerisches Staatsministerium der Finanzen, für Landesentwicklung und Heimat",Staatsministerium der Finanzen,,,para_43,0023358.xml
+636,Schriftstück,Schreiben,Entity,[],para_43,0023358.xml
+637,Rechtsanspruch,Anspruch,Entity,[],para_43,0023358.xml
+638,Immaterieller Vermögensgegenstand,immaterielles Wirtschaftsgut,,,para_47,0023358.xml
+639,Darfur,dar. Für,,,para_47,0023358.xml
+640,Aktiva,Aktivposten,Entity,"['Wertgegenstand', 'Wertgegenstand', 'Wertgegenstand', 'Betrag', 'Geldsumme', 'Betrag']",para_47,0023358.xml
+641,Nutzung (Gebäude),Nutzung,Entity,[],para_49,0023358.xml
+642,Landgericht München II,II,,,para_49,0023358.xml
+643,Addendum,Anlage,Entity,[],para_49,0023358.xml
+644,Calcium,Nachweis,Entity,[],para_59,0023358.xml
+645,Gruppe des Periodensystems,Gruppen,,,para_59,0023358.xml
+646,Jim Geringer,geringer,,,para_59,0023358.xml
+647,Kalamität,kalamität,,,para_62,0023358.xml
+648,Sinn (Semantik),Sinn,Entity,[],para_64,0023358.xml
+649,Zweck,Zweck,Entity,[],para_64,0023358.xml
+650,Regelung (Natur und Technik),Regelung,Entity,[],para_64,0023358.xml
+651,Baumartengruppe,Holzartengruppe,,,para_67,0023358.xml
+652,Haushaltsjahr,Forstwirtschaftsjahr,,,para_71,0023358.xml
+653,Regelkreis,Regelung,Entity,[],para_72,0023358.xml
+654,Zeitintervall,Zeitraum,Entity,[],para_72,0023358.xml
+655,Rahmen (Bauwesen),Rahmen,Entity,[],para_72,0023358.xml
+656,Schwermetalle,schwer,Entity,[],para_73,0023358.xml
+657,Bahnbetriebswerk,Betriebswerk,Entity,['Gebäude'],para_73,0023358.xml
+658,Außenprüfung,Betriebsprüfung,Entity,[],para_73,0023358.xml
+659,28. Juli,28. Juli,,,para_1,0024801.xml
+660,29. Januar,29. Januar,,,para_1,0024801.xml
+661,Bundesautobahn 7,A - 7,,,para_48,0024801.xml
+662,Erté,erte,,,para_108,0024801.xml
+663,Begriff,Begriff,Entity,[],para_111,0024801.xml
+664,Alfred Worden,worden,,,para_120,0024801.xml
+665,Betriebsfeuerwehr,Betriebs,,,para_121,0024801.xml
+666,Aufgabe (Pflicht),Aufgabe,Entity,[],para_121,0024801.xml
+667,Friedrich III. (Deutsches Reich),III,,,para_123,0024801.xml
+668,Stillgewässer,stehende,,,para_130,0024801.xml
+669,Errungenschaftsgemeinschaft,Errungenschafts,,,para_134,0024801.xml
+670,Fahrnisgemeinschaft,Fahrnisgemeinschaft,,,para_134,0024801.xml
+671,Fortgesetzte Gütergemeinschaft,fortgesetzte Gütergemeinschaft,,,para_134,0024801.xml
+672,Gesellschaft (Gesellschaftsrecht),Gesellschaft,Entity,[],para_135,0024801.xml
+673,Volljährigkeit,Volljährigkeit,Entity,[],para_139,0024801.xml
+674,Ungarische Sprache,ung,,,para_139,0024801.xml
+675,Bedeutung (Sprachphilosophie),Bedeutung,Entity,[],para_143,0024801.xml
+676,Betriebsgröße,große,,,para_150,0024801.xml
+677,Lebewesen,Organismus,Entity,[],para_154,0024801.xml
+678,Würde,Wurde,,,para_154,0024801.xml
+679,Bescheinigung,Bescheinigung,Entity,[],para_217,0024801.xml
+680,Autonomie,selbst,,,para_231,0024801.xml
+681,Zeit,Zeit,Entity,[],para_231,0024801.xml
+682,Chronologie,zeitliche,,,para_232,0024801.xml
+683,Schalter (Elektrotechnik),schlie,,,para_232,0024801.xml
+684,Vakuum,Vakuum,Entity,[],para_232,0024801.xml
+685,Satz (Musikstück),Satz,Entity,[],para_242,0024801.xml
+686,Dynamik (Musik),ff,,,para_242,0024801.xml
+687,Vordruck,Vordruck,Entity,[],para_273,0024801.xml
+688,Maß (Mathematik),ma,,,para_17,0025187.xml
+689,16. Dezember,16. Dezember,,,para_31,0025187.xml
+690,Hausschwein,sauen,,,para_34,0025187.xml
+691,Pferdezucht,Zucht,Entity,[],para_34,0025187.xml
+692,Erlös,Umsatzes,,,para_38,0025187.xml
+693,Ermessen,Ermessen,Entity,[],para_48,0025187.xml
+694,Citroën LN,LN,,,para_62,0025187.xml
+695,Nachhaltigkeit,nachhaltigen,,,para_68,0025187.xml
+696,Normalenvektor,normale,,,para_74,0025187.xml
+697,Erzbistum Köln,Köln,Entity,['Fläche'],para_74,0025187.xml
+698,Nachhaltige Entwicklung,nachhaltigen,,,para_79,0025187.xml
+699,Multiplikation,multipliziert,,,para_79,0025187.xml
+700,Geflügel,Legehennen,,,para_82,0025187.xml
+701,Anbau (Landwirtschaft),Anbau,Entity,[],para_85,0025187.xml
+702,28. März,28. März,,,para_90,0025187.xml
+703,Einkünfte aus Gewerbebetrieb (Deutschland),Einkünften aus Gewerbebetrieb,,,para_90,0025187.xml
+704,Mittelalter,mittlere,Entity,[],para_90,0025187.xml
+705,Vergleichsmiete,Vergleichsmiete,Entity,"['Kosten', 'Betrag', 'Betrag']",para_90,0025187.xml
+706,Kostenmiete,Kostenmiete,Entity,"['Kosten', 'Betrag', 'Betrag']",para_90,0025187.xml
+707,Mietspiegel,Mietspiegel,Entity,['Tabelle'],para_93,0025187.xml
+708,Wohnfläche,Wohnfläche,Entity,['Fläche'],para_93,0025187.xml
+709,Kapitänleutnant,lt,,,para_93,0025187.xml
+710,Sondernutzung,Sondernutzung,Entity,"['Nutzung', 'Nutzung', 'Nutzung']",para_110,0025187.xml
+711,Möglichkeit,Möglichkeit,Entity,[],para_3,0025698.xml
+712,Clive Allen,allen,,,para_5,0025698.xml
+713,Christi Himmelfahrt,Erhöhung,Entity,[],para_6,0025698.xml
+714,Maßwerk,ma,,,para_6,0025698.xml
+715,Douglas A-4,a - 4,,,para_7,0025698.xml
+716,Bundesautobahn 4,a - 4,,,para_7,0025698.xml
+717,Lagerhaltung,Bestände,,,para_8,0025698.xml
+718,Vorratshaltung,Vorräte,,,para_8,0025698.xml
+719,Analyse,Auswertung,Entity,[],para_10,0025698.xml
+720,Au (Breisgau),Au,Entity,['Fläche'],para_11,0025698.xml
+721,Transeuropäische Netze,ten,,,para_11,0025698.xml
+722,Einkünfte aus nichtselbständiger Arbeit (Deutschland),Einkünfte aus nichtselbstständiger Arbeit,,,para_15,0025698.xml
+723,Einkünfte,Einkünfte,Entity,[],para_15,0025698.xml
+724,Joule,Kj,,,para_16,0025698.xml
+725,Kinderfreibetrag,Kinderfreibeträgen,,,para_16,0025698.xml
+726,Währung,Wahrung,Entity,[],para_19,0025698.xml
+727,Anordnung (Recht),Anordnungen,,,para_3,0030565.xml
+728,Vermeidungsverhalten,Vermeidung,Entity,['Verhalten'],para_8,0030565.xml
+729,Gemeinde (Österreich),Gemeinde,Entity,[],para_23,0030565.xml
+730,Weinbaugebiet,Anbaugebietes,,,para_24,0030565.xml
+731,Mosel (Weinbaugebiet),Mosel-Saar-Ruwer,,,para_24,0030565.xml
+732,Enkirch,Enkirch,,,para_26,0030565.xml
+733,Bernkastel-Kues,Bernkastel,,,para_26,0030565.xml
+734,Teilzeitarbeit,Teilzeitbeschäftigte,Entity,"['Lebewesen', 'Lebewesen']",para_28,0030565.xml
+735,Überwachung,Überwachung,Entity,[],para_28,0030565.xml

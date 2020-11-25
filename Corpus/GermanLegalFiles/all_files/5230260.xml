@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="5230260" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:externe-dateien><lxbase:datei name="d5230260h.gif" /><lxbase:datei name="d5230260.pdf" /><lxbase:datei name="d5230260j.gif" /><lxbase:datei name="d5230260l.gif" /><lxbase:datei name="d5230260n.gif" /><lxbase:datei name="c5230260.pdf" /><lxbase:datei name="d5230260a.gif" /><lxbase:datei name="d5230260c.gif" /><lxbase:datei name="b5230260.pdf" /><lxbase:datei name="d5230260e.gif" /><lxbase:datei name="d5230260g.gif" /><lxbase:datei name="a5230260.pdf" /><lxbase:datei name="d5230260i.gif" /><lxbase:datei name="d5230260k.gif" /><lxbase:datei name="d5230260m.gif" /><lxbase:datei name="d5230260b.gif" /><lxbase:datei name="e5230260.pdf" /><lxbase:datei name="d5230260d.gif" /><lxbase:datei name="d5230260f.gif" /></lxbase:externe-dateien><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Koblenz</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2241 / 27 - St 111</lxbase:aktenzeichen><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2006-06-20" ts="nein" /></lxbase:daten><lxbase:redakt><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="19*" /><cals:colspec colnum="2" colname="2" colwidth="81*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Bbiliographie der inhaltlich entsprechenden
+Verwaltungsanweisungen:</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Baden-Württemberg</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Karlsruhe <lxbase:az normform="S-2241/27" manuell="nein">S-2241/27</lxbase:az> - St 111
+vom 20.056.2006</lxbase:a><lxbase:a>EStK § 6 EStG</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:6/5</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2006" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Leitfaden zur Bearbeitung von Fällen mit Überführung
+oder Übertragung von Wirtschaftsgütern nach § 6
+Abs. 5 EStG</lxbase:a></lxbase:headline></lxbase:titel><lxbase:teaser><lxbase:a>OFD Koblenz: Leitfaden zur Bearbeitung von Fällen mit Überführung
+oder Übertragung von Wirtschaftsgütern nach § 6
+Abs. 5 EStG</lxbase:a></lxbase:teaser><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000001"><lxbase:a>1 Überblick</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000002"><lxbase:a>2 Überführungen
+nach § 6 Abs. 5 Satz 1 und 2 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000003"><lxbase:a>3 Übertragungen
+nach § 6 Abs. 5 Satz 3 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000004"><lxbase:a>4 Übertragung
+in das Gesamthandsvermögen einer Schwestergesellschaft</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000005"><lxbase:a>4.1 Direktübertragung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000006"><lxbase:a>4.2 Mehrstufiges
+Verfahren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000007"><lxbase:a>4.3 Nutzung
+des § 6b EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000008"><lxbase:a>5 Die Tatbestandsmerkmale
+Unentgeltlichkeit und Gesellschaftsrechte in § 6 Abs. 5
+Satz 3 EStG </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000009"><lxbase:a>5.1 Was bedeutet
+unentgeltlich?</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000010"><lxbase:a>5.2 Wann werden
+Gesellschaftsrechte gewährt bzw. gemindert?</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000011"><lxbase:a>5.3 Ausgliederung
+von Sonderbetriebsvermögen zur Vorbereitung eines Anteilsverkaufs</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000012"><lxbase:a>5.4 Überwachung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000013"><lxbase:a>6 Die dreijährige
+Behaltefrist (§ 6 Abs. 5 Satz 4 EStG)</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000014"><lxbase:a>6.1 Welche
+Fälle sind betroffen? </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000015"><lxbase:a>6.2 Für
+welche Fälle gilt die Behaltefrist nicht?</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000016"><lxbase:a>6.3 Die praktische
+Umsetzung der dreijährigen Behaltefrist</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000017"><lxbase:a>7 Übergang
+stiller Reserven auf eine Kapitalgesellschaft bei der Übertragung des
+Wirtschaftsguts (§ 6 Abs. 5 Satz 5 EStG)</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000018"><lxbase:a>7.1 Grundsatz</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000019"><lxbase:a>7.2 Übertragender
+ist eine Kapitalgesellschaft</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000020"><lxbase:a>7.3 Übertragender
+ist eine Personengesellschaft</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000021"><lxbase:a>7.4 Praktische
+Umsetzung des Verbots des Übergangs von stillen Reserven auf
+Kapitalgesellschaften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000022"><lxbase:a>8 Nachträglicher
+Teilwertansatz (§ 6 Abs. 5 Satz 6 EStG)</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000023"><lxbase:a>8.1 Welche
+Fälle sind betroffen?</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000024"><lxbase:a>8.2 Überwachung
+der Siebenjahresfrist</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523026000025"><lxbase:a>Anlagen:</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D523026000001">1 Überblick</lxbase:ueberschrift><lxbase:a><lxbase:fett>Wertansatz</lxbase:fett></lxbase:a><lxbase:a>§ 6 Abs. 5 EStG regelt den Wertansatz (Buchwert oder
+Teilwert) bei der</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Übertragung</lxbase:fett> (= Rechtsträgerwechsel
+mit Übergang des wirtschaftlichen Eigentums) bzw.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Überführung</lxbase:fett> (= nur
+Wechsel der steuerlichen Zuordnung zu einem Betriebsvermögen
+ohne Rechtsträgerwechsel)</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>von Einzelwirtschaftsgütern des Betriebsvermögens
+(BV). Dabei handelt es sich um eine abschließende Aufzählung
+der zum Buchwert möglichen Übertragungs- bzw. Überführungsvorgänge.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260a.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="377" height="232" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Nicht für betriebliche Einheiten</lxbase:fett></lxbase:a><lxbase:a>Die Übertragung betrieblicher Einheiten (Betriebe, Teilbetriebe,
+Mitunternehmeranteile) regelt § 6 Abs. 3 EStG (vgl. dazu
+das BMF-Schreiben vom 03.03.2005, BStBl I S. 458, Anhang 9 IX EStH
+2005).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000002">2 Überführungen
+nach § 6 Abs. 5 Satz 1 und 2 EStG</lxbase:ueberschrift><lxbase:a><lxbase:fett>Überführungsvorgänge zum Buchwert</lxbase:fett></lxbase:a><lxbase:a>Die Überführung von Wirtschaftsgütern</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt><lxbase:a>von einem <lxbase:fett>Einzel-BV</lxbase:fett> in
+ein anderes <lxbase:fett>Einzel-BV</lxbase:fett> desselben Steuerpflichtigen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>aus einem <lxbase:fett>Einzel-BV</lxbase:fett> des Steuerpflichtigen
+in dessen <lxbase:fett>Sonder-BV</lxbase:fett> bei einer Mitunternehmerschaft
+und umgekehrt und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>zwischen <lxbase:fett>verschiedenen Sonder-BV</lxbase:fett> desselben
+Steuerpflichtigen zwischen verschiedenen Mitunternehmerschaften</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>ist (zwingend) erfolgsneutral (Buchwertansatz), sofern die Besteuerung
+der stillen Reserven sichergestellt ist.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000003">3 Übertragungen
+nach § 6 Abs. 5 Satz 3 EStG</lxbase:ueberschrift><lxbase:a><lxbase:fett>Übertragungsvorgänge zum Buchwert</lxbase:fett></lxbase:a><lxbase:a>Die Übertragung von Wirtschaftsgütern</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt><lxbase:a>aus einem <lxbase:fett>Einzel-BV</lxbase:fett> des
+Mitunternehmers in das Gesamthandsvermögen einer Mitunternehmerschaft
+und umgekehrt gegen Gewährung oder Minderung von Gesellschaftsrechten
+oder unentgeltlich,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>aus dem <lxbase:fett>Sonder-BV</lxbase:fett> eines Mitunternehmers
+in das Gesamthandsvermögen derselben Mitunternehmerschaft
+und umgekehrt gegen Gewährung oder Minderung von Gesellschaftsrechten
+oder unentgeltlich,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>aus dem <lxbase:fett>Sonder-BV</lxbase:fett> eines Mitunternehmers
+in das Gesamthandsvermögen bei einer anderen Mitunternehmerschaft,
+an der er beteiligt ist, und umgekehrt gegen Gewährung
+von Gesellschaftsrechten oder unentgeltlich und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>aus einem Sonder-BV des Mitunternehmers in das Sonder-BV
+eines anderen Mitunternehmers bei derselben Mitunternehmerschaft,
+soweit sie unentgeltlich erfolgt, </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>ist (zwingend) erfolgsneutral (Buchwertansatz), sofern die Besteuerung
+der stillen Reserven sichergestellt ist.</lxbase:a><lxbase:a><lxbase:fett>Nicht geregelte Sachverhalte</lxbase:fett></lxbase:a><lxbase:a>Keine Regelung enthält § 6 Abs. 5 EStG für
+die Übertragung von Wirtschaftsgütern zwischen
+dem Gesamthandsvermögen und dem Privatvermögen.
+Dafür gilt Folgendes:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt><lxbase:a>Vom <lxbase:fett>Privatvermögen</lxbase:fett> des
+Mitunternehmers in das Gesamthandsvermögen der Mitunternehmerschaft. </lxbase:a><lxbase:a>Dazu liegt das BMF-Schreiben vom 26.11.2004, <lxprod:doknr-verw linkend="HT0578783">BStBl I S. 1190</lxprod:doknr-verw>,
+vor. Außerdem ist das Thema in TOP 3 der AG ESt I/2005
+(mit Fall) dargestellt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Vom <lxbase:fett>Gesamthandsvermögen</lxbase:fett> der Mitunternehmerschaft
+in das Privatvermögen des Mitunternehmers:</lxbase:a><lxbase:a>Es handelt sich um eine Entnahme (§ 6 Abs. 1 Nr. 4 EStG),
+sofern keine Gegenleistung vereinbart ist. Die Entnahme gilt als
+Anschaffung i.S. von § 23 EStG.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000004">4 Übertragung
+in das Gesamthandsvermögen einer Schwestergesellschaft</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523026000005">4.1 Direktübertragung</lxbase:ueberschrift><lxbase:a><lxbase:fett>Direktübertragung nicht zum Buchwert möglich</lxbase:fett></lxbase:a><lxbase:a>Die Direktübertragung von dem Gesamthandsvermögen
+einer Mitunternehmerschaft (etwa der AB-OHG im obigen Schema) in
+das Gesamthandsvermögen einer Schwestergesellschaft (etwa
+der AC-KG) ist im Katalog des § 6 Abs. 5 EStG nicht aufgeführt.
+Dabei handelt es sich um eine abschließende Aufzählung.
+Hier liegt deshalb kein Anwendungsfall des Buchwertprivilegs vor. Folge:
+Teilwertansatz mit Aufdeckung und Versteuerung der stillen Reserven bei
+der abgebenden Mitunternehmerschaft.</lxbase:a><lxbase:a><lxbase:fett>Hinweise</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt><lxbase:a>Nach der h.M. in der Fachliteratur
+ist hingegen eine Buchwertübertragung möglich
+und geboten (Schmidt, EStG, § 15 Rz 683 m.w.N). Dieser
+Auffassung ist nicht zu folgen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Auch im Rahmen einer Realteilung ist eine Buchwertübertragung
+in das Gesamthandsvermögen einer anderen Personengesellschaft,
+an der der Realteiler beteiligt ist (ggf. auch einer personenidentischen
+Schwestergesellschaft), nicht zulässig (BMF-Schreiben vom
+28.02.2006, BStBl I S. 228, Tz IV 1).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Bei Übertragungen vor dem 01.01.1999 (vor
+Inkrafttreten des § 6 Abs. 5 Satz 3 EStG) war die Buchwertübertragung
+indessen zulässig (BFH-Urteil vom 06.09.2000 <lxprod:doknr-verw linkend="HT0554952">IV R 18/99</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0554952">BStBl 2001
+II S. 229</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000006">4.2 Mehrstufiges Verfahren</lxbase:ueberschrift><lxbase:a><lxbase:fett>Zwei Schritte</lxbase:fett></lxbase:a><lxbase:a>Bei dem mehrstufigen Verfahren erfolgt die Übertragung
+in zwei Schritten:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt><lxbase:a>Im ersten Schritt wird das
+Wirtschaftsgut aus dem Gesamthandsvermögen in das Sonderbetriebsvermögen
+derselben Gesellschaft (z.B. bei der AB-OHG im Schema) übertragen
+(§ 6 Abs. 5 Satz 3 Nr. 2 1. Alt. EStG).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Im zweiten Schritt wird dann das Sonderbetriebsvermögen
+in das Gesamthandsvermögen der Schwestergesellschaft (hier
+der AC-KG) übertragen (§ 6 Abs. 5 Satz 2 Nr. 2
+2. Alt. EStG).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Gesamtplanrechtsprechung beachten</lxbase:fett></lxbase:a><lxbase:a>Bei dieser "Umweggestaltung" ist die sog. Gesamtplanrechtsprechung
+des BFH (insbesondere Urteil vom 06.09.2000, a.a.O.) zu beachten.
+Besteht zwischen den beiden Schritten ein zeitlicher und (dadurch
+i.d.R. indizierter) sachlicher Zusammenhang, werden die beiden Übertragungsvorgänge
+in der rechtlichen Beurteilung zu einer einheitlichen Übertragung
+zusammen gefasst, im Ergebnis wie eine Direktübertragung
+behandelt. Folge: Teilwertansatz mit Aufdeckung und Versteuerung
+der stillen Reserven bei der abgebenden Gesellschaft.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000007">4.3 Nutzung des § 6b
+EStG</lxbase:ueberschrift><lxbase:a><lxbase:fett>Gesellschafterbezogene Betrachtung ab 2001</lxbase:fett></lxbase:a><lxbase:a>Bei der Übertragung von Veräußerungsgewinnen
+sieht § 6b EStG für Veräußerungen
+nach dem 31.12.2001 die Rückkehr zu der (bis 1998 geltenden)
+gesellschafterbezogenen Betrachtung vor, und zwar durch Streichung
+der Worte "eines Betriebs des Steuerpflichtigen" in § 6b
+Abs. 4 Satz 1 Nr. 3 EStG und Neufassung des § 6b Abs. 10
+EStG im UntStFG. Jeder Gesellschafter kann danach den auf ihn entfallenden
+Veräußerungsgewinn nach § 6b EStG steuerneutral
+auf begünstigte Reinvestitionen übertragen, als
+die Anschaffungskosten des Reinvestitionsguts auf ihn entfallen.</lxbase:a><lxbase:a><lxbase:fett>Steuerneutrale Übertragung möglich</lxbase:fett></lxbase:a><lxbase:a>§ 6b EStG ermöglicht die im Ergebnis erfolgsneutrale Übertragung
+(nur) für nach § 6b EStG begünstigte
+Wirtschaftsgüter durch deren Verkauf zwischen Schwestergesellschaften.
+Das an die Schwestergesellschaft verkaufte Wirtschaftsgut ist zugleich
+begünstigtes Reinvestitionsgut. Über einen Verkauf
+des Wirtschaftsguts kann im Ergebnis eine Buchwertfortführung
+erreicht werden, da der Gewinn aus dem Verkauf des Wirtschaftsguts
+auf dasselbe Wirtschaftsgut als Reinvestitionsgut übertragen
+werden kann.</lxbase:a><lxbase:a><lxbase:fett>Begrenzung beachten</lxbase:fett></lxbase:a><lxbase:a>Die Rücklagenübertragung ist aber nur möglich,
+soweit die Personengesellschaft, die das Wirtschaftsgut verkaufte,
+bzw. deren Mitunternehmer an der Schwesterpersonengesellschaft beteiligt
+ist bzw. sind (vgl. R 6b Abs. 7 EStR 2005).</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000008">5 Die Tatbestandsmerkmale
+Unentgeltlichkeit und Gesellschaftsrechte in § 6 Abs. 5
+Satz 3 EStG </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523026000009">5.1 Was bedeutet unentgeltlich?</lxbase:ueberschrift><lxbase:a><lxbase:fett>Keine Gegenleistung</lxbase:fett></lxbase:a><lxbase:a>Der Empfänger des Wirtschaftsguts darf keine Gegenleistung
+erbringen. Eine solche kann nicht nur in Geld, sondern z.B. auch
+in der Einräumung einer Darlehensforderung für
+den Übergeber oder Schuldübernahme durch den Übernehmer
+bestehen. Diese Vorgänge sind nicht unentgeltlich, sondern
+zumindest teilentgeltlich und führen immer zu einer (teilweisen)
+Gewinnrealisierung. Ein teilentgeltlicher Vorgang liegt insbesondere
+dann vor, wenn ein Wirtschaftsgut im Rahmen einer vorweggenommenen
+Erbfolge gegen ein Gleichstellungsgeld oder gegen Schuldübernahme übertragen
+wird.</lxbase:a><lxbase:a><lxbase:fett>Trennungstheorie gilt</lxbase:fett></lxbase:a><lxbase:a>Auch für den unentgeltlichen Teil einer teilentgeltlichen Übertragung
+gilt § 6 Abs. 5 Satz 3 EStG. Die teilentgeltliche Übertragung
+eines Einzelwirtschaftsguts ist nach der sog. Trennungstheorie im
+Verhältnis des zu leistenden Entgelts zum Verkehrswert
+in einen entgeltlichen und einen unentgeltlichen Übertragungsvorgang
+aufzuteilen. Dabei kommt es hinsichtlich des entgeltlichen Übertragungsteils
+stets zu einer anteiligen Realisierung der stillen Reserven in Höhe des
+Unterschieds zwischen Teilentgelt und anteiligem Buchwert (BMF-Schreiben
+vom 07.06.2001, BStBl I S. 367, H 6.15 "Übertragung
+von Einzelwirtschaftsgütern" EStH 2005).</lxbase:a><lxbase:a><lxbase:fett>Beispiel 1 (Ausgangssachverhalt)</lxbase:fett></lxbase:a><lxbase:a>A ist Komplementär der AB-KG (Beteiligung: A und B jeweils
+50 v.H.) und hatte in seinem Sonderbetriebsvermögen ein
+der AB-KG zur Nutzung überlassenes unbebautes Grundstück.
+Dessen Anschaffungskosten (zugleich Buchwert) betrugen 100.000 Euro.
+Sein Verkehrswert im Jahr 2005 belief sich auf 400.000 Euro. Zudem
+war die Verbindlichkeit aus dem Anschaffungsdarlehen (100.000 Euro)
+als negatives Sonderbetriebsvermögen des A bilanziert.</lxbase:a><lxbase:a>Im Februar 2005 übertrug A das Eigentum an dem Grundstück
+an die AB-KG. Sie hatte dabei auch das Anschaffungsdarlehen zu übernehmen.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260b.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="228" height="118" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Es handelt sich um eine teilentgeltliche Grundstücksübertragung.
+Die Schuldübernahme ist das Entgelt. Nach der Trennungstheorie
+ist die Grundstücksübertragung in einen Veräußerungsvorgang
+(1/4) und eine unentgeltliche Übertragung (3/4)
+aufzuteilen. Es entsteht ein Übertragungsgewinn i.H. von 75.000
+Euro (= 1/4 der stillen Reserven von 300.000 Euro).
+Die AB-KG muss das Grundstück in der Steuerbilanz mit 175.000
+Euro ansetzen (Entgelt 100.000 Euro + 3/4 des
+Buchwerts von A = 75.000 Euro).</lxbase:a><lxbase:a>Die Gewinnrealisierung kann A nicht durch Aufstellung einer negativen
+Ergänzungsbilanz vermeiden.</lxbase:a><lxbase:a><lxbase:fett>Beispiel 2</lxbase:fett></lxbase:a><lxbase:a>Ausgangssachverhalt mit der Abweichung, dass A das Grundstück
+an den Kommanditisten B übertrug.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260c.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="191" height="150" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Es ergibt sich das gleiche Ergebnis wie im Beispiel 1.</lxbase:a><lxbase:a>Es handelt sich um eine Übertragung zwischen dem Sonderbetriebsvermögen zweier
+Mitunternehmer bei derselben Mitunternehmerschaft, denn das Grundstück
+bleibt bei unveränderter Nutzung durch die AB-KG weiterhin
+Sonderbetriebsvermögen (allerdings bei B). Die Buchwertfortführung
+nach § 6 Abs. 5 Satz 3 Nr. 3 EStG ist aber nicht zulässig,
+soweit A eine Gegenleistung (Schuldübernahme) erhielt.</lxbase:a><lxbase:a><lxbase:fett>Gesellschaftsrechte sind unschädlich</lxbase:fett></lxbase:a><lxbase:a>Auch die Übertragung gegen Gewährung von Gesellschaftsrechten
+ist eine Gegenleistung und deshalb nicht unentgeltlich. Es handelt
+sich um einen tauschähnlichen Vorgang, der aber aufgrund
+der ausdrücklichen Regelung in § 6 Abs. 5 Satz
+3 EStG der Buchwertübertragung nicht entgegensteht. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000010">5.2 Wann werden Gesellschaftsrechte
+gewährt bzw. gemindert?</lxbase:ueberschrift><lxbase:a><lxbase:fett>Kapitalkonto ist maßgebend</lxbase:fett></lxbase:a><lxbase:a>Einem Mitunternehmer werden Gesellschaftsrechte gewährt,
+wenn sich seine Stimm- bzw. laufenden Gewinnbezugsrechte erhöhen
+oder sich zumindest sein Anteil am Liquidationsgewinn (= an
+den stillen Reserven) erhöht. Gesellschaftsrechte werden
+buchmäßig i.d.R. auf den Kapitalkonten dargestellt, wobei
+jedes (steuerliche) Kapitalkonto Gesellschaftsrechte i.S. von § 6
+Abs. 5 EStG vermittelt.</lxbase:a><lxbase:a><lxbase:fett>Umfang des Kapitalkontos</lxbase:fett></lxbase:a><lxbase:a>Eine Übertragung gegen Gewährung von Gesellschaftsrechten
+liegt demnach sowohl bei Buchung des Zugangs im Gesamthandsvermögen
+auf dem Festkapitalkonto (Kapitalkonto I) des Gesellschafters, das
+für seine Beteiligung am Gesellschaftsvermögen
+maßgebend ist, als auch bei Buchung auf dem Kapitalkonto
+II oder anderen variablen Kapitalkonten des Gesellschafters vor
+(BMF-Schreiben vom 26.11.2004, <lxprod:doknr-verw linkend="HT0578783">BStBl I S. 1190</lxprod:doknr-verw>; zur Abgrenzung von
+Kapitalkonten und Darlehenskonten bei § 15a EStG vgl. das
+BMF-Schreiben vom 30.05.1997, BStBl I S. 627, Anhang 29 II EStH 2005).</lxbase:a><lxbase:a><lxbase:fett>Minderung von Gesellschaftsrechten</lxbase:fett></lxbase:a><lxbase:a>Erfolgt die Übertragung in umgekehrter Richtung, also
+vom Gesamthandsvermögen in ein Betriebsvermögen
+des Mitunternehmers und werden seine Gesellschaftsrechte gemindert
+(also Abgang von einem steuerlichen Kapitalkonto), ist der Vorgang
+steuerlich ebenfalls zum Buchwert abzuwickeln.</lxbase:a><lxbase:a><lxbase:fett>Handelsbilanz nicht maßgebend</lxbase:fett></lxbase:a><lxbase:a>Offene Sacheinlagen sind in der Handelsbilanz mit dem Buchwert,
+höchstens jedoch mit dem Verkehrswert anzusetzen (Wahlrecht).
+In der Steuerbilanz (Gesamthandsbilanz und negative Ergänzungsbilanzen)
+sind eingebrachte Wirtschaftsgüter hingegen zwingend mit
+dem Buchwert anzusetzen. Der Maßgeblichkeitsgrundsatz in § 5
+Abs. 1 Satz 2 EStG ist mangels steuerlichem Bewertungswahlrecht
+nicht einschlägig.</lxbase:a><lxbase:a><lxbase:fett>Beispiel 3</lxbase:fett></lxbase:a><lxbase:a>Ausgangssachverhalt mit der Abweichung, dass die AB-KG das Anschaffungsdarlehen
+nicht übernimmt. Sie führt den Buchwert fort und
+stockt das Kapitalkonto I von A um 100.000 Euro auf.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260d.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="232" height="106" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Die Übertragung des Grundstücks erfolgte im
+Wege einer offenen Einlage ausschließlich gegen Gewährung
+von Gesellschaftsrechten und damit zum Buchwert. Das zurückbehaltene
+Anschaffungsdarlehen bleibt weiter (negatives) Sonderbetriebsvermögen
+des A.</lxbase:a><lxbase:a>Setzt die AB-KG das Grundstück mit seinem Teilwert an
+(400.000 Euro), kann die Gewinnrealisierung durch eine negative
+Ergänzungsbilanz des A (Minderwert Grundstück
+300.000 Euro) neutralisiert werden.</lxbase:a><lxbase:a><lxbase:fett>Beispiel 4</lxbase:fett></lxbase:a><lxbase:a>Ausgangssachverhalt mit der Abweichung, dass A mit C eine AC-GmbH &amp; Co. KG
+gründet (Vermögensbeteiligung: A und C jeweils
+50 v.H.; GmbH: 0). A erbringt seine Kommanditeinlage von 400.000
+Euro durch Übertragung des Grundstücks (ohne Darlehen)
+auf die AC-GmbH &amp; Co. KG.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260e.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="302" height="116" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Das Grundstück wurde aus dem Sonderbetriebsvermögen
+des A bei der AB-KG in das Gesamthandsvermögen der AC-GmbH &amp; Co.
+KG (= Schwesterpersonengesellschaft) gegen Gewährung
+von Gesellschaftsrechten übertragen. Die Übertragung
+erfolgte nach § 6 Abs. 5 Satz 3 Nr. 2 EStG zum Buchwert.
+Die steuerliche Erfolgsneutralität kann durch Ausweis der
+stillen Reserven (300.000 Euro) in einer negativen Ergänzungsbilanz
+hergestellt werden.</lxbase:a><lxbase:a><lxbase:fett>Verdeckte Einlage</lxbase:fett></lxbase:a><lxbase:a>Eine unentgeltliche Übertragung (sog. verdeckte Einlage)
+eines Wirtschaftsguts in das Gesamthandsvermögen liegt
+danach nur noch dann vor, wenn der Wert des übertragenen
+Wirtschaftsguts auf einer gesamthänderisch gebundenen Kapitalrücklage
+gutgeschrieben wird oder - was handelsrechtlich zulässig
+ist - als Ertrag gebucht wird. In diesen Fällen erhöht
+sich zwar das Eigenkapital der Gesellschaft. Dem Einbringenden werden
+aber keine (zusätzlichen) Gesellschaftsrechte gewährt,
+weil er keine individuelle (nur ihn bereichernde) Rechtsposition
+erlangt.</lxbase:a><lxbase:a><lxbase:fett>Buchwertübertragung</lxbase:fett></lxbase:a><lxbase:a>Die Rechtsfolge (Buchwertübertragung) ist dieselbe wie
+bei der Übertragung gegen Gewährung bzw. Minderung
+von Gesellschaftsrechten, so dass die Unterscheidung im Anwendungsbereich
+vom § 6 Abs. 5 EStG keine praktische Bedeutung (mehr) hat.</lxbase:a><lxbase:a><lxbase:fett>VGA möglich</lxbase:fett></lxbase:a><lxbase:a>In den Fällen der verdeckten Einlage kommt der Wert
+des (steuerlich zum Buchwert) eingebrachten Wirtschaftsguts partiell
+den anderen Mitgesellschaftern zugute. Ist der Einbringende eine
+Kapitalgesellschaft und sind die anderen Mitunternehmer Gesellschafter
+der übertragenden Kapitalgesellschaft, liegt eine verdeckte
+Gewinnausschüttung der Kapitalgesellschaft an ihre Gesellschafter
+vor.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000011">5.3 Ausgliederung von
+Sonderbetriebsvermögen zur Vorbereitung eines Anteilsverkaufs</lxbase:ueberschrift><lxbase:a><lxbase:fett>Beispiel 5</lxbase:fett></lxbase:a><lxbase:a>Ausgangssachverhalt mit der Ergänzung, dass der 60 Jahre
+alte A seinen Mitunternehmeranteil an der AB-KG an den Erwerber
+E verkaufen will, der das Grundstück nicht übernehmen
+will. Das Grundstück (ohne Darlehen) bringt A zur Leistung
+seiner 100 v.H.-Kommanditeinlage in die neu gegründete (gewerblich
+geprägte) A-GmbH &amp; Co. KG ein. Sie vermietet das
+Grundstück an die AB-KG, bis diese ein Ersatzgrundstück
+gefunden hat. Im Anschluss an die steuerneutrale Ausgliederung des
+Grundstücks (Buchwertübertragung nach § 6
+Abs. 5 Satz 3 Nr. 2 EStG) verkauft A seinen Mitunternehmeranteil
+an der AB-KG an E.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260f.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="286" height="153" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Isoliert betrachtet werden durch den Anteilsverkauf alle (noch)
+im Betriebsvermögen der AB-KG befindlichen wesentlichen
+Betriebsgrundlagen an den Erwerber verkauft. Da A die persönlichen
+Voraussetzungen der §§ 16, 34 EStG (55. Lebensjahr
+vollendet) erfüllt, könnte er danach für
+den erzielten Veräußerungsgewinn den Freibetrag
+nach § 16 Abs. 4 EStG und/oder auf Antrag den ermäßigten
+Steuersatz nach § 34 Abs. 3 EStG in Anspruch nehmen.</lxbase:a><lxbase:a>Bei Gestaltungen dieser Art ist aber die Gesamtplanrechtsprechung
+des BFH (insbesondere die BFH-Urteile vom 06.09.2000 <lxprod:doknr-verw linkend="HT0554952">IV R 18/99</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0554952">BStBl 2001
+II S. 229</lxprod:doknr-verw> und vom 06.12.2000 <lxprod:doknr-verw linkend="HT0571487">VIII R 21/00</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0571487">BStBl 2003
+II S. 194</lxprod:doknr-verw>) zu beachten. Danach ist die Tarifermäßigung
+nach § 34 EStG nicht zu gewähren, wenn aufgrund
+einheitlicher Planung und im engen zeitlichen Zusammenhang mit der
+Veräußerung eines Mitunternehmeranteils wesentliche
+Betriebsgrundlagen ohne Aufdeckung der stillen Reserven aus dem
+Betriebsvermögen der Gesellschaft ausscheiden.</lxbase:a><lxbase:a>Ein sachlicher Zusammenhang liegt dann vor, wenn sich eine Umstrukturierungsmaßnahme
+wirtschaftlich als einheitlicher Vorgang darstellt. In der Praxis kommt
+dabei dem zeitlichen Zusammenhang (auch wenn er nur indizielle Bedeutung
+hat) großes Gewicht zu. Es muss also (wie bei einer Betriebsaufgabe)
+eine zeitraumbezogene Betrachtung angestellt werden, wenn sich der Anteilsverkauf
+in mehreren Teilakten vollzieht. Werden im zeitlichen Zusammenhang
+mit dem Anteilsverkauf dem Mitunternehmeranteil stille Reserven
+in wesentlichen Betriebsgrundlagen durch Buchwertübertragung
+der Besteuerung entzogen, werden durch den Anteilsverkauf nicht
+alle stillen Reserven aufgedeckt, sondern nur die nach der Buchwertübertragung
+wesentlicher Betriebsgrundlagen verbliebenen. Das steht dem Zweck
+des § 34 EStG, die Progression durch die geballte Aufdeckung
+der stillen Reserven zu mildern, entgegen. Der Gewinn aus dem Verkauf
+des Mitunternehmeranteils ist somit ein laufender Gewinn, der dann
+auch der Gewerbesteuer unterliegt.</lxbase:a><lxbase:a>Die Bestimmung des Zeitraums, der einen Gesamtplan indiziert,
+richtet sich nach folgenden Kriterien: Bei Fällen, in denen
+keine Anhaltspunkte für (z.B. vertragliche Vereinbarungen)
+oder gegen (z.B. das Einwirken äußerer Umstände)
+greifbar sind, liegt bei einem zeitlichen Abstand zwischen der Buchwertübertragung
+und der späteren Mitunternehmeranteilsveräußerung
+von 36 Monaten und mehr kein schädlicher Gesamtplan mehr
+vor. Beträgt der Zeitraum zwischen 24 und 35 Monate, spricht
+auch hier eine (im Einzelfall) widerlegbare Vermutung dafür,
+dass kein Gesamtplan vorliegt. Liegt der Zeitraum bei weniger als
+24 Monaten ist i.d.R. von einem schädlichen Gesamtplan
+auszugehen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000012">5.4 Überwachung</lxbase:ueberschrift><lxbase:a><lxbase:fett>Vordruck S 2 - 96</lxbase:fett></lxbase:a><lxbase:a>In jedem Fall der betriebsvermögensübergreifenden
+Buchwertübertragung (= Übertragung aus
+dem steuerlichen Betriebsvermögen einer Mitunternehmerschaft
+heraus) muss das Finanzamt bzw. der Veranlagungsbezirk des Übertragenden
+eine Überwachungsmitteilung (Vordruck S 2 - 96) fertigen
+und an das Finanzamt bzw. den Veranlagungsbezirk des Übernehmers
+senden.</lxbase:a><lxbase:a><lxbase:fett>Vordruck S 2 - 98</lxbase:fett></lxbase:a><lxbase:a>In Fällen der Buchwertübertragungen innerhalb
+ein und derselben Mitunternehmerschaft bedarf es zur Überwachung
+zwar keiner Mitteilung an ein anderes Finanzamt bzw. einen anderen
+Veranlagungsbezirk. Wegen der dreijährigen Sperrfrist (vgl.
+die nachfolgende Tz. 6) bzw. der Siebenjahresfrist (vgl. die nachfolgende
+Tz 8) sind auch diese Fälle zu überwachen. Dazu
+dient der Vordruck S 2 - 98.</lxbase:a><lxbase:a><lxbase:fett>OFD-Verfügung vom 06.09.2004</lxbase:fett></lxbase:a><lxbase:a>Weitere Einzelheiten zur Überwachung ergeben sich aus
+der OFD-Verfügung vom 06.09.2004 <lxbase:az normform="S-2170-A-14/20" manuell="nein">S-2170 A -
+14/20</lxbase:az>04 - St 315 (abrufbar in FAIR/ESt/Verfügungen). </lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000013">6 Die dreijährige
+Behaltefrist (§ 6 Abs. 5 Satz 4 EStG)</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523026000014">6.1 Welche Fälle
+sind betroffen? </lxbase:ueberschrift><lxbase:a><lxbase:fett>Rückwirkender Teilwertansatz</lxbase:fett></lxbase:a><lxbase:a>Die Buchwertübertragung von Einzelwirtschaftsgütern
+ist für Übertragungen an eine dreijährige
+Behaltefrist (Sperrfrist) beim Übernehmer geknüpft.
+Der Übernehmer darf das zuvor übertragene Wirtschaftsgut
+in diesem Zeitraum nicht verkaufen oder entnehmen, sonst ist die Übertragung
+rückwirkend mit dem Teilwert anzusetzen. Die Behaltefrist
+gilt für alle Übertragungsvorgänge (= Übergang
+des wirtschaftlichen Eigentums) nach dem 31.12.2000 (§ 52
+Abs. 16a Satz 1 EStG), d.h. für Übertragungen
+ab dem 01.01.2001.</lxbase:a><lxbase:a><lxbase:fett>Besonderer Fristlauf</lxbase:fett></lxbase:a><lxbase:a>Eine Besonderheit gilt beim Fristlauf: Die Frist wird erst durch
+Abgabe der Steuererklärung (ESt- oder Feststellungserklärung)
+des Übertragenden für das Übertragungsjahr
+in Gang gesetzt.</lxbase:a><lxbase:a><lxbase:fett>Beispiel 6</lxbase:fett></lxbase:a><lxbase:a>Ausgangssachverhalt mit der Ergänzung, dass die AB-KG
+das im Jahr 2005 übertragene Grundstück im Jahr
+2008 verkauft. Die Erklärung zur einheitlichen und gesonderten
+Feststellung der Einkünfte der AB-KG für das Jahr
+2005 wird am 31.05.2006 abgegeben.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260g.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="281" height="139" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Die Grundstücksübertragung erfolgte im Jahr
+2005 teilweise (3/4) zum Buchwert. Diese Buchwertübertragung
+setzte die dreijährige Behaltefrist in Lauf, die vom 31.05.2006
+(Abgabe F-Erklärung 2005) bis 31.05.2009 läuft.</lxbase:a><lxbase:a>Der Grundstücksverkauf im Jahr 2008 führt zum
+rückwirkenden Teilwertansatz bezüglich des unentgeltlich übertragenen
+Teils, d.h. es ergibt sich im Jahr 2005 ein (weiterer laufender,
+gewerbesteuerpflichtiger) Gewinn i.H. von 225.000 Euro (3/4
+der gesamten stillen Reserven von 300.000 Euro).</lxbase:a><lxbase:a>Der Feststellungsbescheid 2005 für die AB-KG ist nach § 175
+Abs. 1 Satz 1 Nr. 2 AO zur Erfassung des zusätzlichen Gewinns
+i.H. von 225.000 Euro zu ändern.</lxbase:a><lxbase:a><lxbase:fett>Beachte</lxbase:fett>: Handelte es sich um ein abnutzbares Wirtschaftsgut,
+etwa ein Gebäude, ergäbe sich durch den Teilwertansatz
+nachträglich eine höhere AfA-Bemessungsgrundlage
+und eine höhere Gebäude-AfA in den Folgejahren.</lxbase:a><lxbase:a><lxbase:fett>Teilwertansatz auch bei 100 v.H. Gesellschaftern</lxbase:fett></lxbase:a><lxbase:a>Die dreijährige Behaltefrist und in der Folge der rückwirkende
+Teilwertansatz bei Verkauf bzw. Entnahme des übertragenen
+Wirtschaftsguts vor Fristablauf gilt auch, wenn der Übertragende
+zu 100 v.H. an der aufnehmenden Personengesellschaft beteiligt ist,
+z.B. bei der Übertragung vom Sonderbetriebsvermögen
+eines 100 v.H.-Kommanditisten in das Gesamthandsvermögen
+der GmbH &amp; Co. KG. Zum rückwirkenden Teilwertwertansatz
+kommt es also auch dann, wenn sich durch die Übertragung
+keine Änderung des Anteils des übertragenden Gesellschafters
+an dem übertragenen Wirtschaftsgut ergeben hat, wenn z.B. das
+100 v.H.-Alleineigentum des Gesellschafters zu seinem 100 v.H.-Gesamthandseigentum
+als 100 v.H.-Kommanditist geworden ist (R 6.15 EStR 2005).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000015">6.2 Für welche
+Fälle gilt die Behaltefrist nicht?</lxbase:ueberschrift><lxbase:a><lxbase:fett>Ergänzungsbilanz erstellt</lxbase:fett></lxbase:a><lxbase:a>Wird ein Wirtschaftsgut aus dem Sonderbetriebsvermögen
+in das Gesamthandsvermögen derselben Gesellschaft oder
+das Gesamthandsvermögen einer Schwestergesellschaft übertragen,
+gilt die dreijährige Behaltefrist hingegen nicht, wenn
+im Gesamthandsvermögen der Teilwert angesetzt wird und
+der Aufstockungsbetrag als Minderwert in der Ergänzungsbilanz
+des einbringenden Gesellschafters neutralisiert wird. In diesem
+Fall werden die stillen Reserven durch den Minderwert in der Ergänzungsbilanz
+dem übertragenden Gesellschafter zugeordnet.</lxbase:a><lxbase:a><lxbase:fett>Beispiel 7 </lxbase:fett></lxbase:a><lxbase:a>Ausgangssachverhalt mit der Abweichung, dass A das Anschaffungsdarlehen zurückbehält.
+Die AB-KG setzte das Grundstück mit dem Teilwert (400.000 Euro)
+an und bildete eine Kapitalrücklage i.H. von 400.000 Euro.
+A bilanzierte in einer Ergänzungsbilanz für das
+Grundstück einen Minderwert i.H. von 300.000 Euro. Im Jahr
+2008 verkauft die AB-KG das Grundstück für 500.000 Euro.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260h.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="295" height="136" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Der Übertragungsvorgang im Jahr 2005 war unentgeltlich
+und erfolgte zum Buchwert. Durch die negative Ergänzungsbilanz
+sind die stillen Reserven (300.000 Euro) dem A zugeordnet, d.h.
+die Behaltefrist gilt nicht.</lxbase:a><lxbase:a>Im Jahr 2008 entsteht im Gesamthandsvermögen der AB-KG
+ein Veräußerungsgewinn von 100.000 Euro. Darüber
+hinaus realisiert A durch die Auflösung des Minderwertes
+in der Ergänzungsbilanz einen Gewinn von 300.000 Euro.
+Die Behaltefrist ist hier nicht erforderlich, weil A ohnehin die
+stillen Reserven (allerdings erst im Jahr 2008) versteuern muss.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000016">6.3 Die praktische Umsetzung
+der dreijährigen Behaltefrist</lxbase:ueberschrift><lxbase:a><lxbase:fett>Vordruck S 2 - 97</lxbase:fett></lxbase:a><lxbase:a>Stellt das Finanzamt bzw. der Veranlagungsbezirk des Übernehmers
+fest, dass das zum Buchwert übertragene Wirtschaftsgut
+innerhalb der Sperrfrist veräußert oder entnommen
+worden ist, ist dieser Sachverhalt dem Finanzamt bzw. Veranlagungsbezirk
+des Übertragenden mit dem Vordruck S 2 - 97 mitzuteilen.</lxbase:a><lxbase:a><lxbase:fett>Bescheid des Übertragungsjahres ändern</lxbase:fett></lxbase:a><lxbase:a>Das Finanzamt bzw. der Veranlagungsbezirk des Übertragenden
+hat darauf hin den Steuer- bzw. Feststellungsbescheid für
+das Jahr der Übertragung nach § 175 Abs. 1 Satz
+1 Nr. 2 AO zu ändern und dabei den Teilwert anzusetzen.
+Korrespondierend dazu sind beim Übernehmer ggf. Folgeänderungen,
+insbesondere wegen der höheren AfA bei abnutzbaren Wirtschaftsgütern,
+erforderlich, die dort ebenfalls im Rahmen einer Änderung
+nach § 175 Abs. 1 Satz 1 Nr. 2 AO zu berücksichtigen
+sind. Zur übereinstimmenden Wertfindung sollen in Abschnitt
+C "Weitere Informationen" des Vordrucks S 2 -
+97 Angaben zur Höhe des Veräußerungspreises
+bzw. des Entnahmewerts gemacht werden.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000017">7 Übergang
+stiller Reserven auf eine Kapitalgesellschaft bei der Übertragung
+des Wirtschaftsguts (§ 6 Abs. 5 Satz 5 EStG)</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523026000018">7.1 Grundsatz</lxbase:ueberschrift><lxbase:a><lxbase:fett>Kein Übergang stiller Reserven auf Kapitalgesellschaften</lxbase:fett></lxbase:a><lxbase:a>Es gilt der Grundsatz, dass in Personenunternehmen gebundene
+stille Reserven nicht unversteuert auf eine beteiligte Kapitalgesellschaft übergehen
+dürfen. Um zu verhindern, dass durch die Übertragung
+von Wirtschaftsgütern stille Reserven auf Kapitalgesellschaften übergehen,
+die diese dann lediglich mit (gegenüber dem ESt-Tarif)
+günstigeren KSt-Steuersatz versteuern, ist deshalb der Teilwert
+anzusetzen, soweit durch die Übertragung des Wirtschaftsguts
+der Anteil einer Kapitalgesellschaft an dem Wirtschaftsgut unmittelbar
+oder mittelbar begründet wird oder sich dieser erhöht.
+Der (partielle) Zwang zum Teilwertansatz gilt für alle Übertragungsvorgänge
+nach dem 31.12.2000 (§ 52 Abs. 16a Satz 1 EStG).</lxbase:a><lxbase:a><lxbase:fett>Maßgebende Beteilungsquote</lxbase:fett></lxbase:a><lxbase:a>Die anteilige Aufdeckung der stillen Reserven bestimmt sich nach
+der Beteiligungsquote der Kapitalgesellschaft am Gesamthandsvermögen,
+und zwar bei einer Übertragung gegen Gewährung
+von Gesellschaftsrechten nach der "Kapitalerhöhung".
+Ist die Kapitalgesellschaft vor der Übertragung z.B. mit
+50 v.H. am Gewinn/Verlust und den stillen Reserven beteiligt
+und nach der Übertragung eines Wirtschaftsguts durch einen
+anderen Gesellschafter gegen Erhöhung seines Festkapitals
+bzw. Kapitalkontos I z.B. nur noch mit 25 v.H., sind 25 v.H. der
+stillen Reserven aufzudecken.</lxbase:a><lxbase:a><lxbase:fett>Beispiel 8</lxbase:fett></lxbase:a><lxbase:a>Ausgangssachverhalt mit der Abweichung, dass A das Grundstück
+unter Zurückbehalt des Anschaffungsdarlehens an die AB-KG
+gegen Bildung einer Kapitalrücklage i.H. von 100.000 Euro übertrug.
+Kommanditist B ist eine GmbH.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260i.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="266" height="108" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Die Grundstücksübertragung könnte
+nach § 6 Abs. 5 Satz 3 Nr. 2 EStG problemlos zum Buchwert
+erfolgen. Denn es handelt sich um eine unentgeltliche Übertragung
+aus dem Sonderbetriebsvermögen des A in das Gesamthandsvermögen
+der AB-KG.</lxbase:a><lxbase:a>Durch die Buchwertübertragung würden hier aber
+50 v.H. der stillen Reserven auf die B-GmbH übergehen,
+weil sie aufgrund ihrer Beteiligung mittelbar einen Anteil an dem
+(gesamthänderisch gebundenen) Vermögen erhielt.
+Nach § 6 Abs. 5 Satz 5 EStG ist deshalb insoweit (= 50
+v.H.) der Teilwert anzusetzen, d.h. im Sonderbetriebsvermögen
+des A entsteht ein Übertragungsgewinn in Höhe
+der Hälfte der stillen Reserven (150.000 Euro; mit GewSt-Pflicht).
+Für die anderen 50 v.H. des Grundstücks ist der
+(halbe) Buchwert fortzuführen.</lxbase:a><lxbase:a>Die AB-KG hat das Grundstück deshalb mit 250.000 Euro
+(1/2 Teilwert = 200.000 Euro + 1/2
+Buchwert = 50.000 Euro) zu bilanzieren.</lxbase:a><lxbase:a>Die Aufdeckung der hälftigen stillen Reserven kann nicht
+durch Aufstellung einer negativen Ergänzungsbilanz vermieden
+werden. Auch eine Gesellschaftervereinbarung, wonach A der Gewinn
+aus dem Verkauf des Grundstücks zugewiesen wird, verhindert
+die Versteuerung der hälftigen stillen Reserven im Zeitpunkt
+der Übertragung nicht. </lxbase:a><lxbase:a><lxbase:fett>Hinweis:</lxbase:fett></lxbase:a><lxbase:a>Ist A an der B-GmbH beteiligt, handelt es sich hinsichtlich des
+auf die B-GmbH übergegangenen Grundstücksanteils
+(50 v.H.) zugleich um eine verdeckte Einlage, die mit dem angesetzten
+Teilwert (200.000 Euro) die Anschaffungskosten des GmbH-Anteils
+von A erhöht (§ 6 Abs. 6 Satz 2 EStG).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000019">7.2 Übertragender
+ist eine Kapitalgesellschaft</lxbase:ueberschrift><lxbase:a><lxbase:fett>Kapitalgesellschaft als Mitunternehmen</lxbase:fett></lxbase:a><lxbase:a>Mitunternehmer einer Personengesellschaft kann auch eine Kapitalgesellschaft sein. Überträgt
+sie ein Wirtschaftsgut aus ihrem eigenen gewerblichen Betriebsvermögen
+oder aus ihrem Sonderbetriebsvermögen unentgeltlich oder
+gegen Gewährung von Gesellschaftsrechten in das Gesamthandsvermögen
+der Personengesellschaft, kann diese Übertragung zum Buchwert
+erfolgen, sofern keine stillen Reserven auf eine andere beteiligte
+Kapitalgesellschaft übergehen.</lxbase:a><lxbase:a><lxbase:fett>100 v.H.-Gesellschafter</lxbase:fett></lxbase:a><lxbase:a>Die Buchwertübertragung ist jedenfalls dann problemlos,
+wenn die übertragende Kapitalgesellschaft mit 100 v.H.
+an der Personengesellschaft beteiligt ist (BMF-Schreiben vom 07.02.2002, <lxprod:doknr-verw linkend="HT0576382">DB 2002 S. 660</lxprod:doknr-verw>).</lxbase:a><lxbase:a><lxbase:fett>Beteiligung &lt; 100 v.H.</lxbase:fett></lxbase:a><lxbase:a>Ist die übertragende Kapitalgesellschaft an der aufnehmenden
+Personengesellschaft mit weniger als 100 v.H. beteiligt, hängt
+die Buchwertübertragung davon ab, ob an der aufnehmenden
+Personengesellschaft andere Kapitalgesellschaften beteiligt sind:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt><lxbase:a>Sind an der aufnehmenden
+Personengesellschaft keine Kapitalgesellschaften beteiligt, steht
+der Buchwertübertragung nichts entgegen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Sind an der aufnehmenden Personengengesellschaft (ggf.
+zum selben Konzernkreis gehörende) Kapitalgesellschaften
+mittelbar oder unmittelbar beteiligt, kann die Übertragung
+des Wirtschaftsguts nur insoweit zum Buchwert erfolgen, als das
+Wirtschaftsgut der übertragenden Kapitalgesellschaft nach der Übertragung
+noch mittelbar (gesamthänderisch gebunden) zuzurechnen ist.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Beispiel 9</lxbase:fett></lxbase:a><lxbase:a>Ausgangssachverhalt mit der Abweichung, dass A eine Kapitalgesellschaft
+ist (A-GmbH mit Herrn A als Gesellschafter). Die A-GmbH überträgt
+das Grundstück unter Zurückbehaltung des Anschaffungsdarlehens
+an die AB-KG gegen Erhöhung ihres Festkapitals (Kapitalkonto
+I) um 100.000 Euro.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260j.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="254" height="188" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Die Grundstücksübertragung gegen Gewährung
+von Gesellschaftsrechten erfolgt nach § 6 Abs. 5 Satz 3
+Nr. 2 EStG zum Buchwert (mit Behaltefrist). § 6 Abs. 5
+Satz 5 EStG steht dem nicht entgegen, da sich durch die Grundstückübertragung
+der Anteil der A-GmbH an dem Grundstück weder erhöhte
+noch erstmals begründet wurde. Die A-GmbH war vor der Übertragung
+Alleineigentümerin (100 v.H.) des Grundstücks.
+Nach der Übertragung ist sie an dem gesamthänderisch
+gebundenen Grundstück mittelbar zu nur noch 50 v.H. beteiligt,
+d.h. ihr Anteil erhöhte sich nicht, sondern verringerte
+sich. Der gesamthänderisch gebundene Anteil des Kommanditisten
+B an dem Grundstück erhöhte sich zwar von 0 v.H.
+auf 50 v.H. Das steht der Buchwertübertragung aber nicht entgegen,
+weil B eine natürliche Person ist (anders wäre
+es, wenn es sich bei B um eine Kapitalgesellschaft handelte).</lxbase:a><lxbase:a><lxbase:fett>Hinweis:</lxbase:fett></lxbase:a><lxbase:a>Hier geht die Hälfte der stillen Reserven (150.000 Euro)
+des Grundstücks auf den Kommanditisten B über.
+Ist dieser zugleich Gesellschafter der A-GmbH oder nahe stehende
+Person eines GmbH-Gesellschafters, handelt es sich insoweit um eine
+verdeckte Gewinnausschüttung an den GmbH-Gesellschafter.</lxbase:a><lxbase:a><lxbase:fett>Verkauf GmbH-Beteiligung unschädlich</lxbase:fett></lxbase:a><lxbase:a>Werden die Anteile an der übertragenden Kapitalgesellschaft
+innerhalb von sieben Jahren nach der Buchwertübertragung
+des Wirtschaftsguts an eine andere Kapitalgesellschaft verkauft,
+hat dieser Verkauf keinen Einfluss auf die Buchwerteinbringung.</lxbase:a><lxbase:a><lxbase:fett>Beispiel 10</lxbase:fett></lxbase:a><lxbase:a>Sachverhalt wie im Beispiel 9. Herr A verkauft seinen Geschäftsanteil
+an der A-GmbH im Jahr 2006 an die B-GmbH.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260k.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="250" height="197" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>An der Buchwertübertragung des Grundstücks
+im Jahr 2005 ändert sich nichts, d.h. es ist nicht rückwirkend
+der Teilwert anzusetzen.</lxbase:a><lxbase:a>Die B-GmbH ist zwar nach dem Anteilserwerb an der A-GmbH und
+diese wiederum mittelbar an den Wirtschaftsgütern der AB-KG
+beteiligt. Die A-GmbH kann ihrerseits ihren Anteil an den Wirtschaftsgütern
+der AB-KG nicht weiter an die B-GmbH vermitteln. Durch die Übernahme
+der Anteile an der A-GmbH wird die B-GmbH nicht selbst Mitunternehmerin
+der AB-KG. Die A-GmbH entfaltet wegen ihrer rechtlichen Selbständigkeit
+als juristische Person für die Anwendung des § 6
+Abs. 5 Satz 5 EStG eine Abschirmwirkung. Es ist deshalb nicht möglich,
+die B-GmbH im Wege des Durchgriffs durch die A-GmbH selbst als (verdeckte)
+Mitunternehmerin zu behandeln (BFH-Urteil vom 28.10.1999 <lxprod:doknr-verw linkend="HT0553029">VIII R 66-70/97</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0553029">BStBl 2000
+II S. 183</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000020">7.3 Übertragender
+ist eine Personengesellschaft</lxbase:ueberschrift><lxbase:a><lxbase:fett>Voraussetzungen für die Buchwertfortführung</lxbase:fett></lxbase:a><lxbase:a>Bei einer doppelstöckigen Personengesellschaft ist eine
+Mitunternehmerschaft (Obergesellschaft) als Gesellschafterin einer
+anderen Mitunternehmerschaft (sog. Untergesellschaft) beteiligt. Überträgt
+die Obergesellschaft aus ihrem Gesamthandsvermögen ein
+Wirtschaftsgut unentgeltlich oder gegen Gewährung von Gesellschaftsrechten
+an die Untergesellschaft, kann die Untergesellschaft die Buchwerte
+fortführen, sofern die Obergesellschaft mit 100 v.H. an der
+Untergesellschaft beteiligt ist oder an der Untergesellschaft keine
+Kapitalgesellschaft beteiligt ist (BMF-Schreiben vom 07.02.2002, <lxprod:doknr-verw linkend="HT0576382">DB 2002 S. 660</lxprod:doknr-verw>).</lxbase:a><lxbase:a><lxbase:fett>Beispiel 11</lxbase:fett></lxbase:a><lxbase:a>Ausgangssachverhalt mit der Abweichung, dass A eine OHG ist (A-OHG),
+die das Grundstück schuldenfrei aus ihrem Gesamthandsvermögen
+gegen Gewährung von Gesellschaftsrechten in die AB-KG überträgt.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260l.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="252" height="111" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Die Grundstücksübertragung erfolgt nach § 6
+Abs. 5 Satz 3 Nr. 1 EStG zum Buchwert (mit Behaltefrist; Ausnahme:
+Ergänzungsbilanz). § 6 Abs. 5 Satz 5 EStG steht
+dem nicht entgegen, weil bei der AB-KG keine Kapitalgesellschaft beteiligt
+ist, die einen Anteil an dem Grundstück begründete.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000021">7.4 Praktische Umsetzung
+des Verbots des Übergangs von stillen Reserven auf Kapitalgesellschaften</lxbase:ueberschrift><lxbase:a><lxbase:fett>Vordruck S 2 - 96</lxbase:fett></lxbase:a><lxbase:a>Kann der Veranlagungsbezirk des Übertragenden bei der Übertragung
+auf eine Personengesellschaft nicht erkennen, ob daran eine Kapitalgesellschaft
+beteiligt ist, ist in der Überwachungsmitteilung S 2 -
+96 in Abschnitt C das erste Auswahlfeld anzukreuzen.</lxbase:a><lxbase:a><lxbase:fett>Vordruck S 2 - 97</lxbase:fett></lxbase:a><lxbase:a>Stellt das Finanzamt bzw. der Veranlagungsbezirk des Übernehmers
+fest, dass durch die Buchwertübertragung der Anteil einer
+Kapitalgesellschaft an dem Wirtschaftsgut mittelbar oder unmittelbar
+begründet wurde oder sich dieser erhöht hat, ist
+dies dem Finanzamt bzw. Veranlagungsbezirk des Übertragenden mit
+der Mitteilung S 2 - 97 (dort Abschnitt A) mitzuteilen.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000022">8 Nachträglicher
+Teilwertansatz (§ 6 Abs. 5 Satz 6 EStG)</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523026000023">8.1 Welche Fälle
+sind betroffen?</lxbase:ueberschrift><lxbase:a><lxbase:fett>Umwandlungsfälle</lxbase:fett></lxbase:a><lxbase:a>Zu einer rückwirkenden Versagung des Buchwertprivilegs
+durch Ansatz des Teilwerts kommt es auch dann, wenn innerhalb von
+sieben Jahren nach der Übertragung des Wirtschaftsguts
+der Anteil einer Kapitalgesellschaft an dem übertragenen
+Wirtschaftsgut nachträglich aus einem anderen Grund unmittelbar oder
+mittelbar begründet wird oder dieser sich erhöht.
+Damit sind insbesondere Umwandlungsvorgänge innerhalb von
+sieben Jahren nach der Buchwertübertragung angesprochen,
+z.B. die Einbringung des Betriebs oder Mitunternehmeranteils in
+eine Kapitalgesellschaft nach § 20 Abs. 1 UmwStG.</lxbase:a><lxbase:a><lxbase:fett>Beispiel 12</lxbase:fett></lxbase:a><lxbase:a>Ausgangssachverhalt mit der Abweichung, dass A das Grundstück
+im Jahr 2005 unentgeltlich (unter Zurückbehalt des Anschaffungsdarlehens)
+zum Buchwert an die AB-KG übertragen hatte. Im Jahr 2006
+wird die AB-KG auf die neu gegründete AB-GmbH verschmolzen
+(Buchwerteinbringung nach § 20 Abs. 1 Satz 1 UmwStG).</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260m.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="317" height="132" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Durch die Einbringung wurde der Anteil einer Kapitalgesellschaft
+(AB-GmbH ist Eigentümerin = 100 v.H.) an dem ursprünglich
+zu Buchwert übertragenen Wirtschaftgut innerhalb der Frist
+von sieben Jahren nach der Übertragung begründet.</lxbase:a><lxbase:a>Bei A fällt deshalb rückwirkend das Buchwertprivileg
+weg, d.h. die Grundstücksübertragung im Jahr 2005
+ist nachträglich mit dem Teilwert anzusetzen, so dass es
+zur Aufdeckung und Versteuerung der stillen Reserven des Grundstücks
+(300.000 Euro) in seinem Sonderbetriebsvermögen kommt (laufender Gewinn
+mit GewSt-Pflicht). Der Feststellungsbescheid der AB-KG für
+2005 ist ggf. nach § 175 Abs. 1 Satz 1 Nr. 2 AO zu ändern.</lxbase:a><lxbase:a><lxbase:fett>Beispiel 13</lxbase:fett></lxbase:a><lxbase:a>Ausgangssachverhalt mit der Abweichung, dass Gesellschafter A
+eine OHG ist (A-OHG). Die A-OHG hatte das Grundstück im
+Jahr 2005 unentgeltlich (unter Zurückbehalt des Anschaffungsdarlehens)
+zum Buchwert auf die AB-KG übertragen. Im Jahr 2006 wird
+die A-OHG im Wege des Formwechsels auf die A-GmbH verschmolzen.</lxbase:a><lxbase:abbildung><lxbase:graphik bild="d5230260n.gif" dpi="150" sideways="0" impang="0.000" xoffset="0.000in" yoffset="0.000in" position="INLINE" align="ACENTER" cropped="0" float="0" width="257" height="163" angle="0.000" bloffset="-0.019in" nsoffset="0.000in" /></lxbase:abbildung><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Durch den Formwechsel der A-OHG wurde der Anteil einer Kapitalgesellschaft
+(der A-GmbH) an dem Grundstück unmittelbar aus einem anderen Grund
+als der Übertragung begründet. Aus der Formulierung
+in § 6 Abs. 5 Satz 6 EStG ("Anteil einer Kapitalgesellschaft")
+ergibt sich, dass die Kapitalgesellschaft nicht schon bei der Übertragung
+beteiligt gewesen sein muss.</lxbase:a><lxbase:a>Bei der A-OHG fällt deshalb rückwirkend das
+Buchwertprivileg weg, d.h. die Grundstücksübertragung
+im Jahr 2005 ist nachträglich mit dem Teilwert anzusetzen,
+so dass es zur Aufdeckung und Versteuerung der hälftigen
+stillen Reserven des Grundstücks (150.000 Euro) in ihrem
+Gesamthandsvermögen kommt (laufender Gewinn mit GewSt-Pflicht).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000024">8.2 Überwachung
+der Siebenjahresfrist</lxbase:ueberschrift><lxbase:a><lxbase:fett>Vordruck S 2 - 98</lxbase:fett></lxbase:a><lxbase:a>Die Überwachung der Siebenjahresfrist erfolgt bei Übertragungen
+innerhalb ein und derselben Mitunternehmerschaft mit dem Überwachungsblatt
+S 2 - 98. Liegt ein Anwendungsfall des § 6 Abs. 5 Satz
+6 EStG innerhalb der Siebenjahresfrist vor, ist der Feststellungsbescheid
+für das Jahr der Übertragung nach § 175
+Abs. 1 Satz 1 Nr. 2 AO zu ändern, was in Abschnitt D des
+Vordrucks S 2 - 98 zu dokumentieren ist.</lxbase:a><lxbase:a><lxbase:fett>Vordruck S 2 - 97</lxbase:fett></lxbase:a><lxbase:a>Bei Übertragungen in eine andere Mitunternehmerschaft
+muss das Finanzamt bzw. der Veranlagungsbezirk des Übernehmers
+die Überwachungsmitteilung S 2 - 96 zu den Dauerunterlagen
+nehmen. Liegt ein Anwendungsfall des § 6 Abs. 5 Satz 6
+EStG innerhalb der Siebenjahresfrist vor, ist dies dem Finanzamt
+bzw. dem Veranlagungsbezirk des Übertragenden mit dem Vordruck
+S 2 - 97 mitzuteilen. </lxbase:a><lxbase:a><lxbase:fett>FAIR</lxbase:fett></lxbase:a><lxbase:a>Diese Verfügung ist in FAIR im Register ESt/Verfügungen
+abrufbar.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523026000025">Anlagen:</lxbase:ueberschrift><lxbase:a>• Vordruck S 2 - 96 (Überwachungsmitteilung
+nach § 6 Abs. 5 Satz 3 EStG)</lxbase:a><lxbase:a><lxprod:extern-verw zieladresse="a5230260.pdf" linkart="View" linkend="" filesize="55157">anzeigen/drucken </lxprod:extern-verw> oder <lxprod:extern-verw zieladresse="a5230260.pdf" linkart="Save" linkend="" filesize="55157">speichern </lxprod:extern-verw></lxbase:a><lxbase:a>• Vordruck S 2 - 97 (Mitteilung für Zwecke
+des § 6 Abs. 5 Sätze 4 bis 6 EStG)</lxbase:a><lxbase:a><lxprod:extern-verw zieladresse="b5230260.pdf" linkart="View" linkend="" filesize="47041">anzeigen/drucken </lxprod:extern-verw> oder <lxprod:extern-verw zieladresse="b5230260.pdf" linkart="Save" linkend="" filesize="47041">speichern </lxprod:extern-verw></lxbase:a><lxbase:a>• Vordruck S 2 – 98 (Überwachungsblatt § 6
+Abs. 5 Sätze 4 und 6 EStG)</lxbase:a><lxbase:a><lxprod:extern-verw zieladresse="c5230260.pdf" linkart="View" linkend="" filesize="38060">anzeigen/drucken </lxprod:extern-verw> oder <lxprod:extern-verw zieladresse="c5230260.pdf" linkart="Save" linkend="" filesize="38060">speichern </lxprod:extern-verw></lxbase:a><lxbase:a>• Vordruck S 2 - 99 (Überwachungsmitteilung § 16
+Abs. 3 Sätze 3 und 4 EStG)</lxbase:a><lxbase:a><lxprod:extern-verw zieladresse="d5230260.pdf" linkart="View" linkend="" filesize="31859">anzeigen/drucken </lxprod:extern-verw> oder <lxprod:extern-verw zieladresse="d5230260.pdf" linkart="Save" linkend="" filesize="31859">speichern </lxprod:extern-verw></lxbase:a><lxbase:a>• Vordruck S 2 - 100 (Mitteilung für Zwecke
+des § 16 Abs. 3 Sätze 3 und 4 EStG)</lxbase:a><lxbase:a><lxprod:extern-verw zieladresse="e5230260.pdf" linkart="View" linkend="" filesize="24023">anzeigen/drucken </lxprod:extern-verw> oder <lxprod:extern-verw zieladresse="e5230260.pdf" linkart="Save" linkend="" filesize="24023">speichern </lxprod:extern-verw></lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Rheinland-Pfalz</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Baden-Württemberg</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:newsrelevant datum="2006-08-30" /><lxbase:newsgebiete><lxbase:newsgebiet>einkommensteuer/lohnsteuer</lxbase:newsgebiet></lxbase:newsgebiete></lxbase:allgemeine-angaben></lxrvw:rspvwa>

@@ -1,0 +1,1172 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" dok-nummer="5234986" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Rheinland</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2230 - St 157</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2230 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2230</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2013-02-27" ts="nein" /><lxbase:ausserkraft normdat="2014-03-24" /></lxbase:daten><lxbase:fundstellen><lxbase:nicht-normiert><lxbase:fs-kuerzel>EStGK
+NW §§ 13, 13a EStG Fach 1 Nr. 800</lxbase:fs-kuerzel></lxbase:nicht-normiert></lxbase:fundstellen><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Außer Kraft ab 24. 3. 2014</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:13</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:13a</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2014" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Einkommensteuerveranlagung der Land-
+und Forstwirte (Grundsatzverfügung)</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600001"><lxbase:a>I Allgemeine Grundsätze</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600002"><lxbase:a>1	 Zuständigkeit der Schwerpunktfinanzämter LuF</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600043"><lxbase:a>2 	Begriff des land- und forstwirtschaftlichen Betriebes</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600003"><lxbase:a>3	 Steuererklärungen</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600044"><lxbase:a>3.1 Steuererklärungsfristen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600005"><lxbase:a>3.2 Behandlung von 0-Fällen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600006"><lxbase:a>3.3 Veranlagung von Landwirten zur Einkommensteuer in
+Fällen des § 32 ALG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600045"><lxbase:a>3.4 Schätzung von Besteuerungsgrundlagen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600007"><lxbase:a>4. Ausfüllen der Anlage L</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600008"><lxbase:a>5. Kontrollmitteilungen und Dauerbelege in der Land- und
+Forstwirtschaft</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600009"><lxbase:a>5.1 Veräußerungsmitteilungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600010"><lxbase:a>5.2 Baumitteilungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600011"><lxbase:a>5.3 Einheitswertmitteilungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600012"><lxbase:a>5.4 Sonstige Kontrollmitteilungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600013"><lxbase:a>5.5. Behandlung von Dauerbelegen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600014"><lxbase:a>5.6 Akte Grund und Boden</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600015"><lxbase:a>6. Gewinnermittlungsart</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600016"><lxbase:a>II Besonderheiten</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600017"><lxbase:a>1. Grundsätze zur Betriebsaufgabe bei Betriebsverpachtung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600018"><lxbase:a>2. Bewertung von mit land- und forstwirtschaftlichen Grund
+und Boden im Zusammenhang stehenden Milchlieferrechten (Stichwort:
+Buchwertabspaltung)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600019"><lxbase:a>3. Die Nutzungswertbesteuerung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600020"><lxbase:a>3.1 Umfang des zu entnehmenden Grund und Bodens</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600021"><lxbase:a>3.2 Die Nutzungswertbesteuerung bei Baudenkmalen (§ 13
+Abs. 2 Nr. 2 und Abs. 4 EStG)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600022"><lxbase:a>4. Abzug größerer Aufwendungen zur Erhaltung der Gebäude
+durch den Nutzungsberechtigten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600023"><lxbase:a>5. Ertragsteuerliche Behandlung bei der Errichtung von
+Ersatzflächenpools - Schaffung von Ausgleichsflächen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600024"><lxbase:a>6. 	Bilanzielle Behandlung von Feldinventar und stehender
+Ernte bei Betrieben mit jährlicher Fruchtfolge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600025"><lxbase:a>7.	 Altenteilsleistungen</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600026"><lxbase:a>7.1 Abzug von Versorgungsleistungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600027"><lxbase:a>7.2. Wiederkehrende Leistungen im Zusammenhang mit einer
+Vermögensübertragung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600028"><lxbase:a>7.3 Altenteilsleistungen beim Verpflichteten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600029"><lxbase:a>7.4 Nutzungswert der Wohnung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600030"><lxbase:a>7.5 Altenteilsleistungen beim Berechtigten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600031"><lxbase:a>7.6 Versorgungsverträge mit vereinbarter Wertsicherungsklausel;
+Anforderungen an den Versorgungsvertrag</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600032"><lxbase:a>7.7 Versorgungsleistungen auf Grund sog. Wirtschaftsüberlassungsverträge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600033"><lxbase:a>7.8 Anforderungen an den Übertragungsvertrag</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600034"><lxbase:a>7.9 Anerkennung der Aufwendungen von Grabmalkosten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600035"><lxbase:a>7.10 Begrenzung der Versorgungsleistungen auf die erzielten
+Nettoerträge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600036"><lxbase:a>7.11 Arbeitspapier zu wiederkehrenden Leistungen im Zusammenhang
+mit Vermögensübertragungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600037"><lxbase:a>8. Liebhaberei in der Land- und Forstwirtschaft</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600038"><lxbase:a>8.1 Allgemeine Grundsätze</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600039"><lxbase:a>8.2 Totalgewinnerzielung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600040"><lxbase:a>8.3 Feststellung der stillen Reserven</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600041"><lxbase:a>8.4 Zuständigkeit</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523498600042"><lxbase:a>9. Unentgeltliche Übertragung land- und forstwirtschaftlicher
+Betriebe im Zusammenhang mit einem Flächenrückbehalt von untergeordneter
+Bedeutung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D523498600001">I Allgemeine Grundsätze</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523498600002">1	 Zuständigkeit
+der Schwerpunktfinanzämter LuF</lxbase:ueberschrift><lxbase:a>Mit Erlass des FM <lxbase:az normform="NRW-vom-22/10" manuell="nein">NRW vom 22.10</lxbase:az>.2009 <lxbase:az normform="O211534IIC3" manuell="nein">O 2115 - 34 - II C
+3</lxbase:az>ist die Besteuerung von Einzelunternehmen und Personengesellschaften
+mit Einkünften aus Land- und Forstwirtschaft sowie mit gewerblichen
+Einkünften aus einer land- und forstwirtschaftlichen Tätigkeit in
+Schwerpunktfinanzämtern zentralisiert worden. Gleiches gilt für
+Einzelunternehmen und Personengesellschaften, die über land- und
+forstwirtschaftliches Betriebsvermögen verfügen.</lxbase:a><lxbase:a>Das Schwerpunktfinanzamt ist sachlich für alle Veranlagungszeiträume
+zuständig, in denen der Stpfl. Einkünfte aus Land- und Forstwirtschaft
+erzielt (hat). Selbst wenn der Stpfl. seinen luf-Betrieb aufgegeben,
+veräußert oder übertragen hat, verbleibt die Zuständigkeit für diejenigen
+Veranlagungszeiträume beim Schwerpunktfinanzamt, in denen der Stpfl.
+Einkünfte aus Land- und Forstwirtschaft erzielt hat. Das Schwerpunktfinanzamt
+bleibt sachlich insoweit auch noch für die Bearbeitung der Rechtsbehelfe,
+für die Aufhebung und Änderung von Steuerbescheiden, für die Erhebung,
+für die Betriebsprüfung einschließlich USt-Sonderprüfung und LSt-Außenprüfung
+der betreffenden Veranlagungszeiträume zuständig. Erst ab dem Veranlagungszeitraum,
+in dem keine Einkünfte aus Land- und Forstwirtschaft mehr erzielt
+werden, ist das Schwerpunktfinanzamt nicht mehr sachlich zuständig.</lxbase:a><lxbase:a>Gleiches gilt, wenn der Steuerpflichtige erstmals Einkünfte
+aus Land- und Forstwirtschaft erzielt. Das bisher zuständige Finanzamt
+bleibt sachlich weiterhin für die Steuerfestsetzung und für die
+Erhebung für die Veranlagungszeiträume zuständig, in denen der Steuerpflichtige
+noch keine Einkünfte aus Land- und Forstwirtschaft erzielt hat.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600043">2 	Begriff
+des land- und forstwirtschaftlichen Betriebes</lxbase:ueberschrift><lxbase:a>Land- und Forstwirtschaft ist die planmäßige Nutzung der
+natürlichen Kräfte des Bodens und die Verwertung der dadurch gewonnenen
+Erzeugnisse. Der Begriff des luf Betriebs setzt grundsätzlich weder
+eine Mindestgröße noch vollen landwirtschaftlichen Besatz (Betriebsgebäude,
+Betriebsmittel usw.) voraus. Auch die ernsthaft betriebene landwirtschaftliche
+Nutzung von Stückländereien ist deshalb LuF (Hinweis auf die BFH-Urteile
+vom 31.03.1955, <lxprod:doknr-verw linkend="HT0003364">IV
+134/54 U</lxprod:doknr-verw>, BStBl III S. 150, und vom 21.12.1965, <lxprod:doknr-verw linkend="HT0006783">III 291/62 U</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0006783">BStBl 1966
+III S. 138</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Die Bewirtschaftung von Schrebergärten, privaten Hausgärten,
+Wochenendgrundstücken ist dagegen in der Regel nicht zur LuF zu
+rechnen, weil hier eine ernsthafte luf Betätigung nicht gegeben
+ist.</lxbase:a><lxbase:a>Aus Gründen der Verwaltungsvereinfachung kann im Allgemeinen
+davon ausgegangen werden, dass steuerlich kein luf Betrieb vorliegt,
+wenn die bewirtschafteten Grundstücksflächen insgesamt nicht größer
+als 3.000 m <lxbase:sup>2</lxbase:sup> sind. Die Vereinfachungsregel
+gilt nicht, wenn die Flächen intensiv genutzt werden, z.B. für Sonderkulturen, Gemüse-,
+Blumen- und Zierpflanzenbau, Baumschulen und Weinbau.</lxbase:a><lxbase:a>Feststellungen zu der Frage, ob ein landwirtschaftlicher
+Betrieb - ggf. vor Generationen - vorhanden war, können sich aus
+der Größe und der Art der Bewirtschaftung des Grundstücks, aus der
+Einheitsbewertung und aus der Zugehörigkeit zur landwirtschaftlichen
+Berufsgenossenschaft oder anderen landwirtschaftlichen Berufsorganisationen
+ergeben. Bestand ursprünglich ein landwirtschaftlicher Betrieb,
+sind die Grundstücke in der Hand der Rechtsnachfolger Betriebsvermögen
+geblieben, solange sie nicht entnommen wurden oder der Betrieb aufgegeben
+wurde. Daran ändert auch ein späterer Übergang zur Eigenbedarfsbewirtschaftung
+nichts (vgl. BFH-Urteil vom 05.05.2011, <lxprod:doknr-verw linkend="HT0179531">BStBl 2011 II S. 792</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600003">3	 Steuererklärungen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523498600044">3.1 Steuererklärungsfristen</lxbase:ueberschrift><lxbase:a><lxbase:fett>3.1.1 Abgabe der Steuererklärungen für 2011
+(Gleichlautender Ländererlass vom 02.01.2012)</lxbase:fett></lxbase:a><lxbase:a>Die Frist zur Abgabe der Steuererklärung 2011 für Stpfl.
+mit Einkünften aus Land- und Forstwirtschaft, die den Gewinn nach
+einem von dem Kalenderjahr abweichenden Wirtschaftsjahr ermitteln,
+endet nicht vor Ablauf des fünften Monats, der auf den Schluss des
+in dem Kalenderjahr begonnenen Wirtschaftsjahres folgt (§ 149 (2) AO).</lxbase:a><lxbase:a>Das Verfahren der Fristverlängerung für die Abgabe von
+Steuererklärungen, die von Angehörigen der steuerberatenden Berufe
+erstellt werden, wurde wie folgt geregelt:</lxbase:a><lxbase:a>Bei Steuererklärungen für Stpfl., die den Gewinn aus Land-
+und Forstwirtschaft nach einem vom Kalenderjahr abweichenden Wirtschaftsjahr
+ermitteln, wurde die Frist nach § 109 AO allgemein bis zum <lxbase:fett>31.05.
+des Zweitfolgejahres</lxbase:fett> verlängert.</lxbase:a><lxbase:a>Darüber hinaus kann eine Fristverlängerung <lxbase:fett>bis zum 31.07.
+des Zweitfolgejahres nur noch aufgrund begründeter Einzelanträge</lxbase:fett> gewährt
+werden. Eine weitergehende Fristverlängerung kommt grundsätzlich
+nicht in Betracht.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600005">3.2 Behandlung
+von 0-Fällen</lxbase:ueberschrift><lxbase:a>Steuerfälle, in denen sich offensichtlich bei künftigen
+Veranlagungen keine Steuerschuld ergeben wird, die aber im Hinblick
+auf nicht realisierte stille Reserven (z. B. Verpachtungsfälle)
+oder wegen zu erwartender Änderungen von Besteuerungsgrundlagen
+(z. B. Veräußerung von Grundvermögen) in späteren Jahren steuerlich relevant
+werden können (sog. "Schlafende Landwirte"), sind nicht zu löschen.</lxbase:a><lxbase:a>Hierbei bitte ich zu beachten, dass die Übernahme in das
+Überwachungsverfahren bei wirtschaftenden Land- und Forstwirten
+nicht zulässig ist, sofern diese verpflichtet sind, ihre Gewinne
+nach § 4 (1) oder (3) EStG zu ermitteln.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600006">3.3 Veranlagung
+von Landwirten zur Einkommensteuer in Fällen des § 32 ALG</lxbase:ueberschrift><lxbase:a>Die Referatsleiter Abgabenordnung der obersten Finanzbehörden
+des Bundes und der Länder haben auf der Sitzung AO I/2006 (vom 22.
+bis 24. März zu TOP 3) die Auffassung vertreten, dass keine rechtliche
+Verpflichtung besteht, nur für Zwecke der Berechnung des Beitragzuschusses
+nach § 32 des Gesetzes über die Alterssicherung der Landwirte (ALG)
+in "Nullfällen" eine Einkommensteuerveranlagung durchzuführen. Dies
+gilt insbesondere vor dem Hintergrund, dass das ALG eine ausdrückliche
+Regelung zur Berechnung des Beitragszuschusses in Fällen einer nicht durchgeführten
+Veranlagung zur Einkommensteuer vorsieht.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600045">3.4 Schätzung
+von Besteuerungsgrundlagen</lxbase:ueberschrift><lxbase:a>Grundsätzlich erfolgt die Schätzung der Besteuerungsgrundlagen
+unter Berücksichtigung der verschiedenen Betriebsformen, der regionalen
+Besonderheiten und der unterschiedlichen Ertragskraft der Betriebe
+nach den Grundsätzen des § 4 Abs. 1 EStG. Bei wiederholter Schätzung
+wegen Nichtabgabe der Steuererklärung ist daher in der Regel der
+ALS einzuschalten. Dies gilt auch für die Fälle, in denen der Steuerpflichtige
+eine Steuererklärung ohne Gewinnermittlung oder lediglich mit einem geschätzten
+Gewinn abgegeben hat. Um den einer Schätzung anhaftenden Unsicherheiten
+Rechnung zu tragen, wird in der Anhebung der Schätzungsbeträge,
+insbesondere bei wiederholten Schätzungen ein geeignetes Mittel
+gesehen. Im Rahmen der Schätzungen sind die zur Verfügung stehenden
+Zwangsmittel (z.B. Androhung und Festsetzung von Zwangsgeldern,
+Festsetzung von Verspätungszuschlägen) angemessen auszuschöpfen.
+Eine besondere Karteianweisung zu der Ermittlung des Gewinnes von
+Schätzlandwirten wird nicht mehr ausgegeben. Zu beachten ist im Übrigen,
+dass die Kz 70 im SB 50 korrigiert werden muss, sofern nach den
+Schätzungen Steuererklärungen u.U. im Rahmen des Rechtsbehelfsverfahrens
+eingegangen und bearbeitet worden sind.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600007">4. Ausfüllen
+der Anlage L</lxbase:ueberschrift><lxbase:a>Ich weise erneut darauf hin, dass insbesondere auch Land-
+und Forstwirte, die ihren Gewinn nach § 4 (1) oder (3) EStG ermitteln,
+die <lxbase:fett>Anlage L vollständig</lxbase:fett> und <lxbase:fett>wahrheitsgemäß</lxbase:fett> auszufüllen
+haben (vgl. § 150 (1) und (2) AO). Das gilt insbesondere hinsichtlich
+der Flächenangaben in den Zeilen 32 bis 47 der Anlage L, die auch
+dazu dienen, die zutreffende Gewinnermittlungsart überprüfen, Einnahmen
+verproben und Wertfortschreibungen überwachen zu können. Die Angaben
+auf den Seiten 3 und 4 der Anlage L zum Viehbestand sind für die
+Abgrenzung der landwirtschaftlichen von der gewerblichen Tierzucht
+bzw. Tierhaltung, für die Umsatzbesteuerung, den Zuschlag für übernormale
+Tierhaltung bei der Bewertung (§ 41 BewG) und für die zutreffende
+Gewinnermittlungsart von Bedeutung.</lxbase:a><lxbase:a>Der Abschnitt ”Veräußerung/Entnahme von Grundstücken und
+Lieferrechten” enthält die zwingend erforderlichen Grundangaben
+zur Prüfung von Veräußerungs- und Entnahmegewinnen. Sofern sich
+die erforderlichen Angaben im Einzelfall aus der Bilanz oder ähnlichen
+Unterlagen eindeutig ergeben, genügt ein Hinweis in der Anlage L
+auf die entsprechenden Unterlagen.</lxbase:a><lxbase:a>Zur Gewährleistung einer zutreffenden Besteuerung und
+zur Sicherstellung der sachgerechten Bearbeitung im Rahmen des Risikomanagementsystems
+und der jeweils geltenden Risikokriterien sind die geforderten Angaben
+in der <lxbase:fett>Anlage L der Steuererklärung 2011 </lxbase:fett>unverzichtbar.
+Wird die Anlage L nicht vollständig ausgefüllt, sind die fehlenden
+Angaben für die Besteuerung wesentlich und ergeben sie sich auch nicht
+aus den übrigen eingereichten Unterlagen, so ist eine Ablichtung
+der vom Steuerpflichtigen eingereichten, unvollständigen Anlage
+L mit der Bitte zurückzuschicken, die fehlenden Angaben nachzuholen. <lxbase:fett>Auf
+die Möglichkeit des Einsatzes von Zwangsmaßnahmen (§§ 328 ff. AO)
+weise ich hin.</lxbase:fett></lxbase:a><lxbase:a>Sollten die Angaben in der Anlage L (z. B. zur Fläche,
+zum Viehbestand, sowie in § 13a EStG-Fällen zur Veräußerung von
+Milchquoten sowie zu den Erlösen aus Milchquoten-Rückgabe/-Leasing)
+nicht schlüssig sein, sind die notwendigen Angaben und Unterlagen
+(z. B. Vereinbarung der Übergabe/Überlassung der Milchreferenzmenge) anzufordern.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600008">5. Kontrollmitteilungen
+und Dauerbelege in der Land- und Forstwirtschaft</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523498600009">5.1 Veräußerungsmitteilungen</lxbase:ueberschrift><lxbase:a>Es sollte durch entsprechende organisatorische Maßnahmen
+sichergestellt werden, dass <lxbase:fett>Veräußerungsmitteilungen
+über die Veräußerung von land- und forstwirtschaftlichem Grundbesitz
+stets auch dem Sonderbezirk für Land- und Forstwirtschaft des zuständigen
+Schwerpunktfinanzamtes</lxbase:fett> zugeleitet werden, damit dieser
+die Feststellung trifft, ob der veräußerte Grundbesitz noch zum Betriebsvermögen
+gehört oder bereits dem Privatvermögen zuzurechnen ist. <lxbase:fett>Zur Sicherstellung
+der Besteuerung etwaiger stiller Reserven besteht grundsätzlich
+auch die Möglichkeit, den Tatbestand der Übertragung des Grundbesitzes
+im DTB 01 des Veranlagungszeitraums der Übertragung zu vermerken.</lxbase:fett></lxbase:a><lxbase:a>Diese Grundsätze gelten entsprechend für Veräußerungsanzeigen
+über die Veräußerung von zum Betriebsvermögen gehörendem Grundvermögen
+sowie für andere Mitteilungen, die etwaige Veränderungen im Bereich
+des land- und forstwirtschaftlichen Grundbesitzes anzeigen, z. B.
+für die Mitteilung über eine Zurechnungsfortschreibung bei Stückländereien.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600010">5.2 Baumitteilungen</lxbase:ueberschrift><lxbase:a>Ebenso sollte sichergestellt werden, dass Mitteilungen
+der Baubehörden über die Änderung der Bebauung eines Grundstücks
+oder über den Umbau eines Gebäudes stets auch dem Sonderbezirk für
+Land- und Forstwirtschaft des zuständigen Schwerpunktfinanzamtes
+zugeleitet werden, damit dieser die Feststellung trifft, ob eine Nutzungsänderung
+vorliegt, die zu einer Entnahme des Gebäudes und des dazugehörenden
+Grund und Bodens führt.</lxbase:a><lxbase:a>5.2 ESt 4B-Mitteilungen</lxbase:a><lxbase:a>ESt 4B-Mitteilungen sind zur Vermeidung der Verjährung
+[§ 171 (10) AO] und zur zeitnahen Realisierung des Steueranspruchs
+umgehend zu fertigen bzw. auszuwerten.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600011">5.3 Einheitswertmitteilungen</lxbase:ueberschrift><lxbase:a>Einheitswertmitteilungen über luf Vermögen sind insbesondere
+wegen möglicher Auswirkungen auf die Art der Gewinnermittlung des
+Steuerpflichtigen stets zeitnah auszuwerten. Im Übrigen wird auf
+5.1 verwiesen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600012">5.4 Sonstige
+Kontrollmitteilungen</lxbase:ueberschrift><lxbase:a>Außer in den üblichen Fällen (Kontrollmitteilungen für
+Zwecke der BP, der Erfassung von steuerpflichtigen Vorgängen bei
+anderen Steuerpflichtigen, der ErbSt) sind Kontrollmitteilungen
+zu fertigen:</lxbase:a><lxbase:a>5.4.1 Der zuständigen Bewertungsstelle sind die sich aus
+den Erklärungen des Steuerpflichtigen bzw. aus den Akten ergebenden
+Umstände mitzuteilen, die sich auf die Höhe der festgesetzten Einheitswerte
+auswirken können (z. B. Änderung der Flächen für Sondernutzungen,
+Änderungen bei den Tierbeständen, Errichtung von Gewächshäusern,
+für die keine Baugenehmigung erforderlich ist, Aufgabe der Eigenbewirtschaftung).
+Angaben, die für einen Zuschlag nach § 41 BewG von Bedeutung sein können,
+sind auf den Seiten 3 und 4 der Anlage L zusammengefasst. Ich bitte
+daher, in allen Fällen, in denen der in der Anlage L erklärte Tierbestand
+den gegendüblichen Tierbesatz offensichtlich übersteigt bzw. in
+denen aus anderen Gründen ein Zuschlag nach § 41 BewG in Betracht
+kommen kann, die Bewertungsstelle durch Übersendung einer Ablichtung
+der Seiten 3 und 4 der Anlage L oder des betreffenden Auszugs aus dem
+Bilanzbericht zu unterrichten.</lxbase:a><lxbase:a>5.4.2 Werden Zu- bzw. Verpachtungen bekannt, so ist der
+für den Verpächter bzw. Pächter zuständige Veranlagungsbezirk zu
+informieren. Entsprechendes gilt bei unentgeltlichen Nutzungsüberlassungen.
+Im Übrigen bitte ich darauf hinzuwirken, dass die Steuerpflichtigen
+auf Seite 2 der Anlage L die Anschrift des Pächters/Verpächters
+usw. genau angeben.</lxbase:a><lxbase:a>5.4.3 Der zuständigen Arbeitgeberstelle sind insbesondere
+Fälle ohne Signal ”A”, in denen Lohnaufwendungen geltend gemacht
+werden, und Fälle mit erheblichen Lohnaufwendungen zur Prüfung durch
+die LSt-Außenprüfung zu melden.</lxbase:a><lxbase:a>5.4.4 Soweit bei einem Land- und Forstwirt der Erwerb
+einer Milchreferenzmenge erkennbar ist, soll für die Akte des Veräußerers
+eine Kontrollmitteilung ergehen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600013">5.5. Behandlung
+von Dauerbelegen</lxbase:ueberschrift><lxbase:a>Ich bitte zu beachten, dass Unterlagen und Belege, die
+für mehrere Veranlagungszeiträume von Bedeutung sind, als <lxbase:fett>Dauerbelege
+den Einzelakten vorzuheften</lxbase:fett> bzw. <lxbase:fett>in besonderen
+Akten abzuheften sind</lxbase:fett>.</lxbase:a><lxbase:a>In diesem Zusammenhang ist insbesondere auf folgende Dauerbelege
+hinzuweisen:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	Pachtverträge, ggf. einschließlich der so genannten Fortführungserklärungen
+beim Verpächter,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Betriebsüberlassungsverträge,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Altenteilsverträge,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Gesellschaftsverträge,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Grund und Boden betreffende
+Vorgänge (§ 27 FAGO); vgl. hierzu unter nachfolgender Nr. 5.6.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600014">5.6 Akte
+Grund und Boden</lxbase:ueberschrift><lxbase:a>Bei der Besteuerung der Einkünfte aus Land- und Forstwirtschaft
+empfiehlt es sich, folgende Sachverhalte in die <lxbase:fett>Akte
+Grund und Boden</lxbase:fett> zu übernehmen. Ein besonderer Aktenhefter
+wird hierfür nicht zur Verfügung gestellt.</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	Beim Wegfall der Nutzungswertbesteuerung bei Baudenkmalen
+ist der Umfang der Entnahme - insbesondere des Grund und Bodens
+- zu dokumentieren. Das Ergebnis einer Überprüfung der vom Steuerpflichtigen
+getätigten Angaben (etwa im Rahmen einer BP oder durch den ALS)
+ist daher festzuhalten. Diese Unterlagen müssen dauerhaft aufbewahrt
+werden, damit im Falle einer späteren Veräußerung oder Aufgabe nachprüfbar
+ist, in welchem Umfang etwaige Gewinne, die auf die Wohnung und
+den dazugehörenden Grund und Boden entfallen, steuerfrei belassen
+werden können.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Die dauerhafte Dokumentation
+einer Entscheidung nach § 55 Abs. 5 EStG über den höheren Teilwert
+ist für die zutreffende Ermittlung des Veräußerungs-/Aufgabe- bzw.
+Entnahmegewinns von Bedeutung.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Vorgänge, aus denen bisher
+in Anspruch genommene Teilwert-Abschreibungen auf den Grund und
+Boden hervorgehen, sind der Akte Grund und Boden zuzuordnen. Nach
+einer erfolgten Teilwertabschreibung des Grund und Bodens ist für
+die nachfolgenden Wirtschaftsjahre das Wertaufholungsgebot nach
+§ 6 Abs. 1 Nr. 2 Satz 3 EStG zu beachten und eine Zuschreibung beim
+Grund und Boden zu prüfen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Die Entnahme von Grundbesitz
+einschließlich einer Entnahme des Wohnhauses und des dazugehörigen
+Grund und Bodens nach § 13 Abs. 4 EStG aus dem Betriebsvermögen
+eines bestehenden Betriebes ist zu dokumentieren Die Überführung
+eines Grundstücks aus dem Betriebsvermögen in das Privatvermögen
+gilt nach § 23 Abs. 1 Satz 2 EStG <lxbase:fett>für Zeiträume ab dem 01.01.1999</lxbase:fett> als
+Anschaffung. Im Falle einer späteren Veräußerung sind die Einkünfte
+aus privaten Veräußerungsgeschäften nach § 23 EStG zu versteuern
+(Hinweis auf das BMF-Schreiben vom 05.10.2000, <lxprod:doknr-verw linkend="HT0556982">BStBl I S. 1383</lxprod:doknr-verw>,
+EStG-Kartei NRW § 23 EStG Nr. 6; Anhang 26 EStH; BFH-Urteil vom
+18.10.2006, <lxprod:doknr-verw linkend="HT5003548">BStBl II 2007, S. 179</lxprod:doknr-verw> im
+Zusammenhang mit BMF-Schreiben vom 07.02.2007, <lxbase:lit-fs normform="BStBl-2007-I-0262" manuell="nein">BStBl I 2007,
+S. 262</lxbase:lit-fs>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Folgende Unterlagen sollten in die <lxbase:fett>"Sonderakte"
+Grund und Boden</lxbase:fett> genommen bzw. übernommen werden (nach
+einzelnen Grundstücken getrennt):</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	Veräußerungsanzeigen</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Bauanzeigen / Umnutzungsanzeigen</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	EW-Mitteilungen</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Veräußerungsverträge</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Klarstellungserklärungen
+zum Nutzungsänderungserlass vom 15.03.1979 und damit zusammenhängende
+Vorgänge (vgl. EStG-Kartei NRW § 4 Abs. 1 - 3 EStG Nr. 7)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Kontrollmitteilungen in
+Zusammenhang mit Veränderungen beim Grundbesitz (z.B. Entnahme-/
+Einlagevorgänge)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Anträge und Bescheide
+i.S.d. § 55 (5) EStG (Teilwertfeststellung)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Unterlagen, die in Zusammenhang
+mit Teilwert-Abschreibungen auf den Grund und Boden stehen (z. B.
+Sachverständigengutachten)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Gutachten der ALS und
+AFS</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Informationen über ausländischen
+Grundbesitz</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Kontrollmitteilungen gewerblicher
+Grundstückshandel</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Mitteilungen der Bezirksregierung.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Berechnungen der Abspaltungsbeträge
+hinsichtlich der steuerlichen Behandlung der Milchlieferrechte nach
+dem BMF-Schreiben vom 14.01.2003 (<lxprod:doknr-verw linkend="HT0577196">BStBl I 2003, S. 78</lxprod:doknr-verw>;
+EStG-Kartei NRW §§ 13, 13a EStG Fach 4 Nr. 14). Insbesondere ist
+das nach Tz. 46 des o. g. BMF-Schreibens zu führen-de Verzeichnis
+unabhängig von der jeweiligen Gewinnermittlungsart in die Dauerakte
+aufzunehmen. Darin festzuhalten sind die Buchwertentwicklungen der
+jeweiligen Flurstücke, die vorgenommene Abspaltung des Milchlieferrechtes,
+Teilwertabschreibungen und Wertaufholungen sowie die Zusammensetzung
+und die Buchwertentwicklung des Milchlieferrechtes.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Bei <lxbase:fett>bebauten Grundstücken</lxbase:fett> sind
+zusätzlich noch folgende Unterlagen in die Sonderakte Grund- und
+Boden zu nehmen:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	AfA-Blätter und Übersichtsbögen</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Anlage LW zur Anlage L
+für den VZ 1998 und die Anlage W aus dem Jahr 1986</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Gutachten des BSV</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Vorgänge im Zusammenhang
+mit der Festsetzung von Eigenheimzulage</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Baumitteilungen (soweit
+diese dem VBZ zugeleitet wurden)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Sonstige Erkenntnisse
+(z. B. aus der Prüffeldarbeit) über den Grundbesitz (z. B. Wohnungsgrößen).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Der besseren Übersicht wegen empfiehlt es sich, bei umfangreichem
+Immobilienbesitz ein Vorblatt und Trennblätter anzulegen. Sind derartige
+Unterlagen bisher in anderen Akten abgelegt, sollten sie <lxbase:fett>bei
+sich bietender Gelegenheit</lxbase:fett>, z.B. im Rahmen der laufenden
+Veranlagungstätigkeit, bei der Prüffeldarbeit oder der Aktenverjüngung,
+umgeheftet werden.</lxbase:a><lxbase:a>In Fällen der Rechtsnachfolge sollten die das jeweilige
+Grundstück betreffenden Vorgänge an die für den Rechtsnachfolger
+zuständige Stelle abgegeben werden.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600015">6. Gewinnermittlungsart</lxbase:ueberschrift><lxbase:a>Ich bitte, in jedem Einzelfall zu prüfen, welche Gewinnermittlungsart
+zutreffend ist und ggf. eine Mitteilung nach § 13a (1) Satz 2 EStG
+bzw. § 141 (2) AO zu erteilen oder eine Feststellung nach § 141
+(2) Satz 2 AO zu treffen. Insoweit verweise ich auf EStG-Kartei
+NRW §§ 13, 13a EStG Fach 7 Nr. 801.</lxbase:a><lxbase:a>Die Anweisungen in R 13.5 EStR 2008 sind zu beachten.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600016">II Besonderheiten</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523498600017">1. Grundsätze
+zur Betriebsaufgabe bei Betriebsverpachtung</lxbase:ueberschrift><lxbase:a>Mit Urteil vom 15.10.1987, <lxprod:doknr-verw linkend="HT0082407">IV R 66/86</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0082407">BStBl 1988
+II, 260</lxprod:doknr-verw>, hat der BFH entschieden, dass keine Betriebsaufgabe
+vorliegt, wenn der Landwirt die Selbstbewirtschaftung der eigenen
+Nutzflächen aufgibt und sie an andere Landwirte verpachtet, das lebende
+und tote Inventar verkauft, aber die Hofgebäude erhalten bleiben.
+Der Betrieb besteht dann als sog. Verpachtungsbetrieb fort mit der
+Folge, dass alle Wirtschaftsgüter (einschließlich der verpachteten)
+Betriebsvermögen bleiben (BFH-Urteil vom 18.03.1964, <lxprod:doknr-verw linkend="HT0002319">IV 114/61 S</lxprod:doknr-verw>,
+BStBl III, 303). Auch bei einer ständigen Verkleinerung der bewirtschafteten
+Fläche wird der Betrieb nicht allein deshalb zerschlagen, weil eine
+ertragreiche Bewirtschaftung der verbleibenden Restfläche nicht
+mehr möglich ist (BFH-Urteile vom 29.10.1981, <lxprod:doknr-verw linkend="HT0069017">IV R 138/78</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0069017">BStBl 1982
+II, 381</lxprod:doknr-verw>, vom 12.11.1992, <lxprod:doknr-verw linkend="HT0103274">IV R 41/91</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0103274">BStBl 1993
+II, 430</lxprod:doknr-verw> und vom 18.03.1999, <lxprod:doknr-verw linkend="HT0551045">IV R 65/98</lxprod:doknr-verw>, BStBl II, 398;
+EStG-Kartei NRW §§ 14, 14a EStG Nr. 7 und Nr. 802).</lxbase:a><lxbase:a>Zur Rechtsfolge bei Umgestaltung, Zerstörung der Wirtschaftsgebäude
+u.a.m. während der Verpachtung vgl. BMF-Schreiben vom 01.12.2000
+- <lxprod:doknr-verw linkend="HT0575268">IV A 6
+- S 2242 - 16/00</lxprod:doknr-verw>, BStBl I, 1556, EStG-Kartei NRW §§
+14, 14a EStG Nr. 7 sowie BFH-Urteile vom 18.03.1999, <lxprod:doknr-verw linkend="HT0551045">IV R 65/98</lxprod:doknr-verw>,
+BStBl II, 398 und vom 26.06.2003, <lxprod:doknr-verw linkend="HT0815858">IV R 61/01</lxprod:doknr-verw>, BStBl II, 755).</lxbase:a><lxbase:a>Da weiterhin die Möglichkeit besteht, dass der Betrieb,
+sei es durch den bisherigen Inhaber oder durch einen Rechtsnachfolger,
+wieder selbst bewirtschaftet wird, kann die Absicht der dauernden
+Betriebseinstellung nur bei einer <lxbase:fett>unmissverständlichen Erklärung</lxbase:fett> des
+Stpfl. gegenüber dem Finanzamt angenommen werden (BFH-Urteile vom
+28.11.1991, <lxprod:doknr-verw linkend="HT0101554">IV
+R 58/91</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0101554">BStBl 1992 II, 521</lxprod:doknr-verw> und
+vom 02.03.1995, <lxprod:doknr-verw linkend="HT0129787">IV
+R 52/94</lxprod:doknr-verw> und 07.12.1995, <lxprod:doknr-verw linkend="HT0135460">IV R 19/94</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0129787">BFH/NV 1996,
+110</lxprod:doknr-verw> und 663). Eine Aufgabeerklärung ist jedoch grundsätzlich
+an keine bestimmte Form gebunden. Allerdings muss sie erkennbar
+von dem Bewusstsein getragen sein, dass infolge der Aufgabe die
+stillen Reserven versteuert werden (BFH-Urteil vom 23.11.1995, <lxprod:doknr-verw linkend="HT0135119">IV R 36/94</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0135119">BFH/NV 1996,
+398</lxprod:doknr-verw>). Somit reicht es für eine konkludente Aufgabeerklärung
+nicht aus, wenn der Stpfl. in seiner Einkommensteuererklärung die
+aus dem verpachteten Betrieb erzielten Einkünfte als solche aus
+Vermietung und Verpachtung erklärt (BFH-Urteile vom 23.02.1989, <lxprod:doknr-verw linkend="HT0095147">IV R 63/87</lxprod:doknr-verw>,
+BFH/NV 1990, 219sowie vom 22.04.1988, <lxprod:doknr-verw linkend="HT0088348">III R 104/85</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0088348">BFH/NV 1989,
+18</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Wie bei einer Entnahme (BFH-Urteil vom 20.03.1987, <lxprod:doknr-verw linkend="HT0078312">III R 172/82</lxprod:doknr-verw>,
+BStBl II, 679) trifft den Stpfl. auch bei einer Betriebsaufgabe
+die sog. objektive Beweislast für seine Behauptung, durch die Verpachtung
+der bisher selbstbewirtschafteten Flächen sei der Betrieb aufgegeben
+worden (BFH-Urteil vom 02.03.1995, <lxprod:doknr-verw linkend="HT0129787">IV R 52/94</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0129787">BFH/NV 1996,
+110</lxprod:doknr-verw>). Das gilt auch, wenn die landwirtschaftlichen
+Flächen vor Einführung der Bodengewinnbesteuerung zum 01.07.1970
+bereits verpachtet waren. Denn auch in diesen Fällen hätte die Aufgabe
+des Betriebs unmissverständlich erklärt werden müssen (BFH-Urteile
+vom 23.11.1995, <lxprod:doknr-verw linkend="HT0135119">IV
+R 36/94</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0135119">BFH/NV 1996, 398</lxprod:doknr-verw> sowie vom 07.12.1995, <lxprod:doknr-verw linkend="HT0135584">IV R 109/94</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0135584">BFH/NV 1996,
+663</lxprod:doknr-verw>; vgl. zur Auslegung einer Entnahmeerklärung
+unter Berücksichtigung bestehender Verwaltungsanweisungen auch BFH-Urteil
+vom 15.05.1997, <lxprod:doknr-verw linkend="HT0140957">IV
+R 46/96</lxprod:doknr-verw>, BFH/NV, 850). Zwar wären die Gewinne aus dem
+Grund und Boden gem. § 4 Abs. 1 Satz 5 EStG a.F. vor dem 01.07.1970 unversteuert
+geblieben, doch hätten die Gewinne aus der Entnahme der im Betriebsvermögen
+befindlichen Hofgebäude erfasst werden müssen (BFH-Urteil vom 09.07.1981, <lxprod:doknr-verw linkend="HT0022540">IV R 101/77</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0022540">BStBl 1982
+II, 20</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Zur Verpachtung eines land- und forstwirtschaftlichen
+Betriebes im Ganzen und zur parzellenweisen Verpachtung land- und
+forstwirtschaftlicher Betriebe hat die OFD Münster in Abstimmung
+mit der OFD Rheinland am 18.12.2006 ein Arbeitspapier mit Schaubildern
+erstellt.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600018">2. Bewertung
+von mit land- und forstwirtschaftlichen Grund und Boden im Zusammenhang
+stehenden Milchlieferrechten (Stichwort: Buchwertabspaltung)</lxbase:ueberschrift><lxbase:a>Auf das BMF-Schreiben vom 14.01.2003, <lxprod:doknr-verw linkend="HT0577196">BStBl I, 78</lxprod:doknr-verw>,
+EStG-Kartei NRW §§ 13, 13a EStG Fach 4 Nr. 14 wird verwiesen.</lxbase:a><lxbase:a>Das Milchlieferrecht ist ein einheitliches, selbständiges
+immaterielles Wirtschaftsgut des Anlagevermögens, das zugeteilt
+sowie entgeltlich oder unentgeltlich erworben worden sein kann.</lxbase:a><lxbase:a>Das Milchlieferrecht kann sich aus folgenden Komponenten
+zusammensetzen:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	Das Milchlieferrecht kann zum Zeitpunkt der Einführung
+am 02.04.1984 <lxbase:fett>zugeteilt</lxbase:fett> worden sein für:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>	die
+am 01.07.1970 bereits vorhandenen Eigentumsflächen:</lxbase:a><lxbase:a>Die Abspaltung des Werts für das Milchlieferrecht erfolgt
+vom Wert des Grund und Bodens nach § 55 Abs. 1 EStG oder vom höheren
+Teilwert nach § 55 Abs. 5 EStG.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>	die nach dem 01.07.1970
+und vor dem 02.04.1984 hinzuerworbenen Flächen:</lxbase:a><lxbase:a>Die Abspaltung des Werts für das Milchlieferrecht erfolgt
+von den tatsächlichen Anschaffungskosten des vom 01.07.1970 bis zum 02.04.1984
+hinzuerworbenen Grund und Bodens.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>	die am 02.04.1984 zugepachteten
+Flächen:</lxbase:a><lxbase:a>Der Buchwert des hierfür zugeteilten Milchlieferrechts
+beträgt 0 €. Es erfolgt keine Abspaltung.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Das Milchlieferrecht kann auch nach dem 02.04.1984 <lxbase:fett>entgeltlich
+erworben</lxbase:fett> worden sein.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Bei einer Veräußerung von Milchlieferrechten ist zu berücksichtigen,
+dass der gegen zu rechnende Buchwert aus verschiedenen Komponenten
+bestehen kann. Bei einer Veräußerung eines Teils der Referenzmenge
+kann der Stpfl. nicht wählen, bei welcher Komponente er den entsprechenden
+Buchwertabgang berücksichtigen möchte. Die einzelnen Komponenten
+sind anteilig zu berücksichtigen.</lxbase:a><lxbase:a>Nur bei der Veräußerung von Milchlieferrechten, deren
+(Buch-)Wert von einem nach § 55 Abs. 1 EStG ermittelten Wert des
+Grund und Bodens abgespalten worden ist, ist die Verlustausschlussklausel
+des § 55 Abs. 6 EStG zu beachten.</lxbase:a><lxbase:a>Im Übrigen wird auf Folgendes hingewiesen:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Mit Urteil vom 16.10.2008 (<lxprod:doknr-verw linkend="HT0587420">BFH/NV 2009, 723</lxprod:doknr-verw>)
+hat der BFH zur Abschreibungsfähigkeit von Zuckerrübenlieferrechten
+entschieden, dass bei zeitlich begrenzten Rechten ausnahmsweise
+von einer unbegrenzten Nutzungsdauer ausgegangen werden kann, wenn
+die Rechteüberlassung ohne Weiteres verlängert werden kann. Im Zweifel
+ist nach dem Grundsatz der Vorsicht von einer zeitlich begrenzten
+Nutzung auszugehen. Nach diesen Grundsätzen kann daher für <lxbase:fett>entgeltlich</lxbase:fett> erworbene
+Milchquoten der <lxbase:fett>Abschreibungszeitraum</lxbase:fett> bis
+zum voraussichtlichen Wegfall der Produktionsbeschränkungen auf
+dem Milchmarkt am <lxbase:fett>31.03.2015 beschränkt werden</lxbase:fett>.
+Auf die Veranlagungsverfügung 2008, Abschnitt V. Aktuelle Rechtsprechung
+wird hingewiesen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>Mit Urteil vom 29.04.2009
+(<lxprod:doknr-verw linkend="HT0179253">BFH/NV
+2009, 1866</lxprod:doknr-verw>) hat der BFH ausgeführt, dass es sich
+auch bei der zugeteilten Milchquote um ein abnutzbares immaterielles
+Wirtschaftsgut des Anlagevermögens handele, wobei bei Zuordnung
+der Milchquote zum Privatvermögen der Entnahmewert über einen geschätzten
+Zeitraum abzuschreiben sei. Da das Urteil ausschließlich zur Frage
+des Entnahmewerts und der Abschreibungsdauer eines in das Privatvermögen
+überführten Milchlieferrechts ergangen ist, sind auf den abgespalteten
+(Buch-)Wert von Milchlieferrechten - im Gegensatz zu den entgeltlich
+erworbenen Milchlieferrechten - Absetzungen für Abnutzung weiterhin
+nicht zulässig (Rdnrn. 28 und 29 des BMF-Schreibens, a.a.O, zur
+weiteren Verfahrensweise in entsprechenden Einspruchsfällen vergleiche Kurzinformation
+Einkommensteuer Nr. 001/2010 vom 01.02.2010 der OFD Münster).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>Werden Pachtverträge über
+Milchlieferrechte nach dem 31.03.2000
+beendet, fällt eine verpachtete Milchquote entweder:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>	unter
+Abzug von 33% zu Gunsten der Landesreserve auf den Verpächter zurück und
+wird dann ggf. vom Verpächter über die Milchbörse an einen Dritten
+verkauft, (Variante 1) </lxbase:a><lxbase:a>oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>sie fällt in vollem Umfang
+auf den Verpächter zurück und wird zu einem Preis von 67% des Gleichgewichtspreises
+vom Pächter übernommen (= Übernahmerecht des Pächters). Es erfolgt
+hier in der Regel kein 33%iger Abzug zu Gunsten der Landesreserve,
+(Variante 2) </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Beendigung des Pachtverhältnisses
+unter Einzug der Quote zu Gunsten der Landesreserve und anschließendem
+Verkauf der verbleibenden Quote (Variante 1)</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Fällt nach Beendigung des Pachtverhältnisses die verpachtete
+Milchquote von Gesetzes wegen an den Verpächter zurück und werden
+danach 33% der zurückgewährten Referenzmenge durch Verwaltungsakt
+zu Gunsten der staatlichen Reserve eingezogen sowie die verbleibende
+Referenzmenge in Höhe von 67% durch den Verpächter über die Milchbörse
+veräußert, dann stellt der <lxbase:fett>33%ige Teileinzug eine tatsächliche
+Vermögenseinbuße</lxbase:fett> dar. Aufgrund dieser tatsächlichen
+Vermögenseinbuße ist der bisherige auf die eingezogene Milchreferenzmenge
+entfallende Buchwert auszubuchen. Bei einem von einem pauschal bewerteten
+Grund und Boden abgespaltenen Buchwert für das Milchlieferrecht
+hat dies unter analoger Anwendung der Verlustausgleichsklausel des
+§ 55 Abs. 6 EStG <lxbase:fett>gewinnneutral</lxbase:fett> zu erfolgen.</lxbase:a><lxbase:a>Übernahme der Milchreferenzmenge durch den Pächter zum
+Gleichgewichtspreis (Variante 2)</lxbase:a><lxbase:a>Wurde das Milchlieferrecht vom bisherigen Pächter zu einem
+Preis in Höhe von 67% des Gleichgewichtspreises übernommen, so ist
+im Regelfall keine Abschreibung des Buchwerts der Milchquote vorzunehmen.
+Grundsätzlich erfolgt in diesem Fall kein 33%iger Teileinzug der
+Milchquote zu Gunsten der staatlichen Landesreserve. Dem Verpächter
+entsteht somit keine tatsächliche Vermögenseinbuße.</lxbase:a><lxbase:a>Da es sich in vielen Fällen um einen Veräußerungsvorgang
+zwischen fremden Dritten handelt, ist der "verbilligte" Kaufpreis
+steuerlich unbeachtlich und rechtfertigt grundsätzlich keine Buchwertkürzung.
+Das Verlustausgleichsverbot des § 55 Abs. 6 EStG ist auch in diesen
+Fällen zu beachten.</lxbase:a><lxbase:a><lxbase:fett>Teilwertabschreibungen auf Milchlieferrechte</lxbase:fett></lxbase:a><lxbase:a>Derzeit machen Landwirte aufgrund der dauerhaft gesunkenen
+Preise für Milchreferenzmengen Teilwertabschreibungen geltend.</lxbase:a><lxbase:a>Auch hier ist die Vornahme einer Teilwertabschreibung
+in Abhängigkeit von der rechtlichen Komponente der Milchquote zu
+prüfen.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a><lxbase:fett>	am
+02.04.1984 zugeteilte Milchquote:</lxbase:fett></lxbase:a><lxbase:a>Eine Teilwertabschreibung auf den <lxbase:fett>abgespaltenen</lxbase:fett> Buchwert
+kommt nicht in Betracht. Nach Auffassung des BFH in seinen Urteilen
+vom 10.06.2010 (<lxprod:doknr-verw linkend="HT0588332">BFH/NV 2011, 209</lxprod:doknr-verw>)
+und 09.09.2010 (<lxprod:doknr-verw linkend="HT0179073">BFH/NV 2011, 224</lxprod:doknr-verw>)
+kann davon ausgegangen werden, dass nach Wegfall der Produktionsbeschränkung
+die abgespaltenen Buchwerte des Milchlieferrechts wieder dem Buchwert
+des Grund und Bodens hinzugerechnet werden. Für eine dauerhafte
+Wertminderung bleibt somit kein Raum, weil sich faktisch - korrespondierend
+mit der Wertminderung der Milchlieferrechte - der Wert des Grund
+und Bodens erhöht.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a><lxbase:fett>	entgeltlich
+erworbene Milchquote:</lxbase:fett></lxbase:a><lxbase:a>Bei der entgeltlich erworbenen Milchquote handelt es sich
+um ein abnutzbares immaterielles Wirtschaftsgut (vgl. BMF-Schreiben
+vom 14.01.2003, <lxprod:doknr-verw linkend="HT0577196">BStBl I 2003, 78</lxprod:doknr-verw>,
+Rn. 28 sowie Kurzinformationen der OFD Münster Nr. 001/2010 sowie
+der OFD Rheinland Nr. 006/2010 vom 01.02.2010). Die Teilwertabschreibung
+ist nach den Grundsätzen der Tz. II.2 des BMF-Schreibens vom 25.02.2000
+(<lxprod:doknr-verw linkend="HT0556275">BStBl
+I 2000, 372</lxprod:doknr-verw>) zu ermitteln. Danach muss der Wert
+der Milchquote zum Bilanzstichtag mindestens für die halbe Restnutzungsdauer
+unter dem planmäßigen Restbuchwert liegen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Zur Fertigung von Kontrollmitteilungen
+vgl. unter I.5.4.4</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Zur Dokumentation der
+vorgenommenen Buchwertabspaltung vgl. I.5.6. (Akte Grund und Boden).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600019">3. Die
+Nutzungswertbesteuerung</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523498600020">3.1 Umfang
+des zu entnehmenden Grund und Bodens</lxbase:ueberschrift><lxbase:a><lxbase:fett>3.1.1 Allgemeines</lxbase:fett></lxbase:a><lxbase:a>Wird für eine Wohnung die Nutzungswertbesteuerung nach
+§ 13 Abs. 2 Satz 2 EStG (§ 52 Abs. 15 EStG a.F.) abgewählt, so ist
+nach Satz 4 auch der dazugehörende Grund und Boden zu entnehmen.
+Eine nähere Bestimmung des Rechtsbegriffs des zur Wohnung "dazugehörenden
+Grund und Bodens" ergibt sich weder aus dem Gesetz noch aus den
+Gesetzesbegründungen.</lxbase:a><lxbase:a>Der Umfang des zur Wohnung gehörenden Grund und Bodens
+richtet sich nach den tatsächlichen Verhältnissen zum Entnahmezeitpunkt.
+Zur Frage der Bemessung dieses Umfangs wird auf die Ausführungen
+in dem BMF-Schreiben vom 04.06.1997, <lxprod:doknr-verw linkend="HT0138540">BStBl I, 630</lxprod:doknr-verw>,
+geändert mit Schreiben vom 02.04.2004, <lxbase:lit-fs normform="BStBl-2004-I-0442" manuell="nein">BStBl 2004 I, 442</lxbase:lit-fs>;
+EStG-Kartei NRW, §§ 13, 13a Fach 8 Nr. 3 verwiesen.</lxbase:a><lxbase:a><lxbase:fett>3.1.2 Steuerfrei entnehmbarer zur Wohnung
+gehörender Grund und Boden</lxbase:fett></lxbase:a><lxbase:a>Nach Tz. 4 des BMF-Schreibens vom 04.06.1997 (a.a.O.)
+kann der vom Steuerpflichtigen vorgenommenen und erklärten Zuordnung
+einer Gartenfläche als steuerfrei entnehmbar dann regelmäßig gefolgt
+werden, wenn die Fläche nicht mehr als 1.000 qm beträgt und sie
+auch tatsächlich als Garten genutzt wird. Nach dem BFH-Urteil vom
+26.09.2001 (<lxprod:doknr-verw linkend="HT0573176">BStBl 2001 II, 762</lxprod:doknr-verw>)
+handelt es sich dabei um eine Nichtbeanstandungsgrenze, die grds.
+zu beachten ist, jedoch keinen Anspruch auf Entnahme weiterer 1.000
+qm Grund und Boden neben der mit der Wohnung bebauten Fläche begründet.
+Andererseits ist aber auch nicht ausgeschlossen, dass eine größere
+Fläche als diese zu einer Wohnung gehören kann, wenn die Flächen
+für die künftige private Nutzung erforderlich und üblich sind.</lxbase:a><lxbase:a>In seinem Urteil vom 20.11.2003, <lxprod:doknr-verw linkend="HT0816643">BStBl 2004
+II, 272</lxprod:doknr-verw>, führt der BFH aus, dass wesentlich für
+die Beurteilung eines Hausgartens als zum zur Wohnung gehörender Grund
+und Boden sei, ob vor und nach Abwahl der Nutzungswertbesteuerung
+der Nutzungs- und Funktionszusammenhang mit der Wohnung gegeben
+sei. Besteht und bestand ein solcher Zusammenhang, werde dieser
+- so der BFH - weder dadurch in Frage gestellt, dass das Grundstück
+selbständig bebaubar sei noch dadurch, dass dieses sich in einiger
+Entfernung von der Wohnung befinde und durch ein Wirtschaftsgebäude
+von dieser getrennt sei. Die mögliche Bebaubarkeit einer Gartenfläche
+allein sei laut BFH somit kein taugliches Kriterium für die Feststellung
+des Tatbestandsmerkmals "dazugehörender Grund und Boden". Sie könne
+allenfalls Indiz für einen fehlenden Nutzungs- und Funktionszusammenhang
+der Fläche mit der selbst genutzten Wohnung sein. Einen bestehenden
+Nutzungs- und Funktionszusammenhang des Hausgartens mit einer Wohnung
+könne die Bebaubarkeit allerdings nicht aufheben.</lxbase:a><lxbase:a>Darüber hinaus stellt der BFH in seinem Urteil vom 06.11.2003, <lxprod:doknr-verw linkend="HT0817157">BStBl 2004
+II, 419</lxprod:doknr-verw>, des weiteren heraus, dass der zur Wohnung
+dazugehörende Grund und Boden auf Grund des einheitlichen Nutzungs-und
+Funktionszusammenhangs das rechtliche Schicksal der Wohnung teile,
+wenn es sich um langjährige ausschließlich oder nahezu ausschließlich
+im Zusammenhang mit der Wohnung genutzte Flächen handele. Dieser
+Zusammenhang beider Wirtschaftsgüter könne auch dann nicht durch eine
+Nutzungsänderung gelöst werden, die nachweislich erst nach dem für
+die Abwahl der Nutzungswertbesteuerung bestimmten Zeitpunkt eingetreten
+sei.</lxbase:a><lxbase:a><lxbase:fett>3.1.3 Nicht steuerfrei entnehmbarer Teil
+des zur Wohnung gehörenden Grund und Bodens</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a><lxbase:fett>	bisherige Rechtsauffassung</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Nach Tz. 8 der BMF-Schreiben vom 04.06.1997 (a.a.O.) und
+vom 13.01.1998, <lxbase:lit-fs normform="BStBl-1998-I-0198" manuell="nein">BStBl 1998 I, 198</lxbase:lit-fs> war
+der Teil des zur Wohnung gehörenden Grund und Bodens, der den erforderlichen
+und üblichen Umfang überstieg, mit Wegfall der Nutzungswertbesteuerung
+steuerpflichtig zu entnehmen, auch wenn weiterhin ein einheitlicher
+Nutzungs- und Funktionszusammenhang mit der Wohnung bestand. Es
+wurde die Auffassung vertreten, dass durch den Wegfall der Nutzungswertbesteuerung
+sich in diesem Fall ein Übergang von der bis dahin fiktiven betrieblichen
+Nutzung zu einer privaten Nutzung ergebe mit der Folge einer möglichen
+Aufdeckung von stillen Reserven. Allerdings konnte die Fläche im
+Betriebsvermögen verbleiben, wenn der Steuerpflichtige ausdrücklich
+erklärte, dass die Fläche nach Wegfall der Nutzungswertbesteuerung
+zur Verwendung als betriebliche Nutzfläche (z.B. Acker oder Grünland)
+bestimmt sei und mit dieser Nutzung innerhalb von 24 Monaten nach
+Wegfall der Nutzungswertbesteuerung tatsächlich begonnen wurde.</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a><lxbase:fett>	neue Rechtsauffassung</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Der BFH hat mit Urteil vom 20.11.2003, <lxprod:doknr-verw linkend="HT0816643">BStBl II 2004,
+272</lxprod:doknr-verw> entgegen der in Tz. 8 der BMF-Schreiben vom
+04.06.1997 und 13.01.1998 vertretenen Rechtsauffassung entschieden,
+dass der Übergang zur sog. Konsumgutlösung nicht zu einer steuerpflichtigen
+Entnahme der Teile des Grund und Bodens führe, die der Steuerpflichtige unzutreffender
+Weise als zur Wohnung dazugehörend in die Abwahl der Nutzungswertbesteuerung
+einbezogen habe. Diese Flächen blieben vielmehr bis zu ihrer Veräußerung
+oder Entnahme land- und forstwirtschaftliches Betriebsvermögen.
+Soweit die Gartenflächen den erforderlichen und üblichen Umfang
+überstiegen, werde der Nutzungs- und Funktionszusammenhang mit der
+Wohnung im Zeitpunkt der Abwahl der Nutzungswertbesteuerung gelöst.
+Der damit nicht mehr zur Wohnung dazugehörende Grund und Boden werde
+mit Abwahl somit kein notwendiges Privatvermögen und verbleibe bis
+zu einer Veräußerung bzw. Entnahme im Betriebsvermögen.</lxbase:a><lxbase:a>Im Einvernehmen mit den obersten Finanzbehörden der Länder
+sind die Grundsätze dieses Urteils in allen noch offenen Fällen
+anzuwenden. Tz. 8 der o.g. BMF-Schreiben findet insoweit keine Anwendung
+mehr (BMF-Schreiben vom 02.04.2004, <lxbase:lit-fs normform="BStBl-2004-I-0442" manuell="nein">BStBl 2004 I, 442</lxbase:lit-fs>).
+Eine Übergangsregelung wurde nicht für erforderlich gehalten. Soweit in
+der Vergangenheit entsprechend der bisherigen Regelung von einer
+steuerpflichtigen Entnahme ausgegangen worden ist und eine bestandskräftige
+Veranlagung vorliegt, verbleibt es bei dieser Behandlung. In diesen
+Fällen sind die betreffenden Flächen - soweit keine erneute Nutzungsänderung
+erfolgt ist - also nicht wieder dem Betriebsvermögen zuzurechnen,
+sondern sie verbleiben im Privatvermögen.</lxbase:a><lxbase:a><lxbase:fett>3.1.4 Praxishinweis</lxbase:fett></lxbase:a><lxbase:a>Nach Vorlage der entsprechenden Unterlagen ist der Umfang
+des zur Wohnung gehörenden und damit steuerfrei zu entnehmenden
+Grund und Bodens ggf. in enger Zusammenarbeit mit dem ALS zu prüfen.
+Die entsprechenden Unterlagen sind in der Sonderakte Grund und Boden
+abzulegen (vgl. Ausführungen unter I.5.6)</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600021">3.2 Die
+Nutzungswertbesteuerung bei Baudenkmalen (§ 13 Abs. 2 Nr. 2 und
+Abs. 4 EStG)</lxbase:ueberschrift><lxbase:a><lxbase:fett>3.2.1 Allgemeines</lxbase:fett></lxbase:a><lxbase:a>Die Nutzungswertbesteuerung ist für Baudenkmale über den
+31.12.1998 hinaus unter den folgenden Voraussetzungen anzuwenden:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	die Wohnung unterlag im VZ 1986 beim Steuerpflichtigen
+oder bei seinem Rechtsvorgänger der Nutzungswertbesteuerung und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>die Wohnung ist nach den
+landesrechtlichen Vorschriften ein Baudenkmal.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Die von der maßgebenden Behörde getroffene Entscheidung
+zur Denkmaleigenschaft eines Gebäudes ist für die steuerrechtliche
+Beurteilung ein Grundlagenbescheid (§ 171 Abs. 10 AO) und damit
+für die Finanzämter bindend.</lxbase:a><lxbase:a>Nach dem Gesetzeswortlaut ist auch ein Gebäudeteil begünstigt,
+der ein Baudenkmal ist. Daraus kann jedoch nicht gefolgert werden,
+dass die Nutzungswertbesteuerung auch für einzelne Räume in einem
+Gebäude weitergeführt werden kann, die keine selbständige Wohnung
+darstellen. Die Vorschrift begünstigt nur Wohnungen und nicht einzelne
+Räume in einem Gebäude.</lxbase:a><lxbase:a><lxbase:fett>3.2.2 Ermittlung des Nutzungswertes</lxbase:fett></lxbase:a><lxbase:a>Soweit für Wohnungen in einem Baudenkmal auch über den
+VZ 1998 hinaus eine Nutzungswertbesteuerung für Wohnungen des Betriebsinhabers
+und der Altenteiler durchzuführen ist, sind folgende Grundsätze
+zu beachten:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	Kann für die Wohnung eine Marktmiete nicht ermittelt
+werden, so ist grundsätzlich als Nutzungswert der Wohnung die nach
+der II. Berechnungsverordnung ermittelte Kostenmiete anzusetzen,
+weil regelmäßig Vergleichsobjekte, die eine Herleitung der Marktmiete
+ermöglichen, nicht zur Verfügung stehen (BFH-Urteile vom 30.01.1974, <lxprod:doknr-verw linkend="HT0013824">BStBl 1974
+II, 608</lxprod:doknr-verw> und vom 31.03.1998, <lxprod:doknr-verw linkend="HT0146079">BStBl 1998
+II, 386</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Kann ausnahmsweise für
+die Wohnung eine Marktmiete nach Lage, Art, Ausstattung und Größe
+vergleichbarer Wohnungen ermittelt werden, so ist diese Marktmiete
+der Besteuerung zugrunde zu legen. Eine Kürzung wegen besonderer Umstände,
+die den Wert beeinflussen, ist in diesem Fall nicht vorzunehmen,
+weil die für diese Kürzung bedeutsamen Umstände (insbesondere das
+Umfeld der Wohnung) auch für die Vergleichsobjekte entsprechend
+vorliegen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>3.2.3 Folgen der Abwahl der Nutzungswertbesteuerung</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	Wählt der Steuerpflichtige die Nutzungswertbesteuerung
+gem. § 13 Abs. 4 Satz 2 EStG für einen VZ nach dem 31.12.1998
+ab, so bleibt der Entnahmegewinn nach § 13 Abs. 4 Satz 5 EStG außer
+Ansatz. Zum Umfang des entnehmbaren Grund und Bodens wird auf die
+Ausführungen unter 3.1 verwiesen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Veräußert oder entnimmt
+der Steuerpflichtige die begünstigte Wohnung nach dem 31.12.1998
+oder fällt die Nutzungswertbesteuerung weg, weil die Wohnung mit Wirkung
+ab einem Datum nach
+dem 31.12.1998 nicht mehr als Baudenkmal anerkannt ist,
+bleibt der dadurch entstehende Entnahmegewinn nach § 13 Abs. 4 Satz
+6 EStG außer Ansatz.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Nach Wegfall der Nutzungswertbesteuerung
+kann der Steuerpflichtige für begünstigte Aufwendungen den Sonderausgabenabzug
+nach § 10f EStG bis zum Ende des Begünstigungszeitraumes geltend
+machen. Dies gilt jedoch nur für zu eigenen Wohnzwecken genutzte
+Wohnungen in einem Baudenkmal. Für unentgeltlich überlassene Wohnungen,
+z.B. Altenteilerwohnungen, ist ggf. ein Sonderausgabenabzug nach
+§ 10g EStG möglich.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600022">4. Abzug
+größerer Aufwendungen zur Erhaltung der Gebäude durch den Nutzungsberechtigten</lxbase:ueberschrift><lxbase:a>Zu den Betriebsausgaben eines gepachteten Betriebes gehören
+neben den Miet- und Pachtzinsen für die Nutzung des Pachtgegenstandes
+auch etwaige sonstige Kosten, die durch die Nutzung der gepachteten
+Wirtschaftsgüter für eigene betriebliche Zwecke veranlasst sind.
+Hierzu können neben den laufenden Unterhaltskosten auch größere
+Aufwendungen zur Erhaltung der mitgepachteten Wirtschaftsgebäude
+gehören, sofern der Pächter die Aufwendungen allein und nahezu ausschließlich
+im eigenen betrieblichen Interesse getragen hat. Werden vom Pächter
+jedoch größere Aufwendungen auch im Interesse des Verpächters getätigt,
+weil die notwendigen Maßnahmen die Substanzerhaltung des Gebäudes
+betreffen, so erfüllt der Pächter grundsätzlich die gemäß § 536
+oder § 586 BGB dem Verpächter obliegende Erhaltungsverpflichtung
+mit der Folge, dass ihm ein entsprechender Anspruch auf Ersatz der
+Aufwendungen nach § 547 oder § 590b BGB erwächst und den Aufwendungen gegenübersteht.
+Wird dieser Aufwendungsersatzanspruch gegenüber dem Verpächter nicht
+bilanziert und aus familiärer Rücksichtnahme nicht geltend gemacht,
+sind die insoweit getätigten Aufwendungen nicht betrieblich veranlasst.
+Es liegt vielmehr eine nach § 12 Nr. 2 nicht abziehbare Zuwendung
+vor (BFH-Urteil vom 28.07.1994, BFH/ NV 1995, 379).</lxbase:a><lxbase:a>Hat der Nutzungsberechtigte etwaige größere Aufwendungen
+zur Erhaltung der Gebäude (z.B. eine Dachneueindeckung) jedoch <lxbase:fett>nicht</lxbase:fett> mit
+Rücksicht auf das Pachtverhältnis, sondern ausschließlich im eigenen
+Interesse getätigt, so sind die Aufwendungen, soweit sie als Herstellungskosten
+zu beurteilen sind, im Wege der AfA, ansonsten als laufende Betriebsausgaben
+abziehbar. Diese Voraussetzungen sind immer dann gegeben, wenn die
+Aufwendungen, z.B. wegen eines zwischen dem Verpächter und dem Nutzungsberechtigten
+geschlossenen Erbvertrages von letzterem in Erwartung der späteren
+Eigentumsübertragung erbracht worden sind (BFH-Urteil vom 13.05.2004, <lxprod:doknr-verw linkend="HT0818152">BStBl 2004
+II, S. 780</lxprod:doknr-verw>). In diesem Fall entsteht grundsätzlich
+kein Aufwendungsersatzanspruch, so dass zu keinem Zeitpunkt eine
+Zuwendung des Nutzungsberechtigten an den Verpächter vorliegen kann.
+Nur wenn die vorgesehene Eigentumsübertragung nicht eintritt, entsteht
+ein Bereicherungsanspruch nach § 951 i.V.m. § 812 Abs. 1 BGB.</lxbase:a><lxbase:a>Wird allerdings auf die Geltendmachung dieses Anspruchs
+aus familiären Gründen verzichtet, so kann zu diesem Zeitpunkt eine
+Zuwendung anzunehmen sein.</lxbase:a><lxbase:a>Die Voraussetzungen für den Abzug etwaiger die gewöhnlichen
+Ausbesserungen übersteigenden Aufwendungen zur Erhaltung der zur
+Nutzung überlassenen Gebäude als Betriebsausgaben sind also immer
+dann erfüllt, wenn sie in Erwartung des zukünftigen Eigentumserwerbs
+vom Nutzungsberechtigten getragen werden. Davon kann bei Vorliegen
+eines Erbvertrages immer ausgegangen werden. Aber auch der Abschluss
+eines Wirtschaftsüberlassungsvertrages ist regelmäßig Indiz dafür,
+dass derartige Aufwendungen von vornherein nicht dem Wirtschaftsüberlasser (Eigentümer)
+zugewendet werden, sondern ausschließlich dem Betrieb des Nutzenden
+- dem zukünftigen Hoferben - zugute kommen sollen. Damit führen
+sie bei ihm - ggf. im Wege der AfA - zu abziehbaren Betriebsausgaben
+(BFH-Urteile vom 28.02.2002, <lxprod:doknr-verw linkend="HT0574503">BStBl II 2003, 644</lxprod:doknr-verw> und
+vom 08.05.2003, BFH/NV, 1546).</lxbase:a><lxbase:a>Werden größere Erhaltungsaufwendungen durch den Pächter
+getragen und liegen diesen Aufwendungen <lxbase:fett>steuerlich
+anzuerkennende vertragliche Regelungen</lxbase:fett>, unter anderem
+über die Anpassung des Pachtzinses sowie über die Verpflichtung
+zur Zahlung größerer Erhaltungsaufwendungen zugrunde, dann handelt
+es sich bei den Zahlungen der Erhaltungsaufwendungen um Pachtaufwand,
+der auf die Laufzeit des Pachtvertrages zu verteilen ist.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600023">5. Ertragsteuerliche
+Behandlung bei der Errichtung von Ersatzflächenpools - Schaffung
+von Ausgleichsflächen</lxbase:ueberschrift><lxbase:a><lxbase:fett>Behandlung im Betriebsvermögen</lxbase:fett></lxbase:a><lxbase:a>Nach dem BMF-Schreiben vom 03.08.2004, <lxprod:doknr-verw linkend="HT0578507">BStBl 2004 I,
+S. 716</lxprod:doknr-verw>, (EStG-Kartei NRW §§ 13, 13a EStG Fach 6
+Nr. 14) zur ertragsteuerlichen Behandlung der Einrichtung von Ersatzflächenpools
+für die Vornahme von Ausgleichsmaßnahmen nach den Naturschutzgesetzen
+werden Entschädigungen für die Zurverfügungstellung von Ausgleichsflächen
+mit veränderter den Naturschutz fördernder Bewirtschaftung vorrangig
+für die Flächenüberlassung gezahlt. Entstehende Einnahmeverluste,
+Wertminderungen des Grund und Bodens oder zusätzliche Betriebsausgaben
+sind demnach nachrangige Folgekosten, so dass eine Aufteilung und
+Unterscheidung des Gesamtentgelts für diese Kostenbestandteile nicht
+erforderlich ist. Entsprechende Entschädigungszahlungen werden somit
+im Ergebnis als Vergütungen für eine Duldungsleistung behandelt
+und bei der Gewinnermittlung nach § 4 Abs. 1 EStG entsprechend passiv
+abgegrenzt.</lxbase:a><lxbase:a>Stellt der Landwirt Flächen zur forstwirtschaftlichen
+Nutzung zur Verfügung, sind die hieraus erzielten Gewinne als Sondergewinne
+nach § 13a Abs. 6 Nr. 1 EStG zu erfassen. Dies gilt auch, wenn der
+Landwirt erst im Zuge der Entschädigungsvereinbarung durch Umbruch
+von Ackerland zu Forst eine forstwirtschaftliche Tätigkeit aufnimmt.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel:</lxbase:fett></lxbase:a><lxbase:a>Ein Landwirt mit einer Gewinnermittlung nach § 13a EStG
+erhält für den Umbruch von Ackerland zu Forst von einer Recycling-Firma
+90.000,-€. Diese benötigt die Flächen zur Erfüllung ihrer Ausgleichsverpflichtung
+nach Naturschutzgesetzen. Der Landwirt verpflichtet sich in der
+mit der Firma getroffenen Entschädigungsvereinbarung auf den weiterhin
+in seinem Eigentum stehenden Flächen die Anpflanzung von Bäumen
+zu dulden und eine dauerhafte Forstwirtschaft zu betreiben.</lxbase:a><lxbase:a>Die Entschädigung ist nach den oben aufgestellten Grundsätzen
+als Betriebseinnahme im Rahmen der gesonderten Gewinnermittlung
+aus Forstwirtschaft nach § 13a Abs. 6 Nr. 1 EStG zu erfassen (vgl.
+FG Münster vom 18.06.2009 - <lxprod:doknr-verw linkend="HT5008954">Az. 10 K 1622/05 E</lxprod:doknr-verw>, <lxbase:az normform="NZB-IV-B-98/09" manuell="nein">NZB IV B 98/09</lxbase:az>).</lxbase:a></lxbase:beispiel><lxbase:a><lxbase:fett>Behandlung bei Einnahme-Überschuss-Rechnung
+nach § 4 Abs. 3 EStG</lxbase:fett></lxbase:a><lxbase:a>Nach Rz. II.3. des o.g. BMF-Schreibens sind die Entschädigungen
+in voller Höhe im Jahr des Zuflusses zu erfassen. Eine Verteilung
+der Einnahmen im Sinne des § 11 Abs. 1 Satz 3 EStG kommt nicht in
+Betracht, da die Zahlungen nicht für eine Nutzungsüberlassung geleistet
+werden. Die Entschädigungen stellen eine Vergütung für eine Duldungsleistung
+dar.</lxbase:a><lxbase:a><lxbase:fett>Behandlung im Privatvermögen</lxbase:fett></lxbase:a><lxbase:a>Das FG Münster hat mit rechtskräftigem Urteil vom 27.10.2008
+(<lxprod:doknr-verw linkend="HT5007825">EFG
+2009 Seite 577</lxprod:doknr-verw>) bezüglich der steuerlichen Beurteilung
+von Entschädigungsleistungen (Ausgleichszahlung) für die naturschutzrechtliche
+Beschränkung von ins Privatvermögen überführter Grundstücke entschieden,
+dass es sich bei der Entschädigungsleistung um <lxbase:fett>Einkünfte
+im Sinne des § 22 Nr. 3 EStG</lxbase:fett> handelt, soweit eine
+förmliche Enteignung nicht stattgefunden hat bzw. auch nicht zu
+erwarten ist. Die Ausgleichszahlung steht in rechtlichem und wirtschaftlichem
+Zusammenhang mit der Verpflichtung des Grundstückseigentümers, naturschutzrechtliche
+Beschränkungen hinzunehmen. Ein vollständiger endgültiger Verlust
+des zivilrechtlichen oder wirtschaftlichen Eigentums ist dagegen
+nicht gegeben, so dass nicht von einem veräußerungsähnlichen Vorgang auszugehen
+ist.</lxbase:a><lxbase:a><lxbase:fett>Behandlung sog. Ökokontenmodelle</lxbase:fett></lxbase:a><lxbase:a>Ökopunkte sind Werteinheiten, die mit einem in der Region
+üblichen landschaftsplanerischen Bewertungsverfahren ermittelt werden.
+Diese stellen eine Verrechnungshilfe dar, um die Eingriffe in die
+Natur, z. B. die Versiegelung von Flächen, mit den unterschiedlichsten
+Ausgleichsmaßnahmen im Wege der ökologischen Aufwertung von Flächen
+rechnerisch kompensieren zu können.</lxbase:a><lxbase:a>Die Schaffung von Ökopunkten setzt voraus, dass der Ausgleichsleistende
+in Absprache mit der Landschaftsbehörde ein naturschutzfachliches
+Entwicklungskonzept mit dem Ziel einer ökologischen Aufwertung von
+Flächen erarbeitet. Die Aufwertungsmaßnahmen werden grundsätzlich
+im Vorgriff auf einen konkreten Eingriff (Schädigung der Natur durch
+vorgesehene Baumaßnahmen) eingeleitet und sind auf Dauer angelegt.
+Wie bei den Ersatzflächenpools werden die eingeleiteten Aufwertungsmaßnahmen
+langfristig bis zeitlich unbegrenzt vertraglich vereinbart und i.
+d. R. mit einer Grunddienstbarkeit abgesichert.</lxbase:a><lxbase:a>Die von den Steuerpflichtigen angesammelten Ökopunkte
+werden auf einem sog. Ökokonto gutgeschrieben und können in Abstimmung
+mit den zuständigen Behörden (Untere Landschaftsbehörden) gezielt
+an private wie auch an öffentliche Eingriffsverursacher verkauft
+werden. Der Preis für die Ökopunkte kann frei zwischen den Beteiligten
+verhandelt werden.</lxbase:a><lxbase:a><lxbase:fett>Behandlung im Betriebsvermögen</lxbase:fett></lxbase:a><lxbase:a>Ökopunkte können vom erwerbenden Eingriffsverursacher
+nicht weiterveräußert werden, so dass diese nach den bislang vorliegenden
+Erkenntnissen zumindest beim Erwerber der Ökopunkte keine immateriellen
+Wirtschaftsgüter darstellen.</lxbase:a><lxbase:a>Wie bei den Ersatzflächenpools ist die Erstellung von
+Ökopunkten sowohl mit einmaligen Herstellungsmaßnahmen und anschließenden
+Dauerleistungen des Ausgleichsleistenden als auch mit Wertminderungen
+des Grund u. Bodens und einer Beeinträchtigung der land- und forstwirtschaftlichen
+Nutzung desselben verbunden. Insoweit kann eine analoge Anwendung
+des BMF-Schreibens vom 03.08.2004 (a.a.O.) erfolgen.</lxbase:a><lxbase:a><lxbase:fett>Behandlung im Privatvermögen</lxbase:fett></lxbase:a><lxbase:a>Durch die Veräußerung von Ökopunkten wird in Anlehnung
+an das Urteil des FG Münster vom 27.10.2008 eine sonstige Leistung
+nach § 22 Nr. 3 EStG erbracht. Dabei handelt es sich bei den Entgelten
+weder um Nutzungsentgelte noch um dinglichen Nutzungsrechten vergleichbare
+Entgelte. Vielmehr handelt es sich bei der Veräußerung von Ökopunkten
+um den Freikauf eines Eingriffverursachers von einer gesetzlichen
+Verpflichtung. Der Eingriffsverursacher zahlt nicht dafür, dass
+er die Flächen nutzt, sondern dafür, dass er die naturschutzrechtlichen
+Auflagen nicht mehr durchführen muss, weil ein Anderer diese Pflicht
+bereits im Vorgriff der Eingriffsverursachung übernommen hat. Der
+Veräußerer der Ökopunkte lässt sich somit die Beschränkung, die
+auf seinem Grundstück lastet, vergüten.</lxbase:a><lxbase:a>Die Schaffung von Ökopunkten auf Grundstücken des Privatvermögens
+und deren anschließende Vermarktung kann bei Vorliegen aller Voraussetzungen
+des § 15 Abs. 2 EStG auch zur Annahme eines Gewerbebetriebs führen,
+soweit es sich nicht um Aufforstungen von Flächen zu Wald handelt.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600024">6. 	Bilanzielle
+Behandlung von Feldinventar und stehender Ernte bei Betrieben mit
+jährlicher Fruchtfolge</lxbase:ueberschrift><lxbase:a>Als Wirtschaftsgut Feldinventar bzw. stehende Ernte wird
+der jeweilige Pflanzenbestand definiert, der auf einer abgrenzbaren
+Fläche steht, BFH-Urteil vom 18.03.2010, <lxprod:doknr-verw linkend="HT0588412">BFH/NV 2010 S. 1157</lxprod:doknr-verw>.
+Bei dem Feldinventar handelt es sich um selbständige Wirtschaftsgüter
+des Umlaufvermögens, die grundsätzlich mit den Anschaffungs- oder
+Herstellungskosten gemäß § 6 Abs. 1 Nr. 2 Satz 1 EStG zu aktivieren sind.
+Teilwertabschreibungen sind nach den für das Umlaufvermögen maßgebenden Grundsätzen
+zulässig. Dies setzt voraus, dass eine voraussichtlich dauernde
+Wertminderung i.S.d. § 6 Abs. 1 Nr. 2 Satz 2 EStG vorliegt. Bei
+Bewertung des Feldinventars mit den Standardherstellungskosten oder
+Durchschnittswerten anstatt der individuellen Herstellungskosten
+ist eine Teilwertabschreibung nicht möglich.</lxbase:a><lxbase:a>Nach R 14 Abs. 2 S. 3 EStR 2008 steht den landwirtschaftlichen
+Betrieben mit jährlicher Fruchtfolge das Wahlrecht zu, von einer
+Aktivierung des Feldinventars und der stehenden Ernte abzusehen.
+Das Wahlrecht kann nur einheitlich, bezogen auf das gesamte Feldinventar
+eines Betriebes ausgeübt werden. Der Landwirt ist an diese Entscheidung
+aufgrund der Bewertungsstetigkeit auch für die Zukunft gebunden, wenn
+er nach dem Verzicht auf die Bewertung zu einer Aktivierung des
+Feldinventars und der stehenden Ernte übergegangen ist. Er hat dann
+keinen Anspruch darauf, aus Billigkeitsgründen wiederholt zu einem
+Verzicht auf die Bewertung wechseln zu dürfen (BFH-Urteil vom 18.03.2010, <lxprod:doknr-verw linkend="HT0588412">BFH/NV 2010,
+1157-1159</lxprod:doknr-verw>)</lxbase:a><lxbase:a>Beantragt der Stpfl. im Rahmen seiner Steuererklärung
+den Verzicht auf eine Bilanzierung von Feldinventar nach Maßgabe
+von R 14 Abs. 2 Satz 3 EStR und veranlagt das FA erklärungsgemäß,
+aber unter Vorbehalt der Nachprüfung, erstreckt sich der Vorbehalt
+nicht auf den gewährten Billigkeitserweis. Die abweichende Festsetzung der
+Steuer ist deshalb für die Steuerfestsetzung regelmäßig verbindlich,
+Hinweis auf das Urteil des Sächsischen FG vom 16.03.2011 und den
+Beschluss des BFH vom 12.07.2012. Über den Antrag des Stpfl., auf
+eine Aktivierung des Feldinventars zu verzichten, muss vor der erstmaligen
+Veranlagung entschieden werden. Die Entscheidung kann nicht erst
+im Rahmen einer Betriebsprüfung getroffen werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600025">7.	 Altenteilsleistungen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523498600026">7.1 Abzug
+von Versorgungsleistungen</lxbase:ueberschrift><lxbase:a>Durch das Jahressteuergesetz 2008 wurde der § 10 Abs.
+1 Nr. 1 a EStG neu gefasst. Die Neufassung ist auf alle Versorgungsleistungen
+anzuwenden, die auf nach dem 31.12.2007
+vereinbarten Vermögensübertragungen beruhen. Für Versorgungsleistungen
+im Zusammenhang mit einer unentgeltlichen Vermögensübertragung nach dem 31.12.2007
+entfällt die Unterscheidung zwischen Rente und dauernder Last, so dass
+wiederkehrende Leistungen im Zusammenhang mit der begünstigten Übertragung
+immer in vollem Umfang als Sonderausgaben abzugsfähig bzw. entsprechend des
+Korrespondenzprinzips in vollem Umfang nach § 22 Nr. 1b EStG zu
+versteuern sind.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600027">7.2. Wiederkehrende
+Leistungen im Zusammenhang mit einer Vermögensübertragung</lxbase:ueberschrift><lxbase:a>Zur einkommensteuerlichen Behandlung von wiederkehrenden
+Leistungen im Zusammenhang mit der Übertragung von Privat- oder
+Betriebsvermögen bis
+zum 31.12.2007 siehe BMF-Schreiben vom 16.09.2004 (<lxprod:doknr-verw linkend="HT0578583">BStBl 2004 I,
+922</lxprod:doknr-verw>; EStG-Kartei NRW § 22 Fach 3 Nr. 5 III, Anhang
+13 IV EStH 2008).</lxbase:a><lxbase:a>Auf alle wiederkehrenden Leistungen im Zusammenhang mit
+einer Vermögensübertragung, die auf einem nach dem 31.12.2007
+geschlossenen Übertragungsvertrag beruhen, ist das BMF-Schreiben
+vom 11.03.2010, <lxprod:doknr-verw linkend="HT0435064">BStBl I S. 227</lxprod:doknr-verw>,
+EStG-Kartei NRW § 22 Fach 3 Nr. 5 IV anzuwenden.</lxbase:a><lxbase:a>Die Unterlagen, aus denen sich Art und Umfang der Verpflichtung
+ergeben (z.B. Übergabevertrag), sollten bei derartigen Dauersachverhalten
+in den Vorhefter/Vertragsakte genommen werden (siehe unter I. 5.5).</lxbase:a><lxbase:a><lxbase:fett>7.2.1 Vermögensübertragung i.S. des § 10
+Abs. 1 Nr. 1a EStG</lxbase:fett></lxbase:a><lxbase:a>Wiederkehrende Leistungen im Zusammenhang mit einer Vermögensübergabe
+können Versorgungsleistungen, Unterhaltsleistungen oder wiederkehrende
+Leistungen im Austausch mit einer Gegenleistung sein. Versorgungsleistungen
+sind wiederkehrende Leistungen in Geld oder Geldeswert, die im Zusammenhang
+mit einer Vermögensübertragung - in der Regel zur vorweggenommenen
+Erbfolge - geleistet werden. Sie sind bei dem Verpflichteten als
+Sonderausgaben nach § 10 Abs. 1 Nr. 1a EStG abziehbar und bei dem
+Berechtigten nach § 22 Nr. 1b EStG steuerpflichtig. Bei Übergabe
+land- und forstwirtschaftlicher Betriebe kann grundsätzlich von
+einer begünstigten Übertragung ausgegangen werden, denn</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	aufgrund der in der Vergangenheit (<lxbase:fett>Übergabeverträge
+vor dem 01.11.2004</lxbase:fett>) anzustellenden Beurteilung dürfte
+regelmäßig entweder</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>o	eine <lxbase:fett>existenzsichernde
+Wirtschaftseinheit</lxbase:fett> mit ausreichenden Erträgen (Typus
+1) übergeben worden sein oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>	aber eine existenzsichernde
+und ihrem Wesen nach ertragbringende Wirtschaftseinheit vorliegen,
+deren Erträge zwar nicht ausreichen, um die wiederkehrenden Leistungen
+zu erbringen, deren Wert im Zeitpunkt der Vermögensübergabe bei
+überschlägiger und großzügiger Berechnung aber mindestens die Hälfte
+des Kapitalwertes der wiederkehrenden Leistungen beträgt (<lxbase:fett>Typus
+2</lxbase:fett>) - BMF-Schreiben vom 26.08.2002, <lxprod:doknr-verw linkend="HT0576755">BStBl I, 893</lxprod:doknr-verw> und
+vom 08.01.2004, <lxprod:doknr-verw linkend="HT0578041">BStBl I, 191</lxprod:doknr-verw>,
+Rz. 74 des BMF-Schreibens vom 16.09.2004, <lxprod:doknr-verw linkend="HT0578583">BStBl I, 922</lxprod:doknr-verw>,
+soweit ein übereinstimmender Antrag gestellt wird,</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>oder</lxbase:fett></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	bei <lxbase:fett>Übergabeverträgen,
+die nach
+dem 31.10.2004</lxbase:fett> abgeschlossen worden sind,
+dürfte es sich entweder</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>	um eine
+existenzsichernde Wirtschaftseinheit mit <lxbase:fett>ausreichenden
+Erträgen</lxbase:fett> handeln oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>	die <lxbase:fett>Beweiserleichterungen</lxbase:fett> der
+Rz. 23 des BMF-Schreibens vom 16.09.2004, a.a.O., greifen, wonach
+bei der <lxbase:fett>Übertragung von Unternehmen</lxbase:fett> nur
+die in Ausnahmefällen <lxbase:fett>widerlegbare Vermutung</lxbase:fett> dafür
+besteht, dass die (grundsätzlich nach steuerrechtlichen Vorschriften
+ermittelten) Erträge ausreichen, um die wiederkehrenden Leistungen
+in der vereinbarten Höhe zu erbringen, zumal bei der Ermittlung
+der Erträge die AfA bzw. Sonderabschreibung und außerordentlichen
+Aufwendungen, wie z.B. größere Erhaltungsaufwendungen, die nicht
+jährlich üblicherweise anfallen, hinzuzurechnen sind.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>oder</lxbase:fett></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	bei <lxbase:fett>Übergabeverträgen,
+die nach
+dem 31.12.2007</lxbase:fett> abgeschlossen worden sind,
+dürfte es sich um</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>	ausreichend
+Ertrag bringendes Vermögen handeln, Rz 26 - 31 des BMF-Schreibens
+vom 11.03.2010, <lxprod:doknr-verw linkend="HT0435064">BStBl I S. 227</lxprod:doknr-verw>,
+EStG-Kartei NRW § 22 Fach 3 Nr. 5 IV.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Ausnahmen:</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	bei mehrjährigen Verlusten bzw.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	bei im Verhältnis zu der
+Höhe der wiederkehrenden Leistungen geringen Gewinnen des übertragenen
+Betriebes (dies kann z.B. bei § 13a EStG-Betrieben der Fall sein;
+in diesem Fall kann der Steuerpflichtige die tatsächlichen Verhältnisse jedoch
+durch Führung entsprechender Aufzeichnungen i.S. des § 4 Abs. 1
+oder 3 EStG nachweisen),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	bei verpachteten oder
+überwiegend verpachteten Betrieben.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Reichen in diesen Fällen die erzielbaren Erträge des übertragenen
+Vermögens nicht aus, um die vereinbarten wiederkehrenden Leistungen
+abzudecken, ist regelmäßig keine Vermögensübergabe gegen Versorgungsleistungen,
+sondern ein (teil-)entgeltliches Rechtsgeschäft anzunehmen (Rzn.
+57 des BMF-Schreiben vom 11.03.2010, <lxprod:doknr-verw linkend="HT0435064">BStBl I S. 227</lxprod:doknr-verw>,
+EStG-Kartei NRW § 22 Fach 3 Nr. 5 IV an.</lxbase:a><lxbase:a>Wird ein Betrieb der Land- und Forstwirtschaft übertragen,
+ist auch der Teil der Versorgungsleistungen begünstigt, der auf
+den Wohnteil des Betriebes entfällt (§ 10 Abs. 1 Nr. 1a Satz 3 EStG).</lxbase:a><lxbase:a>Ebenso ist die Übertragung eines Mehrfamilienhauses und
+eines Erbbaugrundstücks, die sich im gewillkürten Betriebsvermögen
+eines land- und forstwirtschaftlichen Betriebs befinden, im Rahmen
+der Übertragung des gesamten Betriebs gegen Versorgungsleistungen
+nach § 10 Abs. 1 Nr.1a EStG begünstigt. Auch hinsichtlich des gewillkürten
+Betriebsvermögens handelt es sich um begünstigtes Vermögen. Die Behandlung
+von gewillkürtem Betriebsvermögen eines land- und forstwirtschaftlichen
+Betriebs beurteilt sich nach R 4.2 Abs. 9 und H 4.2 Abs. 9 EStH.
+Das gilt unabhängig von der erb- und schenkungssteuerlichen sowie
+bewertungsrechtlichen Behandlung dieses Betriebsvermögensteils.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600028">7.3 Altenteilsleistungen
+beim Verpflichteten</lxbase:ueberschrift><lxbase:a><lxbase:fett>7.3.1 Wertermittlung bei unbaren Altenteilsleistungen</lxbase:fett></lxbase:a><lxbase:a>Unbare Altenteilsleistungen sind (auch bei Landwirten
+mit Gewinnermittlung nach § 13a EStG) mit ihrem tatsächlichen Wert
+zu bewerten (BFH-Urteile vom 09.10.1975, <lxprod:doknr-verw linkend="HT0024418">BStBl 1976 II, 67</lxprod:doknr-verw> und
+vom 30.04.1976, <lxprod:doknr-verw linkend="HT0029077">BStBl 1976 II, 539</lxprod:doknr-verw>).
+Wird ein Einzelnachweis nicht geführt, so ist die Höhe der Aufwendungen
+in der Regel zu schätzen. Dabei bilden die in § 1 Abs. 1 der Sachbezugsverordnungen
+(SachBezVO) festgesetzten Werte einen geeigneten Schätzungsmaßstab
+(BFH-Urteil vom 23.05.1989, <lxprod:doknr-verw linkend="HT0089742">BStBl 1989 II, 784</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Der Wert für Heizung und Beleuchtung wird ab 1995 geschätzt,
+weil Werte dafür in der Sachbezugsverordnung nicht mehr festgesetzt
+sind.</lxbase:a><lxbase:a>Für Verpflegung bzw. Heizung und Beleuchtung können folgende
+Werte angesetzt werden:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="4" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="64*" /><cals:colspec colnum="2" colname="2" colwidth="12*" /><cals:colspec colnum="3" colname="3" colwidth="12*" /><cals:colspec colnum="4" colname="4" colwidth="12*" /><cals:thead><cals:row rowsep="1"><cals:entry colsep="0" colname="1"><lxbase:a /></cals:entry><cals:entry colsep="0" align="right" colname="2"><lxbase:a><lxbase:fett>2010</lxbase:fett></lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="3"><lxbase:a><lxbase:fett>2011</lxbase:fett></lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a><lxbase:fett>2012</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Für <lxbase:fett>Verpflegung</lxbase:fett></lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0"><lxbase:a /></cals:entry><cals:entry colsep="0" align="right" colname="3" rowsep="0"><lxbase:a /></cals:entry><cals:entry align="right" colname="4" rowsep="0"><lxbase:a /></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>bei
+einem Altenteiler</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0"><lxbase:a>2.580 €</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="3" rowsep="0"><lxbase:a>2.604 €</lxbase:a></cals:entry><cals:entry align="right" colname="4" rowsep="0"><lxbase:a>2.628
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>bei
+einem Altenteilerehepaar</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0"><lxbase:a>5.160 €</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="3" rowsep="0"><lxbase:a>5.208 €</lxbase:a></cals:entry><cals:entry align="right" colname="4" rowsep="0"><lxbase:a>5.256
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>für <lxbase:fett>Heizung
+und Beleuchtung</lxbase:fett></lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0"><lxbase:a /></cals:entry><cals:entry colsep="0" align="right" colname="3" rowsep="0"><lxbase:a /></cals:entry><cals:entry align="right" colname="4" rowsep="0"><lxbase:a /></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>bei
+einem Altenteiler</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2" rowsep="0"><lxbase:a>574 €</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="3" rowsep="0"><lxbase:a>580 €</lxbase:a></cals:entry><cals:entry align="right" colname="4" rowsep="0"><lxbase:a>585
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>bei einem Altenteilerehepaar</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="2"><lxbase:a>1.148
+€</lxbase:a></cals:entry><cals:entry colsep="0" align="right" colname="3"><lxbase:a>1.160
+€</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>1.170 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Diese Werte gelten auch, wenn der Gewinn nach § 13a EStG
+ermittelt wird (BFH-Urteil vom 30.04.1976, <lxprod:doknr-verw linkend="HT0029077">BStBl 1976
+II, 539</lxprod:doknr-verw>). Sie sind nicht anwendbar, wenn statt voller
+Verpflegung nur bestimmte Naturalien zur Verfügung gestellt werden.</lxbase:a><lxbase:a>Die Werte für Heizung und Beleuchtung sind auch dann nicht
+anwendbar, wenn aufgrund der Gewinnermittlungsunterlagen des Betriebs
+offensichtlich ist, dass die auf die Altenteiler entfallenden Kosten
+niedriger sind.</lxbase:a><lxbase:a>Die nachweisbar gezahlten Barleistungen können daneben
+abgesetzt werden.</lxbase:a><lxbase:a><lxbase:fett>7.3.2 Leistungen für Pflege</lxbase:fett></lxbase:a><lxbase:a>Sieht der Übergabevertrag vor, dass der Übernehmer "Hege
+und Pflege" schuldet, so liegt hierin nur eine Umschreibung von
+persönlichen Dienstleistungen. Ihre Erbringung begründet keine dauernde
+Last i.S.d. § 10 Abs. 1 Nr. 1a EStG, da sie nicht unmittelbar zu
+Aufwendungen des Verpflichteten führt.</lxbase:a><lxbase:a>Eine im Rahmen der Vermögensübergabe übernommene Pflegeverpflichtung
+kann aber dann als dauernde Last berücksichtigt werden, wenn in
+Erfüllung dieser Verpflichtung Aufwendungen entstehen (BFH-Urteil
+vom 27.08.1996, <lxprod:doknr-verw linkend="HT0139403">BStBl 1997 II, 47</lxprod:doknr-verw>).
+Eine dauernde Last ist jedenfalls dann gegeben, wenn der Verpflichtete
+die Pflege durch Dritte verrichten lässt und hierfür - nach Abzug
+etwaiger Erstattungen durch die Pflegeversicherung - Aufwendungen
+trägt (BFH-Urteil vom 22.01.1992, <lxprod:doknr-verw linkend="HT0101534">BStBl 1992 II, 552</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Beinhalten die geltend gemachten Sonderausgaben des Verpflichteten
+auch Aufwendungen für Hege und Pflege des Altenteilers, ohne dass
+der Übergabevertrag eine entsprechende Verpflichtung vorsieht, stellen
+die Aufwendungen keine dauernden Lasten dar. Ggf. kommt ein Abzug
+dieser Aufwendungen gem. § 33 EStG in Betracht.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600029">7.4 Nutzungswert
+der Wohnung</lxbase:ueberschrift><lxbase:a><lxbase:fett>7.4.1 Altenteilsleistungen in Zusammenhang
+mit der Nutzungswertbesteuerung</lxbase:fett></lxbase:a><lxbase:a>Wird eine Wohnung aufgrund eines Altenteilsvertrags überlassen,
+ist seit der Abschaffung der Nutzungswertbesteuerung (§ 52 Abs.
+15 EStG 1998) der Nutzungswert der Wohnung weder beim Altenteilsverpflichteten
+als dauernde Last im Sinne des § 10 Abs. 1 Nr. 1a EStG noch beim
+Altenteiler als wiederkehrende Bezüge im Sinne des § 22 Nr. 1b EStG
+zu erfassen. Eine Ausnahme gilt nur für noch der Nutzungswertbesteuerung
+unterliegende Baudenkmale, § 13 Abs. 2 Nr. 2 und Abs. 4 EStG (vgl.
+hierzu unter 3.2).</lxbase:a><lxbase:a>Mit der Wohnungsüberlassung verbundene Aufwendungen, die
+dem Altenteiler als wiederkehrende Leistungen zufließen, sind dagegen
+als dauernde Lasten abzugsfähig und beim Altenteiler als wiederkehrende
+Bezüge zu berücksichtigen (BFH-Urteile vom 26.07.1995, <lxprod:doknr-verw linkend="HT0127690">BStBl 1995
+II, 836</lxprod:doknr-verw> und <lxprod:doknr-verw linkend="HT0135111">BFH/NV 1996, 392</lxprod:doknr-verw>).
+Abziehbar sind demnach insbesondere Aufwendungen für Strom, Heizung,
+Wasser und Schönheitsreparaturen (BFH-Urteil vom 08.12.1982, <lxprod:doknr-verw linkend="HT0037972">BStBl 1983
+II, 710</lxprod:doknr-verw>). Nicht abziehbar sind aber AfA, Zinsen,
+Grundsteuer und Hausversicherungsbeiträge, die der Verpflichtete
+als Eigentümer schuldet (BFH-Urteil vom 25.03.1992, <lxprod:doknr-verw linkend="HT0101827">BStBl 1992
+II, 1012</lxprod:doknr-verw>).</lxbase:a><lxbase:a><lxbase:fett>7.4.2 Instandhaltungsaufwendungen für die
+Altenteilerwohnung</lxbase:fett></lxbase:a><lxbase:a>Auch die Verpflichtung des Übernehmers, die Wohnung instand
+zu halten, kann grundsätzlich Versorgungsleistungen i.S.d. § 10
+Abs. 1 Nr. 1a EStG begründen, wenn der Übernehmer dazu aufgrund
+einer klaren und eindeutigen Bestimmung im Übertragungsvertrag verpflichtet
+ist. Entsprechendes gilt für Aufwendungen, mit denen der Übernehmer
+seiner bürgerlich-rechtlich wirksamen Verpflichtung zur Instandhaltung
+nachkommt. Instandhaltungskosten dürfen jedoch nur als Versorgungsleistungen
+abgezogen werden, soweit sie der Erhaltung des <lxbase:fett>vertragsgemäßen
+Zustands</lxbase:fett> der Wohnung im Zeitpunkt der Übertragung
+dienen. Unschädlich ist, wenn eine zur Erhaltung erforderliche Maßnahme
+gleichzeitig eine zeitgemäße Modernisierung bewirkt, Entscheidung
+des BFH vom 25.08.1999 (<lxprod:doknr-verw linkend="HT0552776">BStBl 2000 II, 21</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Außergewöhnliche Instandhaltungsaufwendungen, die über
+die Erhaltung des im Zeitpunkt der Übertragung vertragsgemäßen Zustandes
+hinausgehen, sind keine Leistungen zur Versorgung des Vermögensübergebers
+und dürfen daher nicht als dauernde Last abgezogen werden. Diese
+Leistungen werden im überwiegenden Interesse des Vermögensübernehmers
+an der Werterhaltung und Werterhöhung seines Eigentums erbracht.</lxbase:a><lxbase:a>Hat sich der Übergeber eines luf Betriebes anlässlich
+der Betriebsübergabe ein Wohnrecht an einzelnen Räumen der Betriebsleiterwohnung
+vorbehalten, so gelten die vorstehenden Grundsätze entsprechend.
+Die einzelnen Räume sind dann unselbständiger Teil der Betriebsleiterwohnung.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600030">7.5 Altenteilsleistungen
+beim Berechtigten</lxbase:ueberschrift><lxbase:a>Im Zusammenhang mit einer Vermögensübergabe vereinbarte
+Versorgungsleistungen sind vom Berechtigten als Einkünfte aus wiederkehrenden
+Bezügen nach § 22 Nr. 1b EStG zu versteuern, soweit der Verpflichtete
+zum Abzug der Leistungen als Sonderausgaben nach § 10 Abs. 1 Nr.
+1a EStG (Leibrente oder dauernde Last) berechtigt ist (BFH-Urteil
+vom 26.07.1995, <lxprod:doknr-verw linkend="HT0132098">BStBl 1996 II, 157</lxprod:doknr-verw>).
+). Vor dem Hintergrund des Korrespondenzprinzips (Abzug als Sonderausgaben
+beim Verpflichteten und Besteuerung gemäß § 22 Nr. 1b EStG beim
+Berechtigten) ist - insbesondere in Zusammenhang mit etwaigen Instandhaltungsaufwendungen
+- die für die Besteuerung des Berechtigten zuständige Veranlagungsstelle
+bzw. das entsprechende Finanzamt über Art und Höhe der als dauernde
+Last anerkannten Aufwendungen zu informieren, damit eine der Höhe
+nach entsprechende Erfassung bei den Einkünften des Berechtigten
+gem. § 22 Nr. 1 Satz 1b EStG erfolgen kann.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600031">7.6 Versorgungsverträge
+mit vereinbarter Wertsicherungsklausel; Anforderungen an den Versorgungsvertrag</lxbase:ueberschrift><lxbase:a>Die steuerrechtliche Anerkennung des Übergabevertrags
+setzt voraus, dass die gegenseitigen Rechte und Pflichten klar und
+eindeutig sowie rechtswirksam vereinbart und ernsthaft gewollt sind
+und die Leistungen wie vereinbart tatsächlich erbracht werden. Als
+wesentlicher Inhalt des Übergabevertrags müssen der Umfang des übertragenen
+Vermögens, die Höhe der Versorgungsleistungen und die Art und Weise
+der Zahlung vereinbart sein (Rzn. 37 bis 39 des BMF-Schreibens vom 16.09.2004,
+a.a.O.).</lxbase:a><lxbase:a>Machen die Parteien eines Übertragungsvertrages von einer
+vereinbarten Wertsicherungsklausel keinen Gebrauch, lässt dies für
+sich allein noch keinen zwingenden Schluss auf das Fehlen des Rechtsbindungswillen
+zu; die Abweichung vom Vereinbarten kann aber im Rahmen der gebotenen
+Gesamtwürdigung von Bedeutung sein (BFH-Urteil vom 03.03.2004, <lxprod:doknr-verw linkend="HT0817501">BStBl 2004
+II, 826</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600032">7.7 Versorgungsleistungen
+auf Grund sog. Wirtschaftsüberlassungsverträge</lxbase:ueberschrift><lxbase:a>Grundsätzlich setzt die Zurechnung land- und forstwirtschaftlicher
+Einkünfte aus der Bodenbewirtschaftung die Herrschaft über den Grund
+und Boden aufgrund einer - zumindest wirtschaftlichen - Eigentümerstellung
+oder aufgrund besonderer Rechtsbeziehungen voraus. Vertragliche
+Vereinbarungen zur Nutzungsüberlassung zwischen Angehörigen sind
+daher nur anzuerkennen, wenn diese Rechtsbeziehungen einem Fremdvergleich
+standhalten und tatsächlich durchgeführt werden. Dies gilt insbesondere
+bei Überlassungen aufgrund eines Pachtverhältnisses. Allerdings
+hat die Rechtsprechung die Nutzungsüberlassung im Bereich der Land-
+und Forstwirtschaft als Rechtsbeziehung anerkannt, da diese als
+Vorstufe der Betriebsübertragung angesehen wird. Überlassen daher
+Eltern einem Kind einen Betrieb der Land- und Forstwirtschaft lediglich
+zur Nutzung, so liegt ein sog. Wirtschafts- oder Betriebs-überlassungsvertrag
+i.S.d. BFH-Urteils vom 05.02.1976, <lxprod:doknr-verw linkend="HT0027834">BStBl 1976 II, 335</lxprod:doknr-verw> (vgl.
+EStG-Kartei NRW §§ 13, 13a EStG Fach 3 Nr. 1) vor.</lxbase:a><lxbase:a>Allerdings können auch sogenannte <lxbase:fett>"verunglückte
+Pachtverträge"</lxbase:fett>, die steuerlich grundsätzlich nicht
+anzuerkennen wären, zwischen nahen Angehörigen ertragsteuerlich
+als Wirtschaftsüberlassungsverträge gewürdigt werden, wenn im Übrigen
+sämtliche höchstrichterlich geforderten Merkmale zur Anerkennung
+von Wirtschaftsüberlassungsverträgen vorliegen (vgl. Niederschrift
+der OFD Rheinland vom 18.03.2005).</lxbase:a><lxbase:a><lxbase:fett>Vor dem 01.01.2008 geschlossene Wirtschaftsüberlassungsverträge:</lxbase:fett></lxbase:a><lxbase:a>Die altenteilsähnlichen Zuwendungen des Kindes an die
+Eltern sind trotz der Änderung des § 10 Abs. 1 Nr. 1a EStG weiterhin
+als Sonderausgaben abzugsfähig (BFH-Urteil vom 18.02.1993, <lxprod:doknr-verw linkend="HT0103380">BStBl 1993
+II, 546</lxprod:doknr-verw>; Rzn. 10 und 22 des BMF-Schreibens vom 16.09.2004, <lxprod:doknr-verw linkend="HT0578583">BStBl 2004 I
+S. 922</lxprod:doknr-verw>, und Rz. 81 des BMF-Schreibens vom 11.03.2010,
+BStBl I S, 227, EStG-Kartei NRW § 22 Fach 3 Nr. 5 IV. Es besteht
+insoweit Bestandsschutz. Dies gilt auch, wenn ein vor dem 01.01.2008
+abgeschlossener Wirtschaftsüberlassungsvertrag nach dem 31.12.2007
+verlängert wird, soweit dieser ursprüngliche Vertrag bereits eine
+Verlängerungsklausel enthielt.</lxbase:a><lxbase:a>Ist ein bisher befristeter Vertrag in ein unbefristetes
+Vertragsverhältnis umgewandelt worden, können die wiederkehrenden
+Leistungen ebenfalls weiterhin als Sonderausgaben abgezogen werden,
+wenn die Vertragsumwandlung vor dem 31.12.2007 erfolgte.</lxbase:a><lxbase:a><lxbase:fett>Nach dem 31.12.2007
+geschlossene Wirtschaftsüberlassungsverträge:</lxbase:fett></lxbase:a><lxbase:a>Durch die Änderung des § 10 Abs. 1 Nr. 1a Satz 2 Buchstabe
+b) EStG in der Fassung des JStG 2008 sind Versorgungsleistungen
+nur noch im Zusammenhang mit der Übertragung eines Betriebes als
+Sonderausgaben abzugsfähig. Die Überlassung eines land- und forstwirtschaftlichen
+Betriebes aufgrund eines Wirtschaftsüberlassungsvertrages stellt
+jedoch keine Übertragung im Sinne des § 10 Abs. 1 Nr. 1a Satz 2
+Buchstabe b) EStG dar. Versorgungsleistungen im Zusammenhang mit
+Wirtschaftsüberlassungsverträgen, die <lxbase:fett>nach dem 31.12.2007</lxbase:fett> geschlossen
+werden, sind somit <lxbase:fett>nicht</lxbase:fett> als Sonderausgaben
+abzugsfähig (Rz. 22 des BMF-Schreibens vom 11.03.2010, <lxprod:doknr-verw linkend="HT0435064">BStBl I S. 227</lxprod:doknr-verw>,
+EStG-Kartei NRW § 22 Fach 3 Nr. 5 IV).</lxbase:a><lxbase:a>Unter Hinweis auf Rz. 21 letzter Satz des BMF-Schreibens
+vom 11.03.2010, a.a.O. muss nun ein nach dem 31.12.2007
+abgeschlossener Wirtschaftsüberlassungsvertrag nach den allgemeinen
+Regelungen im Austausch mit einer Gegenleistung beurteilt werden.
+Nach Auffassung des FM NRW können die wiederkehrenden Leistungen grundsätzlich
+Einnahmen aus § 13 EStG und die Versorgungsleistungen Betriebsausgaben
+(Pachtausgaben) darstellen, sofern keine Unterhaltsleistungen vorliegen.</lxbase:a><lxbase:a>Zum Abzug größerer Aufwendungen zur Erhaltung der Gebäude
+durch den Nutzungsberechtigten siehe II.4.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600033">7.8 Anforderungen
+an den Übertragungsvertrag</lxbase:ueberschrift><lxbase:a>Die steuerrechtliche Anerkennung des Übertragungsvertrags
+setzt voraus, dass die gegenseitigen Rechte und Pflichten klar und
+eindeutig sowie rechtswirksam vereinbart und ernsthaft gewollt sind
+und die Leistungen wie vereinbart tatsächlich erbracht werden. Als
+wesentlicher Inhalt des Übertragungsvertrags müssen der Umfang des
+übertragenen Vermögens, die Höhe der Versorgungsleistungen und die Art
+und Weise der Zahlung vereinbart sein (BFH-Urteil vom 15.07.1992, <lxprod:doknr-verw linkend="HT0102321">BStBl 1992 II,
+1020</lxprod:doknr-verw>). Die Vereinbarungen müssen zu Beginn des durch
+den Übertragungsvertrag begründeten Rechtsverhältnisses oder bei
+Änderung dieses Verhältnisses für die Zukunft getroffen werden.
+Änderungen der Versorgungsleistungen sind steuerrechtlich nur anzuerkennen,
+wenn sie durch ein in der Regel langfristig verändertes Versorgungsbedürfnis
+des Berechtigten und/oder die veränderte wirtschaftliche Leistungsfähigkeit
+des Verpflichteten veranlasst sind (BFH-Urteil vom 15.07.1992, <lxprod:doknr-verw linkend="HT0102321">BStBl 1992
+II, 1020</lxprod:doknr-verw>). Werden die auf der Grundlage eines Übertragungsvertrags geschuldeten
+Versorgungsleistungen ohne Änderung der Verhältnisse, also <lxbase:fett>willkürlich</lxbase:fett> nicht
+mehr erbracht, sind sie <lxbase:fett>insgesamt</lxbase:fett> nicht
+mehr als Sonderausgaben abzugsfähig, auch wenn die vereinbarten
+Zahlungen später wieder aufgenommen werden (Rz. 63 des BMF-Schreibens
+vom 11.03.2010, <lxprod:doknr-verw linkend="HT0435064">BStBl I S. 227</lxprod:doknr-verw>,
+EStG-Kartei NRW § 22 Fach 3 Nr. 5 IV). Das gilt auch im Hinblick
+auf den erbrachten Teil der Leistung. Die Zahlungen des Vermögensübernehmers
+können nach Versagung ihrer Anerkennung als Sonderausgaben auch
+nicht als Anschaffungskosten des übergebenen Vermögens behandelt
+werden (vgl. BFH-Urteil vom 19.01.2005, <lxprod:doknr-verw linkend="HT0819831">BStBl 2005 II, 434</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600034">7.9 Anerkennung
+der Aufwendungen von Grabmalkosten</lxbase:ueberschrift><lxbase:a>Hat sich der Vermögensübernehmer eines land- und forstwirtschaftlichen
+Betriebs gegenüber den Vermögensübergebern (Eltern) in einem Altenteilsvertrag
+verpflichtet, die Kosten eines ortsüblichen Grabmals zu tragen,
+so sind die dadurch nach dem Tod des Erstverstorbenen entstandenen
+Aufwendungen als dauernde Last i.S. von § 10 Abs. 1 Nr. 1a EStG
+abziehbar, soweit sie angemessen sind.</lxbase:a><lxbase:a>Der BFH weist in seinem Urteil vom 15.02.2006, <lxprod:doknr-verw linkend="HT5002129">BStBl 2007
+II, 160</lxprod:doknr-verw> darauf hin, dass es sich bei den Kosten
+für die Beerdigung und das Grabmal des Altenteilers nach dem Zivilrecht
+um den Inbegriff typischer Versorgungsleistungen handele. Dabei
+gilt dies ungeachtet dessen, dass diese Aufwendungen naturgemäß
+nicht "wiederkehrend" sind. Die "Bündelung" verschiedenartiger Versorgungsleistungen
+schließt es aus, einen einmalig zu erbringenden Leistungsbestandteil
+isoliert zu betrachten, zumal wenn dieser sich als zeitlich letzter
+in der Reihe unterschiedlich laufender Zuwendungen an den Vermögensübergeber
+darstellt.</lxbase:a><lxbase:a>Hat sich der Vermögensübernehmer gegenüber dem Vermögensübergeber
+verpflichtet, die Kosten einer standesgemäßen Beerdigung zu tragen,
+sind die Bestattungskosten dann nicht als dauernde Lasten i.S. des
+§ 10 Abs. 1 Nr. 1a EStG abziehbar, wenn er <lxbase:fett>Alleinerbe</lxbase:fett> des
+Vermögensübergebers wird. In diesem Fall vereinen sich Forderung
+(Anspruch auf Entlastung von den Beerdigungskosten, die der Erbe
+nach § 1968 BGB zu tragen hat) und Schuld (Verpflichtung aus dem
+Altenteilsvertrag zur Tragung der Beerdigungskosten) in einer Person
+und führen zur Konfusion mit der Folge, dass Forderung und Schuld
+erlöschen und dementsprechend weder der Ansatz von steuerbaren Einkünften
+noch der Abzug von Sonderausgaben in Betracht kommt (vgl. BFH vom
+19.01.2010, <lxprod:doknr-verw linkend="HT0179966">BFH/NV 2010, 1168-1169</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600035">7.10 Begrenzung
+der Versorgungsleistungen auf die erzielten Nettoerträge</lxbase:ueberschrift><lxbase:a>Einigen sich die Vertragsbeteiligten auf ein in Anbetracht
+des gestiegenen Versorgungsbedürfnisses - z. B. wegen des Umzugs
+des Versorgungsberechtigten in ein Pflegeheim - neues Versorgungskonzept,
+sind Zahlungen, die ab diesem Zeitpunkt nicht mehr aus dem Ertrag
+des übergebenen Vermögens erbracht werden können, freiwillige Leistungen
+i.S. des § 12 Nr. 2 EStG (BFH-Urteil vom 13.12.2005, <lxprod:doknr-verw linkend="HT5002085">BStBl II 2008,
+16</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600036">7.11 Arbeitspapier
+zu wiederkehrenden Leistungen im Zusammenhang mit Vermögensübertragungen</lxbase:ueberschrift><lxbase:a>Auf das Arbeitspapier zur "Vermögensübertragung gegen
+wiederkehrende Leistungen" in der Niederschrift zur Informationstagung
+Land- und Forstwirtschaft im Juni 2011 wird hingewiesen.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600037">8. Liebhaberei
+in der Land- und Forstwirtschaft</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523498600038">8.1 Allgemeine
+Grundsätze</lxbase:ueberschrift><lxbase:a>Einkünfte im Sinne des § 13 EStG liegen nur vor, wenn
+eine land- und forstwirtschaftliche Betätigung selbständig und nachhaltig
+sowie mit der Absicht, Gewinne zu erzielen, betrieben wird. Beweisanzeichen
+für das Vorliegen einer Gewinnerzielungsabsicht ist eine Betriebsführung
+nach betriebswirtschaftlichen Grundsätzen, bei der der Betrieb nach
+seiner Wesensart und Art seiner Bewirtschaftung auf die Dauer gesehen
+dazu geeignet und bestimmt ist, mit Gewinn zu arbeiten. Für den
+Bereich der Land- und Forstwirtschaft sind die folgenden Prüfungskriterien
+für die Beurteilung der Gewinnerzielungsabsicht eine wichtige Entscheidungshilfe:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	Art der Tätigkeit</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Persönliche Einschätzung
+der Ertragsaussichten</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Art der Betriebsführung</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Totalgewinnerzielung</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>	Persönliche Gründe oder
+Neigungen zur Führung des Betriebs</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Auf das Arbeitspapier "Liebhaberei in der Land- und Forstwirtschaft"
+wird hingewiesen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600039">8.2 Totalgewinnerzielung</lxbase:ueberschrift><lxbase:a>Unter Totalgewinn ist das Gesamtergebnis des Betriebs
+von der Gründung bis zur Veräußerung oder Aufgabe oder Liquidation
+zu verstehen. Die Totalgewinnperiode bei einem land- und forstwirtschaftlichen
+Betrieb umfasst mehr als nur eine Generation. Dafür sprechen schon
+die in der Land- und Forstwirtschaft üblichen Hofübergabeverträge
+und anderen Gestaltungen zur Vorbereitung der Betriebsübertragung.
+In diesem Sinne geht die Rechtsprechung auch bei land- und forstwirtschaftlichen Betrieben
+von einem längeren objektbezogenen Beurteilungszeitraum aus, der
+sich nach der Art des Betriebes unterscheidet. Allerdings entbindet
+diese objektive Sicht der Totalgewinnperiode nicht von einer Prüfung
+der Gewinnerzielungsabsicht, die notwendigerweise auf den einzelnen
+Steuerpflichtigen bezogen ist (BFH-Urteil vom 24.08.2000, <lxprod:doknr-verw linkend="HT0554758">BStBl 2000
+II, 674</lxprod:doknr-verw>, und vom 25.11.2004, BFH/NV S. 854).</lxbase:a><lxbase:a>Erklärt ein Betriebsnachfolger Verluste aus Land- und
+Forstwirtschaft, ist zu prüfen, ob er den Betrieb nach betriebswirtschaftlichen
+Grundsätzen bewirtschaftet. Wird der Betrieb nicht nach betriebswirtschaftlichen
+Grundsätzen geführt, liegt ein Liebhabereibetrieb nicht erst dann
+vor, wenn die Gewinne vorangegangener Generationen aufgezehrt sind.
+Ein Liebhabereibetrieb ist in diesem Fall bereits ab Beginn der Bewirtschaftung
+durch den Betriebsnachfolger gegeben.</lxbase:a><lxbase:a>Erklärt ein Betriebsnachfolger nach der erfolgten Betriebsübertragung
+Verluste aus Land- und Forstwirtschaft, ist darauf zu achten, dass
+die Festsetzung der Einkommensteuer nach § 165 AO vorläufig hinsichtlich
+der Einkünfte aus Land- und Forstwirtschaft ergeht, weil die Einkünfteerzielungsabsicht
+noch nicht abschließend beurteilt werden kann.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600040">8.3 Feststellung
+der stillen Reserven</lxbase:ueberschrift><lxbase:a>Der Wechsel vom steuerlich relevanten land- und forstwirtschaftlichen
+Betrieb zur steuerlich unbeachtlichen Liebhaberei führt nicht zur
+Betriebsaufgabe; eine Aufdeckung der stillen Reserven erfolgt nicht
+(BFH-Urteil vom 19.10.1981, <lxprod:doknr-verw linkend="HT0069017">BStBl 1982, II 381</lxprod:doknr-verw>).
+Die während des Bestehens des steuerlich relevanten Betriebs der
+Land- und Forstwirtschaft entstandenen stillen Reserven sind festzuschreiben.
+Eine Aufdeckung dieser festgeschriebenen stillen Reserven findet
+erst statt, wenn sie realisiert werden, also wenn das betreffende
+Wirtschaftsgut <lxbase:fett>veräußert oder entnommen</lxbase:fett> wird bzw.
+wenn die Betriebsaufgabe erklärt oder wenn <lxbase:fett>der Betrieb
+veräußert wird</lxbase:fett>. Die Erfassung der während des Bestehens
+eines steuerlich relevanten Betriebs der Land- und Forstwirtschaft
+angesammelten stillen Reserven erfolgt gem. § 8 der Verordnung über
+die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs.
+2 <lxbase:az normform="AO-vom-19/12" manuell="nein">AO vom 19.12</lxbase:az>.1986
+(Verordnung zu § 180 Abs. 2 AO; <lxbase:lit-fs normform="BStBl-1987-I-0002" manuell="nein">BStBl 1987 I, 2</lxbase:lit-fs>; zuletzt
+geändert durch Artikel 4 des Steuerbürokratieabbaugesetzes vom 20.12.2008, <lxbase:lit-fs normform="BGBl-2008-I-2850" manuell="nein">BGBl I S. 2850</lxbase:lit-fs>; <lxprod:doknr-verw linkend="HT0174313">BStBl 2009 I
+S. 124</lxprod:doknr-verw>). Danach ist für jedes Wirtschaftsgut des
+Anlagevermögens der Unterschiedsbetrag zwischen dem gemeinen Wert
+und dem Wert, der sich nach § 4 Abs. 1 EStG oder nach § 5 EStG ergibt,
+gesondert (und bei mehreren Beteiligten einheitlich) festzustellen
+(vgl. H 16 Abs. 2 EStH 2009 "Liebhaberei").</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600041">8.4 Zuständigkeit</lxbase:ueberschrift><lxbase:a>Für die Frage, welches FA für die Steuerfälle zuständig
+ist, in denen die landwirtschaftliche Betätigung als Liebhaberei
+zu beurteilen ist, sind zwei Fallgruppen zu unterscheiden:</lxbase:a><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	Die landwirtschaftliche Betätigung ist nicht ab Beginn,
+sondern erst ab einem späteren Zeitpunkt als Liebhaberei anzusehen.
+Die Verluste sind ab dem Zeitpunkt des Übergangs vom Erwerbs- zum
+Liebhabereibetrieb nicht mehr abzugsfähig.</lxbase:a><lxbase:a>Für die Besteuerung des luf Erwerbsbetriebes ist zunächst
+das Schwerpunkt-FA LuF zuständig. Zum Zeitpunkt des Übergangs zum
+Liebhabereibetrieb führt das Schwerpunkt-FA auch die gesonderte
+Feststellung der stillen Reserven durch, die während des Bestehens
+des steuerlich relevanten landwirtschaftlichen Betriebs entstanden
+sind. Die für die einzelnen Wirtschaftsgüter des Anlagevermögens festgestellten
+stillen Reserven unterliegen erst im Veranlagungszeitraum des Ausscheidens
+des jeweiligen Wirtschaftsguts aus dem Betrieb als nachträgliche
+Einkünfte aus Land- und Forstwirtschaft der Einkommensteuer. Das
+Schwerpunkt-FA überwacht das Ausscheiden der Wirtschaftsgüter und
+bleibt solange für die Besteuerung zuständig, bis alle Wirtschaftsgüter
+ausgeschieden und deren stille Reserven versteuert sind.#</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>	Die landwirtschaftliche Betätigung ist ab Beginn der
+Liebhaberei zuzuordnen. Die Verluste sind von Anfang an nicht abzugsfähig.</lxbase:a><lxbase:a>Da die Frage, ob Liebhaberei vorliegt, meist nicht im
+ersten Veranlagungszeitraum abschließend entscheiden werden kann,
+werden die erklärten Verluste aus Land- und Forstwirtschaft bei
+der Steuerfestsetzung zwar berücksichtigt, die Einkommensteuer wird
+aber nach § 165 AO insoweit vorläufig festgesetzt. In den Folgejahren
+wird entsprechend verfahren, bis die Frage der Liebhaberei abschließend entschieden
+werden kann.</lxbase:a><lxbase:a>Für die Besteuerung des Stpfl., der Verluste aus Land-
+und Forstwirtschaft in seiner ESt-Erklärung geltend macht, ist grundsätzlich
+das Schwerpunkt-FA LuF sachlich zuständig. Die Frage, ob Liebhaberei
+vorliegt oder nicht, kann fachlich qualifiziert ausschließlich das
+Schwerpunkt-FA entscheiden. Führt die abschließende Prüfung zu dem
+Ergebnis führt, dass die landwirtschaftliche Betätigung ab Beginn
+der Liebhaberei zuzuordnen ist und letztendlich keine Einkünfte
+aus Land- und Forstwirtschaft erzielt werden, ist das Schwerpunkt-FA
+für die Änderung der Steuerfestsetzungen, für die Bearbeitung der
+Rechtsbehelfe und weitere Folgearbeiten zuständig.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523498600042">9. Unentgeltliche
+Übertragung land- und forstwirtschaftlicher Betriebe im Zusammenhang
+mit einem Flächenrückbehalt von untergeordneter Bedeutung</lxbase:ueberschrift><lxbase:kapitel><lxbase:a>Behält der Land- und Forstwirt bei der
+unentgeltlichen Übertragung eines land- und forstwirtschaftlichen
+Betriebes Flächen zurück, die im Verhältnis zum übertragenen Betrieb
+einen so geringfügigen Umfang aufweisen, dass dies die Annahme einer unentgeltlichen
+Übertragung nicht gefährdet (weniger als 10 % der landwirtschaftlichen
+Grundstücksflächen - keine funktional wesentliche Betriebsgrundlage),
+so führt dies nicht zur Zwangsentnahme der zurückbehaltenen Flächen,
+wenn diese groß genug sind, als Grundlage eines fortgeführten, verkleinerten
+Betriebes zu dienen (größer als 3.000 qm). Die Flächen stellen für
+sich betrachtet einen eigenen Betrieb dar. Die bisher unwesentlichen
+Flächen werden zu wesentlichen Betriebsgrundlagen. Da die Betriebsverpachtung
+im Ganzen eine Fortsetzung der bisherigen land- und forstwirtschaftlichen
+Tätigkeit auf andere Art und Weise darstellt, liegen für den verkleinerten
+Betrieb auch die einschlägigen Voraussetzungen zur Anwendung des
+Verpächterwahlrechts unabhängig davon vor, ob die Flächen aktiv
+weiter bewirtschaftet, unentgeltlich oder entgeltlich überlassen
+werden, Urteil des BFH vom 24.02.2005, <lxprod:doknr-verw linkend="HT5900783">BFH/NV 2005 S. 1062</lxprod:doknr-verw>.</lxbase:a><lxbase:a>Wird der verkleinerte Betrieb später unentgeltlich übertragen,
+kann der Übernehmer die Buchwerte nach § 6 Abs. 3 EStG fortführen.
+Im Falle der Betriebsveräußerung bzw. Betriebsaufgabe ist der Veräußerungs-/Aufgabegewinn
+nach §§ 14, 16, 34 EStG begünstigt. Werden zurückbehaltene Flächen
+zeitgleich oder innerhalb kurzer Zeit nach der unentgeltlichen Übertragung
+des Betriebes veräußert oder an einen Dritten ebenfalls unentgeltlich
+übertragen, entsteht nach der Gesamtplanrechtsprechung des BFH laufender
+Gewinn, der nicht nach §§ 14, 16, 34 EStG begünstigt ist.</lxbase:a><lxbase:a>Werden Wirtschaftsgüter des gewillkürten Betriebsvermögens
+zurückbehalten, die für sich allein keinen land- und forstwirtschaftlichen
+Betrieb begründen können, entsteht insoweit ein Entnahmegewinn.</lxbase:a><lxbase:a>Auf die Fallbeispiele in der Einkommensteuerveranlagungsverfügung
+der Land- und Forstwirte für den Veranlagungszeitraum 2007 vom 19.11.2008S-2230 - 129 -
+St 23 - 33 wird verwiesen.</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Nordrhein-Westfalen</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

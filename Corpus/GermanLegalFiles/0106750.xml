@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0106750" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Koblenz</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2230 A - St 34 2</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2230</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1993-04-30" /></lxbase:daten><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:4/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:4/3</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:13</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:13a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:13a/4</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:13a/4/1/2</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:13a/8/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:13a/8/3</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:135/4/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:162</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1993" /><lxbase:jahr jahr="1991" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Einkommensbesteuerung der Land- und Forstwirte für
+das Kalenderjahr 1991</lxbase:a></lxbase:headline></lxbase:titel><lxbase:kapitel><lxbase:ueberschrift id="D010675000001">1 Allgemeines</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Für die Einkommensbesteuerung
+der Land- und Forstwirte für das Kalenderjahr 1991 bzw.
+für die Gewinnermittlung des Wirtschaftsjahres <lxbase:az normform="1991/92" manuell="nein">1991/92</lxbase:az> gelten
+die grundlegenden Anordnungen in den Rundverfügungen vom
+18. 4. 1989, vom 4. 4. 1990, 13. 5. 1991 und vom 15. 4. 1992 - <lxbase:az normform="S2230A St342" manuell="nein">S-2230 A
+- St 34 2</lxbase:az> - (ESt-Kartei: Karte 10, 10 a und 10 c zu § 13),
+soweit nachfolgend nicht etwas anderes bestimmt ist.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010675000002">2 Schätzungslandwirte</lxbase:ueberschrift><lxbase:a eingerueckt="nein">2.1 Schätzung des Gewinns nach
+Richtsätzen</lxbase:a><lxbase:a eingerueckt="nein">Bei der Festlegung des Schätzungsausgangsbetrages
+wird - wie bisher - nach nachfolgenden Gebieten unterschieden:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">Gebiet
+I: Rheinpfalz und Rheinhessen (jeweils die Rheinebene), Koblenz-Neuwieder
+Becken, Maifeld sowie Grafschaft</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">Gebiet II: alle übrigen
+Gebiete</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Als Schätzungsausgangsbetrag
+je Hektar landwirtschaftlicher Nutzfläche (LN) sind für
+das Wirtschaftsjahr <lxbase:az normform="1991/92" manuell="nein">1991/92</lxbase:az> anzusetzen:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:colspec colnum="4" colname="4" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="4"><lxbase:a>Schätzungsausgangsbeträge
+je ha/LN</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Gebiet</lxbase:a></cals:entry><cals:entry namest="2" nameend="4" align="center"><lxbase:a>Futterbaufläche
+in v. H. der LN</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>bis 30 v. H.</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>30 - 60 v. H.</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>über 60 v. H.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>DM</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>DM</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>I</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>a) 1.700</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>1.000</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>1.100</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>b) 2.000</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>c) 1.200</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>c) 1.600</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center" /><cals:entry colname="3" align="center"><lxbase:a>d) 1.600</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>d) 1.900</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>II</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>a) 1.300</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>800</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>1.100</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center" /><cals:entry colname="3" align="center"><lxbase:a>c) 1.200</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>c) 1.600</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center" /><cals:entry colname="3" align="center"><lxbase:a>d) 1.600</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>d) 1.900</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry namest="1" nameend="4"><lxbase:a>Zuschlag bei Anbau von Frühkartoffeln
+4.500 DM/ha.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:colspec colnum="4" colname="4" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="4"><lxbase:a>Umsatzrichtwerte je ha/LN</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Gebiet</lxbase:a></cals:entry><cals:entry namest="2" nameend="4" align="center"><lxbase:a>Futterbaufläche
+in v. H. der LN</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>bis 30 v. H.</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>30 - 60 v. H.</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>über 60 v. H.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>DM</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>DM</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>I</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>a) 4.200</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>4.000</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>4.300</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>b) 6.000</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>c) 4.300</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>c) 4.800</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center" /><cals:entry colname="3" align="center"><lxbase:a>d) 4.800</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>d) 5.100</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>II</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>a) 3.400</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>3.400</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>4.700</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center" /><cals:entry colname="3" align="center"><lxbase:a>c) 3.700</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>c) 5.200</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center" /><cals:entry colname="3" align="center"><lxbase:a>d) 4.100</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>d) 5.500</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry namest="1" nameend="4"><lxbase:a>Zuschlag je ha Frühkartoffelanbau
+9.500 DM.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Anmerkungen:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">a)
+bei überwiegend Getreideanbau</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">b) bei überwiegend
+Hackfruchtanbau</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">c) bei Milchviehhaltung unter
+40 v. H. des Rinderbestandes</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">d) bei Milchviehhaltung über
+40 v. H. des Rinderbestandes, bezogen auf den Durchschnittsbestand
+an Rindvieh in Vieheinheiten lt. Zeilen 80 - 86 der Anlage L zur
+ESt-Erklärung.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Wegen des Umfangs der LN und der Futterbaufläche
+verweise ich auf Tz. 3.3.1 und Tz. 3.3.3.4 der o. a. Rundverfügung
+vom 18. 4. 1989.</lxbase:a><lxbase:a eingerueckt="nein">In den Schätzungsausgangsbeträgen
+sind nicht alle Betriebseinnahmen enthalten. Auf die nicht
+abschließende Aufzählung in der o. a. Rundverfügung vom
+18. 4. 1989 Tz. 3.3.3 und Tz. 3.3.7.1 wird hingewiesen; ebenso auf
+die vorgenannte Rundverfügung vom 4. 4. 1990 Tz. 2.1.</lxbase:a><lxbase:a eingerueckt="nein">2.2 Zuschläge für
+nicht mit dem Schätzungsausgangsbetrag abgegoltene Gewinne
+bzw. Mehrgewinne (soweit Änderungen)</lxbase:a><lxbase:a eingerueckt="nein">2.1.1 Wein-, Obst- und Gemüsebau</lxbase:a><lxbase:a eingerueckt="nein">Die Ermittlung des Gewinns aus Weinbau
+bzw. Obst- und Gemüsebau ist entsprechend den Anweisungen
+in den Rundverfügungen vom 2. 9. 1992 - <lxbase:az normform="S2233ASt34 2" manuell="nein">S-2233 A - St 34
+2</lxbase:az> - (ESt-Kartei: Karte 8 b zu § 13) und vom 22. 12. 1992
+- <lxprod:doknr-verw linkend="HT0106381">S-2233 A - St 34 2</lxprod:doknr-verw> - (ESt-Kartei: Karte 9 c zu § 13)
+vorzunehmen.</lxbase:a><lxbase:a eingerueckt="nein">2.2.2 Tabakbau</lxbase:a><lxbase:a eingerueckt="nein">Die Ernteerträge haben sich
+nach den getroffenen Feststellungen im pfälzischen Anbaugebiet
+wie folgt entwickelt (1 dt = 100 kg):</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="7" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="29*" /><cals:colspec colnum="2" colname="2" colwidth="11*" /><cals:colspec colnum="3" colname="3" colwidth="11*" /><cals:colspec colnum="4" colname="4" colwidth="16*" /><cals:colspec colnum="5" colname="5" colwidth="11*" /><cals:colspec colnum="6" colname="6" colwidth="11*" /><cals:colspec colnum="7" colname="7" colwidth="11*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Wirtschaftsjahr</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Anbaufläche ha</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>Ertrag dt</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>Geldwert netto</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>Ernte dt/ha</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>durchschn. Preis DM/dt netto</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>Einnahmen DM/ha netto</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>a) Gesamtanbau</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1989/90" manuell="nein">1989/90</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>1.233</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>28.211</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>21.201.429</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>22,87</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>752</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>17.188</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Rückzahlung der Prämieneinbehalte
+aus Ernte 1988 im Wj. 89/90:</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a>441.993</lxbase:a></cals:entry><cals:entry colname="5" /><cals:entry colname="6"><lxbase:a>15</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>392</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1990/91" manuell="nein">1990/91</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>1.208</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>24.062</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>17.158.118</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>19,91</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>713</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>14.201</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1991/92" manuell="nein">1991/92</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>1.129</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>24.718</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>19.206.165</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>21,89</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>777</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>17.010</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Rückzahlung Prämieneinbehalte
+aus Ernte 1988 im Wj. 91/92:</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a>490.695</lxbase:a></cals:entry><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>b) Anbau von Geudertheimer (Zigarrengut)</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1989/90" manuell="nein">1989/90</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>701</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>16.012</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>10.779.719</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>22,83</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>673</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>15.367</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Rückzahlung der Prämieneinbehalte
+aus Ernte 1988 im Wj. 89/90:</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a>0</lxbase:a></cals:entry><cals:entry colname="5" /><cals:entry colname="6"><lxbase:a>0</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>0</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1990/91" manuell="nein">1990/91</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>706</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>13.885</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>9.298.509</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>19,67</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>670</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>13.172</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1991/92" manuell="nein">1991/92</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>682</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>14.998</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>10.479.719</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>21,98</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>699</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>15.360</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Rückzahlung Prämieneinbehalte
+aus Ernte 1988 im Wj. 91/92:</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a>490.695</lxbase:a></cals:entry><cals:entry colname="5" /><cals:entry colname="6"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>774</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>c) Anbau von Burley (Schneidegut)</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1989/90" manuell="nein">1989/90</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>467</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>11.031</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>9.446.235</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>23,61</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>856</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>20.214</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Rückzahlung der Prämieneinbehalte
+aus</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Ernte 1988 im Wj. 89/90:</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a>403.892</lxbase:a></cals:entry><cals:entry colname="5" /><cals:entry colname="6"><lxbase:a>35</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>914</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1990/91" manuell="nein">1990/91</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>439</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>9.455</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>7.299.379</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>21,56</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>772</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>16.645</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1991/92" manuell="nein">1991/92</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>381</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>8.793</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>7.942.815</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>23,07</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>903</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>20.836</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Rückzahlung Prämieneinbehalte
+aus Ernte 1988 im Wj. 91/92:</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a>0</lxbase:a></cals:entry><cals:entry colname="5" /><cals:entry colname="6"><lxbase:a>0</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>0</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>d) Anbau von Virgin</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /><cals:entry colname="6" /><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1989/90" manuell="nein">1989/90</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>65</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>1.167</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>975.476</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>18,05</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>835</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>15.076</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Rückzahlung Prämieneinbehalte
+aus Ernte 1988 im Wj. 89/90:</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a>37.900</lxbase:a></cals:entry><cals:entry colname="5" /><cals:entry colname="6"><lxbase:a>35</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>729</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1990/91" manuell="nein">1990/91</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>64</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>721</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>560.230</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>11,32</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>776</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>8.788</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:az normform="1991/92" manuell="nein">1991/92</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>66</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>927</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>783.631</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>14,12</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>845</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>11.937</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Rückzahlung Prämieneinbehalte
+aus Ernte 1988 im Wj. 91/92:</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a>0</lxbase:a></cals:entry><cals:entry colname="5" /><cals:entry colname="6"><lxbase:a>0</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>0</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Der Tabakjahrgang 1991 war von überdurchschnittlicher
+Qualität und Quantität.</lxbase:a><lxbase:a eingerueckt="nein">Einbußen entstanden jedoch
+infolge der extremen Trockenperiode, soweit keine Beregnungsmöglichkeiten
+vorhanden waren. Außerdem führten die
+Witterungsverhältnisse bei der Sorte Virgin in Einzelfällen
+zur schubartigen Stickstoffüberversorgung und dadurch zu
+Mengen- und Qualitätseinbußen durch Farbfehler. Auftrocknungsfehler
+waren vereinzelt auch bei den Sorten Burley und Geudertheimer aufgrund
+der niedrigen Luftfeuchtigkeit festzustellen.</lxbase:a><lxbase:a eingerueckt="nein">Hagelschäden wurden in folgenden
+Gemeinden vereinzelt festgestellt: Rheinzabern, Hayna, Steinweiler,
+Schwegenheim und Lingenfeld. Die Einnahmen aus Hagelversicherungsentschädigungen
+sind in der Tabelle (Anlage 2) nicht berücksichtigt.</lxbase:a><lxbase:a eingerueckt="nein">Gesondert ausgewiesen sind in der Anlage
+2 die Rückzahlungen der Prämieneinbehalte der
+Ernte 1988 der Sorte Geudertheimer. Die Rückzahlungen
+dieser Prämieneinbehalte sind ertragsmäßig
+im Wirtschaftsjahr1991/92 zu
+erfassen.</lxbase:a><lxbase:a eingerueckt="nein">Zur Abgeltung der sachlichen Bebauungskosten
+können im Wirtschaftsjahr <lxbase:az normform="1991/92" manuell="nein">1991/92</lxbase:az> - wie in den Vorjahren
+- 9.200,-- DM je Hektar Anbaufläche berücksichtigt
+werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010675000003">3 Gewinne aus Sondernutzungen</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Wegen der Ermittlung der entsprechenden
+Gewinne verweise ich auf die in Tz. 2.2.1 aufgeführten
+Regelungen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010675000004">4 Sonstiges</lxbase:ueberschrift><lxbase:a eingerueckt="nein">4.1 Nichtbeanstandungsgrenzen für
+unbare Altenteilsleistungen</lxbase:a><lxbase:a eingerueckt="nein">Nachfolgend werden die Nichtbeanstandungsgrenzen
+aufgeführt, die nach § 1 Abs. 1 SachbezV in der
+für den jeweiligen Veranlagungszeitraum geltenden Fassung
+ermittelt werden:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="5" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="20*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:colspec colnum="3" colname="3" colwidth="20*" /><cals:colspec colnum="4" colname="4" colwidth="20*" /><cals:colspec colnum="5" colname="5" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" morerows="3" /><cals:entry namest="2" nameend="3" align="center"><lxbase:a>1991</lxbase:a></cals:entry><cals:entry namest="4" nameend="5" align="center"><lxbase:a>1992</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry namest="2" nameend="3" align="center"><lxbase:a>(BStBl 91 I S.
+55)</lxbase:a></cals:entry><cals:entry namest="4" nameend="5" align="center"><lxbase:a>(BStBl 92 I S.
+50)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="2" align="center"><lxbase:a>Verpflegung</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>Heizung und Beleuchtung</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>Verpflegung</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>Heizung und Beleuchtung</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="2" align="center"><lxbase:a>DM</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>DM</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>DM</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einzelperson</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>3.564</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>792</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>3.694</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>821</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Altenteilerehepaar</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>6.415</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>1.426</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>6.649</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>1.478</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Bezüglich der Anwendung der
+Nichtbeanstandungsgrenzen verweise ich auf die o. a. Rdvfg. vom
+13. 5. 1991, Tnr. 4.2.</lxbase:a><lxbase:a eingerueckt="nein">4.2 Abgrenzung des Gewerbebetriebs gegenüber
+der Land- und Forstwirtschaft (Zukauf fremder Erzeugnisse)</lxbase:a><lxbase:a eingerueckt="nein">Die nach Abschnitt 135 Abs. 4 S. 1 EStR
+1990 gegenüber den bisherigen Anweisungen eingeschränkte
+Anwendung des Einkaufswert-Umsatzvergleichs für die Abgrenzung
+des Gewerbebetriebs gegenüber der Land- und Forstwirtschaft
+bei dauerndem und nachhaltigem Zukauf fremder Erzeugnisse gilt ab dem
+Beginn des Wirtschaftsjahres <lxbase:az normform="1991/92" manuell="nein">1991/92</lxbase:az> (siehe die o. a. Rdvfg.
+vom 13. 5. 1991 Tz. 4.5).</lxbase:a><lxbase:a eingerueckt="nein">4.3 Einkommensteuerliche Behandlung
+der Umsatzsteuer aus der Einbringung eines land- und forstwirtschaftlichen
+Betriebs in eine Personengesellschaft bei Gewinnermittlung nach § 13a
+EStG</lxbase:a><lxbase:a eingerueckt="nein">In der o. a. Rdvfg. vom 15. 4. 1992
+wurde zur einkommensteuerlichen Behandlung der Umsatzsteuer aus
+der Einbringung eines land- und forstwirtschaftlichen Betriebs in
+eine Personengesellschaft bei Gewinnermittlung nach § 13a EStG
+Stellung genommen (Tz. 4.3). Die dort aufgezeigten steuerlichen Folgerungen
+ergeben sich auch dann, wenn keine Umsatzsteuer berechnet wurde,
+da die in Rechnung gestellte Umsatzsteuer keine zusätzliche
+zivilrechtliche Forderung darstellt.</lxbase:a><lxbase:a eingerueckt="nein">4.4 Einkommensteuerrechtliche Behandlung
+von Prämien zur endgültigen Aufgabe von Rebflächen
+nach der Verordnung (EWG) Nr. 1442/88 des Rates vom 24. 5.
+1988 (ABl. Nr. L 132 S. 3)</lxbase:a><lxbase:a eingerueckt="nein">Die Rebrodungsprämien sind
+ertragsteuerlich wie folgt zu behandeln:</lxbase:a><lxbase:a eingerueckt="nein">4.4.1 Bei Gewinnermittlung nach § 4
+Abs. 3 EStG</lxbase:a><lxbase:a eingerueckt="nein">Die vereinnahmte Prämie stellt
+im Zeitpunkt des Zuflusses eine Betriebseinnahme dar. Die
+tatsächlich angefallenen Rodungskosten wirken sich als Betriebsausgaben
+aus.</lxbase:a><lxbase:a eingerueckt="nein">4.4.2 Bei Gewinnermittlung nach § 13a
+EStG</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">a)
+Bei Betrieben, deren Vergleichswert für Weinbau vor der
+Rodung zusammen mit den Werten anderer Sondernutzungen i. S. des § 13a
+Abs. 4 Nr. 1 Satz 2 EStG nicht mehr als 2.000,-- DM beträgt,
+ist der Gewinn aus Weinbau durch den Grundbetrag nach § 13a
+Abs. 4 EStG abgegolten.</lxbase:a><lxbase:a eingerueckt="nein">Durch die Nutzungsänderung
+infolge der Rodung erfolgt eine Kürzung des Ausgangswerts
+und damit des Grundbetrags um die Wertdifferenz zwischen der weinbaulichen
+Nutzung und der nachfolgenden Nutzung auf der Rodungsfläche. Damit
+ist die Rodungsprämie als zusätzliche Einnahme
+aus Weinbau anzusehen und als Sondergewinn nach § 13a Abs.
+8 Nr. 3 EStG zu erfassen. Von den Rodungskosten ist nur
+der der Restnutzungsdauer der gerodeten Rebanlage entsprechende
+Teil als Betriebsausgaben abziehbar, weil der andere Teil der Rodungskosten
+bereits im Rahmen der Durchschnittsatzgewinnermittlung mit dem Grundbetrag
+abgegolten ist.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">b) Bei Betrieben, deren Vergleichswert
+für Weinbau und andere Sondernutzungen vor der Rodung über
+2.000,-- DM liegt, wird der Gewinn aus Weinbau regelmäßig
+nach § 13a Abs. 8 EStG im Wege einer Einnahmen-Überschußrechnung
+ermittelt. Bei diesen Betrieben ist die Rodungsprämie
+in voller Höhe im Jahr des Zuflusses als Einnahme aus Weinbau nach § 13a
+Abs. 8 Nr. 1 EStG zu erfassen. Ist der Weinbauvergleichswert
+infolge der Rodung auf 2.000,-- DM oder weniger gesunken, wird die Rodungsprämie
+als Sondergewinn nach § 13a Abs. 8 Nr. 3 EStG erfaßt. Die
+Rodungskosten können in jedem Fall ohne Abzug als Ausgaben
+aus Weinbau abgesetzt werden, da der Gewinn aus Weinbau vor der Rodung
+außerhalb des Grundbetragsbereichs ermittelt wurde.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">4.4.3 Bei Gewinnermittlung nach § 4
+Abs. 1 EStG</lxbase:a><lxbase:a eingerueckt="nein">Die Prämie ist im Wirtschaftsjahr
+ihrer Entstehung als Betriebseinnahme zu erfassen. Die
+Bildung eines passiven Rechnungsabgrenzungspostens ist nicht zulässig.</lxbase:a><lxbase:a eingerueckt="nein">(mitgeteilt mit FM-Erlassen vom 21.
+8. 1991 und vom 27. 1. 1993 - <lxprod:doknr-verw linkend="HT0106808">S-2233 A - 442</lxprod:doknr-verw> -)</lxbase:a><lxbase:a eingerueckt="nein">4.5 Teilwertabschreibung des landwirtschaftlich
+genutzten Grund und Bodens buchführender Land- und Forstwirte</lxbase:a><lxbase:a eingerueckt="nein">4.5.1 Wahlrecht</lxbase:a><lxbase:a eingerueckt="nein">Für den Ansatz von Teilwerten
+land- und forstwirtschaftlicher Grundstücke gilt das eingeschränkte
+Niederstwertprinzip (Niederschrift zur ESt-Gruppenbesprechung vom
+22. 8. 1991 - <lxbase:az normform="S2319ASt311" manuell="nein">S-2319 A - St 31 1</lxbase:az> - Abschnitt II Ziff. 22). Der Steuerpflichtige
+hat somit in jedem Wirtschaftsjahr ein Wahlrecht, den wertgeminderten
+Grund und Boden weiterhin mit den Anschaffungskosten, dem niedrigeren
+Teilwert oder einem Zwischenwert zu bewerten.</lxbase:a><lxbase:a eingerueckt="nein">4.5.2 Gewinnermittlung</lxbase:a><lxbase:a eingerueckt="nein">Bei der Vollschätzung des Gewinns
+nach § 162 AO ist eine Teilwertabschreibung auf den Grund
+und Boden nicht zulässig, weil das Bilanzierungswahlrecht nur
+in einer aufgestellten Handelsbilanz oder Steuerbilanz wirksam ausgeübt werden
+kann (BFH vom 24. 1. 1990, 
+<lxprod:doknr-verw linkend="HT0094687">BStBl II S. 426</lxprod:doknr-verw>). Demzufolge
+kommt eine solche Abschreibung auch in den Fällen einer
+Schätzung nach den Grundsätzen des Betriebsvermögensvergleichs
+und der Aufnahme des Grund und Bodens in ein gesondertes Verzeichnis
+ebensowenig in Betracht wie bei Gewinnermittlung nach § 4
+Abs. 3 und § 13a EStG.</lxbase:a><lxbase:a eingerueckt="nein">4.5.3 Wirtschaftsgut</lxbase:a><lxbase:a eingerueckt="nein">Jedes im Grundbuch eingetragene mit
+eigener Flurstücks-Nr. versehene Grundstück stellt
+ein selbständiges Wirtschaftsgut dar (BFH vom 29. 9. 1971, 
+<lxprod:doknr-verw linkend="HT0001270">BStBl II 1972
+S. 13</lxprod:doknr-verw>), sofern nicht ausnahmsweise die Eigenschaft als
+selbständiges Wirtschaftsgut verlorengeht (BFH vom 6. 12.
+1978, 
+<lxprod:doknr-verw linkend="HT0048009">BStBl
+II 1979 S. 259</lxprod:doknr-verw>).</lxbase:a><lxbase:a eingerueckt="nein">4.5.4 Nachweis</lxbase:a><lxbase:a eingerueckt="nein">Begehrt der Steuerpflichtige den Ansatz
+des niedrigeren Teilwerts für seinen betrieblichen Grund
+und Boden, so trägt er hierfür die objektive Beweislast. Die
+allgemeine Bezugnahme auf Kaufpreissammlungen, das gesunkene Preisniveau
+für landwirtschaftliche Nutzflächen einer bestimmten
+Region oder die wirtschaftliche Gesamtsituation in der Landwirtschaft
+rechtfertigt allein nicht die Anerkennung der beanspruchten Teilwertabschreibung,
+weil dies kein Nachweis für den im Einzelfall maßgebenden
+Teilwert des Grund und Bodens darstellt (Niederschrift über
+die Gruppenbesprechung vom 22. 8. 1991, Abschnitt II Ziff. 22). Vielmehr
+muß die Teilwertabschreibung durch aussagefähige
+- auf das einzelne Wirtschaftsgut bezogene und die Gesamtumstände
+des Einzelfalls berücksichtigende - Unterlagen begründet
+werden. Die vom Gutachterausschuß im Katasteramt
+ermittelten Richtwerte können lediglich einen Anhaltspunkt
+bei der Wertfindung bieten.</lxbase:a><lxbase:a eingerueckt="nein">Bei der Führung eines Nachweises über
+die Höhe des Teilwerts durch ein Gutachten des Gutachterausschusses
+oder eines Sachverständigen, sind die besonderen Eigenschaften
+des Grundstücks hierbei zu berücksichtigen. Es bestehen
+keine Bedenken, den für ein Flurstück durch Gutachten
+nachgewiesenen Wert auch als Grundlage für die Teilwertbemessung
+weiterer Grundstücksflächen des Steuerpflichtigen
+heranzuziehen, soweit der Beweis erbracht wird, daß diese
+Flächen mit dem gutachtlich bewerteten Grundstück
+vergleichbar sind.</lxbase:a><lxbase:a eingerueckt="nein">Erfolgt der Nachweis für den
+Teilwert durch Benennung eines Vergleichsverkaufs, muß anhand
+der wertbeeinflussenden Faktoren überprüft werden,
+ob hiernach tatsächlich eine Vergleichbarkeit gegeben ist. Die
+Umstände der Preisfindung bei der Veräußerung
+des Vergleichsobjekts sind - sofern bekannt - ebenfalls zu beachten.</lxbase:a><lxbase:a eingerueckt="nein">In Fällen mit beachtenswerter
+steuerlicher Auswirkung ist der Amtliche Landwirtschaftliche Sachverständige
+in die Prüfung einzubeziehen. Auch wenn der Steuerpflichtige
+entsprechend den vorstehenden Grundsätzen seiner Nachweispflicht
+für die angestrebte Teilwertabschreibung ausreichend nachgekommen
+ist. In Fällen der begehrten Teilwertabschreibung
+mit weinbaulicher Nutzung ist unter den o. g. Voraussetzungen das
+Fachreferat der OFD (St 46) einzuschalten.</lxbase:a><lxbase:a eingerueckt="nein">Insbesondere bei einem sehr kurzen Zeitraum
+zwischen Kauf der Fläche und begehrter Teilwertabschreibung
+ist zu prüfen, ob die sogenannte Teilwertvermutung (= Anschaffungskosten)
+einer Minderung des Buchwertes im beantragten Umfang entgegensteht,
+selbst wenn die angebotenen Beweise zunächst schlüssig
+erscheinen.</lxbase:a><lxbase:a eingerueckt="nein">4.5.5 Wertbildung</lxbase:a><lxbase:a eingerueckt="nein">Wertbildende Faktoren landwirtschaftlich
+genutzter Grundstücke sind beispielsweise</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Bodengüte</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Nutzungsart</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Flächengröße</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Lage zum Betrieb und zur Ortsgemeinde</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>aus der Lage sich ergebende Wirtschaftsbeeinträchtigungen
+(z. B. Hanglage)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>auf dem Grundstück ruhende Lasten
+(z. B. Wegerecht)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>mit dem Grundstück verbundenes
+Eigenjagdrecht.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Selbständige immaterielle Wirtschaftsgüter
+(beispielsweise Milchquoten oder Zuckerrübenlieferrechte)
+bleiben bei der Ermittlung des Teilwerts des Grund und Bodens unberücksichtigt. Pachtverträge über
+landwirtschaftlich genutzte Flächen zu marktüblichen
+Bedingungen sind grundsätzlich ebenfalls keine wertbildenden
+Umstände.</lxbase:a><lxbase:a eingerueckt="nein">4.6 Forstwirtschaft</lxbase:a><lxbase:a eingerueckt="nein">Aufgrund besonderer Veranlassung möchte
+ich erneut auf die Beachtung der in den o. a. Rdvfg. vom 18. 4.
+1989 Tz. 5.6 und vom 13. 5. 1991 Tz. 4.6 dargelegten Grundsätze
+aufmerksam machen. Insbesondere darauf, daß in
+jedem Einzelfall unmittelbar nach Bekanntwerden eines Veräußerungstatbestandes und
+vor Durchführung der entsprechenden Veranlagung ggf. unter
+Beifügung der Steuerakten sowie der Einheitswertakten der
+Oberfinanzdirektion zu berichten ist. Dies gilt grundsätzlich
+auch, wenn der Veräußerungserlös (einschl.
+des aufstehenden Holzes) für die Waldparzelle den Buchwert
+des Grund und Bodens nicht übersteigt. Bei einer
+solchen Veräußerung von bestocktem Grund und Boden,
+für den der Ausgangsbetrag von 2,-- DM/qm (§ 55
+Abs. 1 i. V. mit Abs. 2 Ziff. 2 EStG) gilt, ergibt sich üblicherweise
+ein - nach § 55 Abs. 6 EStG nicht abzugsfähiger
+- Verlust aus der Veräußerung des Grund und Bodens
+(der Wert des Grund und Bodens mit forstwirtschaftlicher Nutzung übersteigt
+in Rheinland-Pfalz nur ausnahmsweise 0,50 DM/qm) und hinsichtlich
+des aufstehenden Holzes ein - steuerpflichtiger - Gewinn.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Verfahrensrecht/Abgabenordnung</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Rheinland-Pfalz</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:branchen><lxbase:branche>Landwirtschaft</lxbase:branche></lxbase:branchen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

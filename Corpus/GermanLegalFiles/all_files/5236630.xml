@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dok-nummer="5236630" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Frankfurt
+am Main</lxbase:institution></lxbase:autor><lxbase:aktenzeichen> S-2225 A - 009 - St 213</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2225</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2018-05-08" ts="nein" /></lxbase:daten><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:10d</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>KStG:8c</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:181/5</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:350</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:351/2</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2018" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Feststellung des verbleibenden Verlustvortrags
+</lxbase:a></lxbase:headline><lxbase:byline><lxbase:a>Verfahrensfragen</lxbase:a></lxbase:byline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000001"><lxbase:a>I. Antragstellung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000009"><lxbase:a>1 Antragstellung vor dem 14.12.2010</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000010"><lxbase:a>2 Antragstellung nach dem 13.12.2010</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000002"><lxbase:a>II. Verlustkompensation durch bereits festsetzungsverjährte
+Einkommensteuerveranlagungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000003"><lxbase:a>III. Verhältnis zwischen Einkommensteuerbescheid und Verlustfeststellungsbescheid</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000011"><lxbase:a>1 Antragstellung vor dem 14.12.2010</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000012"><lxbase:a>2 Antragstellung nach dem 13.12.2010</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000004"><lxbase:a>IV. Anfechtbarkeit von Verlustfeststellungsbescheiden</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000013"><lxbase:a>1 Antragstellung vor dem 14.12.2010</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000014"><lxbase:a>2 Antragstellung nach dem 13.12.2010</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000005"><lxbase:a>V. Verjährung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000015"><lxbase:a>1 Antragstellung vor dem 14.12.2010</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000016"><lxbase:a>2 Antragstellung nach dem 13.12.2010</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000006"><lxbase:a>VI. Begründung von Ablehnungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000007"><lxbase:a>VII. Verlustrücktrag</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523663000008"><lxbase:a>VIII. Anwendbarkeit auf Körperschaftsteuerfälle</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D523663000001">I. Antragstellung</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523663000009">1 Antragstellung
+vor dem 14.12.2010</lxbase:ueberschrift><lxbase:a>	Eine formlose Antragstellung auf Durchführung der Verlustfeststellung
+ist nicht möglich. Vielmehr ist die Verlustfeststellungserklärung
+auf amtlichem Vordruck abzugeben (§ 181 Abs. 1 AO i.V.m. § 150 Abs.
+1 AO und § 51 Abs. 4 Nr. 1 Buchstabe c EStG).</lxbase:a><lxbase:a>	Wird der Antrag ohne gleichzeitige Abgabe einer Einkommensteuererklärung
+gestellt, ist ihm eine Aufstellung über die Zusammensetzung des
+geltend gemachten Verlustes beizufügen, die einzelnen Positionen
+sind nachzuweisen oder glaubhaft zu machen. Wie das im Einzelnen
+zu geschehen hat, hängt von den Umständen des Einzelfalles ab.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523663000010">2 Antragstellung
+nach dem 13.12.2010</lxbase:ueberschrift><lxbase:a>	Auch hier ist der amtliche Erklärungsvordruck zu verwenden.
+Wegen der Bezugnahme auf die Einkommensteuerfestsetzung sind dabei
+die beiden Kästchen "Einkommensteuererklärung" und "Erklärung zur
+Feststellung des verbleibenden Verlustvortrags" -anzukreuzen.</lxbase:a><lxbase:a>	Fehlt das Kreuz bei "Einkommensteuererklärung", bitte
+ich aus Praktikabilitätsgründen davon auszugehen, dass die Einkommensteuererklärung
+ebenfalls gemeint war, wenn die Umstände des Einzelfalls diesen
+Schluss zulassen, z.B., aufgrund vorangegangenen Schriftverkehrs,
+wenn der Steuerpflichtige nicht beraten ist, die Erklärung bis zum
+Ende ausgefüllt wurde.</lxbase:a><lxbase:a>	Wurde dagegen die Erklärung durch einen Angehörige der
+steuerberatenden Berufe erstellt, dem die Verfahrensvorschriften
+bekannt sind, oder fehlen Angaben zu Sonderausgaben, außergewöhnlichen
+Belastungen etc., macht dies Rückfragen erforderlich. Nur wenn ausnahmsweise
+keine Klärung herbeigeführt werden kann, ist die Verlustfeststellung
+wegen fehlender Einkommensteuererklärung abzulehnen.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523663000002">II. Verlustkompensation
+durch bereits festsetzungsverjährte Einkommensteuerveranlagungen</lxbase:ueberschrift><lxbase:a>	Ein verbleibender Verlustvortrag kann lt. BFH-Urteil
+vom 29.06.2011 (<lxprod:doknr-verw linkend="HT0928218">BStBl II 2011, 963</lxprod:doknr-verw>) nach
+Ablauf der Feststellungsfrist nicht mehr nach § 181 Abs. 5 Satz
+1 AO gesondert festgestellt werden, wenn der Steuerpflichtige in
+den bereits festsetzungsverjährten Veranlagungszeiträumen, in die
+der Verlust nach § 10d Abs. 2 EStG hätte vorgetragen werden müssen,
+über zur Verlustkompensation ausreichende Gesamtbeträge der Einkünfte
+verfügt.</lxbase:a><lxbase:a>	Sofern die Gesamtbeträge der Einkünfte nur zur teilweisen
+Verlustkompensation ausreichen, tritt für die bereits verjährten
+Vortragsjahre ein Verlustverbrauch ein, ohne dass es zur Änderung
+der Einkommensteuerbescheide kommt. Zum jeweiligen Jahresende ist dann
+ein Verlustfeststellungsbescheid zu erlassen, der den Verlustverbrauch
+dokumentiert und den verbleibenden vortragsfähigen Verlust ausweist.
+Erst ab dem nächsten, noch nicht festsetzungsverjährten Veranlagungszeitraum,
+ist der dann noch verbliebende vortragsfähige Verlust ggf. abzugsfähig.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523663000003">III. Verhältnis zwischen
+Einkommensteuerbescheid und Verlustfeststellungsbescheid</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523663000011">1 Antragstellung
+vor dem 14.12.2010</lxbase:ueberschrift><lxbase:a>	Es besteht keine Bindungswirkung zwischen dem Einkommensteuerbescheid
+für das Verlustentstehungsjahr und dem Verlustfeststellungsbescheid.</lxbase:a><lxbase:a>	Mit Urteil vom 17.09.2008 (<lxprod:doknr-verw linkend="HT0588704">BStBl II 2009, 897</lxprod:doknr-verw>)
+hat der BFH entschieden, dass ein verbleibender Verlustvortrag auch
+dann erstmals gemäß § 10d Abs. 4 Satz 1 EStG gesondert festzustellen
+ist, wenn der Einkommensteuerbescheid für das Verlustentstehungsjahr bestandskräftig
+ist, darin aber keine nicht ausgeglichenen negativen Einkünfte berücksichtigt
+worden sind.</lxbase:a><lxbase:a>	Die Möglichkeit des Erlasses eines Verlustfeststellungsbescheides
+ist damit nicht von der verfahrensrechtlichen Änderungsmöglichkeit
+der Steuerfestsetzung im Verlustentstehungsjahr abhängig.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523663000012">2 Antragstellung
+nach dem 13.12.2010</lxbase:ueberschrift><lxbase:a>Nach der Neufassung des § 10d Abs. 4 Satz 4 EStG sind
+bei der Feststellung des verbleibenden Verlustvortrags die Besteuerungsgrundlagen
+so zu berücksichtigen, wie sie den Steuerfestsetzungen des Veranlagungszeitraums,
+auf dessen Schluss der verbleibende Verlustvortrag festgestellt
+wird, und des Veranlagungszeitraums, in dem ein Verlustrücktrag
+vorgenommen werden kann, zu Grunde gelegt worden sind. Eine entsprechende Anwendung
+der Regelungen in § 171 Abs. 10 AO (Ablaufhemmung), § 175 Abs. 1
+Nr. 1 AO (Änderung von Folgebescheiden) sowie § 351 Abs. 2 AO und
+§ 42 FGO (Anfechtung von Folgebescheiden) lässt der jeweiligen Steuerfestsetzung
+eine inhaltliche Bindungswirkung für die Verlustfeststellung zukommen,
+ohne jedoch verfahrensrechtlich ein Grundlagenbescheid im Sinne
+des § 182 AO zu sein.</lxbase:a><lxbase:a>§ 10d Abs. 4 Satz 5 EStG lässt eine Ausnahme von der Bindungswirkung
+der Steuerfestsetzung für die Verlustfeststellung nur für den Fall
+zu, dass die Aufhebung, Änderung oder Berichtigung der Steuerfestsetzung
+ausschließlich mangels Auswirkung auf die Höhe der festzusetzenden
+Steuer unterbleibt.</lxbase:a><lxbase:a>Ist der Einkommensteuerbescheid des Verlustentstehungsjahres
+bestandskräftig geworden und auch nicht nach den Vorschriften der
+AO änderbar, kann einem später gestellten Antrag auf Verlustfeststellung
+für einen nicht bei der Einkommensteuerveranlagung berücksichtigten
+Verlust nicht entsprochen werden. Dies gilt nach dem Urteil des
+FG Baden-Württemberg vom 17.01.2017 - <lxprod:doknr-verw linkend="HT5020065">11 K 1669/13</lxprod:doknr-verw> - auch dann,
+wenn der Verlust bereits vor der Gesetzesänderung entstanden ist.</lxbase:a><lxbase:a>Mit Gerichtsbescheid vom 11.10.2017 - <lxprod:doknr-verw linkend="HT0951345">IX R 15/17</lxprod:doknr-verw>
+- hat der BFH diese Rechtsauffassung bestätigt. Mit der Regelung
+des § 10d Abs. 4 Satz 4 EStG i.d.F. des JStG 2010 werde eine inhaltliche
+Bindung des Verlustfeststellungsbescheides an den Einkommensteuerbescheid
+erreicht, obwohl der Einkommensteuerbescheid kein Grundlagenbescheid
+sei. Daraus folge, dass im Feststellungsverfahren des verbleibenden
+Verlustvortrags die Einkünfte nicht eigenständig zu ermitteln seien.
+Werde der Einkommensteuerbescheid bestandskräftig und berücksichtige
+er keinen Verlust, komme eine Verlustfeststellung nur noch in Betracht,
+wenn und soweit der Steuerbescheid des Verlustentstehungsjahres nach
+den Vorschriften der AO änderbar sei.</lxbase:a><lxbase:a>Zudem sei die Regelung in § 52 Abs. 25 Satz 5 i.d.F. des
+JStG 2010, nach der § 10d Abs. 4 Sätze 4 und 5 EStG auf alle nach
+dem 13.12.2010 abgegebenen Erklärungen zur Feststellung des verbleibenden
+Verlustvortrags anzuwenden ist, von Verfassungswegen nicht zu beanstanden.
+Sie überschreite nicht die Grenzen einer verfassungsrechtlich zulässigen Rückwirkung.</lxbase:a><lxbase:a>Die bisher nach § 363 Abs. 2 Satz 2 AO ruhend gestellten
+Einspruchsverfahren bitte ich im Sinne des Gerichtsbescheids vom
+11.10.2017 zu erledigen.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523663000004">IV. Anfechtbarkeit von
+Verlustfeststellungsbescheiden</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523663000013">1 Antragstellung
+vor dem 14.12.2010</lxbase:ueberschrift><lxbase:a>Da die Einkommensteuerbescheide für das Verlustentstehungsjahr
+und ein evtl. Rücktragsjahr keine Bindungswirkung für den Verlustfeststellungsbescheid
+entfalten, ist der Verlustfeststellungsbescheid auch hinsichtlich
+der Höhe des festgestellten Verlustes selbständig anfechtbar.</lxbase:a><lxbase:a>Beläuft sich die festgesetzte Einkommensteuer auf 0,-€,
+ist ein Einspruch dagegen mangels Beschwer nach § 350 AO unzulässig.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523663000014">2 Antragstellung
+nach dem 13.12.2010</lxbase:ueberschrift><lxbase:a>Einsprüche gegen Verlustfeststellungsbescheide, mit denen
+eine geänderte Feststellung des verbleibenden Verlustvortags der
+Höhe nach beantragt wird, sind nach § 351 Abs. 2 AO i.V.m. § 10d
+Abs. 4 Satz 4 EStG unbegründet (s. AEAO zu § 351, Nr. 4). Hier muss
+die zugrunde liegende Einkommensteuerfestsetzung angefochten werden.
+Zu den Besonderheiten in Körperschaftsteuerfällen siehe ergänzend
+Rz. 28.</lxbase:a><lxbase:a>Dies gilt trotz fehlender Beschwer nach § 350 AO auch
+dann, wenn die Steuerfestsetzung auf 0,- € lautet, da der Einspruch
+gegen die Steuerfestsetzung die Änderungsmöglichkeit nach § 10d
+Abs. 4 Satz 5 EStG für die Verlustfeststellung eröffnet (s. AEAO
+zu § 350 AO, Nr. 3b). Ist der zugrunde liegende Einkommensteuerbescheid
+allerdings vorläufig nach § 165 AO ergangen und wurde keine Aussetzung
+der Vollziehung beantragt, fehlt es am Rechtsschutzbedürfnis und
+Einsprüche sind aus diesem Grund unzulässig. Eine Anfechtung ist
+in diesen Fällen auch nicht erforderlich.</lxbase:a><lxbase:a>Unterbleibt eine Verlustfeststellung, obwohl die Besteuerungsgrundlagen
+in zutreffender Höhe im Steuerbescheid erfasst wurden, ist zunächst
+ein Antrag auf Erlass eines Verlustfeststellungsbescheides zu stellen
+und ggf. gegen dessen Ablehnung im Einspruchswege vorzugehen.</lxbase:a><lxbase:a>Begehrt der Steuerpflichtige den erstmaligen oder geänderten
+Verlustrücktrag, ist ein Einspruch gegen den Verlustfeststellungsbescheid
+zulässig.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523663000005">V. Verjährung</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523663000015">1 Antragstellung
+vor dem 14.12.2010</lxbase:ueberschrift><lxbase:a>Nach dem BFH-Urteil vom 10.07.2008 (<lxprod:doknr-verw linkend="HT0588683">BStBl II 2009,
+816</lxprod:doknr-verw>) ist § 10d Abs. 4 Satz 6 EStG i.d.F. des JStG
+2007 bei Eintritt der Feststellungsverjährung - ohne Berücksichtigung
+der Wirkung des § 181 Abs. 5 AO - vor dem Inkrafttreten des JStG
+2007 nicht anwendbar und eine erstmalige Verlustfeststellung auch
+dann noch - zeitlich unbegrenzt - möglich, wenn die Einkommensteuerveranlagung
+für das Verlustentstehungsjahr nicht durchgeführt wurde oder wegen
+Ablaufs der Festsetzungsfrist (beachte Rdvfg. vom 28.03.2012 - <lxprod:doknr-verw linkend="HT5233964">S 2270 A - 11 -
+St 216</lxprod:doknr-verw>, ofix: EStG/46/2) bzw. Ablaufs der Antragsfrist
+gem. § 46 Abs. 2 Nr. 8 EStG a.F. nicht mehr durchgeführt werden
+kann. § 181 Abs. 5 AO bleibt weiterhin uneingeschränkt anwendbar.</lxbase:a><lxbase:a>	Hinsichtlich der Frage, ob die (reguläre) Feststellungsfrist
+für den verbleibenden Verlustvortrag bei Inkrafttreten des JStG
+2007 bereits abgelaufen war, ist die Anlaufhemmung nach § 170 Abs.
+2 Satz 1 Nr. 1 AO sinngemäß zu berücksichtigen (§ 181 Abs. 1 Satz
+1 AO). D.h., die Festsetzungsfrist beginnt mit Ablauf des Kalenderjahres,
+in dem die Feststellungserklärung eingereicht worden ist, spätestens
+jedoch mit Ablauf des dritten Kalenderjahres, das dem Kalenderjahr
+folgt, auf dessen Schluss der Verlustabzug verbleibt.</lxbase:a><lxbase:a>Sofern § 181 Abs. 5 AO zur Anwendung kommt, bitte ich,
+den Erläuterungstext 742 ("Dieser Feststellungsbescheid ist nach
+Ablauf der Feststellungsfrist ergangen; er ist nur für solche Steuerfestsetzungen
+(Folgebescheide) bedeutsam, bei denen die Festsetzungsfrist noch
+nicht abgelaufen ist (§ 181 Abs. 5 AO)") zu verwenden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523663000016">2 Antragstellung
+nach dem 13.12.2010</lxbase:ueberschrift><lxbase:a>Für die Berechnung der Feststellungsfrist gilt Tz. 21
+entsprechend. Nach § 10d Abs. 4 Satz 6 EStG endet sie nicht, bevor
+die Festsetzungsfrist für den Veranlagungszeitraum abgelaufen ist,
+auf dessen Schluss der verbleibende Verlustvortrag gesondert festzustellen
+ist; § 181 Abs. 5 AO, wonach die Feststellung auch nach Eintritt
+der Verjährung noch möglich ist, wenn sie für eine Steuerfestsetzung
+von Bedeutung ist, deren Festsetzungsfrist noch nicht abgelaufen
+ist, kommt nur zur Anwendung, wenn das Finanzamt die Feststellung des
+Verlustvortrags pflichtwidrig unterlassen hat.</lxbase:a><lxbase:a>Sofern erst jetzt entsprechende Verluste nachträglich
+geltend gemacht werden, liegt kein pflichtwidriges Unterlassen des
+Finanzamtes vor und § 181 Abs. 5 AO kommt nicht zur Anwendung. Die
+zur Frage, ob in der Nichtanwendbarkeit des § 181 Abs. 5 EStG eine
+verfassungsrechtlich unzulässige Rückwirkung besteht, eingelegte
+Verfassungsbeschwerde (<lxprod:doknr-verw linkend="HT0951109">Az. 1 BvR 2582/16</lxprod:doknr-verw>) hat
+das BVerfG mit Beschluss vom 29.03.2018 nicht zur Entscheidung angenommen.
+Diesbezügliche, bisher ruhend gestellte Einspruchsverfahren bitte
+ich im Sinne dieses Beschlusses zu erledigen.</lxbase:a><lxbase:a>Der BFH hat mit Urteil vom 13.01.2015 entschieden, dass
+für nicht feststellungsverjährte Jahre ein Verlustfeststellungsbescheid
+auch dann noch ergehen kann, wenn für das Verlustentstehungsjahr
+kein Einkommensteuerbescheid existiert und auch nicht mehr erlassen
+werden kann, weil bereits Festsetzungsverjährung eingetreten ist.
+Das Urteil ist im <lxprod:doknr-verw linkend="HT0934750">BStBl II 2015, 829</lxprod:doknr-verw>
+veröffentlicht und auf alle offenen Fälle anzuwenden.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523663000006">VI. Begründung von Ablehnungen</lxbase:ueberschrift><lxbase:a>Sollten nach den vorstehenden Grundsätzen Anträge auf
+Verlustfeststellungen abgelehnt werden müssen, bitte ich, diese
+Ablehnungen vorrangig mit den verfahrensrechtlichen Argumenten zu
+begründen und erst nachrangig auf materiell-rechtliche Gründe und
+ggf. Verfahrensruhe (z.B. im Zusammenhang mit § 12 Nr. 5 EStG) einzugehen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523663000007">VII. Verlustrücktrag</lxbase:ueberschrift><lxbase:a>Über die Höhe des zurückzutragenden Verlustes wird nach
+wie vor im Rücktragsjahr entschieden. Die Neufassung des § 10d Abs.
+4 Sätze 4 und 5 EStG hat keine Auswirkungen auf das Verfahren.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523663000008">VIII. Anwendbarkeit auf
+Körperschaftsteuerfälle</lxbase:ueberschrift><lxbase:a>Die in dieser Rundverfügung enthaltenen Anweisungen sind
+grundsätzlich auch bei Körperschaftsteuerfällen anzuwenden (Verweis
+auf Vorschriften des EStG gem. § 8 Abs. 1 Satz 1 KStG und R 8.1
+Abs. 1 Nr. 1 KStR 2015).</lxbase:a><lxbase:a>In Fällen des § 8c KStG bitte ich ergänzend zu Rz. 16
+ff. Folgendes zu beachten:</lxbase:a><lxbase:a>Findet § 8c KStG Anwendung, dürfen die noch nicht abgezogenen
+oder ausgeglichenen Verluste quotal (§ 8c Abs. 1 Satz 1 KStG) oder
+vollumfänglich (§ 8c Abs. 1 Satz 2 KStG) nicht (mehr) weiter genutzt
+werden. Über die weitere Nutzung der Verluste ist zum Ende des Veranlagungszeitraums
+zu entscheiden, in dem das schädliche Ereignis eingetreten ist.</lxbase:a><lxbase:a>Die Feststellung über die steuerliche Berücksichtigungsfähigkeit
+wirkt sich für den "laufenden" Verlust (bis zum schädlichen Ereignis)
+und für einen Verlustabzug nach § 10d EStG bei einem ausreichen
+hohen positiven Gesamtbetrag der Einkünfte im Körperschaftsteuerbescheid
+aus, der wiederum Bindungswirkung auf den Verlustfeststellungsbescheid
+zum 31.12. diese Jahres hat. Soweit der Gesamtbetrag der Einkünfte
+so gering ist, dass es auf einen Verlustabzug nach § 10d EStG nicht
+ankommt ("Nullfestsetzung der Körperschaftsteuer"), wird die Entscheidung
+zu § 8c KStG im Verlustfeststellungsbescheid zum 31.12. des Jahres
+des schädlichen Erwerbs getroffen.</lxbase:a><lxbase:a>Fraglich ist, ob in Fällen der "Nullfestsetzung der Körperschaftsteuer"
+der Körperschaftsteuerbescheid und/oder der Verlustfeststellungsbescheid
+anzufechten sind. Hierzu bitte ich folgende Auffassung zu vertreten:</lxbase:a><lxbase:a>Eine Beschwer kann in Fällen der Verlustkürzung nach §
+8c KStG sowohl im Körperschaftsteuer- als auch im Verlustfeststellungsbescheid
+ausgelöst werden.</lxbase:a><lxbase:a>In seinem Urteil vom 22.11.2016, <lxprod:doknr-verw linkend="HT0950395">BStBl II 2017,
+921</lxprod:doknr-verw> erkennt der BFH eine zur Anfechtung berechtigende
+Beschwer bei "Nullfestsetzung der Körperschaftsteuer" aus der in
+§ 10d Abs. 4 Satz 4 EStG resultierenden "Quasi-Grundlagenbescheidswirkung"
+des Steuerbescheids ausdrücklich an. Allerdings ist durch die alleinige
+Anfechtung des Körperschaftsteuerbescheides der Rechtsschutz der
+Körperschaft nicht in jeder Hinsicht sichergestellt.</lxbase:a><lxbase:a>Auf der Grundlage von § 10d Abs. 4 Satz 4 EStG kann zwar
+eine inhaltlich verbindliche Regelung auch im Falle einer "Nullfestsetzung"
+vorliegen, diese macht den Rechtsbehelf gegen den Verlustfeststellungsbescheid
+aber nicht zwangsläufig unzulässig bzw. unbegründet. Denn die Regelungswirkung
+des § 8c KStG bezieht sich auch auf den zum vorherigen Stichtag
+festgestellten verbleibenden Verlustvortrag, der dann, wenn im Jahr
+des schädlichen Beteiligungserwerbs ein negativer Gesamtbetrag der
+Einkünfte erzielt wird, nicht Gegenstand der Ermittlung des zu versteuernden
+Einkommens im Rahmen der Steuerfestsetzung ist. Insoweit wird eine
+verbindliche Entscheidung über die Kürzung des zum 31.12. des Vorjahres
+festgestellten verbleibenden Verlustvortrags bei der Ermittlung des
+zum 31.12. dieses Jahres festzustellenden Verlustvortrags erst im
+Feststellungsbescheid getroffen.</lxbase:a><lxbase:a>Die vorgenannten Ausführungen gelten entsprechend bei
+Anwendung des § 8d KStG und des § 10a Satz 10 GewStG.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Körperschaftsteuer</lxbase:rthema><lxbase:rthema>Verfahrensrecht/Abgabenordnung</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

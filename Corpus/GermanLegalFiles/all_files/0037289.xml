@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0037289" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Koblenz</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2233 A - St 34 2</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2233</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1977-11-29" /></lxbase:daten><lxbase:redakt><lxbase:a>Von der Aufnahme der Anlagen wurde abgesehen.</lxbase:a></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:4/3</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:7</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:13a/6/1</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1976" /><lxbase:jahr jahr="1977" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Einkommensteuer der nichtbuchführenden Landwirte;</lxbase:a><lxbase:a>hier: Ermittlung des Gewinns aus Weinbau für das Wirtschaftsjahr
+<lxbase:az normform="1976/77" manuell="nein">1976/77</lxbase:az></lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D003728900001"><lxbase:a>1. Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D003728900002"><lxbase:a>2. Bebauungskosten-Pauschsätze</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D003728900003"><lxbase:a>3. Erhöhte
+AfA wegen Reblausverseuchung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D003728900004"><lxbase:a>4. Lohnaufwendungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D003728900005"><lxbase:a>5. Zuschüsse
+der EG zum Wiederaufbau von Rebflächen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D003728900001">1. Allgemeines</lxbase:ueberschrift><lxbase:a>Für die Einkommensteuerveranlagung der nichtbuchführenden
+Winzer einschließlich der Inhaber von gemischten Betrieben
+(Weinbau und Landwirtschaft) für das Kalenderjahr 1976
+bzw. für die Gewinnermittlung des Wirtschaftsjahres <lxbase:az normform="1976/77" manuell="nein">1976/77</lxbase:az>
+gelten die grundlegenden Anordnungen in der Rundverfügung
+vom 24. 11. 1975 - <lxbase:az normform="S2233 ASt322" manuell="nein">S-2233
+A - St 32 2</lxbase:az> -, soweit nicht in den nachfolgenden Ziffern 2
+bis 5 etwas anderes bestimmt ist. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D003728900002">2. Bebauungskosten-Pauschsätze</lxbase:ueberschrift><lxbase:a>Zur Abgeltung der sachlichen Bebauungskosten der nichtbuchführenden
+Winzer für das Wirtschaftsjahr <lxbase:az normform="1976/77" manuell="nein">1976/77</lxbase:az> habe ich
+die in der Anlage 1 für die verschiedenen Anbaugebiete
+aufgeführten Rahmensätze der sachlichen Kosten
+je Hektar festgesetzt. Hierzu ist noch folgendes zu bemerken: </lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Der Kürzungsbetrag
+in Höhe von 500 DM / ha bei Vollablieferung der
+Trauben und Maische an Dritte soll unverändert bleiben,
+ebenso die Durchschnittswerte der erforderlichen Vollarbeitskräfte
+(VAK) je ha. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Die Pauschbeträge zur Abgeltung
+der sachlichen Bebauungskosten sind entsprechend der Größe
+der Erhebungsbetriebe auf die Verhältnisse von kleineren
+nichtbuchführenden Betrieben abgestellt. Da bei größeren
+Betrieben in der Regel eine günstigere Ausnutzung von Maschinen
+und Anlagen möglich ist, sind die Pauschbeträge
+insoweit um 20 % zu kürzen, als die bewirtschaftete
+Weinbaufläche 6,0 ha übersteigt. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>Bei Schädlingsbekämpfung
+durch Hubschrauber sind zur Abgeltung der sachlichen Mehrkosten
+je Hubschrauberspritzung 100 DM / ha neben den allgemeinen
+Pauschbeträgen abzugsfähig. Dabei sind die Zahl
+der Hubschrauberspritzungen und die jeweils beflogene Fläche
+im Wj. 1976/77 durch Bescheinigungen der Raiffeisenkassen,
+Gemeinden oder anderer zuständiger Stellen nachzuweisen. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d."><lxbase:a>Die sachlichen Kosten für die
+Nachrüstung von Altschleppern mit Umsturzvorrichtungen
+sind gegen Einzelnachweis neben den allgemeinen Pauschbeträgen
+in voller Höhe im Jahr der Verausgabung zu berücksichtigen.
+Dabei müssen jedoch etwaige Zuschüsse der landwirtschaftlichen
+Berufsgenossenschaft angerechnet werden (die landw. Berufsgenossenschaft
+Rheinhessen-Pfalz in Speyer zahlt z. B. auf Antrag je Fall 150 bis
+250 DM). </lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Die Bebauungskosten-Rahmensätze entsprechen den Aufwendungen
+aller in der jeweiligen Bebauungskostengruppe zusammengefaßten
+Gemeinden, und zwar sowohl der Gemeinden mit dem höchsten
+Bebauungskostenaufwand als auch der Gemeinden, deren Kosten den
+untersten Rahmen nicht überschreiten. Die Rahmensätze
+sind in der Weise anzuwenden, daß die Finanzämter
+nach sorgfältiger und sachverständiger Prüfung
+- ggf. im Benehmen mit den landwirtschaftlichen Betriebsprüfern,
+die die Erhebungen in den einzelnen Gemeinden durchgeführt
+haben - für jede einzelne zur Bebauungskostengruppe gehörende
+Gemeinde den entsprechenden Pauschsatz bestimmen, der innerhalb des
+Rahmensatzes dem Bebauungskostenaufwand dieser Gemeinde am besten gerecht
+wird. Dabei erscheint es zur Vermeidung von Unzuträglichkeiten
+geboten, daß wegen der Festlegung der Pauschbeträge
+für benachbarte Weinbaugemeinden mit nicht wesentlich abweichender
+Kostenstruktur in verschiedenen Finanzamtsbezirken diese Nachbar-Finanzämter
+sich zusätzlich rechtzeitig untereinander abstimmen. Sind
+auf diese Weise die Bebauungskosten für die einzelnen Gemeinden
+angeglichen und festgesetzt, so bitte ich, berufsständische
+Vertreter als amtliche Sachverständige (etwa 2 bis 3 Vertreter)
+zu den beabsichtigten Festsetzungen zu hören, ohne daß der
+Finanzverwaltung hierdurch Kosten entstehen. Sofern diese Vertreter
+des Weinbaues ihre Zustimmung nicht geben, obwohl nach der betrieblichen
+Struktur und den tatsächlichen Verhältnissen,
+insbesondere nach den festgestellten Bebauungskosten, für
+die in Betracht kommenden Weinbaugemeinde ein höherer als
+der vorgesehene Pauschsatz nicht gerechtfertigt ist, hat das Finanzamt
+den Bebauungskosten-Pauschsatz für diese Gemeinde selbst
+festzusetzen. Die Festsetzung der Pauschsätze ist listenmäßig
+mit folgender Kopfleiste vorzunehmen: </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="50*" /><cals:colspec colnum="2" colname="2" colwidth="50*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Weinbaugemeinde</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>sachliche Kosten DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Der auf diese Weise festgesetzte Bebauungskosten-Pauschsatz ist
+für die Veranlagung aller Winzer (mit Gewinnermittlung
+nach § 13a Abs. 6 Ziff. 1 EStG bzw. nach § 4 Abs.
+3 EStG) in der betreffenden Weinbaugemeinde maßgebend. </lxbase:a><lxbase:a>Ich bitte, mir die für die einzelnen Gemeinden oder
+Gruppen von Gemeinden festgesetzten Bebauungskosten-Pauschsätze
+bis zum 30. 12. 1977 mitzuteilen. Soweit statt der bisherigen Rahmensätze
+nur noch ein einheitlicher Pauschbetrag festgesetzt worden ist,
+kann von einer entsprechenden Berichtsvorlage abgesehen werden. </lxbase:a><lxbase:a>Durch die Pauschsätze sind alle sachlichen Kosten der
+Bewirtschaftung einschließlich der AfA auf das abnutzbare
+Anlagevermögen und auf die Rebanlagen, des Erhaltungs-
+und Instandsetzungsaufwands und des Rebstockersatzes sowie der Kelterungs-
+und Kellerkosten (sachliche Kosten des Kellergebäudes und
+der Lagerfässer bzw. Lagertanks) abgegolten, mit Ausnahme: </lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>der Zuckerungskosten,
+Ausbaukosten und der Vertriebskosten, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>der Beiträge für die
+Versicherung der Reben gegen Hagelschaden, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>der Umlegungskosten von Weinbergsgelände
+im Rahmen der Flurbereinigung, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d."><lxbase:a>der auf das Weinbauvermögen entfallenden
+Pachtzinsen, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e."><lxbase:a>der Beiträge für den
+Neubau von Weinbergswegen, die aufgrund einer amtlichen Beitragssatzung,
+die den Vorschriften des Kommunalabgabengesetzes entspricht, erhoben
+werden, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="f."><lxbase:a>der Aufwendungen für eigene Anlagen
+zur Frostbekämpfung nach Maßgabe des § 7
+EStG und der Beiträge an Boden- und Wasserverbände,
+die für die Beregnung von Weinbergsgelände erhoben
+werden, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="g."><lxbase:a>der Schuldzinsen einschließlich
+der auf die HGA entfallenden Zinsen, soweit sie das Weinbauvermögen
+betreffen, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="h."><lxbase:a>der Umsatzsteuerbeträge (Zahllast)
+nach dem UStG, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="i."><lxbase:a>der Mitgliedsbeiträge an Erzeugergemeinschaften
+nach dem Gesetz zur Anpassung der landwirtschaftlichen Erzeugung
+an die Erfordernisse des Marktes (Marktstrukturgesetz). </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="j."><lxbase:a>des Pauschsatzes für erhöhte
+AfA wegen Reblausverseuchung nach Maßgabe der nachstehenden
+Ziffer 3. </lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Die unter den Buchstaben a bis j aufgeführten Ausgaben
+sind über den Pauschsatz zur Abgeltung der sachlichen Kosten
+hinaus in der in der "Anlage Weinbau" zur Einkommensteuererklärung
+nachgewiesenen Höhe neben dem Bebauungskosten-Pauschsatz
+abzugsfähig. </lxbase:a><lxbase:a>Die durch den Abstich und das Abfüllen usw. entstehenden
+sachlichen Kosten z. B. für Flaschen, Korken, Etiketten
+und Fracht sind ebenfalls in der nachgewiesenen Höhe neben
+den Pauschsätzen für die sachlichen Kosten abzugsfähig. Zur
+Abgeltung der auf den Ausbau und die Abfüllung entfallenden
+anteiligen im einzelnen nicht nachweisbaren Kosten (für
+Strom, Wasser, Reinigung u. ä.) ist außerdem ein
+besonderer Pauschbetrag, den das einzelne Finanzamt für
+seinen Bezirk einheitlich festzulegen hat, zu berücksichtigen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D003728900003">3. Erhöhte
+AfA wegen Reblausverseuchung</lxbase:ueberschrift><lxbase:a>In Gemeinden, in deren Gebiet erstmals Reblausverseuchung festgestellt
+wird, tritt allgemein eine Verkürzung der Nutzungsdauer
+auch der nichtbefallenen, wurzelechten und damit reblausanfälligen
+Rebanlagen ein. Zum Ausgleich hierfür können nichtbuchführende
+Winzer in den betroffenen Weinbaugemeinden, gleichgültig
+ob sie stark oder schwach verseucht sind, als außerordentliche erhöhte
+AfA einen Pauschbetrag von 300 DM je Hektar wurzelechter Rebanlagen
+neben dem allgemeinen Pauschbetrag für sachliche Kosten
+abziehen. Dabei wird von einer durchschnittlichen Restnutzungsdauer
+dieser Rebflächen von 12 Jahren ausgegangen. Die erhöhte
+AfA kommt daher für höchstens 12 Wirtschaftsjahre
+ab dem Jahr der amtlichen Anerkennung als reblausverseuchte Gemeinde
+in Betracht. Wird vor Ablauf dieser 12 Jahre in einer Gemeinde Wiederverseuchung
+festgestellt, so beginnt ein neuer Zwölfjahreszeitraum,
+in dem für alle nichtbuchführenden Winzer der
+Pauschbetrag wegen erhöhter AfA für wurzelechte
+Rebanlagen zu berücksichtigen ist. </lxbase:a><lxbase:a>In der Anlage 2 sind die Gemeinden zusammengestellt, bei denen
+wegen Erst- bzw. Wiederverseuchung der Zwölfjahreszeitraum
+noch läuft. Ferner enthält sie das Jahr der zuletzt
+festgestellten Verseuchung sowie das Wirtschaftsjahr, für das
+letztmals der Pauschbetrag wegen erhöhter AfA zulässig
+ist. </lxbase:a><lxbase:a>Die erhöhte AfA kommt nicht in Betracht für
+folgende Teilflächen der gesamten Rebanlage: </lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>für die wegen
+des Befalls mit Reblaus ausgehauenen Flächen, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>für die mit reblausresistenten
+Propfreben bepflanzten Flächen und </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>Für die nach dem Aushauen der
+wurzelechten Reben brachliegenden Flächen. </lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Gemeinden mit einer Wiederverseuchung nach Ablauf von 12 Jahren
+nach der Erstverseuchung sind nicht in der Anlage 2 enthalten. Soweit
+in einer Gemeinde eine erneute Verseuchung nach Ablauf des Zwölfjahreszeitraums der
+Erst- bzw. Wiederverseuchung festgestellt wird, können
+nicht mehr alle Winzer der jeweiligen Gemeinde, sondern nur noch
+die Winzer, deren Rebanlagen befallen sind, für die verbleibenden
+wurzelechten Rebflächen die erhöhte AfA in Anspruch
+nehmen. Voraussetzung ist jedoch, daß der betreffende Winzer
+den Bescheid des Reblauskommissars vorlegt, aus dem sich ergibt,
+wann und bei welchen Parzellen der Befall mit Reblaus festgestellt
+wurde. Im übrigen sind die bei der Erstverseuchung geltenden
+Grundsätze entsprechend anzuwenden. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D003728900004">4. Lohnaufwendungen</lxbase:ueberschrift><lxbase:a>Wegen der Berücksichtigung geltend gemachter Lohnaufwendungen
+als Betriebsausgaben verweise ich auf die Ausführungen
+unter Ziffer 4 der Rundverfügung vom 12. 11. 1976 - <lxprod:doknr-verw linkend="HT0030565">S-2233 A - St 32 2</lxprod:doknr-verw>. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D003728900005">5. Zuschüsse
+der EG zum Wiederaufbau von Rebflächen</lxbase:ueberschrift><lxbase:a>Die steuerliche Behandlung von Zuschüssen der EG zum
+planmäßigen Wiederaufbau von Rebflächen
+nach Flurbereinigungen ist durch Rundverfügung vom 30.
+9. 1977 - <lxbase:az normform="S2232A St342" manuell="nein">S-2232 A
+- St 34 2</lxbase:az> näher geregelt. </lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Rheinland-Pfalz</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:branchen><lxbase:branche>Landwirtschaft</lxbase:branche></lxbase:branchen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

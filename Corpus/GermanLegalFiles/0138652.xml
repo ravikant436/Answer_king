@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dok-nummer="0138652" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Saarbrücken</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2354 - 14 - St 222</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2354</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>St 422 - S-2354 - 1/97</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2354 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2354 |</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Recht" id="08" /><lxbase:lizenz2 name="LOHN" id="42" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1997-07-11" /><lxbase:datum normdat="1997-05-07" ts="ja" /><lxbase:datum normdat="1997-07-17" ts="ja" /></lxbase:daten><lxbase:redakt><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="10*" /><cals:colspec colnum="2" colname="2" colwidth="90*" /><cals:tbody><cals:row rowsep="1"><cals:entry nameend="2" namest="1"><lxbase:a><lxbase:fett>Bibliographie
+der inhaltlich entsprechenden Verwaltungsanweisungen: </lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Berlin</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Berlin St 422 - S-2354 -
+1/97 vom 07/05/97 <lxbase:za />EStK § 9 EStG Fach 9 Nr. 1002/I <lxbase:za />OFD
+Berlin St 422 - S-2354 - 1/97 vom 17/07/97 EStK § 9 EStG Fach 9
+Nr. 1002/III</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:9</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7/1/5</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:9/1/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:9/1/3/7</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:12/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:19</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1997" /></lxbase:jahre><lxbase:zitate><lxbase:alt-zitate><lxbase:alt-zitat>OFD Berlin <lxprod:doknr-verw linkend="HT0555853">St 422 - S-2354 - 1/97</lxprod:doknr-verw>
+v. 6. 6. 1997 EStK § 9 EStG Fach 9 Nr. 1002/II</lxbase:alt-zitat></lxbase:alt-zitate><lxbase:passiv-zitate><lxbase:lit-zitat>Bartone <lxprod:doknr-verw linkend="HT0569098">Inf 2000 747</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Bartone <lxprod:doknr-verw linkend="HT0569098">Inf 2000 747</lxprod:doknr-verw></lxbase:lit-zitat></lxbase:passiv-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Aufwendungen für Computer, Peripheriegeräte
+und Software als Werbungskosten <lxbase:za />   Verfügungen vom
+24. 1. 1986, 30. 8. 1988 und 8. 11. 1988, Az.: w. o.</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200001"><lxbase:a>I. Allgemeines:</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200002"><lxbase:a>II. Abgrenzungsmerkmale:</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200003"><lxbase:a>A. Hardware</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200004"><lxbase:a>1. Tragbare Computer (sog. Laptops, Notebooks, Palmtops)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200005"><lxbase:a>2. Nicht mobile Geräte</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200006"><lxbase:a>2.1 Standort des Computers</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200007"><lxbase:a>2.2 Höhe der Anschaffungskosten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200008"><lxbase:a>2.3 Zentraleinheit</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200009"><lxbase:a>2.4 Kapazität des Arbeitsspeichers (RAM)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200010"><lxbase:a>2.5 Laufwerke</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200011"><lxbase:a>2.6 Monitor</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200012"><lxbase:a>2.7 Drucker</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200013"><lxbase:a>3. Kompatibilität mit den Computern des Arbeitgebers</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200014"><lxbase:a>4. Multimedia-Ausstattung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200015"><lxbase:a>5. Online-Dienste</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200016"><lxbase:a>B. Software</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200017"><lxbase:a>C. Sonstige Abgrenzungsmerkmale</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200018"><lxbase:a>III. Steuerliche Würdigung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200019"><lxbase:a>IV. Nutzungsdauer von Computern und Software</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013865200020"><lxbase:a>V. Computer-Fragebogen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:a eingerueckt="nein">In den obigen Bezugsverfügungen sind
+Regelungen zur steuerlichen Abzugsfähigkeit von Aufwendungen für
+Computer als Werbungskosten getroffen worden. Die zunehmende Verbreitung
+von Computern, die Veränderungen am Markt und die bisherige Rechtsprechung
+haben nunmehr die Überarbeitung der Bezugsverfügungen und deren Anpassung
+an die heutigen Verhältnisse erforderlich gemacht.</lxbase:a><lxbase:a eingerueckt="nein">Die Bezugsverfügungen werden hiermit
+aufgehoben und durch die nachfolgenden Weisungen ersetzt:</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D013865200001">I. Allgemeines:</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Aufwendungen für die Anschaffung
+von Computern und Peripheriegeräten stellen grundsätzlich Kosten
+für gemischt genutzte Wirtschaftsgüter dar. Die Anschaffungskosten
+können regelmäßig nicht einfach und nach objektiven Maßstäben leicht
+nachprüfbar in einen beruflichen und privaten Teil aufgeteilt werden.
+Die Kosten können steuerlich deshalb nur berücksichtigt werden,
+wenn der Arbeitnehmer nachweist oder glaubhaft macht, daß er die
+Geräte so gut wie ausschließlich beruflich nutzt. Dazu müssen die
+steuerlichen Forderungen aus äußeren, objektiv feststellbaren Umständen
+abgeleitet werden, weil sich der Umfang der tatsächlichen privaten
+und beruflichen Nutzung eines Computers und der Peripheriegeräte
+regelmäßig weder unmittelbar und zeitnah noch einfach ermitteln
+läßt. Um ein unvertretbares Eindringen in die Privatsphäre des Arbeitnehmers zu
+vermeiden, müssen die Kriterien einer so gut wie ausschließlichen
+beruflichen Nutzung typisierend geprüft werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200002">II. Abgrenzungsmerkmale:</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Schlußfolgerungen zur beruflichen
+und privaten Nutzung lassen sich in erster Linie aus den technischen
+Gegebenheiten der erworbenen Computeranlage ziehen. Bezüglich der technischen
+Ausstattung sind nachfolgend Merkmale zusammengestellt worden, die
+der Abgrenzung zwischen Privat- und Berufsphäre dienen können. Hierbei
+handelt es sich jedoch lediglich um Indizien, die einzelfallorientiert
+zu werten sind:</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D013865200003">A. Hardware</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D013865200004">1. Tragbare
+Computer (sog. Laptops, Notebooks, Palmtops)</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Tragbare Computer beinhalten in einem
+Gehäuse mindestens die Zentraleinheit (CPU), die Tastatur, ein oder
+mehrere Speicherlaufwerke sowie ein Display (Bildschirm). Darüber hinaus
+können weitere Ausstattungsmerkmale, wie z. B. ein (PCMCIA-)Modem,
+ein CD-ROM-Laufwerk, eine Soundkarte oder ein multimediageeigneter
+Prozessor (CPU mit sog. MMX-technologie), vorhanden sein. Da diese
+Computer jedoch bauartbedingt - bei gleicher Leistungsfähigkeit
+- deutlich teurer als nicht mobile Geräte sind, ist in der Regel davon
+auszugehen, daß diese Mehrkosten nur dann getragen werden, wenn
+sie der Beruf erfordert. Legt der Steuerpflichtige die (fast) ausschließliche
+berufliche Verwendung des tragbaren Computers schlüssig dar, bestehen
+deshalb keine Bedenken, die Anschaffungskosten verteilt über die
+Nutzungsdauer als Werbungskosten anzuerkennen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200005">2. Nicht
+mobile Geräte</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D013865200006">2.1 Standort
+des Computers</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Steht der Computer am Arbeitsplatz
+des Steuerpflichtigen bei seinem Arbeitgeber, ist regelmäßig der
+Arbeitsmittelcharakter zu bejahen; denn der Arbeitgeber wird eine
+private Nutzung des Computers während der Arbeitszeit kaum dulden
+und außerhalb der Arbeitszeit wird eine private Nutzung kaum vorkommen.
+Einen weiteren Anhaltspunkt für den Arbeitsmittelcharakter des Computers
+kann auch dessen Standort im häuslichen Arbeitszimmer bieten. Unterhält
+der Steuerpflichtige jedoch kein Arbeitszimmer, so ergibt sich im
+Umkehrschluß hieraus jedoch nicht, daß dem Computer in der Wohnung des
+Steuerpflichtigen die berufliche Veranlassung fehlt.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200007">2.2 Höhe
+der Anschaffungskosten</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die Höhe der Anschaffungskosten für
+Computer und Peripheriegeräte ist angesichts des sich seit Jahren
+fortsetzenden erheblichen Preisverfalls in diesem Markt kein geeignetes Kriterium
+zur Abgrenzung der tatsächlichen Nutzung dieser Geräte.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200008">2.3 Zentraleinheit</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die Leistungsfähigkeit eines Computers,
+d. h. die Schnelligkeit, mit der Daten verarbeitet und ausgegeben
+werden, wird in erster Linie durch die in ihm verwendete Zentraleinheit (CPU)
+und die in Megahertz (MHz) angegebene Taktfrequenz derselben bestimmt.
+Im Bereich der Personalcomputer (PC) haben sich durch die CPU-Typenbezeichnungen
+des marktführenden Herstellers INTEL folgende Leistungsklassen ergeben:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a eingerueckt="ja">286 Anwendung bei einfacheren Datenverarbeitungen
+(z. B. Textverarbeitung unter dem Betriebssystem DOS). Nicht mehr
+im Handel erhältlich*! Aktuelle Software i. d. R. nicht mehr lauffähig.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a eingerueckt="ja">386 Anwendung
+bei einfacher Datenverarbeitung (z. B. Textverarbeitung, Tabellenkalkulation,
+Datenbanken unter MS-WINDOWS). Nicht mehr im Handel*! Aktuelle Software
+i. d. R. nicht mehr sinnvoll einsetzbar.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a eingerueckt="ja">486 CPU
+mit Taktfrequenzen zwischen 25 und 133 MHz. Anwendung bei komplexerer Datenverarbeitung
+(Textverarbeitung, Tabellenkalkulation, Datenbanken, (bedingt) Bildbearbeitung,
+Programmentwicklungen). Zum Einsatz von Betriebssystemen mit grafischer
+Benutzeroberfläche (insbesondere Microsoft-WINDOWS 3.1) geeignet.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a eingerueckt="ja">Pentium
+/ MMX</lxbase:a><lxbase:a eingerueckt="ja">Derzeitige "Standard-CPU" bei neu angeschafften
+Computern - Taktfrequenz bis über 200 MHz. Deutlich leistungsfähiger
+als ihre Vorgänger. Seit 1997 mit "MMX"-Technologie ausgestattet.
+Der Zusatz MMX bezeichnet die sog. "Multimedia Extension", d. h. der
+Befehlssatz der herkömmlichen Pentium-CPU wurde erweitert und ermöglicht
+so eine schnellere Verarbeitung, insbesondere von speziell für die
+MMX-Technologie programmierter multimedialer Anwendung (z. B. Präsentationen,
+Grafiken, Videos, Spiele). Betriebssystemgeeignet insbesondere für
+Microsoft-Windows 95 aber auch für Windows NT oder IBM OS/2.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a eingerueckt="ja">Pentium
+Pro / Pentium II</lxbase:a><lxbase:a eingerueckt="ja">Leistungsfähigste CPU des Herstellers
+INTEL - Taktfrequenz bis zu 300 MHz; insbesondere für den Einsatz
+echter 32-bit-Betriebssysteme (Windows NT, IBM OS/2) und entsprechender
+(teurer) 32-bit-Software geeignet.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Weitgehend in Abhängigkeit der Leistungsfähigkeit
+der CPU bestimmt sich auch der Preis der damit ausgerüsteten Personalcomputer,
+wobei jedoch zu beachten ist, daß vermehrt Noname- oder Discount-Anbieter
+auch leistungsfähige Computer preiswert anbieten.</lxbase:a><lxbase:a eingerueckt="nein">Neben den als Personalcomputer (PC)
+bezeichneten Computern gibt es Hersteller weiterer Computersysteme,
+die jedoch nicht ohne weiteres zum PC-Standard kompatibel sind. In
+erster Linie ist hier die Fa. Apple Computer zu nennen, die ihre
+Computer unter Verwendung von CPU der Fa. "Motorola" herstellt.
+Der Befehlssatz dieser Zentraleinheiten ist grundsätzlich nicht
+kompatibel zu dem herkömmlicher PCs. Jedoch sind inzwischen auch hier
+die Grenzen der Systemkompatibilität fließend. Mit der Modellreihe
+"Power-PC" der Fa. Apple wird auf Wunsch das sog. "Soft-Windows"
+geliefert, eine Computersoftware also, die den Einsatz von Windows-Applikationen,
+die für einen IBM-kompatiblen PC geschrieben wurden, auch auf diesen
+APPLE-Computern möglich macht. Darüber hinaus ist eine ergänzende
+Steckkarte angekündigt, die - mit einem Pentium-Prozessor bestückt -
+für eine volle Systemkompatibilität zu den "herkömmlichen" PCs sorgen
+soll.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200009">2.4 Kapazität
+des Arbeitsspeichers (RAM)</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Ebenso wie die verwendete CPU spielt
+auch die Größe des Arbeitsspeichers im Computer eine wichtige Rolle
+für dessen Leistungsfähigkeit. Je größer der Arbeitsspeicher, desto mehr
+Daten kann der Computer - ohne zeitaufwendige Zwischenspeicherung
+auf der Festplatte - verarbeiten. Eine geringe Speicherkapazität
+des Arbeitsspeichers eines Computers von bis zu vier Megabyte (MB)
+läßt Zweifel an der beruflichen Veranlassung angebracht erscheinen.
+Der Einsatz von berufsspezifischer Software, insbesondere unter Verwendung
+eines Betriebssystems mit grafischer Benutzeroberfläche (z. B. Windows
+95, OS/2 u. ä.), erfordert regelmäßig eine größere Speicherkapazität
+(mind. 8 MG, besser 16/32 MB).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200010">2.5 Laufwerke</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die permanente Speicherung von Computerdaten
+erfolgt heutzutage regelmäßig auf 3,5-Zoll-Disketten- oder Festplattenlaufwerken.
+Deren Verwendung läßt mithin grundsätzlich keine steuerlich relevanten
+Schlußfolgerungen zu. Lediglich eine hohe Speicherkapazität der
+Festplatte ab etwa 5 Gigabyte (GB) spricht schon wegen der erhöhten Anschaffungskosten
+für eine berufliche Veranlassung der Aufwendungen. Zur Sicherung größerer
+Datenmengen werden darüber hinaus immer häufiger sog. Streamer (=
+spezielle Magnetbandspeichergeräte) bzw. andere Laufwerkstechnologien
+(z. B. ZIP-Drive, a: Drive, magnetoptische Laufwerke) mit hoher
+Speicherkapazität verwendet. Da die Sicherung von Daten i. d. R.
+nur dann sinnvoll ist, wenn die Daten nicht auf andere Weise, z.
+B. durch erneute Installation der vorhandenen Software, leicht wiederhergestellt
+werden können, ist das Vorhandensein eines solchen Laufwerks ein
+Indiz für die berufliche Verwendung des Computers, wenn diese Peripheriegeräte
+zur Speicherung der erarbeiteten beruflichen Daten verwendet werden.</lxbase:a><lxbase:a eingerueckt="nein">Im Unterschied zu den vorgenannten
+Laufwerken vermag ein sog. CD-ROM-Laufwerk lediglich Daten von fertig
+produzierten Daten-CD zu lesen. Bei entsprechender hardware- und
+/ oder softwaremäßiger Ausstattung des Computers (z. B. Sound-Karte,
+MPEG-Karte bzw. Software-MPEG etc.) ist das CD-ROM-Laufwerk auch
+für alle Anwendungen geeignet, für die im Bereich der Unterhaltungselektronik
+eine CD Anwendung findet, z. B. CD-Player, Foto-CD-Wiedergabe, Video-CD.
+Das CD-ROM-Laufwerk ist somit häufig auch Voraussetzung für sog.
+Multimedia-Anwendungen, d. h. Anwendungen, die auf die gleichzeitige
+Verarbeitung von Ton, Bild und Daten zielen. Zwar ist auch im Bereich
+der Multimedia-Anwendungen die private Verwendung eines entsprechend
+ausgerüsteten Computers denkbar (z. B. Abspielen spezieller Video-CDs,
+interaktive Spiele- und Lernprogramme usw.), jedoch darf ohne konkrete
+Anhaltspunkte nicht grundsätzlich unterstellt werden, der Steuerpflichtige
+nutze den Computer entsprechend. Das Vorhandensein eines CD-ROM-Laufwerks
+ist mithin für sich allein nicht geeignet, eine für die Anerkennung
+als Werbungskosten schädliche private Mitbenutzung zu unterstellen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200011">2.6 Monitor</lxbase:ueberschrift><lxbase:a eingerueckt="nein">An Computern lassen sich zur Bildschirmausgabe
+der Daten lediglich spezielle Computer-Monitore anschließen. Diese
+Monitore werden über eine gesonderte Schnittstelle mit dem Computer
+verbunden. Aufgrund des auf diesem Gebiet eingetretenen erheblichen Preisverfalls
+und der immer zunehmenden Verbreitung sog. grafischer Benutzeroberflächen,
+wie z. B. Windows, OS/2 u. ä., ist der Einsatz von Farbmonitoren
+inzwischen Standard, eine gegen die berufliche Veranlassung sprechende
+Computernutzung kann hieraus nicht geschlußfolgert werden. Handelt
+es sich bei dem angeschafften Computermonitor jedoch um ein hochwertiges
+Gerät (ab etwa 2.000,-- DM), ist bereits der vergleichsweise hohe
+Anschaffungspreis ein Indiz für die berufliche Veranlassung der Aufwendungen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200012">2.7 Drucker</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Auch im Bereich der Drucker sind
+die Anschaffungskosten kein geeignetes Abgrenzungskriterium für
+die berufliche Nutzung. So sind z. B. Tintenstrahldrucker mit hochwertigem Ausdruck
+heute schon für weniger als 500 DM am Markt erhältlich. Allein die
+Anschaffung eines höherpreisigen Druckers in Lasertechnologie kann
+ein Indiz für die berufliche Verwendung sein. Das Fehlen eines Druckers
+spricht dagegen grundsätzlich weiterhin gegen eine so gut wie ausschließliche
+berufliche Nutzung der gesamten Computeranlage. Gleichwohl ist das
+Nichtvorhandensein eines Druckers bei Neuanschaffung einer Computeranlage
+nicht von vornherein schädlich. Vielmehr ist dem Steuerpflichtigen
+eine "Überlegungszeit" für die nachträgliche Anschaffung eines Druckers
+von etwa einem halben Jahr einzuräumen. Fehlt der Drucker jedoch
+länger, so muß der Arbeitnehmer glaubhaft machen, daß er sinnvollerweise
+auf Ergebnisausdrucke verzichten kann (z. B. weil diese bei seinem
+Arbeitgeber vorgenommen werden).</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200013">3. Kompatibilität
+mit den Computern des Arbeitgebers</lxbase:ueberschrift></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="nein">Entscheidend für
+die berufliche Veranlassung der vom Steuerpflichtigen angeschafften Computeranlage
+ist die Frage, ob die in häuslicher Arbeit gewonnenen Ergebnisse
+beruflich - und nicht technisch - im Betrieb seines Arbeitgebers
+verwertet werden. Auf die Kompatibilität zwischen der Computeranlage
+des Arbeitnehmers und der des Arbeitgebers kommt es nicht entscheidend
+an.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200014">4. Multimedia-Ausstattung</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Der Begriff "Multimedia" bestimmt
+seit 1996 maßgebend die Computerwelt. Multimedia-Anwendungen sind
+immer auch geeignet, im Bereich der privaten Lebensführung Anwendung
+zu finden. Sie werden zunehmend auch von der Hardware unterstützt;
+so sind bereits jetzt die ersten Grafikkarten mit sog. 3-D-Beschleunigung
+für den "Normalanwender" am Markt erhältlich. Nach diversen Testberichten
+in einschlägigen Fachzeitschriften bietet die neue Hardware auch
+einen zum Teil deutlichen Geschwindigkeitsvorteil gegenüber der
+herkömmlichen Hardware, ohne dabei wesentlich teurer zu sein. Die
+Anschaffung eines leistungsfähigen Computersystems kann deshalb
+auf die (teilweise) Ausstattung mit modernsten Multimediakomponenten
+kaum verzichten. Darüber hinaus sind PCs mit "veralteter" Technik
+kurze Zeit nach Markteinführung neuer Technologien gar nicht mehr
+käuflich. Gleichzeitig machen Multimedia-Anwendungen aber auch die
+Privatnutzung eines Computers interessanter. In Echtzeit-3D-Grafik
+ablaufende Computerspiele und -simulationen haben einen höheren
+Unterhaltungswert als die bisherigen 2-D-Anwendungen, deshalb wird
+nicht selten eine multimedia unterstützende Hardware mit Software
+ausgeliefert, die die Multimediafähigkeit der Hardware deutlich
+machen soll. Bei modernen 3-D-Grafikkarten wird deshalb nicht selten Spielesoftware
+mitgeliefert, die sicherlich in keinem Fall berufliche Verwendung
+finden kann. Dennoch darf hieraus allein nicht eine nicht untergeordnete
+private Verwendung des Computers geschlußfolgert werden. Vielmehr
+müssen noch weitere Umstände hinzutreten, die eine (fast) ausschließliche
+berufliche Nutzung nicht wahrscheinlich erscheinen lassen. Wenn
+andererseits jedoch der PC zusätzlich zu seiner bisherigen Grafikkarte
+mit einer speziellen 3-D- oder Video-Grafikbeschleunigerkarte ausgerüstet
+wird, spricht die (widerlegbare) Vermutung für eine private Veranlassung
+der Ausstattung.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200015">5. Online-Dienste</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Soweit der Steuerpflichtige Nutzer
+eines Online-Dienstes ist, kann grundsätzlich eine schädliche private
+Mitverwendung des Computers angenommen werden. Die derzeit bekanntesten
+Online-Dienste sind:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a> American Online (AOL)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Compuserve</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Microsoft Network (msn)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>T-Online.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Diese Online-Dienste erlauben es
+dem Benutzer, neben dem anbieterspezifischen Online-Dienst das Internet
+zu nutzen.</lxbase:a><lxbase:a eingerueckt="nein">Darüber hinaus gibt es zahlreiche
+Anbieter, die als sog. Provider den Internetzugang auch ohne einen
+speziellen Online-Dienst ermöglichen. Hierzu gehören u. a.</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a eingerueckt="ja">EuNet</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a eingerueckt="ja">GermanyNet</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a eingerueckt="ja">MetroNet</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a eingerueckt="ja">snafu
+          u. v. a.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Das Programmangebot der Online-Dienste
+und des Internets ist so reichhaltig, daß es zwar dem Beruf förderlich
+sein kann, wegen des bestehenden Aufteilungs- und Abzugsverbots
+eine (fast) ausschließliche Nutzung der Dienste jedoch regelmäßig
+ausgeschlossen ist.</lxbase:a><lxbase:a eingerueckt="nein">Eine andere Betrachtung kann nur
+für Steuerpflichtige gelten, die ihre berufliche Daten und Informationen
+aus einem firmeneigenen Intranet beziehen. Im Gegensatz zum Internet
+ist das Intranet ein firmeneigenes Datennetz, in dem i. d. R. nicht
+auf Daten beliebiger anderer Anbieter zugegriffen werden kann.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200016">B. Software</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Wird von einem Steuerpflichtigen
+ausschließlich berufsspezifische Software verwendet, so kann auf
+die berufliche Verwendung auch der Hardware geschlossen werden.
+Die Verwendung der Software hingegen, die der Sache nach auch privat
+genutzt werden kann (z. B. Textverarbeitungsprogramme), läßt keine
+steuerlich erheblichen Schlußfolgerungen zu. Indizien für eine private
+oder berufliche Nutzung solcher ambivalenter Software lassen sich
+jedoch aus den Anschaffungskosten und den technischen Möglichkeiten
+herleiten. Je teurer die Software und je umfangreicher ihre Nutzungsmöglichkeiten
+sind, desto mehr spricht die Vermutung für eine berufliche Nutzung
+auch dieser Software. Dabei sind aber auch das Verhältnis der Anzahl
+und der Anschaffungskosten beider Softwarearten (berufsspezifische
+und ambivalent verwendbare Software) zueinander zu berücksichtigen.
+- Werden lediglich die Betriebssysteme (z. B. Windows 95, OS/2 usw.)
+als Software angegeben, so läßt dies eine (fast) ausschließliche
+berufliche Nutzung des Computers nicht erkennen, da diese Software
+hauptsächlich dazu dienen, die Grundlage für die Verwendung der
+eigentlichen (beruflichen oder privaten) Anwendersoftware, wie Textverarbeitung,
+Tabellenkalkulation, Programmiersprachen, Spiele usw., zu bilden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200017">C. Sonstige
+Abgrenzungsmerkmale</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Hat ein Arbeitnehmer in Ausbildung
+befindliche Kinder, so kann widerlegbar eine private Mitbenutzung
+der Computeranlage vermutet werden, wenn keine weitere Computeranlage
+im Haushalt des Steuerpflichtigen vorhanden ist. Diese Vermutung
+für sich allein reicht aber regelmäßig nicht aus, den Abzug der
+geltend gemachten Aufwendungen zu versagen. Soweit tatsächliche
+Feststellungen über den Umfang der Nutzung durch die Kinder vom
+Finanzamt nicht getroffen werden können, müssen noch weitere Umstände hinzutreten,
+die für eine nicht unerhebliche private Nutzung der Computeranlage
+sprechen (z. B. das Vorhandensein eines Joysticks bzw. Joypads).</lxbase:a><lxbase:a eingerueckt="nein">Ein weiteres Indiz für die berufliche
+Veranlassung der Anschaffung der Computeranlage ist dagegen deren
+Bezuschussung durch den Arbeitgeber des Steuerpflichtigen.</lxbase:a><lxbase:a eingerueckt="nein">Nach Würdigung aller entscheidungserheblichen
+Kriterien kann von einer unschädlichen privaten Nutzung des Computers
+und der Peripheriegeräte ausgegangen werden, wenn deren Anteil an
+der Gesamtnutzung nicht mehr als 10 v. H. beträgt. In diesem Fall
+ist der Werbungskostencharakter der Aufwendungen für die Anschaffung
+der Geräte zu bejahen. Eine anteilige Berücksichtigung lediglich
+in Höhe des beruflichen Nutzungsanteils kommt hingegen aufgrund
+des § 12 Nr. 1 EStG nicht in Betracht. Entsprechendes gilt auch
+für jede vom Steuerpflichtigen eingesetzte Software.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200018">III. Steuerliche
+Würdigung</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Kommt hiernach ein Abzug als Werbungskosten
+dem Grunde nach in Betracht, so ist folgendes zu beachten: </lxbase:a><lxbase:a eingerueckt="nein">Die Zentraleinheit und die Peripheriegeräte
+(z. B. Drucker, Bildschirm usw.) sind zwar selbständig bewertungsfähig,
+nicht aber selbständig nutzungsfähige Wirtschaftsgüter, weil sie
+nach ihrer beruflichen Zweckbestimmung nur zusammen genutzt werden
+können, technisch aufeinander abgestimmt und auch in den beruflichen
+Nutzungszusammenhang eingefügt sind. Ihre Anschaffungs- oder Herstellungskosten
+sind deshalb - auch wenn sie jeweils nicht mehr als 800 DM ausschließlich
+Umsatzsteuer betragen - nicht sofort als Werbungskosten absetzbar,
+sondern können nur auf die Nutzungsdauer verteilt abgesetzt werden.</lxbase:a><lxbase:a eingerueckt="nein">Portable-Computer (Laptops, Notebooks,
+Palmtops), bei denen der Hersteller die Zentraleinheit (Datenverarbeitung),
+die Tastatur (Dateneingabe), die Speicherlaufwerke (Datensicherung)
+und das Display (Datenausgabe) in einem kompakten Gehäuse zusammengeführt
+hat, sind dagegen stets selbständig nutzungsfähig, mit der Folge,
+daß ihre Anschaffungskosten - wenn sie bis 800 DM ausschließlich
+Umsatzsteuer betragen - sofort als Werbungskosten abgesetzt werden
+können. Im übrigen besteht auch hier die Möglichkeit, die Anschaffungskosten
+verteilt auf die Nutzungsdauer abzusetzen.</lxbase:a><lxbase:a eingerueckt="nein">Wird ein bereits beruflich verwendeter
+Computer z. B. durch Einbau einer größeren Festplatte oder Erweiterung
+des RAM-Speichers nachträglich aufgerüstet, so erhöht sich grundsätzlich
+der im Zeitpunkt des Einbaus maßgebliche Restwert.</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="73*" /><cals:colspec colnum="2" colname="2" colwidth="27*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Beispiel:</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Anschaffungskosten
+des Computers Jan. 1993</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>5.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>./.
+AfA (1993 - 1995)</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>3.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Restwert</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>2.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>+
+Einbau einer größeren Festplatte Mrz. 1996</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>1.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>AfA-Bemessungsbetrag
+(neu)</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>3.000
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Restnutzungsdauer
+2 Jahre = AfA (1996 - 1997) jeweils</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>1.500 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Eine Verlängerung der verbleibenden
+Nutzungsdauer kommt hingegen nur dann in Betracht, wenn wesentliche
+Bestandteile des Computers (z. B. die CPU) ausgetauscht werden und
+hierdurch von einer tatsächlichen Verlängerung der voraussichtlichen
+Nutzungsdauer ausgegangen werden kann. Es bestehen keine Bedenken,
+wenn hinsichtlich der Restnutzungsdauer nach Aufrüstung den Angaben
+des Steuerpflichtigen entsprochen wird.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200019">IV. Nutzungsdauer
+von Computern und Software</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Mit BMF-Schreiben vom 18. 4. 1997
+- <lxprod:doknr-verw linkend="HT0138388">IV A 8 - S-1551 - 37/97</lxprod:doknr-verw> - (<lxprod:doknr-verw linkend="HT0138388">BStBl. 1997 I S. 376</lxprod:doknr-verw>
+ ff.) ist die AfA-Tabelle für allgemein verwendbare Anlagegüter
+neu gefaßt worden. Nach den lfd. Nrn. 6.13.3.2 bzw. 6.13.3.3 dieser
+Tabelle beträgt die gewöhnliche Nutzungsdauer für Workstations,
+Personalcomputer, Notebooks u. ä. sowie für Peripheriegeräte grundsätzlich
+vier - und nicht wie bisher fünf - Jahre. Diese Tabelle gilt für
+alle Anlagegüter, die nach dem 30. 6. 1997 angeschafft oder hergestellt
+worden sind.</lxbase:a><lxbase:a eingerueckt="nein">Soll die voraussichtliche Nutzungsdauer
+weniger als 4 Jahre betragen, müssen dafür besondere objektive nachprüfbare
+Gründe vorliegen, z. B. erhöhter Verschleiß aufgrund häufiger Transports
+des (tragbaren) Computers. Der bloße Hinweis auf die raschen Neuentwicklungen
+im EDV-Bereich genügt nicht. Bei Anschaffung von gebrauchten Computern
+ist regelmäßig von einer kürzeren Nutzungsdauer auszugehen. Der Abschreibungszeitraum
+von Software liegt bei 3 - 5 Jahren. Die Möglichkeit des sofortigen
+Werbungskostenabzugs von Anschaffungskosten bis 800 DM ausschließlich
+Umsatzsteuer für selbständig nutzungsfähige Computer (z. B. Laptop,
+Notebook, Palmtops) bzw. für sog. Trivialsoftware (vgl. R 31 a Abs.
+1 EStR) bleibt hierdurch unberührt. Ferner hat der Steuerpflichtige
+die Möglichkeit, eine außergewöhnliche technische oder wirtschaftliche Abnutzung
+gemäß § 9 Abs. 1 Satz 3 Nr. 7 i. V. m. § 7 Abs. 1 Satz 5 EStG geltend
+zu machen. Hierzu ist es ebenfalls erforderlich, die Umstände, die
+zu der außergewöhnlichen technischen oder wirtschaftlichen Abnutzung
+geführt haben, glaubhaft zu machen. Macht ein Steuerpflichtiger
+bei einem Computer der "486er- oder einer geringeren Leistungsklasse"
+eine außergewöhnliche wirtschaftliche Abnutzung geltend, bestehen
+keine Bedenken, den Angaben des Steuerpflichtigen ohne nähere Prüfung
+zu folgen, wenn er die Gründe hierfür schlüssig und nachvollziehbar
+darlegt und die Nutzungsdauer des Computers insg. mindestens 3 Jahre
+betragen hat. Im übrigen sind die Regelungen zu Abschn. 44 Abs.
+3 LStR zu beachten.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013865200020">V. Computer-Fragebogen</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Der bisher verwendete Vordruck (F
+175 - 08.89) zur Überprüfung der Aufwendungen ist überarbeitet worden
+(vgl. Anlage). Er wird den Finanzämtern in Kürze in geschätzter
+Auflage zugehen.</lxbase:a><lxbase:a eingerueckt="nein">(Von der Aufnahme des in Anlage beigefügten
+Fragebogens bei steuerlicher Geltendmachung eines PC wurde abgesehen).</lxbase:a><lxbase:a>---</lxbase:a><lxbase:a eingerueckt="nein"><lxbase:fett>Anlage:</lxbase:fett>
+Fragebogen bei steuerlicher Geltendmachung eines PC</lxbase:a><lxbase:a eingerueckt="nein">Fragebogen bei steuerlicher Geltendmachung
+eines PC</lxbase:a><lxbase:a eingerueckt="nein">Nach den Vorschriften der Datenschutzgesetze
+wird darauf hingewiesen, daß die angeforderten Daten aufgrund der
+§§ 149 ff. der Abgabenordnung und (im Lohnsteuer-Ermäßigungsverfahren)
+des § 39a Abs. 2 des Einkommensteuergesetzes erhoben werden.</lxbase:a><lxbase:a eingerueckt="nein">Einkommensteuererklärung 199.</lxbase:a><lxbase:a eingerueckt="nein">Geltendmachung eines Personal-Computers
+(PC)</lxbase:a><lxbase:a eingerueckt="nein">Sehr geehrte(r) ...!</lxbase:a><lxbase:a eingerueckt="nein">In Ihrer Einkommensteuererklärung
+machen Sie Aufwendungen für einen Personal-Computer (PC) als Werbungskosten
+geltend.</lxbase:a><lxbase:a eingerueckt="nein">Um prüfen zu können, ob die geltend
+gemachten Aufwendungen für den PC steuerlich berücksichtigt werden
+können, bitte ich Sie, zu den nachfolgenden Punkten bzw. Fragen ausführlich
+bis spätestens ... Stellung zu nehmen und dieses Schreiben beim
+Finanzamt wieder einzureichen. Eine Ausfertigung ist für Ihre Unterlagen
+bestimmt. Sollte der für die Beantwortung der Fragen vorgesehene
+Platz nicht ausreichen, benutzen Sie bitte ein separates Blatt.</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="61*" /><cals:colspec colnum="2" colname="2" colwidth="26*" /><cals:colspec colnum="3" colname="3" colwidth="13*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Fragen</lxbase:a></cals:entry><cals:entry nameend="3" align="center" namest="2"><lxbase:a>Antwort</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry nameend="3" namest="1"><lxbase:a>Allgemeines:</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1. Genaue Bezeichnung (Art,
+Typ und Hersteller) der Hardware (Computer sowie der angeschlossenen Peripherie
+(Monitor, Drucker usw.))</lxbase:a></cals:entry><cals:entry nameend="3" align="center" namest="2" /></cals:row><cals:row rowsep="1"><cals:entry nameend="3" namest="1"><lxbase:a>Anschaffungskosten:</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>2. Anschaffungskosten des PC.
+Bitte fügen Sie die Rechnungen bei, falls diese noch nicht eingereicht wurden.</lxbase:a></cals:entry><cals:entry nameend="3" align="center" namest="2"><lxbase:a>...
+DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>2.1 Vom Arbeitgeber erhaltene
+Zuschüsse zu den Anschaffungskosten</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>- Ja, in Höhe
+von... DM</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>- Nein</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry nameend="3" namest="1"><lxbase:a>Technische Ausstattungsmerkmale
+und Programme:</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry nameend="3" namest="1"><lxbase:a>3. Ausstattung
+des Rechners</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>3.1 Größe des Arbeitsspeichers
+(z. B. 4, 8 oder 16 MB)</lxbase:a></cals:entry><cals:entry nameend="3" align="center" namest="2" /></cals:row><cals:row rowsep="1"><cals:entry morerows="1" colname="1"><lxbase:a>3.2 CPU-Hersteller
+und Typenbezeichnung Bei nicht Intel-Prozessoren: der Angabe vergleichbaren
+CPU-Leistungsklasse </lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>- i 286 / i
+386</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>- i 486</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="2"><lxbase:a>- Pentium</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>- Pentium Pro
+/ II</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry nameend="3" namest="1"><lxbase:a>4.  Weitere Ausstattung
+/ Zubehör:</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>4.1 Modem / ISDN-Karte vorhanden?</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>- Ja</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>- Nein</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>4.2 Joystick / Joypad vorhanden?</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>- Ja</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>- Nein</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry nameend="3" namest="1"><lxbase:a>4.3 Sonstige Ausstattung
+/ Zubehör</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>5. Sind Sie Mitglied eines Online-Dienstes
+(z. B. T-Online, AOL, Compuserve, msn) oder haben Sie durch andere
+Provider (z. B. eunet, metronet, germanyNet, snafu) Zugang zum Internet?</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>- Ja </lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>- Nein</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>6. Nutzen Sie auch andere Online-Verbindungen (Mailboxen,
+firmeneigenes Intranet (bitte Bestätigung des Arbeitgebers beifügen)
+u. a.)?</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>- Ja, und zwar</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>- Nein</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>7. Welches Betriebssystem und
+welche Anwenderprogramme sind auf Ihrem Computer installiert? Geben
+Sie zu den Anwenderprogrammen bitte an, ob es sich um handelsübliche
+Programme, Programme des Arbeitgebers oder um selbst erstellte Programme
+handelt.</lxbase:a></cals:entry><cals:entry nameend="3" align="center" namest="2" /></cals:row><cals:row rowsep="1"><cals:entry nameend="3" namest="1"><lxbase:a>Angaben zur beruflichen
+Nutzung</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>8. Wie wird der geltend gemachte
+PC von Ihnen im einzelnen beruflich eingesetzt und an welchem Ort (z.
+B. am Arbeitsplatz beim Arbeitgeber, im häuslichen  Arbeitszimmer)
+ist er installiert?</lxbase:a></cals:entry><cals:entry nameend="3" align="center" namest="2" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>9. Werden die Arbeitsergebnisse
+in Ihrer Arbeitsstätte verwertet oder weiterverarbeitet?</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>- Ja (bitte
+Bestätigung des Arbeitgebers beifügen)</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>- Nein</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>10. In welchem zeitlichen Umfang
+wird der PC für berufliche Zwecke durchschnittlich eingesetzt (z.
+B. 1 Stunde täglich, 10 Stunden monatlich)?</lxbase:a></cals:entry><cals:entry nameend="3" align="center" namest="2" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>11. In welcher Form und in welchem
+Umfang wird der PC von Ihnen bzw. von anderen haushaltszugehörigen
+Personen über die unter Punkt 8. genannten Zwecke hinaus genutzt?</lxbase:a></cals:entry><cals:entry nameend="3" align="center" namest="2" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Abschließend möchte ich noch anmerken,
+daß - sofern eine steuerliche Anerkennung erfolgt - die Aufwendungen
+für den PC nicht sofort in einer Summe zu berücksichtigen sind,
+wenn die Anschaffungskosten (ohne Umsatzsteuer) 800,00 DM überschreiten.
+Die Gesamtkosten sind dann vielmehr auf die Nutzungsdauer des Computers
+zu verteilen. Als Nutzungsdauer werden dabei grundsätzlich 5 Jahre
+bei Anschaffung oder Herstellung vor dem 1. 7. 1997 bzw. 4 Jahre
+bei Anschaffung oder Herstellung nach dem 30. 6. 1997 zugrundegelegt.
+Die komplette PC-Anlage stellt ein einheitliches Wirtschaftsgut
+dar, weil die einzelnen Teile des PC und das Zubehör nur als Einheit
+nutzbar sind. Wurde der PC von Ihnen in der ersten Jahreshälfte
+angeschafft, so kann aus Vereinfachungsgründen in diesem Jahr die
+volle und bei der Anschaffung in der zweiten Jahreshälfte der halbe
+Jahresbetrag der Abschreibung geltend gemacht werden.</lxbase:a><lxbase:a eingerueckt="nein">Mit freundlichen Grüßen</lxbase:a><lxbase:a eingerueckt="nein">Im Auftrag</lxbase:a><lxbase:a eingerueckt="nein">Ich versichere, die Angaben zu dem
+obigen Fragenkatalog wahrheitsgemäß nach bestem Wissen und Gewissen
+gemacht zu haben.</lxbase:a><lxbase:a eingerueckt="nein">       </lxbase:a><lxbase:a eingerueckt="nein">Ort, Datum                            Unterschrift
+<lxbase:za /> </lxbase:a></lxbase:kapitel></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>EDV-Recht</lxbase:rthema><lxbase:rthema>Lohnsteuer</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Saarland</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Berlin</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

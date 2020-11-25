@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" dok-nummer="5235984" dok-art="Erlass" dok-typ="Verwaltungsanweisung" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:externe-dateien><lxbase:datei name="d5235984-1.gif" /><lxbase:datei name="d5235984-2.gif" /></lxbase:externe-dateien><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Ministerium der Finanzen des Landes
+Sachsen-Anhalt</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>46 - S-2133b - 3</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2133b</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2016-04-19" ts="nein" /></lxbase:daten><lxbase:fundstellen><lxbase:nicht-normiert><lxbase:fs-kuerzel>EStK
+§ 5b EStG Karte 3</lxbase:fs-kuerzel></lxbase:nicht-normiert></lxbase:fundstellen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:5b</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2016" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Elektronische Bilanz; Unterlagen zur
+Steuererklärung</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523598400001"><lxbase:a>1 Handelsbilanz</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523598400002"><lxbase:a>2 Steuerbilanz</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523598400003"><lxbase:a>3 Kontennachweis</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523598400004"><lxbase:a>4 Übermittlung eines Anlagenverzeichnisses</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523598400005"><lxbase:a>5 Außerbilanzielle Korrekturen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523598400006"><lxbase:a>6 Folgen fehlender Übermittlung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523598400007"><lxbase:a>6.1 Allgemeiner Veranlagungsbereich</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523598400008"><lxbase:a>6.2 Betriebsprüfungsstellen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523598400009"><lxbase:a>7 Hinweis</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D523598400001">1 Handelsbilanz</lxbase:ueberschrift><lxbase:a>Nach § 5b Abs. 1 EStG ist nur der Inhalt der Bilanz und
+der Gewinn- und Verlustrechnung elektronisch zu übermitteln. Die
+zusätzlichen nach § 60 Abs. 3 EStDV der Steuererklärung beizufügenden
+Unterlagen können freiwillig in den entsprechenden Berichtsteilen
+der Taxonomie übermittelt werden (vgl. BMF-Schreiben vom 28.09.2011, <lxprod:doknr-verw linkend="HT5233528">BStBl I S. 855</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Das Anlagengitter gehörte nach § 268 Abs. 2 HGB zu den
+Anhängen, sofern keine Darstellung der Abschreibungen in der Bilanz
+erfolgte (vgl. § 268 Abs. 2 Satz 3 HGB). Die Regelung in § 268 Abs.
+2 HGB ist aufgehoben worden. Die Einzeldarstellung zu den Posten
+des Anlagevermögens (Anlagengitter) ist nunmehr nach § 284 Abs.
+3 HGB zwingend als Angabe im Anhang ausgestaltet, die Möglichkeit
+des Ausweises in der Bilanz entfällt. Außerdem brauchen sogenannte
+kleine Kapitalgesellschaften im Sinne des § 267 Abs. 1 HGB bestimmte
+Pflichtangaben nicht mehr im Anhang anzugeben. Dies betrifft unter
+anderen das Anlagengitter im Sinne des § 284 Abs. 3 HGB.</lxbase:a><lxbase:a>Die Gesetzesänderungen erfolgten mit dem Gesetz zur Umsetzung
+der Richtlinie <lxbase:az normform="2013/34" manuell="nein">2013/34</lxbase:az>/EU
+des Europäischen Parlaments und des <lxbase:az normform="Rates-vom-26/06" manuell="nein">Rates vom 26.06</lxbase:az>.2013
+über den Jahresabschluss, den konsolidierten Abschluss und damit
+verbundene Berichte von Unternehmen bestimmter Rechtsformen und
+zur Änderung der Richtlinie <lxbase:az normform="2006/43" manuell="nein">2006/43</lxbase:az>/EG des Europäischen
+Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG
+und 83/349/EWG des Rates vom 17. Juli 2015 (<lxbase:lit-fs normform="BGBl-2015-I-1245" manuell="nein">BGBl. I S. 1245</lxbase:lit-fs>).</lxbase:a><lxbase:a><lxbase:farbe>Danach erfolgte die elektronische Übermittlung
+eines Anlagengitters bisher nur auf freiwilliger Basis. Die entsprechenden
+Positionen der Taxonomie lauten wie folgt:</lxbase:farbe></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="21*" /><cals:colspec colnum="2" colname="2" colwidth="58*" /><cals:colspec colnum="3" colname="3" colwidth="21*" /><cals:tbody><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>Ebene</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a><lxbase:farbe>Bezeichnung</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a><lxbase:farbe>Mussfeld</lxbase:farbe></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>1</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>Anhang</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a><lxbase:farbe>-</lxbase:farbe></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>2</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>Anhang</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a><lxbase:farbe>-</lxbase:farbe></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>3</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>Anlagenspiegel</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a><lxbase:farbe>-</lxbase:farbe></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:farbe>(Kerntaxonomie Version 5.4 steuerrechtlicher
+Abschluss)</lxbase:farbe></lxbase:a><lxbase:a>Zur technischen Umsetzung im Datensatz gilt Folgendes:
+Die Positionen in der Taxonomie zur Gewinn- und Verlustrechnung
+in den Ebenen unter "Abschreibungen auf immaterielle Vermögensgegenstände
+des Anlagevermögens und Sachanlagen” können ohne Wert (NIL-Wert)
+übermittelt werden, wenn der Datensatz die Angaben in einem freiwillig
+übermittelten Anlagengitter im XBRL-Format enthält (vgl. BMF-Schreiben
+vom 28.09.2011 - a. a. O.). Die Positionen der Taxonomie lauten
+wie folgt:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="10*" /><cals:colspec colnum="2" colname="2" colwidth="67*" /><cals:colspec colnum="3" colname="3" colwidth="23*" /><cals:tbody><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>Ebene</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a><lxbase:farbe>Bezeichnung</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a><lxbase:farbe>Mussfeld</lxbase:farbe></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>1</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>Gewinn- und Verlustrechnung</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a /></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>2</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>Gewinn- und Verlustrechnung</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a /></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>3</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>Jahresüberschuss/-fehlbetrag</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a><lxbase:farbe>Summenmussfeld</lxbase:farbe></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>4</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>Ergebnis der gewöhnlichen
+Geschäftstätigkeit</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a><lxbase:farbe>Summenmussfeld</lxbase:farbe></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>5</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>Betriebsergebnis</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a><lxbase:farbe>Summenmussfeld</lxbase:farbe></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>6</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>Abschreibungen</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a><lxbase:farbe>Summenmussfeld</lxbase:farbe></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>7</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>Abschreibungen
+auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a><lxbase:farbe>Summenmussfeld</lxbase:farbe></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>8</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>...</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a /></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>8</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>auf Sachanlagen</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a><lxbase:farbe>Mussfeld</lxbase:farbe></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry align="center" colname="1"><lxbase:a><lxbase:farbe>8</lxbase:farbe></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:farbe>...</lxbase:farbe></lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a /></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:farbe>(Kerntaxonomie Version 5.4 steuerrechtlicher
+Abschluss)</lxbase:farbe></lxbase:a><lxbase:a><lxbase:farbe>Eine verpflichtende Übermittlung des Anlagengitters
+für Wirtschaftsjahre, die nach dem 31. Dezember 2016 beginnen, ist
+in Vorbereitung. Die Taxonomie zur elektronischen Bilanz soll um
+entsprechende Mussfelder erweitert werden.</lxbase:farbe></lxbase:a><lxbase:a><lxbase:farbe>Die Erweiterung ist nach Ansicht der Finanzverwaltung
+zulässig. Das Bundesministerium der Finanzen ist im Einvernehmen
+mit den obersten Finanzbehörden der Länder nach § 51 Abs. 4 Nr.
+1b EStG ermächtigt, den Mindestumfang der nach § 5b EStG elektronisch
+zu übermittelnden Bilanz und Gewinn- und Verlustrechnung zu bestimmen.</lxbase:farbe></lxbase:a><lxbase:a><lxbase:farbe>Der Wortlaut des § 5b EStG spricht dabei
+vom Inhalt der Handelsbilanz, Handelsbilanz mit Überleitungsrechnung
+oder Steuerbilanz. Soweit ein Unternehmen nach dem Handelsrecht
+verpflichtet ist, eine Bilanz aufzustellen, ist hiervon auch das Anlagengitter
+nach § 284 Abs. 3 HGB umfasst. Auch in allen anderen Fällen umfasst der
+in § 5b EStG bezeichnete Inhalt der Bilanz sowie der Gewinn- und
+Verlustrechnung regelmäßig auch die Erläuterung von Bilanzposten
+sowie die Darstellung ihrer bilanziellen Entwicklung.</lxbase:farbe></lxbase:a><lxbase:a><lxbase:farbe>Sofern die notwendigen Informationen aus
+welchen Gründen auch immer nicht elektronisch vorgehalten werden,
+können auch zukünftig automationsgestützte NIL-Werte (Not-In-List)
+übermittelt und insoweit ein gesondertes pdf-Dokument nachgereicht
+werden.</lxbase:farbe></lxbase:a><lxbase:a>Rechtsgrundlage für die Übersendung eines Anlageverzeichnisses
+als Anhang in Papierform ist § 60 Abs. 3 EStDV. Danach sind die
+steuerpflichtigen Personen oder deren Angehörige der steuerberatenden
+Berufe stets verpflichtet, die Anhänge, Lageberichte oder Prüfungsberichte
+zu übersenden. Sofern dies nicht erfolgt, haben die Finanzämter
+im Rahmen der Bearbeitung der Steuer- oder Feststellungserklärungen
+eine Übersendung nach eigenem Ermessen anzuregen.</lxbase:a><lxbase:a>Der Jahresabschluss eines Kaufmannes besteht nach § 242
+Abs. 3 HGB aus der Bilanz und der Gewinn- und Verlustrechnung. Der
+Anhang im Sinne des § 264 Abs. 1 Satz 1 HGB ist ein Teil des Jahresabschlusses
+einer Kapitalgesellschaft. Er dient insbesondere der Erläuterung
+der Bilanz und der Gewinn- und Verlustrechnung. Besondere Regelungen
+zu Pflicht- und Wahlpflichtangaben im Anhang enthalten § 284 HGB und
+§ 285 HGB. Ausnahmen regelt insoweit § 286 HGB.</lxbase:a><lxbase:a>Die Regelungen der § 264 bis § 335b HGB gelten aber nur
+für Kapitalgesellschaften (hier Aktiengesellschaften, Kommanditgesellschaft
+auf Aktien und Gesellschaften mit beschränkter Haftung). Sie gelten
+nach § 264a HGB auch für bestimmte Personengesellschaften (hier
+beispielsweise GmbH &amp; Co., Stiftung &amp; Co. und eingetragene Genossenschaft
+&amp; Co.). Die Regelung des § 284 Abs. 3 HGB ist folglich nur bezüglich der
+zuvor genannten Kapitalgesellschaften und Personengesellschaften
+anwendbar.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523598400002">2 Steuerbilanz</lxbase:ueberschrift><lxbase:a><lxbase:farbe>Sofern die Übermittlung einer Steuerbilanz
+im Sinne des § 5b Abs. 1 Satz 3 EStG erfolgt, gilt es folgenden
+Punkt zu beachten: Eine verpflichtende Übermittlung des Anlagengitters
+für Wirtschaftsjahre, die nach dem 31. Dezember 2016 beginnen, ist in
+Vorbereitung. Die Taxonomie zur elektronischen Bilanz soll um entsprechende Mussfelder
+erweitert werden.</lxbase:farbe></lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523598400003">3 Kontennachweis</lxbase:ueberschrift><lxbase:a>Ein allgemeiner Kontennachweis gehört nicht zum Anhang.
+Die Übersendung erfolgt freiwillig. Eine Pflicht zur Übermittlung
+besteht insoweit nicht. Eine Ausnahme besteht nur hinsichtlich besonderer
+Aufgliederungen im Sinne des § 285 HGB. Beispielsweise seien hier
+die Aufgliederung der Verbindlichkeiten (vgl. § 285 Nr. 2 HGB) und
+die Aufgliederung der Umsatzerlöse genannt (vgl. § 285 Nr. 4 HGB).
+Die zuvor genannten Aufgliederungen sind im Anhang darzustellen.</lxbase:a><lxbase:a>Die Finanzämter ermitteln den Sachverhalt nach § 88 Abs.
+1 AO von Amts wegen. Eine gesetzliche Pflicht zur Übersendung bestimmter
+Dokumente neben den Steuer- und Feststellungserklärungen besteht
+nur in Ausnahmefällen. Beispielsweise seien hier Zuwendungsnachweise
+(vgl. § 50 Abs. 1 Satz 1 EStDV) und Steuerbescheinigungen (vgl.
+§ 36 Abs. 2 Nr. 2 Satz 2 EStG) genannt. Sofern die Finanzämter einen allgemeinen
+Kontennachweis benötigen, fordern sie diesen nach den Umständen
+des einzelnen Falles nach eigenem Ermessen an (vgl. § 90 Abs. 1
+AO). Die Notwendigkeit ist insoweit allerdings kritisch zu prüfen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523598400004"><lxbase:farbe>4 Übermittlung
+eines Anlagenverzeichnisses</lxbase:farbe></lxbase:ueberschrift><lxbase:a><lxbase:farbe>Hinsichtlich der Übermittlung eines Anlagenverzeichnisses
+(wirtschaftsgutbezogene Entwicklung des Anlagevermögens) stehen
+in der Taxonomie der elektronischen Bilanz – im Gegensatz zum Anlagenspiegel
+– keine standardisierten Vorgaben zur Verfügung.</lxbase:farbe></lxbase:a><lxbase:a><lxbase:farbe>Allerdings ist es möglich, das Anlagenverzeichnis
+in einer Fußnote zu einer Position im Datensatz zu übermitteln.
+Die Fußnote mit dem Anlagenverzeichnis kann an jede Position angefügt
+werden. In den meisten Fällen wird das Anlagenverzeichnis in einer
+Fußnote zur Position „Anlagevermögen“ (Ordner „Bilanz“) oder zum
+Ordner „Anhang“ übermittelt.</lxbase:farbe></lxbase:a><lxbase:a><lxbase:farbe>Im E-Bilanz-Dialog ist das Vorhandensein
+eines Anlagenverzeichnisses durch eine Schaltfläche erkennbar:</lxbase:farbe></lxbase:a><lxbase:abbildung><lxbase:graphik width="993" xoffset="6.001pt" nsoffset="0.001pt" angle="0.000" align="center" position="below" impang="0.000" cropped="1" height="547" float="0" sideways="0" dpi="150" bild="d5235984-1.gif" yoffset="6.001pt" /></lxbase:abbildung><lxbase:a><lxbase:farbe>Abbildung: Bilanz; Aktiva mit Fußnote</lxbase:farbe></lxbase:a><lxbase:a><lxbase:farbe>Sofern die Schaltfläche auswählt wird, öffnet
+sich ein neues Fenster mit dem Anlagenverzeichnis. Das Anlagenverzeichnis
+ist bei elektronischer Übermittlung nicht noch einmal in Papierform
+anzufordern.</lxbase:farbe></lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523598400005"><lxbase:farbe>5 Außerbilanzielle
+Korrekturen</lxbase:farbe></lxbase:ueberschrift><lxbase:a><lxbase:farbe>Die steuerliche Gewinnermittlung mit als
+„Mussfelder“ ausgestatteten außerbilanziellen Zu- und Abrechnungen
+gehört seit Einführung der elektronischen Bilanz zum gesetzlichen
+Mindestumfang nach § 51 Abs. 4 Nr. 1b EStG. In der Dialoganzeige werden
+die außerbilanziellen Korrekturen im Ordner „Steuerlicher Gewinn“
+angezeigt. Aus der Praxis wird berichtet, dass in vielen Fällen
+die außerbilanziellen Zu- und bzw. oder Abrechnungen nicht im Datensatz
+übermittelt, sondern – wenn überhaupt – in Papierform eingereicht
+werden.</lxbase:farbe></lxbase:a><lxbase:abbildung><lxbase:graphik width="994" xoffset="6.001pt" nsoffset="0.001pt" angle="0.000" align="center" position="below" impang="0.000" cropped="1" height="418" float="0" sideways="0" dpi="150" bild="d5235984-2.gif" yoffset="6.001pt" /></lxbase:abbildung><lxbase:a><lxbase:farbe>Abbildung: Übermittlung des steuerlichen
+Gewinns ohne außerbilanzielle Korrekturen</lxbase:farbe></lxbase:a><lxbase:a><lxbase:farbe>Zwar erfolgt bei den meisten Softwareprodukten
+die Befüllung im Bereich der außerbilanziellen Korrekturen bereits
+automationsgestützt, jedoch wird dieser Bereich oftmals aus Unkenntnis
+des Übermittlers „leer“, das heißt mit „NIL-Werten“ übermittelt.</lxbase:farbe></lxbase:a><lxbase:a><lxbase:farbe>Fehlen außerbilanzielle Korrekturen in der
+E-Bilanz, können diese mit der Begründung, dass der gesetzliche
+Mindestumfang der elektronischen Bilanz nicht übermittelt wurde,
+nachgefordert werden. Die nachträgliche Übermittlung kann elektronisch mit
+einem neuen Datensatz erfolgen. Sofern darauf im Einzelfall verzichtet
+wird, sollte zumindest eine freiformulierte Erläuterung im Bescheid
+erfolgen, in der für den nächsten Veranlagungszeitraum zur Übermittlung
+einer vollständigen elektronischen Bilanz (einschließlich außerbilanzieller
+Zu- und Abrechnungen) aufgefordert wird.</lxbase:farbe></lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523598400006">6 Folgen fehlender Übermittlung</lxbase:ueberschrift><lxbase:a>Den einzureichenden Steuer- oder Feststellungserklärungen
+sind in der Praxis bisher vielfach, auch ohne gesetzliche Verpflichtung,
+sowohl ein Kontennachweis als auch ein Anlagengitter, Anlageverzeichnis
+sowie weitere für die Beurteilung des Steuerfalls relevante Unterlagen,
+wie beispielsweise eine Kapitalkontenentwicklung oder Angaben zum
+Investitionsabzugsbetrag, beigefügt worden. Dies hatte in der Vergangenheit
+zur Folge, dass sich aufgrund der zusätzlich vorliegenden Informationen Nachfragen
+der Finanzämter bei den steuerpflichtigen Personen bzw. ihren Angehörigen
+der steuerberatenden Berufe vermeiden ließen. Die Umstellung auf
+das elektronische Verfahren sollte dies aus Sicht der Finanzverwaltung
+nicht ändern.</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D523598400007">6.1 Allgemeiner
+Veranlagungsbereich</lxbase:ueberschrift><lxbase:a>Die Vorlage fehlender Unterlagen kann für den Allgemeinen
+Veranlagungsbereich, abhängig von der Bearbeitung der Steuer- oder
+Feststellungserklärung, ggf. unerlässlich sein. Die fehlenden Unterlagen
+können im Rahmen des allgemeinen Untersuchungsgrundsatzes entsprechend
+§ 88 AO nach Maßgabe des Einzelfalles von der steuerpflichtigen
+Person bzw. deren Angehörigen der steuerberatenden Berufe angefordert
+werden (vgl. § 90 Abs. 1 AO). Die nachgeforderten Unterlagen sollen
+nach Möglichkeit elektronisch übermittelt werden. Die Taxonomie
+zur elektronischen Bilanz enthält für diesen Zweck eine entsprechende
+Erläuterungsposition in den Grunddaten.</lxbase:a><lxbase:a><lxbase:farbe>Sofern eine Betriebsprüfung vorgesehen ist,
+sind fehlende Unterlagen (insbesondere Anlageverzeichnis, Kapitalkontenentwicklung,
+Kontennachweise und ggf. geänderte Gesellschaftsverträge) regelmäßig
+durch einen entsprechenden Hinweis in den Erläuterungen zum Steuer-
+oder Feststellungsbescheid nachzufordern. Die Übersendung ist spätestens
+im Rahmen der Bearbeitung der nächsten Steuer- oder Feststellungserklärung
+zu überprüfen. Der Angehörige der steuerberatenden Berufe bzw. die steuerpflichtige
+Person ist an die Übersendung zu erinnern (ggf. in dem nächsten Steuer-
+oder Feststellungsbescheid).</lxbase:farbe></lxbase:a><lxbase:a><lxbase:farbe>Es ist anhand der Umstände des einzelnen
+Falles zu entscheiden, welche Konsequenzen bei Nichtvorlage der
+Unterlagen zu ziehen sind (beispielsweise Hinzuschätzung von Einnahmen,
+Kürzung bestimmter Aufwandspositionen, Nichtanerkennung bzw. Auflösung
+eines Investitionsabzugsbetrages). Die steuerpflichtige Person oder
+dessen Angehöriger der steuerberatenden Berufe ist zuvor anzuhören
+bzw. die Konsequenzen sind im Steuer- oder Feststellungsbescheid
+zu erläutern. Es gelten insoweit die allgemeinen Grundsätze (vgl.
+§ 91 AO).</lxbase:farbe></lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523598400008">6.2 Betriebsprüfungsstellen</lxbase:ueberschrift><lxbase:a>Eine schlüssige Einschätzung der Prüfungsbedürftigkeit
+der Fälle, die einer steuerlichen Außenprüfung unterliegen, kann
+ohne eine Einsichtnahme in ein Mindestmaß an Unterlagen nicht vorgenommen
+werden. <lxbase:farbe>Dies bedeutet für die Betriebsprüfungsstellen,
+dass in Fällen, bei denen trotz mehrfacher Aufforderung zur Übersendung weiterer
+Daten durch den Allgemeinen Veranlagungsbereich kein entsprechender Eingang
+zu verzeichnen ist, eine abschließende rechtliche Einschätzung der
+Prüfungswürdigkeit nach den allgemeinen Grundsätzen zu beurteilen
+ist.</lxbase:farbe></lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523598400009">7 Hinweis</lxbase:ueberschrift><lxbase:a>Die Steuerberaterkammer Sachsen-Anhalt und der Steuerberaterverband
+Niedersachsen Sachsen-Anhalt e.V. sind über den Inhalt dieser Karteikarte
+informiert worden.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Rechnungslegung</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Sachsen-Anhalt</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

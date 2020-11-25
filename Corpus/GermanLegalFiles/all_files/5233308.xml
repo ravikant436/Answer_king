@@ -1,0 +1,620 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Schreiben (koordinierter Ländererlass)" dok-typ="Verwaltungsanweisung" dok-nummer="5233308" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bundesministerium der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>IV C 6 - S-2241 / 10 / 10002</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2241</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Info" id="25" /><lxbase:lizenz2 name="INFO-KANZLEI" id="30" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2011-05-24" ts="nein" /></lxbase:daten><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Das endgültige BMF-Schreiben 
+<lxprod:doknr-verw linkend="HT5233661">IV
+C 6 - S-2241 / 10 / 10002</lxprod:doknr-verw> wurde nach einer
+abschließenden Abstimmung mit den obersten Finanzbehörden
+der Länder am 08.12.2011 veröffentlicht.</lxbase:a><lxbase:a>Das Bundesministerium der Finanzen hat zum Entwurf des BMF-Schreibens eine
+Verbandsanhörung eingeleitet. Die Verbände haben
+bis zum 24. Juni 2011 die Möglichkeit eine schriftliche
+Stellungnahme zum vorliegenden Entwurf abzugeben. Nach einer abschließenden
+Abstimmung mit den obersten Finanzbehörden der Länder
+soll das BMF-Schreiben im Bundessteuerblatt I veröffentlicht
+werden.</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:6/5</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2011" /></lxbase:jahre><lxbase:zitate><lxbase:aktiv-zitate><lxbase:vwa-zitat>BMF <lxbase:az normform="IVC6S2241/10/10002" manuell="nein">IV C 6 - S-2241 / 10 / 10002</lxbase:az> v. 8.
+12. 2011 <lxprod:doknr-verw linkend="HT5233661">BStBl 2011 I 1279</lxprod:doknr-verw> (koord. Ländererlass)</lxbase:vwa-zitat></lxbase:aktiv-zitate><lxbase:passiv-zitate><lxbase:lit-zitat>Deubner Verlag Anmerkung Dok.-Nr. 
+<lxprod:doknr-verw linkend="HT0632607">0632607</lxprod:doknr-verw></lxbase:lit-zitat></lxbase:passiv-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Zweifelsfragen zur Überführung und Übertragung
+von einzelnen Wirtschaftsgütern nach § 6 Absatz
+5 EStG</lxbase:a><lxbase:a>- Entwurf Verbandsanhörung -</lxbase:a></lxbase:headline></lxbase:titel><lxbase:teaser><lxbase:a>BMF: Zweifelsfragen zur Überführung und Übertragung
+von einzelnen Wirtschaftsgütern nach § 6 Absatz
+5 EStG</lxbase:a></lxbase:teaser><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800001"><lxbase:a>I. Überführung von Wirtschaftsgütern
+nach § 6 Absatz 5 Satz 1 und 2 EStG</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800002"><lxbase:a>1. Persönlicher
+Anwendungsbereich</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800003"><lxbase:a>2. Sachlicher
+Anwendungsbereich</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800004"><lxbase:a>II. Übertragung
+von Wirtschaftsgütern nach § 6 Absatz 5 Satz 3
+Nummer 1 bis 3 EStG</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800005"><lxbase:a>1. Persönlicher
+Anwendungsbereich</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800006"><lxbase:a>2. Sachlicher
+Anwendungsbereich</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800007"><lxbase:a>3. Unentgeltliche Übertragung
+oder Übertragung gegen Gewährung oder Minderung
+von Gesellschaftsrechten</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800020"><lxbase:a>a) Unentgeltlichkeit</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800021"><lxbase:a>b) Gesellschaftsrechte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800008"><lxbase:a>4. Einzelfälle
+zu Übertragungen nach § 6 Absatz 5 Satz 3 Nummer
+1 bis 3 EStG</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800022"><lxbase:a>a) Übertragung
+nach § 6 Absatz 5 Satz 3 Nummer 1 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800023"><lxbase:a>b) Übertragung
+nach § 6 Absatz 5 Satz 3 Nummer 2 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800024"><lxbase:a>c) Übertragung
+nach § 6 Absatz 5 Satz 3 Nummer 3 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800009"><lxbase:a>III. Einzelheiten
+zu § 6 Absatz 5 Satz 4 bis 6 EStG</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800010"><lxbase:a>1. Sperrfrist
+des § 6 Absatz 5 Satz 4 EStG und rückwirkender
+Ansatz des Teilwerts</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800011"><lxbase:a>2. Begründung
+oder Erhöhung eines Anteils einer Körperschaft,
+Personenvereinigung oder Vermögensmasse an einem Wirtschaftsgut
+i. S. d. § 6 Absatz 5 Satz 5 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800012"><lxbase:a>3. Sperrfrist
+bei Umwandlungsvorgängen (§ 6 Absatz 5 Satz 4
+und 6 EStG)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800013"><lxbase:a>IV. Verhältnis
+von § 6 Absatz 5 EStG zu anderen Vorschriften</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800014"><lxbase:a>1. Fortführung
+des Unternehmens (§ 6 Absatz 3 EStG)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800015"><lxbase:a>2. Realteilung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800016"><lxbase:a>3. Veräußerung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800017"><lxbase:a>4. Tausch</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523330800018"><lxbase:a>V. Zeitliche
+Anwendung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:a>Zur Anwendung des § 6 Absatz 5 EStG in der Fassung des
+Gesetzes zur Fortentwicklung des Unternehmenssteuerrechts vom 20.
+Dezember 2001 (BGBl. I S. 3858, <lxprod:doknr-verw linkend="HT0115461">BStBl 2002 I S. 35</lxprod:doknr-verw> ), zuletzt geändert
+durch das Jahressteuergesetz 2010 vom 8. Dezember 2010 (<lxbase:lit-fs normform="BGBl-2010-I-1768" manuell="nein">BGBl. I
+S. 1768</lxbase:lit-fs>), nehme ich nach Abstimmung mit den obersten Finanzbehörden
+der Länder wie folgt Stellung:</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800001">I. Überführung
+von Wirtschaftsgütern nach § 6 Absatz 5 Satz 1
+und 2 EStG</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>1</lxbase:randziffer><lxbase:a>Bei der Überführung eines einzelnen Wirtschaftsguts
+nach § 6 Absatz 5 Satz 1 und 2 EStG handelt es sich um
+eine Entnahme i. S. d. § 4 Absatz 1 Satz 2 EStG aus dem
+abgebenden Betriebsvermögen und um eine Einlage i. S. d. § 4
+Absatz 1 Satz 8 EStG bei dem aufnehmenden Betriebsvermögen
+(vgl. BMF-Schreiben vom 17. November 2005 - <lxbase:lit-fs normform="BStBl-2005-I-0101" manuell="nein">BStBl I S. 101</lxbase:lit-fs>9, Rdnr.
+10), deren Bewertungen abweichend von § 6 Absatz 1 Satz
+1 Nummern 4 und 5 EStG in § 6 Absatz 5 EStG geregelt sind.</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D523330800002">1. Persönlicher
+Anwendungsbereich</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>2</lxbase:randziffer><lxbase:a>Überführender i. S. v. § 6 Absatz
+5 Satz 1 EStG ist grundsätzlich jede unbeschränkt
+oder beschränkt steuerpflichtige natürliche Person,
+die mehrere Betriebe unterhält. Es können aber
+auch Erbengemeinschaften mit mehreren eigenen Betriebsvermögen
+unter den Anwendungsbereich der Sätze 1 und 2 fallen. Da
+eine Körperschaft i. S. d. § 1 Absatz 1 Nummer
+1 bis 3 KStG und eine Personengesellschaft steuerlich immer nur
+einen Betrieb führen kann, steht der Körperschaft
+als Mitunternehmer (über § 8 Absatz 1 KStG) oder
+der (doppelstöckigen) Personengesellschaft regelmäßig
+nur der Anwendungsbereich des § 6 Absatz 5 Satz 2 EStG
+offen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800003">2. Sachlicher Anwendungsbereich</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>3</lxbase:randziffer><lxbase:a>Nach § 6 Absatz 5 Satz 1 und 2 EStG müssen
+einzelne Wirtschaftsgüter mit dem Buchwert angesetzt werden,
+wenn sie aus einem (Sonder-)Betriebsvermögen in ein anderes
+Betriebs- oder Sonderbetriebsvermögen desselben Steuerpflichtigen überführt
+werden, sofern die Besteuerung der stillen Reserven sichergestellt
+ist. Dabei ist es unerheblich, ob es sich bei dem zu überführenden Wirtschaftsgut
+um ein Wirtschaftsgut des Anlage- oder Umlaufvermögens
+handelt. Das zu überführende Wirtschaftsgut kann
+auch eine wesentliche Betriebsgrundlage des abgebenden Betriebsvermögens
+sein.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>4</lxbase:randziffer><lxbase:a>In den Anwendungsbereich des § 6 Absatz 5 Satz 1 und
+2 EStG fallen auch selbst geschaffene nicht bilanzierungsfähige
+immaterielle Wirtschaftsgüter des Anlagevermögens
+(§ 5 Absatz 2 EStG) und im Sammelposten erfasste Wirtschaftsgüter
+(vgl. BMF-Schreiben vom 30. September 2010 - <lxbase:lit-fs normform="BStBl-2010-I-0075" manuell="nein">BStBl I S. 75</lxbase:lit-fs>5), sofern
+die Besteuerung der stillen Reserven sichergestellt ist (siehe auch
+Rdnr. 24).</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>5</lxbase:randziffer><lxbase:a>Das Betriebs- oder Sonderbetriebsvermögen, in das das
+Wirtschaftsgut überführt wird, muss nicht bereits
+vor der Überführung bestanden haben, sondern es kann
+auch erst durch die Überführung des Wirtschaftsguts
+entstehen. Das abgebende und aufnehmende Betriebsvermögen
+muss nicht derselben Einkunftsart (§§ 13, 15,
+18 EStG) zuzuordnen sein.</lxbase:a></lxbase:a-randziffer><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 1:</lxbase:fett></lxbase:a><lxbase:a>A und B sind zu jeweils 50 % an der AB-OHG beteiligt.
+Die AB-OHG betreibt eine Metzgerei. Im Sonderbetriebsvermögen
+des A befindet sich ein Verkaufswagen, mit dem die AB-OHG ihre Waren
+auf Wochenmärkten verkauft. Diesen Wagen vermietet A an
+die AB-OHG für ein monatliches Entgelt. Die AB-OHG stellt
+den Verkauf auf den Wochenmärkten ein. A will nun diesen
+Wagen im Rahmen eines im eigenen Namen neu gegründeten
+Einzelunternehmens zum Fischverkauf einsetzen.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Der Verkaufswagen ist nunmehr dem Betriebsvermögen des
+neu gegründeten Einzelunternehmens des A zuzurechnen. Die Überführung
+aus dem Sonderbetriebsvermögen des A bei der AB-OHG in
+das Betriebsvermögen des Einzelunternehmens muss nach § 6
+Absatz 5 Satz 2 EStG zum Buchwert erfolgen.</lxbase:a></lxbase:beispiel><lxbase:a-randziffer><lxbase:randziffer>6</lxbase:randziffer><lxbase:a>Der Anwendung des § 6 Absatz 5 Satz 1 und 2 EStG steht
+nicht entgegen, dass mehrere Wirtschaftsgüter zeitgleich überführt
+werden. Auch erfasst von § 6 Absatz 5 Satz 1 und 2 EStG
+ist die Überführung von Betrieben, Teilbetrieben und
+Mitunternehmeranteilen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>7</lxbase:randziffer><lxbase:a>Sicherstellung der Besteuerung der stillen Reserven bedeutet,
+dass im Zeitpunkt der späteren Veräußerung
+auch diejenigen stillen Reserven zu besteuern sind, die sich in
+dem überführten Wirtschaftsgut zeitlich erst nach
+der Überführung gebildet haben (also Besteuerung
+auch der künftigen stillen Reserven). Eine Sicherstellung
+der stillen Reserven liegt deshalb unter anderem dann nicht vor, wenn
+ein bisher einer inländischen Betriebsstätte des
+Steuerpflichtigen zugeordnetes Wirtschaftsgut einer ausländischen
+Betriebsstätte des Steuerpflichtigen zugeordnet wird (§ 6
+Absatz 5 Satz 1 i. V. m. § 4 Absatz 1 Satz 4 EStG).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800004">II. Übertragung
+von Wirtschaftsgütern nach § 6 Absatz 5 Satz 3
+Nummer 1 bis 3 EStG</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>8</lxbase:randziffer><lxbase:a>Bei der Übertragung von Wirtschaftsgütern nach § 6
+Absatz 5 Satz 3 EStG gegen Gewährung oder Minderung von
+Gesellschaftsrechten handelt es sich als eine Spezialform des Tauschs
+um einen Veräußerungsvorgang, dessen Bewertung
+abweichend von den allgemeinen Grundsätzen zwingend zum
+Buchwert vorzunehmen ist (§ 6 Absatz 6 Satz 4 EStG). Die
+unentgeltliche Übertragung von Wirtschaftsgütern
+nach § 6 Absatz 5 Satz 3 EStG stellt hingegen eine Entnahme
+dar (vgl. Rdnr. 1).</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D523330800005">1. Persönlicher
+Anwendungsbereich</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>9</lxbase:randziffer><lxbase:a>Übertragender i. S. v. § 6 Absatz 5 Satz 3
+Nummer 1 bis 3 EStG ist ein Mitunternehmer, der neben seiner Beteiligung
+an einer Mitunternehmerschaft einen weiteren Betrieb unterhält
+oder dem Sonderbetriebsvermögen an einer weiteren Mitunternehmerschaft
+zuzurechnen ist; bei einer doppelstöckigen Personengesellschaft
+kann Mitunternehmer auch eine Mitunternehmerschaft sein. Bei Mitunternehmerschaften
+ohne Gesamthandsvermögen, z. B. atypisch stillen Gesellschaften
+und Ehegatten-Mitunternehmerschaften in der Land- und Forstwirtschaft,
+gelten § 6 Absatz 5 Satz 3 Nummer 1 und 2 EStG entsprechend. Auch
+für eine Körperschaft i. S. d. KStG gelten über § 8
+Absatz 1 KStG die Regelungen des § 6 Absatz 5 Satz 3 Nummer
+1 bis 3 EStG. Bei Übertragungen unter Beteiligung einer
+Kapitalgesellschaft sind die Regelungen zur verdeckten Gewinnausschüttung
+und zur verdeckten Einlage zu beachten (BFH-Urteil vom 20. Juli
+2005 - <lxprod:doknr-verw linkend="HT5000944">BStBl
+2006 II S. 457</lxprod:doknr-verw> ).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800006">2. Sachlicher Anwendungsbereich</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>10</lxbase:randziffer><lxbase:a>Nach § 6 Absatz 5 Satz 3 Nummer 1 bis 3 EStG müssen
+einzelne Wirtschaftsgüter mit dem Buchwert angesetzt werden,
+wenn diese</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>aus dem Betriebsvermögen
+des Mitunternehmers in das Gesamthandsvermögen einer Mitunternehmerschaft
+und umgekehrt gegen Gewährung oder Minderung von Gesellschaftsrechten
+oder unentgeltlich (Nummer 1),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>aus dem Sonderbetriebsvermögen eines Mitunternehmers
+in das Gesamthandsvermögen derselben Mitunternehmerschaft
+und umgekehrt gegen Gewährung oder Minderung von Gesellschaftsrechten
+oder unentgeltlich (Nummer 2),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>aus dem Sonderbetriebsvermögen eines Mitunternehmers
+in das Gesamthandsvermögen bei einer anderen Mitunternehmerschaft,
+an der er beteiligt ist, und umgekehrt gegen Gewährung
+von Gesellschaftsrechten oder unentgeltlich (Nummer 2),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>unentgeltlich aus einem Sonderbetriebsvermögen
+des Mitunternehmers in das Sonderbetriebsvermögen eines
+anderen Mitunternehmers bei derselben Mitunternehmerschaft, (Nummer
+3),</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>übertragen werden und die Besteuerung der stillen Reserven
+sichergestellt ist. Dabei ist es unerheblich, ob es sich bei dem
+zu übertragenden Wirtschaftsgut um ein Wirtschaftsgut des
+Anlage- oder Umlaufvermögens handelt. § 6 Absatz 5
+Satz 3 EStG gilt auch, wenn es sich bei dem zu übertragenden
+Wirtschaftsgut um eine wesentliche Betriebsgrundlage des abgebenden
+Betriebsvermögen handelt.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>11</lxbase:randziffer><lxbase:a>Für den Zeitpunkt der Übertragung ist aus steuerlicher
+Sicht immer die Zurechnung des wirtschaftlichen Eigentums (§ 39
+Absatz 2 Nummer 1 Satz 1 AO) maßgeblich.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>12</lxbase:randziffer><lxbase:a>Die Rdnrn. 4, 5, 6 und 7 gelten bei der Übertragung
+von einzelnen Wirtschaftsgütern nach § 6 Absatz
+5 Satz 3 Nummer 1 bis 3 EStG entsprechend (siehe auch Rdnr. 24),
+wenn es sich dabei um eine funktionsfähige Einheit im Sinne
+eines Betriebs, Teilbetriebs oder Mitunternehmeranteils - für
+die § 6 Absatz 3 EStG oder § 24 UmwStG Anwendung
+finden - handelt.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>13</lxbase:randziffer><lxbase:a>§ 6 Absatz 5 Satz 3 EStG regelt nicht die Übertragungen
+von Wirtschaftsgütern aus dem Privatvermögen in
+das Gesamthandsvermögen und umgekehrt (vgl. BMF-Schreiben
+vom 29. März 2000 - <lxbase:lit-fs normform="BStBl-2000-I-0046" manuell="nein">BStBl I S. 46</lxbase:lit-fs>2). Für die Übertragung
+von Wirtschaftsgütern des Privatvermögens des
+Mitunternehmers in das Gesamthandsvermögen der Mitunternehmerschaft
+gelten die Grundsätze des BMF-Schreibens vom XX (BStBl
+I S. XXX). 
+<lxbase:fn-verw idref="D523330800019" nummer="1" /></lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800007">3. Unentgeltliche Übertragung
+oder Übertragung gegen Gewährung oder Minderung
+von Gesellschaftsrechten</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>14</lxbase:randziffer><lxbase:a>§ 6 Absatz 5 Satz 3 Nummer 1 und 2 EStG ist anzuwenden,
+soweit die Übertragung unentgeltlich oder gegen Gewährung
+oder Minderung von Gesellschaftsrechten erfolgt; § 6 Absatz
+5 Satz 3 Nummer 3 EStG ist anzuwenden, soweit die Übertragung
+unentgeltlich erfolgt.</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D523330800020">a) Unentgeltlichkeit</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>15</lxbase:randziffer><lxbase:a>Die Übertragung eines Wirtschaftsguts erfolgt unentgeltlich,
+soweit keine Gegenleistung hierfür erbracht wird. Eine
+Gegenleistung kann sowohl durch die Hingabe von Aktiva als auch
+durch die Übernahme von Passiva (z. B. Verbindlichkeiten)
+erfolgen. In diesen Fällen ist die Übertragung
+des Wirtschaftsguts nicht vollumfänglich unentgeltlich.
+Die Übernahme von Verbindlichkeiten stellt wirtschaftlich
+gesehen ein (sonstiges) Entgelt dar. Ob eine teilentgeltliche Übertragung
+vorliegt, ist nach den Grundsätzen der sog. "Trennungstheorie" anhand
+der erbrachten Gegenleistung im Verhältnis zum Verkehrswert
+des übertragenen Wirtschaftsguts zu prüfen. Liegt
+die Gegenleistung unter dem Verkehrswert, handelt es sich um eine
+teilentgeltliche Übertragung, bei der der unentgeltliche
+Teil nach § 6 Absatz 5 Satz 3 EStG zum Buchwert zu übertragen ist.
+Hinsichtlich des entgeltlichen Teils der Übertragung liegt
+eine Veräußerung des Wirtschaftsguts vor und es
+kommt insoweit zur Aufdeckung der stillen Reserven des Wirtschaftsguts
+(vgl. BFH-Urteil vom 11. Dezember 2001 - <lxprod:doknr-verw linkend="HT0574027">BStBl 2002
+II S. 420</lxprod:doknr-verw> ).</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 2:</lxbase:fett></lxbase:a><lxbase:a>A und B sind zu jeweils 50 % an der AB-OHG beteiligt.
+In seinem Einzelunternehmen hat A einen PKW mit einem Buchwert von
+1.000 €. Der Verkehrswert des PKW liegt bei 10.000 €.
+Zudem hat A eine Verbindlichkeit bei der Bank des PKW-Herstellers
+i. H. v. 3.000 €. A überträgt den PKW
+nach § 6 Absatz 5 Satz 3 Nummer 1 EStG ohne Gewährung
+von Gesellschaftsrechten in das Gesamthandsvermögen der
+AB-OHG. Dabei übernimmt die AB-OHG auch das Darlehen.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Es handelt sich um eine teilentgeltliche Übertragung
+des PKW. Der entgeltliche Anteil liegt durch die Übernahme
+der Verbindlichkeit bei 30 % (3.000 € von 10.000 €),
+der unentgeltliche Anteil bei 70 %. Im Einzelunternehmen
+des A werden durch die teilentgeltliche Übertragung stille
+Reserven i. H. v. 2.700 € (3.000 € abzgl. 30 % des
+Buchwerts = 300 €) aufgedeckt. Die AB-OHG muss den
+PKW mit 3.700 € (3.000 € zzgl. 70 % des
+Buchwerts = 700 €) auf der Aktivseite und die
+Verbindlichkeit mit 3.000 € auf der Passivseite im Gesamthandsvermögen
+bilanzieren.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800021">b) Gesellschaftsrechte</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>16</lxbase:randziffer><lxbase:a>Für die Entscheidung, ob eine Übertragung nach § 6
+Absatz 5 Satz 3 Nummer 1 und 2 EStG gegen Gewährung oder
+Minderung von Gesellschaftsrechten erfolgt, ist maßgeblich
+auf den Charakter des in diesem Zusammenhang angesprochenen Kapitalkontos
+des Gesellschafters abzustellen. Zur Abgrenzung zwischen Eigenkapital-
+und Darlehenskonten des Gesellschafters wird auf das BFH-Urteil
+vom 16. Oktober 2008 (<lxprod:doknr-verw linkend="HT0588101">BStBl 2009 II S. 272</lxprod:doknr-verw> ) sowie auf das
+BMF-Schreiben vom 30. Mai 1997 (<lxprod:doknr-verw linkend="HT0138581">BStBl I S. 627</lxprod:doknr-verw>) verwiesen.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Abwandlung Beispiel 2:</lxbase:fett></lxbase:a><lxbase:a>Der Buchwert des PKW beträgt 1.000 € (Verkehrswert
+10.000 €). Von der AB-OHG wurden keine Verbindlichkeiten übernommen.
+A überträgt den PKW in das Gesamthandsvermögen
+der AB-OHG gegen Gewährung von Gesellschaftsrechten i.
+H. von 1.000 € (Buchung auf dem Kapitalkonto I des A) und Buchung
+auf dem gesamthänderisch gebundenen Rücklagenkonto
+i. H. v. 9.000 €. Die OHG setzt den PKW mit 10.000 € in
+ihrem Gesamthandsvermögen an.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Die nur teilweise Buchung über ein Gesellschaftsrechte
+vermittelndes Kapitalkonto führt insgesamt zu einem entgeltlichen
+Vorgang. Die Übertragung des PKW muss gleichwohl zwingend
+mit dem Buchwert angesetzt werden, weil die Übertragung
+gegen Gewährung von Gesellschaftsrechten erfolgt ist (§ 6
+Absatz 5 Satz 3 Nummer 1 EStG). Aus diesem Grund haben sowohl A
+als auch B zum Zwecke der Erfolgsneutralität des Vorgangs
+eine negative Ergänzungsbilanz aufzustellen.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800008">4. Einzelfälle
+zu Übertragungen nach § 6 Absatz 5 Satz 3 Nummer
+1 bis 3 EStG</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523330800022">a) Übertragung
+nach § 6 Absatz 5 Satz 3 Nummer 1 EStG</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>17</lxbase:randziffer><lxbase:a>§ 6 Absatz 5 Satz 3 Nummer 1 EStG regelt ausschließlich
+die Übertragung einzelner Wirtschaftsgüter zwischen
+dem Betriebsvermögen eines Mitunternehmers in das Gesamthandsvermögen
+einer Mitunternehmerschaft, an der der Übertragende beteiligt
+ist oder umgekehrt, sofern die Besteuerung der stillen Reserven
+sichergestellt ist. Für die Übertragung eines
+Wirtschaftsguts nach § 6 Absatz 5 Satz 3 Nummer 1 EStG
+aus dem Gesamthandsvermögen einer Mitunternehmerschaft
+in das Betriebsvermögen des Mitunternehmers und umgekehrt ist
+die Buchwertfortführung nicht auf den ideellen Anteil des
+Mitunternehmers am Wirtschaftsgut des Gesamthandsvermögens
+begrenzt; § 6 Absatz 5 Satz 5 ist zu beachten (siehe auch
+Rdnr. 31).</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 3:</lxbase:fett></lxbase:a><lxbase:a>Vater V und Sohn S betreiben eine land- und forstwirtschaftliche
+GbR. Zum 30. Juni 10 scheidet V in der Form aus der GbR aus, dass
+er nur die wesentlichen Betriebsgrundlagen (Grund- und Boden, Hofstelle),
+die sich in seinem Sonderbetriebsvermögen befinden, behält.
+Das gesamte Gesamthandsvermögen erhält hingegen
+S, der das land- und forstwirtschaftliche Unternehmen als Einzelunternehmen
+fortführt. V verpachtet die wesentlichen Betriebsgrundlagen (Grund-
+und Boden, Hofstelle) an S.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Es handelt sich nicht um einen Fall der steuerneutralen Realteilung
+i. S. v. § 16 Absatz 3 Satz 2 EStG, weil S das nämliche
+Unternehmen in unveränderter Weise fortführt und
+es somit begrifflich an der erforderlichen Betriebsaufgabe fehlt.
+Es liegt auch kein Fall des § 6 Absatz 3 EStG vor, da V
+seinen gesamten Anteil am Gesamthandsvermögen auf S übertragen
+hat. Das zurückbehaltene Sonderbetriebsvermögen
+gehört infolge der Auflösung der Mitunternehmerschaft
+nicht mehr zum Betriebsvermögen derselben Mitunternehmerschaft (unterquotale Übertragung
+von Sonderbetriebsvermögen). Bei der Übertragung der
+Wirtschaftsgüter des Gesamthandsvermögens von
+der land- und forstwirtschaftlichen GbR in das Betriebsvermögen
+des Einzelunternehmens hat S jedoch nach § 6 Absatz 5 Satz
+3 Nummer 1 EStG zwingend die Buchwerte der Wirtschaftsgüter
+fortzuführen, wenn er im Rahmen der Übertragung
+keine Verbindlichkeiten übernommen hat.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800023">b) Übertragung
+nach § 6 Absatz 5 Satz 3 Nummer 2 EStG</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>18</lxbase:randziffer><lxbase:a>§ 6 Absatz 5 Satz 3 Nummer 2 EStG regelt ausschließlich
+die Übertragung zwischen dem Sonderbetriebsvermögen
+eines Mitunternehmers in das Gesamthandsvermögen derselben
+oder einer anderen Mitunternehmerschaft, an der der Übertragende
+beteiligt ist oder umgekehrt, sofern die Besteuerung der stillen Reserven
+sichergestellt ist. Die unmittelbare Übertragung von einzelnen
+Wirtschaftsgütern zwischen den Gesamthandsvermögen
+von Schwesterpersonengesellschaften stellt hingegen keinen Anwendungsfall
+des § 6 Absatz 5 Satz 3 Nummer 2 EStG dar und ist somit
+nicht zu Buchwerten möglich (BFH-Urteil vom 25. November
+2009 - <lxprod:doknr-verw linkend="HT0179448">BStBl
+2010 II S. 471</lxprod:doknr-verw> ); dies gilt auch, wenn es sich um beteiligungsidentische
+Schwesterpersonengesellschaften handelt. Die Buchwertfortführung
+kann in diesen Fällen auch nicht nach § 6 Absatz
+5 Satz 1 EStG erfolgen, da es sich um einen Übertragungsvorgang
+mit Rechtsträgerwechsel handelt und nicht um einen Überführungsvorgang
+(BMF-Schreiben vom 28. Februar 2006 - <lxprod:doknr-verw linkend="HT0579755">BStBl I S. 22</lxprod:doknr-verw>8, Tz. IV.1.).</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>19</lxbase:randziffer><lxbase:a>Bei einer Kettenübertragung eines Wirtschaftsguts zwischen
+zwei Mitunternehmerschaften, bei der das zu übertragende
+Wirtschaftsgut in einem zeitlichen und sachlichen Zusammenhang zunächst
+vom Gesamthandsvermögen der Mitunternehmerschaft in das
+Sonderbetriebsvermögen derselben Mitunternehmerschaft und
+anschließend ins Gesamthandsvermögen der anderen
+(Schwester-)Mitunternehmerschaft übertragen wird, ist zu
+prüfen, ob der Buchwertfortführung die Gesamtplanrechtsprechung
+oder andere missbräuchliche Gestaltungen i. S. d. § 42
+AO entgegen stehen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>20</lxbase:randziffer><lxbase:a>Durch die Rückkehr zur gesellschafterbezogenen Betrachtungsweise
+bei Anwendung des § 6b EStG für Veräußerungen
+nach dem 31. Dezember 2001 können nach § 6b EStG
+begünstigte Wirtschaftsgüter von einer Mitunternehmerschaft
+verkauft und (gleichzeitig) der Gewinn bei der erwerbenden Mitunternehmerschaft über §§ 6b,
+6c EStG im Rahmen der Anschaffung der Wirtschaftsgüter übertragen
+werden, soweit diese Wirtschaftsgüter dem Mitunternehmer
+der anschaffenden Gesellschaft zuzurechnen sind und soweit der begünstigte
+Gewinn anteilig auf diesen Mitunternehmer entfällt (R 6b.2
+Absatz 7 EStR 2008). Eine vollständige Gewinnübertragung
+nach §§ 6b, 6c EStG ist möglich, wenn
+dieselben Mitunternehmer an beiden Mitunternehmerschaften in demselben
+Beteiligungsverhältnis beteiligt sind.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800024">c) Übertragung
+nach § 6 Absatz 5 Satz 3 Nummer 3 EStG</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>21</lxbase:randziffer><lxbase:a>§ 6 Absatz 5 Satz 3 Nummer 3 EStG regelt ausschließlich
+die Übertragung zwischen den jeweiligen Sonderbetriebsvermögen
+verschiedener Mitunternehmer derselben Mitunternehmerschaft, sofern
+die Besteuerung der stillen Reserven sichergestellt ist.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 4:</lxbase:fett></lxbase:a><lxbase:a>Vater V und Sohn S betreiben eine land- und forstwirtschaftliche
+GbR. Zum 30. Juni 10 scheidet V aus der GbR aus. Im Rahmen der Aufgabe
+der land- und forstwirtschaftlichen GbR erhält S zusätzlich
+zu den gesamten Wirtschaftsgütern des Gesamthandsvermögens
+auch die im Sonderbetriebsvermögen des V stehende Hofstelle.
+Den Grund und Boden überträgt V nicht auf S.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Die Übertragung der Hofstelle vom V auf S kann nicht
+zum Buchwert nach § 6 Absatz 5 Satz 3 Nummer 3 EStG erfolgen,
+da durch das Ausscheiden des V und die sich dadurch ergebende Anwachsung
+des Anteils auf S zu einem Einzelunternehmen die GbR beendet und
+somit eine Übertragung zwischen zwei Sonderbetriebsvermögen
+(des V und des S) begrifflich nicht mehr möglich ist. Die in
+der Hofstelle enthaltenen stillen Reserven sind daher aufzudecken.
+Soweit die Wirtschaftsgüter des Gesamthandsvermögens
+in das Einzelunternehmen des S übertragen werden, gelten
+die Ausführungen zu Beispiel 3.</lxbase:a><lxbase:a><lxbase:fett>Abwandlung Beispiel 4:</lxbase:fett></lxbase:a><lxbase:a>Vor seinem Ausscheiden überträgt V die Hofstelle
+aus seinem Sonderbetriebsvermögen in das Sonderbetriebsvermögen
+des S. Zum 30. Juni 10 scheidet V dann aus der GbR aus und S erhält
+die gesamten Wirtschaftsgüter des Gesamthandsvermögens.
+Den Grund und Boden überträgt V nicht auf S.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Die Übertragung der Hofstelle vom V auf S erfolgt zum
+Buchwert nach § 6 Absatz 5 Satz 3 Nummer 3 EStG vom Sonderbetriebsvermögen
+des V in das Sonderbetriebsvermögen des S. Durch das Ausscheiden
+des V zum 30. Juni 10 wird die GbR beendet. Soweit die Wirtschaftsgüter
+des Gesamthandsvermögens in das Einzelunternehmen des S übertragen
+werden, gelten die Ausführungen zu Beispiel 3.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800009">III. Einzelheiten zu § 6
+Absatz 5 Satz 4 bis 6 EStG</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523330800010">1. Sperrfrist des § 6
+Absatz 5 Satz 4 EStG und rückwirkender Ansatz des Teilwerts</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>22</lxbase:randziffer><lxbase:a>Der zwingende Buchwertansatz bei der Übertragung von
+Wirtschaftsgütern nach § 6 Absatz 5 Satz 3 Nummer
+1 bis 3 EStG ist beim Übernehmer zur Vermeidung von missbräuchlichen
+Gestaltungen mit einer sog. Sperrfrist verknüpft (§ 6
+Absatz 5 Satz 4 EStG). Der Übernehmer darf innerhalb von
+drei Jahren das übertragene Wirtschaftsgut weder aus dem
+Betriebsvermögen entnehmen noch veräußern;
+ansonsten wird rückwirkend auf das Ereignis der Übertragung
+der Teilwert für das Wirtschaftsgut angesetzt. Die Sperrfrist
+endet drei Jahre nach Abgabe der Steuererklärung des Übertragenden
+für den Veranlagungs-/Feststellungszeitraum der Übertragung.
+Wurde keine Steuer-/Feststellungserklärung abgegeben,
+endet die Sperrfrist mit Ablauf des sechsten Jahres, das auf den Veranlagungs-/Feststellungszeitraum
+der Übertragung folgt.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>23</lxbase:randziffer><lxbase:a>Keine Verletzung der Sperrfrist (§ 6 Absatz 5 Satz 4
+EStG) liegt vor, wenn die einer Buchwertübertragung nach § 6
+Absatz 5 Satz 3 EStG nachfolgende Übertragung ebenfalls
+wieder unter § 6 Absatz 5 Satz 3 EStG fällt und
+damit auch zwingend zum Buchwert vorzunehmen ist oder wenn das Wirtschaftsgut
+aufgrund höherer Gewalt (Zerstörung, Untergang,
+etc.) aus dem Betriebsvermögen ausgeschieden ist. Die Sperrfrist
+wird durch jede nachfolgende Übertragung nach § 6
+Absatz 5 Satz 3 EStG neu ausgelöst. Im Fall einer Veräußerung
+oder Entnahme innerhalb der Sperrfrist ist der Teilwert rückwirkend
+auf den Zeitpunkt der letzten Übertragung anzusetzen. Eine "fiktive" Entnahme
+i. S. v. § 4 Absatz 1 Satz 3 EStG oder eine "fiktive" Veräußerung
+i. S. v. § 12 Absatz 1 KStG innerhalb der Sperrfrist ist
+kein schädliches Ereignis i. S. v. § 6 Absatz
+5 Satz 4 EStG, so dass nicht rückwirkend der Teilwert anzusetzen
+ist; vielmehr ist die Entnahme nach § 6 Absatz 1 Nummer
+4 Satz 1 2. Halbsatz EStG mit dem gemeinen Wert des Wirtschaftsguts
+zu bewerten.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>24</lxbase:randziffer><lxbase:a>Bei der Übertragung selbst geschaffener nicht bilanzierungsfähiger
+immaterieller Wirtschaftsgüter des Anlagevermögens
+(§ 5 Absatz 2 EStG) und von im Sammelposten erfassten Wirtschaftsgütern
+(§ 6 Absatz 2a EStG) muss für die Sicherstellung
+der Besteuerung der stillen Reserven und für die Überwachung der
+Sperrfrist in § 6 Absatz 5 Satz 4 EStG der Steuerpflichtige
+eine solche Übertragung derartiger Wirtschaftsgüter
+in geeigneter Weise dokumentieren.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>25</lxbase:randziffer><lxbase:a>Der mit der Sperrfrist des § 6 Absatz 5 Satz 4 EStG
+verbundene rückwirkende Ansatz des Teilwerts für
+das veräußerte Wirtschaftsgut wird ausschließlich
+einheitlich angewendet, d. h. bei einer vorherigen Übertragung
+auf eine Gesamthand wird der rückwirkende Ansatz des Teilwerts
+in voller Höhe vorgenommen und nicht nur für den
+Anteil des Wirtschaftsguts, der auf neue Mitunternehmer der Gesamthand übergegangen
+ist.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 5:</lxbase:fett></lxbase:a><lxbase:a>A und B sind zu jeweils 50 % an der landwirtschaftlichen
+AB-GbR beteiligt. Neben der AB-GbR betreibt A noch ein landwirtschaftliches
+Einzelunternehmen. A überträgt aus seinem Einzelunternehmen
+eine Maschine in das Gesamthandsvermögen der AB-GbR. Die
+Maschine wird nach einem halben Jahr von der AB-GbR an einen fremden
+Dritten veräußert.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Die Übertragung der Maschine aus dem Einzelunternehmen
+des A in das Gesamthandsvermögen der AB-GbR erfolgt zunächst
+nach § 6 Absatz 5 Satz 3 Nummer 1 EStG zum Buchwert. Bei
+einer Veräußerung innerhalb der dreijährigen
+Sperrfrist (§ 6 Absatz 5 Satz 4 EStG) muss rückwirkend
+auf den Tag der Übertragung der Teilwert der Maschine angesetzt
+werden. Der Entnahmegewinn fällt beim Einzelunternehmen
+des A an. Der Teilwert ist in voller Höhe rückwirkend
+anzusetzen und nicht lediglich für den hälftigen
+Anteil an der Maschine, der durch die Übertragung auch
+dem B zuzurechnen ist.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>26</lxbase:randziffer><lxbase:a>Ein rückwirkender Ansatz des Teilwerts erfolgt nicht,
+wenn die bis zur Übertragung entstandenen stillen Reserven
+durch Erstellung einer Ergänzungsbilanz dem übertragenden
+Mitunternehmer zugeordnet werden. Hierdurch ist sichergestellt,
+dass die bis zur Übertragung entstandenen stillen Reserven
+in der Person des übertragenden Mitunternehmers - wie in
+Beispiel 5 - versteuert werden.</lxbase:a><lxbase:a>Trotz Erstellung einer Ergänzungsbilanz ist nach R 6.15
+EStR 2008 ein sofortiger (rückwirkender) Ansatz des Teilwerts
+im Übertragungszeitpunkt vorzunehmen, wenn durch die Übertragung
+keine Änderung des Anteils des übertragenden Gesellschafters
+an dem übertragenen Wirtschaftsgut eingetreten ist, aber
+das Wirtschaftsgut einem anderen Rechtsträger zuzuordnen
+ist. Dies ist z. B. der Fall, wenn ein Wirtschaftsgut aus einem
+Betriebsvermögen in das Gesamthandsvermögen einer
+Mitunternehmerschaft übertragen wird, an deren Vermögen
+der Übertragende zu 100 % beteiligt ist.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 6:</lxbase:fett></lxbase:a><lxbase:a>An einer KG ist A zu 100 % und eine GmbH zu 0 % beteiligt.
+A überträgt aus seinem Einzelunternehmen ein unbebautes
+Grundstück (Buchwert 100.000 €, Teilwert 500.000 €)
+in das Gesamthandsvermögen der KG gegen Gewährung von
+Gesellschaftsrechten. Die KG setzt das unbebaute Grundstück
+mit dem Teilwert in ihrer Gesamthandsbilanz an; zum Zwecke der Erfolgsneutralität
+des Vorgangs wird für A eine negative Ergänzungsbilanz
+mit einem Minderwert des unbebauten Grundstücks von 400.000 € ausgewiesen.
+Das unbebaute Grundstück wird nach einem Jahr von der KG
+an einen fremden Dritten veräußert.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Auf den Tag der Übertragung ist der Teilwert des Grundstücks
+anzusetzen. A versteuert somit - wie auch durch die Erstellung der
+Ergänzungsbilanz sichergestellt - die bis zur Übertragung
+entstandenen stillen Reserven (400.000 €). Die Versteuerung
+erfolgt jedoch nicht erst im Veräußerungs-, sondern
+schon im Übertragungszeitpunkt. Sofern A § 6b
+EStG anwenden will, ist somit für die Sechs-Jahres-Frist
+i. S. d. § 6b Absatz 4 Satz 1 Nummer 2 EStG auf den Übertragungszeitpunkt
+abzustellen.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>27</lxbase:randziffer><lxbase:a>Ob die dreijährige Sperrfrist eingehalten worden ist,
+kann regelmäßig nur das Finanzamt des Übernehmers
+erkennen. Stellt dieses fest, dass das übertragene Wirtschaftsgut
+innerhalb der Sperrfrist vom Übernehmer entnommen oder
+veräußert wurde, muss es dieses Ereignis dem Finanzamt
+des Übertragenden mitteilen. Dieses Finanzamt muss dann
+prüfen, ob rückwirkend der Teilwert anzusetzen
+und deshalb die Steuerfestsetzung nach § 175 Absatz 1 Satz
+1 Nummer 2 i. V. m. Absatz 2 Satz 1 AO zu ändern ist. Die
+entsprechenden Änderungen beim Übernehmer hat
+das für die Besteuerung zuständige Finanzamt ebenfalls
+nach § 175 Absatz 1 Satz 1 Nummer 2 AO vorzunehmen, z.
+B. eine höhere Abschreibungsbemessungsgrundlage für
+das übertragene Wirtschaftsgut.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 7:</lxbase:fett></lxbase:a><lxbase:a>Im April 06 übertragen die Mitunternehmer A und B jeweils
+ein Wirtschaftsgut (keine wesentliche Betriebsgrundlage), das sie
+bis dahin in ihrem jeweiligen Einzelunternehmen genutzt haben, in
+das Gesamthandsvermögen der AB-OHG. A gibt seine Einkommensteuererklärung
+für 06 im Mai 07 und B seine Einkommensteuererklärung
+06 im Dezember 07 ab. Im September 10 veräußert die
+AB-OHG, die auf sie im April 06 übertragenen Wirtschaftsgüter.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Für das von A übertragene Wirtschaftsgut ist
+bei der Veräußerung durch die AB-OHG die Sperrfrist
+bereits abgelaufen; es verbleibt beim Buchwertansatz zum Übertragungsstichtag.
+Für das von B übertragene Wirtschaftsgut ist dagegen
+rückwirkend der Teilwert anzusetzen.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800011">2. Begründung
+oder Erhöhung eines Anteils einer Körperschaft,
+Personenvereinigung oder Vermögensmasse an einem Wirtschaftsgut
+i. S. d. § 6 Absatz 5 Satz 5 EStG</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>28</lxbase:randziffer><lxbase:a>Bei einer Übertragung eines Wirtschaftsguts nach § 6
+Absatz 5 Satz 3 Nummer 1 EStG aus dem Betriebsvermögen
+des Mitunternehmers in das Gesamthandsvermögen einer Mitunternehmerschaft,
+an der vermögensmäßig auch eine Körperschaft,
+Personenvereinigung oder Vermögensmasse beteiligt ist,
+ist der Teilwert anzusetzen, soweit der vermögensmäßige
+Anteil einer Körperschaft, Personenvereinigung oder Vermögensmasse
+an dem Wirtschaftsgut unmittelbar oder mittelbar begründet
+wird oder sich erhöht (§ 6 Absatz 5 Satz 5 EStG). Auch
+die Erstellung einer Ergänzungsbilanz ändert an
+den Rechtsfolgen des § 6 Absatz 5 Satz 5 EStG nichts.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 8:</lxbase:fett></lxbase:a><lxbase:a>A und die B-GmbH sind zu jeweils 50 % vermögensmäßig
+an der AB-OHG beteiligt. In seinem Einzelunternehmen hat A einen
+PKW mit einem Buchwert von 1.000 €. Der Teilwert des PKW
+beträgt 10.000 €. A überträgt
+den PKW unentgeltlich in das Gesamthandsvermögen der AB-OHG.
+A ist nicht Gesellschafter der B-GmbH und auch keine nahe stehende
+Person.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Grundsätzlich ist bei einer Übertragung von
+Wirtschaftsgütern nach § 6 Absatz 5 Satz 3 Nummer
+1 EStG aus einem Betriebsvermögen eines Mitunternehmers in
+das Gesamthandsvermögen einer Mitunternehmerschaft die
+Buchwertverknüpfung vorgeschrieben. Durch die Beteiligung
+der B-GmbH an der AB-OHG gehen 50 % der stillen Reserven
+des PKW auf die B-GmbH über. Aus diesem Grund muss nach § 6
+Absatz 5 Satz 5 EStG der hälftige Teilwert i. H. v. 5.000 € angesetzt
+werden, da ein Anteil der B-GmbH am übertragenen PKW von
+50 % begründet wird. Die AB-OHG muss den PKW mit
+5.500 € (5.000 € zzgl. 50 % des Buchwerts
+i. H. v. 500 €) im Gesamthandsvermögen bilanzieren.
+Im Einzelunternehmen des A entsteht ein anteiliger Gewinn aus der Übertragung
+des PKW i. H. v. 4.500 € (5.000 € abzgl. 50 % des
+Buchwerts = 500 €).</lxbase:a></lxbase:beispiel></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>29</lxbase:randziffer><lxbase:a>Ist eine Körperschaft, Personenvereinigung oder Vermögensmasse
+zu 100 % vermögensmäßig am Gesamthandsvermögen
+einer Mitunternehmerschaft beteiligt, ist die Übertragung
+eines Wirtschaftsguts aus dem Betriebsvermögen einer Körperschaft,
+Personenvereinigung oder Vermögensmasse in das Gesamthandsvermögen
+der Mitunternehmerschaft oder umgekehrt zwingend nach § 6 Absatz
+5 Satz 3 Nummer 1 EStG zum Buchwert vorzunehmen, da ihr vermögensmäßiger
+Anteil an dem Wirtschaftsgut weder begründet wird noch
+sich erhöht. Gleiches gilt, wenn eine Körperschaft,
+Personenvereinigung oder Vermögensmasse nicht am Vermögen
+der Mitunternehmerschaft beteiligt ist, auf die das Wirtschaftsgut übertragen
+wird. In beiden Fällen findet § 6 Absatz 5 Satz
+5 EStG keine Anwendung.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 9:</lxbase:fett></lxbase:a><lxbase:a>A ist als Kommanditist vermögensmäßig
+alleine an der B-GmbH &amp; Co. KG beteiligt. Die B-GmbH ist
+als Komplementärin vermögensmäßig
+nicht an der B-GmbH &amp; Co. KG beteiligt. In seinem Einzelunternehmen
+hat A einen PKW mit einem Buchwert von 1.000 €. Der Teilwert
+des PKW beträgt 10.000 €. A überträgt
+den PKW unentgeltlich in das Gesamthandsvermögen der KG.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Grundsätzlich ist bei einer Übertragung von
+Wirtschaftsgütern nach § 6 Absatz 5 Satz 3 Nummer
+1 EStG aus einem Betriebsvermögen eines Mitunternehmers in
+das Gesamthandsvermögen einer Mitunternehmerschaft die
+Buchwertverknüpfung vorgeschrieben. Da die B-GmbH an der
+B-GmbH &amp; Co. KG vermögensmäßig
+nicht beteiligt ist, gehen hier - anders als in Beispiel 8 - auch
+keine stillen Reserven des PKW auf die B-GmbH über, denn
+wirtschaftlich gesehen ist der PKW sowohl vor als auch nach der Übertragung
+allein dem A zuzurechnen. Aus diesem Grund müssen bei der Übertragung
+des PKW keine stillen Reserven nach § 6 Absatz 5 Satz 5
+EStG aufgedeckt werden.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>30</lxbase:randziffer><lxbase:a>§ 6 Absatz 5 Satz 5 EStG findet auch dann keine Anwendung,
+wenn sowohl eine natürliche Person als auch eine Körperschaft,
+Personenvereinigung oder Vermögensmasse vermögensmäßig
+am Gesamthandsvermögen einer Mitunternehmerschaft beteiligt
+sind und sich durch die Übertragung der ideelle Anteil der
+Körperschaft, Personenvereinigung oder Vermögensmasse
+am Wirtschaftsgut verringert.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 10:</lxbase:fett></lxbase:a><lxbase:a>A und die B-GmbH sind im Verhältnis 2:1 an der AB-OHG
+beteiligt. Zum Gesamthandsvermögen der OHG gehört
+ein PKW (Buchwert 1.000 €, Teilwert 10.000 €).
+Gegen Minderung von Gesellschaftsrechten überträgt
+die OHG den PKW in das Einzelunternehmen des A.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Bei der Übertragung des PKW aus dem Gesamthandsvermögen
+der OHG in das Betriebsvermögen des A ist nach § 6
+Absatz 5 Satz 3 Nummer 1 EStG die Buchwertverknüpfung vorgeschrieben,
+sofern die Besteuerung der stillen Reserven bei A sichergestellt
+ist. § 6 Absatz 5 Satz 5 EStG ist nicht einschlägig, da
+der Anteil der B-GmbH am PKW nicht begründet oder erhöht
+wird, sondern sich verringert.</lxbase:a></lxbase:beispiel></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>31</lxbase:randziffer><lxbase:a>Ist eine Körperschaft, Personenvereinigung oder Vermögensmasse
+zu weniger als 100 % vermögensmäßig
+am Gesamthandsvermögen einer Mitunternehmerschaft beteiligt,
+ist die Übertragung eines Wirtschaftsguts aus dem Betriebsvermögen
+einer Körperschaft, Personenvereinigung oder Vermögensmasse
+in das Gesamthandsvermögen der Mitunternehmerschaft oder
+umgekehrt zwingend nach § 6 Absatz 5 Satz 3 Nummer 1 EStG
+zum Buchwert vorzunehmen, allerdings beschränkt auf den
+der übertragenden Kapitalgesellschaft, Personenvereinigung
+oder Vermögensmasse nach der Übertragung mittelbar
+zuzurechnenden Anteil am Wirtschaftsgut.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 11:</lxbase:fett></lxbase:a><lxbase:a>Die A-GmbH ist Komplementärin und die B-GmbH ist Kommanditistin
+der X-GmbH &amp; Co. KG. Die A-GmbH ist am Vermögen
+der KG zu 90 % und die B-GmbH zu 10 % beteiligt.
+Nun überträgt die A-GmbH einen PKW aus ihrem Betriebsvermögen
+in das Gesamthandsvermögen der KG.</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><lxbase:a>Der PKW kann nur i. H. v. 90 % zum Buchwert nach § 6
+Absatz 5 Satz 3 Nummer 1 EStG in das Gesamthandsvermögen
+der KG übertragen werden, da der übertragenden
+A-GmbH der PKW nur insoweit weiterhin mittelbar zugerechnet wird.
+Hinsichtlich der 10 %igen Anteils am PKW, der auf die B-GmbH
+entfällt, sind die stillen Reserven aufzudecken, da insoweit
+ein 10 %iger Anteil an dem PKW für die B-GmbH
+neu begründet wird (§ 6 Absatz 5 Satz 5 EStG).</lxbase:a></lxbase:beispiel></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>32</lxbase:randziffer><lxbase:a>Ist der Gesellschafter der Körperschaft gleichzeitig
+Mitunternehmer der Mitunternehmerschaft und wird ein Wirtschaftsgut
+von der Körperschaft in das Gesamthandsvermögen
+der Mitunternehmerschaft übertragen, können die Regelungen
+zur verdeckten Gewinnausschüttung Anwendung finden.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800012">3. Sperrfrist bei Umwandlungsvorgängen
+(§ 6 Absatz 5 Satz 4 und 6 EStG)</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>33</lxbase:randziffer><lxbase:a>Eine Veräußerung innerhalb der Sperrfrist ist
+auch eine Einbringung eines Betriebs, Teilbetriebs oder Mitunternehmeranteils
+nach §§ 20, 24 UmwStG sowie der Formwechsel nach § 25
+UmwStG unabhängig davon, ob die Buchwerte, gemeinen Werte
+oder Zwischenwerte angesetzt werden, wenn zu dem eingebrachten Betriebsvermögen
+ein Wirtschaftsgut gehört, für das noch die Sperrfrist
+nach § 6 Absatz 5 Satz 4 EStG läuft (vgl. auch
+BMF-Schreiben vom 28. Februar 2006 - <lxprod:doknr-verw linkend="HT0579755">BStBl I S. 22</lxprod:doknr-verw>8, Tz. VIII).</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>34</lxbase:randziffer><lxbase:a>Die zwingende Buchwertverknüpfung bei der Übertragung
+von Wirtschaftsgütern wird innerhalb einer Sperrfrist von
+sieben Jahren nach § 6 Absatz 5 Satz 6 EStG rückwirkend
+versagt, wenn innerhalb dieser Frist ein Anteil an einer Körperschaft,
+Personenvereinigung oder Vermögensmasse an dem übertragenen Wirtschaftsgut
+unmittelbar oder mittelbar begründet wird oder sich erhöht. Diese
+Regelung gilt insbesondere in Umwandlungsfällen (z. B.
+in den Fällen der §§ 20, 25 UmwStG) oder
+auch - vorbehaltlich der Rdnr. 29 - bei Anwachsung des Vermögens
+auf eine Körperschaft, Personenvereinigung oder Vermögensmasse.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>35</lxbase:randziffer><lxbase:a>Für die Überwachung der siebenjährigen
+Sperrfrist gelten die Ausführungen zu Rdnr. 27 entsprechend.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800013">IV. Verhältnis
+von § 6 Absatz 5 EStG zu anderen Vorschriften</lxbase:ueberschrift><lxbase:a>Die Buchwertverknüpfung des § 6 Absatz 5 EStG
+steht bei Überführungen oder Übertragungen
+von Wirtschaftsgütern in Konkurrenz zu anderen steuerrechtlichen
+Vorschriften:</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D523330800014">1. Fortführung
+des Unternehmens (§ 6 Absatz 3 EStG)</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>36</lxbase:randziffer><lxbase:a>Scheidet ein Mitunternehmer aus der Mitunternehmerschaft aus
+und überträgt er zu Lebzeiten oder durch Tod seinen
+gesamten Mitunternehmeranteil auf eine oder mehrere natürliche
+Personen unentgeltlich, so sind nach § 6 Absatz 3 EStG die
+Buchwerte fortzuführen (vgl. im Weiteren BMF-Schreiben
+vom 3. März 2005 - <lxbase:lit-fs normform="BStBl-2005-I-0045" manuell="nein">BStBl I S. 45</lxbase:lit-fs>8 - unter Berücksichtigung
+der Änderungen durch das BMF-Schreiben vom 7. Dezember
+2006 - <lxbase:lit-fs normform="BStBl-2006-I-0076" manuell="nein">BStBl I S. 76</lxbase:lit-fs>6). In den Fällen des § 6 Absatz
+3 EStG handelt es sich um einen Fall der Gesamtrechtsnachfolge.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800015">2. Realteilung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>37</lxbase:randziffer><lxbase:a>Eine Realteilung einer Mitunternehmerschaft nach § 16
+Absatz 3 Satz 2 EStG liegt vor, wenn die bisherige Mitunternehmerschaft
+beendet wird und zumindest ein Mitunternehmer den ihm zugeteilten
+Teilbetrieb, Mitunternehmeranteil oder die ihm zugeteilten Einzelwirtschaftsgüter
+als Betriebsvermögen fortführt. Insoweit sind
+die Buchwerte fortzuführen (vgl. auch BMF-Schreiben vom
+28. Februar 2006 - <lxprod:doknr-verw linkend="HT0579755">BStBl I S. 22</lxprod:doknr-verw>8). Scheidet ein Mitunternehmer
+aus einer bestehenden Mitunternehmerschaft aus und wird diese von
+den verbleibenden Mitunternehmern unverändert fortgeführt,
+liegt kein Fall der Realteilung vor (BFH-Urteil vom 10. März
+1998 - <lxprod:doknr-verw linkend="HT0146374">BStBl
+1999 II S. 269</lxprod:doknr-verw> ). Die Realteilung hat Vorrang vor der Regelung
+des § 6 Absatz 5 EStG. Demzufolge können unschädlich
+zusammen mit Einzelwirtschaftsgütern auch Verbindlichkeiten übertragen
+werden.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800016">3. Veräußerung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>38</lxbase:randziffer><lxbase:a>Bei einer teilentgeltlichen oder vollentgeltlichen Veräußerung
+des Wirtschaftsguts kommt es zur anteiligen oder zur vollumfänglichen
+Aufdeckung der stillen Reserven des Wirtschaftsguts, insoweit findet § 6
+Absatz 5 EStG keine Anwendung (sog. "Trennungstheorie" -
+vgl. Rdnr. 15).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800017">4. Tausch</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>39</lxbase:randziffer><lxbase:a>Der Anwendungsbereich des § 6 Absatz 5 Satz 3 EStG geht
+den allgemeinen Regelungen zur Gewinnrealisierung bei Tauschvorgängen
+nach § 6 Absatz 6 EStG vor.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523330800018">V. Zeitliche Anwendung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>40</lxbase:randziffer><lxbase:a>Dieses Schreiben ist in allen noch offenen Fällen anzuwenden.
+Das BMF-Schreiben vom 7. Juni 2001 (<lxprod:doknr-verw linkend="HT0575490">BStBl I S. 367</lxprod:doknr-verw>) wird mit der
+Veröffentlichung dieses Schreibens aufgehoben.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel /></lxrvw:text-rspvwa><lxbase:fussnoten><lxbase:fussnote id="D523330800019" nummer="1"><lxbase:a>Das BMF-Schreiben vom 26. November 2004 (<lxprod:doknr-verw linkend="HT0578783">BStBl I S. 1190</lxprod:doknr-verw>) wird
+derzeit von der Verwaltung überarbeitet und demnächst
+im BStBl I veröffentlicht.</lxbase:a></lxbase:fussnote></lxbase:fussnoten><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>INFO</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Info</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:newsrelevant relevant="top" datum="2011-05-26" uhrzeit="11:00:00" /><lxbase:newsgebiete><lxbase:newsgebiet>Einkommensteuer/Lohnsteuer</lxbase:newsgebiet></lxbase:newsgebiete><lxbase:newsletterlex><lxbase:newsletterrelevant relevant="ja" ausgabe="201121" /><lxbase:newsletter-text><lxbase:a>Das Bundesministerium der Finanzen hat zum Entwurf des Schreibens
+vom 24.05.2011 zur Überführung und Übertragung
+von einzelnen Wirtschaftsgütern nach § 6 Absatz
+5 EStG eine Verbandsanhörung eingeleitet. Die Verbände haben
+bis zum 24. Juni 2011 die Möglichkeit, eine schriftliche
+Stellungnahme zum vorliegenden Entwurf abzugeben.</lxbase:a></lxbase:newsletter-text></lxbase:newsletterlex></lxbase:allgemeine-angaben></lxrvw:rspvwa>

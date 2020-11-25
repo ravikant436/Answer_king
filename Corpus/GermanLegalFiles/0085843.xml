@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" dok-nummer="0085843" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Berlin</lxbase:institution></lxbase:autor><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1988-05-17" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>StZBl-1988-1699</lxbase:fs-kuerzel></lxbase:normiert><lxbase:nicht-normiert><lxbase:fs-kuerzel>EStK § 7 EStG Fach 3 Nr.
+1004</lxbase:fs-kuerzel></lxbase:nicht-normiert></lxbase:fundstellen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:7</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1988" /></lxbase:jahre><lxbase:zitate><lxbase:alt-zitate><lxbase:alt-zitat>OFD Berlin <lxbase:az normform="St445S21964/86" manuell="nein">St 445 - S-2196 - 4/86</lxbase:az> v.
+8. 12. 1993 EStK § 7 EStG Fach 3 Nr. 1004</lxbase:alt-zitat><lxbase:alt-zitat>OFD Berlin <lxbase:az normform="St445S21964/86" manuell="nein">St 445 - S-2196 - 4/86</lxbase:az> v.
+2. 6. 1994 EStK § 7 EStG Fach 3 Nr. 1004</lxbase:alt-zitat></lxbase:alt-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Aufteilung des Kaufpreises für Eigentumswohnungen
+für Zwecke der Einkommensteuer nach Tabellenwerten</lxbase:a></lxbase:headline></lxbase:titel><lxbase:kapitel><lxbase:a>Zur Aufteilung des Kaufpreises für in Berlin (West) belegene
+Eigentumswohnungen in Anteile für das Gebäude sowie für den Grund
+und Boden habe ich ein vereinfachtes Verfahren entwickelt, das im
+Rahmen der Einkommensteuerveranlagung ohne die Inanspruchnahme der
+Bewertungs- und Grundsteuerstellen anzuwenden ist.</lxbase:a><lxbase:a>Es handelt sich um ein mathematisches Verfahren, bei dem
+die Einzelwerte nach den Grundsätzen des BFH-Urteils vom 15. Januar
+1985 (StZBl. Bln. S. 1415) ermittelt wurden. Die Ergebnisse wurden
+in einem statistischen Verfahren an Hand von in den Vorjahren durchgeführten
+Kaufpreisaufteilungen überprüft.</lxbase:a><lxbase:a>Die auf Grund der Berechnung erstellten Tabellen berücksichtigen
+zur Differenzierung fünf verschiedene Werte:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>die Wohnfläche</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>den Miteigentumsanteil</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a>die Grundstücksgröße</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a>das Baujahr</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5. "><lxbase:a>den Bodenwert.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Die Angaben zu 1. und 2. sind den Steuerakten zu entnehmen
+oder durch Rückfrage beim Steuerpflichtigen festzustellen. Die Angaben
+zu 3. bis 5. werden künftig von den Bewertungs- und Grundsteuerstellen
+auf der Rückseite der für das Finanzamt des Erwerbers bestimmten
+Durchschrift der Veräußerungsmitteilung vermerkt werden. Soweit
+Angaben ausnahmsweise fehlen, können diese telefonisch oder schriftlich
+bei der für die Einheitsbewertung der Eigentumswohnung zuständigen Bewertungs-
+und Grundsteuerstelle erfragt werden. Diese Werte können dem Steuerpflichtigen
+bzw. seinem Berater auf Anfrage bereits vor Durchführung der Veranlagung
+mitgeteilt werden.</lxbase:a><lxbase:a>Nachdem alle Ausgangsdaten vorliegen, ist wie folgt zu
+verfahren:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>Es ist
+die in Quadratmetern angegebene Grundstücksgröße mit dem Wert des Miteigentumsanteils
+zu multiplizieren, um die Größe der dem Miteigentum entsprechenden
+anteiligen Grundstücksfläche zu ermitteln.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="48*" /><cals:colspec colnum="2" colname="2" colwidth="52*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Gesamtgröße des Grundstücks:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>1.200 qm</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Miteigentumsanteil:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>70/1.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Anteilige Grundstücksfläche:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>1.200 x 70 : 1.000 = 84 qm</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>Es ist das Verhältnis dieser
+anteiligen Grundstücksfläche zur Wohnfläche zu berechnen.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="46*" /><cals:colspec colnum="2" colname="2" colwidth="54*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Anteilige Grundstücksfläche:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>84 qm</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Wohnfläche:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>110 qm</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Wohnfläche:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>anteilige GrSt.fläche = 110
+: 84 = 1,31</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Ergebnis</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>= 1 : 1,31</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a>Damit steht fest, daß in diesem Falle die Tabelle Nr.
+10 anzuwenden ist.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a>Es ist das Gebäudealter
+(Lebensalter) zu ermitteln. Hierbei ist vom Jahr der Anschaffung
+das Jahr der Fertigstellung des Gebäudes (Baujahr) abzuziehen.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="50*" /><cals:colspec colnum="2" colname="2" colwidth="50*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Jahr der Anschaffung:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>1986</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Baujahr:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>1934</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Lebensalter:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>1986 - 1934 = 52 Jahre</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a>In der Tabelle ist unter "Lebensalter in Jahren" dieser
+Wert aufzusuchen. Er findet sich bei 50 - 54 Jahren.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a>In der Spalte 50 - 54 Jahre
+Lebensalter ist der Wert aufzusuchen, der dem von der Bewertungs-
+und Grundsteuerstelle mitgeteilten Bodenpreis zugeordnet ist.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><lxbase:a>Bodenpreis: 650 DM/qm</lxbase:a></lxbase:beispiel></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5. "><lxbase:a>Es kann jetzt der zugehörige
+Tabellenwert abgelesen werden. Für 600 DM bis 699 DM Bodenpreis
+ist in der Tabelle Nr. 10 beim Lebensalter 50 - 54 Jahre ein Gebäudewertanteil
+von 84 % angegeben. Der anteilige Wert für den Grund und Boden beträgt
+entsprechend 16 %.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Die Anwendung eines Tabellenwertes sowie die zugrundeliegenden
+Ausgangsdaten sind in einer Anlage zum Steuerbescheid zu erläutern.</lxbase:a><lxbase:a>Die Tabellenwerte gelten nur für in Berlin belegene Eigentumswohnungen
+für Eigentumsübertragungen (Lastenwechsel) ab 1. Januar 1984.</lxbase:a><lxbase:a>Sollte der Steuerpflichtige mit dem so ermittelten Gebäudewertanteil
+nicht einverstanden sein oder ist ein weiter zurückliegender Erwerbszeitpunkt
+zu berücksichtigen, so ist die Bewertungs- und Grundsteuerstelle
+des für die Einheitsbewertung zuständigen Finanzamtes um Amtshilfe
+zu bitten. Diese wird dann eine Berechnung nach dem bisherigen Verfahren
+durchführen (vgl. Rundverfügung Nr. 118/85, EW-Nr. 225 (1964).</lxbase:a><lxbase:a>Um Amtshilfe ist auch zu ersuchen, wenn das Verhältnis
+der anteiligen Grundstücksfläche kleiner als 1 : 0,25 bzw. größer
+als 1 : 4,5 ist oder wenn Besonderheiten des Falles erkennbar sind,
+die vermuten lassen, daß der Gebäudewertanteil in einem Standard-
+Berechnungsverfahren nicht erfaßbar ist (z. B. neben Sonder- und
+Miteigentum ist auch in größerem Umfang Teileigentum vorhanden oder
+es handelt sich um nachträglich geschaffene Dachwohnungen).</lxbase:a><lxbase:a>Diese Rundverfügung ist auf alle nicht bestandskräftigen
+Veranlagungsfälle ab dem Veranlagungszeitraum 1984 anzuwenden. Soweit
+dem Steuerpflichtigen bereits Einzelwertermittlungen als Grundlage
+für AfA-Berechnungen bekannt sind, verbleibt es bei den festgestellten
+Werten auch für die Zukunft, es sei denn, der Steuerpflichtige beantragt
+die Anwendung des Tabellenwertes.</lxbase:a><lxbase:a>Zusatz für die Bewertungs- und Grundsteuerstellen:</lxbase:a><lxbase:a>Von sofort an sind bei Eigentumswohnungen auf der Rückseite
+der für das Finanzamt des Erwerbers bestimmten Veräußerungsmitteilung
+(GrEStG 1e) folgende Angaben zu machen:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>Grundstücksgröße (Gesamtgröße des Grundstücks)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Baujahr</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Bodenwert (letzter Richtwert
+in DM/qm)</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Amtshilfeersuchen von FÄ im übrigen Bundesgebiet sind
+nach wie vor von den Bewertungs- und Grundsteuerstellen zu beantworten.
+Dabei ist nach den vorstehenden Grundsätzen zu verfahren, wobei
+fehlende Angaben beim ersuchenden FA nachzufordern sind.</lxbase:a><lxbase:a>Von der Aufnahme der Anlage wurde abgesehen.</lxbase:a><lxbase:a>---</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Berlin</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

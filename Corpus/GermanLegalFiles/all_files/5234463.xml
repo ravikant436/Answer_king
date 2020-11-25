@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="5234463" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Münster</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2230 - 129 - St 23 - 33</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2230 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2230</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2013-03-06" ts="nein" /></lxbase:daten><lxbase:fundstellen><lxbase:nicht-normiert><lxbase:fs-kuerzel>EStGK NW §§ 13,
+13a EStG Fach 1 Nr. 819</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DB-2013-0788</lxbase:fs-kuerzel></lxbase:nicht-normiert></lxbase:fundstellen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:13</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:13a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:14</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:14a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:34b</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:51</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:68</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2013" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Einkommensteuerveranlagung der Land- und Forstwirte für
+den Veranlagungszeitraum 2011</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523446300001"><lxbase:a>I.	 Grundsatzverfügung, EStG-Kartei NRW §§ 13,
+13a EStG Fach 1 Nr. 800</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523446300002"><lxbase:a>II. 	Gesetzliche Änderungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523446300003"><lxbase:a>III. Aktuelle
+BMF-Schreiben</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523446300004"><lxbase:a>IV. Aktuelle
+Rechtsprechung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523446300005"><lxbase:a>V. anhängige
+Verfahren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523446300006"><lxbase:a>VI. Erlasse
+des FM NRW</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523446300007"><lxbase:a>VII. Sonstige
+Hinweise</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D523446300001">I.	 Grundsatzverfügung,
+EStG-Kartei NRW §§ 13, 13a EStG Fach 1 Nr. 800</lxbase:ueberschrift><lxbase:a>Die Grundsatzverfügung ist unter der EStG-Kartei NRW §§ 13,
+13a EStG Fach 1 Nr. 800 eingestellt. Dieses Dokument enthält
+die zeitraumunabhängigen allgemein gültigen Anweisungen.
+Die im Hauptdokument dargestellten Grundsätze sind für
+alle Veranlagungszeiträume anzuwenden.</lxbase:a><lxbase:a>Die zu den einzelnen Veranlagungszeiträumen ergehenden
+gesonderten Verfügungen weisen auf die Besonderheiten des
+jeweiligen Veranlagungsjahres hin.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523446300002">II. 	Gesetzliche Änderungen</lxbase:ueberschrift><lxbase:a><lxbase:fett>Gesetzliche Verpflichtung zur elektronischen Übermittlung
+von Steuererklärungen ab dem Veranlagungszeitraum 2011
+- Gesetz zur Modernisierung und Entbürokratisierung des
+Steuerverfahrens (Steuerbürokratieabbaugesetz - SteuBAG, <lxbase:lit-fs normform="BGBl-2008-I-2850" manuell="nein">BGBl I 2008,
+2850</lxbase:lit-fs>) sowie das Jahressteuergesetz 2010 (<lxbase:lit-fs normform="BGBl-2010-I-1768" manuell="nein">BGBl I 2010, 1768</lxbase:lit-fs>)</lxbase:fett></lxbase:a><lxbase:a>Ab dem Veranlagungszeitraum 2011 sind Steuerpflichtige, die Einkünfte
+aus</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>Land- und Forstwirtschaft (§§ 13,
+13a, 14, 14a des EStG),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Gewerbebetrieb (§§ 15, 16, 17 EStG)
+oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>selbständiger Arbeit (§ 18 EStG)
+erzielen,</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>verpflichtet, die Einkommensteuererklärung nach amtlich
+vorgeschriebenem Datensatz elektronisch an die Finanzverwaltung
+zu übermitteln, wenn es sich nicht um einen der Veranlagungsfälle
+gemäß § 46 Abs. 2 Nr. 2 bis 8 EStG handelt.</lxbase:a><lxbase:a><lxbase:fett>Besteuerung der Forstwirtschaft;</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Änderungen infolge des Steuervereinfachungsgesetzes
+vom 01.11.2011 (<lxbase:lit-fs normform="BGBl-2011-I-2131" manuell="nein">BGBl.
+I, 2131</lxbase:lit-fs>)</lxbase:fett></lxbase:a><lxbase:a>Durch das Steuervereinfachungsgesetz vom 01.11.2011 wurden die § 34b
+EStG sowie §§ 51 und 68 EStDV für den
+VZ 2012 neu geregelt. Allerdings ergeben sich durch die Einräumung
+eines Wahlrechtes bereits Auswirkungen auf den VZ 2011.</lxbase:a><lxbase:a><lxbase:fett>Änderung des § 34b EStG</lxbase:fett></lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>Holznutzungen aus privatwirtschaftlichen
+Gründen sind nicht mehr nach § 34b EStG begünstigt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Die bisherige Aufteilung der Betriebsausgaben in feste
+und variable Kosten nach § 34b Absatz 2 Nr. 1 und 2 EStG
+entfällt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Steuersätze:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>halber Steuersatz für
+die Einkünfte aus außerordentlichen Holznutzungen unabhängig
+vom Vorliegen eines Nutzungssatzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>viertel Steuersatz für die Einkünfte
+aus außerordentlichen Holznutzungen, soweit sie den Nutzungssatz übersteigen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Die Gewährung der Tarifvergünstigung ist von
+zwei Voraussetzungen abhängig. Zum einen müssen
+die verschiedenen veräußerten oder entnommenen Holzmengen
+nachgewiesen werden, um die Ermittlung der begünstigten
+Einkünfte aus außerordentlichen Holznutzungen
+zu gewährleisten, zum anderen müssen die Kalamitätsnutzungen
+unverzüglich gemeldet werden, um eine forstfachliche Begutachtung
+der Schäden durch einen Forstsachverständigen
+der Finanzverwaltung sicherzustellen. Nach Aufarbeitung des Schadens
+ist die tatsächlich angefallene Holzmenge der Finanzbehörde
+schriftlich anzuzeigen.</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="1" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="100*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Es wird darauf hingewiesen, dass zu den Einnahmen
+aus Holznutzungen auch Entschädigungen aus Versicherungen
+gehören, soweit diese Entschädigungen auf den
+forstwirtschaftlichen Aufwuchs entfallen. Dies gilt auch für Entschädigungsleistungen
+für den künftig entgehenden Holzzuwachs (vgl. BFH-Urteil
+vom 31.05.1954 - <lxprod:doknr-verw linkend="HT0003423">BStBl III, 229</lxprod:doknr-verw>).</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523446300003">III. Aktuelle BMF-Schreiben</lxbase:ueberschrift><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Gleichlautender Ländererlass
+vom 15.12.2011 (<lxprod:doknr-verw linkend="HT5233710">BStBl
+I 2011, 1213</lxprod:doknr-verw>) zur Abgrenzung des land- und forstwirtschaftlichen
+Vermögens vom Betriebsvermögen; BMF-Schreiben
+vom 19.12.2011 - Abgrenzung der Land- und Forstwirtschaft vom Gewerbe, Neuregelung
+für die Wirtschaftsjahre 2012ff (<lxprod:doknr-verw linkend="HT5233708">BStBl I 2011,
+1249</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Mit dem gleichlautenden Ländererlass vom 15.12.2011
+wurde die Abgrenzung des land- und forstwirtschaftlichen Vermögens
+vom Betriebsvermögen für Zwecke der Bewertung
+neu geregelt.</lxbase:a><lxbase:a>Das BMF-Schreiben vom 19.12.2011 verweist hinsichtlich ertragsteuerlicher Abgrenzungsfragen
+auf den o.g. gleichlautenden Ländererlass. Sofern sich
+für den Steuerpflichtigen Verschlechterungen gegenüber
+der Richtlinienregelung in R 15.5 EStR 2008 ergeben, kann die Richtlinienregelung
+für diejenigen Wirtschaftsjahre angewandt werden, die vor
+der Veröffentlichung einer geänderten Richtlinienfassung
+beginnen. Die BMF-Schreiben vom 18.01.2010 <lxbase:az normform="sowie-vom-27/05" manuell="nein">sowie vom 27.05</lxbase:az>.2011
+mit Wirkung vom 31.12.2011 wurden aufgehoben.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Einordnung in Größenklassen
+gem. § 3 BpO 2000 - BMF-Schreiben vom 24.04.2012 (<lxprod:doknr-verw linkend="HT5233938">BStBl I 2012,
+492</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Das Verzeichnis der Wirtschaftszweige/GKZ nach dem <lxbase:az normform="Stand-vom-01/05" manuell="nein">Stand vom
+01.05</lxbase:az>.2012 wurde hiermit bekannt gegeben. Im Bereich der LuF
+haben sich Änderungen bei den GKZ 01610.2, 01620.2 sowie 01700.0
+und 01700.2 ergeben.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>	Besteuerung der Forstwirtschaft</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Auswirkungen der Rechtsprechung des BFH vom 05.06.2008
+(<lxprod:doknr-verw linkend="HT0587074">BStBl
+II 2008, 960, 968</lxprod:doknr-verw>) und Anpassung an die Änderungen
+infolge des Steuervereinfachungsgesetzes vom 01.11.2011 - BMF-Schreiben
+vom 16.05.2012 (<lxprod:doknr-verw linkend="HT5233988">BStBl
+I 2012, 595</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Der BFH hat mit seinen Urteilen vom 5. Juni 2008 (BStBl II, 960
+und 968) zur ertragsteuerlichen Behandlung des forstwirtschaftlichen
+Aufwuchses umfassend Stellung genommen. Danach ist als Wirtschaftsgut
+beim stehenden Holz der in einem selbständigen Nutzungs-
+und Funktionszusammenhang stehende Baumbestand anzusehen, der sich
+durch geographische Faktoren, die Zusammensetzung der Holzarten
+oder der Altersklassen deutlich von den übrigen Baumbeständen
+abgrenzt und regelmäßig eine Mindestgröße
+von einem Hektar umfasst. Der Baumbestand zählt zum nicht
+abnutzbaren Anlagevermögen eines Forstbetriebs.</lxbase:a><lxbase:a>Durch die Rechtsprechung des BFH wurde eine umfassende Überarbeitung
+des BMF-Schreibens vom 02.03.2010 erforderlich. Das BMF-Schreiben
+zur ertragsteuerlichen Behandlung des Wirtschaftsguts "Baumbestand" regelt
+daher folgende Problemkreise:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a> Definition und Abgrenzung
+des Wirtschaftsgutes "stehendes Holz"</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>	Zuordnung zum nicht abnutzbaren Anlagevermögen
+und Ausweis im Anlageverzeichnis</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>	Buchwertminderung</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d."><lxbase:a>	Einschlagsformen</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e."><lxbase:a>	Besonderheiten bei der Gewinnermittlung
+nach § 4 Abs. 3 EStG und § 13a Abs. 6 Satz 1 Nr.
+1 EStG</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="f."><lxbase:a>	Umsetzung in die Verwaltungspraxis</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="g."><lxbase:a>	Übergangsregelung</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Besteuerung der Forstwirtschaft</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Zeitliche Anwendung der Tarifvorschrift des § 34b
+EStG und § 68 EStDV - BMF-Schreiben vom 16.05.2012 (<lxprod:doknr-verw linkend="HT5233987">BStBl I 2012,
+594</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Außerordentliche Holznutzungen im abweichenden Wirtschaftsjahr
+2011/2012</lxbase:a><lxbase:a>Grundsätzlich unterliegen die sich aus dem Wirtschaftsjahr
+2011/2012 ergebenden tarifbegünstigten Einkünfte
+der Vorschrift des § 34b EStG a.F. als auch der Vorschrift
+des § 34 EStG n.F.. Bei der Anwendung ist demnach zu berücksichtigen,
+dass bei abweichenden Wirtschaftsjahren die Gewinne zeitanteilig
+dem jeweiligen Veranlagungszeitraum zuzuordnen sind.</lxbase:a><lxbase:a>Aus Vereinfachungsgründen können Steuerpflichtige
+im Wirtschaftsjahr 2011/2012 jedoch zwischen der Anwendung
+des § 34b EStG a.F. und des § 34b EStG n.F. wählen.</lxbase:a><lxbase:a>Während für die Anwendung des § 34b
+a.F. für 2011 letztmalig die jahresneutrale Anlage Forstwirtschaft
+verwendet werden kann, stehen für die Anwendung des § 34b
+EStG n.F. das Ergänzungsblatt zur Anlage Forstwirtschaft
+2011 und die folgende Berechnungshilfe zur Verfügung, die
+zusätzliche Plausibilitätshinweise anzeigt:</lxbase:a><lxbase:a>- Berechnungshilfe -</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Ertragsteuerliche Erfassung der Nutzung
+eines betrieblichen Kraftfahrzeuges zu Privatfahrten nach § 6
+Abs. 1 Nr. 4 Sätze 1 bis 3 EStG, Glaubhaftmachung der Nutzung
+bestimmter Kraftfahrzeuge - BMF-Schreiben vom 15.11.2012 - <lxprod:doknr-verw linkend="HT5234244">BStBl I 2012,
+1099</lxprod:doknr-verw></lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Gehören gleichzeitig mehrere Kraftfahrzeuge zum Betriebsvermögen,
+so ist der pauschale Nutzungswert grundsätzlich für
+jedes Kraftfahrzeug anzusetzen, das vom Steuerpflichtigen oder zu
+seiner Privatsphäre gehörenden Personen für
+Privatfahrten genutzt wird. Kann der Steuerpflichtige dagegen glaubhaft
+machen, dass bestimmte betriebliche Kraftfahrzeuge ausschließlich
+betrieblich genutzt werden, weil sie für eine private Nutzung
+nicht geeignet sind (z.B. bei sog. Werkstattwagen, vgl. BFH, Urt.
+v. 18.12.2008 - <lxprod:doknr-verw linkend="HT0588436">VI
+R 34/07</lxprod:doknr-verw> - BStBl II, 381) oder diese ausschließlich
+eigenen Arbeitnehmern zur Nutzung überlassen werden, ist
+für diese Kraftfahrzeuge kein pauschaler Nutzungswert zu
+ermitteln.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523446300004">IV. Aktuelle Rechtsprechung</lxbase:ueberschrift><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Bilanzberichtigung bei Land- und
+Forstwirten mit abweichendem Wirtschaftsjahr - zeitlicher Anwendungsbereich
+des § 4 Abs. 2 Satz 1 EStG iSd. JStG 2007 - BFH-Urteil
+vom 19.07.2011 (<lxprod:doknr-verw linkend="HT0927469">BStBl
+II 2011, 1017</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Bei Landwirten und Forstwirten, die ihren Gewinn gemäß § 4a
+Abs. 1 Satz 2 Nr. 1 EStG abweichend vom Kalenderjahr ermitteln,
+ist nach der Rechtslage vor dem JStG 2007 ein fehlerhafter Bilanzansatz
+selbst dann in der ersten noch offenen Bilanz richtig zu stellen,
+wenn dadurch die auf den vorausgegangenen, aber bestandskräftig
+abgeschlossenen Veranlagungszeitraum entfallende Gewinnerhöhung
+nicht mehr berücksichtigt werden kann.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Rückstellungen für
+Zulassungskosten eines Pflanzenschutzmittels - BFH-Urteil vom 08.09.2011
+(<lxprod:doknr-verw linkend="HT0179732">BStBl
+II 2012, 122</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Die wesentliche Bedeutung des Urteils steckt im 3. Leitsatz des
+Urteils:</lxbase:a><lxbase:a>Eine im Gewinnermittlungszeitraum dem Grunde nach rechtlich entstandene Verbindlichkeit
+ist auch wirtschaftlich vor dem Bilanzstichtag verursacht, wenn sie
+unabhängig davon zu erfüllen ist, ob der Unternehmer
+seine Tätigkeit in Zukunft fortführt oder den
+Betrieb zum jeweiligen Bilanzstichtag beendet. In diesem Fall darf
+keine Rückstellung für ungewisse Verbindlichkeiten
+gebildet werden.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Zuständigkeit eines Finanzamtes
+für Konzernbetriebsprüfung für landwirtschaftliche
+Betriebe aller Größenordnungen - BFH-Urteil vom 19.10.2011
+(<lxprod:doknr-verw linkend="HT5906471">BFH/NV
+2012, 164</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Der BFH hat sich mit der sachlichen Zuständigkeit des
+Finanzamtes für Konzernbetriebsprüfung beschäftigt.
+Sofern sich aus der Verordnung über die Zuständigkeiten
+der Finanzämter eines Landes die Neuordnung der Aufbauorganisation
+ergibt, unterbleibt eine weitergehende richterliche Überprüfung.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Mitunternehmerschaft bei Landwirtsehegatten
+mit Gütergemeinschaft, Beendigung der Mitunternehmerschaft
+nicht bereits durch Scheidung - BFH-Urteil vom 26.10.2011 (<lxprod:doknr-verw linkend="HT5906534">BFH/NV
+2012, 411</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Wie der BFH in ständiger Rechtsprechung entschieden
+hat, bilden Landwirtsehegatten, die den Güterstand der
+Gütergemeinschaft vereinbart haben, auch ohne ausdrücklich
+vereinbarten Gesellschaftsvertrag eine Mitunternehmerschaft. Die
+zwischen den Ehegatten bestehende Gütergemeinschaft stellt
+ein den in § 15 Abs. 1 Satz 1 Nr. 2 des EStG genannten
+Gesellschaftsverhältnissen vergleichbares Gemeinschaftsverhältnis
+und damit eine taugliche Grundlage für die Begründung
+einer Mitunternehmerschaft i.S. von § 15 Abs. 1 Satz 1
+Nr. 2, § 13 Abs. 7 EStG dar.</lxbase:a><lxbase:a>Wenn zwischen Landwirtsehegatten eine Mitunternehmerschaft bestanden
+hat, werden dementsprechend deren Rechtsfolgen nur ausgeschlossen,
+wenn die Beteiligung an der Mitunternehmerschaft aufgegeben oder
+die Gesellschaft aufgelöst und abgewickelt wird.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Pflicht zur Abgabe der Anlage EÜR
+- BFH-Urteil vom 16.11.2011 (<lxprod:doknr-verw linkend="HT0179824">BStBl II 2012, 129</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Der BFH hat ausführlich dazu Stellung genommen, dass § 60
+Abs. 4 EStDV eine wirksame Rechtsgrundlage für die Pflicht
+zur Abgabe der Anlage EÜR darstellt und dadurch keine neue
+Form der Gewinnermittlung eingeführt wird. Die in § 60
+Abs. 4 EStDV enthaltende Pflicht zur Abgabe der Anlage EÜR
+ist nach Auffassung des BFH verhältnismäßig
+und dient insbesondere dem Zweck der Gleichmäßigkeit
+der Besteuerung und Vereinfachung des Besteuerungsverfahrens.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Rücklage für Ersatzbeschaffung
+- BFH-Urteil vom 12.01.2012 (<lxprod:doknr-verw linkend="HT0179699">BFH/NV 2012, 1035</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Der BFH hat mit o.g. Urteil die von der Rechtsprechung entwickelten
+und von der Finanzverwaltung übernommenen Grundsätze
+zur Bildung einer Rücklage für Ersatzbeschaffung
+weiter entwickelt.</lxbase:a><lxbase:a>Durch Bildung einer Rücklage für Ersatzbeschaffung
+wird eine Gewinnrealisierung durch die Aufdeckung stiller Reserven
+vermieden, wenn ein Wirtschaftsgut aufgrund höherer Gewalt
+oder infolge oder zur Vermeidung eines behördlichen Eingriffs
+gegen eine Entschädigung aus dem Betriebsvermögen ausscheidet
+und in naher Zukunft ein funktionsgleiches Wirtschaftsgut angeschafft
+wird. Die Rücklage kann grundsätzlich - anders
+als die Rücklage nach § 6b EStG - für
+jedes Wirtschaftsgut gebildet werden. Wesentliche Voraussetzung für
+die Bildung einer Rücklage ist jedoch die Absicht, eine
+Ersatzbeschaffung zu tätigen. Ein bilanzierender Steuerpflichtiger
+dokumentiert diese Absicht durch Bildung der Rücklage.</lxbase:a><lxbase:a>Der BFH hatte über die Frage zu entscheiden, wann die
+Rücklage gewinnerhöhend aufgelöst werden
+muss.</lxbase:a><lxbase:a>Grundsätzlich erfolgt eine gewinnerhöhende
+Auflösung, wenn</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>die Absicht der Ersatzbeschaffung aufgegeben
+wurde oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>die Reinvestition nicht innerhalb einer bestimmten
+Frist durchgeführt wurde.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Nach Auffassung der Finanzverwaltung beträgt eine angemessene
+Reinvestitionsfrist bei Ausscheiden eines Grundstücks oder
+Gebäudes aus dem Betriebsvermögen zwei Jahre.
+Diese Frist kann angemessen verlängert werden. Der BFH
+ist jedoch der Auffassung, dass die Reinvestitionsfristen - gerade
+aufgrund des unerwarteten Ausscheidens eines Wirtschaftsgutes -
+an die in § 6b Abs. 3 EStG genannten Fristen anzuknüpfen
+sind (vier bzw. bei Herstellung sechs Jahre). Eine über
+die Fristen hinausgehende Möglichkeit der Fristverlängerung besteht
+auch im Einzelfall nicht.</lxbase:a><lxbase:a>Während der Reinvestitionsfristen bedarf es keiner ständigen Überprüfung,
+ob die Investitionsabsicht noch fortbesteht. Bestehen im Einzelfall
+Anhaltspunkte für eine Aufgabe der Investitionsabsicht,
+muss das Finanzamt diese fehlende Absicht darlegen und ggf. nachweisen.</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="1" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="100*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a><lxbase:fett>Hinweis</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Die Reaktion der Finanzverwaltung auf dieses
+Urteil bleibt abzuwarten.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Wechsel von der Liebhaberei zum Betrieb
+mit Eintritt der Gewinnerzielungsabsicht - Beschluss des BFH vom
+16.03.2012 (<lxprod:doknr-verw linkend="HT5906711">BFH/NV
+2012, 950</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Ebenso wie ein zunächst mit Gewinnerzielungsabsicht
+unterhaltener Betrieb bei Wegfall der Gewinnerzielungsabsicht in
+eine Liebhaberei hineinwächst, kann im umgekehrten Fall
+das spätere Entstehen einer Gewinnerzielungsabsicht den
+Wechsel von einer Liebhaberei in einen der Besteuerung unterliegenden
+Betrieb bewirken. Hat das Fehlen einer Gewinnerzielungsabsicht zu
+einem bestimmten Zeitpunkt festgestanden, steht deshalb nicht zugleich
+fest, dass der nämliche Betrieb auf Dauer als Liebhaberei
+zu behandeln sein muss. Entsteht die Gewinnerzielungsabsicht später,
+verliert der Betrieb von dem betreffenden Zeitpunkt an seine Eigenschaft
+als Liebhaberei. Die anschließend erzielten Einkünfte
+unterliegen dann der Einkommen- und ggf. der Gewerbesteuer.</lxbase:a><lxbase:a>Die Absicht zur Erzielung eines Totalgewinns kann als subjektives
+Tatbestandsmerkmal nur anhand von Indizien festgestellt werden.
+Die tatsächliche Erzielung eines solchen Gewinns lässt
+dabei grundsätzlich die Vermutung zu, dass die Erzielung
+des Gewinns auch beabsichtigt war. Hat die Gewinnerzielungsabsicht
+zunächst nachweislich gefehlt, bedarf es allerdings weiterer
+Indizien, dass sich an den Absichten des Steuerpflichtigen etwas
+geändert hat. Diese können insbesondere in einer
+veränderten Führung des Betriebs zu sehen sein.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Verlustausgleichsverbot mit EU-Recht
+vereinbar - BFH-Urteil vom 24.04.2012 (<lxprod:doknr-verw linkend="HT5906768">BFH/NV
+2012, 1313</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Die Regelung des § 15 Abs. 4 EStG, wonach Verluste aus
+gewerblicher Tierzucht oder gewerblicher Tierhaltung weder mit anderen
+Einkünften aus Gewerbebetrieb noch mit Einkünften
+aus anderen Einkunftsarten ausgeglichen und auch nicht nach § 10d
+EStG abgezogen werden dürfen, ist sowohl mit der Verfassung
+als auch mit dem Recht der Europäischen Gemeinschaften
+bzw. der heutigen Europäischen Union vereinbar.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Abzugsfähigkeit der Kosten
+für die Erneuerung einer Heizungsanlage als Versorgungsleistungen
+- BFH-Urteil vom 21.06.2012 (<lxprod:doknr-verw linkend="HT5906858">BFH/NV 2012, 1594</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Wird im Rahmen einer Vermögensübergabe gegen
+Versorgungsleistungen vom Vermögensübergeber ein
+Wohnungsrecht vorbehalten, dann können vom neuen Eigentümer
+getragene Aufwendungen für diese Wohnung nur dann als Versorgungsleistungen
+abziehbar sein, wenn er sich zur Tragung dieser Kosten verpflichtet
+hat.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Unentgeltliche Übertragung
+eines Mitunternehmeranteils bei gleichzeitiger Ausgliederung des
+Sonderbetriebsvermögens - BFH-Urteil vom 02.08.2012 (<lxprod:doknr-verw linkend="HT0928796">BFH/NV
+2012, 2053</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Entgegen der Auffassung der Verwaltung hat der BFH entschieden,
+dass es der Anwendung des § 6 Abs. 3 EStG nicht entgegensteht,
+wenn zeitgleich mit der unentgeltlichen Übertragung eines
+Mitunternehmeranteils ein funktional wesentliches Wirtschaftsgut
+des Sonderbetriebsvermögens nach § 6 Abs. 5 EStG
+zum Buchwert übertragen wird. Beide Privilegierungen (§§ 6
+Abs. 3 und Abs. 5 EStG) stehen gleichberechtigt nebeneinander und
+führen auch bei gleichzeitiger Anwendung nicht zu einer
+Kumulation von Steuerbegünstigungen. Vielmehr führt
+die Anwendung in beiden Fällen dazu, dass die stillen Reserven
+steuerverhaftet bleiben.</lxbase:a><lxbase:a>Ebenfalls läuft nach Auffassung des BFH der gleichzeitige
+Eintritt der Rechtsfolgen beider Normen auch dem Sinn und Zweck
+des Gesetzes nicht zu wider. § 6 Abs. 3 EStG begünstigt
+grundsätzlich die Generationennachfolge, § 6 Abs.
+5 EStG die Unternehmensumstrukturierung. In beiden Fällen
+werden aufgrund der Unentgeltlichkeit der Vorgänge dem
+Unternehmen keine liquiden Mittel entzogen. Aufgrund dieser anderen
+Zweckbestimmung können die den §§ 16, 34
+EStG zugrundliegenden Wertungen des Gesetzgebers (Rechtsfolgen innerhalb
+eines Gesamtplans) nicht ohne weiteres auf die §§ 6
+Abs. 3, und 5 EStG angewendet werden.</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="1" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="100*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a><lxbase:fett>Hinweis</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Das Urteil ist noch nicht im BStBl veröffentlicht
+worden. Inwieweit es anzuwenden ist, bleibt abzuwarten.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Reinvestition aus einem gewerblichen
+Veräußerungsgewinn auf ein Wirtschaftsgut eines
+luf Betriebes - BFH-Urteil vom 30.08.2012 (<lxprod:doknr-verw linkend="HT0179851">BStBl II 2012,
+877</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Grundsätzlich können Gewinne aus der Veräußerung
+von Wirtschaftsgütern i.S.d. § 6b EStG eines Gewerbebetriebes
+nicht auf Wirtschaftsgüter eines luf Betriebes übertragen
+werden, da diese Veräußerungsgewinne der Gewerbesteuer
+unterliegen und somit die darauf entfallende Gewerbesteuer bei einer steuerbegünstigten
+Reinvestition im land- und forstwirtschaftlichen Betrieb für die
+Kommune verloren ginge (§ 6b Abs. 4 Satz 2 EStG).</lxbase:a><lxbase:a>Anders verhält es sich aber bei Gewinnen aus der Veräußerung
+eines gesamten Gewerbebetriebes. Dieser steuerbegünstigte
+Veräußerungsgewinn unterliegt bei natürlichen
+Personen nicht der Gewerbesteuer, so dass in diesem Fall, Gewinne, soweit
+sie auf begünstigte Wirtschaftsgüter i.S.d. § 6b
+Abs. 1 EStG entfallen, nicht vom Übertragungsverbot i.S.d. § 6b
+Abs. 4 Satz 2 EStG erfasst werden.</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Teilentgeltliche Übertragungen
+von Wirtschaftsgütern aus dem Sonderbetriebsvermögen
+in das Gesamthandsvermögen - BFH-Urteile vom 21.06.2012
+(<lxprod:doknr-verw linkend="HT0588943">BFH/NV
+2012, 1536</lxprod:doknr-verw>) und 19.09.2012 (<lxprod:doknr-verw linkend="HT0929064">BFH/NV
+2012, 1880</lxprod:doknr-verw>)</lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Die Übertragung von Einzelwirtschaftsgütern
+ist nach Auffassung der Verwaltung - anders als bei Anwendung der
+Einheitstheorie für die Übertragung von Sachgesamtheiten
+- nach den Grundsätzen der Trennungstheorie zu beurteilen. Dabei
+ist die erbrachte Gegenleistung im Verhältnis zum Teilwert
+des übertragenen Wirtschaftsgutes zu prüfen. Liegt
+die Gegenleistung unter dem Teilwert, handelt es sich hierbei um
+eine teilentgeltliche Übertragung, bei der der unentgeltliche
+Teil nach § 6 Abs. 5 Satz 3 EStG zum Buchwert zu übertragen
+ist. Hinsichtlich des entgeltlichen Teils der Übertragung
+liegt eine Veräußerung des Wirtschaftsgutes vor,
+die zur anteiligen Aufdeckung der stillen Reserven führt.</lxbase:a><lxbase:a>Der BFH hat in den beiden o.g. Urteilen abweichend von der Verwaltungsauffassung
+entschieden, dass die Trennungstheorie auch bei der Übertragung
+von Einzelwirtschaftsgütern nicht mehr anzuwenden ist.
+Vielmehr ist auch in diesen Übertragungsfällen
+die Einheitstheorie anzuwenden. Erfolgt eine Gegenleistung für
+die Übertragung eines Wirtschaftsgutes bis zur Höhe
+des Buchwertes, handelt es sich um einen unentgeltlichen Vorgang. Überschreitet
+das Entgelt den Buchwert, handelt es sich um ein vollentgeltliches
+Rechtsgeschäft.</lxbase:a><lxbase:a>Gleichfalls hat der BFH in seinem Urteil vom 19.09.2012 ausgeführt,
+dass die Übernahme von Verbindlichkeiten Entgelt darstellt.</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="1" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="100*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a><lxbase:fett>Hinweis</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Die Urteile sind noch nicht im BStBl veröffentlicht
+worden. Inwieweit sie anzuwenden sind, bleibt abzuwarten.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523446300005">V. anhängige
+Verfahren</lxbase:ueberschrift><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Abnutzbarkeit von Zahlungsansprüchen
+- Urteil des FG Münster vom 19.12.2011 - Revision anhängig
+Az. BFH: IV</lxbase:fett> <lxbase:az normform="R-6/12" manuell="nein">R
+6/12</lxbase:az></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Entgegen der Auffassung der Verwaltung hat das FG Münster
+entschieden, dass es sich bei den Zahlungsansprüchen um
+ein abnutzbares Wirtschaftsgut des Anlagevermögens handelt.
+Die Zahlungsansprüche seien als Rechte von begrenzter Dauer
+anzusehen, bei denen - bereits bei ihrer erstmaligen Zuweisung im
+Jahr 2005 - Gewissheit über ihr Ende, aber nicht über
+dessen Zeitpunkt bestanden habe.</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="1" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="100*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a><lxbase:fett>Hinweis</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Die Revision war zugelassen. Sofern sich Steuerpflichtige
+auf dieses anhängige BFH-Verfahren berufen, können
+die Fälle nach § 363 Abs. 2 Satz 2 AO ruhen. Eine
+Aussetzung der Vollziehung nach § 361 AO ist nicht zu gewähren.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Ertragsteuerliche Behandlung von
+Dachsanierungen im Zusammenhang mit der Errichtung einer Fotovoltaikanlage
+- Urteil des FG München vom 24.08.2012 - Revision anhängig
+Az. BFH: <lxprod:doknr-verw linkend="HT0929354">X R 32/12</lxprod:doknr-verw></lxbase:fett></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Das FG München vertritt in o.g. Urteil die Auffassung,
+dass die Sanierungskosten eines Daches (Erneuerung der Dacheindeckung
+mit Dachlatten, Dachrinnen und Fallrohren), auf dem Steuerpflichtige
+nach der Sanierung eine Fotovoltaikanlage installieren, teilweise
+als Betriebsausgaben des gewerblichen Betriebes abzugsfähig
+sind. Eine Aufteilung der Aufwendungen könne in Anlehnung
+an die zur Umsatzsteuer ergangene Rechtsprechung des BFH (Urteil
+vom 14.03.2012 - <lxprod:doknr-verw linkend="HT0928889">BFH/NV 2012, 1192</lxprod:doknr-verw>) erfolgen.</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="1" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="100*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a><lxbase:fett>Hinweis</lxbase:fett> </lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Die Revision war zugelassen. Sofern sich Steuerpflichtige
+auf dieses anhängige BFH-Verfahren berufen, können
+die Fälle nach § 363 Abs. 2 Satz 2 AO ruhen. Eine
+Aussetzung der Vollziehung nach § 361 AO ist nicht zu gewähren.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523446300006">VI. Erlasse des FM NRW</lxbase:ueberschrift><lxbase:a><lxbase:fett>Unterrichtung der Oberfinanzdirektionen und des Finanzministeriums
+des Landes Nordrhein-Westfalens über Rechtsbehelfsverfahren
+von grundsätzlicher oder besonderer wirtschaftlicher Bedeutung
+- Erlass vom 14.01.2013 (AO-Kartei NW vor § 1 FGO Karte
+802)</lxbase:fett></lxbase:a><lxbase:a>Das FM nimmt in diesem Erlass Stellung dazu, in welchen Fällen
+die Oberfinanzdirektionen und das Finanzministerium im Interesse
+der einheitlichen Rechtsanwendung Rechtsbehelfe von grundsätzlicher
+oder besonderer wirtschaftlicher Bedeutung rechtzeitig zu unterrichten
+sind.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523446300007">VII. Sonstige Hinweise</lxbase:ueberschrift><lxbase:a><lxbase:fett>Informationsveranstaltung für die Sachgebietsleiter/innen
+und Prüfer/innen der Groß- und Konzernbetriebsprüfung
+land- und forstwirtschaftlicher Betriebe</lxbase:fett></lxbase:a><lxbase:a>Die Niederschrift zu den im September 2012 durchgeführten
+Informationsveranstaltungen wurde in ISYS unter Startseite/Steuer/ESt/Niederschriften
+eingestellt.</lxbase:a><lxbase:a><lxbase:fett>Ertragsteuerliche Beurteilung von Energieholz-, Biomass-
+und Kurzumtriebsplantagen</lxbase:fett></lxbase:a><lxbase:a>Im letzten Jahr war die steuerrechtliche Behandlung von Kurzumtriebsplantagen
+im Rahmen landwirtschaftlicher Anbaumethoden, die der Energieholzerzeugung
+oder der Holzerzeugung zur stofflichen Verwertung dienen, Gegenstand
+der Erörterung auf Bund-Länder-Ebene.</lxbase:a><lxbase:a>Übereinstimmend wird nunmehr die Auffassung vertreten,
+dass es sich bei den Pflanzenbeständen zur Erzeugung von
+Energieholz um Dauerkulturen handelt, deren Fertigstellungszeitpunkt
+typisierend mit dem dritten Jahr nach der Pflanzung und deren Nutzungsdauer
+einheitlich mit 20 Jahren anzunehmen ist.</lxbase:a><lxbase:a>Soweit keine Erzeugung von Energieholz erfolgt, wird auf Kurzumtriebsplantagen
+regelmäßig Holz erzeugt, das stofflich genutzt
+wird. Dies bedeutet, dass das Holz in Sägewerken, Papierfabriken
+und in anderen produzierenden Betrieben der Holzwirtschaft verarbeitet
+wird. Die Art der Bewirtschaftung solcher Anlagen (zumeist Dauergrünland,
+geringere Pflanzdichte, Pflanzung in Reihen, Verwendung von Setzstangen,
+landwirtschaftliche Unter- oder Zwischennutzung der Reihen und das
+Ertrags-Aufwand-Gefüge) sowie die rechtliche Einordnung als
+Landwirtschaftsfläche sprechen gegen eine steuerrechtliche
+Zuordnung zur Forstwirtschaft. In diesen Fällen ist daher
+von Pflanzenbeständen auszugehen, die als mehrjährige
+Kulturen einzuordnen sind.</lxbase:a><lxbase:a>Daraus ergeben sich entsprechend dem BMF-Schreiben vom 15.12.1981 (<lxprod:doknr-verw linkend="HT0021949">BStBl I Seite
+878</lxprod:doknr-verw>) die ertragsteuerlichen Folgen des § 6 Abs.
+1 Nr. 2 EStG.</lxbase:a><lxbase:a><lxbase:fett>Bilanzänderung bei Mitunternehmerschaften</lxbase:fett></lxbase:a><lxbase:a>Hinsichtlich der Frage, ob der für eine Bilanzänderung
+nach § 4 Abs. 2 Satz 2 EStG geforderte enge, sachliche
+Zusammenhang von Bilanzberichtigung und Bilanzänderung
+auch im Verhältnis der verschiedenen Bilanzen einer Mitunternehmerschaft
+zueinander bestehen kann, bitte ich nach Abstimmung auf Bund/Länderebene
+folgende Auffassung zu vertreten:</lxbase:a><lxbase:a>Ein enger sachlicher Zusammenhang als Voraussetzung für
+eine Bilanzänderung nach § 4 Abs. 2 Satz 2 EStG
+kann auch zwischen Gesamthandsbilanz und Ergänzungs- oder
+Sonderbilanz sowie zwischen den Ergänzungs- und Sonderbilanzen
+der einzelnen Mitunternehmer bestehen. Es ist vorgesehen, die EStR im
+Rahmen der EStÄR 2012 um eine entsprechende Aussage zu
+ergänzen.</lxbase:a><lxbase:a>Subjekt der Gewinnermittlung ist nach der so genannten Einheitsbetrachtung nicht
+der einzelne Mitunternehmer, sondern die Mitunternehmerschaft selbst. Bei
+der Auslegung des § 4 Abs. 2 Satz 2 EStG ist daher auf
+die Gesamtbilanz der Mitunternehmerschaft abzustellen und hierbei
+auf eine gesellschafterbezogene Betrachtungsweise (die nur in eng
+begrenzten Einzelfällen, z.B. bei der Anwendung des § 6b
+EStG stattfindet) zu verzichten. Hierdurch eintretende Gewinnverschiebungen
+zwischen den Mitunternehmern stehen dem nicht entgegen (vgl. EStG-Kartei
+zu § 4 Abs. 1 bis 3 EStG Nr. 808).</lxbase:a><lxbase:a><lxbase:fett>Feldinventar/stehende Ernte</lxbase:fett></lxbase:a><lxbase:a>Der BFH hat mit seinem Urteil vom 18.03.2010 (<lxprod:doknr-verw linkend="HT0588412">BStBl II 2011,
+654</lxprod:doknr-verw>) zur ertragsteuerlichen Behandlung des Feldinventars
+und der stehenden Ernte umfassend Stellung genommen. Dabei geht der
+BFH von folgenden Grundsätzen aus:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt><lxbase:a>Das Feldinventar/die stehende
+Ernte einer abgrenzbaren Fläche ist - wie der Baumbestand
+eines Forstbetriebs - jeweils als selbständiges Wirtschaftsgut anzusehen,
+das einzeln zu bewerten ist.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Dem Verzicht auf die Aktivierung des Feldinventars/der
+stehenden Ernte liegen landwirtschaftliche Besonderheiten zu Grunde.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Die Regelung in R 14 Abs. 2 Satz 3 EStR ist als zulässige,
+abweichende Steuerfestsetzung im Rahmen einer Billigkeitsmaßnahme
+nach § 163 Abgabenordnung anzusehen. Sie ist grundsätzlich
+Gegenstand eines besonderen Verwaltungsverfahrens bzw. -akts.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Bei der Anwendung der Billigkeitsmaßnahme
+ist vom Grundsatz der Bewertungsstetigkeit auszugehen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Ein Übergang von der Aktivierung des Feldinventars/der
+stehenden Ernte zur Nichtaktivierung ist generell unzulässig.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>Verzicht auf Aktivierung des Feldinventars; §§ 163,
+164 AO - BFH-Beschluss vom 12.07.2012 (<lxprod:doknr-verw linkend="HT0928449">BFH/NV
+2012, 1853</lxprod:doknr-verw>)</lxbase:fett></lxbase:a><lxbase:a>Nach R 14 Abs. 2 Satz 3 EStR 2008 kann bei landwirtschaftlichen
+Betrieben mit jährlicher Fruchtfolge von einer Aktivierung
+des Feldinventars und der stehenden Ernte aus Billigkeitsgründen
+abgesehen werden. Dies gilt auch für Körperschaften,
+wenn sich der Betrieb auf die Land- und Forstwirtschaft beschränkt
+oder der land- und forstwirtschaftliche Betrieb als organisatorisch verselbständigter
+Betriebsteil (Teilbetrieb) geführt wird (vgl. R 34 Satz
+2 und 3 KStR). Der Verzicht auf die Aktivierung des Feldinventars
+ist ein steuerliches Wahlrecht, das nach den Grundsätzen
+der Rechtsprechung eine Billigkeitsentscheidung darstellt und auf § 163
+AO beruht (z.B. BFH vom 6. April 2000, <lxprod:doknr-verw linkend="HT0553961">BStBl II 2000
+S. 422</lxprod:doknr-verw>). Dieses Wahlrecht kann der Steuerpflichtige nach
+Auffassung der Verwaltung nur einheitlich, bezogen auf das gesamte
+Feldinventar seines Betriebes, ausüben. Dies lässt
+sich aus dem Grundsatz der Bewertungsstetigkeit (§ 252
+Abs. 1 Nr. 6 HGB) ableiten, wonach grundsätzlich die gleichen
+Bewertungsmethoden und die gleichen Wertermittlungsverfahren von
+Jahr zu Jahr beizubehalten sind.</lxbase:a><lxbase:a>Trifft das Finanzamt aufgrund eines Antrages die Billigkeitsentscheidung gemäß § 163
+AO, so liegt darin ein Grundlagenbescheid hinsichtlich der Steuerfestsetzung
+(BFH-Urteil vom 16. März 2004 - <lxprod:doknr-verw linkend="HT0817752">BStBl II 2004,
+927</lxprod:doknr-verw>). Grundsätzlich handelt es sich bei der Steuerfestsetzung
+und der Entscheidung über die Billigkeit um zwei getrennte
+Verfahren, diese können aber äußerlich
+miteinander verbunden werden.</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="1" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="100*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a><lxbase:fett>Hinweis</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Werden im Steuerbescheid keine konkreten Entscheidungen
+zum Billigkeitsantrag getroffen und der Steuerbescheid lediglich
+unter dem Vorbehalt der Nachprüfung gestellt, ist dadurch
+der Steuerbescheid dahingehend zu verstehen, dass das Finanzamt über
+den Billigkeitsantrag positiv entschieden hat.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Im o.g. Revisionsverfahren gegen das Urteil des Sächsischen
+Finanzgerichts vom 16.03.2011 (<lxbase:lit-fs normform="EFG-2011-1758" manuell="nein">EFG 2011, 1758</lxbase:lit-fs>) hat der BFH mit Beschluss
+vom 12.07.2012 die Auffassung des Sächsischen Finanzgerichts
+bestätigt, wonach eine Billigkeitsentscheidung im Sinne
+der R 14 Abs. 2 Satz 3 und 4 EStR getroffen worden ist, wenn das
+Finanzamt einen Steuerbescheid unter Zugrundelegung einer eingereichten
+Bilanz erlassen hat, in der Feldinventar unter Berufung auf die
+vorgenannte Vorschrift in den EStR nicht aktiviert wurde, selbst
+wenn der Bescheid unter Vorbehalt der Nachprüfung ergangen
+ist und keinen Hinweis auf eine getroffene Billigkeitsmaßnahme
+nach § 163 AO enthält.</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="1" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="100*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a><lxbase:fett>Hinweis</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a><lxbase:fett>Der BFH-Beschluss hat zur Folge, dass
+der Veranlagungsbezirk die Klärung der Frage, ob auf eine
+Aktivierung des Feldinventars verzichtet werden kann, nicht einer
+nachfolgenden Betriebsprüfung überlassen kann.
+Eine erforderlich Aktivierung des Feldinventars muss vielmehr vor
+der erstmaligen Veranlagung im Rahmen eines gesonderten Billigkeitsverfahrens
+durchgeführt werden.</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Außensteuerrecht</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Nordrhein-Westfalen</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben><lxbase:interne-angaben><lxbase:quelle>jurd</lxbase:quelle></lxbase:interne-angaben></lxrvw:rspvwa>

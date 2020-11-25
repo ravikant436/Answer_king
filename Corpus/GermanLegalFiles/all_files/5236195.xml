@@ -1,0 +1,1018 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" dok-nummer="5236195" dok-art="Schreiben (koordinierter Ländererlass)" dok-typ="Verwaltungsanweisung" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bundesministerium der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen> IV A 3 - S-0062 / 16 / 10005</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-0062</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Elwi-Stap" id="23" /><lxbase:lizenz2 name="Info" id="25" /><lxbase:lizenz2 name="INFO-KANZLEI" id="30" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2017-01-12" ts="nein" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BStBl-2017-I-0051</lxbase:fs-kuerzel><lxbase:fs-kuerzel>BB-2017-0278</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände, die nach dem 31. 12. 2017 verwirklicht werden, durch <lxprod:doknr-verw linkend="HT5236851">IV A 2 – O-2000 / 18 / 10001</lxprod:doknr-verw> v. 18. 3. 2019 koordinierter Ländererlass</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände, die nach dem 31. 12. 2016 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5236585"> IV A 2 – O-2000 / 17 / 10001 </lxprod:doknr-verw> v. 19. 3. 2018 koordinierter Ländererlass </lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände, die nach dem 31. 12. 2015 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5236239">IV A 2 - O-2000 / 16 / 10001</lxprod:doknr-verw> v. 21. 3. 2017 (koordinierter Ländererlass) </lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>AEAO:Allgemein</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2017" /></lxbase:jahre><lxbase:zitate><lxbase:passiv-zitate><lxbase:lit-zitat>Deubner Verlag Anmerkung Dok.-Nr. <lxprod:doknr-verw linkend="HT0653098">0653098</lxprod:doknr-verw></lxbase:lit-zitat></lxbase:passiv-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Änderung des Anwendungserlasses zur Abgabenordnung
+(AEAO)</lxbase:a></lxbase:headline></lxbase:titel><lxbase:teaser><lxbase:a>BMF: Änderung des Anwendungserlasses zur Abgabenordnung
+(AEAO)</lxbase:a></lxbase:teaser><lxbase:kapitel><lxbase:a>Unter Bezugnahme auf das Ergebnis der Erörterung mit den
+obersten Finanzbehörden der Länder wird der Anwendungserlass zur
+Abgabenordnung vom 31. Januar 2014 (<lxprod:doknr-verw linkend="HT5234877">BStBl I S. 290</lxprod:doknr-verw>),
+der zuletzt durch das BMF-Schreiben vom 5. September 2016 (<lxbase:lit-fs normform="BStBl-2016-I-0974" manuell="nein">BStBl I S. 974</lxbase:lit-fs>)
+geändert worden ist, mit sofortiger Wirkung wie folgt geändert:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>Der <lxbase:fett>AEAO
+zu § 71</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 71 - Haftung des Steuerhinterziehers
+und des Steuerhehlers:</lxbase:fett></lxbase:a><lxbase:a>Zur Frage der Feststellung, ob Steuern hinterzogen worden
+sind, vgl. AEAO zu § 169, Nr. 2.1 und 2.2.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 80</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Nummer 1 wird wie folgt gefasst:</lxbase:a><lxbase:a>„1. Die Finanzbehörde kann den Nachweis einer Vollmacht
+jederzeit ohne besonderen Anlass und ohne Begründung fordern. Dieser
+Nachweis kann in schriftlicher oder elektronischer Form oder durch
+mündliche Bestätigung des Vollmachtgebers an Amtsstelle erbracht
+werden. Zum Nachweis der Bevollmächtigung in den Fällen des § 80a
+AO vgl. AEAO zu § 80a, Nr. 1.</lxbase:a><lxbase:a>Umfasst eine Vertretungsvollmacht auch eine Datenabrufvollmacht,
+ist die Bevollmächtigung nachzuweisen, sofern die Bevollmächtigung
+nicht nach § 80a Abs. 2 oder 3 AO gesetzlich vermutet wird. Zum
+Nachweis einer Empfangsvollmacht vgl. § 122 Abs. 1 Satz 4 AO.“</lxbase:a><lxbase:a>b) Nummer 4 wird wie folgt gefasst:</lxbase:a><lxbase:a>„4. Der Schriftwechsel und die Verhandlungen im Besteuerungsverfahren
+sind mit dem Bevollmächtigten zu führen. Nur bei Vorliegen besonderer
+Gründe soll sich die Finanzbehörde an den Beteiligten selbst wenden,
+z.B. um ihn um Auskünfte zu bitten, die nur er selbst als Wissensträger
+geben kann. In diesem Fall ist der Bevollmächtigte zu unterrichten.
+Inwieweit Verwaltungsakte, insbesondere Steuerbescheide, gegenüber
+dem Bevollmächtigten bekannt zu geben sind, richtet sich nach §
+122 Abs. 1 Satz 3 und 4 AO.“</lxbase:a><lxbase:a>c) Nummer 6 wird wie folgt gefasst:</lxbase:a><lxbase:a>„6. Verfahrenshandlungen, die ein Bevollmächtigter oder
+Beistand vor seiner Zurückweisung vorgenommen hat, bleiben wirksam.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a>Nach der Regelung des <lxbase:fett>AEAO</lxbase:fett> zu
+§ 80 wird folgende Regelung <lxbase:fett>zu § 80a</lxbase:fett> eingefügt:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 80a - Elektronische Übermittlung
+von Vollmachtsdaten an Landesfinanzbehörden:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>Die Finanzbehörde
+kann den Nachweis einer nach § 80a Abs. 1 AO elektronisch übermittelten
+Vollmacht jederzeit ohne besonderen Anlass und ohne Begründung fordern.
+In diesem Fall ist der Nachweis der Bevollmächtigung und ihres Umfangs
+durch Vorlage oder Übersendung einer Ausfertigung/Ablichtung der nach
+amtlichem Formular erteilten Vollmacht zu führen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>Der Vollmachtgeber kann
+eine nach § 80a Abs. 1 AO elektronisch übermittelte Vollmacht nicht
+nur gegenüber dem Bevollmächtigten (vgl. § 80a Abs. 1 Satz 4 AO),
+sondern auch schriftlich, elektronisch oder mündlich an Amtsstelle
+gegenüber der Finanzbehörde widerrufen.“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 87a</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 87a - Elektronische Kommunikation:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a><lxbase:fett>Zugangseröffnung</lxbase:fett></lxbase:a><lxbase:a>1.1 Die Übermittlung elektronischer Dokumente an die Finanzbehörden
+und an die Steuerpflichtigen ist zulässig, soweit der Empfänger
+hierfür einen Zugang eröffnet (§ 87a Abs. 1 Satz 1 AO). Die Zugangseröffnung
+kann durch ausdrückliche Erklärung oder konkludent sowie generell
+oder nur für bestimmte Fälle erfolgen.</lxbase:a><lxbase:a>1.2 Bei natürlichen oder juristischen Personen, die eine
+gewerbliche oder berufliche Tätigkeit selbständig ausüben und die
+auf einem im Verkehr mit der Finanzbehörde verwendeten Briefkopf,
+in einer Steuererklärung oder in einem Antrag an die Finanzbehörde
+ihre E-Mail-Adresse angegeben oder sich per E-Mail an die Finanzbehörde
+gewandt haben, kann i.d.R. davon ausgegangen werden, dass sie damit
+konkludent ihre Bereitschaft zur Entgegennahme elektronischer Dokumente
+erklärt haben. Bei Steuerpflichtigen, die keine gewerbliche oder
+berufliche Tätigkeit selbständig ausüben (z.B. Arbeitnehmer), ist dagegen
+derzeit nur bei Vorliegen einer ausdrücklichen, aber nicht formgebundenen
+Einverständniserklärung von einer Zugangseröffnung i.S.d. § 87a
+Abs. 1 Satz 1 AO auszugehen.</lxbase:a><lxbase:a>1.3 Vorbehaltlich einer ausdrücklichen gesetzlichen Anordnung
+besteht weder für die Steuerpflichtigen noch für die Finanzbehörden
+ein Zwang zur Übermittlung elektronischer Dokumente.</lxbase:a><lxbase:a>1.4 Soweit eine gesetzliche Verpflichtung besteht, Steuererklärungen,
+Anlagen zur Steuererklärung, Mitteilungen gemäß § 93c AO oder sonstige
+für das Besteuerungsverfahren erforderliche Daten nach amtlich vorgeschriebenem Datensatz
+durch Datenfernübertragung zu übermitteln, eröffnet die Finanzverwaltung
+jeweils mit Bereitstellung der Schnittstelle (vgl. § 87b Abs. 2
+AO) den Zugang. Die Datensatzbeschreibung (vgl. § 87b Abs. 1 AO)
+ist Bestandteil dieser Schnittstelle.</lxbase:a><lxbase:a>1.5 Wegen der elektronischen Übermittlung von steuerlichen
+Daten an die Finanzbehörden siehe auch § 87a Abs. 6 AO, §§ 87b bis
+87d AO und § 150 Abs. 1 Satz 2 AO.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a><lxbase:fett>Zugang elektronischer
+Dokumente</lxbase:fett></lxbase:a><lxbase:a>2.1 Ein elektronisches Dokument ist zugegangen, sobald
+die für den Empfang bestimmte Einrichtung es in für den Empfänger
+bearbeitbarer Weise aufgezeichnet hat (§ 87a Abs. 1 Satz 2 AO).
+Ob und wann der Empfänger das bearbeitbare Dokument tatsächlich
+zur Kenntnis nimmt, ist für den Zeitpunkt des Zugangs unbeachtlich.</lxbase:a><lxbase:a>2.2 Zur widerlegbaren Vermutung des Tags des Zugangs elektronischer
+Verwaltungsakte vgl. § 122 Abs. 2a AO, § 122a Abs. 4 AO und § 123
+Satz 2 und 3 AO.</lxbase:a><lxbase:a>2.3 Ein für den Empfänger nicht bearbeitbares Dokument
+ist nicht i.S.d. § 87a Abs. 1 Satz 2 AO zugegangen und löst somit
+noch keine Rechtsfolgen (z.B. die Wahrung einer Antrags- oder Rechtsbehelfsfrist
+oder das Wirksamwerden eines Verwaltungsakts) aus. Zum Verfahren
+nach Übermittlung eines nicht bearbeitbaren elektronischen Dokuments
+vgl. § 87a Abs. 2 AO.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a><lxbase:fett>Elektronische
+Übermittlung bei gesetzlich angeordneter Schriftform</lxbase:fett></lxbase:a><lxbase:a>3.1 Schreibt das Gesetz die Schriftform vor, kann dieser
+Form auch durch Übermittlung in elektronischer Form entsprochen
+werden, soweit gesetzlich nichts anderes bestimmt ist (wie z.B.
+in § 224a Abs. 2 Satz 1 zweiter Halbsatz AO und in § 309 Abs. 1
+Satz 2 AO). Der elektronischen Form genügt ein elektronisches Dokument,
+das mit einer qualifizierten elektronischen Signatur i.S.d. § 2
+Nr. 3 des SigG (<lxbase:lit-fs normform="BStBl-2001-I-0351" manuell="nein">BStBl 2001 I S. 351</lxbase:lit-fs>)
+versehen ist (§ 87a Abs. 3 Satz 2 und Abs. 4 Satz 2 AO). Die Schriftform
+kann auch durch Übermittlung des elektronischen Dokuments in einem
+Verfahren nach § 87a Abs. 3 Satz 4 und 5, Abs. 4 Satz 3 AO ersetzt
+werden.</lxbase:a><lxbase:a>3.2 Falls die einschlägige Norm nicht ausdrücklich den
+Begriff „Schriftform“ verwendet, ist durch Auslegung zu ermitteln,
+ob das Gesetz die Schriftform anordnet (BFH-Urteil vom 13.5.2015, <lxprod:doknr-verw linkend="HT0934896">III R 26/14</lxprod:doknr-verw>,
+BStBl II S. 790). Hierbei ist von Folgendem auszugehen:</lxbase:a><lxbase:a>3.2.1 Schreibt das Gesetz eine (ggf. sogar eigenhändige)
+Unterschrift vor, ist stets der Fall einer gesetzlich angeordneten
+Schriftform gegeben. Eine gesetzliche Verpflichtung zur (ggf. eigenhändigen)
+Unterzeichnung ist unbeachtlich, wenn der Antrag, die Erklärung
+oder die Mitteilung zulässigerweise auf elektronischem Weg der Finanzverwaltung
+nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle übermittelt wird, da dann ein Unterschrifterfordernis
+durch die Verpflichtung zur Authentifizierung des Datenübermittlers
+verdrängt wird (§ 87a Abs. 6 AO und § 87d AO).</lxbase:a><lxbase:a>3.2.2 Bestimmt das Gesetz ohne eine ausdrückliche Aussage
+zu einem Unterschrifterfordernis, dass ein Antrag, eine Erklärung
+oder eine Mitteilung an die Finanzbehörde oder ein Verwaltungsakt
+oder eine sonstige Maßnahme der Finanzbehörde dem Empfänger „schriftlich“
+zugehen muss, ist durch Auslegung zu ermitteln, ob eine Unterschrift
+erforderlich ist. Hierbei ist analog § 126 Abs. 1 BGB grundsätzlich
+von einem Unterschrifterfordernis auszugehen, es sei denn, es liegen
+Anhaltspunkte dafür vor, dass der Gesetzgeber eine Unterschrift
+für entbehrlich hält.</lxbase:a><lxbase:a>Ist nach dem Ergebnis der Auslegung eine Unterschrift
+erforderlich, ist im Sinne des § 87a Abs. 3 Satz 1 bzw. Abs. 4 Satz
+1 AO die Schriftform gesetzlich angeordnet.</lxbase:a><lxbase:a>3.2.3 Eine analoge Anwendung des § 126 Abs. 1 BGB hat
+für sich allein nicht zur Folge, dass der Steuerpflichtige den Antrag,
+die Erklärung oder die Mitteilung eigenhändig unterzeichnen muss.
+Die in § 126 Abs. 1 BGB geforderte „Eigenhändigkeit“ der Unterschrift
+bezieht sich auf den Aussteller der Urkunde, der auch ein gesetzlicher
+oder gewillkürter Vertreter sein kann. Das für den Steuerpflichtigen
+grundsätzlich bestehende Recht, sich vertreten zu lassen (§ 80 Abs.
+1 Satz 1 AO), wird daher allein durch eine analoge Anwendung des
+§ 126 Abs. 1 BGB nicht beschränkt.</lxbase:a><lxbase:a>3.2.4 Ist der einschlägigen Norm durch Auslegung zu entnehmen,
+dass ein schriftlicher Antrag oder eine schriftliche Erklärung oder
+Mitteilung nicht unterschrieben sein muss, liegt keine gesetzliche
+Anordnung der Schriftform vor. Bei der elektronischen Übermittlung
+eines derartigen Antrags oder einer derartigen Erklärung oder Mitteilung
+kann somit auf eine qualifizierte elektronische Signatur und auch
+auf ein Verfahren nach § 87a Abs. 3 Satz 4 und 5 AO verzichtet werden.</lxbase:a><lxbase:a>3.3 Kein Fall des § 87a Abs. 3 und 4 AO liegt vor, wenn
+das Gesetz neben der Schriftform auch die elektronische Übermittlung
+ausdrücklich zulässt (z.B. durch die Formulierung „schriftlich oder
+elektronisch“) oder zur elektronischen Übermittlung verpflichtet.</lxbase:a><lxbase:a>3.4 Elektronische Dokumente, die mit einem Wahlnamen signiert
+worden sind, dem die Funktion des bürgerlichen Namens zukommt, sind
+von den Finanzbehörden nicht unter Berufung auf § 87a Abs. 3 Satz
+3 AO zurückzuweisen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a><lxbase:fett>Telefax kein
+elektronisches Dokument</lxbase:fett></lxbase:a><lxbase:a>Ein Telefax, auch ein Computerfax, ist kein elektronisches
+Dokument i.S.d. § 87a AO (BFH-Urteile vom 28.1.2014, <lxprod:doknr-verw linkend="HT0929698">VIII R 28/13</lxprod:doknr-verw>,
+BStBl II S. 552 und vom 18.3.2014, <lxprod:doknr-verw linkend="HT0927579">VIII R 9/10</lxprod:doknr-verw>, BStBl II S.
+748). Die in § 87a AO getroffenen Regelungen, insbesondere zum Zeitpunkt
+des Zugangs (§ 87a Abs. 1 Satz 2 AO) sowie zur grundsätzlichen Verpflichtung
+zur Verwendung einer qualifizierten elektronischen Signatur, wenn
+für den Verwaltungsakt die Schriftform gesetzlich vorgeschrieben
+ist (§ 87a Abs. 4 AO), sind daher auf ein Telefax nicht anwendbar.</lxbase:a><lxbase:a>Ein durch Telefax bekannt gegebener Verwaltungsakt ist
+aber ein elektronisch übermittelter Verwaltungsakt i.S.d. § 122
+Abs. 2a AO (vgl. AEAO zu § 122, Nr. 1.8.2.2).“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5. "><lxbase:a>Nach der Regelung des <lxbase:fett>AEAO</lxbase:fett> zu
+§ 87a wird folgende Regelung <lxbase:fett>vor §§ 87b bis 87e </lxbase:fett>eingefügt:</lxbase:a><lxbase:a><lxbase:fett>„AEAO vor §§ 87b bis 87e:</lxbase:fett></lxbase:a><lxbase:a>§§ 87b bis 87e AO sind erstmals anzuwenden, wenn Daten nach dem 31.12.2016 auf
+Grund gesetzlicher Vorschriften nach amtlich vorgeschriebenem Datensatz über
+amtlich bestimmte Schnittstellen an Finanzbehörden zu übermitteln
+sind oder freiwillig übermittelt werden. Für Daten im Sinne des
+Satzes 1, die vor dem 1.1.2017 zu übermitteln waren oder freiwillig
+übermittelt wurden, sind § 150 Abs. 6 und 7 AO und die Vorschriften
+der StDÜV in der jeweils am 31.12.2016 geltenden Fassung weiter
+anzuwenden (vgl. Art. 97 § 27 Abs. 1 EGAO).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 88</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 88 - Untersuchungsgrundsatz:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>Die Finanzbehörden
+haben alle notwendigen Maßnahmen zu ergreifen, um die entscheidungserheblichen
+Tatsachen aufzuklären.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>Die Ermittlungshandlungen
+dürfen nach § 88 Abs. 2 Satz 1 AO zu dem angestrebten Erfolg nicht
+erkennbar außer Verhältnis stehen. Sie sollen so gewählt werden,
+dass damit unter Berücksichtigung der Verhältnisse des Einzelfalls
+ein möglichst geringer Eingriff in die Rechtssphäre des Beteiligten
+oder Dritter verbunden ist. Der Gewährung rechtlichen Gehörs kommt
+besondere Bedeutung zu.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a>Bei der Entscheidung über
+Art und Umfang der Ermittlungen können nach § 88 Abs. 2 Satz 2 AO
+allgemeine Erfahrungen der Finanzbehörden sowie Wirtschaftlichkeit
+und Zweckmäßigkeit berücksichtigt werden.</lxbase:a><lxbase:a>Für die Anforderungen, die an die Aufklärungspflicht der
+Finanzbehörden zu stellen sind, darf die Erwägung eine Rolle spielen,
+dass die Aufklärung einen nicht mehr vertretbaren Zeitaufwand erfordert.</lxbase:a><lxbase:a>Zudem kann auf das Verhältnis zwischen voraussichtlichem
+Arbeitsaufwand und steuerlichem Erfolg abgestellt werden. Die Finanzämter
+dürfen auch berücksichtigen, in welchem Maße sie durch ein zu erwartendes
+finanzgerichtliches Verfahren belastet werden, sofern sie bei vorhandenen
+tatsächlichen oder rechtlichen Zweifeln dem Begehren des Steuerpflichtigen
+nicht entsprechen und zu seinem Nachteil entscheiden.</lxbase:a><lxbase:a>Die Beachtung von Wirtschaftlichkeit und Zweckmäßigkeit
+darf nicht zu einem Verzicht auf die Überprüfung der Einhaltung
+von steuerrechtlichen Vorschriften führen. Deshalb muss zur Gewährleistung
+der Gleichmäßigkeit und Gesetzmäßigkeit der Besteuerung auch immer
+eine hinreichende Anzahl zufällig ausgewählter Fälle durch Amtsträger
+der Finanzbehörden vertieft geprüft werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a>In Fällen erschwerter Sachverhaltsermittlung
+dient es unter bestimmten Voraussetzungen der Effektivität der Besteuerung
+und allgemein dem Rechtsfrieden, wenn sich die Beteiligten über
+die Annahme eines bestimmten Sachverhalts und über eine bestimmte
+Sachbehandlung einigen können (BFH-Urteil vom 11.12.1984, <lxprod:doknr-verw linkend="HT0061467">VIII R 131/76</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0061467">BStBl 1985
+II S. 354</lxprod:doknr-verw>). Vgl. hierzu BMF-Schreiben vom 30.7.2008, <lxprod:doknr-verw linkend="HT5231597">BStBl I S. 831</lxprod:doknr-verw>.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5. "><lxbase:a>Die Aufklärungspflicht der
+Finanzbehörden wird außerdem durch die Mitwirkungspflicht der Beteiligten
+(§ 90 AO) begrenzt. Die Finanzbehörden sind nicht verpflichtet,
+den Sachverhalt auf alle möglichen Fallgestaltungen zu erforschen. Sie
+sind auch nicht an Beweisanträge des Steuerpflichtigen gebunden
+(§ 88 Abs. 2 Satz 1 2. Halbsatz AO).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6. "><lxbase:a>Für den Regelfall kann davon
+ausgegangen werden, dass die Angaben des Steuerpflichtigen in der
+Steuererklärung vollständig und richtig sind (BFH-Urteil vom 17.4.1969, <lxprod:doknr-verw linkend="HT0004752">V R 21/66</lxprod:doknr-verw>,
+BStBl II S. 474). Die Finanzbehörde kann den Angaben eines Steuerpflichtigen
+Glauben schenken, wenn nicht greifbare Umstände vorliegen, die darauf
+hindeuten, dass seine Angaben falsch oder unvollständig sind (BFH-Urteil
+vom 11.7.1978, <lxprod:doknr-verw linkend="HT0046003">VIII
+R 120/75</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0046003">BStBl 1979 II S. 57</lxprod:doknr-verw>).
+Sie verletzt ihre Seite 8 Aufklärungspflicht nur, wenn sie Tatsachen
+oder Beweismittel außer Acht lässt und offenkundigen Zweifelsfragen
+nicht nachgeht, die sich ihr den Umständen nach ohne weiteres aufdrängen
+mussten (BFH-Urteile vom 16.1.1964, <lxprod:doknr-verw linkend="HT0005706">V 94/61 U</lxprod:doknr-verw>, BStBl III S. 149,
+und vom 13.11.1985, <lxprod:doknr-verw linkend="HT0063322">II
+R 208/82</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0063322">BStBl 1986 II S. 241</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7. "><lxbase:a>Im Rahmen der Prüfung zugunsten
+des Steuerpflichtigen muss die Finanzbehörde ihrer Pflicht zur Fürsorge
+für den Steuerpflichtigen (§ 89 Abs. 1 AO) gerecht werden. So ist
+auch die Verjährung von Amts wegen zu berücksichtigen.“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 89</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Nummer 3.5.5 wird wie folgt gefasst:</lxbase:a><lxbase:a>„3.5.5 Anders als die frühere Auskunft mit Bindungswirkung
+nach Treu und Glauben ist die verbindliche Auskunft nach § 89 Abs.
+2 AO ein Verwaltungsakt. Die verbindliche Auskunft (auch wenn sie
+nicht der Rechtsauffassung des Antragstellers entspricht) und die
+Ablehnung der Erteilung einer verbindlichen Auskunft sind schriftlich
+zu erteilen und mit einer Rechtsbehelfsbelehrung zu versehen. Die Bekanntgabe
+richtet sich nach §§ 122, 122a AO und den Regelungen zu §§ 122, 122a
+AO. In den Fällen des § 1 Abs. 2 StAuskV ist die Auskunft allen
+Beteiligten gegenüber einheitlich zu erteilen und dem von ihnen
+bestellten Empfangsbevollmächtigten bekannt zu geben.“</lxbase:a><lxbase:a>b) Nach der Nummer 3.5.8 wird folgende Nummer 3.5.9 eingefügt:</lxbase:a><lxbase:a>„3.5.9 Die Bearbeitungsfrist für Auskunftsanträge nach
+§ 89 Abs. 2 Satz 4 AO gilt erstmals für Anträge, die nach dem 31.12.2016
+bei der zuständigen Finanzbehörde eingegangen sind (Art. 97 § 25
+Abs. 2 EGAO). Aus dem bloßen Verstreichen der Bearbeitungsfrist
+kann nicht abgeleitet werden, dass die Auskunft als im beantragten
+Sinn erteilt gilt. Dies gilt unabhängig davon, ob die Finanzbehörde hinreichende
+Gründe für die nicht fristgerechte Auskunftserteilung mitgeteilt
+hat oder nicht.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="8. "><lxbase:a>Nach der Regelung des <lxbase:fett>AEAO</lxbase:fett> zu
+§ 93a wird folgende Regelung <lxbase:fett>zu § 93c</lxbase:fett> eingefügt:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 93c - Datenübermittlung durch
+Dritte:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>§ 93c AO
+enthält die grundsätzlich für alle elektronischen Datenübermittlungspflichten
+Dritter einheitlich geltenden Verfahrensvorschriften.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>Zur Haftung der mitteilungspflichtigen
+Stelle bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung
+vgl. § 72a Abs. 4 AO. Zur Außenprüfung bei der mitteilungspflichtigen
+Stelle vgl. § 203a AO.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a>§ 93c AO ist erstmals anzuwenden,
+wenn steuerliche Daten eines Steuerpflichtigen für Besteuerungszeiträume
+nach 2016 oder Besteuerungszeitpunkte nach dem 31.12.2016
+auf Grund gesetzlicher Vorschriften von einem Dritten als mitteilungspflichtiger
+Stelle elektronisch an Finanzbehörden zu übermitteln sind (Art.
+97 § 27 Abs. 2 EGAO).“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="9. "><lxbase:a>Nach der Regelung des <lxbase:fett>AEAO</lxbase:fett> zu
+§ 108 wird folgende Regelung <lxbase:fett>zu § 109</lxbase:fett> eingefügt:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 109 - Verlängerung von Fristen:</lxbase:fett></lxbase:a><lxbase:a>§ 109 AO i.d.F. des StModernG ist erstmals anzuwenden
+für Besteuerungszeiträume, die nach dem 31.12.2017
+beginnen, und Besteuerungszeitpunkte, die nach dem 31.12.2017
+liegen. Für Besteuerungszeiträume, die vor dem 1.1.2018 beginnen,
+und Besteuerungszeitpunkte, die vor dem 1.1.2018 liegen, ist § 109
+AO in der am 31.12.2016 geltenden Fassung weiterhin anzuwenden (Art.
+97 § 10a Abs. 4 EGAO).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="10. "><lxbase:a>In der Nummer 3 des <lxbase:fett>AEAO
+zu § 117</lxbase:fett> wird die Angabe „Merkblatt zur zwischenstaatlichen
+Amtshilfe durch Informationsaustausch in Steuersachen (BMF-Schreiben
+vom 25.5.2012, <lxprod:doknr-verw linkend="HT0401499">BStBl I S. 599</lxprod:doknr-verw>);“
+durch die Angabe „Merkblatt zur zwischenstaatlichen Amtshilfe durch
+Informationsaustausch in Steuersachen (BMF-Schreiben vom 23.11.2015, <lxprod:doknr-verw linkend="HT5255064">BStBl I S. 928</lxprod:doknr-verw>);“
+ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="11. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 122</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Die Nummer 1.7.2 wird wie folgt gefasst:</lxbase:a><lxbase:a>„1.7.2 Es liegt im Ermessen des Finanzamts, ob es einen
+Steuerbescheid an den Steuerpflichtigen selbst oder an dessen Bevollmächtigten
+bekannt gibt (§ 122 Abs. 1 Satz 3 AO). Da das Gesetz eine „Soll-Regelung“
+enthält, gilt bei Ausübung des Ermessens Folgendes:</lxbase:a><lxbase:a>Hat der Steuerpflichtige dem Finanzamt ausdrücklich mitgeteilt,
+dass er seinen Vertreter auch zur Entgegennahme von Steuerbescheiden
+ermächtigt, sind diese grundsätzlich dem Bevollmächtigten bekannt
+zu geben (BFH-Urteil vom 5.10.2000, <lxprod:doknr-verw linkend="HT0571051">VII R 96/99</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0571051">BStBl 2001
+II S. 86</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Dies gilt auch, wenn der Steuerpflichtige dem Finanzamt
+eine Vollmacht vorgelegt hat, nach der der Bevollmächtigte berechtigt
+ist, für den Steuerpflichtigen „rechtsverbindliche Erklärungen“
+entgegen zu nehmen (BFH-Urteil vom 23.11.1999, <lxprod:doknr-verw linkend="HT0590128">VII R 38/99</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0590128">BStBl 2001
+II S. 463</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Nur wenn im Einzelfall besondere Gründe gegen die Bekanntgabe
+des Steuerbescheids an den Bevollmächtigten sprechen, kann der Steuerbescheid
+unmittelbar dem Steuerpflichtigen selbst bekannt gegeben (§ 122
+Abs. 1 Satz 4 AO) oder förmlich zugestellt werden (§ 122 Abs. 5
+Satz 3 i.V.m. Abs. 1 Satz 4 AO). Derartige Gründe können auch technischer
+Natur sein. Der Steuerbescheid ist auch nach Vorlage einer Empfangsvollmacht
+dem Steuerpflichtigen bekannt zu geben, soweit der Bevollmächtigte
+wegen unbefugter Hilfeleistung in Steuersachen nach § 80 Abs. 7
+AO zurückgewiesen wurde oder wenn ihm die Hilfeleistung in Steuersachen
+nach § 7 StBerG untersagt wurde. Dies gilt auch, wenn die Zurückweisungsverfügung
+in der Vollziehung ausgesetzt wurde oder wenn gegen eine Untersagung
+nach § 7 StBerG Einspruch eingelegt oder Klage erhoben wurde und dieser
+Rechtsbehelf hemmende Wirkung hat (§ 361 Abs. 4 AO, § 69 Abs. 5
+FGO).</lxbase:a><lxbase:a>Fehlt es an einer ausdrücklichen Benennung eines Empfangsbevollmächtigten,
+hat das Finanzamt aber bisher Verwaltungsakte dem Vertreter des
+Steuerpflichtigen übermittelt, so darf es sich nicht in Widerspruch
+zu seinem bisherigen Verhalten setzen und sich bei gleichliegenden
+Verhältnissen ohne ersichtlichen Grund an den Steuerpflichtigen
+selbst wenden (vgl. BFH-Urteile vom 11.8.1954, <lxprod:doknr-verw linkend="HT0006479">II 239/53 U</lxprod:doknr-verw>, BStBl
+III S. 327 und vom 13.4.1965, <lxprod:doknr-verw linkend="HT0005649">I 36/64 U</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0005649">I 37/64 U</lxprod:doknr-verw>,
+BStBl III S. 389). In diesen Fällen ist jedoch eine schriftliche
+Vollmacht nachzufordern; der Vollmachtsnachweis kann auch in elektronischer
+Form (§ 87a Abs. 3 AO) erbracht werden.</lxbase:a><lxbase:a>Die im Einkommensteuererklärungsvordruck erteilte Empfangsvollmacht
+gilt nur für Bescheide des betreffenden Veranlagungszeitraums (vgl.
+BFH-Beschluss vom 16.1.2001, <lxprod:doknr-verw linkend="HT0591387">XI B 14/99</lxprod:doknr-verw>, BFH/NV S. 888)
+und umfasst auch Änderungsbescheide (BFH-Urteil vom 29.5.1996, <lxprod:doknr-verw linkend="HT0135827">I R 42/95</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0135827">BFH/NV 1997 S.
+1</lxprod:doknr-verw>). Dagegen entfaltet die im Erklärungsvordruck
+zur gesonderten und einheitlichen Feststellung erteilte Empfangsvollmacht
+nicht lediglich Wirkung für das Verfahren des entsprechenden Feststellungszeitraums,
+sondern ist solange zu Seite 11 beachten, bis sie durch Widerruf
+entfällt (vgl. BFH-Urteil vom 18.1.2007, <lxprod:doknr-verw linkend="HT5004193">IV R 53/05</lxprod:doknr-verw>, BStBl II S.
+369).</lxbase:a><lxbase:a>Ein während eines Klageverfahrens ergehender Änderungsbescheid
+ist i.d.R. dem Prozessbevollmächtigten bekannt zu geben (BFH-Urteile
+vom 5.5.1994, <lxprod:doknr-verw linkend="HT0109279">VI
+R 98/93</lxprod:doknr-verw>, BStBl II S. 806 und vom 29.10.1997, <lxprod:doknr-verw linkend="HT0145089">X R 37/95</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0145089">BStBl 1998
+II S. 266</lxprod:doknr-verw>).“</lxbase:a><lxbase:a>b) Die Nummer 1.7.6 wird wie folgt gefasst:</lxbase:a><lxbase:a>„1.7.6 Wendet sich die Finanzbehörde aus besonderem Grund
+an den Beteiligten selbst (z.B. um ihn um Auskünfte zu bitten, die
+nur er selbst als Wissensträger geben kann, oder um die Vornahme
+von Handlungen zu erzwingen), so soll der Bevollmächtigte unterrichtet
+werden (§ 80 Abs. 5 Satz 3 AO).“</lxbase:a><lxbase:a>c) Die Nummer 3.3.1 wird wie folgt gefasst:</lxbase:a><lxbase:a>„3.3.1 Ist für das Verfahren ein Bevollmächtigter bestellt,
+kann an diesen zugestellt werden (§ 7 Abs. 1 Satz 1 VwZG). Hat der
+Bevollmächtigte eine schriftliche Vollmacht vorgelegt, soll an diesen
+zugestellt werden (§ 122 Abs. 5 Satz 3 i.V.m. Abs. 1 Satz 4 AO verdrängt
+§ 7 Abs. 1 Satz 2 VwZG); dies gilt auch, wenn die Vollmacht in elektronischer
+Form (§ 80a oder § 87a Abs. 3 AO) vorgelegt wurde. Eine Zustellung
+direkt an den/die Beteiligten ist in diesem Falle nur wirksam, wenn
+im Einzelfall besondere Gründe gegen die Zustellung an den Bevollmächtigten
+sprechen. Derartige Gründe können auch technischer Natur sein. Ein
+Verwaltungsakt darf einem Verfahrensbevollmächtigten, der nach §
+80 Abs. 7 AO zurückgewiesen worden ist, nicht zugestellt werden
+(§ 122 Abs. 5 Satz 3 i.V.m. Abs. 1 Satz 4 AO).</lxbase:a><lxbase:a>Haben mehrere Beteiligte einen gemeinsamen Verfahrensbevollmächtigten bestellt,
+genügt es, dem Bevollmächtigten eine Ausfertigung des Dokuments
+mit Wirkung für alle Beteiligten zuzustellen (§ 7 Abs. 1 Satz 3
+VwZG; BFH-Urteil vom 13.8.1970, <lxprod:doknr-verw linkend="HT0004653">IV 48/65</lxprod:doknr-verw>, BStBl II S. 839).
+Dies gilt auch, wenn der Verfahrensbevollmächtigte selbst Beteiligter
+ist und zugleich andere Beteiligte vertritt.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="12. "><lxbase:a>Nach der Regelung des <lxbase:fett>AEAO</lxbase:fett> zu
+§ 122 wird folgende Regelung <lxbase:fett>zu § 122a</lxbase:fett> eingefügt:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 122a - Bekanntgabe von Verwaltungsakten
+durch Bereitstellung zum Datenabruf:</lxbase:fett></lxbase:a><lxbase:a>Durch die Datenbereitstellung von Verwaltungsakten der
+Landesfinanzbehörden nach § 122a AO über die Kommunikationsplattform
+ELSTER im Format PDF/A wird ein sicheres Verfahren verwendet, das
+die Vertraulichkeit und Integrität des Datensatzes gewährleistet
+(§ 87a Abs. 8 AO).</lxbase:a><lxbase:a>Die elektronische Benachrichtigung an die abrufberechtigte
+Person über die Bereitstellung der Daten zum Abruf bedarf keiner
+Verschlüsselung (§ 87a Abs. 1 Satz 5 AO). Bestreitet die zum Abruf
+berechtigte Person den Zugang der Benachrichtigung, trägt die Finanzbehörde
+die Beweislast für deren Zugang. Trägt die abrufberechtigte Person
+substantiiert und unwiderlegbar vor, die Benachrichtigung erst nach
+dem in § 122a Abs. 4 Satz 1 AO fingierten Bekanntgabetag erhalten
+zu haben, wurden die Daten von der abrufberechtigten Person aber
+tatsächlich abgerufen, gilt der Verwaltungsakt an dem Tag als bekannt
+gegeben, an dem der Datenabruf tatsächlich erfolgt ist. Gelingt
+der Finanzbehörde der Nachweis des Zugangs der Benachrichtigung
+nicht und wurden die Daten auch von keiner dazu berechtigten Person
+abgerufen, gilt der Verwaltungsakt als nicht zugegangen. In diesem
+Fall ist die Bekanntgabe - vorzugsweise im schriftlichen Verfahren
+- zu wiederholen.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="13. "><lxbase:a>Die Nummer 4 des <lxbase:fett>AEAO
+zu § 129</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„4. Die offenbare Unrichtigkeit muss beim Erlass des Verwaltungsakts
+unterlaufen sein. Daher können nur Fehler berichtigt werden, die
+der Finanzbehörde unterlaufen sind. Eine offenbare Unrichtigkeit
+kann aber auch dann vorliegen, wenn das Finanzamt eine in der Steuererklärung
+oder dieser beigefügten Anlagen enthaltene offenbare, d.h. für das
+Finanzamt erkennbare Unrichtigkeit als eigene übernimmt. Dies gilt
+auch dann, wenn zur Berichtigung des offenbaren Fehlers noch Sachverhaltsermittlungen
+durch die Finanzbehörde zur Höhe des zu berücksichtigenden Betrags
+erforderlich sind (vgl. BFH-Urteil vom 27.8.2013, <lxprod:doknr-verw linkend="HT0928373">VIII R 9/11</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0928373">BStBl 2014
+II S. 439</lxprod:doknr-verw>, zu Umsatzsteuerzahlungen, die in einer
+Gewinnermittlung nach § 4 Abs. 3 EStG nicht als Betriebsausgaben
+berücksichtigt wurden).</lxbase:a><lxbase:a>Bei Fehlern des Steuerpflichtigen bei Erstellung seiner
+Steuererklärung ist zwischen der Rechtslage bis 2016 und ab 2017
+zu unterscheiden:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>Soweit
+der Steuerbescheid nach dem 31.12.2016
+erlassen wurde vgl. AEAO zu § 173a.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Soweit der Steuerbescheid
+vor dem 1.1.2017 erlassen wurde, gilt Folgendes:</lxbase:a><lxbase:a>Sind dem Steuerpflichtigen bei Erstellung seiner Steuererklärung
+Fehler (insbesondere Schreib- oder Rechenfehler) unterlaufen und
+hat er demzufolge dem Finanzamt bestimmte Tatsachen nicht oder mit
+einem unzutreffenden Wert mitgeteilt, kann der Steuerbescheid nicht
+nach § 129 AO berichtigt werden, da das Finanzamt den Fehler nicht
+erkennen und diesen sich somit auch nicht zu eigen machen konnte.
+Allerdings kommt bei steuerermäßigenden Tatsachen eine Änderung
+nach § 173 Abs. 1 Nr. 2 AO in Betracht, wenn den Steuerpflichtigen kein
+grobes Verschulden am nachträglichen Bekanntwerden der zutreffenden Tatsachen
+trifft (vgl. AEAO zu § 173, Nr. 5) und diese Tatsachen auch bei
+Erlass des ursprünglichen Steuerbescheids rechtserheblich waren
+(vgl. AEAO zu § 173, Nr. 3). Dafür, dass die ursprüngliche Nichterklärung
+auf einem mechanischen Versehen beruht, trägt der Steuerpflichtige
+die Beweislast (vgl. AEAO zu § 173, Nr. 5.1 und 5.1.3). Die Form
+der Steuererklärung ist hierbei unerheblich (vgl. AEAO zu § 173,
+Nr. 5.6).“</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="14. "><lxbase:a>Nach der Nummer 4 des <lxbase:fett>AEAO
+vor §§ 130, 131</lxbase:fett> wird folgende Nummer 5 angefügt:</lxbase:a><lxbase:a>„5. Verwaltungsakte über Billigkeitsmaßnahmen nach § 163
+Abs. 1 AO stehen in den Fällen des § 163 Abs. 3 AO kraft Gesetzes
+unter Widerrufsvorbehalt. Die Rücknahme eines rechtswidrigen Verwaltungsakts
+richtet sich in diesen Fällen nach § 163 Abs. 4 Satz 1 AO.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="15. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 130</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) In der Nummer 1 wird das Klammerzitat „(vgl. AEAO zu
+§ 5 AO)“ durch das Klammerzitat „(vgl. AEAO zu § 5)“ ersetzt.</lxbase:a><lxbase:a>b) In der Nummer 3 wird im Beispiel das Klammerzitat „(Verstoß
+gegen § 152 Abs. 2 AO)“ durch das Klammerzitat „(Verstoß gegen §
+152 Abs. 2 AO a.F.)“ ersetzt.</lxbase:a><lxbase:a>c) In der Nummer 4 wird im Beispiel a) die Angabe „§ 152
+AO“ durch die Angabe „§ 152 AO a.F.“ ersetzt.</lxbase:a><lxbase:a>d) In der Nummer 5 wird das Klammerzitat „(vgl. Beschluss
+des BVerwG vom 19.12.1984, <lxbase:az normform="GrS-1-und-2/84" manuell="nein">GrS 1 und 2/84</lxbase:az>, <lxbase:lit-fs normform="BVerwGE-0070-0356" manuell="nein">BVerwGE 70 S.
+356</lxbase:lit-fs>, und daran anschließend die ständige Rechtsprechung
+des BFH, vgl. u.a. BFH-Urteil vom 9.12.2008, <lxprod:doknr-verw linkend="HT5007827">VII R 43/07</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT5007827">BStBl 2009
+II S. 344</lxprod:doknr-verw>)“ durch das Klammerzitat „(vgl. BVerwG-Beschluss
+vom 19.12.1984, <lxbase:az normform="GrS-1-und-2/84" manuell="nein">GrS
+1 und 2/84</lxbase:az>, <lxbase:lit-fs normform="BVerwGE-0070-0356" manuell="nein">BVerwGE 70 S. 356</lxbase:lit-fs>,
+und daran anschließend die ständige Rechtsprechung des BFH, vgl.
+u.a. Urteil vom 9.12.2008, <lxprod:doknr-verw linkend="HT5007827">VII R 43/07</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT5007827">BStBl 2009
+II S. 344</lxprod:doknr-verw>)“ ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="16. "><lxbase:a>Nach der Regelung des <lxbase:fett>AEAO</lxbase:fett> zu
+§ 148 wird folgende Regelung <lxbase:fett>zu § 149</lxbase:fett> eingefügt:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 149 - Abgabe der Steuererklärungen:</lxbase:fett></lxbase:a><lxbase:a>§ 149 AO i.d.F. des StModernG ist erstmals anzuwenden
+für Besteuerungszeiträume, die nach dem 31.12.2017
+beginnen, und Besteuerungszeitpunkte, die nach dem 31.12.2017
+liegen. Für Besteuerungszeiträume, die vor dem 1.1.2018 beginnen,
+und Besteuerungszeitpunkte, die vor dem 1.1.2018 liegen, ist § 149
+AO in der am 31.12.2016 geltenden Fassung weiterhin anzuwenden (Art.
+97 § 10a Abs. 4 EGAO).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="17. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 152</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Folgende neue Nummer 1 wird eingefügt:</lxbase:a><lxbase:a>„1. Für Steuererklärungen, die vor dem 1.1.2019 einzureichen
+sind, und Umsatzsteuererklärungen für den kürzeren Besteuerungszeitraum
+nach § 18 Abs. 3 Satz 1 und 2 UStG, wenn die gewerbliche oder berufliche
+Tätigkeit in 2018 endet, ist § 152 AO in der am 31.12.2016 geltenden
+Fassung (§ 152 AO a.F.) weiterhin anzuwenden (Art. 97 § 8 Abs. 4
+Satz 3 EGAO).</lxbase:a><lxbase:a>§ 152 AO i.d.F. des StModernG (§ 152 AO n.F.) ist zwar
+am 1.1.2017 in Kraft getreten, ist aber erstmals für Steuererklärungen
+anzuwenden, die nach
+dem 31.12.2018 abzugeben sind; eine Verlängerung der
+Steuererklärungsfrist ist hierbei nicht zu berücksichtigen (Art.
+97 § 8 Abs. 4 Satz 1 und 2 EGAO).“</lxbase:a><lxbase:a>b) Die bisherigen Nummern 1 bis 7 werden die neuen Nummern
+2 bis 8.</lxbase:a><lxbase:a>c) Die neue Nummer 3 wird wie folgt gefasst:</lxbase:a><lxbase:a>„3. In den Fällen des § 152 Abs. 1 AO a.F. ist das Versäumnis
+regelmäßig dann nicht entschuldbar, wenn die Steuererklärung wiederholt
+nicht oder wiederholt nicht fristgemäß abgegeben wurde oder eine
+von der Finanzbehörde antragsgemäß bewilligte Fristverlängerung
+(§ 109 AO a.F.) nicht eingehalten wurde.“</lxbase:a><lxbase:a>d) In Satz 3 der neuen Nummer 5 wird die Angabe „Nr. 1
+Satz 3“ durch die Angabe „Nr. 2 Satz 3“ ersetzt.</lxbase:a><lxbase:a>e) Die neue Nummer 7 wird wie folgt gefasst:</lxbase:a><lxbase:a>„7. Nach § 152 Abs. 2 Satz 1 AO a.F. darf der Verspätungszuschlag
+höchstens 25.000 € betragen. Ein Verspätungszuschlag i.H.v. mehr
+als 5.000 € ist nur festzusetzen, wenn mit einem Verspätungszuschlag
+i.H.v. bis zu 5.000 € ein durch die verspätete Abgabe der Steuererklärung
+(Steueranmeldung) entstandener Zinsvorteil nicht ausreichend abgeschöpft
+werden kann.“</lxbase:a><lxbase:a>e) Die neue Nummer 8 wird wie folgt gefasst:</lxbase:a><lxbase:a>„8. Bei der Ermessensentscheidung sind sämtliche in §
+152 Abs. 2 Satz 2 AO a.F. ausdrücklich und abschließend aufgezählten
+Kriterien zu beachten; das Für und Wider der Kriterien ist gegeneinander
+abzuwägen (BFH-Urteil vom 26.4.1989, <lxprod:doknr-verw linkend="HT0089729">I R 10/85</lxprod:doknr-verw>, BStBl II S. 693).
+Wenngleich die Beurteilungsmerkmale grundsätzlich gleichwertig sind,
+sind sie nicht notwendigerweise in jedem Fall in gleicher Weise zu
+gewichten. Im Ergebnis kann je nach den Umständen des Einzelfalls
+ein Merkmal stärker als ein anderes hervortreten (BFH-Urteil vom
+11.6.1997, <lxprod:doknr-verw linkend="HT0144160">X
+R 14/95</lxprod:doknr-verw>, BStBl II S. 642) oder auch ganz ohne Auswirkung
+auf die Bemessung bleiben.</lxbase:a><lxbase:a>Danach gilt für die Anwendung des § 152 Abs. 2 Satz 2
+AO a.F. grundsätzlich Folgendes (BFH-Urteil vom 14.6.2000, <lxprod:doknr-verw linkend="HT0554540">X R 56/98</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0554540">BStBl 2001
+II S. 60</lxprod:doknr-verw> m.w.N.):</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>Es ist
+nicht ermessensfehlerhaft, wenn die Höhe des Verspätungszuschlags
+den durch die verspätete Abgabe der Erklärung gezogenen Vorteil
+erheblich übersteigt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Da die Bemessung des Zuschlags
+nicht durch das Maß des gezogenen Vorteils begrenzt wird, kommt
+es u.U. nicht entscheidend darauf an, ob und in welcher Höhe letztlich
+ein Zinsvorteil erzielt wurde.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Ein Verspätungszuschlag
+kann auch festgesetzt werden, obwohl es aufgrund von Anrechnungsbeträgen
+zu einer Erstattung gekommen ist oder wenn ein oder zwei der in
+§ 152 Abs. 2 Satz 2 AO a.F. genannten und in jedem Fall zu prüfenden
+Voraussetzungen nicht erfüllt sind.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Es ist in schweren Fällen
+(z.B. bei erheblicher Fristüberschreitung, schwerwiegendem Verschulden
+und hoher Steuerfestsetzung) nicht ermessensfehlerhaft, den Verspätungszuschlag
+so zu bemessen, dass er als angemessene Sanktion wirkt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Bei der Beurteilung der
+Frage, welche Vorteile der Steuerpflichtige aus der verspäteten
+oder unterlassenen Abgabe der Steuererklärung gezogen hat, ist zu berücksichtigen,
+dass Zinsvorteile bereits durch Zinsen nach § 233a AO teilweise
+ausgeglichen sein können.“</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="18. "><lxbase:a>Die Nummer 4 des <lxbase:fett>AEAO
+zu § 155</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„4. Nach den Gesetzen, in denen die Gewährung von Zulagen
+geregelt wird (z.B. die Investitionszulage, die Eigenheimzulage
+oder die Arbeitnehmer-Sparzulage), und den Prämiengesetzen sind
+die für Steuervergütungen geltenden Vorschriften (§ 155 Abs. 5 AO)
+auf Zulagen und Prämien entsprechend anzuwenden. Die Gewährung erfolgt
+somit durch Festsetzung, soweit nichts anderes vorgeschrieben ist
+(z.B. §§ 4a, 4b WoPG). Die Aufhebung oder Änderung dieser Bescheide und
+insbesondere die Rückforderung zu Unrecht gewährter Beträge regeln
+sich nach den für das Steuerfestsetzungsverfahren geltenden Vorschriften.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="19. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 157</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 157 - Form und Inhalt der Steuerbescheide:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>Schriftliche
+Steuerbescheide, die zwecks Bekanntgabe dem Steuerpflichtigen nicht
+selbst übergeben werden, sind mit Rücksicht auf das Steuergeheimnis
+(§ 30 AO) in einem verschlossenen Umschlag zu versenden. Bei elektronischer Bekanntgabe
+ist § 87a Abs. 7 oder 8 AO zu beachten.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>Wegen der Begründung des
+Steuerbescheids wird auf § 121 AO hingewiesen, wegen der Bekanntgabe
+auf §§ 122, 122a, 155 AO, wegen der Wirksamkeit auf § 124 AO, wegen
+des Leistungsgebots auf § 254 AO, wegen der Folgen bei unterbliebener
+oder unrichtiger Rechtsbehelfsbelehrung auf § 356 AO.“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="20. "><lxbase:a>Die Nummern 3 bis 5 des <lxbase:fett>AEAO
+zu § 163</lxbase:fett> werden wie folgt gefasst:</lxbase:a><lxbase:a>„3. Die Entscheidung über eine Billigkeitsmaßnahme nach
+§ 163 Abs. 1 AO stellt auch dann einen selbständigen Verwaltungsakt
+dar, wenn sie mit der Steuerfestsetzung oder der entsprechenden
+gesonderten Feststellung verbunden wird (§ 163 Abs. 2 AO). Sie ist
+Grundlagenbescheid für den entsprechenden Steuer- oder Feststellungsbescheid
+(§ 171 Abs. 10 AO). Wird eine Billigkeitsmaßnahme erst nach Seite
+17 Erlass des hiervon betroffenen Steuer- oder Feststellungsbescheids getroffen,
+muss dieser Bescheid nach § 175 Abs. 1 Satz 1 Nr. 1 AO entsprechend angepasst
+werden.</lxbase:a><lxbase:a>4. Eine Billigkeitsmaßnahme nach § 163 Abs. 1 AO unterliegt
+keiner eigenen Verjährungsfrist, sie löst hinsichtlich des Folgebescheids
+aber nur dann eine Ablaufhemmung nach § 171 Abs. 10 Satz 1 AO aus,
+wenn sie vor Ablauf der Festsetzungsfrist des Folgebescheids bei
+der für die Billigkeitsmaßnahme zuständigen Finanzbehörde beantragt
+worden ist (§ 171 Abs. 10 Satz 3 AO, vgl. auch AEAO zu § 171, Nr.
+6.5). Wurde der Antrag erst nach Ablauf der Festsetzungsfrist des
+Folgebescheids gestellt, ist es regelmäßig ermessensgerecht, die
+beantragte Billigkeitsmaßnahme nach § 163 Abs. 1 AO abzulehnen,
+wenn sie im Folgebescheid wegen Eintritts der Festsetzungsverjährung
+nicht berücksichtigt werden könnte; in diesen Fällen ist ggf. zu
+prüfen, ob ein Erlass nach § 227 AO in Betracht kommt.</lxbase:a><lxbase:a>5. Wegen der Auswirkungen einer Billigkeitsmaßnahme bei
+den Steuern vom Einkommen auf die Gewerbesteuer Hinweis auf § 184
+Abs. 2 AO. Danach ist die niedrigere Festsetzung eines Messbetrags
+nach § 163 Abs. 1 Satz 1 AO nicht zulässig, wenn die Voraussetzungen
+dafür nicht in einer allgemeinen Verwaltungsvorschrift der Bundesregierung
+oder einer obersten Landesfinanzbehörde festgelegt sind.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="21. "><lxbase:a>Nach der Nummer 8 des <lxbase:fett>AEAO
+zu § 164</lxbase:fett> wird folgende Nummer 9 eingefügt:</lxbase:a><lxbase:a>„9. Verwaltungsakte i.S.d. § 163 Abs. 1 AO können nicht
+unter Vorbehalt der Nachprüfung ergehen. Werden solche Verwaltungsakte
+aber mit einer Steuerfestsetzung unter Vorbehalt der Nachprüfung
+verbunden, stehen sie nach § 163 Abs. 3 Satz 1 Nr. 2 AO kraft Gesetzes
+unter Widerrufsvorbehalt.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="22. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 165</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Die Nummer 3 wird wie folgt gefasst:</lxbase:a><lxbase:a>„3. Eine vorläufige Steuerfestsetzung nach § 165 Abs.
+1 Satz 2 Nr. 2 oder Nr. 2a AO setzt voraus, dass die Entscheidung
+des Bundesverfassungsgerichts oder des Gerichtshofs der Europäischen
+Union bereits ergangen ist und die gesetzliche Neuregelung noch
+aussteht.“</lxbase:a><lxbase:a>b) Nach der Nummer 11 wird folgende Nummer 12 eingefügt:</lxbase:a><lxbase:a>„12. Verwaltungsakte i.S.d. § 163 Abs. 1 AO können nicht
+nach § 165 AO vorläufig ergehen. Werden solche Verwaltungsakte aber
+mit einer vorläufigen Steuerfestsetzung verbunden und ist der Grund
+der Vorläufigkeit auch für die Entscheidung nach § 163 Abs. 1 AO
+von Bedeutung, stehen sie nach § 163 Abs. 3 Satz 1 Nr. 3 AO kraft
+Gesetzes unter Widerrufsvorbehalt.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="23. "><lxbase:a>Die Regelung des <lxbase:fett>AEAO
+zu § 169</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Die Nummer 1 wird wie folgt gefasst:</lxbase:a><lxbase:a>„1. Die Festsetzungsfrist nach § 169 Abs. 1 Satz 3 Nr.
+1 AO ist nur gewahrt, wenn der vor Ablauf der Frist zur Post gegebene
+„Steuerbescheid“ dem Empfänger nach Fristablauf tatsächlich zugeht
+(vgl. Beschluss des Großen Senats des BFH vom 25.11.2002, <lxprod:doknr-verw linkend="HT0814774">GrS 2/01</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0814774">BStBl 2003
+II S. 548</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Im Fall der Bekanntgabe nach § 122a AO ist die Festsetzungsfrist
+nach § 169 Abs. 1 Satz 3 Nr. 1 AO gewahrt, wenn</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>die vor
+Ablauf der Festsetzungsfrist versandte elektronische Benachrichtigung tatsächlich
+zugegangen ist oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>die elektronische Benachrichtigung
+vor Ablauf der Festsetzungsfrist versandt worden ist, der Adressat
+den Zugang der Benachrichtigung bestreitet, er den Verwaltungsakt
+aber tatsächlich abgerufen hat. Der Zeitpunkt des Abrufs des Verwaltungsakts
+ist dabei unerheblich.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Zu den für die Steuerfestsetzung zuständigen Finanzbehörden
+sind auch die für die Finanzbehörden arbeitenden Rechenzentren (§§
+2 und 17 FVG) zu zählen, wenn sie die Absendung an den Steuerpflichtigen
+vornehmen.</lxbase:a><lxbase:a>Bei Steuermessbescheiden wird die Frist allein durch die
+Absendung der Mitteilungen an die Gemeinde (§ 184 Abs. 3 AO) nicht
+gewahrt. Die fristgerechte Absendung der Messbescheide ist Aufgabe
+der Gemeinden, die insoweit für die Finanzbehörden handeln.“</lxbase:a><lxbase:a>b) Die Nummer 2.1 wird durch folgende neuen Nummern 2.1
+und 2.2 ersetzt:</lxbase:a><lxbase:a>„2.1 Die für den Erlass des Steuerbescheids zuständige
+Stelle der Finanzbehörde hat im Benehmen mit der für Straf- und
+Bußgeldsachen zuständigen Stelle zu prüfen, ob der objektive und
+subjektive Tatbestand des § 370 AO gegeben ist.</lxbase:a><lxbase:a>Eine vorherige strafgerichtliche Verurteilung ist nicht
+erforderlich. Ebenso wenig sind Selbstanzeige (§ 371 AO), Eintritt
+der Strafverfolgungsverjährung oder sonstige Verfahrenshindernisse
+von Bedeutung. An Entscheidungen im strafgerichtlichen Verfahren
+ist die Finanzbehörde nicht gebunden (BFH-Urteil vom 10.10.1972, <lxprod:doknr-verw linkend="HT0004561">VII R 117/69</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0004561">BStBl 1973
+II S. 68</lxprod:doknr-verw>). Entsprechendes gilt bezüglich leichtfertig
+verkürzter Steuern (§ 378 AO).</lxbase:a><lxbase:a>2.2 Das Erschleichen von Investitionszulage (BFH-Urteil
+vom 19.12.2013, <lxprod:doknr-verw linkend="HT0927726">III
+R 25/10</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0927726">BStBl 2015 II S. 119</lxprod:doknr-verw>)
+ist ebenso wie das Erschleichen von Eigenheimzulage (BFH-Urteil
+vom 12.1.2016, <lxprod:doknr-verw linkend="HT0950271">IX
+R 20/15</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0950271">BStBl 2017 II S. 21</lxprod:doknr-verw>)
+keine Steuerhinterziehung i.S.v. § 169 Abs. 2 Satz 2 i.V.m. § 370
+AO.</lxbase:a><lxbase:a>Gesetzlich ausdrücklich für anwendbar erklärt wurden die
+Vorschriften zur Steuerhinterziehung hingegen für die Arbeitnehmer-Sparzulage
+(§ 14 Abs. 3 Satz 1 5. VermBG), die Wohnungsbauprämie (§ 8 Abs.
+2 Satz 1 WoPG) und die Altersvorsorgezulage (§ 96 Abs. 7 Satz 1
+EStG).“</lxbase:a><lxbase:a>c) Die bisherige Nummer 2.2 wird die neue Nummer 2.3. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="24. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 171</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Die Nummer 6 wird wie folgt gefasst:</lxbase:a><lxbase:a>„6. § 171 Abs. 10 Satz 1 AO gewährt eine maximale Anpassungsfrist
+von zwei Jahren nach Bekanntgabe eines durch eine Finanzbehörde
+erlassenen Grundlagenbescheids (vgl. BFH-Urteil vom 19.1.2005, <lxprod:doknr-verw linkend="HT0819522">X R 14/04</lxprod:doknr-verw>,
+BStBl II S. 242). Der Zeitpunkt des Zugangs der finanzverwaltungsinternen
+Mitteilung über den Grundlagenbescheid bei der für den Erlass des
+Folgebescheids zuständigen Finanzbehörde ist für die Fristbestimmung
+ebenso unbeachtlich wie der Zeitpunkt, an dem der Grundlagenbescheid
+unanfechtbar geworden ist. Eine Anfechtung des Grundlagenbescheids
+führt lediglich zur Hemmung der Feststellungsfrist (§ 181 Abs. 1 Satz
+1 i.V.m. § 171 Abs. 3a AO), nicht aber zur Hemmung der Festsetzungsfrist der
+Folgebescheide (vgl. BFH-Urteil vom 19.1.2005, <lxprod:doknr-verw linkend="HT0819522">X R 14/04</lxprod:doknr-verw>,
+a.a.O.).“</lxbase:a><lxbase:a>b) Nach der Nummer 6 wird folgende neue Nummer 6.1 eingefügt:</lxbase:a><lxbase:a>„6.1 Bei Grundlagenbescheiden, die nicht von einer Finanzbehörde
+erlassen werden, beginnt die Zweijahresfrist nach § 171 Abs. 10
+Satz 2 AO in dem Zeitpunkt, indem die für den Erlass des Folgebescheids
+zuständige Finanzbehörde Kenntnis von diesem Grundlagenbescheid
+erlangt hat.</lxbase:a><lxbase:a>§ 171 Abs. 10 Satz 2 AO gilt für <lxbase:az normform="alle-am-31/12" manuell="nein">alle am 31.12</lxbase:az>.2016 noch
+nicht abgelaufenen Festsetzungsfristen (Art. 97 § 10 Abs. 14 EGAO).“</lxbase:a><lxbase:a>c) Die bisherigen Nummern 6.1 bis 6.7 werden die neuen
+Nummern 6.2 bis 6.8.</lxbase:a><lxbase:a>d) Die neue Nummer 6.2 wird wie folgt gefasst:</lxbase:a><lxbase:a>„6.2 Werden Feststellungen im Grundlagenbescheid in einem
+Feststellungs-, Einspruchs- oder Klageverfahren geändert, führt
+dies zu einer erneuten Anpassungspflicht nach § 175 Abs. 1 Satz
+1 Nr. 1 AO und damit wiederum zu einer Ablaufhemmung nach § 171
+Abs. 10 Satz 1 oder 2 AO. Dagegen setzt ein Grundlagenbescheid,
+der einen gleichartigen, dem Inhaltsadressaten wirksam bekannt gegebenen
+Steuerverwaltungsakt in seinem verbindlichen Regelungsgehalt lediglich
+wiederholt oder eine Einspruchs- oder Gerichtsentscheidung, die
+einen Grundlagenbescheid lediglich bestätigt, keine neue Zwei-Jahresfrist
+in Lauf (vgl. BFH-Urteile vom 13.12.2000, <lxprod:doknr-verw linkend="HT0572350">X R 42/96</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0572350">BStBl 2001
+II S. 471</lxprod:doknr-verw> und vom 19.1.2005, <lxprod:doknr-verw linkend="HT0819522">X R 14/04</lxprod:doknr-verw>, BStBl II S. 242).“</lxbase:a><lxbase:a>e) Die neuen Nummern 6.5 und 6.6 werden wie folgt gefasst:</lxbase:a><lxbase:a>„6.5 Ein Grundlagenbescheid, der nicht den Vorschriften
+der Feststellungsverjährung (§ 181 AO) unterliegt, löst die Ablaufhemmung
+nach § 171 Abs. 10 Satz 1 oder 2 AO nur dann aus, wenn er vor Ablauf
+der Festsetzungsfrist des Folgebescheids bei der für den Erlass
+des Grundlagenbescheids zuständigen Behörde beantragt worden ist
+(§ 171 Abs. 10 Satz 3 AO). Hierunter fallen neben Grundlagenbescheiden
+ressortfremder Behörden (z.B. Bescheinigungen nach § 4 Nr. 20 Buchstabe
+a UStG) auch Bescheide über Billigkeitsmaßnahmen nach § 163 AO, weil
+auch insoweit die Regelungen der §§ 179 ff. AO nicht gelten. Die
+Festsetzungsfrist für den Folgebescheid läuft in diesen Fällen nicht
+ab, solange über den Antrag auf Erlass des Grundlagenbescheids noch
+nicht unanfechtbar entschieden worden ist.</lxbase:a><lxbase:a>6.6 Die Festsetzungsfrist für einen Folgebescheid läuft
+nach § 171 Abs. 10 Satz 4 AO nicht ab, solange der Ablauf der Festsetzungsfrist
+des von der Bindungswirkung nicht erfassten Teils der Steuer aufgrund
+einer Außenprüfung nach § 171 Abs. 4 AO gehemmt ist. Diese Regelung
+ermöglicht es, die Anpassung des Folgebescheids an einen Grundlagenbescheid
+(§ 175 Abs. 1 Seite 21 Satz 1 Nr. 1 AO) und die Auswertung der Ergebnisse
+der Außenprüfung zusammenzufassen.“</lxbase:a><lxbase:a>f) Nach der neuen Nummer 6.8 wird folgende neue Nummer
+7 eingefügt:</lxbase:a><lxbase:a>„7. § 171 Abs. 10a AO ist erstmals anzuwenden, wenn steuerliche
+Daten eines Steuerpflichtigen für Besteuerungszeiträume nach 2016
+oder Besteuerungszeitpunkte nach dem 31.12.2016
+auf Grund gesetzlicher Vorschriften von einem Dritten als mitteilungspflichtiger
+Stelle elektronisch an Finanzbehörden zu übermitteln sind (Art.
+97 § 27 Abs. 2 EGAO).“</lxbase:a><lxbase:a>g) Die bisherige Nummer 7 wird die neue Nummer 8.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="25. "><lxbase:a>Der <lxbase:fett>AEAO vor
+§§ 172 bis 177</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Die Nummer 3 wird wie folgt gefasst:</lxbase:a><lxbase:a>„3. Die materielle Bestandskraft wird nur durchbrochen,
+soweit es das Gesetz zulässt. Die Zulässigkeit ergibt sich nicht
+nur aus der AO selbst (z.B. §§ 164, 165, 172 bis 175b AO), sondern
+auch aus anderen Steuergesetzen (z.B. § 10d Abs. 1 EStG; § 35b GewStG;
+§§ 24 und 24a BewG; § 20 GrStG).“</lxbase:a><lxbase:a>b) Die Nummer 8 wird wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>„8. Steuerliche Wahlrechte</lxbase:fett></lxbase:a><lxbase:a>8.1 Ein steuerliches Wahlrecht liegt vor, wenn ein Steuergesetz
+für einen bestimmten Tatbestand - ausnahmsweise - mehr als eine
+Rechtsfolge vorsieht und es dem Steuerpflichtigen überlassen bleibt,
+sich für eine dieser Rechtsfolgen zu entscheiden. Übt der Steuerpflichtige
+dieses Wahlrecht nicht oder nicht wirksam aus, tritt die vom Gesetzgeber
+als Regelfall vorgesehene Rechtsfolge ein.</lxbase:a><lxbase:a>8.2 Die Ausübung des Wahlrechts („Antrag“) ist eine empfangsbedürftige
+Willenserklärung. Soweit im Gesetz keine besondere Form (z.B. Schriftform
+oder amtlicher Vordruck; vgl. § 13a Abs. 2 Satz 3 EStG, § 4a Abs.
+1 UStG) vorgeschrieben ist, kann das Wahlrecht auch durch schlüssiges
+Verhalten ausgeübt werden (vgl. BFH-Urteil vom 11.12.1997, <lxprod:doknr-verw linkend="HT0145271">V R 50/94</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0145271">BStBl 1998
+II S. 420</lxprod:doknr-verw>).</lxbase:a><lxbase:a>8.3 Sieht das Gesetz einen unwiderruflichen Antrag vor
+(vgl. z.B. § 5a Abs. 1, § 10 Abs. 1a Nr. 1 Satz 3 EStG; bis 31.12.2014:
+§ 10 Abs. 1 Nr. 1 Satz 3 EStG), wird die Willenserklärung bereits
+mit ihrem Zugang beim Finanzamt wirksam und kann von diesem Zeitpunkt
+an nicht mehr zurückgenommen oder widerrufen werden (vgl. BFH-Urteil
+vom 17.1.1995, <lxprod:doknr-verw linkend="HT0126716">IX
+R 37/91</lxprod:doknr-verw>, BStBl II S. 410); Ausnahme: Anfechtung nach
+§§ 119 ff. BGB.</lxbase:a><lxbase:a>8.4 Setzt die Ausübung des Wahlrechts die Zustimmung des
+Finanzamts oder Dritter (vgl. § 10 Abs. 1a Nr. 1 Satz 1 EStG; bis
+31.12.2014: § 10 Abs. 1 Nr. 1 Satz 1 EStG) voraus, treten die Rechtswirkungen
+der vom Steuerpflichtigen getroffenen Wahl erst mit dieser Zustimmungserklärung
+ein. Dies gilt entsprechend, wenn das Wahlrecht von mehreren Steuerpflichtigen
+einheitlich ausgeübt werden muss (vgl. z.B. § 33a Abs. 2 Satz 5,
+§ 33b Abs. 5 Satz 3 EStG).</lxbase:a><lxbase:a>8.5 Soweit das Gesetz im Einzelfall keine bestimmte Frist
+(vgl. z.B. § 5a Abs. 3 EStG; § 23 Abs. 3 Satz 1 UStG) zur Ausübung
+des Wahlrechts („Antragsfrist“) vorsieht, kann das Wahlrecht grundsätzlich
+bis zum Ablauf der Festsetzungsfrist ausgeübt werden. Die Bestandskraft
+des Steuerbescheids, in dem sich das Wahlrecht auswirkt, schränkt
+allerdings die Wahlrechtsausübung ein.</lxbase:a><lxbase:a>8.5.1 Nach Eintritt der Unanfechtbarkeit der Steuerfestsetzung
+können Wahlrechte grundsätzlich nur noch ausgeübt oder widerrufen
+werden, soweit die Steuerfestsetzung nach §§ 129, 164, 165, 172
+ff. AO oder nach entsprechenden Regelungen in den Einzelsteuergesetzen
+(vgl. AEAO vor §§ 172 bis 177, Nr. 3) korrigiert werden kann (vgl.
+BFH-Urteil vom 30.8.2001, <lxprod:doknr-verw linkend="HT0573569">IV R 30/99</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0573569">BStBl 2002
+II S. 49</lxprod:doknr-verw> m.w.N.); dabei sind die §§ 177 und 351
+Abs. 1 AO zu beachten (vgl. BFH-Urteil vom 27.10.2015, <lxprod:doknr-verw linkend="HT0934348">X R 44/13</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0934348">BStBl 2016
+II S. 278</lxprod:doknr-verw>). Die nachträgliche oder geänderte Ausübung
+eines Antrags- oder Wahlrechts stellt für sich genommen keine verfahrensrechtliche
+Grundlage für die Änderung von Bescheiden dar. Dies gilt auch dann,
+wenn sie auf einer Änderung der wirtschaftlichen Geschäftsgrundlage
+beruht (BFH-Urteil vom 9.12.2015, <lxprod:doknr-verw linkend="HT0934512">X R 56/13</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0934512">BStBl 2016
+II S. 967</lxprod:doknr-verw>).</lxbase:a><lxbase:a>8.5.2 Wahlrechte, für deren Ausübung das Gesetz <lxbase:unterst>keine
+Frist</lxbase:unterst> vorsieht und für die es grundsätzlich auch
+keine Bindung an die einmal getroffene Wahl gibt, können grundsätzlich
+bis zur Unanfechtbarkeit eines Änderungsbescheids (erneut) ausgeübt
+werden. Dies gilt allerdings nur für das Veranlagungswahlrecht nach
+§ 26 EStG (vgl. BFH-Urteile vom 19.5.1999, <lxprod:doknr-verw linkend="HT0552242">XI R 97/94</lxprod:doknr-verw>, BStBl II S.
+762, vom 24.1.2002, <lxprod:doknr-verw linkend="HT0574159">III
+R 49/00</lxprod:doknr-verw>, BStBl II S. 408 m.w.N. und vom 9.12.2015, <lxprod:doknr-verw linkend="HT0934512">X R 56/13</lxprod:doknr-verw>, a.a.O.).
+Nach Eintritt der Unanfechtbarkeit des Steuerbescheids kann die
+Wahl der Veranlagungsart jedoch nur unter den Voraussetzungen des
+§ 26 Abs. 2 Satz 4 EStG geändert werden.</lxbase:a><lxbase:a>8.5.3 Wurde ein steuererhöhender Änderungsbescheid erlassen,
+mit dem ein weiterer steuererheblicher Sachverhalt erfasst worden
+und aufgrund dessen überhaupt erst die wirtschaftliche Notwendigkeit
+entstanden ist, sich mit der erstmaligen bzw. geänderten Ausübung
+eines Antrags- oder Wahlrechts zu befassen, kann das Antrags- oder
+Wahlrecht noch bis zur Unanfechtbarkeit des Änderungsbescheids ausgeübt
+werden. Dies gilt jedoch nur unter der Voraussetzung, dass die steuerlichen
+Auswirkungen des Antrags- oder Wahlrechts insgesamt den Änderungsrahmen
+des § 351 Abs. 1 AO nicht übersteigen. Ein Antrags- oder Wahlrecht
+ist nicht teilbar (vgl. BFH-Urteile vom 27.10.2015, <lxprod:doknr-verw linkend="HT0934348">X R 44/13</lxprod:doknr-verw>,
+a.a.O., und vom 9.12.2015, <lxprod:doknr-verw linkend="HT0934512">X R 56/13</lxprod:doknr-verw>, a.a.O.).</lxbase:a><lxbase:a>8.5.4 Die steuerrechtliche Wirkung von Wahlrechten, die
+nur <lxbase:unterst>bis zur Bestandskraft der Steuerfestsetzung</lxbase:unterst> ausgeübt
+werden können, kann nach Eintritt dieses Zeitpunkts nicht nach §
+172 Abs. 1 Satz 1 Nr. 2 Buchstabe a AO beseitigt werden (vgl. BFH-Urteil
+vom 18.12.1973, <lxprod:doknr-verw linkend="HT0011102">VIII
+R 101/69</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0011102">BStBl 1974 II S. 319</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Die Wahlrechtsausübung kann nicht durch einen Austausch
+gegen bisher nicht berücksichtigte Besteuerungsgrundlagen rückgängig
+gemacht werden; infolge der Bestandskraft der Steuerfestsetzung
+ist der Steuerpflichtige an seine Wahl gebunden (vgl. BFH-Urteil
+vom 25.2.1992, <lxprod:doknr-verw linkend="HT0101705">IX
+R 41/91</lxprod:doknr-verw>, BStBl II S. 621).</lxbase:a><lxbase:a>8.5.5 Die nachträgliche Ausübung eines Wahlrechts oder
+der Widerruf eines bereits ausgeübten Wahlrechts ist keine neue
+Tatsache i.S.d. § 173 AO, sondern Verfahrenshandlung (vgl. BFH-Urteil
+vom 25.2.1992, <lxprod:doknr-verw linkend="HT0101705">IX
+R 41/91</lxprod:doknr-verw>, a.a.O.).</lxbase:a><lxbase:a>Ausnahmsweise liegt ein rückwirkendes Ereignis i.S.d.
+§ 175 Abs. 1 Satz 1 Nr. 2 AO vor, wenn die Wahlrechtsausübung oder
+ihr Widerruf selbst Merkmal des gesetzlichen Tatbestands ist. Zum
+durch die Zustimmungserklärung des Empfängers qualifizierten Antrag
+nach § 10 Abs. 1a Nr. 1 Satz 1 EStG (bis 31.12.2014: § 10 Abs. 1
+Nr. 1 Satz 1 EStG) vgl. BFH-Urteil vom 12.7.1989, <lxprod:doknr-verw linkend="HT0091257">X R 8/84</lxprod:doknr-verw>,
+BStBl II S. 957. Zum Widerruf der Wahlrechtsausübung in den Fällen
+des § 37b EStG in Bezug auf die beim Zuwendungsempfänger vorzunehmende
+Besteuerung vgl. BFH-Urteil vom 15.6.2016, <lxprod:doknr-verw linkend="HT0950609">VI R 54/15</lxprod:doknr-verw>, BStBl II S.
+1010.</lxbase:a><lxbase:a>8.5.6 Zur Änderung von Steuerfestsetzungen nach § 175
+Abs. 1 Satz 1 Nr. 1 AO bei nachträglichem Antrag auf Anwendung des
+§ 33b EStG vgl. BFH-Urteil vom 13.12.1985, <lxprod:doknr-verw linkend="HT0063323">III R 204/81</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0063323">BStBl 1986
+II S. 245</lxprod:doknr-verw> und H 33b (Allgemeines) EStH.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="26. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 173</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Die Nummer 4.2 wird wie folgt gefasst:</lxbase:a><lxbase:a>„4.2 Auf neue Tatsachen, die nach § 173 Abs. 1 Nr. 2 AO
+eine niedrigere Steuerfestsetzung rechtfertigen, sind die in Nr.
+4.1 dargestellten Grundsätze nicht anzuwenden (BFH-Urteile vom 13.4.1967, <lxprod:doknr-verw linkend="HT0005190">V 57/65</lxprod:doknr-verw>, BStBl
+III S. 519 und vom 26.11.1996, <lxprod:doknr-verw linkend="HT0141298">IX R 77/95</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0141298">BStBl 1997
+II S. 422</lxprod:doknr-verw>). Hier ist jedoch zu prüfen, ob den Steuerpflichtigen
+ein grobes Verschulden am nachträglichen Bekanntwerden der neuen
+Tatsachen trifft (vgl. AEAO zu § 173, Nr. 5).</lxbase:a><lxbase:a>Wann eine Tatsache nicht zum Nachteil des Steuerpflichtigen
+als bereits bekannt gelten kann, vgl. AEAO zu § 173, Nr. 2.3.6.“</lxbase:a><lxbase:a>b) Die Nummer 8.6 wird wie folgt gefasst:</lxbase:a><lxbase:a>„8.6 Zur Frage der Feststellung, ob Steuern hinterzogen
+oder leichtfertig verkürzt worden sind, vgl. AEAO zu § 169, Nr.
+2.1 und 2.2.</lxbase:a><lxbase:a>Die Änderungssperre wird auch dann durchbrochen, wenn
+der Adressat des Steuerbescheids selbst nicht der Täter oder Teilnehmer
+der Steuerhinterziehung oder leichtfertigen Verkürzung ist (vgl.
+BFH-Urteil vom 14.12.1994, <lxprod:doknr-verw linkend="HT0126613">XI R 80/92</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0126613">BStBl 1995
+II S. 293</lxprod:doknr-verw>).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="27. "><lxbase:a>Nach der Regelung des <lxbase:fett>AEAO</lxbase:fett> zu
+§ 173 wird folgende Regelung <lxbase:fett>zu § 173a</lxbase:fett> eingefügt:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 173a - Schreib- oder Rechenfehler
+bei Erstellung einer Steuererklärung:</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>§ 173a
+AO ermöglicht eine Änderung der Steuerfestsetzung, soweit der Steuerpflichtige
+auf Grund eines (bei Erstellung der Steuererklärung aufgetretenen) Schreib-
+oder Rechenfehlers der Finanzbehörde bestimmte Tatsachen unzutreffend
+(d.h. fehlerhaft) mitgeteilt hat und diese Tatsachen nach den Verhältnissen
+zum Zeitpunkt des Erlasses des Steuerbescheids rechtserheblich waren.</lxbase:a><lxbase:a>Schreibfehler sind insbesondere Rechtschreibfehler, Wortverwechselungen
+oder Wortauslassungen oder fehlerhafte Übertragungen.</lxbase:a><lxbase:a>Rechenfehler sind insbesondere Fehler bei der Addition,
+Subtraktion, Multiplikation oder Division sowie bei der Prozentrechnung.</lxbase:a><lxbase:a>Ein solcher Schreib- oder Rechenfehler muss durchschaubar,
+eindeutig oder augenfällig sein. Das ist dann der Fall, wenn der
+Fehler bei Offenlegung des Sachverhalts für jeden unvoreingenommenen
+Dritten klar und deutlich als Schreib- oder Rechenfehler erkennbar
+ist und kein Anhaltspunkt dafür erkennbar ist, dass eine unrichtige
+Tatsachenwürdigung, ein Rechtsirrtum oder ein Rechtsanwendungsfehler
+vorliegt.</lxbase:a><lxbase:a>Das schlichte Vergessen eines Übertrags selbst ermittelter
+Besteuerungsgrundlagen in die Steuererklärung ist kein Schreib-
+oder Rechenfehler i.S.d. § 173a AO. In derartigen Fällen kann aber
+eine nachträglich bekannt gewordene Tatsache i.S.d. § 173 Abs. 1
+AO vorliegen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>§ 173a AO ist erstmals auf
+Verwaltungsakte anzuwenden, die nach dem 31.12.2016
+erlassen worden sind (Art. 97 § 9 Abs. 4 EGAO). Für Altfälle vgl.
+Nr. 4 Abs. 2 des AEAO zu § 129.“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="28. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 174</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Die Nummer 1 wird wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>„1. Allgemeines</lxbase:fett></lxbase:a><lxbase:a>1.1 Die Vorschrift eröffnet die Möglichkeit, Vorteile
+und Nachteile auszugleichen, die sich durch Steuerfestsetzungen
+ergeben haben, die inhaltlich einander widersprechen. Sie bietet
+insoweit die gesetzliche Grundlage für die Änderung einer oder beider
+Festsetzungen (§ 172 Abs. 1 Satz 1 Nr. 2 Buchstabe d AO).</lxbase:a><lxbase:a>1.2 Unter einem bestimmten Sachverhalt i.S.d. § 174 AO
+ist der einzelne Lebensvorgang zu verstehen, an den das Gesetz steuerliche
+Folgen knüpft. Der Begriff erfasst nicht nur einzelne steuererhebliche
+Tatsachen, sondern den einheitlichen, für die Besteuerung maßgeblichen
+Sachverhaltskomplex (ständige BFH-Rechtsprechung; vgl. z.B. Urteil
+vom 16.4.2013, <lxprod:doknr-verw linkend="HT0928663">IX
+R 22/11</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0928663">BStBl 2016 II S. 432</lxprod:doknr-verw>).
+Im Rahmen des § 174 AO muss der dem geänderten sowie der dem zu
+ändernden Steuerbescheid zugrunde liegende Sachverhalt übereinstimmen.
+Übereinstimmung setzt jedoch keine vollständige Identität voraus
+(BFH-Urteil vom 19.8.2015, <lxprod:doknr-verw linkend="HT0934410">X R 50/13</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0934410">BFH/NV 2016 S.
+603</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Mehrere Sachverhaltselemente bilden dann einen einheitlichen
+Lebensvorgang und Sachverhaltskomplex, wenn die betreffenden Sachverhaltselemente
+einen inneren Zusammenhang aufweisen (vgl. BFH-Urteil vom 12.2.2015, <lxprod:doknr-verw linkend="HT0934328">V R 38/13</lxprod:doknr-verw>, BFH/NV
+S. 877 m.w.N.).</lxbase:a><lxbase:a>1.3. Die als Steuerfestsetzung unter dem Vorbehalt der
+Nachprüfung (§ 164 AO) wirkende Steueranmeldung (§ 168 AO) steht
+einem Steuerbescheid i.S.d. § 174 AO gleich (vgl. BFH-Urteile vom
+19.12.2013, <lxprod:doknr-verw linkend="HT0929009">V
+R 5/12</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0929009">BStBl 2016 II S. 585</lxprod:doknr-verw> und <lxprod:doknr-verw linkend="HT0928866">V R 7/12</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0928866">BFH/NV 2014 S.
+1130</lxprod:doknr-verw>).“</lxbase:a><lxbase:a>b) Der inhaltlich unveränderten Regelung der Nummer 2
+wird folgende Überschrift vorangestellt:</lxbase:a><lxbase:a><lxbase:fett>„2. Zu § 174 Abs. 1 AO“</lxbase:fett></lxbase:a><lxbase:a>c) Der inhaltlich unveränderten Regelung der Nummer 3
+wird folgende Überschrift vorangestellt:</lxbase:a><lxbase:a><lxbase:fett>„3. Zu § 174 Abs. 2 AO“</lxbase:fett></lxbase:a><lxbase:a>d) Der inhaltlich unveränderten Regelung der Nummer 4
+wird folgende Überschrift vorangestellt:</lxbase:a><lxbase:a><lxbase:fett>„4. „Widerstreit“ im Sinne des § 174 Abs.
+1 und 2 AO“</lxbase:fett></lxbase:a><lxbase:a>e) Der inhaltlich unveränderten Regelung der Nummer 5
+wird folgende Überschrift vorangestellt:</lxbase:a><lxbase:a><lxbase:fett>„5. Unionskonforme Auslegung des § 174 Abs.
+1 und 2 AO“</lxbase:fett></lxbase:a><lxbase:a>f) Der inhaltlich unveränderten Regelung der Nummer 6
+wird folgende Überschrift vorangestellt:</lxbase:a><lxbase:a><lxbase:fett>„6. Zu § 174 Abs. 3 AO“</lxbase:fett></lxbase:a><lxbase:a>g) Die Nummern 7 bis 9 werden wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>„7. Zu § 174 Abs. 4 AO</lxbase:fett></lxbase:a><lxbase:a>7.1 § 174 Abs. 4 AO ergänzt die Regelung des § 174 Abs.
+3 AO um die Fälle, in denen eine Steuerfestsetzung auf Antrag oder
+im Rechtsbehelfsverfahren zugunsten des Steuerpflichtigen geändert
+worden ist.</lxbase:a><lxbase:a>7.2 Der Änderung nach § 174 Abs. 4 AO steht nicht entgegen,
+dass der gleiche Sachverhalt sowohl in dem zugunsten des Steuerpflichtigen
+geänderten Steuerbescheid als auch in dem zu ändernden Bescheid
+steuerlich zu berücksichtigen ist (vgl. BFH-Urteil vom 18.2.1997, <lxprod:doknr-verw linkend="HT0144158">VIII R 54/95</lxprod:doknr-verw>,
+BStBl II S. 647). Bei der Anwendung der Vorschrift ist zu berücksichtigen,
+dass § 174 Abs. 4 AO den Ausgleich einer zugunsten des Steuerpflichtigen
+eingetretenen Änderung bezweckt. Derjenige, der erfolgreich für
+seine Rechtsansicht gestritten hat, muss auch die damit verbundenen
+Nachteile hinnehmen.</lxbase:a><lxbase:a>7.3 <lxbase:fett>Beispiele:</lxbase:fett></lxbase:a><lxbase:a>a) Die Finanzbehörde hat einen Veräußerungsgewinn bei
+der Festsetzung der Einkommensteuer erfasst. Der Steuerpflichtige
+macht im Rechtsbehelfsverfahren mit Erfolg geltend, dass der Veräußerungsgewinn
+erst im folgenden Veranlagungszeitraum zu berücksichtigen sei. Unter
+den Voraussetzungen des § 174 Abs. 4 AO kann die Erfassung des Veräußerungsgewinns
+in dem folgenden Veranlagungszeitraum nachgeholt werden, auch wenn
+die hierfür maßgebliche Steuerfestsetzung bereits unanfechtbar geworden
+ist oder die Festsetzungsfrist bereits abgelaufen war.</lxbase:a><lxbase:a>b) Der Steuerpflichtige erreicht wegen eines in einem
+Veranlagungszeitraum erzielten Einnahmeüberschusses eine geänderte
+Beurteilung der Einkünfteerzielungsabsicht und damit die Berücksichtigung
+des Werbungskostenüberschusses in den angefochtenen Steuerbescheiden.
+Das Finanzamt kann den bisher unberücksichtigt gebliebenen Einnahmeüberschuss
+nachträglich durch Änderung des für diesen Veranlagungszeitraum
+bestandskräftig gewordenen Steuerbescheids nach § 174 Abs. 4 AO
+erfassen (vgl. BFH-Urteil vom 18.2.1997, <lxprod:doknr-verw linkend="HT0144158">VIII R 54/95</lxprod:doknr-verw>, a.a.O.).</lxbase:a><lxbase:a>7.4 § 174 Abs. 4 AO lässt es hingegen nicht zu, dass die
+durch Rechtsbehelf oder sonstigen Antrag erwirkte Änderung eines
+Bescheides zugunsten des Steuerpflichtigen auf bestandskräftige
+andere Bescheide - ebenfalls zugunsten des Steuerpflichtigen - übertragen
+wird (BFH-Urteil vom 10.3.1999, <lxprod:doknr-verw linkend="HT0551147">XI R 28/98</lxprod:doknr-verw>, BStBl II S. 475).</lxbase:a><lxbase:a><lxbase:fett>8. Änderung nach § 174 Abs. 4 i.V.m. Abs.
+5 AO zu Lasten eines Dritten</lxbase:fett></lxbase:a><lxbase:a>8.1 Nach § 174 Abs. 4 i.V.m. Abs. 5 AO können zur Richtigstellung
+einer irrigen Beurteilung eines bestimmten Sachverhalts steuerrechtliche
+Folgen auch zu Lasten eines bereits bestandskräftig beschiedenen
+Dritten gezogen werden.</lxbase:a><lxbase:a>8.2 Dritter ist, wer im ursprünglichen Bescheid nicht
+als Inhaltsadressat (vgl. AEAO zu § 122, Nr. 1.3.1) angegeben war
+(vgl. BFH-Urteil vom 8.2.1995, <lxprod:doknr-verw linkend="HT0127235">I R 127/93</lxprod:doknr-verw>, BStBl II S.
+764). So ist im Besteuerungsverfahren der Organträgerin die Organgesellschaft
+regelmäßig Dritte i.S.v. § 174 Abs. 4 i.V.m. Abs. 5 AO (BFH-Urteil
+vom 19.12.2013, <lxprod:doknr-verw linkend="HT0929009">V
+R 5/12</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0929009">BStBl 2016 II S. 585</lxprod:doknr-verw>).
+Sie ist dann nicht mehr Dritte, wenn im Zeitpunkt der Aufhebung
+oder Änderung des Steuerbescheids Gesamtrechtsnachfolge (§ 45 AO)
+- wie im Falle der Verschmelzung - eingetreten ist (vgl. BFH-Urteil
+vom 19.12.2013, <lxprod:doknr-verw linkend="HT0928865">V
+R 6/12</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0928865">BFH/NV 2014 S. 1126</lxprod:doknr-verw>).</lxbase:a><lxbase:a>8.3 Inhaltsadressat eines Feststellungsbescheids - und
+damit nicht Dritter i.S.d. § 174 Abs. 5 AO - ist derjenige, dem
+der Gegenstand der Feststellung zuzurechnen ist. Die Gesellschafter
+einer Personengesellschaft sind daher im Gewinnfeststellungsverfahren
+nicht Dritte i.S.d. § 174 Abs. 5 AO (BFH-Urteil vom 15.6.2004, <lxprod:doknr-verw linkend="HT0818234">VIII R 7/02</lxprod:doknr-verw>,
+BStBl II S. 914).</lxbase:a><lxbase:a>8.4 Der Erlass oder die Änderung eines Steuerbescheids
+gegenüber dem Dritten setzt voraus, dass dieser vor Ablauf der Festsetzungsfrist
+für den gegen ihn gerichteten Steueranspruch zu dem Verfahren, das
+zur Aufhebung oder Änderung des fehlerhaften Steuerbescheids geführt
+hat, hinzugezogen oder beigeladen worden ist (BFH-Urteil vom 19.12.2013, <lxprod:doknr-verw linkend="HT0929009">V R 5/12</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0929009">BStBl 2016
+II S. 585</lxprod:doknr-verw>). Die Finanzbehörde muss daher die Hinzuziehung
+eines in Betracht kommenden Dritten rechtzeitig vornehmen oder im
+finanzgerichtlichen Verfahren dessen Beiladung durch rechtzeitige
+Antragstellung veranlassen (zum Antrag auf Beiladung vgl. BFH-Beschluss
+vom 22.12.1988, <lxprod:doknr-verw linkend="HT0086598">VIII
+B 131/87</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0086598">BStBl 1989 II S. 314</lxprod:doknr-verw>).
+§ 174 Abs. 5 Satz 2 AO ist selbst Rechtsgrundlage für die Beteiligung
+des Dritten, ohne dass die Voraussetzungen des § 360 Abs. 3 AO und
+des § 60 FGO vorliegen müssen (vgl. BFH-Beschluss vom 17.5.1994, <lxprod:doknr-verw linkend="HT0119607">IV B 84/93</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0119607">BFH/NV 1995 S.
+87</lxprod:doknr-verw>). Schon die Möglichkeit, dass ein Steuerbescheid
+wegen irrtümlicher Beurteilung eines Sachverhalts aufzuheben oder
+zu ändern ist und hieraus Folgen für einen Dritten zu ziehen Seite
+29 sind, rechtfertigt die Hinzuziehung des Dritten (BFH-Beschlüsse vom
+4.1.1996, <lxprod:doknr-verw linkend="HT0135269">X
+B 149/95</lxprod:doknr-verw>, BFH/NV S. 453, vom 30.1.1996, <lxprod:doknr-verw linkend="HT0135222">VIII B 20/95</lxprod:doknr-verw>,
+BFH/NV S. 524 und vom 27.8.1998, <lxprod:doknr-verw linkend="HT0161166">III B 41/98</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0161166">BFH/NV 1999 S.
+156</lxprod:doknr-verw>).</lxbase:a><lxbase:a>8.5 Eine Hinzuziehung oder Beiladung kommt grundsätzlich
+nicht mehr in Betracht, wenn gegenüber dem Dritten im Zeitpunkt
+der beabsichtigten Hinzuziehung oder Beiladung die Festsetzungsfrist
+für den gegen ihn gerichteten Steueranspruch bereits abgelaufen
+ist (vgl. BFH-Urteil vom 5.5.1993, <lxprod:doknr-verw linkend="HT0103821">X R 111/91</lxprod:doknr-verw>, BStBl II S.
+817). Hat der Dritte aber durch eigene verfahrensrechtliche Initiativen
+auf die Änderung oder die Aufhebung des fehlerhaften Bescheids hingewirkt,
+kann er auch noch nach Ablauf der Festsetzungsfrist hinzugezogen
+oder beigeladen werden (vgl. BFH-Urteil vom 10.11.1993, <lxprod:doknr-verw linkend="HT0108610">I R 20/93</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0108610">BStBl 1994
+II S. 327</lxprod:doknr-verw>); es reicht aber nicht aus, dass der Dritte
+den Widerstreit von Steuerfestsetzungen lediglich kennt.</lxbase:a><lxbase:a>8.6 Weil sich die Frage, welches die „richtigen steuerlichen
+Folgerungen“ sind, verbindlich im Ausgangsverfahren entscheidet
+(vgl. BFH-Urteile vom 24.11.1987, <lxprod:doknr-verw linkend="HT0081334">IX R 158/83</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0081334">BStBl 1988
+II S. 404</lxprod:doknr-verw>, und vom 3.8.1988, <lxprod:doknr-verw linkend="HT0092848">I R 115/84</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0092848">BFH/NV 1989 S.
+482</lxprod:doknr-verw>) und der Dritte durch die Ausgangsentscheidung
+beschwert ist (vgl. BFH-Urteil vom 22.7.1980, <lxprod:doknr-verw linkend="HT0057024">VIII R 114/78</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0057024">BStBl 1981
+II S. 101</lxprod:doknr-verw>), muss ihm die Möglichkeit eröffnet sein,
+sich im Ausgangsverfahren rechtliches Gehör zu verschaffen und auf
+das Verfahren dort Einfluss zu nehmen. Korrekturbescheide und abschließende
+Entscheidungen müssen auch dem Dritten bekannt gegeben werden, damit auch
+dieser die Möglichkeit hat, hiergegen Rechtsbehelf einzulegen (BFH-Urteile vom
+11.4.1991, <lxprod:doknr-verw linkend="HT0099073">V
+R 40/86</lxprod:doknr-verw>, BStBl II S. 605 und vom 26.7.1995, <lxprod:doknr-verw linkend="HT0129880">X R 45/92</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0129880">BFH/NV 1996 S.
+195</lxprod:doknr-verw>). Eine Entscheidung durch Abhilfebescheid (§
+172 Abs. 1 Satz 1 Nr. 2 Buchstabe a AO), durch die es einer Einspruchsentscheidung
+nicht mehr bedarf, wahrt die Rechte des Hinzugezogenen nur, wenn
+sie seinem Antrag der Sache nach entspricht oder wenn er ihr zustimmt
+(BFH-Urteile vom 11.4.1991, <lxprod:doknr-verw linkend="HT0099073">V R 40/86</lxprod:doknr-verw>, a.a.O., vom 20.5.1992, <lxprod:doknr-verw linkend="HT0104905">III R 176/90</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0104905">BFH/NV 1993 S.
+74</lxprod:doknr-verw>, und vom 5.5.1993, <lxprod:doknr-verw linkend="HT0103821">X R 111/91</lxprod:doknr-verw>, BStBl II S.
+817).</lxbase:a><lxbase:a>8.7 Eine Hinzuziehung oder Beiladung des Dritten ist nur
+dann entbehrlich, wenn er Verfahrensbeteiligter i.S.d. § 359 AO
+oder § 57 FGO war oder durch eigene verfahrensrechtliche Initiativen
+auf die Änderung oder Aufhebung des fehlerhaften Steuerbescheids
+hingewirkt hat (BFH-Urteile vom 8.2.1995, <lxprod:doknr-verw linkend="HT0127235">I R 127/93</lxprod:doknr-verw>, BStBl II S.
+764 und vom 27.3.1996, <lxprod:doknr-verw linkend="HT0135638">I R 100/94</lxprod:doknr-verw>, BFH/NV S. 798).
+Daneben ist die Änderung gegenüber einem Dritten auch ohne Einhaltung
+der Seite 30 Voraussetzungen des § 174 Abs. 5 AO zulässig, wenn
+die Voraussetzungen des § 174 Abs. 3 AO erfüllt sind (vgl. BFH-Urteile
+vom 1.8.1984, <lxprod:doknr-verw linkend="HT0027029">V
+R 67/82</lxprod:doknr-verw>, BStBl II S. 788, und vom 19.12.2013, <lxprod:doknr-verw linkend="HT0928866">V R 7/12</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0928866">BFH/NV 2014 S.
+1130</lxprod:doknr-verw>).</lxbase:a><lxbase:a><lxbase:fett>9. Alternative oder kumulative Erfassung
+bestimmter Sachverhalte beim Steuerpflichtigen und beim Dritten </lxbase:fett></lxbase:a><lxbase:a>§ 174 Abs. 4 und 5 AO ist nicht auf Fälle einer alternativen
+Erfassung bestimmter Sachverhalte (vgl. AEAO zu § 174, Nr. 1.2)
+entweder beim Steuerpflichtigen oder beim Dritten beschränkt. Auch
+brauchen die steuerrechtlichen Folgen, die aus dem bestimmten Sachverhalt
+sowohl beim Steuerpflichtigen als auch bei einem Dritten zu ziehen
+sind, nicht identisch zu sein. Aufgrund ein und desselben Sachverhalts
+kann beim Steuerpflichtigen eine abziehbare Ausgabe und beim Dritten eine
+Einnahme in Betracht kommen (BFH-Urteil vom 24.11.1987, <lxprod:doknr-verw linkend="HT0081334">IX R 158/83</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0081334">BStBl 1988
+II S. 404</lxprod:doknr-verw> und BFH-Beschluss vom 2.12.1999, <lxprod:doknr-verw linkend="HT0590209">II B 17/99</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0590209">BFH/NV 2000 S.
+679</lxprod:doknr-verw>).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="29. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 175</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Die Überschrift wird wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 175 - Änderung von Steuerbescheiden
+auf Grund von Grundlagenbescheiden und bei rückwirkenden Ereignissen:“</lxbase:fett></lxbase:a><lxbase:a>Die Nummer 1.3 wird durch folgende Nummern ersetzt:</lxbase:a><lxbase:a>„1.3 Wird ein Grundlagenbescheid aus formellen Gründen
+ersatzlos aufgehoben, so eröffnet dies der für den Erlass des Folgebescheids
+zuständigen Finanzbehörde die Möglichkeit, den Sachverhalt, der
+bisher Gegenstand des Feststellungsverfahrens war, selbständig zu
+beurteilen und den Folgebescheid insoweit nach § 175 Abs. 1 Satz
+1 Nr. 1 AO zu ändern (BFH-Urteile vom 25.6.1991, <lxprod:doknr-verw linkend="HT0100453">IX R 57/88</lxprod:doknr-verw>,
+BStBl II S. 821 und vom 24.3.1998, <lxprod:doknr-verw linkend="HT0146505">I R 83/97</lxprod:doknr-verw>, BStBl II S. 601).
+Das Gleiche gilt, wenn</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>ein zunächst
+eingeleitetes Feststellungsverfahren aus formellen Gründen zu einem
+sog. negativen Feststellungsbescheid führt (BFH-Urteil vom 11.5.1993, <lxprod:doknr-verw linkend="HT0103943">IX R 27/90</lxprod:doknr-verw>,
+BStBl II S. 820) oder </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>einzelne Besteuerungsgrundlagen
+nachträglich aus dem Feststellungsverfahren ausgeschieden werden
+(BFH-Urteile vom 11.4.1990, <lxprod:doknr-verw linkend="HT0096131">I R 82/86</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0097481">BFH/NV 1991 S.
+143</lxprod:doknr-verw>, vom 25.6.1991, <lxprod:doknr-verw linkend="HT0100453">IX R 57/88</lxprod:doknr-verw>, a.a.O., vom
+14.7.1993, <lxprod:doknr-verw linkend="HT0108138">X
+R 34/90</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0108138">BStBl 1994 II S. 77</lxprod:doknr-verw>,
+und vom 7.12.1993, <lxprod:doknr-verw linkend="HT0119110">IX
+R 134/92</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0119110">BFH/NV 1994 S. 547</lxprod:doknr-verw>,
+sowie BFH-Beschluss vom 8.9.1998, <lxprod:doknr-verw linkend="HT0161167">IX B 71/98</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0161167">BFH/NV 1999 S.
+157</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>1.4 Durch einen negativen Feststellungsbescheid, mit dem
+die Feststellung von Einkünften nicht aus formellen, sondern aus
+materiellen Gründen - z.B. wegen Liebhaberei - abgelehnt wird, geht
+die Ermittlungsbefugnis nicht auf das für den Erlass des Folgebescheids
+zuständige Finanzamt über (vgl. BFH-Urteil vom 28.11.1985, <lxprod:doknr-verw linkend="HT0063308">IV R 178/83</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0063308">BStBl 1986
+II S. 293</lxprod:doknr-verw>). In diesem negativen Feststellungsbescheid
+wird bindend festgelegt, dass in den Folgebescheiden keine Einkünfte
+aus dem fraglichen Rechtsverhältnis angesetzt werden dürfen (vgl.
+BFH-Beschluss vom 17.1.1985, <lxprod:doknr-verw linkend="HT0061464">IV B 65/84</lxprod:doknr-verw>, BStBl II S.
+299).</lxbase:a><lxbase:a>1.5 Stellt die Finanzbehörde durch Verwaltungsakt die
+Nichtigkeit eines Grundlagenbescheids fest, ist der Folgebescheid
+nach § 175 Abs. 1 Satz 1 Nr. 1 AO zu ändern (BFH-Urteil vom 20.8.2014, <lxprod:doknr-verw linkend="HT0927879">X R 15/10</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0927879">BStBl 2015
+II S. 109</lxprod:doknr-verw>; vgl. AEAO zu § 125, Nr. 4). In diesem
+Fall geht die Ermittlungsbefugnis ebenfalls nicht auf das für den
+Erlass des Folgebescheids zuständige Finanzamt über (vgl. BFH-Urteil vom
+24.5.2006, <lxprod:doknr-verw linkend="HT5003267">I
+R 93/05</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT5003267">BStBl 2007 II S. 76</lxprod:doknr-verw>).“</lxbase:a><lxbase:a>c) Die bisherige Nummer 1.4 wird die neue Nummer 1.6.</lxbase:a><lxbase:a>d) In der Nummer 2.4 wird im Bereich Einkommensteuer nach
+dem Beispiel zu § 32 Abs. 6 Satz 6 EStG folgendes Beispiel eingefügt:</lxbase:a><lxbase:a><lxbase:unterst>„- § 37b EStG</lxbase:unterst></lxbase:a><lxbase:a>Der Widerruf bzw. die anderweitige Ausübung des Pauschalierungswahlrechts nach
+§ 37b Abs. 1 Satz 1 EStG und nach § 37b Abs. 2 Satz 1 EStG führt
+dazu, dass die Zuwendungen rückwirkend gem. § 175 Abs. 1 Satz 1
+Nr. 2 AO in die Veranlagungen der Zuwendungsempfänger als Einnahmen
+einzubeziehen sind (vgl. BFH-Urteil vom 15.6.2016, <lxprod:doknr-verw linkend="HT0950609">VI R 54/15</lxprod:doknr-verw>,
+BStBl II S. 1010).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="30. "><lxbase:a>Nach der Regelung des <lxbase:fett>AEAO</lxbase:fett> zu
+§ 175a wird folgende Regelung <lxbase:fett>zu § 175b</lxbase:fett> eingefügt:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 175b - Änderung von Steuerbescheiden
+bei Datenübermittlung durch Dritte</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>Auf eine
+Verletzung der Mitwirkungspflichten seitens des Steuerpflichtigen
+oder der Ermittlungspflichten durch die Finanzbehörde kommt es in
+den Fällen des § 175b AO - anders als in den Fällen des § 173 AO
+- nicht an.</lxbase:a><lxbase:a>Unerheblich ist auch, ob dem Steuerpflichtigen bei Erstellung
+der Steuererklärung ein Schreib- oder Rechenfehler i.S.d. § 173a
+AO oder der Finanzbehörde bei Erlass des Steuerbescheids ein mechanisches
+Versehen i.S.d. § 129 AO, ein Fehler bei der Tatsachenwürdigung
+oder ein Rechtsanwendungsfehler unterlaufen ist.</lxbase:a><lxbase:a>Die Aufhebung oder Änderung der Steuerfestsetzung nach
+§ 175b AO kann sich je nach Sachlage zu Gunsten wie auch zu Ungunsten
+des Steuerpflichtigen auswirken.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>§ 175b AO ist erstmals anzuwenden,
+wenn steuerliche Daten eines Steuerpflichtigen für Besteuerungszeiträume
+nach 2016 oder Besteuerungszeitpunkte nach dem 31.12.2016
+auf Grund gesetzlicher Vorschriften von einem Dritten als mitteilungspflichtiger
+Stelle elektronisch an Finanzbehörden zu übermitteln sind (Art.
+97 § 27 Abs. 2 EGAO).“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="31. "><lxbase:a>Die Nummer 8 des <lxbase:fett>AEAO
+zu § 191</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„8. Unter den Voraussetzungen des § 191 Abs. 2 AO ist
+vor Erlass eines Haftungsbescheids in den Fällen des § 69 AO der
+zuständigen Berufskammer - bei Zugehörigkeit zu mehreren Berufskammern
+jeder dieser Kammern - Gelegenheit zur Stellungnahme zu geben. Ohne
+vorherige Anhörung der zuständigen Berufskammer ist ein Haftungsbescheid
+rechtswidrig (BFH-Urteil vom 13.5.1998, <lxprod:doknr-verw linkend="HT0146371">II R 4/96</lxprod:doknr-verw>, BStBl II S. 760).
+Eine Anhörung kann bis zum Abschluss des Einspruchsverfahrens nachgeholt
+werden (§ 126 Abs. 1 Nr. 5 AO).</lxbase:a><lxbase:a>8.1 Die Anhörung der Berufskammer setzt voraus</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>dass
+der Haftungsschuldner im Rahmen eines in § 191 Abs. 2 AO genannten Berufes
+(z.B. als Rechtsanwalt oder Steuerberater) tätig wurde und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>in dieser Stellung vorsätzlich
+oder grob fahrlässig ihm auferlegte Pflichten mit der Folge eines
+Haftungsschadens verletzt hat.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Ist ein Angehöriger der in § 191 Abs. 2 AO genannten Berufe
+als Insolvenzverwalter, Nachlassverwalter, Testamentsvollstrecker
+oder in vergleichbarer Weise tätig, handelt er in Ausübung seines
+Berufs. Soweit z.B. ein Steuerberater dagegen als Geschäftsführer
+einer Steuerberatungs-GmbH handelt, erfüllt er bei der Wahrnehmung
+der steuerlichen Pflichten dieser Gesellschaft keine für seinen
+Beruf spezifische Pflicht, er handelt insoweit nicht in Ausübung
+seines Berufs als Steuerberater (vgl. BFH-Urteil vom 9.10.1985, <lxprod:doknr-verw linkend="HT0088904">I R 154/82</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0088904">BFH/NV 1986 S.
+321</lxprod:doknr-verw>).</lxbase:a><lxbase:a>8.2 Ist eine Anhörung der zuständigen Berufskammer durchzuführen,
+soll diese erst nach Ablauf der dem Haftungsschuldner gesetzten
+Anhörungsfrist erfolgen. Der Berufskammer darf nur das mitgeteilt
+werden, was aus Sicht des Finanzamts für die berufsrechtliche Beurteilung
+des haftungsrelevanten Sachverhalts durch die Kammer erforderlich
+ist. Ein Einblick der Kammer in die vollständigen Steuerakten oder
+deren Übersendung in Kopie ist daher nicht zulässig.</lxbase:a><lxbase:a>8.3 Die Frist für die Stellungnahme muss angemessen (d.h.
+grundsätzlich mindestens ein Monat) sein. Wird innerhalb dieser
+Frist keine Stellungnahme abgegeben, kann nach Ablauf der Frist
+der Haftungsbescheid ergehen.</lxbase:a><lxbase:a>8.4 Besteht dringender Handlungsbedarf (z.B. wegen ansonsten
+eintretender Verjährung), kann der Haftungsbescheid auch vor Ablauf
+der Anhörungsfrist ergehen.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="32. "><lxbase:a>In der Nummer 74 des <lxbase:fett>AEAO
+zu § 233a</lxbase:fett> wird das Klammerzitat „(vgl. BFH-Urteil vom
+19.3.2009, <lxprod:doknr-verw linkend="HT0179236">IV
+R 20/08</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0179236">BStBl 2010 II S. 528</lxprod:doknr-verw>)“
+durch das Klammerzitat „(vgl. § 239 Abs. 3 Nr. 1 AO)“ ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="33. "><lxbase:a>Die Nummer 6 des <lxbase:fett>AEAO
+zu § 235</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>„6. Verfahren</lxbase:fett></lxbase:a><lxbase:a>6.1 Sind Steuern zum Vorteil der Gesellschafter einer
+Personengesellschaft hinterzogen worden, so hat das Betriebsfinanzamt
+in einem Verfahren der gesonderten und einheitlichen Feststellung
+darüber zu entscheiden, ob und in welchem Umfang der von den Gesellschaftern
+erlangte Vorteil i.S.d. § 235 Abs. 1 AO auf einer Hinterziehung
+beruht (vgl. § 239 Abs. 3 Nr. 2 AO).</lxbase:a><lxbase:a>6.2 Die Zinsen für hinterzogene Realsteuern (insbes. Gewerbesteuer)
+sind von der hebeberechtigten Gemeinde zu berechnen, festzusetzen
+und zu erheben. Die Berechnungsgrundlagen werden vom Finanzamt nach
+§ 239 Abs. 3 Nr. 2 AO festgestellt. Dieser Messbescheid ist Grundlagenbescheid
+für den von der Gemeinde zu erlassenden Zinsbescheid.</lxbase:a><lxbase:a>Die Geltendmachung der Haftung für Hinterziehungszinsen
+zur Gewerbesteuer durch Haftungsbescheid setzt nicht voraus, dass
+zuvor gegenüber dem Zinsschuldner oder dem Haftungsschuldner Tatbestand
+und Umfang der Steuerhinterziehung gesondert festgestellt worden
+sind (BVerwG-Beschluss vom 16.9.1997, <lxprod:doknr-verw linkend="HT0163508">8 B 143/97</lxprod:doknr-verw>, BStBl II S.
+782).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="34. "><lxbase:a>Die Nummer 4 des <lxbase:fett>AEAO
+zu § 347</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„4. Gegen eine Ermessensentscheidung über eine Billigkeitsmaßnahme
+nach § 163 Abs. 1 AO ist auch dann ein gesonderter Einspruch gegeben,
+wenn sie mit der Steuerfestsetzung verbunden ist (§ 163 Abs. 2 AO).
+Entsprechendes gilt für die mit einer Zinsfestsetzung verbundene
+Billigkeitsentscheidung nach § 234 Abs. 2 oder § 237 Abs. 4 AO.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="35. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 366</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:a>a) Die Überschrift wird wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 366 - Form, Inhalt und Erteilung
+der Einspruchsentscheidung:“</lxbase:fett></lxbase:a><lxbase:a>a) Die Nummer 1 wird wie folgt gefasst:</lxbase:a><lxbase:a>„1. Für die Bekanntgabe der Einspruchsentscheidung gelten
+§§ 122 und 122a AO. Wegen der Bekanntgabe an Bevollmächtigte vgl.
+AEAO zu § 122, Nr. 1.7; wegen der Bekanntgabe durch Telefax vgl.
+AEAO zu § 122, Nrn. 1.8.1.2 und 1.8.2.2.“</lxbase:a><lxbase:a>c) Die Nummer 3 wird wie folgt gefasst:</lxbase:a><lxbase:a>„3. In den Gründen der Einspruchsentscheidung sollen Wiedergabe
+des Tatbestandes und Darlegung der rechtlichen Erwägungen der entscheidenden
+Behörde getrennt sein. Auf Zulässigkeitsfragen ist nur einzugehen,
+wenn hierzu begründeter Anlass besteht, etwa in den Fällen der §§
+354 Abs. 2, 362 Abs. 2 AO oder bei ernsthaften Zweifeln am Vorliegen
+einzelner Zulässigkeitsvoraussetzungen. Hinweis auf § 358 AO.</lxbase:a><lxbase:a>Enthält die Einspruchsentscheidung entgegen § 366 AO keine
+oder eine unrichtige Rechtsbehelfsbelehrung, beträgt die Klagefrist
+nach § 55 Abs. 2 FGO ein Jahr statt eines Monats.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="36. "><lxbase:a>Die Nummer 2 des <lxbase:fett>AEAO
+zu § 367</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„2. Gem. § 132 AO gelten die Vorschriften über Rücknahme,
+Widerruf, Aufhebung und Änderung von Verwaltungsakten auch während
+des Einspruchsverfahrens (vgl. AEAO zu § 365, Nr. 2).</lxbase:a><lxbase:a>2.1 Aufgrund der im Einspruchsverfahren geltenden umfassenden
+Überprüfungsmöglichkeit nach § 367 Abs. 2 Satz 1 AO ist die Finanzbehörde
+jedoch nicht an die Voraussetzungen der Korrekturvorschriften §§
+130 ff., 172 ff. AO gebunden (BFH-Urteil vom 10.3.2016, <lxprod:doknr-verw linkend="HT0950165">III R 2/15</lxprod:doknr-verw>,
+BStBl II S. 508).</lxbase:a><lxbase:a>2.2 Will die Finanzbehörde den angefochtenen Verwaltungsakt
+zum Nachteil des Einspruchsführers ändern, muss der Einspruchsführer
+auf die Möglichkeit einer verbösernden Entscheidung unter Angabe
+von Gründen hingewiesen und ihm Gelegenheit gegeben werden, sich
+hierzu zu äußern (§ 367 Abs. 2 Satz 2 AO). Dieser Hinweis ist nur
+dann - ausnahmsweise - entbehrlich, wenn sich die Änderung zum Nachteil
+des Einspruchsführers durch Einspruchsrücknahme nicht hätte vermeiden
+lassen. Ist zweifelhaft, ob eine solche Änderung noch möglich ist,
+darf auf diesen Hinweis nicht verzichtet werden (vgl. BFH-Urteil
+vom 22.3.2006, <lxprod:doknr-verw linkend="HT5002328">XI
+R 24/05</lxprod:doknr-verw>, BStBl II S. 576).</lxbase:a><lxbase:a>2.3 Die Finanzbehörde ist auch dann noch zum Erlass einer
+verbösernden Einspruchsentscheidung gemäß § 367 Abs. 2 Satz 2 AO
+berechtigt, wenn</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>sie zuvor
+einen Änderungsbescheid erlassen hat, in dem sie dem Einspruchsbegehren
+teilweise entsprochen, jedoch nicht in voller Höhe abgeholfen hat
+(sog. Teilabhilfebescheid; vgl. BFH-Urteil vom 6.9.2006, <lxprod:doknr-verw linkend="HT5003747">XI R 51/05</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT5003747">BStBl 2007
+II S. 83</lxprod:doknr-verw>) oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>ein Verwaltungsakt, mit
+dem die Finanzbehörde einem Antrag auf eine Billigkeitsmaßnahme
+nach §§ 163, 222 oder 227 AO nur teilweise stattgegeben hat, mit
+dem Einspruch angefochten wird (BFH-Urteil vom 10.3.2016, <lxprod:doknr-verw linkend="HT0950165">III R 2/15</lxprod:doknr-verw>, BStBl
+II S. 508.).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>2.4 Nimmt der Steuerpflichtige seinen Einspruch zurück,
+ist eine Änderung zum Nachteil des Steuerpflichtigen nur noch möglich,
+wenn dies nach den Vorschriften über Aufhebung, Änderung, Rücknahme
+oder Widerruf von Verwaltungsakten zulässig ist.“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>INFO</lxbase:rthema><lxbase:rthema>Verfahrensrecht/Abgabenordnung</lxbase:rthema><lxbase:rthema>Info</lxbase:rthema><lxbase:rthema>elwi-stap</lxbase:rthema><lxbase:rthema>elwi-stap</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:uuthemen><lxbase:thema>Weitergeltung Normenflut</lxbase:thema></lxbase:uuthemen><lxbase:newsrelevant relevant="top" datum="2017-01-31" uhrzeit="12:00:00" /><lxbase:newsgebiete><lxbase:newsgebiet>Steuerliches Verfahrensrecht</lxbase:newsgebiet></lxbase:newsgebiete><lxbase:newsletterlex><lxbase:newsletterrelevant ausgabe="201705" relevant="ja" /><lxbase:newsletter-text><lxbase:a>Das BMF hat den Anwendungserlass zur Abgabenordnung durch
+sein Schreiben vom 12. Januar 2017 in wesentlichen Punkten geändert.</lxbase:a></lxbase:newsletter-text></lxbase:newsletterlex></lxbase:allgemeine-angaben></lxrvw:rspvwa>

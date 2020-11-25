@@ -1,0 +1,721 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dok-nummer="0579759" dok-art="Schreiben (koordinierter Ländererlass)" dok-typ="Verwaltungsanweisung" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bundesministerium der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>IV C 1 - S-2252 - 343/05</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2252 - 3 St32</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2252 A - 20 - St II 3.04</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2252</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2252 - 3 St32/St33</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2252 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2252 | S</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2005-12-22" ts="nein" /><lxbase:datum normdat="2006-01-16" ts="ja" /><lxbase:datum normdat="2006-01-20" ts="ja" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BStBl-2006-I-0092</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DStR-2006-0088</lxbase:fs-kuerzel><lxbase:fs-kuerzel>FR-2006-0149</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Aufgehoben für Steuertatbestände, die nach dem 31. 12.
+2008 verwirklicht worden sind, durch BMF <lxprod:doknr-verw linkend="HT5232677">IV A 6 - O-1000 / 09 / 10095</lxprod:doknr-verw>
+v. 23. 4. 2010 (koordinierter Ländererlass - "Schreiben zur Eindämmung
+der Normenflut")</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>geändert durch BdF <lxbase:az normform="IVC1S2252/07/0001" manuell="nein">IV C 1 - S-2252/07/0001</lxbase:az> vom 1. 10.
+2009</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:redakt><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="23*" /><cals:colspec colnum="2" colname="2" colwidth="77*" /><cals:thead><cals:row rowsep="1"><cals:entry nameend="2" namest="1"><lxbase:a><lxbase:fett>Bibliographie
+der inhaltlich entsprechenden Verwaltungsanweisungen:</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Bayern</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Bayerisches Landesamt für Steuern
+S-2252 - 3 St32/St33 vom 16.01.2006<lxbase:za />EStK § 20 EStG Karte
+14.2</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Hessen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Frankfurt am Main S-2252
+A - 20 - St II 3.04 vom 20.01.2006<lxbase:za />EStK § 20 EStG Fach
+1 Karte 3</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:20/1/6</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2005" /></lxbase:jahre><lxbase:zitate><lxbase:passiv-zitate><lxbase:lit-zitat>Risthaus <lxprod:doknr-verw linkend="HT0857875">DB 2006 232</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Bekker <lxprod:doknr-verw linkend="HT0601900">Inf 2006 337</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Becker <lxprod:doknr-verw linkend="HT0601900">Inf 2006 337</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Redert <lxprod:doknr-verw linkend="HT0807282">NWB 3 13983</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Goverts / Knoll <lxprod:doknr-verw linkend="HT0858444">DStR 2006 589</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Deubner Verlag Anmerkung Dok.-Nr. <lxprod:doknr-verw linkend="HT0632697">0632697</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>Deubner Verlag Anmerkung Dok.-Nr. <lxprod:doknr-verw linkend="HT0653137">0653137</lxprod:doknr-verw></lxbase:lit-zitat></lxbase:passiv-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Neuregelung der Besteuerung der Erträge
+aus nach § 20 Abs. 1 Nr. 6 EStG steuerpflichtigen Versicherungen
+durch das Alterseinkünftegesetz </lxbase:a></lxbase:headline></lxbase:titel><lxbase:teaser><lxbase:a>BMF: Neuregelung der Besteuerung der Erträge aus nach
+§ 20 Abs. 1 Nr. 6 EStG steuerpflichtigen Versicherungen durch das
+Alterseinkünftegesetz</lxbase:a></lxbase:teaser><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900001"><lxbase:a><lxbase:fett>I. Versicherung im Sinne des § 20 Abs. 1
+Nr. 6 EStG</lxbase:fett></lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900002"><lxbase:a><lxbase:fett>II. Allgemeine Begriffsbestimmungen</lxbase:fett></lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900003"><lxbase:a>1. Versicherungsnehmer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900004"><lxbase:a>2. Bezugsberechtigter</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900005"><lxbase:a>3. Versicherte Person</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900006"><lxbase:a>4. Überschussbeteiligung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900007"><lxbase:a><lxbase:fett>III. Rentenversicherung mit Kapitalwahlrecht,
+soweit nicht die Rentenzahlung gewählt wird</lxbase:fett></lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900008"><lxbase:a><lxbase:fett>IV. Kapitalversicherung mit Sparanteil</lxbase:fett></lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900009"><lxbase:a>1. Kapitalversicherung auf den Todes- und Erlebensfall
+(klassische Kapital-Lebensversicherung)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900010"><lxbase:a>2. Unfallversicherung mit garantierter Beitragsrückzahlung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900011"><lxbase:a>3. Kapitalversicherung auf den Todes- und Erlebensfall
+von zwei oder mehreren Personen (Kapitalversicherung auf verbundene
+Leben)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900012"><lxbase:a>4. Kapitalversicherung mit festem Auszahlungszeitpunkt
+(Termfixversicherung)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900013"><lxbase:a>5. Kapitalversicherung mit lebenslangem Todesfallschutz</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900014"><lxbase:a><lxbase:fett>V. Sonderformen</lxbase:fett></lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900015"><lxbase:a>1. Fondsgebundene Kapital-Lebensversicherung und fondsgebundene
+Rentenversicherung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900016"><lxbase:a>2. Direktversicherung, Pensionskasse, Pensionsfonds</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900017"><lxbase:a><lxbase:fett>VI. Absicherung weiterer Risiken</lxbase:fett></lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900018"><lxbase:a><lxbase:fett>VII. Erlebensfall oder Rückkauf</lxbase:fett></lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900019"><lxbase:a>1. Erlebensfall</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900020"><lxbase:a>2. Rückkauf</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900021"><lxbase:a><lxbase:fett>VIII. Steuerpflichtiger</lxbase:fett></lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900022"><lxbase:a><lxbase:fett>IX. Berechnung des Unterschiedsbetrags</lxbase:fett></lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900023"><lxbase:a>1. Versicherungsleistung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900024"><lxbase:a>2. Summe der entrichteten Beiträge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900025"><lxbase:a>3. Negativer Unterschiedsbetrag (Verlust)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900026"><lxbase:a>4. Teilleistungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900027"><lxbase:a><lxbase:fett>X. Hälftiger Unterschiedsbetrag</lxbase:fett></lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900028"><lxbase:a>1. Beginn der Mindestvertragsdauer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900029"><lxbase:a>2. Neubeginn aufgrund von Vertragsänderungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900030"><lxbase:a>3. Policendarlehen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900031"><lxbase:a>4. Teilleistungen teilweise vor dem 60. Lebensjahr und
+teilweise danach</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900032"><lxbase:a>5. Hälftiger Unterschiedsbetrag bei Kapitalversicherungen
+auf verbundene Leben</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900033"><lxbase:a><lxbase:fett>XI. Werbungskosten</lxbase:fett></lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900034"><lxbase:a><lxbase:fett>XII. Nachweis der Besteuerungsgrundlagen</lxbase:fett></lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900035"><lxbase:a>1. Inländische Versicherungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900036"><lxbase:a>2. Ausländische Versicherungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900037"><lxbase:a><lxbase:fett>XIII. Kapitalertragsteuer</lxbase:fett></lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900038"><lxbase:a><lxbase:fett>XIV. Anwendungsregelungen</lxbase:fett></lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900039"><lxbase:a>1. Zeitliche Abgrenzung von Altverträgen zu Neuverträgen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900040"><lxbase:a>2. Weitergeltung von BMF-Schreiben</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900041"><lxbase:a>3. Vorratsverträge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900042"><lxbase:a>4. Vertragsänderungen bei Altverträgen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975900043"><lxbase:a>5. Vertragsschluss im Namen eines minderjährigen Kindes</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D057975900001">I. Versicherung im Sinne
+des § 20 Abs. 1 Nr. 6 EStG</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 1 </lxbase:randziffer><lxbase:a>Der Besteuerung nach § 20 Abs. 1 Nr. 6 EStG unterliegen
+die Erträge aus folgenden Versicherungen auf den Erlebens- oder
+Todesfall (kapitalbildende Lebensversicherungen): Rentenversicherungen
+mit Kapitalwahlrecht, soweit nicht die Rentenzahlung gewählt wird,
+und Kapitalversicherungen mit Sparanteil. Erträge aus Unfallversicherungen
+mit garantierter Beitragsrückzahlung unterliegen ebenfalls der Besteuerung
+nach § 20 Abs. 1 Nr. 6 EStG.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 2 </lxbase:randziffer><lxbase:a>Eine Versicherung im Sinne des § 20 Abs. 1 Nr. 6 EStG
+unterscheidet sich von einer Vermögensanlage ohne Versicherungscharakter
+dadurch, dass ein wirtschaftliches Risiko abgedeckt wird, das aus
+der Unsicherheit und Unberechenbarkeit des menschlichen Lebens für
+den Lebensplan des Menschen erwächst (biometrisches Risiko). Die
+durch die Lebensversicherung typischerweise abgedeckten Gefahren
+sind der Tod (Todesfallrisiko) oder die ungewisse Lebensdauer (Erlebensfallrisiko,
+Langlebigkeitsrisiko). Bei der Unfallversicherung mit garantierter
+Beitragsrückzahlung stellen das Unfallrisiko oder das Risiko der
+Beitragsrückzahlung im Todesfall die mit der Versicherung untrennbar
+verbundenen charakteristischen Hauptrisiken dar.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 3 </lxbase:randziffer><lxbase:a>Es liegt kein Versicherungsvertrag im Sinne des § 20 Abs.
+1 Nr. 6 EStG vor, wenn der Vertrag keine nennenswerte Risikotragung
+enthält. Davon ist insbesondere dann auszugehen, wenn bei Risikoeintritt
+nur eine Leistung der angesammelten und verzinsten Sparanteile zuzüglich
+einer Überschussbeteiligung vereinbart ist. In der Regel ist vom Vorliegen
+eines Versicherungsvertrages im Sinne des § 20 Abs. 1 Nr. 6 EStG
+auszugehen, wenn es sich um eine Lebensversicherung oder Unfallversicherung
+mit garantierter Beitragsrückzahlung im Sinne des Versicherungsaufsichtsrechts
+handelt. Die bisherigen Regelungen zum Mindesttodesfallschutz bei
+kapitalbildenden Lebensversicherungen sind nicht mehr anzuwenden.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 4 </lxbase:randziffer><lxbase:a>Keine Versicherungsverträge im Sinne des § 20 Abs. 1 Nr.
+6 EStG sind Kapitalisierungsgeschäfte. Als Kapitalisierungsgeschäfte
+gelten Geschäfte, bei denen unter Anwendung eines mathematischen
+Verfahrens die im Voraus festgesetzten einmaligen oder wiederkehrenden
+Prämien und die übernommenen Verpflichtungen nach Dauer und Höhe
+festgelegt sind (vgl. § 1 Abs. 4 Satz 2 des Versicherungsaufsichtsgesetzes
+[VAG]).</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 5 </lxbase:randziffer><lxbase:a>Bei Kapitalforderungen aus Verträgen mit Versicherungsunternehmen,
+bei denen es sich nicht um einen Versicherungsvertrag im oben angeführten
+Sinne handelt, richtet sich die Besteuerung des Kapitalertrags nach
+§ 20 Abs. 1 Nr. 7 EStG.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 6 </lxbase:randziffer><lxbase:a>Zu den nach § 20 Abs. 1 Nr. 6 EStG steuerpflichtigen Renten-
+oder Kapitalversicherungen zählen nur solche, die einen Sparanteil
+enthalten. Bei solchen Versicherungen setzt sich der Versicherungsbeitrag
+grundsätzlich zusammen aus dem</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a><lxbase:fett>Kostenanteil</lxbase:fett> (Beitragsteil
+insbesondere für Verwaltungsaufgaben des Unternehmens, Abschlusskosten,
+Inkassokosten), dem</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a><lxbase:fett>Risikoanteil</lxbase:fett>
+(Beitragsanteil für Leistungen bei Eintritt eines charakteristischen
+Hauptrisikos: Tod bei Lebensversicherungen, Unfall oder Beitragsrückzahlung
+im Todesfall bei Unfallversicherungen mit garantierter Beitragsrückzahlung)
+und dem</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a><lxbase:fett>Sparanteil</lxbase:fett>
+(Beitragsanteil, der für die Finanzierung einer Erlebensfall-Leistung
+verwendet wird).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 7 </lxbase:randziffer><lxbase:a>Eine Leistung aus einer <lxbase:fett>reinen Risikoversicherung</lxbase:fett>,
+also einer Versicherung ohne Sparanteil (z.B. Risikolebensversicherung,
+Unfallversicherung ohne garantierte Beitragsrückzahlung, Berufsunfähigkeitsversicherung,
+Erwerbsunfähigkeitsversicherung, Pflegeversicherung), fällt nicht
+unter § 20 Abs. 1 Nr. 6 EStG. Dies gilt sowohl für Kapitalauszahlungen
+aus reinen Risikoversicherungen als auch für Rentenzahlungen (z.B.
+Unfall-Rente, Invaliditätsrente). Bei einer Rentenzahlung kann sich
+jedoch eine Besteuerung aus anderen Vorschriften (insbesondere §
+22 Nr. 1 Satz 1 EStG oder § 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe
+bb EStG) ergeben. Die Barauszahlung von Überschüssen (vgl. Rz. 13
+ff.) sowie die Leistung aufgrund einer verzinslichen Ansammlung
+der Überschüsse (vgl. Rz. 17) ist bei einer reinen Risikoversicherung
+keine Einnahme im Sinne des § 20 Abs. 1 Nr. 6 EStG und auch nicht
+im Sinne des § 20 Abs. 1 Nr. 7 EStG.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900002">II. Allgemeine Begriffsbestimmungen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057975900003">1. Versicherungsnehmer</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 8 </lxbase:randziffer><lxbase:a>Der Versicherungsnehmer (vgl. § 1 des Versicherungsvertragsgesetzes
+[VVG]) ist der Vertragspartner des Versicherers. Er ist Träger aller
+Rechte des Vertrages, z.B. Recht die Versicherungsleistung zu fordern,
+den Vertrag zu ändern, zu kündigen, Bezugsberechtigungen zu erteilen,
+die Ansprüche aus dem Vertrag abzutreten oder zu verpfänden. Er
+ist gleichzeitig Träger aller Pflichten, z.B. Pflicht zur Beitragszahlung.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900004">2. Bezugsberechtigter</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 9 </lxbase:randziffer><lxbase:a>Der Bezugsberechtigte (vgl. §§ 166, 167 VVG) ist derjenige,
+der nach den vertraglichen Vereinbarungen die Versicherungsleistung
+erhalten soll. In der Regel kann der Versicherungsnehmer ohne Zustimmung
+des Versicherers einen Dritten als Bezugsberechtigten bestimmen.
+Das Bezugsrecht kann getrennt für den Erlebensfall und den Rückkauf
+sowie für den Todesfall festgelegt sein. Es kann widerruflich oder
+unwiderruflich ausgesprochen sein.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 10 </lxbase:randziffer><lxbase:a>Bei einem unwiderruflichen Bezugsrecht bedarf jede Änderung
+des Bezugsrechts der Zustimmung des Bezugsberechtigten. Dieser hat
+auch einen unmittelbaren Rechtsanspruch auf die Leistung.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 11 </lxbase:randziffer><lxbase:a>Bei einem widerruflichen Bezugsrecht hat der Bezugsberechtigte
+nur eine Anwartschaft auf die Leistung. Das widerrufliche Bezugsrecht
+kann auch jederzeit durch eine Mitteilung des Versicherungsnehmers
+an das Versicherungsunternehmen geändert werden. Im Zeitpunkt des
+Versicherungsfalls wird aus der Anwartschaft ein Rechtsanspruch.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900005">3. Versicherte
+Person</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 12</lxbase:randziffer><lxbase:a>Die versicherte Person ist die Person, auf deren Leben
+oder Gesundheit die Versicherung abgeschlossen wird (vgl. § 159
+VVG).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900006">4. Überschussbeteiligung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 13 </lxbase:randziffer><lxbase:a>Der Versicherungsvertrag sieht in der Regel vor, dass
+der Versicherungsnehmer und/oder der Bezugsberechtigte an den Überschüssen
+des Versicherungsunternehmens zu beteiligen ist. Überschüsse erzielen
+die Unternehmen vor allem aus dem Kapitalanlage-, dem Risiko- und
+dem Kostenergebnis. Ein Überschuss entsteht im Kapitalanlageergebnis, wenn
+ein höherer Ertrag als der Rechnungszins erzielt wird. Der Rechnungszins
+gibt den vom Versicherungsunternehmen garantierten Zins wieder,
+mit dem die Deckungsrückstellung kalkuliert wird. Beim Risikoergebnis
+kommt es zu Überschüssen, wenn der Risikoverlauf günstiger ist,
+als bei der Kalkulation angenommen (z.B. bei Versicherungen mit Todesfall-Leistung
+eine geringere Anzahl von Sterbefällen). Das Kostenergebnis ist
+positiv, wenn das Versicherungsunternehmen weniger Kosten für die
+Einrichtung und die laufende Verwaltung des Vertrages aufwendet,
+als veranschlagt wurde. Die Überschüsse werden jährlich ermittelt.</lxbase:a><lxbase:a>Die Beteiligung an den Überschüssen kann insbesondere
+in Form der nachfolgend beschriebenen Methoden erfolgen:</lxbase:a><lxbase:a><lxbase:unterst>Barauszahlung</lxbase:unterst></lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 14 </lxbase:randziffer><lxbase:a>Die Überschüsse werden jährlich ausgezahlt (zu den steuerlichen
+Folgen siehe Rz. 45).</lxbase:a><lxbase:a><lxbase:unterst>Beitragsverrechnung</lxbase:unterst></lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 15 </lxbase:randziffer><lxbase:a>Es kann auch vereinbart werden, dass die Überschüsse mit
+den Beiträgen zu verrechnen sind, so dass die laufende Beitragsleistung
+des Versicherungsnehmers gemindert wird. Der kalkulierte Beitrag
+wird in diesem Zusammenhang als Bruttobeitrag, der um Überschüsse
+reduzierte Beitrag als Nettobeitrag bezeichnet (zu den steuerlichen
+Folgen siehe Rz. 46).</lxbase:a></lxbase:a-randziffer><lxbase:a><lxbase:unterst>Bonussystem</lxbase:unterst></lxbase:a><lxbase:a-randziffer><lxbase:randziffer>Rz. 16 </lxbase:randziffer><lxbase:a>Beim Bonussystem werden die Überschussanteile als Einmalbeiträge
+für eine zusätzliche beitragsfreie Versicherung (Bonus) verwendet.
+Bei jährlichen Überschussanteilen erhöht sich dadurch die Versicherungsleistung
+von Jahr zu Jahr (zu den steuerlichen Folgen siehe Rzn. 47 und 57).</lxbase:a><lxbase:a><lxbase:unterst>Verzinsliche bzw. rentierliche Ansammlung</lxbase:unterst></lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 17 </lxbase:randziffer><lxbase:a>Bei der verzinslichen Ansammlung werden die jährlichen
+Überschussanteile beim Versicherungsunternehmen einbehalten und
+Ertrag bringend angelegt. Die angesammelten Beträge zuzüglich der
+Erträge werden zusammen mit der Versicherungssumme ausbezahlt (zu
+den steuerlichen Folgen siehe Rz. 47).</lxbase:a><lxbase:a><lxbase:unterst>Schlussüberschussbeteiligung</lxbase:unterst></lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 18 </lxbase:randziffer><lxbase:a>Überschussanteile, die nicht laufend dem Vertrag unwiderruflich
+zugeteilt, sondern nur für den Fall einer Leistung aus dem Vertrag
+in einem Geschäftsjahr festgelegt werden, werden als Schlussüberschüsse,
+Schlussgewinne, Schlussdividende o.ä. bezeichnet (zu den steuerlichen
+Folgen siehe Rz. 47).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900007">III. Rentenversicherung
+mit Kapitalwahlrecht, soweit nicht die Rentenzahlung gewählt wird</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 19 </lxbase:randziffer><lxbase:a>Bei einer Rentenversicherung besteht die Versicherungsleistung
+grundsätzlich in der Zahlung einer lebenslänglichen Rente für den
+Fall, dass die versicherte Person den vereinbarten Rentenzahlungsbeginn
+erlebt. Zu den Einnahmen nach § 20 Abs. 1 Nr. 6 EStG rechnet die
+Versicherungsleistung aus einer Rentenversicherung mit Kapitalwahlrecht
+nur dann, wenn sie nicht in Form einer Rentenzahlung erbracht wird.
+Davon ist dann auszugehen, wenn eine einmalige Kapitalauszahlung
+erfolgt, wenn mehrere Teilauszahlungen geleistet werden oder wenn
+wiederkehrende Bezüge erbracht werden, die nicht die nachstehenden
+Anforderungen an eine Rente erfüllen (zur Berechnung des Unterschiedsbetrags
+bei der Leistung in Form eines wiederkehrenden Bezugs siehe Rz.
+63). Ebenfalls nach § 20 Abs. 1 Nr. 6 EStG zu versteuern sind Kapitalleistungen,
+soweit ein Teil der Versicherungsleistung nicht als Rente gezahlt
+wird, oder wenn ein laufender Rentenzahlungsanspruch durch eine
+Abfindung abgegolten wird. Bei einer Teilverrentung kann bei der
+Ermittlung des Unterschiedsbetrages für die Kapitalauszahlung nur
+ein Teil der geleisteten Beiträge abgezogen werden. Dies gilt auch
+dann, wenn vereinbart ist, dass lediglich die Beiträge ausgezahlt
+werden sollen und der verbleibende Teil verrentet wird. Auch in
+diesem Fall sind die Beiträge gleichmäßig auf die Kapitalauszahlung
+und den nach versicherungsmathematischen Grundsätzen ermittelten
+Barwert der Rentenauszahlung zu verteilen (zur Berechnung des Unterschiedsbetrags
+in diesen Fällen siehe Rz. 64).</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 20 </lxbase:randziffer><lxbase:a>Eine die Besteuerung nach § 20 Abs. 1 Nr. 6 EStG ausschließende
+Rentenzahlung setzt voraus, dass gleich bleibende oder steigende
+wiederkehrende Bezüge zeitlich unbeschränkt für die Lebenszeit der
+versicherten Person (lebenslange Leibrente) vereinbart werden. Leibrenten
+mit einer vertraglich vereinbarten Höchstlaufzeit (abgekürzte Leibrenten)
+und wiederkehrende Bezüge, die nicht auf die Lebenszeit, sondern
+auf eine festgelegte Dauer zu entrichten sind (Zeitrenten), sind
+nach § 20 Abs. 1 Nr. 6 EStG zu versteuern. Leibrenten mit einer
+vertraglich vereinbarten Mindestlaufzeit (verlängerte Leibrenten)
+sind nur dann nach § 20 Abs. 1 Nr. 6 EStG zu versteuern, wenn die
+Rentengarantiezeit über die auf volle Jahre aufgerundete verbleibende
+mittlere Lebenserwartung der versicherten Person bei Rentenbeginn
+hinausgeht. Maßgebend ist die zum Zeitpunkt des Vertragsabschlusses
+zugrunde gelegte Sterbetafel und das bei Rentenbeginn vollendete
+Lebensjahr der versicherten Person. Entspricht die Rentengarantiezeit
+der Lebenserwartung oder ist sie kürzer, ist auch für den Rechtsnachfolger
+(in der Regel der Erbe) die Ertragsanteilsbesteuerung anzuwenden.
+Dabei wird der auf den Erblasser angewandte Ertragsanteil fortgeführt.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 21 </lxbase:randziffer><lxbase:a>Wird neben einem gleich bleibenden oder steigenden Sockelbetrag
+eine jährlich schwankende Überschussbeteiligung gewährt, handelt
+es sich dennoch insgesamt um gleich bleibende oder steigende Bezüge
+im Sinne der Rz. 20. Sowohl auf den Sockelbetrag als auch auf die
+Überschussbeteiligung ist die Ertragsanteilbesteuerung (§ 22 Nr.
+1 Satz 3 Buchstabe a Doppelbuchstabe bb EStG) anzuwenden (vgl. BMF-Schreiben
+vom 26. November 1998, <lxprod:doknr-verw linkend="HT0165931">BStBl I 1998, 1508</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Die Auszahlung in Form einer konstanten Anzahl von Investmentanteilen
+stellt keinen gleich bleibenden Bezug und damit keine Rentenzahlung
+dar.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 22 </lxbase:randziffer><lxbase:a>Die Todesfall-Leistung einer Rentenversicherung gehört
+nicht zu den Einnahmen aus § 20 Abs. 1 Nr. 6 EStG. Bei einer Rentenzahlung
+kann sich jedoch eine Besteuerung aus anderen Vorschriften (insbesondere
+§ 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe bb EStG) ergeben.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900008">IV. Kapitalversicherung
+mit Sparanteil</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 23 </lxbase:randziffer><lxbase:a>Kapitalversicherungen mit Sparanteil treten insbesondere
+in folgenden Ausgestaltungen auf:</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D057975900009">1. Kapitalversicherung
+auf den Todes- und Erlebensfall (klassische Kapital-Lebensversicherung)</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 24</lxbase:randziffer><lxbase:a>Bei einer Kapitalversicherung auf den Todes- und Erlebensfall
+leistet der Versicherer, wenn die versicherte Person den im Versicherungsschein
+genannten Auszahlungstermin erlebt oder wenn die versicherte Person
+vor dem Auszahlungstermin verstirbt. Die Leistung im Todesfall unterfällt
+nicht der Besteuerung nach § 20 Abs. 1 Nr. 6 EStG.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 25</lxbase:randziffer><lxbase:a>Die Ausgestaltung des Vertrages mit oder ohne Rentenwahlrecht,
+gegen Einmalbeitrag oder laufende Beitragszahlung hat keinen Einfluss
+auf die Besteuerung nach § 20 Abs. 1 Nr. 6 EStG.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 26</lxbase:randziffer><lxbase:a>Wird bei einer Kapitalversicherung mit Rentenwahlrecht
+die Rentenzahlung gewählt, fließen die Erträge nach § 11 Abs. 1
+EStG in dem Zeitpunkt zu, in dem die Kapitalleistung im Erlebensfall
+zu leisten wäre. Lediglich das nach Abzug von Kapitalertragsteuer
+vorhandene Kapital steht für die Verrentung zur Verfügung. Die Rentenzahlungen
+gehören zu den Einnahmen aus § 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe
+bb EStG.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900010">2. Unfallversicherung
+mit garantierter Beitragsrückzahlung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 27 </lxbase:randziffer><lxbase:a>Bei einer Unfallversicherung mit garantierter Beitragsrückzahlung
+wird neben den Beitragsbestandteilen für die Abdeckung des Unfallrisikos
+sowie des Risikos der Beitragsrückzahlung im Todesfall und der Verwaltungskosten
+ein Sparanteil erbracht, der verzinslich bzw. rentierlich angelegt
+wird. Die Versicherungsleistung bei Ablauf der Versicherungslaufzeit
+gehört zu den Einnahmen aus § 20 Abs. 1 Nr. 6 EStG, nicht aber die
+Versicherungsleistung bei Eintritt des versicherten Risikos. Sofern
+die Unfallversicherung mit garantierter Beitragsrückzahlung als
+Rentenversicherung mit Kapitalwahlrecht abgeschlossen wird, sind
+die unter Rzn. 19 ff. angeführten Regelungen anzuwenden.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900011">3. Kapitalversicherung
+auf den Todes- und Erlebensfall von zwei oder mehreren Personen (Kapitalversicherung
+auf verbundene Leben)</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 28 </lxbase:randziffer><lxbase:a>Die Erlebensfall-Leistung ist bei einer Kapitalversicherung
+auf verbundene Leben zu erbringen, wenn beide/alle versicherten
+Personen den im Versicherungsschein genannten Ablauftermin erleben.
+Zur Ermittlung des hälftigen Unterschiedsbetrags, wenn nur einer
+der Steuerpflichtigen bei Auszahlung der Versicherungsleistung im
+Erlebensfall oder bei Rückkauf das 60. Lebensjahr vollendet hat,
+siehe Rzn. 77 - 78. Die Leistung im Todesfall unterfällt nicht der
+Besteuerung nach § 20 Abs. 1 Nr. 6 EStG.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900012">4. Kapitalversicherung
+mit festem Auszahlungszeitpunkt (Termfixversicherung)</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 29 </lxbase:randziffer><lxbase:a>Bei einer Termfixversicherung wird die Versicherungsleistung
+nur zu einem festen Zeitpunkt ausgezahlt. Wenn die versicherte Person
+vor Erreichen dieses festen Zeitpunkts verstirbt, wird die Todesfallsumme
+in der Regel nicht sofort ausgezahlt, sondern es endet lediglich
+die Beitragszahlungsdauer. Die Leistung im Todesfall gehört nicht
+zu den Einnahmen aus § 20 Abs. 1 Nr. 6 EStG.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900013">5. Kapitalversicherung
+mit lebenslangem Todesfallschutz</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 30 </lxbase:randziffer><lxbase:a>Bei einer Kapitalversicherung mit lebenslangem Todesfallschutz
+leistet das Versicherungsunternehmen grundsätzlich nur, wenn die
+versicherte Person stirbt. Der vornehmliche Zweck eines solchen
+Versicherungsvertrages ist die Deckung von Kosten und Aufwendungen
+im Zusammenhang mit dem Todesfall, z.B. Erbschaftsteuer (Erbschaftsteuerversicherung),
+zivilrechtlich bedingten Ausgleichszahlungen im Rahmen einer Erbschaftsplanung
+(Vermögensnachfolgeversicherung) oder Deckung der Bestattungskosten
+(Sterbegeldversicherung). Die Versicherungsleistung im Todesfall
+stellt keine Einnahme im Sinne des § 20 Abs. 1 Nr. 6 EStG dar. Manche
+Kapitalversicherungen mit lebenslangem Todesfallschutz bieten jedoch
+die Möglichkeit, zu Lebzeiten der versicherten Person eine Versicherungsleistung
+abzurufen, so dass die Versicherung beendet wird oder mit einer
+reduzierten Versicherungssumme bestehen bleibt. Eine abgerufene Leistung
+ist nach § 20 Abs. 1 Nr. 6 EStG zu versteuern.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900014">V. Sonderformen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057975900015">1. Fondsgebundene
+Kapital-Lebensversicherung und fondsgebundene Rentenversicherung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 31 </lxbase:randziffer><lxbase:a>Fondsgebundene Lebensversicherungen unterscheiden sich
+von konventionellen Lebensversicherungen dadurch, dass die Höhe
+der Leistungen direkt von der Wertentwicklung der in einem besonderen
+Anlagestock angesparten Vermögensanlagen abhängt, wobei üblicherweise
+die Sparanteile nur in Investmentanteilen angelegt werden. Die Kapitalerträge
+aus fondsgebundenen Lebensversicherungen gehören unter den gleichen
+Voraussetzungen zu den Einnahmen aus Kapitalvermögen wie Erträge
+aus konventionellen Lebensversicherungen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 32 </lxbase:randziffer><lxbase:a>Eine der Höhe nach garantierte Leistung gibt es bei der
+fondsgebundenen Lebensversicherung in der Regel nicht, selbst der
+Verlust des gesamten eingesetzten Kapitals ist möglich (zu einem
+negativen Unterschiedsbetrag siehe Rz. 60).</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 33 </lxbase:randziffer><lxbase:a>Üblich sind Verträge, bei denen der Versicherungsnehmer
+einen oder mehrere Investmentfonds selbst wählen kann, wobei er
+die Auswahl für zukünftige Sparanteile während der Versicherungsdauer
+in der Regel ändern kann (Switchen). Außerdem kann das Recht eingeräumt
+sein, bereits investierte Sparanteile in andere Fonds umzuschichten
+(Shiften). Solche Umschichtungen stellen keinen Zufluss dar.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 34 </lxbase:randziffer><lxbase:a>Hinsichtlich der Versicherungsleistung kann vereinbart
+sein, dass der Versicherungsnehmer wählen kann, ob er statt einer
+Geldzahlung die Übertragung der Fondsanteile in sein Depot möchte.
+Sofern eine Übertragung der Fondsanteile erfolgt, ist als Versicherungsleistung
+der Rücknahmepreis anzusetzen, mit dem die Versicherungsleistung
+bei einer Geldzahlung berechnet worden wäre.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900016">2. Direktversicherung,
+Pensionskasse, Pensionsfonds</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 35 </lxbase:randziffer><lxbase:a>Zur steuerrechtlichen Behandlung von Leistungen aus einer
+Pensionskasse, aus einem Pensionsfonds oder aus einer Direktversicherung
+wird auf das BMF-Schreiben vom 17. November 2004, <lxprod:doknr-verw linkend="HT0578747">BStBl I 2004,
+S. 1065</lxprod:doknr-verw>, Rzn. 216 - 224 verwiesen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900017">VI. Absicherung weiterer
+Risiken</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 36 </lxbase:randziffer><lxbase:a>Neben dem der Versicherung zugrunde liegenden charakteristischen
+Hauptrisiko können weitere Risiken (Nebenrisiken) in Form einer
+Zusatzversicherung oder innerhalb einer einheitlichen Versicherung
+abgesichert sein. Üblich sind dabei die Invaliditäts-, Berufsunfähigkeits-,
+Unfalltod-, Pflege- und die Dread-Disease-Absicherung. Bei einer
+Dread-Disease-Absicherung wird bei Eintritt einer schweren Krankheit
+geleistet (engl. dread disease = furchtbare Krankheit, schlimme
+Leiden).</lxbase:a><lxbase:a>Enthält der Versicherungsvertrag andere als die oben angeführten
+Nebenrisiken und ist der Eintritt dieses Risikos zu erwarten oder
+durch die versicherte Person herbeiführbar, so dass es sich bei
+wirtschaftlicher Betrachtungsweise um eine Fälligkeitsregelung handelt (z.B.
+Beginn der Ausbildung, Heirat), ist die Kapitalauszahlung bei Eintritt
+eines solchen unechten Nebenrisikos als Erlebensfall-Leistung nach
+§ 20 Abs. 1 Nr. 6 EStG zu versteuern.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 37 </lxbase:randziffer><lxbase:a>Kapitalauszahlungen bei Eintritt eines (echten) Nebenrisikos
+sind nicht nach § 20 Abs. 1 Nr. 6 EStG zu versteuern. Besteht die
+Leistung der weiteren Absicherung in einer Beitragsbefreiung für
+den Hauptvertrag, ist für die Berechnung des Unterschiedsbetrags
+ein rechnerischer Ausgleichsposten in Höhe der angenommenen oder
+tatsächlich durch das Versicherungsunternehmen übernommenen Beiträge
+bei der Berechnung des Unterschiedsbetrags ertragsmindernd zu berücksichtigen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 38 </lxbase:randziffer><lxbase:a>Überschüsse und sonstige Leistungen (z.B. Rückzahlung
+überhobener Beiträge) aus einer weiteren Absicherung sind grundsätzlich
+keine Einnahmen im Sinne des § 20 Abs. 1 Nr. 6 EStG. Der hierfür
+erforderliche Nachweis, dass die Überschüsse und sonstigen Leistungen aus
+einer weiteren Absicherung stammen, setzt voraus, dass das Versicherungsunternehmen
+den darauf entfallenden Beitrag, den Überschussanteil und die sonstige
+Leistung für die weitere Absicherung getrennt ausweist. In diesem
+Fall ist gegebenenfalls ein Sonderausgabenabzug nach § 10 Abs. 1
+Nr. 3 Buchstabe a EStG für diese Beitragsbestandteile möglich.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 39 </lxbase:randziffer><lxbase:a>Beitragsbestandteile für die Absicherung der Nebenrisiken
+mindern den steuerpflichtigen Unterschiedsbetrag nicht (vgl. Rz.
+58).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900018">VII. Erlebensfall oder
+Rückkauf</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 40 </lxbase:randziffer><lxbase:a>Der Besteuerung nach § 20 Abs. 1 Nr. 6 EStG unterliegen
+nur der Erlebensfall oder der Rückkauf. Die Versicherungsleistung
+bei Eintritt des mit der Versicherung untrennbar verbundenen charakteristischen
+Hauptrisikos (Tod, Unfall) rechnet nicht zu den Einnahmen nach §
+20 Abs. 1 Nr. 6 EStG (hinsichtlich weiterer versicherter Risiken
+siehe Rzn. 36 - 38).</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D057975900019">1. Erlebensfall</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 41 </lxbase:randziffer><lxbase:a>Alle Versicherungsleistungen, die vom Versicherungsunternehmen
+aufgrund des Versicherungsvertrages zu erbringen sind, ohne dass
+sich das versicherte Risiko realisiert hat (Risiko-Leistung) oder
+dass der Versicherungsvertrag ganz oder teilweise vorzeitig beendet
+wurde (Rückkauf), sind Erlebensfall-Leistungen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 42 </lxbase:randziffer><lxbase:a>In der Regel tritt der Erlebensfall bei Ablauf der vereinbarten
+Versicherungslaufzeit ein. Es können im Versicherungsvertrag mehrere
+konkrete Teilauszahlungstermine oder zeitlich und der Höhe nach
+flexible Abrufmöglichkeiten bereits in der Ansparphase bzw. Aufschubphase
+vereinbart sein, so dass es mehrere Erlebensfälle gibt. Beispielsweise
+können bei einem Versicherungsvertrag mit 30-jähriger Laufzeit Teilauszahlungen
+nach 20 und nach 25 Jahren vorgesehen sein. Sofern es sich dabei
+lediglich um ein Wahlrecht des Begünstigten handelt, das nicht ausgeübt
+wird, liegt kein Erlebensfall vor. Zur Ermittlung des Unterschiedsbetrags
+bei Teilauszahlungen siehe Rzn. 61 - 62.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 43 </lxbase:randziffer><lxbase:a>Bei einer gestreckten Kapitalauszahlung (Teilauszahlungen
+oder wiederkehrende Bezüge, die keine Rentenzahlung darstellen,
+vgl. Rz. 20) nach Ablauf der Versicherungslaufzeit liegt nur ein
+Erlebensfall zum Ablauftermin vor. Ein Zufluss ist jedoch erst mit
+Leistung des jeweiligen Teilbetrags gegeben. Davon zu unterscheiden
+ist der Fall, dass bei einer Kapitallebensversicherung mit Rentenwahlrecht
+für die Rentenzahlung optiert wird. In der Ausübung der Renten-Option
+liegt eine Verfügung über die auszahlbare Versicherungsleistung,
+die einen Zufluss begründet (vgl. Rz. 26).</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 44 </lxbase:randziffer><lxbase:a>Wenn sich der Steuerpflichtige das Kapital nach Erreichen
+des Ablauftermins nicht auszahlen lässt, sondern es gegen Entgelt
+oder auch ohne Entgelt bis zur Entscheidung über die endgültige
+Verwendung dem Versicherungsunternehmen überlässt (sog. Parkdepot), liegt
+aufgrund der erlangten Verfügungsmacht ein Zufluss vor. Wird die
+Fälligkeit einer Versicherungsleistung aufgrund einer nachträglichen
+Vertragsänderung während der Versicherungslaufzeit (Verlängerung
+der Versicherungslaufzeit) hinausgeschoben, liegt dagegen zum ursprünglichen
+Fälligkeitszeitpunkt kein Zufluss vor.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 45 </lxbase:randziffer><lxbase:a>Eine laufende (z.B. jährliche) Auszahlung von Überschüssen
+(vgl. Rz. 14) stellt eine zugeflossene Erlebensfall-Leistung dar.
+Die Regelungen zur Ermittlung des Unterschiedsbetrags bei Teilauszahlungen
+(siehe Rzn. 61 - 62) sind anzuwenden. Wird der Überschuss nicht
+zur Barauszahlung, sondern zur Reduzierung der laufenden Beitragszahlung
+verwendet, liegt zivilrechtlich eine Aufrechnung und damit ebenfalls
+eine zugeflossene Erlebensfall-Leistung vor. Bei der Berechnung
+des Unterschiedsbetrags ist der Bruttobeitrag (einschließlich des
+durch Aufrechnung gezahlten Teils) in Ansatz zu bringen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 46 </lxbase:randziffer><lxbase:a>Ist jedoch von vornherein keine Auszahlung der laufenden
+Überschüsse, sondern eine Verrechnung mit den Beiträgen vereinbart,
+besteht also kein Wahlrecht zwischen Auszahlung und Verrechnung,
+liegt hinsichtlich der Überschüsse kein Erlebensfall und kein Zufluss
+von Erträgen vor. Bei der Ermittlung des Unterschiedsbetrags ist
+nur der Netto-Beitrag (vgl. Rz. 15) anzusetzen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 47 </lxbase:randziffer><lxbase:a>Beim Bonussystem (vgl. Rz. 16), bei der verzinslichen
+bzw. rentierlichen Ansammlung (vgl. Rz. 17) und bei der Schlussüberschussbeteiligung
+(vgl. Rz. 18) liegt ein Zufluss von Erträgen in der Regel erst bei
+Ablauf der Versicherungslaufzeit vor.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900020">2. Rückkauf</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 48</lxbase:randziffer><lxbase:a>Ein Rückkauf liegt vor, wenn der Versicherungsvertrag
+vorzeitig ganz oder teilweise beendet wird (insbesondere aufgrund
+Rücktritt, Kündigung oder Anfechtung). Bei einer vorzeitigen Beendigung
+des Versicherungsvertrages ist regelmäßig vereinbart, dass das Versicherungsunternehmen
+einen Rückkaufswert zu erstatten hat (vgl. § 176 Abs. 1 VVG, der
+eine gesetzliche Verpflichtung zur Erstattung des Rückkaufswertes
+bei Kapitalversicherungen auf den Todesfall mit unbedingter Leistungspflicht
+enthält). Der Rückkaufswert ist nach den anerkannten Regeln der
+Versicherungsmathematik für den Schluss der laufenden Versicherungsperiode
+als Zeitwert der Versicherung zu berechnen. Beitragsrückstände werden
+vom Rückkaufswert abgesetzt. § 12 Abs. 4 Satz 1 Bewertungsgesetz ist
+nicht anwendbar. Ein teilweiser Rückkauf liegt insbesondere vor,
+wenn der Versicherungsvertrag das Recht enthält, durch Teilkündigung
+einen Teil der Erlebensfall-Leistung vorzeitig abzurufen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 49 </lxbase:randziffer><lxbase:a>In der Anfangszeit einer Versicherung ist der Rückkaufswert
+regelmäßig niedriger als die Summe der geleisteten Beiträge. Dies
+ergibt sich daraus, dass jeder Vertrag Abschlusskosten (z.B. Provision
+für den Versicherungsvermittler) verursacht, die zu tilgen sind. Außerdem
+behalten sich die Versicherer gewöhnlich vor, einen Abzug bei vorzeitiger Beendigung
+vorzunehmen (Stornoabschlag). Dadurch kann es insbesondere bei einem sehr
+frühzeitigen Rückkauf zu einem negativen Unterschiedsbetrag kommen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900021">VIII. Steuerpflichtiger</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 50 </lxbase:randziffer><lxbase:a>Steuerpflichtiger im Sinne des § 20 Abs. 1 Nr. 6 EStG
+ist grundsätzlich derjenige, der das Kapital in Form der Sparanteile
+im eigenen Namen und für eigene Rechnung dem Versicherungsunternehmen
+zur Nutzung überlassen hat. Soweit eine andere Person wirtschaftlicher
+Eigentümer im Sinne des § 39 Abs. 2 Nr. 1 Abgabenordnung - AO -
+des Anspruchs auf die steuerpflichtige Versicherungsleistung (Erlebensfall-Leistung
+oder Rückkaufswert) ist, sind ihr die erzielten Erträge zuzurechnen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 51</lxbase:randziffer><lxbase:a>In der Regel ist der Versicherungsnehmer Steuerpflichtiger,
+da er die Sparanteile zur Nutzung überlassen hat und auch Inhaber
+des Rechts ist, die Versicherungsleistung zu fordern. Wechselt die
+Person des Versicherungsnehmers durch Gesamtrechts- oder Einzelrechtsnachfolge,
+wird regelmäßig der Rechtsnachfolger Steuerpflichtiger.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 52 </lxbase:randziffer><lxbase:a>Mit der Einräumung eines unwiderruflichen Bezugsrechts
+(vgl. Rz. 10) für die steuerpflichtige Versicherungsleistung gilt
+grundsätzlich der Bezugsberechtigte als Steuerpflichtiger der erzielten
+Erträge. Bei einem widerruflichen Bezugsrecht wird der Bezugsberechtigte erst
+bei Eintritt des Erlebensfalls Steuerpflichtiger.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 53 </lxbase:randziffer><lxbase:a>Bei einer Abtretung des Anspruchs auf die Versicherungsleistung
+wird der Abtretungsempfänger (Zessionar) nur dann Steuerpflichtiger,
+wenn er und nicht der Abtretende (Zedent) die Erträge erzielt. Das
+Erzielen von Erträgen setzt voraus, dass nach den getroffenen Vereinbarungen
+die Versicherungsleistung das Vermögen des Zessionars und nicht das
+des Zedenten mehren soll. Dient beispielsweise die Versicherungsleistung
+dazu, eigene Verbindlichkeiten des Zedenten gegenüber dem Zessionar
+zu tilgen, bleibt der Zedent Steuerpflichtiger. Typischerweise werden
+durch die Versicherungsleistung bei Eintritt des Sicherungsfalls
+bei einer Sicherungsabtretung oder bei Einziehung und Verwertung
+durch einen Pfandgläubiger eigene Verbindlichkeiten des Zedenten
+bzw. des Pfandschuldners getilgt, so dass regelmäßig der Zedent
+bzw. der Pfandschuldner Steuerpflichtiger der Erträge bleibt.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900022">IX. Berechnung des Unterschiedsbetrags</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 54 </lxbase:randziffer><lxbase:a>Die Ermittlung des Ertrags nach § 20 Abs. 1 Nr. 6 EStG
+ist nur anzuwenden, wenn der Steuerpflichtige die Versicherung im
+Privatvermögen hält. Gehört der Versicherungsvertrag zu dem Betriebsvermögen
+des Steuerpflichtigen, sind die allgemeinen Gewinnermittlungsvorschriften
+anzuwenden. Für den Kapitalertragsteuerabzug gelten aber auch in diesen
+Fällen die Vorschriften für Versicherungen im Privatvermögen (vgl.
+Rzn. 84 ff.).</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D057975900023">1. Versicherungsleistung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 55 </lxbase:randziffer><lxbase:a>Versicherungsleistung ist grundsätzlich der Gesamtbetrag
+der zugeflossenen Geldleistungen (zur Übertragungsoption bei fondsgebundenen
+Lebensversicherungen siehe Rz. 34). In der Versicherungsleistung
+enthalten sind die angesammelten Sparanteile, die garantierte Verzinsung
+der Sparanteile und Überschüsse aus dem Kapitalanlage-, dem Risiko-
+und dem Kostenergebnis. Auszusondern sind die Überschussanteile
+und sonstige Leistungen aus Nebenrisiken (vgl. Rz. 38).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900024">2. Summe
+der entrichteten Beiträge</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 56 </lxbase:randziffer><lxbase:a>Versicherungsbeiträge (Prämien) sind die aufgrund des
+Versicherungsvertrages erbrachten Geldleistungen. Hierzu gehören
+auch die Ausfertigungsgebühr, Abschlussgebühr und die Versicherungsteuer.
+Provisionen, die der Versicherungsvermittler von der Versicherungsgesellschaft
+erhält und die dieser an den Steuerpflichtigen weiterleitet, oder
+Provisionen, die der Steuerpflichtige unmittelbar von der Versicherungsgesellschaft
+erhält (sog. Eigenprovisionen), mindern die Summe der entrichteten
+Beiträge (BFH-Urteil vom 2. März 2004, <lxprod:doknr-verw linkend="HT0817408">BStBl II 2004, 506</lxprod:doknr-verw>).
+Eine Vermittlungsprovision, die vom Versicherungsnehmer aufgrund
+eines gesonderten Vertrages an einen Versicherungsvermittler erbracht wird,
+ist bei der Berechnung des Unterschiedsbetrags ertragsmindernd anzusetzen.
+Für Zwecke der Kapitalertragsteuer ist es erforderlich, dass der
+Steuerpflichtige die Zahlung der Provision an den Vermittler gegenüber
+dem Versicherungsunternehmen belegt.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 57 </lxbase:randziffer><lxbase:a>Zur Höhe der entrichteten Beiträge in den Fällen der Beitragsverrechnung
+siehe Rzn. 45 und 46. Der beim Bonussystem (vgl. Rz. 16) für eine
+Erhöhung der Versicherungsleistung verwendete Überschussanteil stellt
+keinen entrichteten Beitrag dar.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 58 </lxbase:randziffer><lxbase:a>Die im Beitrag enthaltenen Anteile zur Absicherung des
+charakteristischen Hauptrisikos (Todesfallrisiko bei einer Lebensversicherung,
+Unfallrisiko sowie das Risiko der Beitragsrückzahlung im Todesfall
+bei einer Unfallversicherung mit Beitragsrückzahlung) mindern den
+steuerpflichtigen Ertrag. Beitragsanteile, die das Versicherungsunternehmen
+aufgrund individueller oder pauschaler Kalkulation den Nebenrisiken
+(Rzn. 36 ff.) zugeordnet hat, sind bei der Ermittlung des Unterschiedsbetrags
+nicht ertragsmindernd anzusetzen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 59 </lxbase:randziffer><lxbase:a>Für die Berechnung des Unterschiedsbetrags ist es grundsätzlich
+unerheblich, wer die Versicherungsbeiträge aufgewendet hat. Auch
+Beiträge, die nicht der Steuerpflichtige aufgewendet hat, mindern
+den steuerpflichtigen Ertrag.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900025">3. Negativer
+Unterschiedsbetrag (Verlust)</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 60 </lxbase:randziffer><lxbase:a>Insbesondere in den Fällen eines frühzeitigen Rückkaufs
+(vgl. Rz. 49) des Versicherungsvertrags kann es zu einem negativen
+Unterschiedsbetrag kommen. Ist die Einkunftserzielungsabsicht zu
+überprüfen, ist vom hälftigen Unterschiedsbetrag als Ertrag auszugehen, wenn
+nach dem vereinbarten Versicherungsverlauf die Voraussetzungen des
+§ 20 Abs. 1 Nr. 6 Satz 2 EStG erfüllt worden wären (vgl. BFH-Urteil
+vom 6. März 2003, <lxprod:doknr-verw linkend="HT0815284">BStBl II 2003, 702</lxprod:doknr-verw>
+; zum Ansatz der Werbungskosten vgl. Rz. 81).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900026">4. Teilleistungen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 61 </lxbase:randziffer><lxbase:a>Bei Teilleistungen (Teilauszahlungen, Auszahlungen in
+Form von wiederkehrenden Bezügen, die keine Rentenzahlung darstellen,
+sowie Barauszahlungen von laufenden Überschussanteilen) sind die
+anteilig entrichteten Beiträge von der Auszahlung in Abzug zu bringen.
+Die anteilig entrichteten Beiträge sind dabei wie folgt zu ermitteln:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="1" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="100*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert"><lxbase:unterst>Versicherungsleistung
+x (Summe der entrichteten Beiträge - bereits verbrauchte Beiträge)
+</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a align="zentriert">Zeitwert
+der Versicherung zum Auszahlungszeitpunkt</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a /></lxbase:a-randziffer><lxbase:a>Die hiernach ermittelten Beiträge sind höchstens in Höhe
+der Teilleistung anzusetzen. Die bereits für Teilleistungen verbrauchten
+Beiträge mindern die bei nachfolgenden Teilleistungen zu berücksichtigenden
+Beiträge. Bei der Ermittlung des Unterschiedsbetrags der letzten
+Teilleistung bzw. der Schlussleistung sind die noch nicht angesetzten
+Beiträge abzuziehen.</lxbase:a><lxbase:a-randziffer><lxbase:randziffer>Rz. 62 </lxbase:randziffer><lxbase:a><lxbase:unterst>Beispiel 1</lxbase:unterst> : Teilauszahlung
+in der Ansparphase</lxbase:a></lxbase:a-randziffer><lxbase:a>Laufzeit 20 Jahre, nach 10 Jahren Teilauszahlung i.H.v.
+5.000 €, geleistete Beiträge im Auszahlungszeitpunkt: 10.000 €,
+Zeitwert der Versicherung im Auszahlungszeitpunkt 15.000 €; Restauszahlung
+nach weiteren 10 Jahren i.H.v. 25.000 €, geleistete Beiträge insgesamt: 20.000
+€</lxbase:a><lxbase:a><lxbase:unterst>Lösung:</lxbase:unterst></lxbase:a><lxbase:a>• Teilauszahlung i.H.v. 5.000 €</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="35*" /><cals:colspec colnum="2" colname="2" colwidth="32*" /><cals:colspec colnum="3" colname="3" colwidth="32*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>anteilige
+Beiträge:</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a align="zentriert"><lxbase:unterst>5.000 x 10.000</lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>= 3.333,33 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1" /><cals:entry colsep="0" colname="2"><lxbase:a align="zentriert">15.000</lxbase:a></cals:entry><cals:entry colname="3" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="59*" /><cals:colspec colnum="2" colname="2" colwidth="41*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Versicherungsleistung:
+</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>5.000,00 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:unterst>./.
+anteilig geleistete Beiträge: </lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a><lxbase:unterst>3.333,33
+€ (= 33 %)</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Ertrag nach § 20
+Abs. 1 Nr. 6 EStG </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>1.666,67 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>• Restauszahlung i.H.v. 25.000 €</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="73*" /><cals:colspec colnum="2" colname="2" colwidth="27*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Versicherungsleistung:
+</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>25.000,00 € </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:unterst>./.
+geleistete Beiträge (20.000 - 3.333,33)</lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a><lxbase:unterst>16.666,67
+€</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Ertrag nach § 20
+Abs. 1 Nr. 6 EStG </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>  8.333,33 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="36*" /><cals:colspec colnum="2" colname="2" colwidth="64*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:unterst>Kontrollrechnung</lxbase:unterst>
+: </lxbase:a><lxbase:a>Versicherungsleistung:</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a /><lxbase:a>5.000,00 € + 25.000,00 € = 30.000,00 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Summe
+der Beiträge:</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>3.333,33
+€ + 16.666,67 € = <lxbase:unterst>20.000,00</lxbase:unterst> 
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Ertrag nach § 20
+Abs. 1 Nr. 6 EStG:</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a align="links">
+                                            <lxbase:unterst>10.000,00
+€</lxbase:unterst></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a-randziffer><lxbase:randziffer>Rz. 63 </lxbase:randziffer><lxbase:a><lxbase:unterst>Beispiel 2</lxbase:unterst> : Auszahlung
+in Form eines wiederkehrenden Bezugs </lxbase:a></lxbase:a-randziffer><lxbase:a>Der Versicherungsvertrag sieht wiederkehrende Bezüge von
+jährlich 6.000 € für die Lebenszeit des Begünstigten, längstens
+jedoch für fünf Jahre vor. An Beiträgen wurden 12.000 € erbracht.
+Der Steuerpflichtige (männlich) hat zum Beginn der Auszahlung das 50.
+Lebensjahr vollendet. </lxbase:a><lxbase:a>Der nach den anerkannten Regeln der Versicherungsmathematik
+unter Berücksichtigung der geschlechtsspezifischen Sterbewahrscheinlichkeit
+ermittelte Zeitwert der Versicherung vor Auszahlung der jeweiligen
+Bezüge beträgt im</lxbase:a><lxbase:a>Jahr 01: 27.500 </lxbase:a><lxbase:a>Jahr 02: 22.500 </lxbase:a><lxbase:a>Jahr 03: 17.200</lxbase:a><lxbase:a>Jahr 04: 11.700 </lxbase:a><lxbase:a>Jahr 05:   6.000.</lxbase:a><lxbase:a><lxbase:unterst>Lösung</lxbase:unterst> :</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="44*" /><cals:colspec colnum="2" colname="2" colwidth="34*" /><cals:colspec colnum="3" colname="3" colwidth="22*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>•
+anteilige Beiträge im Jahr 01:</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a align="zentriert"><lxbase:unterst>6.000 x 12.000</lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1" /><cals:entry colsep="0" colname="2"><lxbase:a align="zentriert">27.500</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>= 2.618,18 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="73*" /><cals:colspec colnum="2" colname="2" colwidth="27*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Versicherungsleistung:
+</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>6.000,00 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:unterst>./.
+anteilig geleistete Beiträge:</lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a><lxbase:unterst>2.618,18
+€</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Ertrag nach § 20
+Abs. 1 Nr. 6 EStG </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>3.381,82 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="42*" /><cals:colspec colnum="2" colname="2" colwidth="39*" /><cals:colspec colnum="3" colname="3" colwidth="19*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>•
+anteilige Beiträge im Jahr 02:</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a align="zentriert"><lxbase:unterst>6.000 x (12.000 -2.618,18)</lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1" /><cals:entry colsep="0" colname="2"><lxbase:a align="zentriert">22.500
+</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>= 2.501,82 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="73*" /><cals:colspec colnum="2" colname="2" colwidth="27*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Versicherungsleistung:
+</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>6.000,00 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:unterst>./.
+anteilig geleistete Beiträge: </lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a><lxbase:unterst>2.501,82
+€</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Ertrag nach § 20
+Abs. 1 Nr. 6 EStG </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>3.498,18 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>• <lxbase:unterst>Gesamtlösung</lxbase:unterst> :</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="4" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:colspec colnum="4" colname="4" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Jahr</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Versicherungsleistungen</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>anteilige Beiträge</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>Ertrag</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>01</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>6.000,00 €</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>2.618,18</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>3.381,82</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>02</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>6.000,00 €</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>2.501,82</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>3.498,18</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>03</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>6.000,00 €</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>2.400,00</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>3.600,00</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>04</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>6.000,00 €</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>2.297,44</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>3.702,56</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>05</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>6.000,00 €</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>2.182,56</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>3.817,44</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Kontrollsumme</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>30.000,00 €</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>12.000,00</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>18.000,00</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a-randziffer><lxbase:randziffer>Rz. 64 </lxbase:randziffer><lxbase:a><lxbase:unterst>Beispiel 3:</lxbase:unterst></lxbase:a><lxbase:a>Teilkapitalauszahlung bei einer Rentenversicherung </lxbase:a><lxbase:a>Rentenversicherung mit Kapitalwahlrecht, Ansparphase 20
+Jahre, gezahlte Beiträge insgesamt 20.000 €, Zeitwert der Versicherung
+zum Ende der Ansparphase: 30.000 €, Ausübung des Kapitalwahlrechts
+in Höhe von 15.000 €, Verrentung des Restkapitals führt zu einer
+monatlichen garantierten Rente von 100 €. </lxbase:a></lxbase:a-randziffer><lxbase:a><lxbase:unterst>Lösung</lxbase:unterst> :</lxbase:a><lxbase:a>• Teilauszahlung in Höhe von 15.000 €:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:colspec colnum="3" colname="3" colwidth="33*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a align="zentriert"><lxbase:unterst>15.000 x 20.000</lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>anteilige Beiträge:</lxbase:a></cals:entry><cals:entry colsep="0" colname="2"><lxbase:a align="zentriert">30.000</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>= 10.000 € </lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="70*" /><cals:colspec colnum="2" colname="2" colwidth="30*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Versicherungsleistung:
+</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>15.000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:unterst>./.
+anteilig geleistete Beiträge: </lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a><lxbase:unterst>10.000
+€</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Ertrag nach § 20
+Abs. 1 Nr. 6 EStG </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>  5.000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>• Rentenzahlung:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="50*" /><cals:colspec colnum="2" colname="2" colwidth="50*" /><cals:tbody><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Jahresbetrag der
+Rente (ggf. zuzüglich Überschüsse)</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>1.200 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>zu versteuern nach § 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe
+bb EStG</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900027">X. Hälftiger Unterschiedsbetrag</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 65 </lxbase:randziffer><lxbase:a>Wird die Versicherungsleistung nach Vollendung des 60.
+Lebensjahres des Steuerpflichtigen und nach Ablauf von zwölf Jahren
+seit dem Vertragsabschluss ausgezahlt, ist die Hälfte des Unterschiedsbetrags
+anzusetzen.</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D057975900028">1. Beginn
+der Mindestvertragsdauer</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 66 </lxbase:randziffer><lxbase:a>Für den Beginn der Mindestvertragsdauer bestehen aus Vereinfachungsgründen
+keine Bedenken, als Zeitpunkt des Vertragsabschlusses den im Versicherungsschein
+bezeichneten Tag des Versicherungsbeginns gelten zu lassen, wenn
+innerhalb von drei Monaten nach diesem Tag der Versicherungsschein
+ausgestellt und der erste Beitrag gezahlt wird; ist die Frist von
+drei Monaten überschritten, tritt an die Stelle des im Versicherungsschein bezeichneten
+Tages des Versicherungsbeginns der Tag der Zahlung des ersten Beitrages.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900029">2. Neubeginn
+aufgrund von Vertragsänderungen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 67 </lxbase:randziffer><lxbase:a>Werden wesentliche Vertragsmerkmale einer Versicherung
+im Sinne des § 20 Abs. 1 Nr. 6 EStG (Versicherungslaufzeit, Versicherungssumme,
+Beitragshöhe, Beitragszahlungsdauer, vgl. BFH vom 9. Mai 1974, <lxprod:doknr-verw linkend="HT0014177">BStBl II S.
+633</lxprod:doknr-verw>) geändert, führt dies nach Maßgabe der nachfolgenden
+Regelungen zu einem Neubeginn der Mindestvertragsdauer. Bei einer
+Änderung der Person des Versicherungsnehmers ist steuerrechtlich
+grundsätzlich nicht von einem neuen Vertrag auszugehen.</lxbase:a></lxbase:a-randziffer><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Bei Vertragsabschluss vereinbarte
+künftige Vertragsänderungen</lxbase:a><lxbase:a-randziffer><lxbase:randziffer>Rz. 68 </lxbase:randziffer><lxbase:a>Vertragsanpassungen, die bereits bei Vertragsabschluss
+vereinbart worden sind, sowie hinreichend bestimmte Optionen zur
+Änderung des Vertrages führen vorbehaltlich der Grenzen des Gestaltungsmissbrauchs
+nicht zu einem Neubeginn der Mindestvertragsdauer.</lxbase:a></lxbase:a-randziffer></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Nachträglich vereinbarte
+Vertragsänderungen</lxbase:a><lxbase:a-randziffer><lxbase:randziffer>Rz. 69 </lxbase:randziffer><lxbase:a>Werden ausschließlich wesentliche Vertragsbestandteile
+vermindert bzw. gesenkt (z.B. Verkürzung der Laufzeit oder der Beitragszahlungsdauer,
+niedrigere Beitragszahlungen oder Versicherungssumme), so gilt steuerrechtlich
+der geänderte Vertrag als "alter Vertrag", der unverändert fortgeführt
+wird.</lxbase:a></lxbase:a-randziffer></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a-randziffer><lxbase:randziffer>Rz. 70 </lxbase:randziffer><lxbase:a>Nachträglich vereinbarte Änderungen der Versicherungslaufzeit
+oder der Beitragszahlungsdauer bleiben für die Beurteilung der Mindestvertragsdauer
+außer Betracht, soweit nicht die Gesamtvertragsdauer von zwölf Jahren
+unterschritten wird (z.B. nachträgliche Verlängerung der Versicherungslaufzeit
+und/oder der Beitragszahlungsdauer bei gleich bleibender Versicherungssumme
+aufgrund reduzierten Beitrags).</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 71 </lxbase:randziffer><lxbase:a>Nachträglich vereinbarte Beitragserhöhungen und Erhöhungen
+der Versicherungssumme gelten steuerlich im Umfang der Erhöhung
+als gesonderter neuer Vertrag, für den die Mindestvertragsdauer
+ab dem vereinbarten Erhöhungszeitpunkt neu zu laufen beginnt.</lxbase:a></lxbase:a-randziffer><lxbase:a>c. Zahlungsschwierigkeiten</lxbase:a><lxbase:a-randziffer><lxbase:randziffer>Rz. 72 </lxbase:randziffer><lxbase:a>Wurden Versicherungsbeiträge oder die Versicherungssumme
+wegen Zahlungsschwierigkeiten des Versicherungsnehmers insbesondere
+wegen Arbeitslosigkeit, Kurzarbeit oder Arbeitsplatzwechsels gemindert
+oder die Beiträge ganz oder teilweise befristet gestundet, so kann
+der Versicherungsnehmer innerhalb einer Frist von in der Regel drei Jahren
+eine Wiederherstellung des alten Versicherungsschutzes bis zur Höhe
+der ursprünglich vereinbarten Versicherungssumme verlangen und die
+Beitragsrückstände nachentrichten. Die nachentrichteten Beiträge
+werden als auf Grund des ursprünglichen Vertrages geleistet angesehen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 73 </lxbase:randziffer><lxbase:a>Konnte der Versicherungsnehmer wegen Zahlungsschwierigkeiten,
+insbesondere aufgrund von Arbeitslosigkeit, Kurzarbeit oder Arbeitsplatzwechsel
+die vereinbarten Beiträge nicht mehr aufbringen und nach Behebung
+seiner finanziellen Schwierigkeiten die fehlenden Beiträge nicht
+nachentrichten, so kann der Versicherungsnehmer innerhalb von in
+der Regel bis zu drei Jahren eine Wiederherstellung des alten Versicherungsschutzes
+bis zur Höhe der ursprünglich vereinbarten Versicherungssumme verlangen.
+Maßnahmen zur Schließung der Beitragslücke (z.B. Anhebung der künftigen
+Beiträge, Leistungsherabsetzung, Verlegung von Beginn- und Ablauftermin)
+führen nicht zu einem Neubeginn der Mindestvertragsdauer.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900030">3. Policendarlehen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 74 </lxbase:randziffer><lxbase:a>Dienen die Ansprüche aus dem Versicherungsvertrag der
+Tilgung oder Sicherung eines Darlehens, so steht dies der Anwendung
+des § 20 Abs. 1 Nr. 6 Satz 2 EStG (Ansatz des hälftigen Unterschiedsbetrag)
+nicht entgegen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900031">4. Teilleistungen
+teilweise vor dem 60. Lebensjahr und teilweise danach</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 75 </lxbase:randziffer><lxbase:a>Werden mehrere Versicherungsleistungen zu unterschiedlichen
+Zeitpunkten ausgekehrt (z.B. bei Teilauszahlungen und Barauszahlungen
+von laufenden Überschussanteilen), ist jeweils gesondert zu prüfen,
+ob § 20 Abs. 1 Nr. 6 Satz 2 EStG zur Anwendung kommt. Die anteilig
+entrichteten Beiträge sind zu berücksichtigen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 76 </lxbase:randziffer><lxbase:a><lxbase:unterst>Beispiel</lxbase:unterst> :</lxbase:a></lxbase:a-randziffer><lxbase:a>Laufzeit 20 Jahre, nach 10 Jahren Teilauszahlung i.H.v.
+5.000 €, vollendetes Lebensalter des Steuerpflichtigen im Zeitpunkt
+der Teilauszahlung 55 Jahre, geleistete Beiträge zum Auszahlungszeitpunkt:
+10.000 €, Zeitwert der Versicherung zum Auszahlungszeitpunkt 15.000
+€; Restauszahlung nach weiteren 10 Jahren i.H.v. 25.000 € geleistete
+Beiträge insgesamt 20.000 €.</lxbase:a><lxbase:a><lxbase:unterst>Lösung</lxbase:unterst> :</lxbase:a><lxbase:a>• Teilauszahlung i.H.v. 5.000 € (Laufzeit 10 Jahre, Alter
+55)</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="72*" /><cals:colspec colnum="2" colname="2" colwidth="28*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Versicherungsleistung:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a> 5.000,00 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:unterst>./.
+anteilig geleistete Beiträge: (5.000 : 15.000 x 10.000) </lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a><lxbase:unterst>3.333,33
+€ (= 33 %)</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Ertrag nach § 20
+Abs. 1 Nr. 6 Satz 1 EStG </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>1.666,67 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>• Restauszahlung i.H.v. 25.000 € (Laufzeit 20 Jahre, Alter
+65)</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="72*" /><cals:colspec colnum="2" colname="2" colwidth="28*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Versicherungsleistung:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a> 25.000,00 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:unterst>./.
+geleistete Beiträge: (20.000 - 3.333,33) </lxbase:unterst></lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a><lxbase:unterst>16.666,67
+€ </lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Ertrag
+nach § 20 Abs. 1 Nr. 6 Satz 1 EStG </lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>  8.333,33 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Davon anzusetzen
+nach § 20 Abs. 1 Nr. 6 Satz 2 EStG</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>  4.166,67 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900032">5. Hälftiger
+Unterschiedsbetrag bei Kapitalversicherungen auf verbundene Leben</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 77 </lxbase:randziffer><lxbase:a>Sofern bei einer Kapitalversicherung auf verbundene Leben
+(vgl. Rz. 28) die Versicherungsleistung mehreren Steuerpflichtigen
+gemeinschaftlich zufließt, ist bei jedem Beteiligten gesondert zu
+prüfen, inwieweit er in seiner Person den Tatbestand des § 20 Abs.
+1 Nr. 6 Satz 1 bzw. Satz 2 EStG verwirklicht. Die Aufteilung der
+Erträge ist dabei nach Köpfen vorzunehmen, soweit kein abweichendes
+Verhältnis vereinbart ist.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 78 </lxbase:randziffer><lxbase:a><lxbase:unterst>Beispiel</lxbase:unterst> : </lxbase:a></lxbase:a-randziffer><lxbase:a>Ehemann A schließt als Versicherungsnehmer eine Kapitalversicherung
+mit Sparanteil auf verbundene Leben ab. Versicherte Personen sind
+Ehemann A und Ehefrau B. Beiden steht das unwiderrufliche Bezugsrecht
+gemeinschaftlich zu. Laufzeit der Versicherung 20 Jahre. Erlebensfall-Leistung
+30.000 €, geleistete Beiträge 20.000 €. A hat zum Auszahlungszeitpunkt
+das 62., B das 58. Lebensjahr vollendet.</lxbase:a><lxbase:a><lxbase:unterst>Lösung</lxbase:unterst> :</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="72*" /><cals:colspec colnum="2" colname="2" colwidth="28*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Versicherungsleistung:</lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a>30.000
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:unterst>./.
+geleistete Beiträge: </lxbase:unterst></lxbase:a></cals:entry><cals:entry align="right" colname="2" rowsep="0"><lxbase:a><lxbase:unterst>20.000
+€</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1"><lxbase:a>Zwischensumme:
+</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>10.000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Auf Ehemann A entfallen 50 %
+=</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>5.000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Davon anzusetzen nach § 20 Abs.
+1 Nr. 6 Satz 2 EStG </lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>2.500 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Auf Ehefrau B entfallen 50 %
+=</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>5.000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Davon anzusetzen nach § 20 Abs.
+1 Nr. 6 Satz 1 EStG</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>5.000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900033">XI. Werbungskosten</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 79 </lxbase:randziffer><lxbase:a>Kosten, die durch den Versicherungsvertrag veranlasst
+sind, können als Werbungskosten abgezogen werden. Zur Behandlung
+einer Vermittlungsprovision, die der Versicherungsnehmer aufgrund
+eines gesonderten Vertrages an den Versicherungsvermittler zahlt, siehe
+Rz. 56. Abschlusskosten, die durch die Beitragsleistung bezahlt
+werden (insbesondere die Vermittlungsprovision, die das Versicherungsunternehmen
+an den Vermittler erbringt), sind keine Werbungskosten.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 80 </lxbase:randziffer><lxbase:a>Der entgeltliche Erwerb des Versicherungsvertrages durch
+einen Nicht-Unternehmer stellt eine steuerneutrale Vermögensumschichtung
+in der Privatsphäre dar. Die Aufwendungen für den Erwerb sind Anschaffungskosten
+und keine Werbungskosten.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 81 </lxbase:randziffer><lxbase:a>Auch bei hälftigem Unterschiedsbetrag besteht der volle
+Werbungskostenabzug. § 3c Abs. 1 EStG ist nicht anwendbar, da §
+20 Abs. 1 Nr. 6 Satz 2 EStG keine Steuerbefreiung, sondern eine
+Sonderregelung zur Ermittlung des anzusetzenden Ertrags enthält.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900034">XII. Nachweis der Besteuerungsgrundlagen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057975900035">1. Inländische
+Versicherungen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 82 </lxbase:randziffer><lxbase:a>Bei Versicherungen, die im Inland Sitz, Geschäftsleitung
+oder Niederlassung haben, dient als Nachweis für die Höhe der Kapitalerträge
+im Sinne des § 20 Abs. 1 Nr. 6 EStG im Rahmen der Einkommensteuererklärung
+bei positiven Kapitalerträgen die Steuerbescheinigung im Sinne des
+§ 45a EStG. Negative Kapitalerträge sind in der Regel durch eine Berechnung
+des Versicherungsunternehmens zu belegen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900036">2. Ausländische
+Versicherungen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 83 </lxbase:randziffer><lxbase:a>Der Steuerpflichtige hat alle für die Besteuerung nach
+§ 20 Abs. 1 Nr. 6 EStG erforderlichen Unterlagen zu beschaffen und
+seiner Steuererklärung beizufügen (§ 90 Abs. 2 AO).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900037">XIII. Kapitalertragsteuer</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 84 </lxbase:randziffer><lxbase:a>Dem Kapitalertragsteuerabzug (§ 43 Abs. 1 Satz 1 Nr. 4
+Satz 1 EStG) unterliegen auch Teilleistungen (vgl. Rz. 61).</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 85 </lxbase:randziffer><lxbase:a>Bemessungsgrundlage ist im Regelfall der Unterschiedsbetrag,
+im Falle des § 20 Abs. 1 Nr. 6 Satz 2 EStG der halbe Unterschiedsbetrag.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 86 </lxbase:randziffer><lxbase:a>Kapitalertragsteuer ist nach § 44a EStG nicht einzubehalten,
+wenn eine Nichtveranlagungsbescheinigung vorgelegt oder soweit ein
+Freistellungsauftrag erteilt wurde.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 87 </lxbase:randziffer><lxbase:a>Die Kapitalertragsteuer wird von den inländischen Versicherungsunternehmen
+auch von den Erträgen aus Versicherungen im Sinne des § 20 Abs.
+1 Nr. 6 EStG erhoben, bei denen der Steuerpflichtige nur beschränkt
+steuerpflichtig ist (§§ 1 Abs. 4, 49 Abs. 1 Nr. 5 EStG). Sie hat
+in diesen Fällen nach § 50 Abs. 5 Satz 1 EStG abgeltende Wirkung.
+Niedrigere Quellensteuerhöchstsätze nach den Doppelbesteuerungsabkommen
+sind im Erstattungsverfahren nach § 50d Abs. 1 EStG geltend zu machen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900038">XIV. Anwendungsregelungen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057975900039">1. Zeitliche
+Abgrenzung von Altverträgen zu Neuverträgen</lxbase:ueberschrift><lxbase:a>88 Durch das Alterseinkünftegesetz vom 5. Juli 2004 (<lxbase:lit-fs normform="BGBl-2004-I-1427" manuell="nein">BGBl.
+I S. 1427</lxbase:lit-fs>) ist § 20 Abs. 1 Nr. 6 EStG neu gefasst worden. Nach §
+52 Abs. 36 EStG ist für vor dem 1. Januar 2005 abgeschlossene Versicherungsverträge
+(Altverträge) § 20 Abs. 1 Nr. 6 EStG in der am 31. Dezember 2004
+geltenden Fassung (a.F.) weiter anzuwenden. Damit besteht insbesondere
+die Steuerbefreiung nach § 20 Abs. 1 Nr. 6 Satz 2 EStG a.F. für
+Altverträge fort.</lxbase:a><lxbase:a-randziffer><lxbase:randziffer>Rz. 89 </lxbase:randziffer><lxbase:a>Für die Frage, ob noch § 20 Abs. 1 Nr. 6 EStG a.F. anzuwenden
+ist, kommt es auf den Zeitpunkt des Vertragsabschlusses an. Die
+Regelung zur Rückdatierung (Rz. 66) ist in diesem Zusammenhang nicht
+anzuwenden. Der Versicherungsvertrag kommt mit dem Zugang der Annahmeerklärung
+des Versicherers beim Versicherungsnehmer zustande. Auf eine ausdrückliche
+Annahmeerklärung kann jedoch verzichtet werden, wenn sie nach der
+Verkehrssitte nicht zu erwarten ist oder der Antragende auf sie
+verzichtet hat (§ 151 BGB). Bei Lebensversicherungsverträgen kann
+aufgrund der regelmäßig erforderlichen Risikoprüfung davon ausgegangen
+werden, dass eine ausdrückliche Annahmeerklärung erfolgt.</lxbase:a><lxbase:a>Für die steuerrechtliche Beurteilung ist unter dem Zeitpunkt
+des Vertragsabschlusses grundsätzlich das Datum der Ausstellung
+des Versicherungsscheines zu verstehen. Wenn der Steuerpflichtige
+geltend macht, der Vertragsschluss sei vor dem Datum der Ausstellung
+des Versicherungsscheins erfolgt, hat er dies durch geeignete Dokumente
+(z.B. Annahmeerklärung des Versicherers) zu belegen. Aus Vereinfachungsgründen
+ist es nicht erforderlich, dass der Steuerpflichtige den Zeitpunkt
+des Zugangs der Annahmeerklärung nachweist, sondern es ist auf das
+Datum der Annahmeerklärung abzustellen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900040">2. Weitergeltung
+von BMF-Schreiben</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 90 </lxbase:randziffer><lxbase:a>Die BMF-Schreiben vom 22. August 2002 - <lxprod:doknr-verw linkend="HT0576754">IV C 4 - S 2221
+- 211/02</lxprod:doknr-verw> - (BStBl I S. 827), vom 15. Juni 2000 - <lxprod:doknr-verw linkend="HT0556749">IV C 4 - S 2221
+- 86/00</lxprod:doknr-verw> - (BStBl I S. 1118), vom 13. November 1985
+- <lxprod:doknr-verw linkend="HT0062756">IV B
+4 - S 2252 - 150/85</lxprod:doknr-verw> - (BStBl I S. 661) und vom 31.
+August 1979 - <lxprod:doknr-verw linkend="HT0050852">IV
+B 4 - S 2252 - 77/79</lxprod:doknr-verw> - (BStBl I S. 592) sind für Altverträge
+weiterhin anzuwenden. Das BMF-Schreiben vom 25. November 2004 -
+<lxprod:doknr-verw linkend="HT0578758">IV C 1
+- S 2252 - 405/04</lxprod:doknr-verw> - (BStBl I S. 1096) wird aufgehoben.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900041">3. Vorratsverträge</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 91 </lxbase:randziffer><lxbase:a>Im Abschluss so genannter Vorratsverträge ist regelmäßig
+ein steuerrechtlicher Gestaltungsmissbrauch im Sinne des § 42 AO
+zu sehen. Bei Versicherungsverträgen, die zwar noch im Jahr 2004
+abgeschlossen werden, bei denen der vereinbarte Versicherungsbeginn
+aber erst nach dem 31. März 2005 liegt, kommt steuerlich der Vertragsabschluss
+zu dem Zeitpunkt zustande, zu dem die Versicherung beginnt.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900042">4. Vertragsänderungen
+bei Altverträgen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 92 </lxbase:randziffer><lxbase:a>Ergänzend zu dem BMF-Schreiben vom 22. August 2002 - <lxprod:doknr-verw linkend="HT0576754">IV C 4 - S 2221
+- 211/02</lxprod:doknr-verw> - (BStBl I S. 827) gilt für Beitragserhöhungen
+bei Altverträgen Folgendes: Ob im Falle von bereits bei Vertragsabschluss
+vereinbarten Beitragsanpassungen in vollem Umfange ein Altvertrag
+vorliegt, hängt davon ab, ob die vereinbarten Beitragsanpassungen
+als rechtsmissbräuchlich einzustufen sind (BMF-Schreiben vom 22.
+August 2002, <lxprod:doknr-verw linkend="HT0576754">BStBl I S. 827</lxprod:doknr-verw>,
+Rz. 38). Ein Missbrauch rechtlicher Gestaltungsmöglichkeiten liegt
+insbesondere dann nicht vor, wenn die Beitragserhöhung pro Jahr
+20 v.H. des bisherigen Beitrags nicht übersteigt. Dabei ist es unbeachtlich,
+ob die Beitragserhöhung durch Anwendung eines Vomhundertsatzes oder
+eines vergleichbaren Dynamisierungsfaktors, bezifferter Mehrbeträge oder
+durch im Voraus festgelegte feste Beiträge ausgedrückt wird. Im
+Falle einer Beitragserhöhung pro Jahr um mehr als 20 v.H. des bisherigen
+Beitrags handelt es sich nicht um einen Missbrauch steuerlicher
+Gestaltungsmöglichkeiten,</lxbase:a></lxbase:a-randziffer><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>wenn die jährliche Beitragserhöhung nicht mehr als 250
+€ beträgt oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>wenn der Jahresbeitrag
+bis zum fünften Jahr der Vertragslaufzeit auf nicht mehr als 4.800
+€ angehoben wird und der im ersten Jahr der Vertragslaufzeit zu
+zahlende Versicherungsbeitrag mindestens 10 v.H. dieses Betrages
+ausmacht oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="• "><lxbase:a>wenn der erhöhte Beitrag
+nicht höher ist, als der Beitrag, der sich bei einer jährlichen Beitragserhöhung
+um 20 v.H. seit Vertragsabschluss ergeben hätte.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a-randziffer><lxbase:randziffer>Rz. 93 </lxbase:randziffer><lxbase:a>Ist die Erhöhung der Beitragsleistung als missbräuchlich
+einzustufen, sind die insgesamt auf die Beitragserhöhung entfallenden
+Vertragsbestandteile steuerlich als gesonderter neuer Vertrag zu
+behandeln. Der neue Vertrag gilt in dem Zeitpunkt als abgeschlossen, zu
+dem der auf den Erhöhungsbetrag entfallende Versicherungsbeginn
+erfolgt. Wenn die Beitragshöhe in den Kalenderjahren 2005 oder 2006
+gesenkt wird und nunmehr die o.a. Grenzen nicht überschritten werden,
+ist kein Gestaltungsmissbrauch und steuerlich kein gesonderter neuer
+Vertrag anzunehmen.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 94 </lxbase:randziffer><lxbase:a>Es wird nicht beanstandet, wenn das Versicherungsunternehmen
+als Einnahmen aus einem Vertrag, für den aufgrund einer Vertragsänderung
+nach Maßgabe des BMF-Schreibens vom 22. August 2002 (<lxprod:doknr-verw linkend="HT0576754">BStBl I S. 827</lxprod:doknr-verw>)
+für den "alten Vertrag" § 20 Abs. 1 Nr. 6 EStG a.F. und für den
+"neuen Vertrag" § 20 Abs. 1 Nr. 6 EStG n.F. Anwendung findet, insgesamt die
+rechnungsmäßigen und außerrechnungsmäßigen Zinsen zugrunde legt,
+wenn der Steuerpflichtige dem zugestimmt hat. § 20 Abs. 1 Nr. 6
+Satz 2 EStG n.F. ist für den "neuen Vertrag" entsprechend anzuwenden.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975900043">5. Vertragsschluss
+im Namen eines minderjährigen Kindes</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 95 </lxbase:randziffer><lxbase:a>Fälle, in denen Eltern für ihr minderjähriges Kind einen
+Versicherungsvertrag dergestalt vor dem 31. Dezember 2004 abschließen,
+dass das Kind Versicherungsnehmer wird, sind folgendermaßen zu behandeln:</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 96 </lxbase:randziffer><lxbase:a>Nach § 1643 Abs. 1 BGB in Verbindung mit § 1822 Nr. 5
+BGB bedarf ein Vertrag der Genehmigung des Familiengerichts, wenn
+durch den Vertrag der Minderjährige zu wiederkehrenden Leistungen
+verpflichtet wird und das Vertragsverhältnis länger als ein Jahr nach
+dem Eintritt der Volljährigkeit fortdauern soll. Enthält der Versicherungsvertrag
+eine Beitragszahlungsverpflichtung über den 19. Geburtstag hinaus,
+ist somit eine Genehmigung erforderlich. Wird das Kind volljährig,
+so tritt seine Genehmigung an die Stelle des Familiengerichts (§
+1829 Abs. 3 BGB). Solange keine Genehmigung erteilt wurde, ist das Rechtsgeschäft
+schwebend unwirksam (§ 1829 Abs. 1 Satz 1 BGB). Nach § 184 Abs.
+1 BGB wirkt eine Genehmigung auf den Zeitpunkt der Vornahme des
+Rechtsgeschäfts zurück (ex tunc). Bei Genehmigung gilt der Vertrag
+als noch in 2004 geschlossen. § 20 Abs. 1 Nr. 6 EStG ist in der
+bis zum 31.12.2004 geltenden Fassung anzuwenden.</lxbase:a></lxbase:a-randziffer><lxbase:a-randziffer><lxbase:randziffer>Rz. 97 </lxbase:randziffer><lxbase:a>Wird die Genehmigung nicht erteilt und erfolgt eine Rückabwicklung
+des Leistungsverhältnisses (§ 812 BGB), sind die in den Rückabwicklungsansprüchen
+enthaltenen Zinsanteile nach § 20 Abs. 1 Nr. 7 EStG zu versteuern.</lxbase:a></lxbase:a-randziffer><lxbase:a>Dieses Schreiben wird im Bundessteuerblatt Teil I veröffentlicht.
+Es steht ab sofort für eine Übergangszeit auf den Internet-Seiten
+des Bundesministeriums der Finanzen unter der Rubrik Steuern - Veröffentlichungen
+zu Steuerarten - Einkommensteuer - (<lxprod:www-verw linkend="http://www.bundesfinanzministerium.de" ziel-lizenzen="25 30 31">http://www.bundesfinanzministerium.de</lxprod:www-verw>)
+bereit.</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Bayern</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:newsrelevant datum="2006-01-12" /><lxbase:newsgebiete><lxbase:newsgebiet>einkommensteuer/lohnsteuer</lxbase:newsgebiet></lxbase:newsgebiete></lxbase:allgemeine-angaben></lxrvw:rspvwa>

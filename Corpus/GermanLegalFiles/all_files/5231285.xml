@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Erlass" dok-typ="Verwaltungsanweisung" dok-nummer="5231285" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Finanzministerium Mecklenburg-Vorpommern</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>IV 301 - S-1900 - 6/70</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-1900</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-1900 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-1900 | S</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Elwi-Lohn" id="21" /><lxbase:lizenz2 name="LOHN" id="42" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2008-01-22" ts="nein" /></lxbase:daten><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Fachinformation des Einkommensteuerreferates zum Jahressteuergesetz
+2008</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:1</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:1/1</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:1/3</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:1a</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:4/3</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:4f</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:10</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:10/1/1a</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:10/1/1b</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:10a</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:10a/5/2</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:10b</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:22</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:24a</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:32b</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:32d</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:35</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:35a</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:39</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:39e</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:45a</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:46</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:85/1</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:91/1/4</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:54</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2008" /></lxbase:jahre><lxbase:zitate><lxbase:aktiv-zitate><lxbase:lit-zitat>Brockmann / Hörster <lxprod:doknr-verw linkend="HT5227941">NWB 2 9641</lxprod:doknr-verw></lxbase:lit-zitat></lxbase:aktiv-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Jahressteuergesetz 2008;</lxbase:a><lxbase:a>Übersicht über die Änderungen im Einkommensteuergesetz</lxbase:a></lxbase:headline></lxbase:titel><lxbase:teaser><lxbase:a>FinMin Mecklenburg-Vorpommern: Jahressteuergesetz 2008; Übersicht über die Änderungen
+im Einkommensteuergesetz</lxbase:a></lxbase:teaser><lxbase:kapitel><lxbase:a>Das Jahressteuergesetz 2008 (JStG 2008) vom 20.12.2007
+ist am 28.12.2007 im BGBl Teil I S. 3150 ff. verkündet
+worden. Der Gesetzestext steht im AIS unter</lxbase:a><lxbase:a><lxbase:kursiv>Steuerfachliche Informationen</lxbase:kursiv> &gt; <lxbase:kursiv>Einkommensteuer + Nebengesetze</lxbase:kursiv> &gt; <lxbase:kursiv>Einkommensteuer</lxbase:kursiv> &gt; <lxbase:kursiv>Arbeitshilfen</lxbase:kursiv></lxbase:a><lxbase:a>zur Verfügung.</lxbase:a><lxbase:a>Das Gesetz enthält eine Vielzahl von Einzelregelungen
+sowohl inhaltlicher als auch redaktioneller Art. Im Folgenden werden
+die einkommensteuerlich bedeutsamen Änderungen kurz dargestellt.
+Die einkommensteuerrechtlichen Änderungen gelten vorbehaltlich
+abweichender Regelungen zu einzelnen Vorschriften ab dem VZ 2008.</lxbase:a><lxbase:a><lxbase:unterst>Literaturhinweis:</lxbase:unterst> Brockmann/Hörster: "Jahressteuergesetz
+2008" in NWB Nr. <lxbase:az normform="1/2-vom-07/01" manuell="nein">1/2 vom 07.01</lxbase:az>.2008, Fach 2 S.
+9641</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a><lxbase:fett>Steuerpflicht (§§ 1,
+1a EStG)</lxbase:fett></lxbase:a><lxbase:a><lxbase:unterst>Inlandsbegriff:</lxbase:unterst></lxbase:a><lxbase:a>§ 1 Abs. 1 Satz 2 EStG ist neu gefasst worden. Zur Bundesrepublik
+Deutschland rechnet danach im steuerlichen Sinne auch der der Bundesrepublik Deutschland
+zustehende Anteil im Festlandsockel, soweit dort Energie unter Nutzung
+erneuerbarer Energien erzeugt wird.</lxbase:a><lxbase:a>Die Definition des Inlands in § 1 Abs. 1 Satz 2 EStG
+ist vor allem für die Frage von Bedeutung, ob inländische
+Einkünfte im Sinne des § 49 EStG vorliegen. Nur
+inländische Einkünfte unterliegen bei beschränkt
+einkommensteuerpflichtigen Personen nach § 1 Abs. 4 EStG
+sowie bei Personen, die auf ihren Antrag nach § 1 Abs.
+3 EStG als unbeschränkt einkommensteuerpflichtig behandelt
+werden, der Einkommensteuer.</lxbase:a><lxbase:a><lxbase:unterst>Unbeschränkte Steuerpflicht auf Antrag</lxbase:unterst></lxbase:a><lxbase:a>§ 1 Abs. 3 EStG ist dahin gehend geändert worden,
+dass es bei einem Antrag auf Behandlung als unbeschränkt
+steuerpflichtige Person nicht mehr darauf ankommt, dass die nicht
+der deutschen Einkommensteuer unterliegenden Einkünfte
+nicht mehr als 6.136 € im Kalenderjahr betragen haben.
+Statt dessen wird mit Wirkung ab dem 01.01.2008 darauf abgestellt, dass
+die nicht der deutschen Einkommensteuer unterliegenden Einkünfte
+nicht den Grundfreibetrag (§ 32a Abs. 1 Satz 2 Nr. 1 EStG) übersteigen.
+Die 90 % - Grenze bleibt erhalten.</lxbase:a><lxbase:a>Die genannten Einkommensgrenzen sind wegen § 1a Abs.
+1 Nr. 2 Satz 3 EStG außerdem für die Zusammenveranlagung
+von Ehegatten von Bedeutung. Nach dieser Vorschrift ist für
+die Anwendung des § 26 Abs. 1 Satz 1 EStG hinsichtlich
+der Einkommensgrenzen auf die Einkünfte beider Ehegatten
+abzustellen.</lxbase:a><lxbase:a>Der EuGH hat jedoch mit Urteil vom 25. Januar 2007 in der Rechtssache <lxprod:doknr-verw linkend="HT5210413">C-329/05</lxprod:doknr-verw> (Meindl)
+festgestellt, dass es mit dem EG-Vertrag nicht vereinbar ist, wenn
+Einkünfte, die nicht der deutschen Einkommensteuer unterliegen,
+in die Berechnung der Einkommensgrenzen einbezogen werden, obwohl
+sie im anderen Mitgliedstaat nicht der Einkommensteuer unterliegen.
+Dieses Urteil wird mit der Einfügung von § 1 Abs.
+3 Satz 4 EStG umgesetzt, weil es nicht nur für § 1a
+Abs. 1 Nr. 2 EStG, sondern auch für die Anwendung von § 1
+Abs. 3 EStG von Bedeutung ist.</lxbase:a><lxbase:a>Deshalb müssen bei der nach dieser Vorschrift vorzunehmenden
+Berechnung der Einkommensgrenzen nunmehr solche ausländischen
+Einkünfte außer Betracht bleiben, die im Ausland
+nicht besteuert werden. Dies gilt jedoch nur, wenn vergleichbare
+inländische Einkünfte steuerfrei sind, weil die
+Berücksichtigung von nach deutschem Recht steuerpflichtigen
+Einkünften bei der Berechnung der Einkommensgrenzen weiterhin
+gerechtfertigt ist.</lxbase:a><lxbase:a>Der neue § 1 Abs. 3 Satz 4 EStG ist nach § 52
+Abs. 1a EStG n.F. für Staatsangehörige eines Mitgliedstaates
+der Europäischen Union oder eines Staates, auf den das
+Abkommen über den Europäischen Wirtschaftsraum
+anwendbar ist, ab 01.01.2008 anwendbar, auf Antrag auch für
+Veranlagungszeiträume vor 2008, soweit Steuerbescheide
+noch nicht bestandskräftig sind.</lxbase:a><lxbase:a><lxbase:unterst>Sonderregelungen für Staatsangehörige
+von EU/EWR-Staaten nach 1a EStG</lxbase:unterst></lxbase:a><lxbase:a>Gemäß § 1a Abs. 1 Nr. 1a EStG n.F.
+sind auf besonderen Verpflichtungsgründen beruhende Versorgungsleitungen
+(§ 10 Abs. 1 Nr. 1a EStG n.F.) auch dann als Sonderausgaben
+abziehbar, wenn der Empfänger nicht unbeschränkt
+einkommensteuerpflichtig ist.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a><lxbase:fett>	Abschreibung geringwertiger Wirtschaftsgüter
+(§ 4 Abs. 3 EStG)</lxbase:fett></lxbase:a><lxbase:a>Durch die Änderung wird klargestellt, dass die mit dem
+Unternehmensteuerreformgesetz 2008 (<lxbase:lit-fs normform="BGBl-2008-I-1912" manuell="nein">BGBl I S. 1912
+ff.</lxbase:lit-fs>) neu eingeführten Vorschriften über
+die Sofortabschreibung geringwertiger Wirtschaftsgüter
+bis zu einem Wert von 150 € (§ 6 Abs. 2 EStG) sowie über
+die Bildung und Auflösung eines Sammelpostens (§ 6
+Abs. 2a EStG) <lxbase:kursiv>auch für den Anwendungsbereich der
+Gewinnermittlung nach der Einnahmen-Überschussrechnung
+gelten</lxbase:kursiv> .</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a><lxbase:fett>Erwerbsbedingte Kinderbetreuungskosten
+(§ 4f EStG)</lxbase:fett></lxbase:a><lxbase:a>Ab dem 01.01.2008
+werden die Voraussetzungen für die steuerliche Berücksichtigung
+von Kinderbetreuungskosten modifiziert (§ 4f Abs. 5 EStG): Über
+die Aufwendungen muss der Steuerpflichtige zwar nach wie vor eine
+Rechnung erhalten und diese unbar beglichen haben. Die Vorlage von
+Rechnung und Zahlungsnachweis ist jedoch nicht mehr Voraussetzung
+für die steuerliche Berücksichtigung <lxbase:fett>(Belegverzicht).</lxbase:fett> In
+Zweifelsfällen bleibt es dem Finanzamt jedoch nach wie
+vor unbenommen, Rechnung und Zahlungsbeleg zu fordern.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a><lxbase:fett>Vermögensübertragung
+gegen Versorgungsleistungen und Vorsorgebeträge (§ 10
+EStG)</lxbase:fett></lxbase:a><lxbase:a><lxbase:unterst>10 Abs. 1 Nr. 1a EStG </lxbase:unterst></lxbase:a><lxbase:a>Durch die Neufassung von § 10 Abs. 1 Nr. 1a EStG (Unterteilung
+in Buchstaben a-c) wird das Rechtsinstitut der Vermögensübergabe
+gegen Versorgungsleistungen im Rahmen der vorweggenommenen Erbfolge
+auf seinen Kernbereich, d.h. die Übertragung von land-
+und forstwirtschaftlichen Betrieben, Gewerbebetrieben und von Betriebsvermögen
+Selbständiger in der Rechtsform des Einzelunternehmens
+oder der Personengesellschaft zurückgeführt.</lxbase:a><lxbase:a>Dabei wird auch die Übertragung von kleinen und mittelständischen
+Familienunternehmen in der Rechtsform der GmbH durch einen die Gesellschaft beherrschenden
+Gesellschafter-Geschäftsführer steuerlich begünstigt.
+Der zu übertragende Anteil muss mindestens 50 % betragen,
+und der Übernehmer muss die Tätigkeit fortführen.</lxbase:a><lxbase:a>Werden bei der Übertragung eines Betriebs der Land-
+und Forstwirtschaft auch Versorgungsleistungen erbracht, die auf
+den Wohnteil des land- und forstwirtschaftlichen Betriebs entfallen,
+können diese ebenfalls als Sonderausgaben nach § 10
+Abs. 1 Nr. 1a EStG abgezogen werden.</lxbase:a><lxbase:a>Bei Übertragung von Immobilienvermögen kommt
+ein Sonderausgabenabzug künftig nicht mehr in Betracht.</lxbase:a><lxbase:a>Aus Vereinfachungsgründen wird überdies auf
+die bisherige Unterscheidung zwischen Renten und dauernden Lasten
+verzichtet, so dass künftig die Versorgungsleistungen in
+vollem Umfang als Sonderausgaben abgezogen werden können
+und vom Empfänger der Leistung zu versteuern sind. Dadurch kann
+auf die bei Leibrenten bislang erforderliche Ermittlung des Ertragsanteils
+verzichtet werden.</lxbase:a><lxbase:a>Die Neufassung des § 10 Abs. 1 Nr. 1a EStG ist auf alle
+Versorgungsleistungen anzuwenden, die auf nach dem 31.12.2007
+vereinbarten Vermögensübertragungen beruhen, so
+dass die bisherige Regelung des § 10 Abs. 1 Nr. 1a EStG
+auf die volle Laufzeit der Altverträge anzuwenden ist.
+Für Versorgungsleistungen, die auf vor dem 01.01.2008 vereinbarten
+Vermögensübertragungen beruhen, gilt dies nur, wenn
+das übertragene Vermögen nur deshalb einen ausreichenden
+Ertrag bringt, weil ersparte Aufwendungen mit Ausnahme des Nutzungsvorteils eines
+zu eigenen Wohnzwecken vom Vermögensübernehmer
+genutzten Grundstücks zu den Erträgen des Vermögens
+gerechnet werden.</lxbase:a><lxbase:a>Der Sonderausgabenabzug von Versorgungsleistungen durch den Verpflichteten
+auf Grund der Neuregelung des § 10 Abs. 1 Nr. 1a EStG führt
+weiterhin zur Besteuerung dieser Leistungen beim Empfänger
+gemäß § 22 EStG nach Maßgabe
+des Korrespondenzprinzips. Aus Gründen der Klarstellung wird
+dies in § 22 Nr. 1 b EStG nunmehr ausdrücklich
+geregelt.</lxbase:a><lxbase:a><lxbase:unterst>10 Abs. 1 Nr. 1b EStG</lxbase:unterst></lxbase:a><lxbase:a>Leistungen auf Grund eines schuldrechtlichen Versorgungsausgleichs
+konnten unter bestimmten Voraussetzungen bisher nach § 10
+Abs. 1 Nr. 1a EStG als Sonderausgaben abgezogen werden. Dieser Sonderausgabenabzug
+soll auch nach der Beschränkung dieser Regelung auf das
+Rechtsinstitut der unentgeltlichen Vermögensübergabe
+erhalten bleiben. Leistungen vom Ausgleichsverpflichteten an den
+Ausgleichsberechtigten stellen einen Transfer von steuerbaren und
+steuerpflichtigen Einkünften dar, der sich auf die steuerliche
+Leistungsfähigkeit der Beteiligten auswirkt. Mit § 10
+Abs. 1 Nr. 1b EStG wird für diese Fälle eine eigenständige
+Regelung geschaffen, die berücksichtigt, in welchem Umfang
+die der Leistung zu Grunde liegenden Einnahmen (z. B. Leibrente
+nach § 22 EStG oder Einkünfte nach § 19
+EStG) der Besteuerung unterliegen. Das bedeutet: Liegt der Leistung
+z. B. eine nur mit dem Ertragsanteil steuerbare Leibrente des Ausgleichsverpflichteten
+zu Grunde, mindert sich die Steuerbemessungsgrundlage des Verpflichteten
+nur in Höhe des Ertragsanteils, und nur in dieser Höhe
+hat der Ausgleichsberechtigte die Leistung nach § 22 Nr.
+1c EStG zu versteuern. Soweit die Leistung hingegen auf Versorgungsbezügen
+beruht, die beim Ausgleichsverpflichteten nach § 19 EStG
+grundsätzlich in voller Höhe der Besteuerung unterliegen,
+kommt der Abzug als Sonderausgabe nach § 10 Abs. 1 Nr.
+1b EStG bei ihm in voller Höhe in Betracht. Korrespondierend
+hierzu hat der Ausgleichsberechtigte nach § 22 Nr. 1c EStG
+die Leistung in voller Höhe der Besteuerung zu unterwerfen.</lxbase:a><lxbase:a>Die neue Nummer 1b ist nach der allgemeinen Anwendungsregelung
+in § 52 Abs. 1 EStG in der Fassung des Unternehmensteuerreformgesetzes
+2008 erstmals für den Veranlagungszeitraum 2008 anzuwenden.</lxbase:a><lxbase:a><lxbase:unterst>Berücksichtigung von Rentenversicherungsbeiträgen
+bei geringfügigen Beschäftigungsverhältnissen</lxbase:unterst></lxbase:a><lxbase:a>Durch Ergänzungen in § 10 Abs. 1 Nr. 2 und § 10
+Abs. 3 EStG wird beim Sonderausgabenabzug von Vorsorgeaufwendungen
+die Berücksichtigung von Rentenversicherungsbeiträgen
+im Zusammenhang mit geringfügigen Beschäftigungsverhältnissen
+auf die Fälle beschränkt, in denen der Steuerpflichtige
+dies beantragt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a><lxbase:fett>	Änderungsvorschrift bei
+Vorlage einer korrigierten Bescheinigung (§ 10a Abs. 5
+Satz 2 EStG)</lxbase:fett></lxbase:a><lxbase:a>Soweit eine erteilte Bescheinigung, die vom Anbieter erst nach
+Bekanntgabe des Steuerbescheides aufgehoben oder korrigiert wird,
+kann der Steuerbescheid nunmehr insoweit noch geändert
+werden. In diesen Fällen war bislang eine Änderung
+der Steuerfestsetzung nach den Vorschriften der AO nicht möglich.</lxbase:a><lxbase:a>Nach <lxbase:unterst>§ 52 Abs. 24a EStG</lxbase:unterst> ist dies
+auch für Veranlagungszeiträume vor 2008 anzuwenden,
+soweit</lxbase:a><lxbase:a>- sich dies zugunsten des Steuerpflichtigen auswirkt oder</lxbase:a><lxbase:a>- die Steuerfestsetzung bei Inkrafttreten des JStG 2008 (29.12.2007)
+noch nichtunanfechtbar war oder unter dem Vorbehalt der Nachprüfung
+stand.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6."><lxbase:a><lxbase:fett>Zuwendungen (§ 10b EStG)</lxbase:fett></lxbase:a><lxbase:a>Durch das Gesetz zur weiteren Stärkung des bürgerschaftlichen
+Engagements (<lxbase:lit-fs normform="BGBl-2007-I-2332" manuell="nein">BGBl.
+I 2007 S. 2332</lxbase:lit-fs> ) wurde unter anderem geregelt, dass Zuwendungen
+vortragsfähig sind, soweit sie im Veranlagungszeitraum
+der Zuwendung nicht abgezogen werden können. Damit erlangt
+die Reihenfolge, in der die unterschiedlichen Arten von Sonderausgaben
+abzuziehen sind, Bedeutung. Es sind zunächst die Vorsorgeaufwendungen
+nach § 10 Abs. 3 und 4 EStG und nach § 10c EStG
+sowie der Verlustabzug nach § 10d EStG abzuziehen. Anschließend
+mindern die abziehbaren Zuwendungen den verbleibenden Restbetrag
+bis auf 0 Euro. Die darüber hinausgehenden abziehbaren
+Zuwendungen können nach § 10b Abs. 1 Satz 3 EStG
+in den nächsten Veranlagungszeitraum vorgetragen werden.</lxbase:a><lxbase:a>Nach der Gesetzesbegründung gilt diese Regelung bereits
+für nach
+dem 31.12.2006 geleistete Zuwendungen, da sie mit den Änderungen
+durch das Gesetz zur weiteren Stärkung des bürgerschaftlichen
+Engagements im Zusammenhang steht.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7."><lxbase:a><lxbase:fett>Besteuerung von Einkünften
+aus Versorgungsleistungen u.ä. (§ 22 EStG) (siehe
+auch Punkt 4)</lxbase:fett></lxbase:a><lxbase:a>Aufgrund der Neuregelung des § 10 Abs. 1 Nr. 1a und
+1b EStG sind die neuen Nummern 1b und 1c eingefügt worden.
+Die Korrespondenz zwischen der Abziehbarkeit der Versorgungsleistungen
+beim Vermögensübernehmer (Nr. 1b) bzw. der Leistungen
+auf Grund eines schuldrechtlichen Versorgungsausgleiches (Nr. 1c)
+beim Zahlungsverpflichteten und der Besteuerung beim Empfänger
+ist damit gesetzlich festgeschrieben.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="8."><lxbase:a><lxbase:fett>	Altersentlastungsbetrag (§ 24a
+EStG)</lxbase:fett></lxbase:a><lxbase:a>§ 24a EStG gewährt Steuerpflichtigen nach Vollendung
+des 64. Lebensjahres einen Altersentlastungsbetrag bei solchen Einkünften,
+die nicht durch den Versorgungsfreibetrag bzw. durch die Besteuerung
+lediglich des Ertragsanteils begünstigt werden.</lxbase:a><lxbase:a>Zu den begünstigten Einkünften, die deshalb
+bei der Bemessung des Altersentlastungsbetrags außer Betracht
+bleiben sollen, zählen auch die Leistungen eines Pensionsfonds
+gemäß § 22 Nr. 5 Satz 1 EStG, bei denen
+auf Grund des § 52 Abs. 34c EStG der Versorgungsfreibetrag
+des § 19 Abs. 2 EStG Anwendung findet, sowie die sonstigen
+Einkünfte nach § 22 Nr. 5 Satz 2 Buchstabe a EStG
+(bis 31.12.2006: § 22 Nr. 5 Satz 2 EStG) die der Ertragsanteilsbesteuerung
+unterliegen. Eine entsprechende Regelung enthielt bereits das BMF-Schreiben
+vom 23.05.2007 (<lxprod:doknr-verw linkend="HT5230720">BStBl.
+I S. 486</lxprod:doknr-verw>). Durch die Änderung werden diese Einkünfte
+in § 24a Satz 2 EStG nunmehr ausdrücklich aufgezählt.</lxbase:a><lxbase:a>Die Änderung ist erstmals für den VZ 2008 anzuwenden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="9."><lxbase:a><lxbase:fett>	Progressionsvorbehalt (§ 32b
+EStG)</lxbase:fett></lxbase:a><lxbase:a>In § 32b Absatz 1 Nr. 5 EStG wurden die Wörter "wenn
+deren Summe positiv ist" gestrichen. Damit können
+nunmehr auch negative Einkünfte in den Progressionsvorbehalt
+mit einbezogen werden. Der Gesetzgeber reagiert damit auf das EuGH
+- Urteil "Lakebrink" (Rs. C - 182/06).</lxbase:a><lxbase:a>Nach diesem Urteil steht Art. 39 EG einer nationalen Regelung
+entgegen, die einem Gemeinschaftsangehörigen, der in dem
+Mitgliedstaat, in dem er den wesentlichen Teil seiner steuerpflichtigen
+Einkünfte erzielt, gebietsfremd ist, keinen Anspruch darauf
+einräumt, dass negative Einkünfte, die aus einem
+anderen Mitgliedstaat stammen, bei der Bestimmung des auf seine Einkünfte
+anwendbaren Steuersatzes berücksichtigt werden, während
+ein Gebietsansässiger die Berücksichtigung der
+negativen Einkünfte verlangen kann.</lxbase:a><lxbase:a>Die Änderung ist erstmals für den Veranlagungszeitraum
+2008 anzuwenden. Auf Antrag ist die Neuregelung bei Staatsangehörigen
+eines Mitgliedstaates der EU/EWR, die hier ihren Wohnsitz
+oder gewöhnlichen Aufenthalt haben, auch für Veranlagungszeiträume
+vor 2008 anzuwenden, soweit die Steuerbescheide noch nicht bestandskräftig
+sind.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="10."><lxbase:a><lxbase:fett>Gesonderter Steuertarif für
+Einkünfte aus Kapitalvermögen mit Veranlagung
+in bestimmten Fällen (§ 32d EStG)</lxbase:fett></lxbase:a><lxbase:a>Im Zuge der Einführung der Abgeltungssteuer ist eine
+neue Tarifvorschrift eingeführt worden, die ab 01.01.2009
+anzuwenden ist.</lxbase:a><lxbase:a>Diese neue Vorschrift ist erstmals im Unternehmensteuerreformgesetz
+2008 vom 14.08.2007 (<lxbase:lit-fs normform="BGBl-2007-I-1912" manuell="nein">BGBl Teil I S. 1912</lxbase:lit-fs>) enthalten und
+durch das Jahressteuergesetz 2008 nochmals modifiziert worden.</lxbase:a><lxbase:a>Kapitaleinkünfte von Privatanlegern unterliegen künftig
+einem einheitlichen Steuersatz von 25 % (§ 32d
+Abs. 1 EStG i.V.m. § 43a Abs. 1 Nr. 1 EStG).</lxbase:a><lxbase:a>Die Einkommensteuer ist mit dem Kapitalertragsteuerabzug grundsätzlich abgegolten.
+Die Abgeltungswirkung tritt nicht ein, wenn</lxbase:a><lxbase:a>	- die Kapitalerträge zu den Einkünften aus
+Land- und Forstwirtschaft, Gewerbebetrieb, selbständiger
+Arbeit oder Vermietung und Verpachtung gehören</lxbase:a><lxbase:a>oder</lxbase:a><lxbase:a>- bestimmte Ausnahmetatbestände vorliegen, die Abgeltungssteuer
+gilt z.B. nicht bei bestimmten in § 32d Abs. 2 EStG genannten
+Kapitalerträgen unter bestimmten Voraussetzungen, z.B.
+bei sog. Fällen von "Back-to-back-Finanzierungen" oder
+wenn ein Zusammenhang besteht zwischen der Kapitalanlage und der
+Kapitalüberlassung. Ein Zusammenhang zwischen Kapitalanlage
+und Kapitalüberlassung besteht nach § 32d Abs.
+1 Nr. 1 Satz 1 Buchstabe c Satz 3 EStG dann, wenn die Kapitalanlage
+und die Kapitalüberlassung auf einem einheitlichen Plan
+beruhen.</lxbase:a><lxbase:a>Die Abgeltungswirkung tritt auch nicht ein bei bestimmten Lebens-
+und Rentenversicherungen i.S.v. § 20 Abs. 1 Nr. 6 Satz
+2 EStG. Hier gilt der progressive Steuertarif. Es dürfen
+jedoch auch Werbungskosten angesetzt sowie die allgemeinen Verlustausgleichs-
+und Verlustverrechnungsregeln angewendet werden.</lxbase:a><lxbase:a>Die neue Tarifvorschrift sieht sowohl Pflicht- als auch Wahlveranlagungstatbestände
+vor:</lxbase:a><lxbase:a>	- Pflichtveranlagung nach § 32d Abs. 3 EStG bei Kapitalerträgen,
+die nicht der Kapitalertragsteuer unterlegen haben (z.B. Auslandserträge),
+aber hier 25 % Kapitalertragsteuer auf die veranlagten
+Kapitalerträge - es erhöht sich die festzusetzende
+ESt auf die übrigen Einkünfte um die 25 %ige
+Kapitalertragsteuer für die Kapitalerträge.</lxbase:a><lxbase:a>- Wahlveranlagung nach § 32d Abs. 4 EStG für
+Kapitalerträge, die bereits der Kapitalertragsteuer unterlegen
+haben. Unter Berücksichtigung der Tatbestände,
+die beim Kapitalertragsteuerabzug nicht berücksichtigt
+werden konnten (z.B. nicht vollständig ausgeschöpfter
+Sparer - Pauschbetrag) wird hier auf die Kapitalerträge
+eine Kapitalertragsteuer von 25 % erhoben. Gegebenenfalls
+kommt es unter Anrechnung bereits gezahlter KapESt zur Erstattung.</lxbase:a><lxbase:a>- Wahlveranlagung nach § 32d Abs. 6 EStG für
+Steuerpflichtige, deren Kapitalerträge dem Steuerabzug
+unterlegen haben, deren persönlicher Steuersatz aber niedriger
+ist als 25 %. Dann kommt es zum Ansatz des niedrigeren
+Steuersatzes. Eine Günstigerprüfung wird durchgeführt.
+Nach Abs. 6 können die Kapitaleinkünfte abweichend
+von den Vorschriften des § 32d EStG den allgemeinen Regelungen
+zur Ermittlung der tariflichen Einkommensteuer unterworfen werden.
+Das Wahlrecht kann nur einheitlich für alle Kapitalerträge
+ausgeübt werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="11."><lxbase:a><lxbase:fett>	Steuerermäßigung
+bei Einkünften aus Gewerbebetrieb (§ 35 EStG)</lxbase:fett></lxbase:a><lxbase:a>Nach dem BFH-Urteil vom 27.09.2006 (<lxprod:doknr-verw linkend="HT5004109">BStBl. II 2007
+S. 694</lxprod:doknr-verw> ) sind Verluste für die Ermittlung des
+Ermäßigungshöchstbetrages vorrangig mit
+nicht begünstigten Einkünften zu verrechnen.</lxbase:a><lxbase:a>Diese Entscheidung führte dazu, dass das BMF-Schreiben
+vom 12.01.2007 (<lxprod:doknr-verw linkend="HT5230523">BStBl.
+I S. 108</lxprod:doknr-verw>) durch das BMF-Schreiben vom 19.09.2007 (<lxprod:doknr-verw linkend="HT5231021">BStBl. I S.
+701</lxprod:doknr-verw>) ersetzt wurde.</lxbase:a><lxbase:a>Als Reaktion auf das o. g. Urteil wurde eine Verhältnisrechnung
+eingeführt, nach der der auf die gewerblichen Einkünfte
+entfallende Anteil (= Ermäßigungshöchstbetrag)
+an der (um bestimmte Anrechnungsbeträge geminderten) tariflichen
+Einkommensteuer dem Anteil der Summe der positiven gewerblichen
+Einkünfte an der Summe aller positive Einkünfte
+entspricht.</lxbase:a><lxbase:a>Verluste führen damit im Ergebnis auch zu einer anteiligen
+Minderung des Ermäßigungshöchstbetrages.</lxbase:a><lxbase:a>Zudem wird die Verwaltungsauffassung, dass Gewinne, die nicht
+der Gewerbesteuer unterliegen, nicht nach § 35 EStG begünstigt
+sind (vgl. Rz. 10 des BMF-Schreibens vom 19.09.2007), gesetzlich
+festgeschrieben.</lxbase:a><lxbase:a>Die Neuregelung gilt ab VZ 2008; Rz. 12 - 15 des BMF-Schreibens
+vom 19.09.2007 sind damit ab VZ 2008 überholt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="12."><lxbase:a><lxbase:fett>Steuerabzug für haushaltsnahe
+Beschäftigungsverhältnisse, Dienstleistungen und
+Handwerkerleistungen (§ 35a EStG)</lxbase:fett></lxbase:a><lxbase:a>Bisher war Voraussetzung, dass die Aufwendungen durch Vorlage
+einer Rechnung und die Zahlung auf das Konto des Erbringers der
+haushaltsnahen Dienstleistung, der Handwerkerleistung oder der Pflege-
+oder Betreuungsleistung durch Beleg des Kreditinstituts im Rahmen
+der Einkommensteuererklärung nachgewiesen werden. Über
+diese Nachweise muss der Bürger zwar weiterhin verfügen,
+sie nun aber ab dem <lxbase:fett>Veranlagungszeitraum 2008</lxbase:fett> (§ 52
+Abs. 1 EStG) nicht mehr zwingend der Einkommensteuererklärung beifügen
+( <lxbase:fett>Belegverzicht</lxbase:fett> ).</lxbase:a><lxbase:a>Stattdessen werden lediglich die Angaben in der Steuererklärung
+abgefragt, die bei Bedarf im Rahmen der allgemeinen Grundsätze
+vom Finanzamt nachgeprüft werden können. Mit dieser
+Vereinfachung sollen vor allem Hemmnisse bei der elektronischen
+Steuererklärung abgebaut werden.</lxbase:a><lxbase:a>Zudem wird für alle noch nicht bestandskräftigen
+Fälle (§ 52 Abs. 50b Satz 3 EStG) die Steuerbegünstigung
+von inländischen Haushalten auf in der Europäischen
+Union oder dem Europäischen Wirtschaftsraum liegende Haushalte
+ausgeweitet.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="13."><lxbase:a><lxbase:fett>Lohnsteuerkarte (§ 39 EStG)</lxbase:fett></lxbase:a><lxbase:a>Die Gemeinden haben letztmalig für das Kalenderjahr
+2010 Lohnsteuerkarten auszustellen und zu übermitteln.
+Auf den Lohnsteuerkarten 2009 und 2010 ist jeweils neben den bisherigen
+persönlichen Daten und den Lohnsteuerabzugsdaten die Identifikationsnummer
+des Arbeitnehmers einzutragen. Die Identifikationsnummer des Arbeitnehmers
+soll zukünftig die eTIN ablösen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="14."><lxbase:a><lxbase:fett>Elektronische Lohnsteuerabzugsmerkmale
+(§ 39e EStG)</lxbase:fett></lxbase:a><lxbase:a>Auf das Lohnsteuerabzugsverfahren kann im Interesse gesicherter
+und regelmäßiger Steuereinnahmen auch künftig
+nicht verzichtet werden. Bei Gemeinden und Finanzämtern
+sind zwischenzeitlich die Daten elektronisch verfügbar.
+Mit einem durchgängig elektronischen Verfahren entfällt
+der erhebliche Verwaltungsaufwand, der mit der jährlichen
+Herstellung, Ausstellung und Übermittlung der Lohnsteuerkarten
+verbunden ist. Ziel ist es, ab 2011 den Arbeitgebern die Lohnsteuerabzugsmerkmale
+für ihre Arbeitnehmer in elektronischer Form zur Verfügung
+zu stellen (ElsterLohn II). ElsterLohn II baut auf der bereits eingeführten
+elektronischen Lohnsteuerbescheinigung (ElsterLohn I) auf.</lxbase:a><lxbase:a>Das Verfahren ElsterLohn II modernisiert den bisherigen Verfahrensweg von
+der Ausstellung der Lohnsteuerkarte durch die Gemeinde bis zur Übergabe
+an den Arbeitnehmer und weiter an den Arbeitgeber. Der § 39e
+EStG bildet die Grundlage für das geänderte Verfahren
+und regelt die wesentlichen Punkte, die für den Aufbau
+des neuen Verfahrens erforderlich sind. Als Folge der gesetzgeberischen
+Grundentscheidung zur Einführung der elektronischen Lohnsteuerabzugsmerkmale
+ist es erforderlich, eine größere Zahl von Einzelvorschriften
+zum Steuerabzug vom Arbeitslohn (§§ 38 ff. EStG) formal
+und inhaltlich anzupassen, weil diese bisher auf der Lohnsteuerkarte in
+klassischer Form aufbauen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="15."><lxbase:a><lxbase:fett>Anmeldung und Bescheinigung der
+Kapitalertragsteuer (§ 45a EStG)</lxbase:fett></lxbase:a><lxbase:a>Der Bundesrat hatte im Rahmen seiner Stellungnahme zum Entwurf
+eines Unternehmensteuerreformgesetzes 2008 (BT-Drs. 16/5377)
+vorgeschlagen, eine Rechtsgrundlage für die elektronische Übermittlung
+der Kapitalertragsteueranmeldung zu schaffen. Mit der Neufassung
+des § 45a Abs. 1 EStG wird dieser Vorschlag umgesetzt.</lxbase:a><lxbase:a>Die Anmeldung der einbehaltenen Kapitalertragsteuer ist dem Finanzamt nach
+amtlich vorgeschriebenem Vordruck auf elektronischem Weg nach Maßgabe
+der Steuerdaten-Übermittlungsverordnung zu übersenden.
+Die Rechtsgrundlage für die elektronische Übermittlung
+der Kapitalertragsteuer - Anmeldungen ist damit geschaffen worden.</lxbase:a><lxbase:a>Anwendungsvorschrift ist die allgemeine Anwendungsregelung des § 52a Abs.
+1 EStG. Nach dieser allgemeinen Vorschrift sind die Regelungen des EStG
+beim Steuerabzug vom Kapitalertrag erstmals auf Kapitalerträge
+anzuwenden, die dem Gläubiger nach dem 31.12.2008
+zufließen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="16."><lxbase:a><lxbase:fett>	Veranlagung bei Bezug von Einkünften
+aus nichtselbständiger Arbeit (§ 46 EStG)</lxbase:fett></lxbase:a><lxbase:a>Mit der Aufhebung der Wörter "bis zum Ablauf
+des auf den Veranlagungszeitraum folgenden zweiten Kalenderjahres" im § 46
+Abs. 2 Nr. 8 Satz 2 EStG entfällt die zweijährige
+Frist für Antragsveranlagungen. Die Änderung ist
+erstmals für Anträge auf Veranlagung ab dem Veranlagungszeitraum 2005
+anzuwenden sowie in Fällen, in denen am 28.12.2007 über
+einen Antrag auf Veranlagung noch nicht bestandskräftig
+entschieden ist (§ 52 Abs. 55j EStG).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="17."><lxbase:a><lxbase:fett>Änderungsvorschrift in
+Fällen des Sonderausgabenabzuges nach § 10a EStG
+(§ 91 Abs. 1 Satz 4 EStG)</lxbase:fett></lxbase:a><lxbase:a>Die Neufassung des § 91 Abs. 1 Satz 4 EStG stellt nunmehr
+klarstellend eine <lxbase:unterst><lxbase:kursiv>spezialgesetzliche Änderungsnorm</lxbase:kursiv></lxbase:unterst> i.S.
+des § 172 Abs. 1 Satz 1 Nr. 2 Buchst. d AO für
+alle Fälle dar, in denen die Überprüfung
+eine Abweichung von dem in der Steuerfestsetzung berücksichtigten
+Sonderausgabenabzug nach § 10a EStG oder der gesonderten
+Feststellung nach § 10a Abs. 4 EStG ergeben hat. Die Änderung
+ist nach § 52 Abs. 65 EStG rückwirkend <lxbase:unterst><lxbase:kursiv>ab
+dem Veranlagungszeitraum 2002</lxbase:kursiv></lxbase:unterst> anzuwenden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="18."><lxbase:a><lxbase:fett>Erweiterung der von Notaren zu übersendenden
+Urkunden (§ 54 EStDV)</lxbase:fett></lxbase:a><lxbase:a>In § 54 Abs. 1 wurde folgender Satz angefügt: " <lxbase:kursiv>Gleiches
+gilt für Dokumente, die im Rahmen einer Anmeldung einer
+inländischen Zweigniederlassung einer Kapitalgesellschaft
+mit Sitz im Ausland zur Eintragung in das Handelsregister diesem
+zu übersenden sind</lxbase:kursiv> ."</lxbase:a><lxbase:a>Es werden vermehrt Kapitalgesellschaften im Ausland gegründet
+(insbesondere "limited by shares"), deren ausschließliche
+wirtschaftliche Tätigkeit jedoch im Inland stattfindet.
+Mit der Änderung wird sichergestellt, dass die Finanzbehörden
+von der inländischen Geschäftstätigkeit
+Kenntnis erlangen, so dass eine Gleichbehandlung mit im Inland gegründeten
+Kapitalgesellschaften erfolgen kann. Zur Besteuerung der "limited
+by shares" hat das Referat 302 in Fachberatungen sowie
+Fachbeiträgen im AIS bereits Stellung genommen.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:unterst>Zusatz:</lxbase:unterst></lxbase:a><lxbase:a><lxbase:fett>Änderung des Einkommensteuergesetzes durch Artikel
+5 des Gesetzes zur Förderung der zusätzlichen
+Altersvorsorge und zur Änderung des Dritten Buches Sozilagesetzbuch
+vom 10.12.2007 (<lxprod:doknr-verw linkend="HT0173535">BGBl
+I S. 2838</lxprod:doknr-verw>):</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Änderung der Kinderzulage (§ 85 Abs.
+1 EStG)</lxbase:fett></lxbase:a><lxbase:a>Die jährliche Kinderzulage erhöht sich für
+alle nach dem
+31.12.2007 geborene Kinder auf 300 Euro.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Lohnsteuer</lxbase:rthema><lxbase:rthema>Außensteuerrecht</lxbase:rthema><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Elwi-lohn</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Mecklenburg-Vorpommern</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:newsrelevant datum="2008-02-20" /><lxbase:newsgebiete><lxbase:newsgebiet>einkommensteuer/lohnsteuer</lxbase:newsgebiet></lxbase:newsgebiete><lxbase:newsletterlex><lxbase:newsletterrelevant relevant="ja" ausgabe="200808" /><lxbase:newsletter-text><lxbase:a>Das Jahressteuergesetz 2008 (JStG 2008) vom 20.12.2007 ist am
+28.12.2007 im BGBl Teil I S. 3150 ff. verkündet worden.
+Das Gesetz enthält eine Vielzahl von Einzelregelungen sowohl
+inhaltlicher als auch redaktioneller Art. Das Finanzministerium
+Mecklenburg-Vorpommern stellt in einer Fachinformation die einkommensteuerlich
+bedeutsamen Änderungen kurz dar. </lxbase:a></lxbase:newsletter-text></lxbase:newsletterlex></lxbase:allgemeine-angaben><lxbase:interne-angaben><lxbase:quelle>JURD</lxbase:quelle></lxbase:interne-angaben></lxrvw:rspvwa>

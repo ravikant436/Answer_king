@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" dok-nummer="5236948" dok-art="Schreiben (koordinierter Ländererlass)" dok-typ="Verwaltungsanweisung" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////bk.datev.de/dfs/Entwicklung/ITEM/Redaktionsueberwachung/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:externe-dateien><lxbase:datei name="a5236948.pdf" /></lxbase:externe-dateien><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bundesministerium
+der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>IV C 6 - S-2142 / 19 / 10001 :010</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2142</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2142 A - 011 - St 27</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2142 | S</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="INFO-KANZLEI" id="30" /><lxbase:lizenz2 name="LEXPUB" id="90" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2019-09-27" ts="nein" /><lxbase:datum normdat="2019-10-01" ts="ja" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BStBl-2019-I-0950</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DB-2019-2267</lxbase:fs-kuerzel><lxbase:fs-kuerzel>BB-2019-2453</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:redakt><cals:tabelle frame="all"><cals:tgroup cols="2" tgroupstyle="DATEVTabelle_Standard" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="75*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a><lxbase:fett>Bibliographie
+der inhaltlich entsprechenden Verwaltungsanweisungen:</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Hessen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Frankfurt am Main S-2142 A - 011
+- St 27 vom 01.10.2019</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStDV:60/4</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2019" /></lxbase:jahre><lxbase:zitate><lxbase:passiv-zitate><lxbase:lit-zitat>Deubner Verlag <lxprod:doknr-verw linkend="HT0881934">StX
+2019 695</lxprod:doknr-verw></lxbase:lit-zitat></lxbase:passiv-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Standardisierte Einnahmenüberschussrechnung
+nach § 60 Absatz 4 EStDV;</lxbase:a><lxbase:a>Anlage EÜR 2019</lxbase:a></lxbase:headline></lxbase:titel><lxbase:teaser><lxbase:a>BMF: Standardisierte Einnahmenüberschussrechnung nach
+§ 60 Absatz 4 EStDV; Anlage EÜR 2019</lxbase:a></lxbase:teaser><lxbase:kapitel><lxbase:a>Unter Bezugnahme auf das Ergebnis der
+Erörterungen mit den obersten Finanzbehörden der Länder gebe ich
+die Vordrucke der Anlage EÜR sowie die Vordrucke für die Sonder- und
+Ergänzungsrechnungen für Mitunternehmerschaften und die dazugehörigen
+Anleitungen für das Jahr 2019 bekannt.</lxbase:a><lxbase:a>Der amtlich vorgeschriebene Datensatz, der nach § 60 Absatz
+4 Satz 1 Einkommensteuer-Durchführungsverordnung in Verbindung mit
+§ 87a Absatz 6 der Abgabenordnung (AO) durch Datenfernübertragung
+authentifiziert zu übermitteln ist, wird nach § 87b Absatz 2 AO
+im Internet unter <lxprod:www-verw linkend="http://www.elster.de" ziel-lizenzen="25 30 31">www.elster.de</lxprod:www-verw> zur
+Verfügung gestellt. Für die authentifizierte Übermittlung ist ein
+Zertifikat notwendig. Dieses wird nach Registrierung unter <lxprod:www-verw linkend="http://www.elster.de" ziel-lizenzen="25 30 31">www.elster.de</lxprod:www-verw> ausgestellt.
+Der Registrierungsvorgang kann bis zu zwei Wochen in Anspruch nehmen.Die
+Anlage AVEÜR sowie bei Mitunternehmerschaften die entsprechenden
+Anlagen sind notwendiger Bestandteil der Einnahmenüberschussrechnung.
+Übersteigen die im Wirtschaftsjahr angefallenen Schuldzinsen, ohne
+die Berücksichtigung der Schuldzinsen für Darlehen zur Finanzierung
+von Anschaffungs- oder Herstellungskosten von Wirtschaftsgütern
+des Anlagevermögens, den Betrag von 2.050 Euro, sind bei Einzelunternehmen
+die in der Anlage SZ (Ermittlung der nicht abziehbaren Schuldzinsen)
+enthaltenen Angaben ebenfalls an die Finanzverwaltung zu übermitteln.</lxbase:a><lxbase:a>Auf Antrag kann das Finanzamt entsprechend § 150 Absatz
+8 der AO in Härtefällen auf die Übermittlung der standardisierten
+Einnahmenüberschussrechnung nach amtlich vorgeschriebenem Datensatz
+durch Datenfernübertragung verzichten. Für die Einnahmenüberschussrechnung
+sind in diesen Fällen Papiervordrucke zur Anlage EÜR zu verwenden.</lxbase:a><lxbase:a>Dieses Schreiben wird mit den Anlagen im Bundessteuerblatt
+Teil I veröffentlicht.</lxbase:a><lxbase:a>Anlagen: <lxprod:extern-verw linkart="View" zieladresse="a5236948.pdf" linkend="" filesize="988761">anzeigen / drucken</lxprod:extern-verw> oder <lxprod:extern-verw linkart="Save" zieladresse="a5236948.pdf" linkend="" filesize="988761">speichern (pdf-Datei
+966 kb)</lxprod:extern-verw></lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>LEXPUB</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:newsrelevant relevant="top" datum="2019-10-01" uhrzeit="12:00:00" /><lxbase:newsgebiete><lxbase:newsgebiet>Einkommensteuer/Lohnsteuer</lxbase:newsgebiet></lxbase:newsgebiete><lxbase:newsletterlex><lxbase:newsletterrelevant ausgabe="201940" relevant="ja" /><lxbase:newsletter-text><lxbase:a>Das BMF gibt die Vordrucke der Anlage EÜR sowie die Vordrucke
+für die Sonder- und Ergänzungsrechnungen für Mitunternehmerschaften
+und die dazugehörigen Anleitungen für das Jahr 2019 bekannt.</lxbase:a></lxbase:newsletter-text></lxbase:newsletterlex></lxbase:allgemeine-angaben></lxrvw:rspvwa>

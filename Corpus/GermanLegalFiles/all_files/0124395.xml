@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0124395" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Düsseldorf</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2230 A - St 111</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2230</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="LOHN" id="42" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1995-01-23" /></lxbase:daten><lxbase:fundstellen><lxbase:nicht-normiert><lxbase:fs-kuerzel>EStK §§ 13,
+13a EStG Fach 1 Nr. 1001</lxbase:fs-kuerzel></lxbase:nicht-normiert></lxbase:fundstellen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:13</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:13a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:4/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:4/3</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:4a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:6c</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7b</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7c</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7d</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7g</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7h</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7i</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7k</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:10/1/1a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:34e</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:52/15</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:12</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:14</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:16</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:124a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:125</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:125a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:127</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:130a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:135</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>BewG:22</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>BewG:36</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>BewG:41</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>BewG:44</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:141</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:150</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:162</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:164</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:175/1/2</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:52</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:76</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:82a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:82g</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1995" /><lxbase:jahr jahr="1993" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Einkommensteuerveranlagung der Land- und Forstwirte für
+den Veranlagungszeitraum 1993</lxbase:a></lxbase:headline></lxbase:titel><lxbase:kapitel><lxbase:ueberschrift id="D012439500001">1. Allgemeines</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die Veranlagungsverfügungen
+für Land- und Forstwirte werden jeweils in vollem Wortlaut
+herausgegeben. Änderungen gegenüber dem
+bisherigen Text sind - mit Ausnahme von rein redaktionellen Änderungen
+- durch senkrechte Randlinien gekennzeichnet.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D012439500002">2. Ermittlung des Gewinns
+aus Land- und Forstwirtschaft nach Durchschnittssätzen
+(§ 13a EStG)</lxbase:ueberschrift><lxbase:a eingerueckt="nein">2.1 Anwendungsbereich</lxbase:a><lxbase:a eingerueckt="nein">Ergänzend zu R 127 EStR 1993
+und Nr. 2 des Einführungsschreibens des BMF vom 27. 3.
+1981 (<lxprod:doknr-verw linkend="HT0057535">BStBl
+I 1981, 282</lxprod:doknr-verw>) wird auf folgendes hingewiesen.</lxbase:a><lxbase:a eingerueckt="nein">2.1.1 Zu berücksichtigende
+Flächen</lxbase:a><lxbase:a eingerueckt="nein">Es sind die selbstbewirtschafteten eigenen,
+zugepachteten und auf Grund öffentlicher Förderprogramme
+stillgelegten Flächen zu berücksichtigen (R 124a
+Abs. 3 EStR 1993).</lxbase:a><lxbase:a eingerueckt="nein">2.1.2 Zu § 13a Abs. 1 Nr. 2
+EStG (Ausgangswertgrenze)</lxbase:a><lxbase:a eingerueckt="nein">Maßgebend ist der nach § 13a
+Abs. 4 EStG ermittelte Ausgangswert. Viehzuschläge
+können daher so lange nicht berücksichtigt werden,
+als sie nicht von der Bewertungsstelle zum Gegenstand einer Wertfortschreibung
+nach §§ 41 i. V. mit 22 Abs. 1 Nr. 1 BewG gemacht
+worden sind. Etwas anderes gilt nur dann, wenn die Voraussetzungen
+des § 13a Abs. 4 Nr. 1 Satz 4 EStG erfüllt sind.</lxbase:a><lxbase:a eingerueckt="nein">2.1.3 Zu § 13a Abs. 1 Nr. 3
+EStG (Tierbestandsgrenze)</lxbase:a><lxbase:a eingerueckt="nein">Bei Prüfung der VE-Grenzen
+des § 13a Abs. 1 Nr. 3 EStG ist R 124a EStR 1993 entsprechend
+anzuwenden. Voraussetzung für den Wegfall der Durchschnittssatzgewinnermittlung
+ist danach, daß die Zahl der VE nachhaltig die Grenzen
+des § 13a Abs. 1 Nr. 3 EStG übersteigt. Zum
+Begriff der Nachhaltigkeit wird auf R 135 Abs. 2 EStR 1993 hingewiesen. Danach gilt
+folgendes:</lxbase:a><lxbase:a eingerueckt="nein">Im Falle der allmählichen Aufstockung
+der Tierbestände kommt es darauf an, ob die in VE umgerechneten
+Tierbestände über die drei vorhergehenden Wirtschaftsjahre
+hinweg jeweils über den Grenzen des § 13a Abs.
+1 Nr. 3 EStR gelegen haben. Ist dies der Fall, so sind
+vom Beginn des vierten Wirtschaftsjahres an die Voraussetzungen
+des § 13a Abs. 1 Nr. 3 EStG nicht mehr gegeben.</lxbase:a><lxbase:a eingerueckt="nein">Werden die Tierbestände hingegen
+in einem Zug z. B. im Zusammenhang mit einer Ausweitung der Stallkapazitäten
+erheblich über die zulässigen Höchstgrenzen
+hinaus aufgestockt, so daß auch in den folgenden Wirtschaftsjahren
+mit einem Überschreiten der Grenzen zu rechnen ist, so
+entfallen die Voraussetzungen des § 13a Abs. 1 Nr. 3 EStG
+vom Zeitpunkt des erstmaligen Überschreitens der Höchstgrenzen
+an. Bei der Ermittlung der Tierbestände sind auch fremde
+Tiere zu berücksichtigen (BFH, Urteil vom 23. 9. 1988, 
+<lxprod:doknr-verw linkend="HT0086184">BStBl II 1989, 111</lxprod:doknr-verw>).</lxbase:a><lxbase:a eingerueckt="nein">Die nach §§ 13a Abs.
+1 Nr. 3, 13 Abs. 1 Nr. 1 EStG höchstzulässigen,
+in VE umgerechneten Tierbestände können der als
+Anlage 1 beigefügten Übersicht entnommen werden.</lxbase:a><lxbase:a eingerueckt="nein">2.2 Gewinnermittlung</lxbase:a><lxbase:a eingerueckt="nein">Das Schema für die Ermittlung
+des Gewinns nach § 13a Abs. 3 bis 8 EStG ergibt sich aus
+dem Vordruck "Anlage ESt 2 L/3 L - Gewinnermittlung
+nach § 13a EStG". Im einzelnen weise
+ich auf folgendes hin:</lxbase:a><lxbase:a eingerueckt="nein">2.2.1 Grundbetrag</lxbase:a><lxbase:a eingerueckt="nein">Bei der Ermittlung des Grundbetrags
+nach § 13a Abs. 4 EStG sind R 124a Abs. 3 und 130a Abs.
+1 EStR 1993 zu beachten.</lxbase:a><lxbase:a eingerueckt="nein">2.2.2 Wert der Arbeitsleistung</lxbase:a><lxbase:a eingerueckt="nein">Beim Grundbetrag nach § 13a
+Abs. 4 EStG ist unterstellt, daß der Betrieb ausschließlich
+mit entlohnten Arbeitskräften bewirtschaftet wird (vgl. § 36
+Abs. 2 BewG). Der nach § 13a Abs. 5 EStG zu ermittelnde
+Wert der Arbeitsleistung des Betriebsinhabers und seiner nicht aufgrund
+eines Arbeitsverhältnisses im Betrieb beschäftigten
+Angehörigen ist deshalb dem Grundbetrag hinzuzurechnen
+(§ 13a Abs. 3 Nr. 2 EStG). Hierbei sind R 130a
+Abs. 3 bis 5 EStR 1993 und H 130a EStH 1993 zu beachten.</lxbase:a><lxbase:a eingerueckt="nein">Im einzelnen wird zusätzlich
+auf folgendes hingewiesen:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">Bei
+der Ermittlung des Werts der Arbeitsleistung für die körperliche
+Mitarbeit des Betriebsinhabers und der ohne Arbeitsverhältnis
+beschäftigten Angehörigen ist im Ergebnis nur
+die Arbeitsleistung zu berücksichtigen, die auf die im
+Ausgangswert nach § 13a Abs. 4 EStG im Einzelfall erfaßten
+Flächen entfällt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">Auf die angemessene
+Zahl der Vollarbeitskräfte (VAK) sind die entlohnten Arbeitskräfte
+entsprechend der Dauer ihrer Beschäftigung anzurechnen
+(§ 13a Abs. 5 Nr. 5 EStG). Das gilt auch für
+kurzfristig beschäftigte Aushilfskräfte sowie
+für die Arbeitskräfte, die von Lohnunternehmen
+für Bestellungs-, Pflege- oder Erntearbeiten zur Verfügung
+gestellt worden sind. Für die Anrechnung der entlohnten
+VAK ist ggf. eine Aufteilung des Arbeitslohnes erforderlich, soweit
+er</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">a)
+auf die im Ausgangswert (§ 13a Abs. 4 EStG) enthaltenen
+Nutzungen und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">b) auf die darin nicht enthaltenen
+Nutzungen</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">entfällt (BFH, Urteil vom 14.
+4. 1988, 
+<lxprod:doknr-verw linkend="HT0084298">BStBl
+II 1988, 774</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a eingerueckt="nein">Machen Steuerpflichtige
+in der ESt-Erklärung (Vordruck "Anlage L")
+zum Umfang / Anteil ihrer Beschäftigung bzw. der
+Tätigkeit weiterer Personen (Angehörige, fremde
+Dritte) im Betrieb oder zum Anteil der auf Sondernutzungen entfallenden
+Arbeitsleistung keine oder offensichtlich unzutreffende Angaben,
+so ist die (körperliche) Arbeitsleistung bzw. der Anteil
+der Arbeitsleistung des Betriebsinhabers, der im Betrieb beschäftigten
+Angehörigen und / oder der entgeltlich beschäftigten
+Arbeitskräfte ggf. unter Mitwirkung des zuständigen
+Amtlichen Landwirtschaftlichen Sachverständigen (ALS) zu
+schätzen. Zur Ermittlung des Anteils, der auf
+Sondernutzungen entfällt, können auch die im Kommentar
+Felsmann, Einkommensbesteuerung der Land- und Forstwirte, unter
+C 219, 219a abgedruckten Tabellen über den durchschnittlichen
+Arbeitskräftebedarf bei Sonderbetriebszweigen als Anhalt
+dienen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a eingerueckt="nein">Beispiele zur
+Berechnung des Werts der Arbeitsleistung siehe Anlage 2.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein">2.2.3 Vereinnahmte Pachtzinsen</lxbase:a><lxbase:a eingerueckt="nein">Auf § 13a Abs. 6 Satz 2 EStG
+wird hingewiesen. Zu den vereinnahmten Pachtzinsen gehören
+auch die Einnahmen aus Erbbauzinsen. Einnahmen aus Jagdverpachtung
+sind hingegen durch den Ansatz des Grundbetrags insoweit abgegolten,
+als sie auf im Ausgangswert enthaltene Flächen entfallen.</lxbase:a><lxbase:a eingerueckt="nein">2.2.4 Gewinne nach § 13a Abs.
+8 EStG</lxbase:a><lxbase:a eingerueckt="nein">Auf § 13a Abs. 8 EStG sowie
+auf R 130a Abs. 8 EStR 1993 wird hingewiesen. Ergänzend
+bitte ich folgendes zu beachten:</lxbase:a><lxbase:a eingerueckt="nein">Gewinne aus Betriebsvorgängen,
+die bei der Festsetzung des Ausgangswerts keine Berücksichtigung
+gefunden haben, sind insbesondere z. B.</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">a)
+Mehrgewinne aus Verkäufen von Zuchtvieh und anderen besonders
+wertvollen Tieren (vgl. Abschn. 2.2.4.1),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">b) Gewinne aus der Vermietung
+von Zimmern an Feriengäste, soweit es sich um Einkünfte
+aus Land- und Forstwirtschaft handelt (zur Abgrenzung vgl. Abschn.
+1.03 Abs. 7 BewRL),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">c) Zinseinnahmen, soweit die
+Kapitalforderung dem Betriebsvermögen zuzurechnen ist,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">d) Gewinne aus Vermietung
+eigener Pferde, soweit es sich um Einkünfte aus Land- und
+Forstwirtschaft handelt (zur Abgrenzung vgl. H 135 (Reitpferde) EStH
+1993),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">e) Gewinne aus Pensionstierhaltung
+und Lohnaufzucht (vgl. 2.2.4.2),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">f) Gewinne aus Beteiligungen,
+die zum land- und forstwirtschaftlichen Betriebsvermögen
+gehören,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">g) Gewinne aus der Vermietung
+von zum land- und forstwirtschaftlichen Betriebsvermögen
+gehörenden Gebäuden und Gebäudeteilen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">h) Gewinne aus der Veräußerung
+von Milchquoten (vgl. §§ 13, 13a EStG, Fach 6
+Nr. 13) und Zuckerrübenkontingenten,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">i) Entschädigungen
+für Wirtschaftserschwernisse (vgl. §§ 13,
+13a EStG, Fach 6 Nr. 10).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Gewinne aus einer überbetrieblichen
+Maschinenverwendung, die im Rahmen der Land- und Forstwirtschaft
+erzielt werden, sind teilweise nach § 13a Abs. 8 Nr. 3
+EStG zu erfassen. Insoweit wird auf §§ 13,
+13a EStG, Fach 7 Nr. 1 verwiesen.</lxbase:a><lxbase:a eingerueckt="nein">Die Gewinne (Mehrgewinne) nach § 13a
+Abs. 8 EStG kann der Stpfl. entweder durch Vermögensvergleich
+nach § 4 Abs. 1 EStG oder durch Gegenüberstellung
+der Betriebseinnahmen und Betriebsausgaben (§ 4 Abs. 3
+EStG) ermitteln (H 130a (Gewinnermittlung) EStH 1993). Liegen
+keine Aufzeichnungen vor, so sind die Gewinne (Mehrgewinne) zu schätzen
+(R 130a Abs. 8 Satz 6 EStR 1993). Bei der Schätzung
+der Gewinne (Mehrgewinne) aus Verkäufen von Zuchtvieh und
+anderen besonders wertvollen Tieren, aus Pensionstierhaltung, aus
+Gemüse- und Obstbau sowie aus Spargel- und Erdbeerenanbau und
+aus der Forellenteichwirtschaft können die nachfolgenden
+Richtsätze als Anhalt dienen. Ihre Anwendung darf
+jedoch nicht zu einer offensichtlich unzutreffenden Besteuerung
+führen (BFH, Urteil vom 16. 12. 1965, 
+<lxprod:doknr-verw linkend="HT0002116">BStBl III 1966,
+193</lxprod:doknr-verw>). Zur Ermittlung des Gewinns vgl. auch BFH,
+Urteil vom 14. 4. 1988, 
+<lxprod:doknr-verw linkend="HT0084298">BStBl II 1988, 774</lxprod:doknr-verw>).</lxbase:a><lxbase:a eingerueckt="nein">Bei ausschließlichen Gewinnen
+i. S. des § 13a Abs. 8 EStG kommt - obwohl die Gewinne
+nach § 4 Abs. 3 EStG ermittelt werden - die Steuerermäßigung
+nach § 34e EStG nicht in Betracht (BFH, Urteil vom 28.
+11. 1991, 
+<lxprod:doknr-verw linkend="HT0101540">BStBl
+II 1992, 458</lxprod:doknr-verw>).</lxbase:a><lxbase:a eingerueckt="nein">2.2.4.1 Verkäufe von Zuchtvieh
+und anderen besonders wertvollen Tieren</lxbase:a><lxbase:a eingerueckt="nein">Aus der Veräußerung
+von Zuchtvieh sind als Zuschlag nach § 13a Abs. 8 Nr. 3 EStG
+nur außerordentliche Erträge zu erfassen, die
+wegen der besonderen Qualität der Tiere durch erheblich über
+dem Durchschnitt liegende Preise erzielt werden (BFH, Urteil vom
+18. 4. 1991, 
+<lxprod:doknr-verw linkend="HT0100506">BStBl
+II 1991, 833</lxprod:doknr-verw>). Als außerordentlich sind
+Erträge anzusehen, um die die Einzelveräußerungspreise
+einschließlich Umsatzsteuer die folgenden Werte übersteigen: 
+<lxbase:za /> 
+ Zuchtbullen 4.200 DM 
+<lxbase:za /> Zuchtkühe u. -rinder 3.200
+DM 
+<lxbase:za /> Zuchteber 1.100 DM 
+<lxbase:za /> Zuchtsauen 1.000 DM</lxbase:a><lxbase:a eingerueckt="nein">Für Zucht- und Reitpferde ist
+der Mehrgewinn mit 60 v. H. des Betrages anzusetzen, um den der
+Veräußerungspreis den Betrag von 7.500 DM übersteigt. Wird
+ein Veräußerungspreis von mehr als 16.250 DM erzielt,
+so ist als Mehrgewinn jeweils der volle Betrag anzusetzen, der 11.000
+DM (7.500 DM + 40 v. H. von 8.750 DM) übersteigt.</lxbase:a><lxbase:a eingerueckt="nein">Mit den vorgenannten Beträgen
+sind sämtliche bei der Aufzucht und dem Verkauf der Tiere
+angefallenen Aufwendungen (z. B. Aufzuchtkosten, Anschaffungskosten
+für zugekaufte Tiere, Löhne, Versteigerungsgebühren, Versicherungsbeiträge,
+Transportkosten usw.) abgegolten, können also nicht noch
+besonders abgesetzt werden. Der Mehrgewinn ist für
+jedes Tier einzeln zu berechnen. Eine Saldierung mit Verkaufserlösen,
+die unter den aufgeführten Werten liegen, darf also nicht
+vorgenommen werden. Sofern im Einzelfall für andere
+als die o. a. Zuchttiere (z. B. Dammwild, Schafe, Ziegen) außerordentliche
+Erlöse erzielt werden, ist der Zuschlag in Anlehnung an
+die vorgenannte Vereinfachungsregelung zu schätzen.</lxbase:a><lxbase:a eingerueckt="nein">2.2.4.2 Gewinn aus Pensionstierhaltung</lxbase:a><lxbase:a eingerueckt="nein">Bei der Pensionstierhaltung sind Einnahmen
+und Gewinne im wesentlichen abhängig von der Art der Haltung
+(Stall- oder Koppelhaltung), der gehaltenen Tiergattung (z. B. Pferde
+oder Rindvieh) und den Leistungen (z. B. bei Pferden auch Reithallenbenutzung).</lxbase:a><lxbase:a eingerueckt="nein">Bei einer Pensionspferdehaltung gehören
+zu den Einnahmen sowohl die Zahlungen für die Haltung und
+Pflege der Pferde als auch Entgelte für eine Reithallen-
+und Reitplatzbenutzung. Die Einnahmen schwanken je nach
+Lage des Betriebs und der Art der angebotenen Leistungen zwischen
+250 DM und etwa 600 DM bei Robustpferdehaltung zwischen 100 DM und
+250 DM je in Pension genommenem Pferd. Bei der Ermittlung
+des Gewinns ist das Urteil des BFH vom 14. 4. 1988 (
+<lxprod:doknr-verw linkend="HT0084298">BStBl II 1988,
+774</lxprod:doknr-verw>) zu beachten.</lxbase:a><lxbase:a eingerueckt="nein">Der Reingewinn beträgt bei
+Pensionspferdehaltung in der Regel 60 v. H. der Einnahmen.</lxbase:a><lxbase:a eingerueckt="nein">2.2.4.3 Landwirtschaftlicher und gärtnerischer
+Gemüsebau</lxbase:a><lxbase:a eingerueckt="nein">Zur Abgrenzung des landwirtschaftlichen
+und gärtnerischen Gemüsebaus vgl. Abschn. 1.08
+Abs. <lxbase:az normform="2-und-6/07" manuell="nein">2 und 6.07</lxbase:az> Abs. 1 Nr. 1 BewRL. Ist der Gemüsebau danach
+der landwirtschaftlichen Nutzung zuzurechnen, kommt ein Zuschlag nach § 13a
+Abs. 8 EStG nicht in Betracht. Gemüsebau im Rahmen
+der landwirtschaftlichen Nutzung liegt nur vor, wenn Kopfkohl (Weiß-,
+Rot- und Wirsingkohl), Pflückerbsen und Pflückbohnen
+ausschließlich nach landwirtschaftlichen Anbaumethoden
+im Rahmen der landwirtschaftlichen Fruchtfolge als Hauptkultur angebaut
+werden.</lxbase:a><lxbase:a eingerueckt="nein">Werden dagegen die genannten Kohlarten
+und / oder Erbsen bzw. Bohnen nicht abwechselnd mit anderen
+landwirtschaftlichen Kulturen wie z. B. Weizen, Roggen, Gerste,
+Hafer oder Rüben, sondern nacheinander oder abwechselnd
+mit gleichen oder auch anderen Gemüsearten (z. B. Endivien,
+Kopfsalat, Feldsalat, Spinat, Möhren, Sellerie, Rote Beete,
+Zwiebeln, Rettich, Porree, Tomaten, Kohlrabi, Gurken usw.) angebaut,
+so erfolgt der Anbau nicht mehr im Rahmen der landwirtschaftlichen
+Fruchtfolge. Es handelt sich dann vielmehr um einen nach
+gärtnerischen Grundsätzen zu beurteilenden Gemüsebau
+(Sparte Gemüsebau des gärtnerischen Nutzungsteils
+Gemüse-, Blumen- und Zierpflanzen), der unter den Voraussetzungen
+des § 13a Abs. 8 Nr. 1 EStG als Zuschlag zu erfassen ist.</lxbase:a><lxbase:a eingerueckt="nein">Sofern im Einzelfall eine auf die betrieblichen
+Verhältnisse abgestimmte Schätzungsmethode nicht
+vorzuziehen ist oder Buchführungsergebnisse vergleichbarer
+Betriebe oder Erfahrungssätze nicht zur Verfügung
+stehen, kann der Gewinn wie folgt geschätzt werden:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">a)
+Freilandgemüsebau (Einnahmen überwiegend aus Freilandgemüsebau) 
+<lxbase:za />Einnahmen
+zwischen 40.000 DM und 80.000 DM je ha 
+<lxbase:za />Reingewinn 40 bis 65
+v. H. der Einnahmen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">b) Gemüsebau mit überdachten
+Anbauflächen (Einnahmen überwiegend aus unter
+Glas erzeugtem Gemüse) 
+<lxbase:za />Einnahmen zwischen 80.000 DM
+und 135.000 DM je ha 
+<lxbase:za />Reingewinn 30 bis 65 v. H. der Einnahmen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Der Gewinn wird beeinflußt
+durch die Art der Vermarktung (Versteigerung im Großmarkt,
+Verkauf ab Hof oder auf Wochenmarkt) und durch den Lohnaufwand.</lxbase:a><lxbase:a eingerueckt="nein">Eine zutreffende Schätzung
+im Einzelfall ist in der Regel nur bei enger Zusammenarbeit mit
+dem ALS möglich.</lxbase:a><lxbase:a eingerueckt="nein">2.2.4.4 Obstbau</lxbase:a><lxbase:a eingerueckt="nein">Die Einnahmen schwanken zwischen 15.000
+und 35.000 DM je ha. Sie sind abhängig von der
+Obstart, den Obstsorten, dem Altersaufbau der Obstanlage sowie von
+der Bodengüte und vom Klima. Besondere Naturereignisse,
+wie z. B. Spätfröste, können zu niedrigeren
+Einnahmen führen. Der Reingewinn kann auf 30 bis
+50 v. H. der Einnahmen geschätzt werden. Der Gewinn
+wird beeinflußt durch die Art der Vermarktung (Versteigerung
+im Großmarkt, Verkauf ab Hof, Verkauf auf dem Wochenmarkt) und
+durch den Lohnaufwand.</lxbase:a><lxbase:a eingerueckt="nein">Eine zutreffende Schätzung
+im Einzelfall ist in der Regel nur bei enger Zusammenarbeit mit
+dem ALS möglich.</lxbase:a><lxbase:a eingerueckt="nein">2.2.4.5 Spargelanbau</lxbase:a><lxbase:a eingerueckt="nein">Die Einnahmen je ha Spargelanbaufläche
+schwanken zwischen 24.000 und 34.000 DM. Der Reingewinn
+kann auf 30 bis 60 v. H. der Einnahmen geschätzt werden. Der
+Gewinn wird beeinflußt durch die Art der Vermarktung (Versteigerung
+im Großmarkt, Verkauf ab Hof, Verkauf auf dem Wochenmarkt)
+und durch den Lohnaufwand. </lxbase:a><lxbase:a eingerueckt="nein">Eine zutreffende Schätzung
+im Einzelfall ist in der Regel nur bei enger Zusammenarbeit mit
+dem ALS möglich.</lxbase:a><lxbase:a eingerueckt="nein">2.2.4.6 Erdbeeranbau</lxbase:a><lxbase:a eingerueckt="nein">Die Einnahmen je ha Erdbeeranbaufläche
+schwanken zwischen 25.000 und 50.000 DM und der Reingewinn zwischen
+50 und 70 v. H. der Einnahmen. Die Höhe der Einnahmen
+und der Gewinn werden beeinflußt von der Art der Vermarktung
+(Verkauf ab Hof, Versteigerung oder durch Selbstpflücker)
+und durch den Lohnaufwand.</lxbase:a><lxbase:a eingerueckt="nein">2.2.4.7 Forellenteichwirtschaft</lxbase:a><lxbase:a eingerueckt="nein">Die Gewinne betragen i. d. R.</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>bei Vollbetrieben
+(überwiegend Speisefischerzeugung) 35 v. H. der Einnahmen
+und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>bei Zuchtbetrieben (überwiegend
+Satzfischerzeugung) 40 v. H. der Einnahmen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Werden keine Angaben über die
+Einnahmen gemacht, können folgende Rahmensätze
+für die Gewinne angewendet werden:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:colspec colnum="4" colname="4" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a>Betriebsart</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="center"><lxbase:a>Rahmensätze</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="center"><lxbase:a>Mittelsatz</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="center"><lxbase:a>Arbeitskräftebedarf</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>DM/qm</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>DM/qm</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>VAK/ha</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Vollbetriebe</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>10 – 40</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>20</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>0,4</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Zuchtbetriebe</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>4 – 40</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>18</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>0,4</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Dabei sind Löhne, Miet-, Pacht-
+und Schuldzinsen noch nicht berücksichtigt. Sie
+können also insoweit noch abgezogen werden.</lxbase:a><lxbase:a eingerueckt="nein">Der Gewinn kann im Einzelfall um bis
+zu 10 v. H. erhöht oder gemindert werden. Eine
+Erhöhung des Gewinns kommt insbesondere dann in Betracht, wenn
+ausschließlich oder überwiegend Satzfischzucht
+betrieben wird oder wenn Speiseforellen zu einem Großteil
+zu Räucherforellen veredelt werden. Eine Minderung
+kommt in Betracht, wenn nachweislich wegen geringen Wasserzulaufs
+und schlechter Wasserqualität Einbußen hingenommen werden
+mußten.</lxbase:a><lxbase:a eingerueckt="nein">2.2.5 Nutzungswert der Wohnung</lxbase:a><lxbase:a eingerueckt="nein">2.2.5.1 Ansatz des Nutzungswerts</lxbase:a><lxbase:a eingerueckt="nein">Auf R 130a Abs. 7 EStR 1993 wird hingewiesen. Hinsichtlich
+des Nutzungswerts der Altenteilerwohnung ist - soweit § 52
+Abs. 15 S. 4 EStG keine Anwendung findet - das BFH-Urteil vom 28.
+7. 1983 (
+<lxprod:doknr-verw linkend="HT0041506">BStBl
+II 1984, 97</lxprod:doknr-verw>) zu beachten. Danach ist der Nutzungswert
+auch bei dinglicher Sicherung dem Eigentümer zuzurechnen
+und in entsprechender Höhe als dauernde Last nach § 10
+Abs. 1 Nr. 1 a EStG zu berücksichtigen.</lxbase:a><lxbase:a eingerueckt="nein">2.2.5.2 Wegfall der Nutzungswertbesteuerung</lxbase:a><lxbase:a eingerueckt="nein">In Fällen der Abwahl der Nutzungswertbesteuerung
+ist zur Feststellung des Sachverhalts der Vordruck Nr. 724/74 "Fragebogen zum
+Ausscheiden einer Wohnung aus dem Betriebsvermögen" zu
+versenden.</lxbase:a><lxbase:a eingerueckt="nein">Fällt bei vom Kalenderjahr
+abweichendem Wirtschaftsjahr die Nutzungswertbesteuerung weg, so
+ist besonders zu beachten, daß der bis zum 31. 12. noch anzusetzende
+Nutzungswert in den Gewinn des Wirtschaftsjahres einfließt
+und nach § 4a Abs. 2 Nr. 1 EStG zeitanteilig den verschiedenen
+Kalenderjahren zuzuordnen ist. Soweit die Nutzungswertbesteuerung
+nach § 52 Abs. 15 S. 4 EStG rückwirkend abgewählt
+wird, wirkt sich der Antrag regelmäßig auch auf
+die Höhe der Einkünfte des Vorjahres aus. Ist
+die Veranlagung des Vorjahres bereits bestandskräftig durchgeführt,
+ist diese nach § 175 Abs. 1 Nr. 2 AO zu ändern.</lxbase:a><lxbase:a eingerueckt="nein">2.2.6 Verausgabte Pachtzinsen, Schuldzinsen</lxbase:a><lxbase:a eingerueckt="nein">Auf § 13a Abs. 3 Satz 2 EStG
+sowie auf R 130a Abs. 6 EStR 1993 wird hingewiesen. Zinszuschüsse
+aus öffentlichen Mitteln mindern die absetzbaren Schuldzinsen. Zu
+der ertragsteuerlichen Behandlung der Zinsverbilligungszuschüsse
+nach dem Agrarkreditprogramm vgl. §§ 13, 13a EStG,
+Fach 6 Nr. 5. Zur steuerlichen Behandlung der Kontokorrentzinsen
+sind die Grundsätze des Beschlusses des BFH vom 4. 7. 1990
+(
+<lxprod:doknr-verw linkend="HT0096402">BStBl
+II 1990, 817</lxprod:doknr-verw>) und das BMF-Schreiben vom 10. 11. 1993 (vgl. § 4
+(4) EStG Fach 3 Nr. 1) zu beachten.</lxbase:a><lxbase:a eingerueckt="nein">2.2.7 Sonstige Hinzurechnungen und Kürzungen</lxbase:a><lxbase:a eingerueckt="nein">Als solche können z. B. in
+Betracht kommen:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Hinzurechnungen
+und Abzüge nach § 6c EStG,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Erhöhte Absetzungen für
+Wohngebäude nach § 7b EStG i. V. mit § 52 EStDV,
+soweit nach § 52 Abs. 15 Satz 2 EStG die Nutzungswertbesteuerung fortgeführt
+wird. Diese Kürzung entfällt somit ab
+dem Wirtschaftsjahr 1994 / 1995.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Die übrigen erhöhten
+Absetzungen nach §§ 7c, 7d, 7g, 7h, 7i und 7k
+EStG, 82a und 82g EStDV und nach dem Schutzbaugesetz können
+bei der Gewinnermittlung nach § 13a Abs. 3 bis 7 EStG nicht
+berücksichtigt werden, weil mit den Durchschnittssätzen
+die AfA und damit auch die an deren Stelle tretenden erhöhten
+Absetzungen grundsätzlich abgegolten sind (BFH, Urteil
+vom 7. 6. 1984, 
+<lxprod:doknr-verw linkend="HT0047529">BStBl
+II 1984, 663</lxprod:doknr-verw>). Wird jedoch ein Wirtschaftsgut
+in einem Betriebsteil verwendet, dessen voller Ertrag nach § 13a
+Abs. 8 EStG zu erfassen ist, so können bei der Ermittlung
+des Gewinns insoweit auch erhöhte Absetzungen berücksichtigt
+werden.</lxbase:a><lxbase:a eingerueckt="nein">2.3 Gewillkürtes Betriebsvermögen</lxbase:a><lxbase:a eingerueckt="nein">Bei der Gewinnermittlung nach § 13a
+EStG kann gewillkürtes Betriebsvermögen nicht
+gebildet werden (BFH, Urteil vom 23. 5. 1991, 
+<lxprod:doknr-verw linkend="HT0100246">BStBl II 1991,
+798</lxprod:doknr-verw>). Im Falle einer Nutzungsänderung
+kann dagegen gewillkürtes Betriebsvermögen beibehalten
+werden (R 14 Abs. 3 S. 6 EStR 1993; §§ 13, 13a
+EStG, Fach 4 Nr. 8). Wegen der Behandlung erbbaurechtsbelasteter
+Grundstücke als gewillkürtes Betriebsvermögen
+vgl. auch BFH, Urteil vom 10. 12. 1992 (
+<lxprod:doknr-verw linkend="HT0103072">BStBl II 1993,
+342</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D012439500003">3. Ermittlung des Gewinns
+aus Land- und Forstwirtschaft durch Vergleich der Betriebseinnahmen
+mit den Betriebsausgaben (§ 4 Abs. 3 EStG)</lxbase:ueberschrift><lxbase:a eingerueckt="nein">3.1 Gewinnermittlung (R 16 EStR 1993)</lxbase:a><lxbase:a eingerueckt="nein">Hierzu weise ich ergänzend
+auf folgendes hin:</lxbase:a><lxbase:a eingerueckt="nein">3.1.1 Viehdurchschnittswerte</lxbase:a><lxbase:a eingerueckt="nein">Die für buchführende
+Land- und Forstwirte zugelassene Durchschnittsbewertung (R 125 EStR
+1993) kann gem. R 125a EStR 1993 unter bestimmten Voraussetzungen
+auch bei der Gewinnermittlung nach § 4 Abs. 3 EStG in Anspruch
+genommen werden. Im übrigen verweise ich auf Abschn. 4.4.1.</lxbase:a><lxbase:a eingerueckt="nein">3.1.2 Nutzungswert der Wohnung</lxbase:a><lxbase:a eingerueckt="nein">Zur Ermittlung des Nutzungswerts der
+Wohnung wird auf §§ 13, 13a EStG, Fach 8 Nr. 1
+hingewiesen. Der Nutzungswert ist danach auch bei Land- und
+Forstwirten grundsätzlich nach den Verhältnissen
+des Einzelfalles zu bemessen. Im übrigen gilt
+Abschn. 2.2.5 entsprechend.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D012439500004">4. Ermittlung des Gewinns
+aus Land- und Forstwirtschaft durch Buchführung (§ 4
+Abs. 1 EStG)</lxbase:ueberschrift><lxbase:a eingerueckt="nein">4.1 Anwendungsbereich</lxbase:a><lxbase:a eingerueckt="nein">Auf das BMF-Schreiben vom 15. 12. 1981
+(§§ 13, 13a EStG, Fach 4 Nr. 1) wird hingewiesen. Zuschläge
+für verstärkte Tierhaltung sind bei der Ermittlung
+der Wirtschaftswertgrenze nach § 141 Abs. 1 Nr. 3 AO auch
+dann zu berücksichtigen, wenn sie von der Bewertungsstelle
+nicht oder noch nicht zum Gegenstand einer Wertfortschreibung nach §§ 41
+i. V. mit 22 Abs. 1 Nr. 1 BewG gemacht worden sind.</lxbase:a><lxbase:a eingerueckt="nein">4.2 Eröffnungsbilanz</lxbase:a><lxbase:a eingerueckt="nein">Zur Überprüfung der
+Eröffnungsbilanz beim Übergang zum Betriebsvermögensvergleich
+wird auf §§ 13, 13a EStG, Fach 4 Nr. 5 verwiesen.</lxbase:a><lxbase:a eingerueckt="nein">4.3 Buchführung</lxbase:a><lxbase:a eingerueckt="nein">Auf R 12 Abs. 1 EStR 1993 und das BMF-Schreiben
+vom 15. 12. 1981 (a. a. O.) wird hingewiesen.</lxbase:a><lxbase:a eingerueckt="nein">4.4 Gewinnermittlung</lxbase:a><lxbase:a eingerueckt="nein">4.4.1 Viehdurchschnittswerte</lxbase:a><lxbase:a eingerueckt="nein">Auf R 125 EStR 1993 wird hingewiesen. Die
+geltenden Viehdurchschnittswerte ergeben sich aus §§ 13,
+13a EStG, Fach 4 Nr. 6. Im Hinblick auf das Urteil des
+BFH vom 1. 10. 1992 (
+<lxprod:doknr-verw linkend="HT0102586">BStBl II 1993, 284</lxprod:doknr-verw>) werden sie z.
+Zt. überarbeitet. Bis zur Bekanntgabe können
+die bisherigen Regelungen weiter zugrunde gelegt werden.</lxbase:a><lxbase:a eingerueckt="nein">4.4.2 Nutzungswert der Wohnung</lxbase:a><lxbase:a eingerueckt="nein">Abschn. 3.1.2 gilt entsprechend.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D012439500005">5. Schätzung
+des Gewinns bei Land- und Forstwirten, deren Gewinn nicht nach Durchschnittssätzen
+zu ermitteln ist</lxbase:ueberschrift><lxbase:a eingerueckt="nein">5.1 Allgemeines</lxbase:a><lxbase:a eingerueckt="nein">Bei Land- und Forstwirten, die zur Buchführung
+verpflichtet sind, aber keine ordnungsmäßigen
+Bücher führen, ist der Gewinn im Einzelfall nach § 162
+AO zu schätzen. Das gleiche gilt für
+solche Land- und Forstwirte, die weder zur Buchführung
+verpflichtet sind, noch die Voraussetzungen des § 13a Abs.
+1 Nr. 2 und 3 EStG erfüllen, wenn sie keine Bücher
+i. S. des § 4 Abs. 1 EStG geführt und auch die
+Betriebseinnahmen und -ausgaben i. S. des § 4 Abs. 3 EStG
+nicht aufgezeichnet haben (R 127 Abs. 1 EStR 1993).</lxbase:a><lxbase:a eingerueckt="nein">Die Schätzung hat - mit Ausnahme
+der in R 12 Abs. 2 S. 6 EStR 1993 genannten Fälle - nach
+den Grundsätzen des § 4 Abs. 1 EStG zu erfolgen. Bei der
+Schätzung sind alle Umstände zu berücksichtigen,
+die für die Schätzung im Einzelfall von Bedeutung
+sind (§ 162 Abs. 1 Satz 2 AO). Ziel der Schätzung
+muß es sein, den tatsächlich erzielten Gewinn
+festzustellen. Die einer Schätzung anhaftenden
+Unsicherheiten gehen jedoch zu Lasten des Steuerpflichtigen, der
+durch die Vernachlässigung seiner steuerlichen Mitwirkungspflichten
+selbst Anlaß zur Schätzung gegeben hat.</lxbase:a><lxbase:a eingerueckt="nein">Es ist ferner darauf zu achten, daß buchführungspflichtige
+Landwirte, deren Gewinn geschätzt wird, den Betriebsprüfungsstellen
+zu melden sind, soweit eine Prüfung geeignet erscheint,
+den Landwirt zur Einrichtung einer Buchführung anzuhalten,
+oder soweit die Prüfung aus anderen Gründen Erfolg
+verspricht. Ist in diesen Fällen eine Betriebsprüfung
+vorgesehen, dann ist die Veranlagung unter dem Vorbehalt der Nachprüfung
+(§ 164 AO) durchzuführen. Ob eine Schätzung
+in anderen Fällen unter dem Vorbehalt der Nachprüfung
+durchzuführen ist, ist nach den Grundsätzen des
+Erlasses des FinMin NRW vom 31. 7. 1989 <lxprod:doknr-verw linkend="HT0131060">S-0337 - 1 - V C 2</lxprod:doknr-verw>, bekanntgegeben
+mit Vfg. vom 21. 8. 1989 <lxbase:az normform="S0337ASt31H" manuell="nein">S-0337 A - St 31 H</lxbase:az>, zu entscheiden.</lxbase:a><lxbase:a eingerueckt="nein">In allen Schätzungsfällen
+buchführungspflichtiger Land- und Forstwirte ist folgender
+Erläuterungstext in den Bescheid aufzunehmen bzw. als Anlage
+beizufügen:</lxbase:a><lxbase:a eingerueckt="nein">"Der Gewinn aus Land- und Forstwirtschaft
+wurde für das Wirtschaftsjahr 19.. / 19.. gem. § 162
+AO geschätzt, weil Sie Ihren Gewinn nicht erklärt
+haben bzw. weil Sie einen nicht durch Buchführung ermittelten
+Gewinn erklärt haben, obwohl Sie zur Buchführung
+verpflichtet sind. Sollten Sie tatsächlich einen
+höheren als den geschätzten Gewinn erzielt haben,
+so wäre die Steuer zu niedrig festgesetzt worden. In
+diesem Falle kann eine Steuerhinterziehung oder leichtfertige Steuerverkürzung
+vorliegen. Sie können dann jedoch durch die Erklärung
+des tatsächlich erzielten Gewinns unter den weiteren Voraussetzungen
+der §§ 371, 378 Abs. 3 AO Straf- bzw. Bußgeldfreiheit erlangen.</lxbase:a><lxbase:a eingerueckt="nein">Ferner weise ich darauf hin, daß schon
+durch die Nichterfüllung der Buchführungspflicht
+der Tatbestand der Steuergefährdung verwirklicht sein kann."</lxbase:a><lxbase:a eingerueckt="nein">5.2 Schätzung des Gewinns nach
+Richtsätzen</lxbase:a><lxbase:a eingerueckt="nein">Welche Schätzungsmethode im
+Einzelfall anzuwenden ist, bleibt dem Ermessen des Finanzamts überlassen.</lxbase:a><lxbase:a eingerueckt="nein">Sofern im Einzelfall eine auf die besonderen
+betrieblichen Verhältnisse abgestimmte Schätzungsmethode
+nicht vorzuziehen ist oder auch keine das Betriebsergebnis besonders
+beeinflussenden Umstände, wie z. B. Saatgutvermehrung oder
+Feldgemüsebau, vorliegen bzw. im Rahmen einer vorangegangenen
+Betriebsprüfung festgestellt worden sind und Buchführungsergebnisse vergleichbarer
+Betriebe oder Erfahrungssätze nicht zur Verfügung
+stehen, ist der Gewinn nach den Grundsätzen des § 4
+Abs. 1 EStG wie folgt zu schätzen:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="15*" /><cals:colspec colnum="2" colname="2" colwidth="85*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2" rowsep="0"><lxbase:a>Ausgangsbetrag (Abschn.
+5.2.1)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right"><lxbase:a>+</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>Pachterlöse (Abschn.
+5.2.2)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right"><lxbase:a>+</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>Zuschläge für
+nicht mit dem Ausgangsbetrag abgegoltene Gewinne bzw. Mehrgewinne
+(Abschn. 5.2.3)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right"><lxbase:a>+ </lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>Nutzungswert der Wohnung (Abschn.
+5.2.4)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right"><lxbase:a>./.</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>Lohnaufwendungen (Abschn. 5.2.5)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right"><lxbase:a>./.</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>Pachtaufwendungen, Schuldzinsen
+(Abschn. 5.2.6)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" align="right"><lxbase:a>+ ./.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>sonstige Zuschläge und Kürzungen
+(Abschn. 5.2.7)</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" align="right"><lxbase:a>=</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Gewinn des Wirtschaftsjahres</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Die nachfolgend aufgeführten
+Richtsätze sollen als Anhalt für eine zutreffende Schätzung
+des Gewinns dienen (R 127 Abs. 1 S. 4 EStR 1993). Gleichwohl
+kommt eine Minderung des geschätzten Gewinns aufgrund von
+Einwänden gegen einzelne Punkte des Schätzungsverfahrens
+regelmäßig nicht in Betracht, weil besondere Verhältnisse
+in einem einzelnen Betriebszweig keinen Schluß auf den
+Gewinn des Gesamtbetriebs zulassen. Die Anwendung der Richtsätze
+darf nicht zu einer offensichtlich unzutreffenden Besteuerung führen
+(BFH, Urteil vom 16. 12. 1965, 
+<lxprod:doknr-verw linkend="HT0002116">BStBl III 1966, 193</lxprod:doknr-verw>).</lxbase:a><lxbase:a eingerueckt="nein">5.2.1 Ausgangsbetrag</lxbase:a><lxbase:a eingerueckt="nein">Als Ausgangsbetrag je ha landwirtschaftlicher
+Nutzfläche (LN) sind für das Wirtschaftsjahr 1993 / 1994
+anzusetzen:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="5*" /><cals:colspec colnum="2" colname="2" colwidth="75*" /><cals:colspec colnum="3" colname="3" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0"><lxbase:a>1.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>bei Weidewirtschaften (Grünlandanteil
+71 v. H. und mehr der LN)</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>1.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0"><lxbase:a>2.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>bei Gemischwirtschaften (Grünlandanteil
+31 bis 70 v. H. der LN) mit einem Hackfruchtanteil von</lxbase:a></cals:entry><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>a) weniger als 15 v. H. der LN</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>1.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>b) 15 v. H. und mehr der LN</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>1.500 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>c) Beträgt der Hackfruchtanteil mehr
+als 25 v. H. der LN und ist darin ein Zuckerrübenanteil
+von mehr als 20 v. H. der LN enthalten, erhöht sich der
+Ausgangsbetrag auf</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>2.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0"><lxbase:a>d) Übersteigt der Hackfruchtanteil
+insgesamt 30 v. H. der LN, sind je angefangene 5 v. H. Mehranteil
+Hackfrucht den obigen Ausgangsbeträgen je</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>zuzurechnen</lxbase:a></cals:entry><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0"><lxbase:a>3.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>bei Ackerwirtschaften (Gründlandanteil
+bis 30 v. H. der LN) mit einem Hackfruchtanteil von</lxbase:a></cals:entry><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>a) weniger als 15 v. H. der LN</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>1.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>b) 15 v. H. und mehr der LN</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>1.600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>c) Beträgt der Hackfruchtanteil mehr
+als 25 v. H. der LN und ist darin ein Zuckerrübenanteil
+von mehr als 20 v. H. der LN enthalten, erhöht sich der
+Ausgangsbetrag auf</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>2.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0"><lxbase:a>d) Übersteigt der Hackfruchtanteil
+insgesamt 30 v. H. der LN, sind je angefangene 5 v. H. Mehranteil
+Hackfrucht den obigen Ausgangsbeträgen je</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>zuzurechnen</lxbase:a></cals:entry><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0"><lxbase:a>4.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Bei Milchkuhhaltung sind die Ausgangsbeträge
+(Nr. 1 - 3) entsprechend dem durchschnittlichen Milchkuhbestand
+des Betriebes wie folgt zu erhöhen:</lxbase:a></cals:entry><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>a) weniger als 0,5 Kühe/ha
+LN</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>250 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>b) 0,5 bis weniger als 1 Kühe/ha
+LN</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>c) 1 bis weniger als 1,5 Kühe/ha
+LN</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>550 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2"><lxbase:a>d) 1,5 und mehr Kühe/ha LN</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>800 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">In Fällen wiederholter Gewinnschätzung
+sind die Ausgangsbeträge ggf. um einen Sicherheitszuschlag
+bis höchstens 30 v. H. zu erhöhen. Der Zuschlag
+ist nicht gesondert auszuweisen, sondern in die Ausgangsbeträge
+einzuarbeiten.</lxbase:a><lxbase:a eingerueckt="nein">Zur landwirtschaftlichen Nutzung gehören
+nur die reinen landwirtschaftlichen Produktionsflächen. Flächen
+für Gebäude, Hofraum, Wege, Gräben, Feldraine,
+Wasser, Unland, Steinbrüche, Sandgruben u. ä.
+Flächen bleiben deshalb außer Betracht. Auch
+Flächen für Hausgärten sind nicht einzubeziehen. Im übrigen
+gilt R 124a Abs. 3 EStR 1993 sinngemäß. Danach gelten
+aufgrund öffentlicher Förderprogramme stillgelegte
+Flächen weiterhin als landwirtschaftlich genutzt.</lxbase:a><lxbase:a eingerueckt="nein">Für die Berechnung des maßgebenden
+Hackfrucht-, Grünland- bzw. Zuckerrübenanteils
+kommt es auf den Umfang dieser Anteile in dem jeweiligen Wirtschaftsjahr
+an. Zur Hackfruchtanbaufläche gehören
+nicht die Flächen, auf denen Hackfrüchte lediglich
+als Zwischen- oder Nachfrucht angebaut werden.</lxbase:a><lxbase:a eingerueckt="nein">Als Grünlandfläche
+sind nur die in Abschn. 5.2.3.2 aufgeführten Wiesen und Weiden
+anzusehen, die übrigen dort genannten Kulturen (Futterpflanzen)
+gehören zum Feldfutterbau, dessen Flächen zum
+Acker gehören.</lxbase:a><lxbase:a eingerueckt="nein">5.2.2 Pachterlöse</lxbase:a><lxbase:a eingerueckt="nein">Pachterlöse einschließlich
+der Einnahmen aus der Milchquotenverpachtung, Erbbauzinsen und Jagdpachten,
+vermindert um anteilige Betriebsausgaben, wie z. B. Grundsteuern,
+sind dem Ausgangsbetrag hinzuzurechnen, wenn sie zu den Einkünften
+aus Land- und Forstwirtschaft gehören. Das ist
+der Fall, wenn die verpachteten bzw. erbbaubelasteten Wirtschaftsgüter
+zum land- und forstwirtschaftlichen Betriebsvermögen des
+Verpächters gehören.</lxbase:a><lxbase:a eingerueckt="nein">5.2.3 Zuschläge für
+nicht mit dem Ausgangsbetrag abgegoltene Gewinne bzw. Mehrgewinne</lxbase:a><lxbase:a eingerueckt="nein">Dem Ausgangsbetrag sind alle Gewinne
+aus nachhaltigen oder einmaligen Betriebseinnahmen hinzuzurechnen,
+die im Ausgangsbetrag nicht enthalten sind. Solche Zuschläge
+kommen z. B. in Betracht für</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Mehrgewinne aus
+Verkäufen von Zuchtvieh und anderen wertvollen Tieren bzw.
+ganzer Tierbestände,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Gewinne aus übernormaler Tierhaltung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Mehrgewinne aus Sonderkulturen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Gewinne aus anderen Sonderbetriebszweigen
+(vgl. "Besondere Betriebseinnahmen" auf S. 4 der
+Anlage L),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Gewinne aus der Entnahme und Veräußerung
+von Grundstücksflächen (vgl. "Veräußerung / Entnahme
+von Grundstücken" auf der S. 2 der Anlage L);</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Gewinne aus der Vermietung von zum land-
+und forstwirtschaftlichen Betriebsvermögen gehörenden
+Gebäuden und Gebäudeteilen;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Gewinne aus der Veräußerung
+von Milchquoten und Zuckerrübenkontingenten, sowie aus
+einem Quotenleasing;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Entschädigungen für Wirtschaftserschwernisse.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">5.2.3.1 Verkäufe von Zuchtvieh
+und anderen wertvollen Tieren</lxbase:a><lxbase:a eingerueckt="nein">Als Mehrgewinn aus der Veräußerung
+von Zuchtvieh und anderen wertvollen Tieren sind die Beträge
+anzusetzen, um den der Einzelveräußerungserlös
+einschließlich Umsatzsteuer die folgenden Werte übersteigt: 
+<lxbase:za /> 
+ Zuchtbullen 3.400 DM 
+<lxbase:za /> Zuchtkühe u. -rinder 2.600
+DM 
+<lxbase:za /> Zuchteber 900 DM 
+<lxbase:za /> Zuchtsauen 800 DM.</lxbase:a><lxbase:a eingerueckt="nein">Für Zucht- und Reitpferde ist
+der Mehrgewinn mit 60 v. H. des Betrages anzusetzen, um den der
+Veräußerungspreis den Betrag von 6.000 DM übersteigt. Wird
+ein Veräußerungspreis von mehr als 13.000 DM erzielt,
+so ist als Mehrgewinn jeweils der volle Betrag anzusetzen, der 8.800
+DM (6.000 DM + 40 v. H. von 7.000 DM) übersteigt.</lxbase:a><lxbase:a eingerueckt="nein">Löhne für entlohnte
+Arbeitskräfte sowie die Veräußerungskosten
+(z. B. Versteigerungsgebühren, Versicherungsbeiträge,
+Transportkosten) sind bereits bei der Berechnung der Ausgangswerte
+berücksichtigt, können also insoweit nicht noch
+besonders angesetzt werden. Auch ist der Mehrgewinn für
+jedes Tier einzeln zu berechnen. Eine Saldierung mit Verkaufserlösen,
+die unter den vorstehenden Werten liegen, darf in diesem Zusammenhang
+nicht vorgenommen werden.</lxbase:a><lxbase:a eingerueckt="nein">Entsprechend ist zu verfahren, wenn
+für andere als die bezeichneten Zuchttiere oder für
+andere wertvolle Tiere überdurchschnittliche Preise erzielt
+werden. Der in diesen Fällen zugrunde zu legende
+Wert ergibt sich aus den steuerlichen Herstellungskosten der in
+Betracht kommenden Tierart zuzüglich eines unterstellten,
+im Ausgangswert für die Fläche bei normaler Tierhaltung enthaltenen
+Gewinnaufschlags von 20 v. H.</lxbase:a><lxbase:a eingerueckt="nein">5.2.3.2 Übernormale Tierhaltung</lxbase:a><lxbase:a eingerueckt="nein">Die Gewinne aus Tierzucht und Tierhaltung
+sind mit dem Ausgangsbetrag abgegolten, soweit der durchschnittliche
+normale Tierbestand nicht überschritten wird. Als
+mit dem Ausgangsbetrag abgegoltene Tierhaltung sind anzusetzen bei</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="54*" /><cals:colspec colnum="2" colname="2" colwidth="23*" /><cals:colspec colnum="3" colname="3" colwidth="23*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>Futterbaubetrieben</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>sonstigen Betrieben</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>für die ersten 20 ha LN</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>2,2 VE/ha</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>1,4 VE/ha</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>für die nächsten 10 ha LN</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>1,6 VE/ha</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>0,8 VE/ha</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>für die nächsten 20 ha LN</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>1,5 VE/ha</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>0,7 VE/ha</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a>über 50 ha LN</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="center" /><cals:entry colname="3" rowsep="0" align="center" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>insgesamt höchstens</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>90 VE</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>50 VE</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Futterbaubetriebe sind Betriebe, bei
+denen die Futterfläche 60 v. H. und mehr der landwirtschaftlichen
+Nutzfläche ohne Hof- und Gebäudefläche
+usw. ausmacht. Zur Futterfläche sind in diesem
+Zusammenhang zu rechnen:</lxbase:a><lxbase:a eingerueckt="nein">Wiesen (einschl. Baumwiesen, Streuwiesen),
+Viehweiden und Ackerwiesen, ferner die Anbauflächen für
+Klee in Reinsaat und gemischtem Anbau, Kleegras, Luzerne, Seradella,
+Esparsette, Grünmais, Wicken, Süßlupinen
+und alle anderen Futterpflanzen.</lxbase:a><lxbase:a eingerueckt="nein">Flächen, auf denen Getreide
+zur Körnergewinnung angebaut wird, sind selbst dann nicht
+der Futterfläche zuzurechnen, wenn die Körner
+an das im Betrieb gehaltene Vieh verfüttert werden.</lxbase:a><lxbase:a eingerueckt="nein">Bei der Berechnung der Tierbestände
+und der Umrechnung in VE ist nach R 124a Abs. 1 EStR 1993 zu verfahren. Die
+Durchschnittsbestände (Zeilen 80 - 86 der Anlage L) und
+die erzeugten Tiere (Zeilen 87 - 93 der Anlage L) sind zusammenzufassen. Dabei
+ist darauf zu achten, daß keine Tiere doppelt erfaßt
+werden.</lxbase:a><lxbase:a eingerueckt="nein">Für den nach Anrechnung des
+Normalbestandes verbleibenden Überbestand ist als Gewinn
+300 DM je VE anzusetzen. Löhne sind hierbei nicht
+berücksichtigt, können also insoweit noch besonders
+abgesetzt werden.</lxbase:a><lxbase:a eingerueckt="nein">5.2.3.3 Feldgemüsebau (landwirtschaftliche
+Nutzung)</lxbase:a><lxbase:a eingerueckt="nein">Unter feldmäßigem
+Gemüsebau ist der Anbau von Gemüse nach landwirtschaftlichen
+Anbaumethoden im Rahmen der landwirtschaftlichen Fruchtfolge zu
+verstehen. Zu unterscheiden ist zwischen dem Feldgemüsebau
+in Jahreskultur und dem Feldgemüsebau als Nachbau. Als
+nicht mit dem Ausgangsbetrag (Abschn. 5.2.1) abgegoltener Mehrgewinn
+ist anzusetzen:</lxbase:a><lxbase:a eingerueckt="nein">Bei Feldgemüsebau</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>in Jahreskultur:
+7.000 DM je ha abzüglich des im Ausgangsbetrag für
+diese Fläche angesetzten Betrags je ha/LN,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>als Nachbau: 5.000 DM je ha (ohne Kürzung).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Es bleibt dem Stpfl. freigestellt, die
+tatsächlichen Erlöse aus dem feldmäßigen Gemüsebau
+nachzuweisen. In diesen Fällen kann ohne besonderen Nachweis
+für Betriebsausgaben ein Abschlag von 25 v. H. anerkannt
+werden. Der danach verbleibende Betrag ist nur bei Feldgemüsebau
+in Jahreskultur um den im Ausgangsbetrag für diese Fläche
+angesetzten Betrag je ha/LN zu kürzen.</lxbase:a><lxbase:a eingerueckt="nein">Bei den vorstehenden Richtsätzen
+sind Löhne nicht berücksichtigt, können
+also insoweit noch besonders abgesetzt werden.</lxbase:a><lxbase:a eingerueckt="nein">5.2.3.4 Gemüsebau (gärtnerische
+Nutzung), Obstbau (gärtnerische Nutzung), Spargel- und
+Erdbeeranbau sowie Forellenteichwirtschaft</lxbase:a><lxbase:a eingerueckt="nein">Abschn. 2.2.4.3 bis 2.2.4.7 gelten für
+die Ermittlung der Gewinne entsprechend. Als Zuschlag zum
+Ausgangsbetrag ist jedoch nur der Mehrgewinn, d. h. der um den im
+Einzelfall angesetzten anteiligen Ausgangsbetrag gekürzte
+Gewinn anzusetzen.</lxbase:a><lxbase:a eingerueckt="nein">5.2.4 Nutzungswert der Wohnung</lxbase:a><lxbase:a eingerueckt="nein">Abschn. 3.1.2 gilt entsprechend. Bei
+Schätzung des Gewinns ist stets der Bruttonutzungswert
+anzusetzen, weil die mit der Wohnung zusammenhängenden
+Aufwendungen - mit Ausnahme der Schuldzinsen (Abschn. 5.2.6) und
+der erhöhten Absetzungen (Abschn. 5.2.7) - bei der Ermittlung
+der Ausgangsbeträge (Abschn. 5.2.1) berücksichtigt
+und damit abgegolten sind.</lxbase:a><lxbase:a eingerueckt="nein">5.2.5 Lohnaufwendungen</lxbase:a><lxbase:a eingerueckt="nein">Beim Ausgangsbetrag (Abschn. 5.2.1)
+ist unterstellt, daß der Betrieb ausschließlich
+mit nicht entlohnten Arbeitskräften bewirtschaftet wird. Lohnaufwendungen
+sind deshalb vom Ausgangsbetrag abzusetzen, soweit sie auf die mit
+dem Ausgangsbetrag abgegoltenen Gewinne entfallen. Die Behandlung
+von Lohnaufwendungen, die mit im Ausgangsbetrag nicht abgegoltenen
+Gewinnen bzw. Mehrgewinnen (vgl. Abschn. 5.2.3) in Zusammenhang
+stehen, ergibt sich aus den jeweiligen Zuschlagsregelungen (Abschn. 5.2.3.1
+bis 5.2.3.4).</lxbase:a><lxbase:a eingerueckt="nein">Für die im Einzelfall erforderliche
+Aufteilung von Lohnaufwendungen ist Abschn. 2.2.2 Nr. 2 und 3 sinngemäß anzuwenden.</lxbase:a><lxbase:a eingerueckt="nein">Zu den abzuziehenden Lohnaufwendungen
+gehören auch die Aufwendungen für kurzfristig
+beschäftigte Aushilfskräfte sowie für
+die Arbeitskräfte, die von Lohnunternehmen für
+Bestellungs-, Pflege- oder Erntearbeiten zur Verfügung gestellt
+worden sind. Werden Lohnaufwendungen im Zusammenhang mit
+Maschinenaufwendungen in einer Summe von Lohnunternehmen in Rechnung
+gestellt, so bestehen im allgemeinen keine Bedenken, die anteiligen
+und zu berücksichtigenden Lohnaufwendungen mit 25 v. H.
+des Bruttoaufwands zu schätzen. Sofern der Lohnunternehmer
+auch Saatgut, Düngemittel und Spritzmittel liefert und
+zusammen mit der Maschinenleistung abrechnet, ist für die
+Berechnung der Lohnaufwendungen der Rechnungsbetrag um das enthaltene
+Lieferentgelt zu bereinigen.</lxbase:a><lxbase:a eingerueckt="nein">5.2.6 Pachtaufwendungen, Schuldzinsen</lxbase:a><lxbase:a eingerueckt="nein">Solche Aufwendungen können
+abgesetzt werden, wenn sie Betriebsausgaben sind und nicht bereits
+bei der Ermittlung der Zuschläge nach Abschn. 5.2.3 berücksichtigt
+worden sind. Trägt der Pächter neben
+den Pachtzinsen für die Überlassung von Grundstücken
+und / oder Gebäuden (Nettopacht) noch weitere,
+die Pachtgegenstände betreffende Aufwendungen (z. B. Grundsteuer, Umlage
+der Landwirtschaftskammer, Gebäudeversicherung), so sind
+diese Aufwendungen nicht als Betriebsausgaben abziehbar, da sie
+bei der Ermittlung der Ausgangsbeträge bereits berücksichtigt
+worden sind.</lxbase:a><lxbase:a eingerueckt="nein">Sofern der Pächter für
+eine mitgepachtete Wohnung keinen Nutzungswert (mehr) besteuert,
+kann auch der Teil der Gesamtpacht nicht als Betriebsausgaben abgezogen
+werden, der auf die Wohnung entfällt.</lxbase:a><lxbase:a eingerueckt="nein">5.2.7 Sonstige Zuschläge und
+Kürzungen</lxbase:a><lxbase:a eingerueckt="nein">5.2.7.1 Erhöhung der Ausgangsbeträge
+wegen Nutzung fremder Gebäude (AfA):</lxbase:a><lxbase:a eingerueckt="nein">Bei der Bemessung des Ausgangsbetrags
+ist die Absetzung für Abnutzung vom Wert der Betriebsgebäude
+nach Maßgabe des § 7 EStG berücksichtigt,
+weil davon ausgegangen wird, daß der Betrieb vom Eigentümer
+selbst bewirtschaftet wird. In Fällen der Verpachtung
+oder unentgeltlichen Überlassung landwirtschaftlicher Betriebe
+im ganzen oder von Teilen eines Betriebes mit Gebäuden
+steht die AfA für die Betriebsgebäude dem Verpächter
+bzw. dem unentgeltlich überlassenden Landwirt zu. Aus
+diesem Grunde ist beim Nutzungsberechtigten (Bewirtschafter des
+Betriebs) der Ausgangsbetrag (Abschn. 5.2.1) um 100 DM je ha gepachteter
+LN zu erhöhen. Es bleibt dem Pächter
+(Nutzungsberechtigten) vorbehalten, die AfA im einzelnen nachzuweisen.</lxbase:a><lxbase:a eingerueckt="nein">5.2.7.2 Kürzung der Ausgangsbeträge
+wegen erhöhter Absetzungen für Wohngebäude</lxbase:a><lxbase:a eingerueckt="nein">Als solche kommen - sofern die Nutzungswertbesteuerung
+nach § 52 Abs. 15 S. 2 EStG fortgeführt wird -
+erhöhte Absetzungen für Wohngebäude nach § 7b EStG
+sowie in anderen Fällen erhöhte Absetzungen nach §§ 7c,
+7d, 7h, 7i, 7k EStG und 82a und 82g EStDV in Betracht. Diese
+erhöhten Absetzungen sind jedoch um die im Ausgangsbetrag
+bereits berücksichtigte AfA nach § 7 Abs. 4 EStG
+in Höhe von 2 v. H. zu kürzen. </lxbase:a><lxbase:a eingerueckt="nein">Die erhöhten Absetzungen nach § 7g
+EStG sind dagegen ungekürzt zu berücksichtigen. Nach
+Ablauf des Begünstigungszeitraums sind die Ausgangsbeträge
+jedoch um Zuschläge zu erhöhen. Abschn.
+5.2.7.3 gilt entsprechend.</lxbase:a><lxbase:a eingerueckt="nein">5.2.7.3 Sonderabschreibungen nach § 76
+EStDV</lxbase:a><lxbase:a eingerueckt="nein">Es ist zu beachten, daß Sonderabschreibungen
+nach § 76 EStDV nur noch für solche Investitionen
+in Betracht kommen, die bis zum Ende des Wirtschaftsjahres <lxbase:az normform="1991/92" manuell="nein">1991/92</lxbase:az> (1992)
+angeschafft oder hergestellt worden sind (§ 76 Abs. 4 EStDV).</lxbase:a><lxbase:a eingerueckt="nein">Sind in der Vergangenheit Sonderabschreibungen
+nach § 76 EStDV vorgenommen worden, so ist nach Ablauf
+des Begünstigungszeitraums von drei Wirtschaftsjahren der
+Ausgangsbetrag um einen Zuschlag zu erhöhen, da entsprechend § 7a
+Abs. 9 EStG der Restwert Bemessungsgrundlage für die weiteren
+Absetzungen für Abnutzung ist und durch den Ansatz des
+Ausgangsbetrages anderenfalls zu hohe AfA-Beträge berücksichtigt
+würden. Der Zuschlag eines Wirtschaftsjahres ergibt
+sich aus der Summe der gewährten Sonderabschreibungen dividiert
+durch die Restnutzungsdauer des jeweiligen Wirtschaftsgutes. Die
+Erhöhung des Ausgangsbetrages ist für die Zeit der
+Restnutzungsdauer durchzuführen. Um eine Berücksichtigung
+der Zuschläge auch bei künftigen Veranlagungen
+sicherzustellen, ist das Kontrollblatt für Gewinnzuschläge
+(§ 76 EStDV), Vordruck-Nr. 724/49, zu führen und
+der ESt-Akte vorzuheften.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D012439500006">6. Sonstiges</lxbase:ueberschrift><lxbase:a eingerueckt="nein">6.1 Altenteilsleistungen</lxbase:a><lxbase:a eingerueckt="nein">6.1.1 Der Wert der unbaren Altenteilsleistungen
+ist nach § 1 Abs. 1 der SachBezV in der für den
+jeweiligen Veranlagungszeitraum geltenden Fassung zu schätzen
+(H 87 (Altenteilsleistung) EStH 1993). Die Werte werden
+jährlich im BStBl Teil I veröffentlicht. Für
+die Veranlagungszeiträume 1993 und 1994 können
+danach ohne Einzelnachweis folgende Werte zugrunde gelegt werden:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="50*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>1993</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>1994</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>für Verpflegung</lxbase:a></cals:entry><cals:entry colname="2" align="center" /><cals:entry colname="3" align="center" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>- bei einem Altenteiler</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>3.823 DM</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>3.593 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>- bei einem Altenteilerehepaar</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>6.882 DM</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>7.115 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>für Heizung und Beleuchtung</lxbase:a></cals:entry><cals:entry colname="2" align="center" /><cals:entry colname="3" align="center" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>- bei einem Altenteiler</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>850 DM</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>878 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>- bei einem Altenteilerehepaar</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>1.529 DM</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>1.580 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Hinsichtlich des Werts für
+Heizung und Beleuchtung bestehen jedoch auch keine Bedenken, wenn
+die (anteiligen) tatsächlichen Kosten angesetzt werden.</lxbase:a><lxbase:a eingerueckt="nein">6.1.2 Fällt am 31. 12. 1993
+die Nutzungswertbesteuerung weg, so kann der Altenteilsverpflichtete
+den bei ihm für den Altenteiler bis zu diesem Zeitpunkt anzusetzenden
+Nutzungswert der Wohnung in vollem Umfang im Kalenderjahr 1993 als
+Sonderausgaben abziehen, obwohl er gemäß § 4a
+Abs. 2 Nr. 1 EStG einen Teilbetrag des Nutzungswerts erst im Kalenderjahr
+1994 zu versteuern hat (vgl. 2.2.5.2).</lxbase:a><lxbase:a eingerueckt="nein">6.2 Kontrollmitteilungen</lxbase:a><lxbase:a eingerueckt="nein">Außer in den üblichen
+Fällen (Kontrollmitteilungen für Zwecke der Bp,
+der Erfassung von steuerpflichtigen Vorgängen bei anderen
+Steuerpflichtigen, der Erbschaftsteuer) sind insbesondere in folgenden
+Fällen Kontrollmitteilungen zu fertigen:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">a)
+Der zuständigen Bewertungsstelle sind die sich aus den
+Erklärungen des Stpfl. bzw. aus den Akten ergebenden Umstände
+mitzuteilen, die sich auf die Höhe der festgesetzten Einheitswerte
+auswirken können (z. B. Änderung der Flächen
+für Sondernutzungen, Änderungen bei den Tierbeständen). Angaben,
+die für einen Zuschlag nach § 41 BewG von Bedeutung
+sein können, sind auf S. 4 der Anlage L zusammengefaßt. Ich
+bitte daher, in allen Fällen, in denen der in der Anlage
+L erklärte Tierbestand den gegendüblichen Tierbesatz
+offensichtlich übersteigt bzw. in denen aus anderen Gründen
+ein Zuschlag nach § 41 BewG in Betracht kommen kann, die Bewertungsstelle
+durch Übersendung einer Ablichtung der Seite 4 der Anlage
+L zu unterrichten.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">b) Werden Zu- bzw. Verpachtungen
+bekannt, so ist die für den Verpächter bzw. Pächter
+zuständige Veranlagungsstelle zu informieren. Entsprechendes
+gilt bei unentgeltlichen Nutzungsüberlassungen. Im übrigen bitte
+ich darauf hinzuwirken, daß die Stpfl. auf S. 2 der Anlage
+L die Anschrift des Pächters / Verpächters
+genau angeben.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">c) Der zuständigen
+Lohnsteuerstelle sind insbesondere Fälle ohne Signal "A",
+in denen Lohnaufwendungen geltend gemacht werden, und Fälle
+mit erheblichen Lohnaufwendungen zur Prüfung durch die
+Lohnsteuer-Außenprüfung zu melden (vgl. z. B.
+Abschn. 5.2.5).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">6.3 Einheitswertmitteilungen</lxbase:a><lxbase:a eingerueckt="nein">Einheitswertmitteilungen über
+land- und forstwirtschaftliches Vermögen sind insbesondere
+wegen der möglichen Auswirkungen auf die Art der Gewinnermittlung
+des Stpfl. stets zeitnah auszuwerten.</lxbase:a><lxbase:a eingerueckt="nein">6.4 Zuziehung der Bewertungsakten bei
+Durchführung der Veranlagung</lxbase:a><lxbase:a eingerueckt="nein">Insbesondere bei Gewinnermittlung nach § 13a
+EStG und in Schätzungsfällen bitte ich, bei der
+Veranlagung die Bewertungsakten zur Ermittlung und Überprüfung
+der im Einzelfall bei der Gewinnberechnung anzusetzenden Werte beizuziehen.</lxbase:a><lxbase:a eingerueckt="nein">6.5 Überprüfung der
+Anlage L</lxbase:a><lxbase:a eingerueckt="nein">Nach § 150 Abs. 1 und 2 AO
+sind auch buchführende Landwirte verpflichtet, Steuererklärungen
+einschließlich der Anlagen und damit insbesondere auch
+der Anlage L vollständig und wahrheitsgemäß auszufüllen. Dies
+gilt insbesondere auch hinsichtlich der Flächenangaben
+in den Zeilen 32 bis 49 der Anlage L, die nicht nur für
+die Besteuerung von Schätzungslandwirten unentbehrlich
+sind, sondern u. a. auch dazu dienen, die zutreffende Gewinnermittlungsart überprüfen,
+Gewinne verproben und Wertfortschreibungen überwachen zu
+können.</lxbase:a><lxbase:a eingerueckt="nein">Der Abschnitt "Veräußerung / Entnahme
+von Grundstücken" enthält die unumgänglich
+erforderlichen Grundangaben zur Prüfung von Veräußerungs-
+und Entnahmegewinnen. Sofern sich die erforderlichen Angaben
+im Einzelfall aus der Bilanz oder ähnlichen Unterlagen
+eindeutig ergeben, genügt ein Hinweis in der Anlage L auf
+die entsprechenden Unterlagen.</lxbase:a><lxbase:a eingerueckt="nein">Die Angaben auf S. 4 der Anlage L zum
+Tierbestand sind für die Abgrenzung der landwirtschaftlichen
+von der gewerblichen Tierzucht bzw. Tierhaltung, für die
+Umsatzbesteuerung und für die zutreffende Gewinnermittlungsart
+von Bedeutung.</lxbase:a><lxbase:a eingerueckt="nein">Ich bitte daher, darauf hinzuwirken,
+daß künftig auch buchführende Land- und Forstwirte
+die Anlage L vollständig ausfüllen. Geschieht
+dies nicht und sind die fehlenden Angaben für die Besteuerung
+wesentlich und ergeben sich diese Angaben auch nicht aus den ansonsten
+eingereichten Unterlagen, so ist eine Ablichtung der unvollständigen
+Anlage L zum Zwecke der Vervollständigung zurückzuschicken. Auf
+die Möglichkeit des Einsatzes von Zwangsmaßnahmen
+weise ich hin.</lxbase:a><lxbase:a eingerueckt="nein"><lxbase:fett>Anlage 1</lxbase:fett></lxbase:a><lxbase:a align="zentriert">Höchstzulässige Tierbestände in
+Vieheinheiten (VE) nach 
+<lxbase:za /> § 13a (1) Nr. 3 und § 13
+(1) Nr. 1 EStG</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:colspec colnum="4" colname="4" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" morerows="2"><lxbase:a>regelmäßig
+landwirtschaftlich genutzte Flächen in ha</lxbase:a></cals:entry><cals:entry namest="2" nameend="4" align="center"><lxbase:a>Höchstzulässige
+Tierbestände in VE</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry namest="2" nameend="3" align="center"><lxbase:a>§ 13a
+Abs. 1 Nr. 3 EStG bei Betrieben mit</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>§ 13 Abs. 1 Nr. 1 EStG</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="2" align="center"><lxbase:a>bis zu 76 v. H. Schweine und Geflügel
+(3 VE/ha)</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>über 76 v. H. Schweine
+und Geflügel (4 VE/ha)
+<lxbase:fn-verw idref="D012439500007" nummer="1" /></lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>im ganzen</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>10</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>10</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>10</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>2</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>20</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>20</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>20</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>3</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>30</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>4</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>40</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>5</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>50</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>6</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>60</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>7</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>70</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>8</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>32</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>80</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>9</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>36</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>90</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>10</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>40</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>100</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>11</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>33</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>44</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>110</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>12</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>36</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>48</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>120</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>13</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>39</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>52</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>130</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>14</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>42</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>56</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>140</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>15</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>45</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>60</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>150</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>16</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>48</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>63</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>160</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>17</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>51</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>66</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>170</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>18</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>54</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>69</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>180</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>19</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>57</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>72</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>190</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>20</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>60</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>75</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>200</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>21</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>63</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>78</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>207</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>22</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>66</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>81</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>214</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>23</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>69</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>84</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>221</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>24</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>72</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>87</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>228</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>25</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>75</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>235</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>26</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>78</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>93</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>242</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>27</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>81</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>96</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>249</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>28</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>84</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>99</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>256</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>29</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>87</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>102</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>263</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>30</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>105</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>270</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>31</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>93</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>108</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>273</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>32</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>96</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>111</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>276</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>33</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>99</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>114</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>279</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>34</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>102</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>117</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>282</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>35</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>105</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>120</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>285</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>36</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>108</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>123</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>288</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>37</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>111</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>126</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>291</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>38</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>114</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>129</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>294</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>39</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>117</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>132</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>297</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>40</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>120</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>135</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>300</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>für jeden weiteren ha</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>3</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>3</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>1,5</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Von der Aufnahme der Anlage 2 wurde
+abgesehen.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:fussnoten><lxbase:fussnote id="D012439500007" nummer="1"><lxbase:a>Bis 15 ha 4 VE/ha, danach 3 VE/ha.</lxbase:a></lxbase:fussnote></lxbase:fussnoten><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Lohnsteuer</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Bewertung</lxbase:rthema><lxbase:rthema>Verfahrensrecht/Abgabenordnung</lxbase:rthema><lxbase:rthema>Steuerliche Betriebsprüfung</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Nordrhein-Westfalen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:branchen><lxbase:branche>Landwirtschaft</lxbase:branche></lxbase:branchen></lxbase:allgemeine-angaben><lxbase:interne-angaben><lxbase:quelle>STED</lxbase:quelle></lxbase:interne-angaben></lxrvw:rspvwa>

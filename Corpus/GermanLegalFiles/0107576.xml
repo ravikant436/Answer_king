@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0107576" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Köln</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2532 - 231 - St 114 </lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2532 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2532</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="LOHN" id="42" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1994-03-09" /></lxbase:daten><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:2a</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:2a/1</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:10/3</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:10d</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:10e/5a</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:15a</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:22/4/b</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:34c</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:34c/1</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:34c/2</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:34c/3</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:52/12</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:163</lxbase:norm-kuerzel><lxbase:norm-kuerzel>AO:180</lxbase:norm-kuerzel><lxbase:norm-kuerzel>AO:180/2</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1994" /><lxbase:jahr jahr="1993" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Vordrucke zur Durchführung der personellen Einkommensteuerveranlagung
+für 1993</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600001"><lxbase:a>1. Vordruck ESt 2 A </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600002"><lxbase:a>2. Vordruck
+ESt 3 A </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600003"><lxbase:a>3. Vordruck
+ESt 2 B / 3 B </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600004"><lxbase:a>3.1 Einkünfte
+aus Gewerbebetrieb </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600005"><lxbase:a>3.2 Die Feststellungen
+im Abschnitt A</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600006"><lxbase:a>3.3 Feststellungen
+gem. § 180 Abs. 2 AO </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600007"><lxbase:a>3.4 Im Abschnitt
+C</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600008"><lxbase:a>4. Vordruck
+ESt 2 BE / 3 BE / 4 BE </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600009"><lxbase:a>5. Vordruck
+ESt 4 B </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600010"><lxbase:a>6. Vordruck
+ESt 2 C / 3 C / 4 C </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600011"><lxbase:a>7. Vordruck
+ESt 2 D / 3 D </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010757600012"><lxbase:a>8. Vordruck
+ESt 2 E / 3 E </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:a>Folgende Vordrucke sind für den Veranlagungszeitraum
+1993 neu aufgelegt worden und gehen Ihnen - soweit nicht bereits
+erfolgt - in Kürze zu: </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="7*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:colspec colnum="3" colname="3" colwidth="63*" /><cals:colspec colnum="4" colname="4" colwidth="11*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Lfd. Nr.</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Abkürzung</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Kurzbezeichnung</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0"><lxbase:a>Vordruck-Nr. 724/...</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>1.</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>ESt 2 A</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Einkommensteuer-Berechnungsbogen</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0"><lxbase:a>25</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>2.</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>ESt 3 A</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Einkommensteuerbescheid</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0"><lxbase:a>26</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>3.</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>ESt 2 B</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Feststellungsbogen
+für die gesonderte und einheitliche Feststellung</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0"><lxbase:a>28</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>ESt 3 B</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Feststellungsbescheid</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>4.</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Anlage ESt 2 BE</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>zum Feststellungsbogen
+für Bauherren- und Erwerbergemeinschaften</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0"><lxbase:a>59</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Anlage ESt 3 BE</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>zum Feststellungsbescheid
+für Bauherren und Erwerbergemeinschaften</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Anlage ESt 4 BE</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>zur Mitteilung ESt
+4 B</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>5.</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>ESt 4 B</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Mitteilung über
+die gesonderte und einheitliche Feststellung</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0"><lxbase:a>29</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>6.</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>ESt 2 C</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Feststellungsbogen
+für die gesonderte Feststellung</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0"><lxbase:a>35</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>ESt 3 C</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Gewinnfeststellungsbescheid</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>ESt 4 C</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Mitteilung über
+die gesonderte Gewinnfeststellung</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>7.</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>ESt 2 D</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Feststellungsbogen § 10d
+EStG</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0"><lxbase:a>33</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>ESt 3 D</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Feststellungsbescheid § 10d
+EStG</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>8.</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>ESt 2 E</lxbase:a></cals:entry><cals:entry colname="3" colsep="0" rowsep="0"><lxbase:a>Feststellungsbogen § 2a
+EStG</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0"><lxbase:a>36</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" colsep="0"><lxbase:a>ESt 3 E</lxbase:a></cals:entry><cals:entry colname="3" colsep="0"><lxbase:a>Feststellungsbescheid § 2a
+EStG</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Zu den Vordrucken bemerke ich im einzelnen folgendes: </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010757600001">1. Vordruck ESt 2 A </lxbase:ueberschrift><lxbase:kapitel><lxbase:a eingerueckt="ja">1.1 Im linierten Anschriftenfeld
+(links oben) ist grundsätzlich der Steuerschuldner einzutragen.
+Ist Adressat eine dritte Person (z. B. Elternteil eines minderjährigen
+Kindes), so ist diese Person im Anschriftenfeld und der Steuerpflichtige im
+eingerahmten Feld unter der Jahreszahl zu benennen. Soll der Bescheid einer
+anderen Person als Empfänger zugehen (z. B. Steuerberater),
+so ist dies in Abschnitt C (Verfügung) Nr. 12 b zu verfügen;
+der Bescheid ist entsprechend zu adressieren (vgl. AO-Kartei § 122
+Karte 2 Beispiele zu Tz. 1.5.2). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="ja">1.2 Bei den jeweiligen Einkunftsarten
+ist die Zeile "Abziehbare ausländische Steuern
+nach § 34c Abs. 2 u. 3 EStG" entfallen, da in
+diesen Fällen die ausländischen Steuern zusammen
+mit den übrigen Betriebsausgaben oder Werbungskosten abzuziehen
+sind. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="ja">1.3 Der Versorgungs-Freibetrag
+nach § 22 Nr. 4 Buchstabe b EStG (Zeile 33) ist durch das
+StMBG vom 21. 12. 1993 von 4.800 DM auf 6.000 DM angehoben worden. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="ja">1.4 Die Höchstbetragsberechnung
+(Zeilen 111 - 115) nach § 10 Abs. 3 EStG entspricht der
+durch das StMBG geschaffenen Rechtslage. Diese Fassung ist auf Steuerpflichtige
+mit Einnahmen aus nichtselbständiger Arbeit, mit der der Erwerb
+von Anwartschaftsrechten oder Ansprüchen auf Alters-, Kranken-
+oder Arbeitslosenversorgung ausschließlich auf Grund eigener
+Beitragsleistung verbunden ist (Vorstandsmitglieder einer AG, GmbH-Gesellschafter-Geschäftsführer),
+gem. § 52 Abs. 12 EStG erstmals für den VZ 1994
+anzuwenden. Wegen der geringen Bedeutung im personellen Verfahren
+ist insoweit auf ein eigenes Berechnungsschema verzichtet worden. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="ja">1.5 In der neuen Fußnote
+21 a (Seite 8) wird darauf hingewiesen, daß eine Anrechnung
+ausländischer Steuern nach § 34c Abs. 1 EStG bei
+Einkünften aus Kapitalvermögen nur dann möglich
+ist, wenn diese positiv sind. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="ja">1.6 In das Schema zur Berechnung
+der Einkommensteuer unter Einbeziehung von Erwerbsbezügen
+(Zeilen 236 - 240) wurde die Billigkeitsregelung nach § 163
+AO (BMF-Schreiben vom 26. 10. 1993 <lxbase:az normform="S1900593VB5" manuell="nein">S-1900 - 593 - V B 5</lxbase:az> - <lxprod:doknr-verw linkend="HT0107117">BStBl 1993 I
+S. 895</lxprod:doknr-verw>) eingearbeitet. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="ja">1.7 Insbesondere für
+Fälle eines abweichenden Wirtschaftsjahres (z. B. 1. 5. 1992
+bis 30. 4. 1993) und der Festsetzung von Vorauszahlungen nach dem SolZG
+1995 ist auf Seite 10 der Abschnitt "Solidaritätszuschlag" eingefügt worden. </lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010757600002">2. Vordruck ESt 3 A </lxbase:ueberschrift><lxbase:a eingerueckt="ja">Die Änderungen dieses Vordrucks
+ergeben sich aus den bereits bei dem Vordruck ESt 2 A angesprochenen
+Punkten. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010757600003">3. Vordruck ESt 2 B / 3
+B </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D010757600004">3.1 Einkünfte
+aus Gewerbebetrieb </lxbase:ueberschrift><lxbase:a eingerueckt="ja">Aufgrund der Rechtsprechung des BFH, nach
+der das Sonderbetriebsvermögen eines Kommanditisten bei
+der Ermittlung des Kapitalkontos i. S. d. § 15a EStG außer
+Betracht zu lassen ist, sind die Anlage ESt 1, 2, 3 B und Anlage
+ESt 1, 2, 3 B (V) geändert worden. Diese Gestaltung ist
+in 1993 beibehalten worden. </lxbase:a><lxbase:a eingerueckt="ja">Diese Änderung hat dazu geführt,
+daß sich in den Fällen des § 15a EStG
+der Gesamtbetrag der für die Personengesellschaft festzustellenden
+Einkünfte, der in die Vordrucke ESt 2 B - Feststellungsbogen
+- und ESt 3 B - Feststellungsbescheid - einzutragen ist, nicht mehr
+durch Addition der Beträge in Spalte 6 der Anlage ESt 1,
+2, 3 B ermitteln, läßt. Insoweit ist eine gesonderte
+Berechnung erforderlich. Der zutreffende Gewinn / Verlust
+entspricht regelmäßig dem Ergebnis aus Spalte
+2 der Anlage ESt 1, 2, 3 B (V) und den Spalten 3, 4 und 5 der Anlage
+ESt 1, 2, 3 B (auf die Vorzeichen ist zu achten). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010757600005">3.2 Die Feststellungen
+im Abschnitt A</lxbase:ueberschrift><lxbase:a eingerueckt="ja">sind um ein Auswahlfeld zu § 10e
+Abs. 5 a EStG (Einkommensbegrenzung) ergänzt worden. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010757600006">3.3 Feststellungen gem. § 180
+Abs. 2 AO </lxbase:ueberschrift><lxbase:a eingerueckt="ja">Abschnitt A (letzte Zeile) ist für
+die o. g. Feststellungen aus Gründen der Rechtsklarheit
+erweitert worden. Damit ist für Feststellungen bei Laborgemeinschaften
+die Verbindung zu den Vordrucken mit der Anlage ESt 1, 2, 3 B und Bauherren-
+und Erwerbergemeinschaften mit der Anlage ESt 2 BE / 3
+BE hergestellt worden (vgl. im einzelnen Erläuterungen
+unten). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010757600007">3.4 Im Abschnitt C</lxbase:ueberschrift><lxbase:a eingerueckt="ja">ist nunmehr in den Fällen eines
+Antrags gem. § 34c Abs. 2 EStG im Hinblick auf das dem
+Steuerpflichtigen zustehende Wahlrecht das Datum des Erklärungseingangs
+zu vermerken. </lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010757600008">4. Vordruck ESt 2 BE / 3
+BE / 4 BE </lxbase:ueberschrift><lxbase:kapitel><lxbase:a eingerueckt="ja">4.1 Nach § 1 Abs. 1
+Nr. 2 der VO zu § 180 Abs. 2 AO können Besteuerungsgrundlagen,
+insbesondere einkommensteuerpflichtige oder körperschaftsteuerpflichtige
+Einkünfte, ganz oder teilweise gesondert festgestellt werden,
+wenn der Einkunftserzielung dienende Wirtschaftsgüter,
+Anlagen oder Einrichtungen mehreren Personen getrennt zuzurechnen
+sind, die bei der Planung, Herstellung, Erhaltung oder dem Erwerb
+dieser Wirtschaftsgüter, Anlagen oder Einrichtungen gleichartige
+Rechtsbeziehungen zu Dritten hergestellt oder unterhalten haben
+(Gesamtobjekt). </lxbase:a><lxbase:a eingerueckt="ja">Nach Tz. 2.1 des BMF-Schreibens vom 5.
+12. 1990 (<lxprod:doknr-verw linkend="HT0096739">BStBl
+1990 I S. 764</lxprod:doknr-verw>) können gesonderte Feststellungen,
+insbesondere bei </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Bauherrenmodellen,
+die die Einrichtung von Einfamilienhäusern, Eigentumswohnungen
+oder sonstigen Gebäuden zum Gegenstand haben und bei </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Erwerbermodellen, einschließlich
+Bauträger- und Sanierungsmodellen </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>vorgenommen werden. </lxbase:a><lxbase:a eingerueckt="ja">Zu diesem Zweck wurde der jahresneutrale
+Vordruck "Anlage für Bauherren- und Erwerbergemeinschaften" aufgelegt. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="ja">4.2 Seite 1 enthält
+die Abschnitte "Allgemeine Feststellungen" und "Besondere Feststellungen",
+nachrichtliche Angaben zur Einkommensteuer, Umsatzsteuer und Gewerbesteuer
+finden sich auf Seite 2 der Vordruckteile ESt 2 BE und ESt 4 BE. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="ja">4.3 Der Vordruck ist für
+jeden der am Objekt Beteiligten auszufüllen; es ist zulässig,
+nur für einige der Steuerpflichtigen, die an dem Gesamtobjekt
+beteiligt sind, eine gesonderte Feststellung durchzuführen
+(vgl. Tz. 3.1.2 des o. g. BMF-Schreibens). Dies sollte im Regelfall
+nach Abschluß einer Außenprüfung durch
+das entsprechende Betriebsprüfungs-Finanzamt / die
+entsprechende BPST geschehen. Die Feststellung soll nur für
+den Zeitraum bis zur Bezugsfertigkeit (bei Bauherrenmodellen) oder
+der erstmaligen Vermietung oder Eigennutzung durch den Steuerpflichtigen
+(bei Erwerbermodellen) durchgeführt werden (siehe Tz. 3.1.2
+des o. g. BMF-Schreibens; Zeile 3 des Vordrucks). Der Vordruck enthält
+objektive Daten (z. B. Zeitpunkt der Fertigstellung, Arten der berücksichtigten
+Leistungsentgelte) und mittelbare Besteuerungsgrundlagen (z. B.
+Bemessungsgrundlagen für AfA). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="ja">4.4 Bei Objekten, die in Ausübung
+eines Erbbaurechts errichtet worden sind, ist Spalte 7 (Grund und
+Boden) um Angaben zu dem Erbbaurecht zu ergänzen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="ja">4.5 Der Teil ESt 2 BE ist als
+Anlage zum Feststellungsbogen ESt 2 B bestimmt (Verknüpfung über
+Seite 1 letzte Ausfüllzeile und Nr. 4 b der Verfügung),
+der Teil ESt 3 BE ist dem Feststellungsbescheid ESt 3 B beizufügen
+und der Teil ESt 4 BE ist mit der ESt 4 B-Mitteilung zu verbinden
+(vgl. Auswahlfeld über "Im Auftrag").
+Angaben über die Höhe der in den Zeilen 15 bis
+19 aufgeführten Leistungsentgelte sind daher nicht erforderlich,
+da diese Beträge im Gesamtaufwand enthalten sind und das
+Wohnsitzfinanzamt weitere zum Gesamtaufwand gehörende Aufwendungen
+der angekreuzten Arten bei der Einkommensteuerveranlagung nicht
+berücksichtigen darf. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:a eingerueckt="ja">4.6 Erfolgen die Feststellungen
+für mehrere Jahre in einem Bescheid, so ist für jeden
+Feststellungszeitraum ein Vordruck im erforderlichen Umfang auszufüllen. </lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010757600009">5. Vordruck ESt 4 B </lxbase:ueberschrift><lxbase:a eingerueckt="ja">Die Vorderseite enthält neben
+den Feststellungen auch nachrichtliche Angaben (siehe oben zum Vordruck
+ESt 2 B / 3 B). Die Rückseite wurde dem Vordruck ESt
+1, 2, 3 B angepaßt. In den Fällen des § 15a
+EStG ist der Gesamtbetrag lt. Spalte 6 der bei der Veranlagung anzusetzende
+Betrag. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010757600010">6. Vordruck ESt 2 C / 3
+C / 4 C </lxbase:ueberschrift><lxbase:a eingerueckt="ja">Der Vordruck wurde hinsichtlich der Änderungen
+des § 34c EStG geändert. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010757600011">7. Vordruck ESt 2 D / 3
+D </lxbase:ueberschrift><lxbase:a eingerueckt="ja">Die gesonderte Feststellung des verbleibenden
+Verlustabzugs ist auch bei einer personellen ESt-Veranlagung grundsätzlich
+maschinell durchzuführen (Fach 10 Teil 17 DA-ADV). </lxbase:a><lxbase:a eingerueckt="ja">Im übrigen ergeben sich keine Änderungen
+gegenüber dem Vorjahr. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010757600012">8. Vordruck ESt 2 E / 3
+E </lxbase:ueberschrift><lxbase:a eingerueckt="ja">Die negativen Einkünfte nach § 2a
+Abs. 1 EStG, die zeitlich beschränkt ausgleichsfähig
+sind, vermindern sich von Jahr zu Jahr (1986 - 1991). Die zeitlich uneingeschränkt
+ausgleichsfähigen negativen Einkünfte (ab 1992)
+brauchen nicht mehr jahrweise getrennt zu werden und sind in den
+Zeilen 10 und 21 nur noch in einem Gesamtbetrag festzustellen. Für
+Ehegatten sind stets getrennte Feststellungen zu treffen. </lxbase:a><lxbase:a eingerueckt="ja">--- </lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Lohnsteuer</lxbase:rthema><lxbase:rthema>Außensteuerrecht</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Verfahrensrecht/Abgabenordnung</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Nordrhein-Westfalen</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

@@ -1,0 +1,816 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0019421" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Saarbrücken</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2188 - 1 - St 221</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2188 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1975-07-28" /></lxbase:daten><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Anlagen 1 - 3 wurden nicht aufgenommen</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:55</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1975" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Bodengewinnbesteuerung nach § 55 EStG</lxbase:a></lxbase:headline></lxbase:titel><lxbase:kapitel><lxbase:a>Inhaltsübersicht</lxbase:a><lxbase:a>I. Allgemeines zur Bodengewinnbesteuerung</lxbase:a><lxbase:a>1. Gesetzliche Grundlagen</lxbase:a><lxbase:a>2. Zeitlicher Anwendungsbereich</lxbase:a><lxbase:a>3. Festsetzung von Vorauszahlungen <lxbase:za /> II. Begriff des land-
+und forstwirtschaftlichen Betriebs</lxbase:a><lxbase:a>1. Ernsthafte land- und forstwirtschaftliche Betätigung</lxbase:a><lxbase:a>2. Zugehörigkeit von Grundstücksflächen
+zum Betriebsvermögen</lxbase:a><lxbase:a>3. Erbbaurecht</lxbase:a><lxbase:a>4. Nießbrauch</lxbase:a><lxbase:a>5. Fragen zur 30 ar-Regelung</lxbase:a><lxbase:a>III. Land- und forstwirtschaftlich genutzte Grundstücke
+im bürgerlich-rechtlichen Eigentum von Ehegatten und Kindern</lxbase:a><lxbase:a>1. Allgemeines</lxbase:a><lxbase:a>2. Wirtschaftliches Eigentum</lxbase:a><lxbase:a>3. Güterstand</lxbase:a><lxbase:a>4. Mitunternehmerschaft</lxbase:a><lxbase:a>IV. Übertragung eines land- und forstwirtschaftlichen
+Betriebs im Wege der vorweggenommenen Erbfolge</lxbase:a><lxbase:a>1. Übertragung des Betriebs mit allen wesentlichen Betriebsgrundlagen</lxbase:a><lxbase:a>2. Zurückbehaltung der Betriebsgebäude oder
+einzelner Grundstücksflächen</lxbase:a><lxbase:a>V. Die Fälle der Betriebsaufgabe bei land- und forstwirtschaftlichen
+Betrieben</lxbase:a><lxbase:a>1. Betriebseinstellung</lxbase:a><lxbase:a>2. Betriebsverpachtung</lxbase:a><lxbase:a>VI. Ermittlung der Buchwerte des Grund und Bodens nach § 55
+Abs. 1 bis 4 EStG</lxbase:a><lxbase:a>1. Allgemeines</lxbase:a><lxbase:a>2. Ausgangsbeträge nach § 55 Abs. 2 Ziff. 1
+u. 2 bis 8 EStG in Fällen, in denen die tatsächliche
+Nutzung zum 1. Juli 1970 von der im Liegenschaftskataster eingetragenen
+Nutzung abweicht</lxbase:a><lxbase:a>VII. Feststellung des höheren Teilwerts nach § 55
+Abs. 5 EStG</lxbase:a><lxbase:a>1. Antragstellung, Ermittlung und Feststellung</lxbase:a><lxbase:a>2. Vereinfachungsregelung</lxbase:a><lxbase:a>3. Auswirkungen der Feststellung auf andere Steuerarten <lxbase:za /> 
+ VIII. Verlustklausel <lxbase:za /> IX. Buch- und wertmäßige
+Erfassung des Grund und Bodens <lxbase:za /> X. Besteuerung der Bodengewinne</lxbase:a><lxbase:a>1. Bei Gewinnermittlung nach § 4 Abs. 3 EStG und § 12
+GDL (§ 13a EStG) bei ratenweiser Zahlung</lxbase:a><lxbase:a>2. Bei Strukturwandel <lxbase:za /> XI. Freibeträge nach § 14,
+14a EStG</lxbase:a><lxbase:a>1. Allgemeines</lxbase:a><lxbase:a>2. Besonderheiten <lxbase:za /> XII. Durchführung der Bodengewinnbesteuerung <lxbase:za /> 
+ XIII. Ermittlung der steuerpflichtigen Fälle <lxbase:za /> Verwaltungsanweisungen</lxbase:a><lxbase:a>Auf die nachfolgend aufgeführten FMS-Erlasse und OFD-Verfügungen
+wird in der Verfügung teilweise Bezug genommen:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="8*" /><cals:colspec colnum="2" colname="2" colwidth="31*" /><cals:colspec colnum="3" colname="3" colwidth="61*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a> FMS-Erlaß vom </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> Inhalt </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 10. 3. 1972 B/<lxbase:az normform="II-235/72" manuell="nein">II-235/72
+S</lxbase:az>-2000 / <lxbase:az normform="S2130" manuell="nein">S-2130</lxbase:az> / <lxbase:az normform="S2188" manuell="nein">S-2188</lxbase:az> A</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>Zweifelsfragen zur Neuregelung der Bodengewinnbesteuerung
+durch das 2. StÄndG 1971 </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>2.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 3. 5. 1972 B/<lxbase:az normform="II-642/72" manuell="nein">II-642/72 S</lxbase:az>-2230
+A </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>Begriff des land- und forstwirtschaftlichen Betriebes </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>3.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 9. 6. 1972 B/<lxbase:az normform="II-656/72" manuell="nein">II-656/72 S</lxbase:az>-2130 / <lxbase:az normform="S2188" manuell="nein">S-2188</lxbase:az>
+A</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>Feststellung des höheren Teilwerts
+nach § 55 Abs. 5 EStG </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>4.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 4. 7. 1972 B/<lxbase:az normform="II-656/72" manuell="nein">II-656/72 S</lxbase:az>-2130 / <lxbase:az normform="S2188" manuell="nein">S-2188</lxbase:az>
+A </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> Zuständigkeit für die
+gesonderte Feststellung von Grund und Boden gemäß 
+ § 55 Abs. 5 EStG </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>5.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 7. 7. 1972 B/<lxbase:az normform="IV-390/72" manuell="nein">IV-390/72 S</lxbase:az>-3300
+A </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>Ermittlung der Ausgangsbeträge nach § 55 Abs.
+2 und 3 EStG durch Bewertungsstellen </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>6.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> Verfügung vom 29. 8. 1972 <lxbase:az normform="S2130/S2188 8St221" manuell="nein">S-2130 / S-2188
+- 8 - St 221</lxbase:az> </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> Ermittlung der Ausgangsbeträge i.
+S. von § 55 Abs. 2 und 3 EStG 1971 für zum land- und
+forstwirtschaftlichen Vermögen gehörenden Grund
+und Boden </lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>7.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> FMS-Erlaß vom 11. 11. 1974 B/<lxbase:az normform="II-1025/74" manuell="nein">II-1025/74 S</lxbase:az>-2230
+<lxbase:az normform="S2188" manuell="nein">S-2188</lxbase:az> A </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> Zeitpunkt der wertmäßigen
+ Erfassung des Grund und Bodens bei Stpfl. mit Gewinnermittlung
+nach § 4 Abs. 1 EStG</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>I. Allgemeines zur Bodengewinnbesteuerung</lxbase:a><lxbase:a>1. Gesetzliche Grundlagen</lxbase:a><lxbase:a>Durch das Zweite Steueränderungsgesetz 1971 vom 10.
+8. 1971 (<lxbase:lit-fs normform="BStBl-1971-I-0373" manuell="nein">BStBl
+I S. 373</lxbase:lit-fs>) ist die Bodengewinnbesteuerung bei Land- und
+Forstwirten, selbständig Tätigen und Kleingewerbetreibenden
+neu geregelt worden.</lxbase:a><lxbase:a>Diese Neuregelung besteht im wesentlichen in <lxbase:za /> der Streichung
+des § 4 Abs. 1 Satz 5 EStG, <lxbase:za /> einer Ergänzung
+des § 4 Abs. 3 EStG, <lxbase:za /> einer Änderung des § 14
+EStG, <lxbase:za /> der Einführung eines § 14a EStG, <lxbase:za /> 
+ einer Änderung des § 16 Abs. 4 EStG, <lxbase:za /> der
+Anfügung eines § 55 EStG, <lxbase:za /> der Einfügung
+von Übergangsregelungen <lxbase:za /> in § 52 EStG, <lxbase:za /> 
+ einer Ergänzung der §§ 8 und 12 GDL
+(für <lxbase:za /> Wirtschaftsjahre, die nach dem 31. 12. 1973 <lxbase:za /> 
+ beginnen, vgl. § 13a Abs. 6 EStG - BStBl <lxbase:za /> 1974 I
+S. 249).</lxbase:a><lxbase:a>2. Zeitlicher Anwendungsbereich</lxbase:a><lxbase:a>a) Bei Land- und Forstwirten greift die Neuregelung nur ein,
+wenn der Grund und Boden nach dem 30. 6. 1970 veräußert
+oder entnommen worden ist (§ 52 Abs. 5 EStG 1971; § 52
+Abs. 3 EStG 1974; § 52 Abs. 2 EStG 1975).</lxbase:a><lxbase:a>Bei Kleingewerbetreibenden und selbständig Tätigen
+setzt die Bodengewinnbesteuerung ein, wenn der Grund und Boden nach
+dem 14. 8. 1971 veräußert oder entnommen wurde
+(§ 52 Abs. 5 EStG 1971; § 52 Abs. 3 EStG 1974; § 52
+Abs. 2 EStG 1975).</lxbase:a><lxbase:a>Hinweis auch auf Abschn. 16 Abs. 1 EStR 1972.</lxbase:a><lxbase:a>b) Sowohl bei Land- und Forstwirten als auch bei Kleingewerbetreibenden
+und selbständig Tätigen werden die vor dem 1.
+7. 1970 liegenden Bodenwertsteigerungen bei der Ermittlung des Veräußerungs-
+oder Entnahmegewinns auch in den Fällen nicht berücksichtigt,
+in denen der Grund und Boden am 30. 6. 1970 schon zum Betriebsvermögen
+gehörte (§ 55 Abs. 1 EStG).</lxbase:a><lxbase:a>Beispiel: <lxbase:za /> Veräußert ein Kleingewerbetreibender
+seinen zum Betriebsvermögen gehörenden Grund und
+Boden vor dem 15. 8. 1971, ist dieser Vorgang einkommensteuerlich
+nicht bedeutsam. Liegt die Veräußerung des Grund
+und Bodens nach dem 14. 8. 1971, greift die Neuregelung der Bodengewinnbesteuerung
+ein. Dabei sind die vor dem 1. 7. 1970 entstandenen Bodenwertsteigerungen
+nicht, wohl aber die zwischen dem 30. 6. 1970 und dem 15. 8. 1971
+sowie die bis zum Veräußerungstag eingetretenen
+Wertänderungen zu berücksichtigen.</lxbase:a><lxbase:a>3. Festsetzung von Vorauszahlungen <lxbase:za /> Die durch die Veräußerung
+des Grund und Bodens entstandenen Bodengewinne sind in bedeutenden
+Fällen nicht erst im Rahmen der Veranlagung, sondern schon
+im Wege einer Anpassung der laufenden Vorauszahlungen oder durch
+nachträgliche Erhöhung der Vorauszahlungen zu
+erfassen.</lxbase:a><lxbase:a>II. Begriff des land- und forstwirtschaftlichen Betriebs</lxbase:a><lxbase:a>1. Ernsthafte land- und forstwirtschaftliche Betätigung</lxbase:a><lxbase:a>Der Begriff des land- und forstwirtschaftlichen Betriebs setzt
+weder eine Mindestgröße noch die Zugehörigkeit
+von Wirtschaftsgebäuden und Betriebsmitteln voraus. Auch
+die ernsthaft betriebene landwirtschaftliche Nutzung von einzelnen
+landwirtschaftlichen Grundstücken ist daher Land- und Forstwirtschaft.</lxbase:a><lxbase:a>Nach Nr. 3 des Erlasses vom 3. 5. 1972 kann aus Gründen
+der Verwaltungsvereinfachung im allgemeinen davon ausgegangen werden,
+daß - abgesehen von den sog. Intensivnutzungen (Gemüse-,
+Blumen- und Zierpflanzenanbau, Baumschulen, Weinbau, Hopfen-, Spargel-
+und Tabakbau, Obstbau und Forstwirtschaft) kein land- und forstwirtschaftlicher
+Betrieb vorliegt, wenn die bewirtschafteten Grundstücksflächen
+insgesamt nicht größer als 3.000 qm sind. Betragen
+dagegen die selbst bewirtschafteten Grundstücksflächen
+mehr als 3000 qm, so liegt ein land- und forstwirtschaftlicher Betrieb
+vor, wenn diese Flächen nach dem Gesamtbild ernsthaft landwirtschaftlich
+genutzt werden. Anhaltspunkte für eine ernsthafte landwirtschaftliche
+Nutzung können der Umfang der Arbeitsleistung, des Einsatzes
+von Maschinen und Geräten sowie der laufenden Düngung
+und Spritzung der Kulturen sein. Auch die Zugehörigkeit
+zu einer landwirtschaftlichen Berufsorganisation, die Mitgliedschaft
+bei landwirtschaftlichen Bezugs- und Absatzgenossenschaften, die
+Zahlung von Beiträgen an die landwirtschaftliche Alterskasse,
+die Inanspruchnahme der Verbilligung von Gasöl sowie anderer
+staatlicer Maßnahmen zur Verbesserung der Agrarstruktur
+können für das Bestehen eines land- und forstwirtschaftlichen Betriebs
+sprechen.</lxbase:a><lxbase:a>Eine landwirtschaftliche Nutzung liegt zwar auch vor, wenn die
+Erzeugnisse nur für den Eigenverbrauch Verwendung finden.
+In diesem Fall wird aber regelmäßig wegen der
+zu unterstellenden geringen Ertragsfähigkeit eine ernsthafte
+Nutzung nicht anzunehmen sein.</lxbase:a><lxbase:a>Werden Flächen nur noch im Interesse des Landschaftsschutzes
+betreut (z. B. vom Eigentümer oder von einem Dritten abgemäht),
+kann nicht mehr von einer ernsthaften land- und forstwirtschaftlichen
+Betätigung gesprochen werden.</lxbase:a><lxbase:a>Bei Anwendung dieser Grundsätze scheiden private Hausgärten,
+Schrebergärten und Wochenendgrundstücke (vgl.
+auch Erlaß vom 3. 5. 1972) aus dem Bereich Land- und Forstwirtschaft
+aus.</lxbase:a><lxbase:a>2. Zugehörigkeit von Grundstücken zum Betriebsvermögen <lxbase:za /> 
+ Zum Betriebsvermögen eines Land- und Forstwirts gehören:</lxbase:a><lxbase:a>a) die selbstbewirtschafteten Grundstücke, die dem Betriebsinhaber
+gehören; wirtschaftliches Eigentum genügt (vgl.
+hierzu Abschnitt III Nr. 2)</lxbase:a><lxbase:a>b) Verpachtete Grundstücke</lxbase:a><lxbase:a>c) Das Geringstland (§ 44 BewG), z. B. Heideland</lxbase:a><lxbase:a>d) Das Unland (§ 45 BewG), z. B. Wassergräben
+und Böschungen</lxbase:a><lxbase:a>e) Brachliegende Grundstücke (Sozialbrache); es handelt
+sich hierbei um Grundstücke, die aus persönlichen
+oder wirtschaftlichen Gründen vorübergehend nicht
+bewirtschaftet werden.</lxbase:a><lxbase:a>Zu b) <lxbase:za /> Werden einzelne Grundstücke des im übrigen
+weiter bestehenden Betriebes vorübergehend verpachtet,
+so bleiben sie weiterhin notwendiges Betriebsvermögen.
+Werden sie hingegen auf Dauer verpachtet, so kann bei Nachweis des Pachtverhältnisses
+(Name des Pächters) die Entnahme des Grundstückes
+anerkannt werden. Voraussetzung für eine steuerlich anzuerkennende
+Entnahme ist, daß das Pachtverhältnis ernsthaft
+vereinbart worden ist und auch tatsächlich durchgeführt
+wird (z. B. bei Verpachtungen zwischen Eltern und Kinder). Erfolgte
+die Verpachtung auf Dauer vor dem 1. 7. 1970 und wurde hierbei die Entnahme
+ausdrücklich erklärt, so gehörten die
+Grundstücke am 1. 7. 1970 zum Privatvermögen.</lxbase:a><lxbase:a>Ist die Erklärung unterblieben, so gilt entsprechendes,
+falls</lxbase:a><lxbase:a>a) im Zeitpunkt der Verpachtung für den Verpächter
+keine Veranlassung bestand, für steuerliche Zwecke die
+Entnahme zu erklären (weil z. B. keine Veranlagung durchgeführt
+wurde)</lxbase:a><lxbase:a>oder</lxbase:a><lxbase:a>b) die Pachteinnahmen in der Steuererklärung für
+den Veranlagungszeitraum 1969 als Einkünfte aus Vermietung
+und Verpachtung ausgewiesen worden sind.</lxbase:a><lxbase:a>Wegen der Ermittlung des Entnahmewertes in der Zeit bis zum 30.
+6. 1972 vgl. Nr. 11 des Erlasses vom 10. 3. 1972.</lxbase:a><lxbase:a>Zu e) <lxbase:za /> Werden einzelne landwirtschaftliche Flächen
+eines landwirtschaftlichen Betriebs für bestimmte oder
+unbestimmte Zeit nicht landwirtschaftlich genutzt, so bleiben sie
+grundsätzlich Betriebsvermögen.</lxbase:a><lxbase:a>Stellt ein Landwirt die Nutzung einzelner Grundstücke
+endgültig und erkennbar ein, ist eine Entnahme dieser Grundstücke
+möglich. Das kann z. B. der Fall sein, wenn die Nutzung
+wegen eines Umlegungsverfahrens oder wegen einer Erschließung
+eingestellt wurde. Voraussetzung ist neben der Nutzungseinstellung
+eine eindeutige Entnahmehandlung. Auf die Behandlung des Grundstückes
+im Einheitswertverfahren kommt es dabei aber nicht an.</lxbase:a><lxbase:a>Werden alle Flächen eines landwirtschaftlichen Betriebs
+nicht mehr landwirtschaftlich genutzt - im Sprachgebrauch ebenfalls
+als Sozialbrache bezeichnet -, so kann darin eine Aufgabe des Betriebs
+liegen.</lxbase:a><lxbase:a>Liegen Stückländereien, die gem. § 34
+Abs. 7 BewG einen selbständigen Betrieb darstellen, auf
+Dauer brach, so kann nicht mehr von einer ernsthaften land- und
+forstwirtschaftlichen Betätigung gesprochen werden. Sie
+gehören deshalb ab dem Zeitpunkt der Nutzungseinstellung
+zum Privatvermögen. Dies gilt auch, wenn ein Dritter die
+Fläche betreut (z. B. abmäht). Die Nutzungseinstellung
+wird regelmäßig mit einer Betriebsaufgabe verbunden
+sein (vgl. Abschnitt V Nr. 1).</lxbase:a><lxbase:a>3. Erbbaurecht <lxbase:za /> Die Belastung eines zu einem Betriebsvermögen
+gehörenden Grundstücks mit einem Erbbaurecht stellt
+für sich allein gesehen noch keine Entnahme dar. Auch Grundstücke,
+die zu einem land- und forstwirtschaftlichen Betriebsvermögen gehören
+und die vor dem 1. 7. 1970 mit einem Erbbaurecht belastet worden sind,
+gehören daher am 1. 7. 1970 grundsätzlich noch
+zum land- und forstwirtschaftlichen Betriebsvermögen des
+Grundstückseigentümers. Etwas anderes gilt nur
+dann, wenn der Eigentümer vor dem 1. 7. 1970 seinen Betrieb
+ohne das mit dem Erbbaurecht belastete Grundstück veräußert
+hat, seinen Betrieb aufgegeben hat oder das Grundstück
+entnommen hat. Liegt weder eine Betriebsveräußerung,
+noch eine Betriebsaufgabe, noch eine Entnahme vor dem 1. 7. 1970 vor,
+so kann aus Gründen des Vertrauensschutzes entsprechend
+der in Nr. 6 Abs. 1 des Erlasses vom 10. 3. 1972 enthaltenen Verwaltungsanweisung
+von einer vor dem 1. 7. 1970 erfolgten Entnahme ausgegangen werden,
+wenn die Erbbauzinsen bei der rechtskräftigen Veranlagung
+des Grundstückseigentümers für den Veranlagungszeitraum
+1969 als Einkünfte aus Vermietung und Verpachtung behandelt
+worden sind.</lxbase:a><lxbase:a>4. Nießbrauch <lxbase:za /> Wird an einem land- und forstwirtschaftlichen
+Betrieb ein Nießbrauchsrecht bestellt, so sind die zu dem
+land- und forstwirtschaftlichen Betrieb gehörenden Grundstücke
+grundsätzlich dem rechtlichen Eigentümer (Nießbrauchbesteller) zuzurechnen.
+Etwas anderes gilt nur dann, wenn der Nießbraucher ausnahmsweise
+als wirtschaftlicher Eigentümer der Grundstücke
+anzusehen ist. Das dürfte z. B. der Fall sein, wenn der
+Eigentümer den lebenslänglichen Nießbrauch
+an einem landwirtschaftlichen Betrieb zugunsten einer Person bestellt, die
+erheblich jünger ist als er und die er als seinen Alleinerben
+eingesetzt hat (vgl. auch Abschnitt III Nr. 2).</lxbase:a><lxbase:a>Entsprechendes gilt bei der Bestellung eines Nießbrauchs
+an einzelnen land- und forstwirtschaftlichen Grundstücken.</lxbase:a><lxbase:a>5. Beispiele zur 3000 qm Regelung</lxbase:a><lxbase:a>a) Mehrere Stückländereien eines Steuerpflichtigen</lxbase:a><lxbase:a>Die 3000 qm Grenze bezieht sich nicht auf die einzelne Stückländerei,
+sondern auf sämtliche Grundstücksflächen
+eines Steuerpflichtigen.</lxbase:a><lxbase:a>b) Stückländereien einer Erbengemeinschaft <lxbase:za /> 
+ Die 3.000 qm Grenze ist objektbezogen. Maßgebend ist deshalb
+nicht die Größe der den einzelnen Beteiligten
+zuzurechnenden Grundstücksteile, sondern die Größe
+des gesamten landwirtschaftlichen Betriebs.</lxbase:a><lxbase:a>c) Anwendung der 3.000 qm Regelung <lxbase:za /> Ein Steuerpflichtiger
+besitzt folgende Grundstücke:</lxbase:a><lxbase:a>aa) 2.000 qm Ackerfläche <lxbase:za /> 1.500 qm Wochenendgrundstück.</lxbase:a><lxbase:a>Das Wochenendgrundstück gehört zum Privatvermögen.
+Da die Ackerfläche nicht größer als 3.000
+qm ist, rechnet sie ebenfalls zum Privatvermögen.</lxbase:a><lxbase:a>bb) 500 qm Rebfläche <lxbase:za /> 2.000 qm Ackerfläche</lxbase:a><lxbase:a>die 3.000 qm Regelung kommt nicht zum Zug, da bereits hinsichtlich
+der Rebfläche ein land- und forstwirtschaftlicher Betrieb
+vorliegt und deshalb auch die Ackerfläche Betriebsvermögen
+darstellt.</lxbase:a><lxbase:a>cc) 500 qm brachliegende Rebfläche <lxbase:za /> 2.000 qm im
+Ertrag stehende Rebfläche eigengenutzt <lxbase:za /> 1.600 qm
+Wald <lxbase:za /> 1.500 qm Baumwiese eigengenutzt <lxbase:za /> 1.200 qm Baumwiese
+verpachtet um 120,-- DM im Jahr.</lxbase:a><lxbase:a>In diesem Falle ist die eigengenutzte Fläche (dazu gehört
+auch die brachliegende Rebfläche, der Wald und die Baumwiese)
+größer als 3.000 qm. Alle diese Flächen
+gehören zum landwirtschaftlichen Betriebsvermögen.
+Zweifelhaft kann nur sein, wie die verpachtete Wiese zu behandeln
+ist. War sie auf die Dauer bereits am 1. Juli 1970 verpachtet, und
+ist die Entnahme der Wiese vor dem 1. 7. 1970 ausdrücklich
+erklärt worden, oder sind die Pachteinnahmen in der Einkommensteuererklärung
+1969 als Einkünfte aus Vermietung und Verpachtung erklärt
+worden, so bestehen keine Bedenken, insoweit Privatvermögen
+anzunehmen. Wird dagegen die Wiese erst jetzt auf Dauer verpachtet,
+so kann eine Entnahme mit der Folge einer Gewinnrealisierung erfolgen.</lxbase:a><lxbase:a>Soweit in den vorstehenden Beispielen Rebflächen angeführt
+werden, ist die Entscheidung sinngemäß für
+andere intensiv genutzte Flächen anzuwenden.</lxbase:a><lxbase:a>III. Land- und forstwirtschaftlich genutzte Grundstücke
+in bürgerlich-rechtlichem Eigentum von Ehegatten und Kindern</lxbase:a><lxbase:a>1. Allgemeines <lxbase:za /> Land- und forstwirtschaftlich genutzte
+Flächen gehören zum Betriebsvermögen
+einer Land- und Forstwirtschaft, wenn sie im bürgerlich-rechtlich
+oder wirtschaftlichen Eigentum des Betriebsinhabers stehen. Grund
+und Boden, der dem Ehegatten des Betriebsinhabers gehört,
+zählt somit grundsätzlich nicht zum Betriebsvermögen
+des Betriebsinhabers.</lxbase:a><lxbase:a>2. Wirtschaftliches Eigentum <lxbase:za /> Wirtschaftliches Eigentum
+kann nach dem BFH-Urteil vom 26. 1. 1970 (<lxprod:doknr-verw linkend="HT0001119">BStBl II S.
+264</lxprod:doknr-verw>) nur dann angenommen werden, wenn der rechtliche Eigentümer
+für dauernd von der Einwirkung auf das Wirtschaftsgut wirtschaftlich
+ausgeschlossen werden kann, so daß sein Herausgabeanspruch
+keine wirtschaftliche Bedeutung mehr hat. Diese Voraussetzungen
+werden bei dem Wirtschaftsgut Grund und Boden nur in Ausnahmefällen
+vorliegen. Ein solcher Ausnahmefall liegt nicht vor, wenn ein Elternteil oder
+beide Elternteile in seinem bzw. ihrem land- und forstwirtschaftlichen Betrieb
+Grundstücksfläche mitbewirtschaften, die einem
+minderjährigen Kind gehören; denn durch das Verwaltungsrecht
+der Eltern über das Kindesvermögen wird das Kind
+nicht für dauernd von der Einwirkung auf die Grundstücksflächen
+ausgeschlossen. Auch die unentgeltliche Überlassung von Grundstücksflächen
+eines Ehegatten an den anderen Ehegatten oder der Kinder an einen
+Elternteil oder beide Elternteile begründet noch kein wirtschaftliches Eigentum.</lxbase:a><lxbase:a>3. Güterstand <lxbase:za /> Eine Zurechnung von Flächen
+des Ehegatten zum Betriebsvermögen der Land- und Forstwirtschaft
+kann sich aus güterrechtlichen Vereinbarungen oder aus
+einem zwischen den Ehegatten bestehenden Gesellschaftsverhältnis
+ergeben.</lxbase:a><lxbase:a>Beim Güterstand der Gütergemeinschaft (vor
+dem 1. Juli 1958 dem Güterstand der allgemeinen Gütergemeinschaft)
+ist zwischen Gesamtgut und Vorbehaltsgut zu unterscheiden. Gehört
+zum Gesamtgut der Ehegatten ein land- und forstwirtschaftlicher
+Betrieb, so ist nach den BFH-Urteilen vom 18. 2. 1959 (<lxprod:doknr-verw linkend="HT0002992">BStBl III
+S. 263</lxprod:doknr-verw>) und vom 1. 3. 1966 (<lxprod:doknr-verw linkend="HT0002011">BStBl III
+S. 277</lxprod:doknr-verw>) eine Mitunternehmerschaft zwischen den Ehegatten
+auch ohne besondere Vereinbarung anzunehmen. In diesem Falle gehören
+alle Grundstücke der Ehegatten, die dem land- und forstwirtschaftlichen
+Betrieb dienen, zum Betriebsvermögen. Es spielt dabei keine Rolle,
+ob sie zum Gesamtgut oder zum Vorbehaltsgut eines Ehegatten gehören. Gehören
+die Grundstücke zum Gesamtgut, so sind sie jedem Ehegatten
+zur Hälfte zuzurechnen. Grundstücke die zum Vorbehaltsgut
+eines Ehegatten gehören, sind diesem voll zuzurechnen.</lxbase:a><lxbase:a>Gehört ein land- und forstwirtschaftlicher Betrieb zum
+Vorbehaltsgut eines Ehegatten, so gilt für Grundstücke,
+die im Rahmen dieses Betriebes bewirtschaftet werden, folgendes:
+Grundstücke, die zum Vorbehaltsgut des Betriebsinhabers
+gehören, sind diesem voll zuzurechnen und sind Betriebsvermögen. Grundstücke,
+die zum Vorbehaltsgut des anderen Ehegatten gehören, sind
+nur diesem zuzurechnen und gehören nicht zum Betriebsvermögen
+des Betriebsinhabers. Grundstücke, die zum Gesamtgut gehören,
+sind jedem Ehegatten zur Hälfte zuzurechnen und gehören
+zur Hälfte zum Betriebsvermögen des Betriebsinhabers.</lxbase:a><lxbase:a>4. Mitunternehmerschaft <lxbase:za /> Ein steuerlich zu beachtendes
+Gesellschaftsverhältnis zwischen Ehegatten liegt im landwirtschaftlichen
+Bereich ebenso wie im gewerblichen Bereich vor, wenn beide Ehegatten
+zur Erreichung des Gesellschaftszweckes durch Mitarbeit, Bereitstellung
+von Kapital oder durch Überlassung von Wirtschaftsgütern, insbesondere
+von Grund und Boden, tatsächlich so beitragen, wie es im Geschäftsleben
+bei einander fremden Gesellschaftern der Fall wäre. Der
+Beitrag darf nicht von untergeordneter Bedeutung sein (vgl. das
+BFH-Urteil vom 3. 8. 1973, <lxprod:doknr-verw linkend="HT0007563">BStBl II S. 844</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Eine Gesellschaft wird begründet durch</lxbase:a><lxbase:a>a) ausdrücklichen Abschluß eines Gesellschaftsvertrages,</lxbase:a><lxbase:a>b) stillschweigendes Verhalten der Ehegatten, das den Willen
+zum Abschluß eines Gesellschaftsvertrages zum Ausdruck
+bringt. Dazu reichen die objektiven Merkmale einer Mitunternehmerschaft
+- Mitarbeit, Überlassung von Wirtschaftsgütern
+- allein nicht aus. Daher liegt eine Mitunternehmerschaft nicht vor,
+wenn der im Betrieb mitarbeitende Ehegatte - evtl. aufgrund eines
+Arbeitsvertrages ihm gehörende Grundstücke dem
+anderen Ehegatten zur Nutzung überläßt.</lxbase:a><lxbase:a>IV. Übertragung eines land- und forstwirtschaftlichen
+Betriebs im Wege der vorweggenommenen Erbfolge</lxbase:a><lxbase:a>1. Übertragung des Betriebs mit allen wesentlichen Betriebsgrundlagen</lxbase:a><lxbase:a>Überträgt ein Steuerpflichtiger den land- und
+forstwirtschaftlichen Betrieb im ganzen unentgeltlich auf einen
+Nachfolger, ist § 7 Abs. 1 EStDV anzuwenden. Die im Betriebsvermögen
+enthaltenen stillen Reserven sind nicht zu realisieren.</lxbase:a><lxbase:a>War der auf den Nachfolger übertragene land- und forstwirtschaftliche
+Betrieb im Zeitpunkt der Übertragung im ganzen verpachtet,
+ohne daß eine Betriebsaufgabe erklärt war, kann § 7
+Abs. 1 EStDV ebenfalls angewendet werden.</lxbase:a><lxbase:a>2. Zurückbehaltung der Betriebsgebäude oder
+einzelner Grundstücksflächen</lxbase:a><lxbase:a>a) Überträgt ein Steuerpflichtiger den land-
+und forstwirtschaftlichen Betrieb unentgeltlich auf einen Nachfolger,
+behält er das Betriebsgebäude aber zurück, ist § 7
+Abs. 1 EStDV nicht anwendbar, da nicht die wesentlichen Grundlagen des
+Betriebs auf den Nachfolger übergehen. Zu den wesentlichen
+Betriebsgrundlagen eines land- und forstwirtschaftlichen Betriebs
+gehören außer dem Grund und Boden auch die Betriebsgebäude
+sowie in der Regel das lebende und tote Inventar. Bei Zurückbehaltung
+des Betriebsgebäudes wird somit nicht ein Betrieb im ganzen übertragen.
+Da nur einzelne Wirtschaftsgüter unentgeltlich übergeben
+werden, während das Betriebsgebäude in das Privatvermögen übernommen
+wird, liegt eine Betriebsaufgabe im Sinne des § 16 Abs.
+3 EStG vor (Abschn. 139 Abs. 5 EStR).</lxbase:a><lxbase:a>b) Werden bei einer unentgeltlichen Betriebsübertragung
+nicht Betriebsgebäude, sondern einzelne Grundstücksflächen
+zur eigenen Bewirtschaftung zurückbehalten, die als landwirtschaftlicher
+Betrieb zu behandeln sind (weil sie mehr als 3.000 qm ausmachen),
+kann § 7 Abs. 1 EStDV angewendet werden, wenn die zurückbehaltenen
+Grundstücke im Verhältnis zum übergebenen
+landwirtschaftlichen Betrieb von untergeordneter Bedeutung sind
+und der Nachfolger den übergebenen Betrieb ohne Neuanschaffungen
+als lebenden Organismus fortführen kann.</lxbase:a><lxbase:a>Beispiel: <lxbase:za /> Der landwirtschaftliche Betrieb wird auf 9 ha
+Grund und Boden betrieben. Gebäude und Inventar sind vorhanden.
+Der Steuerpflichtige überträgt den Betrieb auf
+den Sohn und behält 4.000 qm zurück.</lxbase:a><lxbase:a>Anders ist die Sache zu beurteilen, wenn kein Betrieb im Sinne
+des § 7 Abs. 1 EStDV, sondern nur einzelne Wirtschaftsgüter übertragen
+wurden.</lxbase:a><lxbase:a>Beispiel: <lxbase:za /> Ein Steuerpflichtiger hat zwei Grundstücke,
+die 4.000 qm bzw. 6.000 qm groß sind. Er bewirtschaftet
+sie selbst. Er schenkt das Grundstück von 6.000 qm seinem
+Sohn, das Grundstück von 4.000 qm bewirtschaftet er weiterhin
+selbst.</lxbase:a><lxbase:a>Die zurückbehaltene Fläche ist im Verhältnis
+zur übergebenen Fläche nicht von untergeordneter
+Bedeutung. Es wird kein landwirtschaftlicher Betrieb als Ganzes,
+sondern nur ein einzelnes Wirtschaftsgut übertragen. Es
+liegt eine Entnahme vor. Das zurückbehaltene Grundstück
+ist ein landwirtschaftlicher Betrieb und daher Betriebsvermögen.</lxbase:a><lxbase:a>c) Überträgt ein Landwirt seinen land- und
+forstwirtschaftlichen Betrieb unentgeltlich auf einen Nachfolger
+und behält er Grundstücksflächen von
+weniger als 3.000 qm zur eigenen Bewirtschaftung zurück,
+kann die Vereinfachungsregelung (vgl. Nr. 3 des Erlasses vom 3.
+5. 1972) nicht gegen den Willen des Steuerpflichtigen angewendet
+werden. Daher muß dem Landwirt ein Wahlrecht eingeräumt
+werden. Er kann wählen, ob er die zurückbehaltenen
+Flächen in das Privatvermögen überführen
+will oder nicht. Erklärt der Landwirt, daß er
+die zurückbehaltenen Flächen von weniger als 3.000
+qm in das Privatvermögen überführt hat,
+sind die in den überführten Flächen enthaltenen
+stillen Reserven aufzudecken. Es treffen hier eine unentgeltliche
+Betriebsübertragung im Sinne des § 7 Abs. 1 EStDV
+und ein nach dem §§ 14, 34 EStG tarifbegünstigter
+Aufgabegewinn zusammen (Abschn. 139 Abs. 5 EStR). Erklärt
+der Landwirt dagegen ausdrücklich, daß er die
+zurückbehaltenen Grundstücke nicht in das Privatvermögen überführt
+hat, stellen diese weiterhin einen land- und forstwirtschaftlichen
+Betrieb dar. Im übrigen liegt eine unentgeltliche Betriebsübertragung
+nach § 7 Abs. 1 EStDV vor.</lxbase:a><lxbase:a>V. Die Fälle der Betriebsaufgabe</lxbase:a><lxbase:a>1. Betriebseinstellung</lxbase:a><lxbase:a>Wird die land- und forstwirtschaftliche Nutzung sämtlicher
+zum Betrieb gehörender Flächen (einschließlich
+der bisher zugepachteten) endgültig und objektiv erkennbar
+eingestellt, so ist darin eine schlüssige Betriebsaufgabehandlung
+zu sehen, ohne daß es einer besonderen Aufgabeerklärung
+bedarf. Wurde der Betrieb vor dem 1. 7. 1970 eingestellt, so bleiben
+die stillen Reserven, soweit sie auf den Grund und Boden entfallen,
+steuerfrei. Erfolgte die Betriebseinstellung nach dem 1. 7. 1970,
+aber vor dem 1. 7. 1972, so ist im allgemeinen nach der in Nr. 11
+des Erlasses vom 10. 3. 1972 enthaltenen Regelung zu verfahren.</lxbase:a><lxbase:a>Hat ein Land- und Forstwirt alle Grundstücke vor dem
+1. 7. 1970 an mehrere Pächter verpachtet, so hat er damit
+regelmäßig seinen Betrieb vor dem 1. 7. 1970 aufgegeben.
+Eine besondere Aufgabeerklärung ist in diesen Fällen
+nicht erforderlich. Die Grundstücke gehören am
+1. 7. 1970 zum Privatvermögen. Eine Fortführung
+des Betriebs mit der Folge, daß die Pachteinnahmen als
+Einkünfte aus Land- und Forstwirtschaft zu behandeln sind,
+kann ausnahmsweise nur dann angenommen werden, wenn die Verpachtung
+der einzelnen Flächen auf besonderen Umständen
+beruht, der Verpächter die Absicht hat, den Betrieb wieder
+aufzunehmen und diese Möglichkeit hinreichend gesichert
+ist.</lxbase:a><lxbase:a>2. Betriebsverpachtung</lxbase:a><lxbase:a>a) Allgemeines</lxbase:a><lxbase:a>Die Verpachtung eines land- und forstwirtschaftlichen Betriebs
+im ganzen kann nach dem Erlaß vom 17. 12. 1965 - III-B/II-Tgb.
+Nr. 512/65 - <lxbase:az normform="S2140" manuell="nein">S-2140</lxbase:az> A mitgeteilt durch Verfügung
+vom 28. 12. 1965 <lxbase:az normform="S214016St221" manuell="nein">S-2140 - 16 - St 221</lxbase:az> (Verpachtungserlaß)
+nur angenommen werden, wenn die wesentlichen Betriebsgrundlagen (Betrieb
+mit Gebäuden, Grund und Boden sowie totem und lebendem
+Inventar) als einheitliches Ganzes verpachtet werden. Der Steuerpflichtige
+hat dabei die Möglichkeit, die Betriebsaufgabe entweder
+zum Beginn der Verpachtung oder zu einem beliebigen späteren
+Zeitpunkt zu erklären. Wurde der Betrieb von mehreren Personen
+betrieben, muß die Aufgabeerklärung von allen
+Beteiligten einheitlich abgegeben werden. Nach dem Erlaß vom
+10. 3. 1972 Nr. 6 kann in den dort genannten Fällen der
+Betriebsverpachtung, in denen die Pachteinnahmen bei der rechtskräftigen
+Veranlagung für 1969 als Einkünfte aus Vermietung
+und Verpachtung behandelt worden sind, von einer vor dem 1. 7. 1970 erfolgten
+Betriebsaufgabe ausgegangen werden. Aus Gründen des Vertrauensschutzes
+gilt dies auch, wenn die Pachteinnahmen in der Einkommensteuererklärung
+1969 zwar als Einnahmen aus Vermietung und Verpachtung erklärt worden
+sind, das Finanzamt aber keine Veranlagung durchgeführt
+hat und eine nach Nr. 4 des Erlasses vom 3. 5. 1972 mögliche
+Betriebsaufgabeerklärung nicht abgegeben wurde.</lxbase:a><lxbase:a>b) Entnahme einzelner Grundstücke <lxbase:za /> Wird ein land-
+und forstwirtschaftlicher Betrieb unter Fortführung des Betriebs
+verpachtet, so sind die dem Verpächter gehörenden
+mitverpachteten Grundstücksflächen bei diesem
+notwendiges Betriebsvermögen. Ihre Entnahme ist daher nur
+möglich, wenn sie aus dem verpachteten Betrieb ausscheiden,
+d. h. durch eine Änderung des Pachtvertrages nicht mehr
+mitverpachtet sind. Werden dem Verpächter gehörende
+mitverpachtete Grundstücke veräußert,
+so scheiden sie durch die Veräußerung aus dem
+Betriebsvermögen des Verpächters aus.</lxbase:a><lxbase:a>c) Zurückbehaltung einzelner Grundstücke <lxbase:za /> 
+ Behält ein Land- und Forstwirt, der seinen Betrieb im
+ganzen verpachtet, zur weiteren Bewirtschaftung Grundstücksflächen
+zurück, die im Verhältnis zur Gesamtfläche
+von untergeordneter Bedeutung sind (z. B. von einer Gesamtfläche
+von 10 ha werden 6.000 qm zurückbehalten), so ist dies
+für die Annahme einer Betriebsverpachtung im ganzen unschädlich.</lxbase:a><lxbase:a>Da - wie in II. bereits ausgeführt - jede kleine Fläche
+streng genommen einen land- und forstwirtschaftlichen Betrieb darstellen
+kann, sind durch die Verpachtung des Betriebs unter Ausschluß einzelner
+Flächen zwei Betriebe der Land- und Forstwirtschaft entstanden.
+Es liegt einerseits eine Betriebsverpachtung im ganzen vor (mit
+der Möglichkeit, die Aufgabe zu erklären oder
+den Betrieb fortzuführen), andererseits bildet die zurückbehaltene
+Fläche einen eigenen Betrieb der Land- und Forstwirtschaft.
+Von diesem können wiederum einzelne Flächen auf
+Dauer verpachtet und deshalb - wie in II. 2. ausgeführt
+- entnommen werden. Beträgt die zurückbehaltene
+Fläche nicht mehr als 3.000 qm, ist nach Nr. 3 des Erlasses
+vom 3. 5. 1972 kein land- und forstwirtschaftlicher Betrieb mehr gegeben.
+Da die Fläche bisher Betriebsvermögen war, kann
+der Landwirt aber nicht gezwungen werden, sie nunmehr bei Beginn
+der Verpachtung ins Privatvermögen zu überführen.
+Dem Landwirt ist ein Wahlrecht einzuräumen, ob er die Fläche
+weiterhin im Betriebsvermögen belassen oder entnehmen möchte. Bleibt
+die Fläche Betriebsvermögen, so ist der Fall künftig
+besonders zu überwachen, da bei einer Veräußerung
+im Hinblick auf die 3.000 qm- Regelung übersehen werden
+könnte, daß es sich um landwirtschaftliches Betriebsvermögen
+handelt. Überführt der Landwirt die zurückbehaltene
+Fläche bei der Verpachtung des Betriebs oder zu einem späteren
+Zeitpunkt ins Privatvermögen, so ist der entstandene Gewinn
+nach §§ 14 und 34 EStG begünstigt, da
+nunmehr hinsichtlich der selbstbewirtschafteten Fläche
+eine Betriebsaufgabe stattfindet.</lxbase:a><lxbase:a>Waren die zurückbehaltenen Wirtschaftsgüter
+eine wesentliche Betriebsgrundlage, z. B. das Wirtschaftsgebäude
+oder eine große Anbaufläche, so kann der Verpachtungserlaß nicht
+angewendet werden. Es handelt sich um die Verpachtung einzelner
+Wirtschaftsgüter des weiterbestehenden Betriebs, die vom
+Steuerpflichtigen bei einer Verpachtung auf Dauer entnommen werden
+oder in seinem Betriebsvermögen verbleiben können.
+Die verpachteten Grundstücke können auch bei Steuerpflichtigen,
+die ihren Gewinn nach § 4 Abs. 3 EStG oder nach dem GDL
+ermitteln, im Betriebsvermögen verbleiben. Bei diesen Steuerpflichtigen
+kommt nach Abschn. 14 Abs. 6 der EStR 1972 gewillkürtes Betriebsvermögen
+zwar nicht in Betracht. Da die Grundstücke aber ursprünglich
+zu Recht im Betriebsvermögen waren, können sie
+nach Abschn. 14 Abs. 13 EStR 1972 nur durch eine eindeutige Entnahmehandlung
+aus dem Betriebsvermögen ausscheiden.</lxbase:a><lxbase:a>Beispiele:</lxbase:a><lxbase:a>a) Ein Landwirt (im Nebenberuf) hat eine Fläche von
+8.000 qm. Er verpachtet hiervon 4.000 qm auf Dauer, die restlichen
+4.000 qm bewirtschaftet er selbst.</lxbase:a><lxbase:a>Er kann wählen, ob er die verpachteten 4.000 qm in seinem
+Betriebsvermögen belassen oder entnehmen will. Entnimmt
+er die verpachteten 4.000 qm, ist der Entnahmegewinn laufender Gewinn
+(keine Vergünstigung nach §§ 14, 34 EStG).
+Die restlichen 4.000 qm, die er selbst bewirtschaftet, stellen weiterhin einen
+Betrieb dar.</lxbase:a><lxbase:a>b) Ein Landwirt hat eine Fläche von 6.000 qm. Er verpachtet
+4.000 qm auf Dauer und bewirtschaftet 2.000 qm weiterhin selbst.</lxbase:a><lxbase:a>Die verpachteten 4.000 qm kann der Steuerpflichtige in seinem
+Betriebsvermögen belassen oder entnehmen. Entnimmt er die
+verpachteten 4.000 qm, so hat er wiederum ein Wahlrecht, ob er die
+verbleibenden 2.000 qm in sein Privatvermögen überführen
+oder als Betriebsvermögen belassen möchte. Beläßt
+er die verbleibenden 2.000 qm im Betriebsvermögen, so gehört
+ein Entnahmegewinn der evtl. entnommenen 4.000 qm zum laufenden
+Gewinn und ist nicht nach §§ 14, 34 EStG begünstigt. Überführt
+er jedoch die Gesamtfläche in sein Privatvermögen,
+so ist der Gesamtgewinn nach §§ 14, 34 EStG begünstigt
+(Betriebsaufgabe).</lxbase:a><lxbase:a>d) Verpachtung von Stückländereien <lxbase:za /> Ist
+ein Steuerpflichtiger lediglich Eigentümer einer Stückländerei,
+die abgesehen von der 3.000 qm-Regelung einen land- und forstwirtschaftlichen
+Betrieb darstellt, und hat er diese Stückländerei
+auf Dauer verpachtet, so müßte man bei der Anwendung
+des Verpachtungserlasses zu dem Ergebnis kommen, daß die Stückländerei
+ein fortgeführter Betrieb der Land- und Forstwirtschaft
+ist, wenn der Steuerpflichtige keine Aufgabeerklärung abgegeben
+hat. Hierzu ist die Auffassung zu vertreten, daß der Verpachtungserlaß bei
+Stückländereien nicht uneingeschränkt
+anzuwenden ist. Ein land- und forstwirtschaftlicher Betrieb im ganzen
+i. S. des Verpachtungserlasses kann nur ein Betrieb mit Gebäuden
+und Inventar sein, da nur ein solcher Betrieb als lebender Organismus
+von einem Pächter ohne Neuanschaffungen fortgeführt
+werden kann. Wurde eine solche Stückländerei vor
+dem 1. 7. 1970 verpachtet, so gehörte sie an diesem Stichtag zum
+Privatvermögen des Steuerpflichtigen und unterliegt bei
+ihrer Veräußerung nicht der Bodengewinnbesteuerung.
+Wurde eine Stückländerei nach dem 30. 6. 1970
+verpachtet, so ist in dieser Verpachtung regelmäßig
+eine Betriebsaufgabe zu sehen. Man wird dem Steuerpflichtigen aber
+nicht verwehren können, die Stückländerei
+auch nach der Verpachtung als Betriebsvermögen fortzuführen.
+Erklärt er, daß er den Betrieb fortführen
+will, so ist der Steuerfall künftig besonders zu überwachen,
+da im Falle der späteren Veräußerung
+ein steuerpflichtiger Gewinn anfallen kann, der nach den §§ 14,
+34 EStG begünstigt ist.</lxbase:a><lxbase:a>Verpachtet ein Steuerpflichtiger seine sämtlichen bisher
+landwirtschaftlich genutzten Stückländereien an
+mehrere Pächter und betreibt er selbst keine Land- und
+Forstwirtschaft mehr, so liegt eine Betriebsaufgabe i. S. von § 14
+i. V. m. § 16 Abs. 3 EStG vor. Eine besondere Aufgabeerklärung
+ist nicht erforderlich.</lxbase:a><lxbase:a>VI. Ermittlung der Buchwerte des Grund und Bodens nach § 55
+Abs. 1 bis 4 EStG</lxbase:a><lxbase:a>1. Allgemeines <lxbase:za /> Es wird auf den Wortlaut des § 55
+Abs. 1 bis 4 EStG und auf Nr. 10 des Erlasses vom 10. 3. 1972 hingewiesen.</lxbase:a><lxbase:a>2. Ausgangsbeträge nach § 55 Abs. 2 Ziff. 1
+und 2 bis 8 EStG in Fällen, in denen die tatsächliche
+Nutzung am 1. Juli 1970 von der im Liegenschaftskataster eingetragenen
+Nutzung abweicht.</lxbase:a><lxbase:a>Weist der Steuerpflichtige nach, daß die tatsächliche
+Nutzung von Flächen am 1. Juli 1970 von der im Liegenschaftskataster
+eingetragenen Nutzung abweicht, und sind für diese Flächen
+keine Ertragsmeßzahlen im Liegenschaftskataster ausgewiesen,
+so ist der Ausgangsbetrag nach § 55 Abs. 3 EStG festzustellen. Die
+vorbezeichnete Gesetzesvorschrift regelt die genannten Fälle
+abschließend. Eine spätere Berichtigung der so
+festgestellten Ausgangsbeträge nach Durchführung
+der Bodenschätzung und Feststellung der Ertragsmaßzahlen
+kommt nicht in Betracht (vgl. Nr. 10 Abs. 9 des Erlasses vom 10.
+3. 1972).</lxbase:a><lxbase:a>VII. Feststellung des höheren Teilwerts nach § 55
+Abs. 5 EStG</lxbase:a><lxbase:a>1. Antragstellung, Ermittlung und Feststellung</lxbase:a><lxbase:a>Der Antrag auf Feststellung des vom Steuerpflichtigen nachgewiesenen
+höheren Teilwerts für den Grund und Boden am 1.
+7. 1970 ist bis längstens 31. 12. 1975 (Ausschlußfrist,
+Nachsicht gem. § 86 AO möglich) beim Betriebsfinanzamt
+zu stellen. Der Nachweis kann auf verschiedene Weise erbracht werden: Hinweis
+auf vergleichbare Grundstücksverkäufe, auf einen
+am 1. 7. 1970 bestehenden Bebauungsplan, Wertgutachten der Gemeinde.
+Wegen der weiteren Einzelheiten wird auf Nr. 11 des Erlasses vom
+10. 3. 1972 und des Erlasses vom 9. 6. 1972 hingewiesen.</lxbase:a><lxbase:a>2. Vereinfachungsregelung <lxbase:za /> In Nr. 11 des Erlasses vom 10.
+3. 1972 wurde bestimmt, daß bei Veräußerungen
+oder Entnahmen vor dem 1. 7. 1972 davon ausgegangen werden kann,
+daß der Teilwert des Grund und Bodens am 1. 7. 1970 in
+der Regel dem Verkaufspreis bzw. Entnahmewert entspricht, wenn nicht
+besondere Umstände (vgl. Erlaß vom 9. 6. 1972)
+zu einer erheblichen Wertsteigerung geführt haben. Solche
+wertsteigernden Umstände liegen immer dann vor, wenn der
+Verkaufspreis bzw. der Entnahmewert um mehr als 30 v. H. vom Teilwert
+am 1. 7. 1970 nach oben abweicht. Dies gilt auch bei Betriebsveräußerungen
+oder Betriebsaufgaben vor dem 1. 7. 1972. Kommt die Vereinfachungsregelung
+zum Zuge, so kann in Verkaufs- oder Entnahmefällen bis
+zum 30. 6. 1972 von einer förmlichen Feststellung des höheren
+Teilwerts (in Höhe des Verkaufserlöses abzüglich
+der Verkaufskosten bzw. dem Entnahmewert) abgesehen werden. Dies
+ist aber aktenkundig zu machen.</lxbase:a><lxbase:a>3. Auswirkungen der Feststellung auf andere Steuerarten <lxbase:za /> 
+ Die Feststellung eines höheren Teilwerts für
+den Grund und Boden kann nach § 69 Abs. 4 BewG (ab 1. 1.
+1974) dazu führen, daß das Grundstück
+im Wege der Nachfeststellung dem Grundvermögen zugerechnet
+werden muß (z. B. wenn aus Ackerland Bauland wurde). Diese
+Nachfeststellung hat Auswirkungen im Einzelfall auf die Grundsteuer,
+u. U. Vermögensteuer und Erbschaftsteuer.</lxbase:a><lxbase:a>An der Zurechnung zum land- und forstwirtschaftlichen Vermögen ändert
+sich allerdings nichts, wenn die Wertsteigerung auf Gründen
+beruht, die im landwirtschaftlichen Bereich zu suchen sind.</lxbase:a><lxbase:a>VIII. Verlustklausel <lxbase:za /> Durch die Verlustklausel des § 55
+Abs. 6 EStG soll vermieden werden, daß Buchverluste, die
+wegen des Ansatzes des über dem Teilwert liegenden Pauschalwertes
+entstehen, den Gewinn mindern. Danach dürfen Verluste nicht berücksichtigt
+werden, soweit der Veräußerungspreis nach Abzug
+der Veräußerungskosten unter dem zweifachen des
+Ausgangsbetrages liegt. Das Abzugsverbot gilt auch für
+Teilwertabschreibungen (vgl. Nr. 13 des Erlaß vom 10. 3. 1972).</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="69*" /><cals:colspec colnum="2" colname="2" colwidth="31*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Doppelter Ausgangsbetrag </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 5.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Veräußerungspreis </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 3.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a>Der Verlust in Höhe von 2.000 DM ist nach § 55
+Abs. 6 EStG nicht abzugsfähig.</lxbase:a><lxbase:a>IX. Buch- und wertmäßige Erfassung des Grund
+und Boden</lxbase:a><lxbase:a>1. Was bei der wertmäßigen Erfassung des Grund
+und Bodens bei Steuerpflichtigen mit Gewinnermittlung nach den §§ 4
+Abs. 1 4 Abs. 3 EStG bzw. bei Gewinnermittlung nach dem GDL (§ 13a
+EStG) allgemein zu beachten ist, ergibt sich aus dem Erlaß vom
+10. 3. 1972. Auf die Ausführungen in den Nrn. 1, 2 und
+12 des Erlasses wird hingewiesen. In Abweichung von Nr. 1 Abs. 3
+des Erlasses vom 10. 3. 1972 ist der zum Betriebsvermögen
+gehörende Grund und Boden in den Bilanzen, die auf einen
+Stichtag nach dem 30. 12. 1975 (bisher 30. 12. 1973) aufgestellt
+werden, mit den Werten nach § 55 EStG auszuweisen.</lxbase:a><lxbase:a>2. § 55 EStG gilt nur in den Fällen, in denen
+der Grund und Boden mit Ablauf des 30. 6. 1970 zum Anlagevermögen
+gehört hat. Wird Grund und Boden erst nach dem 30. 6. 1970
+angeschafft, ist der Grund und Boden mit den Anschaffungskosten
+zu aktivieren. Wird Grund und Boden eingelegt, ist die Einlage mit dem
+Teilwert anzusetzen. Einlagen sind höchstens mit den Anschaffungs-
+oder Herstellungskosten anzusetzen, wenn das eingelegte Wirtschaftsgut
+innerhalb der letzten drei Jahre vor der Einlage angeschafft wurde.
+Wurde der Grund und Boden vor dem 30. 6. 1970 als Privatvermögen
+angeschafft und nach dem 30. 6. 1970 und innerhalb des Dreijahreszeitraums
+eingelegt, ist die Einlage mit dem doppelten Ausgangsbetrag nach § 55
+Abs. 1 bis 4 EStG oder dem höheren Teilwert nach § 55
+Abs. 5 EStG zu bewerten, wenn diese Werte höher als die Anschaffungskosten
+sind. Der Ansatz dieser Werte ist gerechtfertigt, weil vor dem 1.
+7. 1970 entstandene Bodenwertsteigerungen durch die Bodengewinnbesteuerung
+nicht zu erfassen sind.</lxbase:a><lxbase:a>X. Besteuerung der Bodengewinne</lxbase:a><lxbase:a>1. Bei Gewinnermittlung nach § 4 Abs. 3 EStG und § 12
+GDL (§ 13a EStG) bei ratenweiser Zahlung</lxbase:a><lxbase:a>Nach § 4 Abs. 3 Satz 4 EStG in der Fassung des Zweiten
+Steueränderungsgesetzes 1971 sind die Anschaffungs- oder
+Herstellungskosten für nicht abnutzbare Wirtschaftsgüter
+des Anlagevermögens erst mit Zeitpunkt der Veräußerung oder
+Entnahme dieser Wirtschaftsgüter als Betriebsausgabe zu
+berücksichtigen. Fließt der gesamte Veräußerungspreis
+nicht im Jahr der Veräußerung, sondern - wie das
+insbesondere bei Ratenzahlung der Fall ist - zu einem späteren
+Zeitpunkt zu, hat der Steuerpflichtige ein Wahlrecht, ob er die
+Anschaffungskosten im Zeitpunkt der Veräußerung
+des Grundstücks als Betriebsausgaben berücksichtigen
+(§ 4 Abs. 3 Satz 4 EStG) und den Veräußerungserlös
+beim Zufluß (§ 11 Abs. 1 Satz 1 EStG) erfassen
+oder ob er den Veräußerungsgewinn erst in dem
+Zeitpunkt versteuern will, in dem der Veräußerungserlös
+die Anschaffungskosten übersteigt. Das Wahlrecht gilt sowohl
+bei Gewinnermittlung nach § 4 Abs. 3 EStG wie bei der Ermittlung
+eines Gewinnzuschlags nach § 12 Abs. 4 Ziff. 3 GDL und
+ist auch in den Fällen maßgebend, in denen das
+Grundstück am 1. 7. 1970 zum Anlagevermögen gehört
+hat und mit dem doppelten Ausgangsbetrag oder dem höheren
+Teilwert angesetzt wurde.</lxbase:a><lxbase:a>Zusammenfassendes Beispiel: <lxbase:za /> Ein Landwirt, der das Grundstück
+1973 für 70.000,-- DM gekauft hat und 1978 für
+150.000 DM verkauft, vereinbart mit dem Käufer, daß der
+Kaufpreis in fünf Jahresraten zu je 30.000 DM beginnend
+in 1979 - zu zahlen ist. Der Landwirt hat folgendes Wahlrecht:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:colspec colnum="4" colname="4" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Betriebseinnahmen </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 1978 </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> 0</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Betriebsausgaben </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 1978 </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> 70.000 DM </lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>= 70.000 DM Verlust</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Betriebseinnahmen </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 1979 </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> 30.000 DM</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Betriebsausgaben </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 1979 </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> 0 </lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a> = 30.000 DM Gewinn</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1980 bis 1983 </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> wie 1979</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>oder:</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Betriebseinnahmen </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 1979 </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> 30.000 DM</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Betriebsausgaben </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 1979 </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> 30.000 DM </lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>= 0</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1980 </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> wie 1979</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Betriebseinnahmen </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 1981 </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> 30.000 DM</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Betriebsausgaben </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 1981 </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> 10.000 DM</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a> = 20.000 DM Gewinn</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Betriebseinnahmen </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 1982 </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> 30.000 DM</lxbase:a></cals:entry><cals:entry colname="4" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Betriebsausgaben </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> 1982 </lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a> 0 </lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a> = 30.000 DM Gewinn</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>1983 </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> wie 1982</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>2. Bei Strukturwandel</lxbase:a><lxbase:a>Zwischen den Ansichten des I. und des IV. Senats des BFH zur
+Frage, wie der Buchansatz "Grund und Boden zu behandeln
+ist, wenn ein Gewerbebetrieb durch eine Strukturveränderung
+zu einem land- und forstwirtschaftlichen Betrieb wird (oder umgekehrt)" bestand
+ein grundsätzlicher Unterschied (vgl. FMS-Erlaß vom
+30. 5. 1974 <lxbase:az normform="B/II 973/74S2135A" manuell="nein">B/II
+- 973/74 - S-2135 A</lxbase:az>, bekanntgegeben durch Verfügung
+vom 20. 6. 1974 <lxbase:az normform="S213530St221" manuell="nein">S-2135 - 30 - St 221</lxbase:az> -). Der Große Senat
+hat durch Beschluß vom 7. 10. 1974, <lxbase:lit-fs normform="BStBl-1975-0168" manuell="nein">BStBl 1975 S. 168</lxbase:lit-fs>,
+die ihm vorgelegten Rechtsfragen wie folgt entschieden:</lxbase:a><lxbase:a>1. Der Strukturwandel einer Gärtnerei vom Gewerbebetrieb
+mit Gewinnermittlung nach § 5 EStG zum landwirtschaftlichen
+Betrieb mit Gewinnermittlung nach § 4 Abs. 1 EStG a. F.
+ist keine Entnahme des dem Betrieb dienenden Grund und Bodens aus
+dem gewerblichen Betriebsvermögen.</lxbase:a><lxbase:a>2. Bei einem Strukturwandel der bezeichneten Art sind die im
+Buchansatz für den Grund und Boden enthaltenen stillen
+Reserven weder unter dem Gesichtspunkt einer Betriebsaufgabe noch
+aus einem anderen Grunde aufzulösen.</lxbase:a><lxbase:a>XI. Freibeträge nach §§ 14, 14a EStG</lxbase:a><lxbase:a>1. Allgemeines</lxbase:a><lxbase:a>Der Freibetrag nach § 14 EStG ist vom Veranlagungszeitraum
+1971 entsprechend der Änderung des § 16 Abs. 4
+EStG erhöht worden. Außerdem wurde § 14a
+EStG eingefügt. Hiernach werden für bestimmte
+Veräußerungsvorgänge zwischen dem 1.
+Juli 1970 und dem 31. Dezember 1973 besondere Freibeträge gewährt.
+Wegen der Einzelheiten wird auf die Nrn. 7 und 8 des Erlasses vom 10.
+3. 1972 und auf das Zweite Steueränderungsgesetz 1973 vom
+18. 7. 1974 (<lxbase:lit-fs normform="BStBl-1974-I-0521" manuell="nein">BStBl
+I S. 521</lxbase:lit-fs>) hingewiesen.</lxbase:a><lxbase:a>2. Besonderheiten</lxbase:a><lxbase:a>a) Maßgebender Einheitswert bei Anwendung des § 14a
+Abs. 1 bis 3 EStG in Pachtfällen</lxbase:a><lxbase:a>Die Gewährung des Veräußerungsfreibetrags
+nach § 14a Abs. 1 bis 3 EStG setzt u. a. voraus, daß der
+für den Zeitpunkt der Veräußerung maßgebende
+Einheitswert des Betriebs 25.000 DM bzw. 30.000 DM nicht übersteigt
+(vgl. § 14a Abs. 1 i. d. F. des Zweiten Steueränderungsgesetzes
+1973 vom 18. 7. 1974 a. a. O.).</lxbase:a><lxbase:a>Es wird die Auffassung vertreten, daß bei verpachteten
+Betrieben für die Feststellung der Einheitswertgrenze nicht
+vom gesamten Einheitswert, sondern beim Verpächter vom
+Verpächteranteil und beim Pächter vom Pächteranteil
+am Einheitswert auszugehen ist. Die Einheitswertgrenze kann sich
+sinnvollerweise nur auf das beziehen, was der Land- und Forstwirt,
+der den Freibetrag in Anspruch nehmen will, in rechtlich zulässiger
+Weise veräußern kann.</lxbase:a><lxbase:a>b) Anwendung des § 14a Abs. 3 EStG in Pachtfällen <lxbase:za /> 
+ Als Veräußerung des Betriebs gilt auch, wenn
+ein Pächter oder sonstiger Nutzungsberechtigter den land-
+und forstwirtschaftlichen Betrieb zum Zwecke der Strukturverbesserung
+an den Eigentümer abgibt (vgl. Erlaß vom 15. 3.
+1973 - B/<lxbase:az normform="II-402/73" manuell="nein">II-402/73</lxbase:az> -
+S-2239 A, bekanntgegeben durch Verfügung vom 28. 3. 1973
+<lxbase:az normform="S2239" manuell="nein">S-2239</lxbase:az> 3 St 221).</lxbase:a><lxbase:a>c) Tilgung von Schulden eines anderen land- und forstwirtschaftlichen
+Betriebs</lxbase:a><lxbase:a>Nach § 14a Abs. 4 EStG wird ein Freibetrag gewährt,
+wenn nur ein Teil des zu einem land- und forstwirtschaftlichen Betriebs
+gehörenden Grund und Bodens veräußert
+wird. Voraussetzung für die Gewährung des Freibetrags
+ist u. a., daß der Veräußerungspreis
+innerhalb von sechs Monaten nach der Veräußerung
+zur Tilgung von Schulden des land- und forstwirtschaftlichen Betriebs
+verwendet wird. Der Freibetrag ist nur zu gewähren, wenn
+Schulden des land- und forstwirtschaftlichen Betriebs, zu dessen
+Betriebsvermögen die veräußerten Grundstücksflächen
+gehört haben, getilgt werden. Die Tilgung von Schulden
+eines anderen Betriebes desselben Steuerpflichtigen ist nach dem
+Wortlaut des § 14a EStG nicht steuerlich begünstigt.</lxbase:a><lxbase:a>d) Abfindung weichender Erben im Sinne des § 14a Abs.
+4 EStG <lxbase:za /> Der Veräußerungsfreibetrag nach § 14a
+Abs. 4 EStG kann u. a. gewährt werden, wenn der Veräußerungspreis
+innerhalb von sechs Monaten nach der Veräußerung
+zur Abfindung weichender Erben verwendet wird. Diese Voraussetzung
+ist erfüllt, wenn Miterben aufgrund einer Erbauseinandersetzung
+abgefunden werden, ein Pflichtteilberechtigter ausgezahlt wird oder
+ein Vermächtnisnehmer, der nach der gesetzlichen Erbfolge
+erbberechtigt wäre, ein Vermächtnis erhält.
+Andere Vermächtnisnehmer können dagegen nicht
+als weichende Erben im Sinne dieser Vorschrift angesehen werden.
+e) Wirkung des Antrags auf Gewährung eines Freibetrags
+im Sinne des § 14a Abs. 4 EStG</lxbase:a><lxbase:a>Der Veräußerungsgewinn i. S. des § 14a
+Abs. 4 EStG, der zum laufenden Gewinn gehört ist bei vom
+Kalenderjahr abweichendem Wirtschaftsjahr nach § 2 Abs.
+6 Ziff. 1 Satz 1 EStG (§ 4a Abs. 2 Ziff. 1 Satz 1 EStG
+1975) zeitanteilig aufzuteilen. Entsprechend gilt für den
+Freibetrag i. S. des § 14a Abs. 4 EStG (Nr. 8 Abs. 6 des
+Erlasses vom 10. 3. 1972).</lxbase:a><lxbase:a>Der Freibetrag wird nur auf Antrag gewährt. Der Antrag
+bezieht sich auf den gesamten Veräußerungsgewinn.
+Es bedarf daher, auch wenn der Freibetrag zeitanteilig auf zwei
+Kalenderjahre verteilt wird, nur eines Antrags. Eine Beschränkung
+des Antrags auf den anteiligen Veräußerungsgewinn
+eines Kalenderjahres wird nicht für zulässig angesehen.</lxbase:a><lxbase:a>f) Anrechnung des Freibetrags nach § 14a Abs. 4 EStG
+bei der Anwendung der Vergünstigung nach §§ 6b,
+6c EStG</lxbase:a><lxbase:a>Wird für einen Veräußerungsgewinn
+die Steuervergünstigung nach § 14a Abs. 4 EStG
+in Anspruch genommen, so kann § 6b bzw. 6c EStG für
+den Teil des Veräußerungsgewinns zum Zuge kommen,
+der nicht nach § 14 Abs. 4 EStG steuerfrei ist.</lxbase:a><lxbase:a>g) Abfindungen vor Übergabe des Betriebs <lxbase:za /> Abfindungen,
+die an etwaige künftige Erben bereits vor Übergabe
+an den vorgesehenen Hoferben gezahlt werden, sind nicht als Abfindungen
+i. S. des § 14a Abs. 4 EStG anzusehen.</lxbase:a><lxbase:a>h) Weitere Voraussetzungen für die Gewährung
+des Freibetrags nach § 14a Abs. 4 EStG für Veräußerungen
+von Grund und Boden nach dem 31. 12. 1973 und vor dem 1. 1. 1977
+(Zweites Steueränderungsgesetz 1973).</lxbase:a><lxbase:a>Die Gewährung des Freibetrags nach § 14a Abs.
+4 i. d. F. des Zweiten Steueränderungsgesetzes 1973 für
+Veräußerungen nach dem 31. Dezember 1973 hängt u.
+a. auch von der Höhe des Einkommens (24.000 bzw. 48.000
+DM) ohne Berücksichtigung des Freibetrags (vgl. Buchstabe
+e) in dem Veranlagungszeitraum der Veräußerung
+vorhergehenden Veranlagungszeitraum ab.</lxbase:a><lxbase:a>Beispiel: <lxbase:za /> Vorbemerkung: Es wird unterstellt, daß der
+Steuerpflichtige nach § 26, 26b EStG mit seinem Ehegatten
+zusammenveranlagt wird.</lxbase:a><lxbase:a>Der nach § 4 Abs. 1 EStG für das Wirtschaftsjahr
+1973 / 74 ermittelte Gewinn beträgt 52.000 DM</lxbase:a><lxbase:a>In diesem Gewinn ist ein Gewinn aus der im März 1974
+erfolgten Veräußerung von zum Betriebsvermögen
+gehörenden Grund und Boden in Höhe von 42.000 DM
+enthalten. Der Steuerpflichtige beantragt hierfür einen
+Freibetrag nach § 14a Abs. 4 EStG in Höhe des
+Veräußerungsgewinns. Die Voraussetzungen des § 14a
+Abs. 4 Ziff. 1 EStG liegen vor.</lxbase:a><lxbase:a>Das für die Gewährung des Freibetrags maßgebende
+Einkommen 1973 setzt sich wie folgt zusammen:</lxbase:a><lxbase:a> Einkünfte aus Land- und Forstwirtschaft</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="80*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>a) anteiliger Gewinn des Wirtschaftsjahres
+<lxbase:az normform="1972/73" manuell="nein">1972/73</lxbase:az> </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a> 7.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>b) anteiliger Gewinn des Wirtschaftsjahres
+<lxbase:az normform="1973/74" manuell="nein">1973/74</lxbase:az> </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a> 26.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>c) übrige Einkünfte </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a> 13.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="right"><lxbase:a>46.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>./. Freibetrag nach § 13
+Abs. 3 EStG </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a> 2.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Gesamtbetrag der Einkünfte </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a> 43.600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>./. Sonderausgaben </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a> 3.600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einkommen </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a> 40.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>ohne Abzug des anteiligen Freibetrags nach § 14a
+ Abs. 4 EStG von </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a> 21.000 DM.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Da das maßgebende Einkommen die Grenze von 48.000 DM
+nicht übersteigt, kann der Freibetrag nach § 14a
+Ab. 4 EStG von insgesamt 42.000 DM gewährt werden. Der
+Freibetrag ist bei den Veranlagungen für 1973 und 1974
+mit je 21.000 DM bei der Ermittlung der Einkünfte aus Land-
+und Forstwirtschaft zu berücksichtigen.</lxbase:a><lxbase:a>i) Gewährung des Freibetrags nach § 14a Abs.
+4 EStG im Falle der einheitlichen und gesonderten Feststellung der
+Einkünfte aus Land- und Forstwirtschaft</lxbase:a><lxbase:a>Werden die Einkünfte aus Land- und Forstwirtschaft einheitlich
+und gesondert festgestellt, so sind erstmals für 1973 im
+Feststellungsbescheid auch der Zeitpunkt der jeweiligen Veräußerung
+sowie die Gewinne nach § 14a Abs. 4 EStG besonders für
+das Kalenderjahr, in dem das Wirtschaftsjahr beginnt, und für
+das Kalenderjahr, in dem das Wirtschaftsjahr endet, festzustellen.</lxbase:a><lxbase:a>XII. Durchführung der Bodengewinnbesteuerung <lxbase:za /> 
+Die Bearbeitung der Veräußerungs- und Entnahmefälle,
+die auf eine Steuerpflicht nach § 55 EStG hin zu überprüfen
+sind, ist oft sehr mühsam und zeitraubend, zumal die Steuerpflichtigen
+vielfach nicht genügend mitwirken.</lxbase:a><lxbase:a>Im Interesse der Arbeitsvereinfachung sowie einer zügigen
+Bearbeitung bin ich daher damit einverstanden, daß in Fällen,
+in denen landwirtschaftlich genutzte Grundstücksflächen
+veräußert worden sind, wie folgt verfahren wird:</lxbase:a><lxbase:a>1. Beträgt der Veräußerungspreis nicht
+mehr als der doppelte Ausgangsbetrag (§ 55 Abs. 1 EStG),
+so ist nichts zu veranlassen. Die Veräußerungsmitteilung ist
+mit einem entsprechenden Vermerk, der vom Sachgebietsleiter abgezeichnet ist,
+abzulegen. Sofern für jede Gemeinde (bei größeren
+Gemeinden für jeden Ortsteil) der niedrigste doppelte Ausgangsbetrag
+(die mit acht multiplizierte Ertragsmeßzahl) für
+landwirtschaftlich genutzte Flächen ermittelt und den für die
+Bearbeitung der Bodengewinnbesteuerung bei Land- und Forstwirten zuständigen
+Teilbezirken bekanntgegeben wird, kann darüber hinaus im
+Einzelfall auch von der Ermittlung des doppelten Ausgangsbetrages
+abgesehen werden, sofern der Veräußerungspreis
+den für die jeweilige Gemeinde (Ortsteil) ermittelten niedrigsten
+doppelten Ausgangsbetrag nicht überschreitet. Ich bitte daher
+zu prüfen, ob unter diesen Gesichtspunkten die Ermittlung
+des niedrigsten doppelten Ausgangsbetrages zweckmäßig
+ist.</lxbase:a><lxbase:a>2. Übersteigt der Veräußerungspreis
+den doppelten Ausgangsbetrag, so ist zu unterscheiden, ob die Veräußerung
+vor dem 1. 7. 1972 oder danach erfolgt ist.</lxbase:a><lxbase:a>a) Veräußerung vor dem 1. 7. 1972</lxbase:a><lxbase:a>aa) Ergeben die Feststellungen des Finanzamts, daß der
+Veräußerungspreis des Grundstückes dem
+Teilwert am 1. 7. 1970 entspricht, sich deshalb bei Durchführung
+des Feststellungsverfahrens nach § 55 Abs. 5 EStG kein
+Gewinn ergeben und somit an der Weiterverfolgung des Falles kein
+steuerliches Interesse besteht, so ist diese Feststellung auf der
+Veräußerungsmitteilung aktenkundig zu machen und
+vom Sachgebietsleiter abschließend zu zeichnen. Auf die Durchführung
+eines Feststellungsverfahrens nach § 55 Abs. 5 EStG und
+auf die Stellung des dazu erforderlichen Antrags durch den Steuerpflichtigen
+kann in diesem Falle grundsätzlich verzichtet werden. Ebenfalls
+können in diesen Fällen die oft zeitraubenden
+Ermittlungen darüber unterbleiben, ob es sich bei den veräußerten
+landwirtschaftlich genutzten Grundstücken um Betriebsvermögen oder
+Privatvermögen handelt. Hat jedoch der Steuerpflichtige
+einen Antrag auf Feststellung des höheren Teilwerts gestellt,
+so muß das Feststellungsverfahren nach § 55 Abs.
+5 EStG durchgeführt werden.</lxbase:a><lxbase:a>bb) Sollte aufgrund besonderer Umstände anzunehmen sein,
+daß der Veräußerungspreis den höheren
+Teilwert des Grund und Bodens am 1. 7. 1970 übersteigt,
+bitte ich den Steuerpflichtigen zunächst auf das sich aus § 55
+Abs. 5 EStG ergebende Antragsrecht hinzuweisen. Nach Eingang des
+Antrags des Stpfl. ist sodann das Feststellungsverfahren gem. § 55
+Abs. 5 EStG einzuleiten und durchzuführen.</lxbase:a><lxbase:a>b) Veräußerung nach dem 30. 6. 1972 <lxbase:za /> 
+Sind landwirtschaftlich genutzte Grundstücksflächen
+nach dem 30. 8. 1972 veräußert worden, so kann
+der höhere Teilwert zum 1. 7. 1970 nur dann zugrunde gelegt
+werden, wenn der Stpfl. einen entsprechenden Antrag gestellt hat
+und der höhere Teilwert gesondert festgestellt worden ist.
+Es empfiehlt sich, der Stpfl. auch in diesem Falle auf die sich
+aus § 55 Abs. 5 EStG ergebende Antragsmöglichkeit
+hinzuweisen.</lxbase:a><lxbase:a>3. In Fällen der Betriebsaufgabe oder der Entnahme von
+landwirtschaftlich genutzten Grundstücken kann dagegen
+im Hinblick darauf, daß der Stpfl. weiterhin Eigentümer
+der Grundstücke bleibt und damit an einer eindeutigen Behandlung
+ein verstärktes Interesse besteht, von der Durchführung
+des gesonderten Feststellungsverfahrens nach § 55 Abs.
+5 EStG grundsätzlich nicht aus Vereinfachungsgründen
+abgesehen werden. Das gilt unabhängig davon, ob die Betriebsaufgabe
+noch mit Wirkung auf den 30. 6. 1972 bzw. die Entnahme noch vor
+dem 1. 7. 1972 erfolgt sind und ob besondere Umstände vorliegen.</lxbase:a><lxbase:a>XIII. Ermittlung der steuerpflichtigen Fälle</lxbase:a><lxbase:a>1. Die bei den Finanzämtern vorliegenden Anfragen und
+Mitteilungen der Stpfl. über Betriebsaufgaben bzw. Überführung
+von Grundstücken in das Privatvermögen sowie unerledigte
+Veräußerungsmitteilungen sind anhand der als Anlage
+1 und 2 beigefügten Vordrucke (Fragebogen I und Fragebogen
+II) auszuwerten. Der Fragebogen I ist für die Auswertung
+der Veräußerungsmitteilungen vorgesehen. Der Fragebogen
+II ist in den Fällen zu verwenden, in denen Stpfl. oder
+deren Berater sogenannte Aufgabeerklärungen oder sonstige
+Mitteilungen über die Zugehörigkeit von Grundstücken
+zum Privatvermögen eingereicht haben. Der in diesem Zusammenhang
+anfallende Schriftwechsel ist in allen Fällen, die einkommensteuerlich
+nicht geführt werden, in den Einheitswertakten der betreffenden
+Stpfl. abzulegen. In den einkommensteuerlich geführten
+Fällen sind die Originalunterlagen zu den Einkommensteuerakten und
+(wegen evtl. Löschung der StNr. oder Bereinigung der Einkommensteuerakten)
+Fotokopien zu den Bewertungsakten zu nehmen. Die Vordrucke sind den
+Stpfl. jeweils in doppelter Ausfertigung zu übersenden.
+Die eingehenden Fragebogen sind zeitnah auszuwerten. Hierbei ist
+besonders zu prüfen, ob Einkommensteuer-Vorauszahlungen
+festzusetzen sind.</lxbase:a><lxbase:a>2. Als Anlage 3 ist ein Muster des neu aufgelegten Vordrucks "Veräußerungsmitteilung
+der Grunderwerbsteuerstelle" beigefügt. Der Vordruck
+ist den Erfordernissen der Bodengewinnbesteuerung angepaßt
+worden. Die für das Finanzamt (Veranlagungsstelle) des
+Veräußerers bestimmte Veräußerungsmitteilung
+ist künftig von der GrESt-Stelle zunächst der
+Bewertungsstelle zuzuleiten. Die Bewertungsstelle hat die Mitteilung
+vor der Weiterleitung um die für die Bodengewinnbesteuerung
+notwendigen Angaben zu ergänzen. Die für die Steuerakten
+des Erwerbers bestimmte Veräußerungsmitteilung
+ist (wie bisher) von der GrESt-Stelle unmittelbar dem Wohnsitzfinanzamt
+des Erwerbers zu übersenden.</lxbase:a><lxbase:a>Die Vordrucke zu 1. u. 2. werden zentral hergestellt und gehen
+den Finanzämtern nach Fertigstellung in einer geschätzten
+Auflage zu.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Saarland</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:deskriptoren> bodgw-31 </lxbase:deskriptoren></lxbase:allgemeine-angaben></lxrvw:rspvwa>

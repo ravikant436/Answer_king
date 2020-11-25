@@ -1,0 +1,630 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0579752" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Koblenz</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2233 A - St 31 1</lxbase:aktenzeichen><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2005-12-09" ts="nein" /></lxbase:daten><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Für das Wirtschaftsjahr<lxbase:az normform="2005/20" manuell="nein"> 2005/20</lxbase:az>06 Hinweis auf
+OFD Koblenz S-2233 A - St 31 1 v. 19. 9. 2006</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:4/1</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:4/3</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:7g</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:7g/3</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:7g/7</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:13</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:13a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>UStG:3/9/4</lxbase:norm-kuerzel><lxbase:norm-kuerzel>UStG:24/2</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2005" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Einkommensbesteuerung der nicht Buch führenden
+Landwirte;<lxbase:za />hier: Ermittlung des Gewinns aus Weinbau für
+das Wirtschaftsjahr<lxbase:az normform="2004/20" manuell="nein"> 2004/20</lxbase:az>05</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200001"><lxbase:a>1 	Allgemeines </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200002"><lxbase:a>1.1	 Betriebseinnahmen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200003"><lxbase:a>1.2	 Betriebsausgaben </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200004"><lxbase:a>1.2.1	 Sachliche
+Bebauungskosten </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200005"><lxbase:a>1.2.1.1	 Kostenarten </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200006"><lxbase:a>1.2.1.1.1 Absetzungen
+für Abnutzung für Wirtschaftsgüter, die
+der Bebauung dienen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200007"><lxbase:a>1.2.1.1.2 Nutzungsdauer
+der Wirtschaftsgüter</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200008"><lxbase:a>1.2.1.1.3 Ermittlung
+des Restbuchwertes zum Beginn des Wirtschaftsjahres 1997/1998 </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200009"><lxbase:a>1.2.1.1.4 Nachweis
+der Anschaffung und Herstellung von Wirtschaftsgütern aus
+abgelaufenen Wirtschaftsjahren sowie der entstandenen Aufwendungen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200010"><lxbase:a>1.2.1.1.5 Ansatz
+der Anschaffungs- oder Herstellungskosten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200011"><lxbase:a>1.2.1.1.6 Zu
+den geringwertigen Wirtschaftsgütern aus vorhergehenden
+Wirtschaftsjahren </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200012"><lxbase:a>1.2.1.2	 Maßgebende
+Weinbergsfläche </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200013"><lxbase:a>1.2.1.3	 Zur
+Anwendung der Richtbeträge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200014"><lxbase:a>1.2.2	 Ausbaukosten </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200015"><lxbase:a>1.2.2.1	 Kostenarten </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200016"><lxbase:a>1.2.2.2	 Richtbeträge
+je Liter erzeugten Mostes oder Weines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200017"><lxbase:a>1.2.2.3	 Wirtschaftsgüter,
+die neben dem Ausbau auch anderen Betriebsbereichen  dienen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200018"><lxbase:a>1.2.2.4	 Zur
+Anwendung der Richtbeträge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200019"><lxbase:a>1.2.3 Sonstige
+Kosten </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200020"><lxbase:a>2 Gewinnermittlung
+durch Vergleich der Betriebseinnahmen mit den Betriebsausgaben (§ 4
+Abs. 3 EStG) </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200021"><lxbase:a>3	 Gewinnermittlung
+nach § 4 Abs. 1 EStG </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200022"><lxbase:a>4	 Gewinnermittlung
+nach § 13a EStG </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200023"><lxbase:a>4.1	 Anwendungsvoraussetzungen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200024"><lxbase:a>	4.2 Pauschalierter
+Gewinnzuschlag</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200025"><lxbase:a>	4.3	Antrag
+nach § 13a Abs. 2 EStG auf eine anderweitige Gewinnermittlung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200026"><lxbase:a>5	 Wechsel
+der Gewinnermittlungsart</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200027"><lxbase:a>6	 Aufwendungen
+eines Kraftfahrzeugs im Betriebsvermögen und privater Nutzungsanteil </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200028"><lxbase:a>6.1	 Aufwendungen
+eines Kraftfahrzeugs als Vertriebskosten </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200029"><lxbase:a>6.2 	Privatanteil
+beim Ansatz von Richtbeträgen und der auf den Vertrieb
+entfallenden Kraftfahrzeugkosten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200030"><lxbase:a>6.3 	Privatanteil
+beim Ansatz der gesamten Kraftfahrzeugkosten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200031"><lxbase:a>7	 Vordruck
+"Anlage Weinbau" </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200032"><lxbase:a>8	 Ansparabschreibungen
+von Rebanlagen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200033"><lxbase:a>9	 Pacht- und
+Bewirtschaftungsverträge im Weinbau </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200034"><lxbase:a>10	 Umsatzsteuer</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200035"><lxbase:a>10.1	 Steuersatz</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200036"><lxbase:a>10.2	 Umsätze
+von Getränken und alkoholischen Flüssigkeiten </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057975200037"><lxbase:a>10.3	 Umsatzsteuerliche
+Behandlung von Straußwirtschaften </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:kapitel><lxbase:a><lxbase:fett>Soweit die nachfolgenden Ausführungen
+in den Tz. 1 - 4 zur Gewinnermittlung aus Weinbau gegenüber
+den grundlegenden Anordnungen lt. Rdvfg. vom 02.09.1998 - S 2230
+A -St 31 2 Ergänzungen oder - über redaktionelle
+Anpassungen hinaus - Änderungen beinhalten, sind diese
+durch Randstrich kenntlich gemacht. Die Randstriche sind jedoch
+nicht in InfO darstellbar.</lxbase:fett></lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200001">1 	Allgemeines </lxbase:ueberschrift><lxbase:a>Die Einkünfte aus der Bewirtschaftung von Weinbergsflächen
+gehören gem. § 13 Abs. 1 Nr. 1 EStG zu den Einkünften
+aus Land- und Forstwirtschaft. Bei Weinbaubetrieben, deren Gewinn
+nicht nach § 13a Abs. 4 - 7 EStG ermittelt wird, sind die
+Besteuerungsgrundlagen nach § 162 AO zu schätzen,
+wenn dem Finanzamt aufgrund fehlender Buchführung bzw.
+Aufzeichnungen keine ausreichenden Unterlagen für die Feststellung
+des tatsächlichen Gewinns zur Verfügung gestellt
+werden.</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D057975200002">1.1	 Betriebseinnahmen</lxbase:ueberschrift><lxbase:a>Werden die Betriebseinnahmen (vgl. Zeilen 10 - 28 der Anlage
+Weinbau) nicht oder unvollständig erklärt, sollten
+sie möglichst individuell- in Abhängigkeit von
+Erntemengen, Qualitätsstufen und Vermarktungsart - ermittelt
+werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200003">1.2	 Betriebsausgaben </lxbase:ueberschrift><lxbase:a>Die Betriebsausgaben werden für die Zwecke der Gewinnermittlung
+in folgende drei Arten untergliedert:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a><lxbase:unterst>Sachliche Bebauungskosten</lxbase:unterst>,
+die bis zum Transport der Trauben zur Kelter bzw. zur Genossenschaft
+anfallen (siehe Tz. 1.2.1);</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a><lxbase:unterst>Kosten für den Ausbau</lxbase:unterst>,
+die Flaschenfüllung und -ausstattung bei selbstausbauenden
+Winzern (siehe Tz. 1.2.2);</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a><lxbase:unterst>sonstige Kosten</lxbase:unterst>, die im unmittelbaren Zusammenhang
+mit dem Weinbau stehen (siehe Tz. 1.2.3).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:kapitel><lxbase:ueberschrift id="D057975200004">1.2.1	 Sachliche Bebauungskosten </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057975200005">1.2.1.1	 Kostenarten </lxbase:ueberschrift><lxbase:a>Die sachlichen Bebauungskosten umfassen folgende Kostenarten:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Düngung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Pflanzenschutz inkl. Spritzmittel aber ohne Aufwendungen für
+Hubschraubereinsatz (siehe Tz. 1.2.3),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Unterhalt von Wirtschaftsgebäuden, Maschinen
+und Geräten, Weinbergsanlagen (soweit diese nicht zu den
+Ausbaukosten gehören; siehe Tz. 1.2.2.1 und 1.2.2.3),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Strom, Wasser, Kanalgebühren ohne Beregnungs-
+und Bewässerungskosten (siehe Tz. 1.2.3),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Treib- und Schmierstoffe,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>sonstiges (z. B. Porto, Telefon, Büromaterial,
+Arbeitskleidung),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Grundsteuer,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Betriebsversicherungen (ohne Hagelversicherung),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Beiträge (z. B. Fremdenverkehrsbeitrag, Berufsgenossenschaft),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Umsatzsteuer auf angeschaffte Anlagegüter,
+die der Bebauung dienen, weil Bemessungsgrundlage für die
+AfA grundsätzlich die Nettoherstellungskosten sind.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Enthält die Anlage Weinbau hierzu keine Angaben (vgl.
+Zeilen 30, 32 - 39), sind die sachlichen Kosten der Bebauung i.
+d. R. mit dem für das jeweilige Weinbaugebiet geltenden
+Bebauungskostenrichtbetrag (vgl. Anlage 1, Spalte 3) zu schätzen,
+weil derartige Ausgaben im Weinbau stets anfallen.</lxbase:a><lxbase:a>Der Land- und Forstwirt ist bei der Inanspruchnahme des Bebauungskostenrichtbetrages
+nicht an die Behandlung im vorhergehenden Wj. gebunden.</lxbase:a><lxbase:a>(Zu Fällen, in denen der Land- und Forstwirt wiederholt
+in nachfolgenden Wj. zwischen dem Ansatz des Bebauungskostenrichtbetrages
+und dem Ansatz der tatsächlichen Aufwendungen für
+die Bebauung wechselt, siehe Tz. 1.2.1.3).</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D057975200006">1.2.1.1.1 Absetzungen
+für Abnutzung für Wirtschaftsgüter, die
+der Bebauung dienen </lxbase:ueberschrift><lxbase:a>Absetzungen für Abnutzung (AfA) von Wirtschaftsgebäuden,
+Maschinen und Geräten sowie von Weinbergsanlagen gehören
+ebenfalls zu den sachlichen Bebauungskosten (vgl. Zeile 40 der Anlage
+Weinbau). Die obersten Finanzbehörden des Bundes und der
+Länder haben jedoch beschlossen, den Bebauungskostenrichtbetrag
+für die sachlichen Bebauungskosten ab dem Wirtschaftsjahr<lxbase:az normform="1997/98" manuell="nein"> 1997/98</lxbase:az> ohne
+diese AfA auszuweisen. Deshalb sind die AfA und die Aufwendungen
+nach § 6 Abs. 2 EStG für geringwertige Wirtschaftsgüter
+nur noch gegen Nachweis (Anlagenverzeichnis) zu berücksichtigen.
+Für die Inanspruchnahme der AfA reicht es grundsätzlich
+aus, wenn im Anlagenverzeichnis folgende Angaben gemacht werden: </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Genaue Bezeichnung des Wirtschaftsguts;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Anschaffungs- oder Herstellungszeitpunkt;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Anschaffungs- oder Herstellungskosten (ggf. mit einem
+entsprechenden Hinweis, sofern es sich um geschätzte Beträge
+handelt);</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Nutzungsdauer lt. amtl. AfA-Tabelle zum Anschaffungs- oder
+Herstellungszeitpunkt;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Buchwert des Wirtschaftsgutes (ggf. unter Berücksichtigung geltend
+gemachter Sonderabschreibungen (z. B. nach § 7g EStG oder § 76 EStDV
+1990) und unter Beachtung von § 7a Abs. 9 EStG 1990); der Gewinnabzug
+nach § 78 EStDV ist jedoch hierbei nicht zu berücksichtigen;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>AfA im Wirtschaftsjahr;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>auf den Weinbau entfallender Teil der AfA.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200007">1.2.1.1.2 Nutzungsdauer
+der Wirtschaftsgüter</lxbase:ueberschrift><lxbase:a>Für nach dem 31.12.88 im Weinbau und Weinhandel angeschaffte
+oder hergestellte Wirtschaftsgüter ist die betriebsgewöhnliche
+Nutzungsdauer lt. amtlicher AfA-Tabelle lt. <lxbase:unterst>BMF-Schreiben
+vom 06.12.1991, <lxprod:doknr-verw linkend="HT0105454">BStBl
+1992 I S. 3</lxprod:doknr-verw></lxbase:unterst>, maßgebend. Die mit <lxbase:unterst>BMF-Schreiben
+vom 15.12.2000, <lxprod:doknr-verw linkend="HT0575112">BStBl
+I S. 1532</lxprod:doknr-verw></lxbase:unterst>, veröffentlichte Abschreibungstabelle
+für die allgemein verwendbaren Anlagegüter, die
+nach dem 31.12.2000 angeschafft wurden, ist nur anwendbar, wenn
+in der jeweiligen Branchentabelle (hier: Weinbau und Weinhandel)
+kein entsprechendes Wirtschaftsgut enthalten ist. Sind Wirtschaftsgüter
+sowohl in der vorgenannten Branchentabelle als auch in der Abschreibungstabelle
+für die allgemein verwendbaren Anlagegüter aufgeführt, gilt
+immer die Branchentabelle, obwohl sie - im Gegensatz zur Branchentabelle -
+mit dem o. a. BMF-Schreiben vom 15.12.2000 aktualisiert wurde. Die
+Nutzungsdauer beispielsweise von Schleppern beträgt hiernach
+- abweichend von der allgemeinen Abschreibungstabelle - weiterhin
+8 Jahre.</lxbase:a><lxbase:a>Es bestehen keine Bedenken, bei Land- und Forstwirten, die in
+den abgelaufenen Wirtschaftsjahren Bebauungskostenrichtbeträge
+einschl. AfA-Hilfswerte in Anspruch genommen haben, für
+die Ermittlung des Buchwertes für die der Bebauung dienenden
+Wirtschaftsgüter des Betriebsvermögens zum Beginn des
+Wirtschaftsjahres<lxbase:az normform="1997/98" manuell="nein"> 1997/98</lxbase:az> diese AfA-Tabelle
+auch für vor dem 01.01.89 angeschaffte Wirtschaftsgüter
+anzuwenden. Weil für Wirtschaftsgebäude von Weinbau-
+und Weinhandelsbetrieben keine von der üblichen betriebsgewöhnlichen
+Nutzungsdauer von Gebäuden abweichende Nutzungsdauer festgestellt
+wurde, sind insoweit § 7 Abs. 4 und 5 EStG einschlägig.</lxbase:a><lxbase:a>Eine Rebanlage ist fertiggestellt im dritten Wirtschaftsjahr
+nach dem Wirtschaftsjahr der Anpflanzung (<lxbase:unterst>BMF-Schreiben
+vom 17.09.90, BStBl I S. 420; ESt-Kartei: Karte 4 zu § 13
+EStG</lxbase:unterst>). In der Regel ist für eine solche Anlage
+eine betriebsgewöhnliche Nutzungsdauer von 20 Jahren anzunehmen.</lxbase:a><lxbase:a>Nach § 76 EStDV 1990 waren für dort näher
+bezeichnete Wirtschaftsgüter, die bis zum Ende des Wirtschaftsjahres<lxbase:az normform="1991/92" manuell="nein">1991/92</lxbase:az> angeschafft
+oder hergestellt wurden, Sonderabschreibungen zulässig. Sofern
+derartige Sonderabschreibungen vorgenommen wurden, ist für
+diese Wirtschaftsgüter nach § 76 Abs. 4 EStDV
+1990 von einer höchstens 30-jährigen Nutzungsdauer
+auszugehen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200008">1.2.1.1.3 Ermittlung
+des Restbuchwertes zum Beginn des Wirtschaftsjahres<lxbase:az normform="1997/19" manuell="nein"> 1997/19</lxbase:az>98 </lxbase:ueberschrift><lxbase:a>Bei der Ermittlung des Buchwertes ist ferner zu beachten, dass
+die Bebauungskostenrichtbeträge einschl. AfA-Hilfswerte
+unter Berücksichtigung der üblichen betriebsgewöhnlichen
+Nutzungsdauer die normale AfA enthielten.</lxbase:a><lxbase:a>Nach der Rdvfg. der OFD Koblenz vom 14.08.52 - S 2144 A -St 21
+a - (Abschnitt Nr. 2) waren Aufwendungen zur <lxbase:unterst>Wiederanlage</lxbase:unterst> vorhandener
+Rebflächen unter dort näher bezeichneten Umständen
+nicht zu aktivieren, sondern sofort abzugsfähige Betriebsausgaben
+(sog. planmäßiger nachhaltiger Umbau). Diese Regelung
+war letztmals auf Rebflächen anzuwenden, bei denen die
+Jungpflanzen im Wirtschaftsjahr<lxbase:az normform="1980/81" manuell="nein"> 1980/81</lxbase:az> gesetzt worden sind.
+Aus Vereinfachungsgründen bitte ich davon auszugehen, dass
+die Aufwendungen für die Wiederanlage von Rebflächen
+auch in den vorgenannten Zeiträumen grundsätzlich
+nicht als sofort abzugsfähige Betriebsausgaben behandelt
+wurden, sofern nicht greifbare Anhaltspunkte für eine anderweitige
+Sachbehandlung vorliegen.</lxbase:a><lxbase:a>Zum Umfang der Aktivierung von Rebanlagen, die aus Anlass eines
+Flurbereinigungsverfahrens wieder angelegt werden, siehe FM-Erlass
+vom 08.03.89 - S 2230 A - 442 -; ESt-Kartei: Karte 16 a zu § 13
+EStG.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200009">1.2.1.1.4 Nachweis der
+Anschaffung und Herstellung von Wirtschaftsgütern aus abgelaufenen
+Wirtschaftsjahren sowie der entstandenen Aufwendungen </lxbase:ueberschrift><lxbase:a>Sofern der Land- und Forstwirt AfA aus der Anschaffung oder Herstellung von
+Wirtschaftsgütern aus Veranlagungszeiträumen vor
+dem Beginn des Wirtschaftsjahres<lxbase:az normform="1997/98" manuell="nein"> 1997/98</lxbase:az> geltend macht, können
+diese grundsätzlich nur berücksichtigt werden,
+soweit er die Anschaffung oder Herstellung der Wirtschaftsgüter
+und die dabei entstandenen Aufwendungen nachweist.</lxbase:a><lxbase:a>Hierfür ist grundsätzlich die Vorlage der entsprechenden
+Belege erforderlich, sofern dies nicht bereits in früheren
+Veranlagungszeiträumen erfolgte, z. B. zur Inanspruchnahme
+von Sonderabschreibungen. Die Belegpflicht erstreckt sich auch auf
+die Anschaffung oder Herstellung von Wirtschaftsgütern
+aus zurückliegenden Jahren, für die AfA geltend
+gemacht werden, weil die Nutzungsdauer nach der amtlichen AfA-Tabelle
+noch nicht abgelaufen ist.</lxbase:a><lxbase:a>Der Nachweis über Rebanpflanzungen in zurückliegenden
+Wirtschaftsjahren kann grundsätzlich durch die EU-Weinbaukartei
+des jeweiligen Weinbaubetriebes erbracht werden. Diese Kartei ist
+seit 1989 von jedem Bewirtschafter von Rebflächen zu führen
+und erfasst sämtliche im jeweils maßgebenden Weinwirtschaftsjahr
+von ihm bewirtschafteten Rebflächen unabhängig
+von den hieran bestehenden Eigentumsverhältnissen. Weil
+diese Kartei aber nur vom Bewirtschafter von Rebflächen
+in Bezug auf das jeweilige Weinwirtschaftsjahr erstellt wird, kann
+hieraus nicht in allen Fällen abgeleitet werden, wer die Anschaffungs-
+oder Herstellungskosten der jeweiligen Rebanlage tatsächlich getragen
+hat. Dies gilt insbesondere soweit der Land- und Forstwirt nicht
+Hersteller der Rebanlage ist (z. B. entgeltlich oder unentgeltlich überlassene
+Flächen oder bei Flächen im Miteigentum, soweit
+die Parzelle den übrigen Miteigentümern gehörte).
+Der Land- und Forstwirt sollte deshalb die von ihm hergestellten
+Rebanlagen entsprechend den Eintragungen in der EU-Weinbaukartei
+genau bezeichnen; sofern Rebanlagen von ihm angeschafft wurden,
+sind darüber hinaus noch Angaben zu dem Zeitpunkt der Anschaffung
+und den Anschaffungskosten zu machen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200010">1.2.1.1.5 Ansatz der
+Anschaffungs- oder Herstellungskosten</lxbase:ueberschrift><lxbase:a>Werden die Anschaffungs- oder Herstellungskosten der vorerwähnten
+und der Bebauung dienenden Wirtschaftsgüter nicht nachgewiesen,
+können deren (ursprüngliche) Anschaffungs- oder
+Herstellungskosten geschätzt werden.</lxbase:a><lxbase:a>Bei der Schätzung der Herstellungskosten für
+die Errichtung von Rebanlagen, können grundsätzlich
+folgende durchschnittlichen Materialaufwendungen einer Neuanlage
+einschl. Jungfeld angehalten werden:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="49*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:colspec colnum="3" colname="3" colwidth="18*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Fertigstellung
+der Rebanlage</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>	Flach- u. Hanglage</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>Steillage</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a /></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a align="rechts">DM/ha</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="rechts">DM/ha</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>1975 - 1980</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a align="rechts">21.000</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="rechts">26.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>1981 - 1985</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a align="rechts">23.500</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="rechts">28.500</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>1986 - 1990</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a align="rechts">26.000</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="rechts">31.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>1991 - 1996</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a align="rechts">28.000</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="rechts">33.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>1997 - 2001</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a align="rechts">31.500</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="rechts">37.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a /></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a align="rechts">€/ha</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="rechts">€/ha</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>2002 - 2004</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a align="rechts">16.500</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">19.500</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Bei Zeilenbreiten über 2,40 m (in Spalte 12 der EU-Weinbaukartei
+1998 werden solche Flächen durch Eintragung einer "3" gekennzeichnet)
+sind diese Werte um 30 v. H. zu kürzen. Steillagen sind
+bestockte Rebflächen mit einer Geländeneigung
+von mindestens 30 v. H. Derartige Flächen sind im Automatisierten
+Liegenschaftsbuch (ALB) der Katasterverwaltung (= Liegenschaftskataster)
+entsprechend bzw. in Spalte 5 der EU-Weinbaukartei 1998 mit einem
+"S" gekennzeichnet.</lxbase:a><lxbase:a>Soweit in den zurückliegenden Wirtschaftsjahren von
+Weinbaubetrieben Bebauungskostenrichtbeträge in Anspruch
+genommen wurden, kann im Allgemeinen davon ausgegangen werden, dass
+neben den vorgenannten Materialaufwendungen keine aktivierungspflichtigen
+Lohnkosten angefallen sind. Sofern der Land- und Forstwirt solche
+Lohnkosten geltend macht, muss er diese nachweisen oder glaubhaft
+machen. Für das Entstehen derartiger Aufwendungen trägt
+er die Feststellungslast.</lxbase:a><lxbase:a>Ich bitte darauf zu achten, dass Aufwendungen einschl. Lohnkosten
+für die Errichtung von Rebanlagen nicht in den sachlichen
+Bebauungskosten enthalten sind und daneben noch durch den Ansatz
+der geschätzten Herstellungskosten berücksichtigt
+werden. Beim Ansatz von Bebauungskostenrichtbeträgen scheidet
+eine solche doppelte Berücksichtigung von vornherein aus.
+Werden die sachlichen Bebauungskosten vom LuF jedoch einzeln nachgewiesen,
+können hierbei erklärte hohe Unterhaltsaufwendungen
+für Weinbergsanlagen einen Anhaltspunkt für eine
+nähere Überprüfung bieten.</lxbase:a><lxbase:a>Darüber hinaus ist beim Ansatz von geschätzten
+Herstellungskosten zu berücksichtigen, dass seit dem Kalenderjahr
+2000 aufgrund von entsprechenden Anträgen von Winzern durch
+Beihilfen für Umstrukturierungsmaßnahmen nach der
+Verordnung über die gemeinsame Marktorganisation von Wein
+in ganz erheblichem Umfang Beihilfen zur vollständigen
+oder teilweisen (Wieder-)Herstellung von Rebanlagen gewährt
+werden. Allein im Kalenderjahr 2004 wurde in Rheinland-Pfalz für
+die Neuanlage von 1.725 ha Rebflächen ca. 8.2 Mill. Euro
+an Beihilfen ausgezahlt. Hiervon sind mehr als 50 v. H. aller Neuanlagen in
+Rheinland-Pfalz betroffen. Die Beihilfen betragen bis zu 50 v. H.
+der Herstellungskosten für die Rebanlage.</lxbase:a><lxbase:a>Zur ertragsteuerlichen Behandlung dieser Beihilfen verweise ich
+auf die Rdvfg. vom 31.10.2001 - S 2233 A - St 32 3 - Tz. 5 ff. Soweit
+die Beihilfen Herstellungskosten abdecken, handelt es sich um einen
+betrieblichen Investitionszuschuss, für den das Wahlrecht
+nach R 34 Abs. 2 EStR gilt (= entweder Minderung der Herstellungskosten
+oder Betriebseinnahmen). Auf die Erfassung dieser Beihilfen bzw.
+einer entsprechenden Minderung der o. a. Herstellungskosten für
+Rebanlagen bitte ich besonders zu achten.</lxbase:a><lxbase:a>Erklärt der Winzer die Neuanlage bzw. Umstrukturierung
+von Rebanlagen und beantragt er die Berücksichtigung der
+o. a. Herstellungskosten für die entsprechenden Rebanlagen,
+ist regelmäßig eine Überprüfung
+der hierfür und insgesamt für den land- und forstwirtschaftlichen
+Betrieb gewährten Beihilfen, Zuschüsse und Entschädigungen
+erforderlich. Sofern wegen der vorgenannten Beihilfengewährung
+der Winzer mit einem Ansatz von (geschätzten) Herstellungskosten
+in Höhe von 50 v. H. der o. a. Werte einverstanden sein
+sollte, habe ich hiergegen keine grundsätzlichen Bedenken.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200011">1.2.1.1.6 Zu den geringwertigen
+Wirtschaftsgütern aus vorhergehenden Wirtschaftsjahren </lxbase:ueberschrift><lxbase:a>Die Anschaffungs- oder Herstellungskosten für geringwertige
+Wirtschaftsgüter im Sinne von § 6 Abs. 2 EStG
+sind im jeweiligen Bebauungskostenrichtbetrag der abgelaufenen Wirtschaftsjahre
+(d. h. bis einschließlich dem Wirtschaftsjahr<lxbase:az normform="1996/97" manuell="nein"> 1996/97</lxbase:az>)
+im Wirtschaftsjahr der Anschaffung oder Herstellung in voller Höhe
+als Betriebsausgaben enthalten. Um einen doppelten Ansatz von Betriebsausgaben
+zu vermeiden, können in den nachfolgenden Wirtschaftsjahren
+AfA für diese Wirtschaftsgüter nicht berücksichtigt
+werden.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200012">1.2.1.2	 Maßgebende
+Weinbergsfläche </lxbase:ueberschrift><lxbase:a>Die für die Anwendung der Bebauungskostenrichtbeträge
+maßgebende Weinbergsfläche ergibt sich aus Zeile
+5 der Anlage Weinbau. Hierbei handelt es sich um die Ertragsrebfläche
+des Weinbaubetriebes.</lxbase:a><lxbase:a>Demzufolge kann der Bebauungskostenrichtbetrag <lxbase:fett>nicht</lxbase:fett> für Junganlagen
+- als Junganlagen gelten Rebanlagen im Jahr der Anpflanzung und in
+den zwei folgenden Wirtschaftsjahren (<lxbase:unterst>BMF vom 17.09.1990, BStBl
+I S. 420, ESt-Kartei: Karte 4 zu 13 EStG</lxbase:unterst>) - geltend gemacht werden.</lxbase:a><lxbase:a>Die Aufwendungen für diese Anlagen gehören
+zu den Herstellungskosten der Rebanlagen und werden bei den Absetzungen
+für Abnutzung berücksichtigt. Hierbei wird davon
+ausgegangen, dass der Winzer das Bewertungswahlrecht nach Tz. 3.2.1
+des <lxbase:unterst>BMF-Schreibens vom 15.12.1981 (<lxprod:doknr-verw linkend="HT0021949">BStBl I S. 878</lxprod:doknr-verw>,
+ESt-Kartei: Karte 15 zu § 13  EStG)</lxbase:unterst> zugunsten
+der Aktivierung der Pflegekosten in Anspruch genommen hat.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200013">1.2.1.3	 Zur Anwendung
+der Richtbeträge</lxbase:ueberschrift><lxbase:a>Die Finanzämter sind an die veröffentlichten
+Richtbeträge nicht gebunden, wenn ihre Anwendung im Einzelfall
+zu einer unzutreffenden Gewinnschätzung führt.
+Bestehen Anhaltspunkte für eine derartige Gewinnschätzung
+kann der Betrieb auch der zuständigen landwirtschaftlichen
+Bp-Stelle gemeldet werden. Dies kann beispielsweise in Betracht
+kommen</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>bei umfangreicher unentgeltlicher Überlassung
+von Pachtflächen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>wenn nach den vertraglichen Vereinbarungen bei Wirtschaftsüberlassungsverträgen
+jede Vertragspartei Bebauungskosten in nennenswertem Umfang zu tragen
+hat oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>wenn in nachfolgenden Wj. wiederholt zwischen dem Ansatz
+der tatsächlichen, mit der Bebauung in Zusammenhang stehenden Betriebsausgaben
+und dem Bebauungskostenrichtbetrag gewechselt wird.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200014">1.2.2	 Ausbaukosten </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057975200015">1.2.2.1	 Kostenarten </lxbase:ueberschrift><lxbase:a>Zu den Ausbaukosten gehören</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Aufwendungen für
+den Ausbau des Weins (Kellerkosten ohne Zuckerungskosten und Analysen),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Aufwendungen für die Flaschen (Glas, Abfüllung
+und Ausstattung),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Umsatzsteuer auf angeschaffte Anlagegüter,
+die dem Ausbau dienen, weil Bemessungsgrundlage für die
+AfA grundsätzlich die Nettoherstellungskosten sind,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>die <lxbase:fett>AfA</lxbase:fett> für mit dem Ausbau zusammenhängende <lxbase:fett>Anlagegüter</lxbase:fett> (z.
+B. Fassraum, Kelter und Anteil am Wirtschaftsgebäude; eine
+nicht abschließende Aufstellung der dem Ausbau dienenden
+Wirtschaftsgüter (= Kelterung und Kelterei) kann
+der mit <lxbase:unterst>BMF-Schreiben vom 06.12.1991, <lxprod:doknr-verw linkend="HT0105454">BStBl 1992 I
+S. 3</lxprod:doknr-verw>, lfd. Nr. 2 und 3</lxbase:unterst> veröffentlichten
+amtlichen AfA-Tabelle zum Weinbau und Weinhandel, Wirtschaftszweignummer
+Nr. 01163 entnommen werden),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Unterhalt von Wirtschaftsgebäuden, soweit
+sie auf den Ausbau entfallen (siehe Tz. 1.2.1.1) <lxbase:fett>und</lxbase:fett>,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a><lxbase:fett>Aufwendungen</lxbase:fett> nach § 6 Abs. 2
+EStG <lxbase:fett>für geringwertige Wirtschaftsgüter</lxbase:fett>.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200016">1.2.2.2	 Richtbeträge
+je Liter erzeugten Mostes oder Weines</lxbase:ueberschrift><lxbase:a>Werden bei selbstausbauenden Betrieben, die Fass- oder Flaschenweine vermarkten,
+keine Aufwendungen erklärt (vgl. Zeilen 30, 41 u. 42 der
+Anlage Weinbau), sind sie mit folgenden Richtbeträgen <lxbase:unterst><lxbase:fett>je Liter</lxbase:fett></lxbase:unterst> erzeugten
+Weins zu schätzen, weil davon auszugehen ist, dass hierfür
+entsprechende Kosten anfallen:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="59*" /><cals:colspec colnum="2" colname="2" colwidth="41*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>bei Verkauf des
+Mostes				</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="rechts">0,03 €/<lxbase:fett>Liter</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>bei Ausbau zum
+Fasswein	</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="rechts">0,03 	€ + 0,07
+	€ = 	0,10 €/<lxbase:fett>Liter</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>für die
+abgefüllte und ausgestattete	 1-Liter-Flasche</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="rechts">0,10 	€ + 0,35
+	€ = 	0,45 €/<lxbase:fett>Liter</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>für die abgefüllte
+und ausgestattete	 75-Liter-Flasche				</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">0,10	 €	 + 0,45
+	€ = 0,55 €/<lxbase:fett>Liter</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Es bestehen keine Bedenken, wenn aus Vereinfachungsgründen
+bei Verkäufen des Erntejahres nach dem 11.11. im Regelfall
+von der Veräußerung von Fasswein ausgegangen wird.</lxbase:a><lxbase:a>Der Richtbetrag für die abgefüllte und ausgestattete
+0,75 l-Flasche gilt auch bei Abfüllung in kleinere Flaschen.
+Aufwendungen für Neuglas können seit dem Wirtschaftsjahr<lxbase:az normform="1992/93" manuell="nein">1992/93</lxbase:az> nicht mehr
+neben dem Richtbetrag für den Ausbau des Flaschenweins
+abgezogen werden.</lxbase:a><lxbase:a>Auch in Schätzungsfällen fallen die Ausbaukosten
+in dem Jahr an, in welchem der Wein ausgebaut wird. Fehlen Angaben über
+Menge und Ausbaustand, soll zur Anwendung der Ausbaukosten-Richtbeträge
+aus Vereinfachungsgründen von der verkauften Menge lt.
+Zeile 8 der Anlage Weinbau ausgegangen werden.</lxbase:a><lxbase:a>Es ist zulässig, dass der einzelne Betrieb z. B. die
+Ausbaukosten zum Fasswein nachweist und lediglich die Kosten für
+die Abfüllung und Ausstattung der Flaschenweine schätzt.
+In diesem Fall sind die Richtbeträge für den Ausbau
+des Flaschenweins um den Richtbetrag für den Ausbau zum
+Fasswein zu kürzen.</lxbase:a><lxbase:a>Der Land- und Forstwirt ist auch bei der Inanspruchnahme der
+Ausbaukostenrichtbeträge nicht an die Behandlung im vorhergehenden
+Wj. gebunden.</lxbase:a><lxbase:a>In den <lxbase:fett>Richtbeträgen</lxbase:fett> für den <lxbase:fett>Ausbau</lxbase:fett> des Weines
+sind - im Gegensatz zu den Bebauungskosten Richtbeträgen
+- <lxbase:fett>AfA und Aufwendungen</lxbase:fett> nach § 6 Abs. 2 EStG <lxbase:fett>für geringwertige
+Wirtschaftsgüter enthalten</lxbase:fett>. Soweit diese Richtbeträge vom
+Land- und Forstwirt in Anspruch genommen werden, können
+zur Vermeidung eines doppelten Ansatzes von Betriebsausgaben für
+die Anschaffung oder Herstellung von Wirtschaftsgütern,
+die dem Ausbau dienen, <lxbase:fett>keine AfA</lxbase:fett> oder Sonderabschreibungen
+gewährt werden. Zur Bildung von Ansparabschreibungen siehe
+die Ausführungen in Tz. 1.2.3).	</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200017">1.2.2.3	 Wirtschaftsgüter,
+die neben dem Ausbau auch anderen Betriebsbereichen  dienen </lxbase:ueberschrift><lxbase:a>Sofern Wirtschaftsgüter des Weinbaubetriebes neben dem
+Ausbau des Weines auch den übrigen Betriebsbereichen dienen,
+z. B. Wirtschaftsgebäude, sind zur Vermeidung eines doppelten
+Ansatzes AfA für diese Wirtschaftsgüter insoweit
+nicht als Betriebsausgaben zu berücksichtigen, wie sie
+dem Ausbau zuzurechnen sind.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200018">1.2.2.4	 Zur Anwendung
+der Richtbeträge</lxbase:ueberschrift><lxbase:a>Die Finanzämter sind an die veröffentlichten
+Richtbeträge nicht gebunden, wenn ihre Anwendung im Einzelfall
+zu einer unzutreffenden Gewinnschätzung führt.
+Besteht die Gefahr, dass der Weinbaubetrieb die Richtbeträge
+in Anspruch nimmt, obwohl bereits in den Vorjahren Ausbaukosten
+(tatsächlich oder geschätzt) für diesen
+Wein den Gewinn gemindert haben, kann der Betrieb der zuständigen
+landwirtschaftlichen Bp-Stelle gemeldet werden. Im Übrigen gelten
+die Ausführungen zu Tz. 1.2.1.3 entsprechend.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200019">1.2.3 Sonstige Kosten </lxbase:ueberschrift><lxbase:a>Sonstige Kosten sind diejenigen Aufwendungen, die nicht zu den
+sachlichen Bebauungskosten oder zu den Ausbaukosten gehören.
+Sonstige Kosten (vgl. Zeilen 43 -48 der Anlage Weinbau), soweit
+sie nur auf den Weinbau entfallen, sind insbesondere:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Lohnaufwand (ohne Löhne
+für die Herstellung der Rebanlage und Jungfeldpflege; zur
+Behandlung von Löhnen bei mehreren Betriebszweigen, siehe
+Rdvfg. vom 15.04.1992 - S 2230 A - St 34 2 -, Tz. 4.6 und vom 20.06.1996
+-S 2230 A - St 34 2 -, Tz. 7),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Schuld- und Pachtzinsen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Hagelversicherungsbeiträge,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Aufwendungen für Flurbereinigung und Wegebau,
+soweit sie nicht zu aktivieren sind; Hinweis auf ESt-Kartei: Karte
+16 a zu § 13 EStG (= 50 v. H.),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Aufwendungen für den Einsatz eines Traubenvollernters,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Aufwendungen für Hubschraubereinsatz (ohne
+Spritzmittel),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>an das Finanzamt tatsächlich abgeführte
+Umsatzsteuer,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Abschreibungen und übrige Kosten für
+Frostschutz, Beregnung, Wildschutz, soweit nicht zur Rebanlage gehörend,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Aufwendungen für Vertrieb (z. B. Abgabe für
+die gebietliche Absatzförderung nach § 24 Weinwirtschaftsgesetz
+und die Abgabe für den Deutschen Weinfonds Anstalt des öffentlichen
+Rechts nach § 23 Weinwirtschaftsgesetz, Werbemittel, Weinkartons,
+Transport von Flaschenwein) und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Kosten der Zuckerung (siehe Tz. 1.2.2).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Darüber hinaus gehören noch nachfolgende Aufwendungen
+zu den sonstigen Kosten (wegen des Wegfalls des AfA-Hilfswertes
+für die Wirtschaftsgüter, die der Bebauung dienen,
+hat die Zuordnung dieser Aufwendungen zu den sonstigen Kosten für
+solche Wirtschaftsgüter keine Bedeutung mehr):</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Absetzungen für
+außergewöhnliche technische Abnutzung der Rebanlage,
+z. B. aufgrund von Frostschäden, Reblausverseuchung, etc.,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Sonderabschreibungen, z. B. nach § 7g EStG.
+Dies gilt jedoch nicht für Wirtschaftsgüter, die
+dem Ausbau dienen, sofern der Ausbaukostenrichtbetrag in Anspruch
+genommen wird. Andernfalls könnte eine unzulässige
+doppelte Berücksichtigung von entsprechenden Betriebsausgaben
+eintreten (siehe Tz. 1.2.2.2).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Wurden Ansparabschreibungen in einem Wj. zulässigerweise
+gebildet, führt die Inanspruchnahme der Richtwerte für
+die Ausbaukosten in den nachfolgenden Wj. allein nicht zur Auflösung
+dieser Rücklage. Allerdings muss der buchmäßige
+Nachweis auch in diesen Wj. in vollem Umfang erfüllt sein.
+Die Auflösung der Ansparabschreibung nach § 7g
+Abs. 5 EStG ist einschl. einem evtl. Gewinnzuschlag neben dem angesetzten
+Ausbaukostenrichtbetrag zu berücksichtigen.</lxbase:a><lxbase:a>Derartige Kosten sind, da sie nicht in jedem Weinbaubetrieb anfallen,
+nur in der erklärten (siehe Zeilen 43 - 48 der Anlage Weinbau)
+und <lxbase:unterst>tatsächlich nachgewiesenen  Höhe</lxbase:unterst> abzugsfähig.</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200020">2 Gewinnermittlung durch
+Vergleich der Betriebseinnahmen mit den Betriebsausgaben (§ 4
+Abs. 3 EStG) </lxbase:ueberschrift><lxbase:a>Bei der Gewinnermittlung nach § 4 Abs. 3 EStG ist unter
+Berücksichtigung des Zu- und Abflussprinzips in § 11
+EStG der Überschuss der Betriebseinnahmen über
+die Betriebsausgaben anzusetzen. Hierzu gelten die grundsätzlichen
+Ausführungen der Tz. 1 ff.</lxbase:a><lxbase:a>Die sachlichen Bebauungskosten sind deshalb, sofern die betreffenden Winzer
+den Nachweis für diese Kosten nicht führen, mit
+dem für das jeweilige Weinbaugebiet geltenden Bebauungskostenrichtbetrag
+je ha Ertragsrebfläche lt. Spalte 3 der Anlage 1 zu schätzen.</lxbase:a><lxbase:a>Bei selbstausbauenden Betrieben können die in Tz. 1.2.2
+angegebenen Richtbeträge als Anhalt dienen, falls die Ausbaukosten
+nicht nachgewiesen werden. Für die sonstigen Kosten gilt
+Tz. 1.2.3 entsprechend.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200021">3	 Gewinnermittlung
+nach § 4 Abs. 1 EStG </lxbase:ueberschrift><lxbase:a>Bei Land- und Forstwirten, die zur Buchführung verpflichtet
+sind, aber keine ordnungsmäßigen Bücher
+führen, ist der Gewinn aus Weinbau regelmäßig
+unter Berücksichtigung der tatsächlichen Betriebseinnahmen
+und -ausgaben individuell zu schätzen (§ 162 AO;
+R 127 Abs. 1 EStR). Der dabei durchzuführende Betriebsvermögensvergleich
+i. S. d. § 4 Abs. 1 EStG muss sich auf das gesamte Betriebsvermögen,
+insbesondere auf die Weinbestände, Forderungen und Schulden
+erstrecken.</lxbase:a><lxbase:a>Sofern die sachlichen Bebauungskosten geschätzt werden
+müssen, gelten die grundsätzlichen Ausführungen
+unter Tz. 1.2.1 entsprechend. Deshalb kann in einem solchen Fall
+der für das jeweilige Weinbaugebiet geltende Bebauungskostenrichtbetrag
+je ha Ertragsrebfläche lt. Spalte 3 der Anlage 1 angehalten werden.</lxbase:a><lxbase:a>Die Ausbaukosten-Richtbeträge (vgl. Tz. 1.2.2) sind
+auch bei buchführungspflichtigen Weinbaubetrieben anwendbar,
+soweit die Kosten für den Ausbau des Weines nicht nachgewiesen
+werden. Für die Abzugsfähigkeit von sonstigen
+Kosten gilt Tz. 1.2.3 entsprechend.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200022">4	 Gewinnermittlung
+nach § 13a EStG </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057975200023">4.1	 Anwendungsvoraussetzungen </lxbase:ueberschrift><lxbase:a>(Siehe im Einzelnen die im Intranet unter "Steuerfachthemen/St3
+- Übersicht/Themenübersicht/Fortbildungen/Land-
+und Forstwirtschaft/Fortbildungsunterlagen zur Land- und
+Forstwirtschaft/§ 13a EStG" eingestellte Fortbildungsunterlage
+"Ermittlung des Gewinns nach Durchschnittssätzen und Übergangsgewinn",
+Abschnitt III. Tz. 1.2.4 ff.)</lxbase:a><lxbase:a>Sofern in einem land- und forstwirtschaftlichen Betrieb <lxbase:fett><lxbase:unterst>eine</lxbase:unterst></lxbase:fett> Sondernutzung
+mit einem Vergleichswert von über 2.000 DM vorliegt, z.
+B. weinbauliche Nutzung von über 2.000 DM (dieser Wert
+kann in Rheinland-Pfalz je nach betroffenem Anbaugebiet bereits
+ab 0,3 ha - 0,6 ha überschritten werden), sind die Anwendungsvoraussetzungen
+von § 13a Abs. 1 EStG nicht mehr erfüllt. Dieser
+Betrieb ist unverzüglich auf den Wegfall der Voraussetzungen
+für die Gewinnermittlung nach § 13a EStG hinzuweisen
+(§ 13a Abs. 1 Satz 2 EStG). Mit dem rechtzeitigen Hinweis
+auf den Wegfall der Anwendungsvoraussetzungen von § 13a
+EStG entfällt - im Gegensatz zur Rechtslage nach § 13a
+EStG a. F. - für den <lxbase:fett>gesamten land- und forstwirtschaftlichen
+Betrieb</lxbase:fett> die Möglichkeit der Durchschnittssatzgewinnermittlung.</lxbase:a><lxbase:a>Land- und forstwirtschaftliche Betriebe mit Weinbau können
+deshalb ihren Gewinn nach Durchschnittssätzen nach § 13a
+EStG ermitteln, wenn der nach den Grundsätzen des BewG
+ermittelte Wert der weinbaulich genutzten Flächen zu Beginn
+des Wirtschaftsjahres 2.000 DM nicht übersteigt oder wenn
+dieser Wert zwar überschritten wird, jedoch der Land- und
+Forstwirt nicht rechtzeitig auf den Wegfall der Gewinnermittlung
+nach Durchschnittssätzen hingewiesen wurde. Nach dem BFH-Urteil
+vom 29.11.2001, <lxprod:doknr-verw linkend="HT0573796">BStBl
+2002 II S. 147</lxprod:doknr-verw>, kann bei falschen Angaben des Land- und
+Forstwirts ggf. auch ohne eine Mitteilung über den Wegfall
+der Anwendungsvoraussetzungen von § 13a EStG die Durchschnittssatzgewinnermittlung
+entfallen. § 13a EStG i. d. F. des StEntlG<lxbase:az normform="1999/20" manuell="nein"> 1999/20</lxbase:az>00/2002
+ist erstmals für Wirtschaftsjahre anzuwenden, die nach dem
+30.12.1999 enden.</lxbase:a><lxbase:a>Zugepachtete Flächen sind bei der Berechnung des Vergleichswertes
+zu berücksichtigen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200024">	4.2 Pauschalierter
+Gewinnzuschlag</lxbase:ueberschrift><lxbase:a>Der Gewinn aus der weinbaulichen Nutzung ist nach § 13a
+Abs. 3 Nr. 2 i. V. m. Abs. 5 EStG pauschaliert mit einem Zuschlag
+zum Durchschnittssatzgewinn in Höhe von 512 € anzusetzen,
+sofern der Wert dieser Nutzung nach dem BewG mehr als 500 DM beträgt.
+Bis zu dieser Bagatellgrenze entfällt der Ansatz eines
+Zuschlages. Übersteigt der Wert dieser Nutzung die Grenze
+von 2.000 DM und ist dennoch ausnahmsweise ein Durchschnittssatzgewinn
+zu ermitteln, verbleibt es dennoch bei dem Zuschlag von 512 €.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200025">	4.3	 Antrag nach § 13a
+Abs. 2 EStG auf eine anderweitige Gewinnermittlung </lxbase:ueberschrift><lxbase:a>(Siehe im Einzelnen die o. a. im Intranet eingestellte Fortbildungsunterlage "Ermittlung
+des Gewinns nach Durchschnittssätzen und Übergangsgewinn", Abschnitt
+III. Tz. 2 ff.)</lxbase:a><lxbase:a>Der Antrag nach § 13a Abs. 2 EStG, den Gewinn für
+vier aufeinanderfolgende Wirtschaftsjahre durch Vergleich der Betriebseinnahmen
+mit den Betriebsausgaben zu ermitteln, ist zunächst wirksam,
+wenn sämtliche Betriebseinnahmen und Betriebsausgaben für
+das erste Wirtschaftsjahr einzeln aufgezeichnet werden. Der Antrag
+ist deshalb unwirksam, wenn z. B. Teile der Betriebsausgaben geschätzt
+oder mit Richtsätzen oder sog. Bebauungskostenrichtbeträgen
+angesetzt werden (BFH-Urteil vom 18.03.1993, <lxprod:doknr-verw linkend="HT0103400">BStBl 1993
+II S. 549</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Ich bitte zu beachten, dass das Antragswahlrecht nach § 13a
+Abs. 2 EStG i. d. F. des StEntlG<lxbase:az normform="1999/20" manuell="nein"> 1999/20</lxbase:az>00/2002 nunmehr
+nur dann für den gesamten 4-Jahreszeitraum wirksam ausgeübt
+wird, wenn der Gewinn entsprechend den Ausführungen im
+vorhergehenden Absatz für vier aufeinanderfolgende Wirtschaftsjahre
+tatsächlich nach § 4 Abs. 1 oder 3 EStG ermittelt
+wird. § 13a Abs. 2 EStG i. d. F. des StBereinG, <lxbase:lit-fs normform="BStBl-2000-I-0013" manuell="nein">BStBl 2000 I
+S. 13</lxbase:lit-fs>, stellt dies nochmals ausdrücklich klar.</lxbase:a><lxbase:a>Wird der Gewinn eines dieser Wirtschaftsjahre durch den Steuerpflichtigen nicht
+durch Betriebsvermögensvergleich oder durch Vergleich der
+Betriebseinnahmen mit den Betriebsausgaben ermittelt, ist der Gewinn
+für den gesamten Zeitraum von vier Wirtschaftsjahren nach § 13a
+Abs. 3 bis 6 EStG zu ermitteln (§ 13a Abs. 2 S. 2 EStG
+i. d. F. des StBereinG 1999). Innerhalb des Bindungszeitraumes ist
+ein Wechsel von der Gewinnermittlung nach § 4 Abs. 1 EStG
+zur Gewinnermittlung nach § 4 Abs. 3 EStG und umgekehrt
+zulässig.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200026">5	 Wechsel der Gewinnermittlungsart</lxbase:ueberschrift><lxbase:a>Ein Wechsel der Gewinnermittlungsart kann sich bei einem Weinbaubetrieb
+oder land- und forstwirtschaftlichen Betrieb mit Weinbau ergeben,
+wenn von der</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Gewinnermittlung nach § 13a
+EStG zur Einnahmenüberschussrechnung oder umgekehrt oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Gewinnermittlung durch Bestandsvergleich zur Einnahmenüberschussrechnung
+oder umgekehrt</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>(freiwillig oder wegen Wegfalls der Voraussetzungen für
+die bisherige Gewinnermittlungsart) gewechselt wird. Dies ist darauf
+zurückzuführen, dass die Gewinnermittlung nach § 13a
+EStG im Grundbetragsbereich einschl. dem Zuschlag nach § 13a
+Abs. 5 EStG der Gewinnermittlung durch Bestandsvergleich entspricht.</lxbase:a><lxbase:a>Bei einem vorstehenden Wechsel der Gewinnermittlungsart ist ein Übergangsgewinn
+zu ermitteln, der insbesondere Forderungen, Verbindlichkeiten, Weinbestände
+und Rechnungsabgrenzungsposten erfasst. Zu den hierbei ggf. betroffenen
+Wirtschaftsgütern und der Ermittlung eines Übergangsgewinns siehe
+die o. a. im Intranet eingestellte Fortbildungsunterlage "Ermittlung
+des Gewinns nach Durchschnittssätzen und Übergangsgewinn,
+Abschnitt III. Tz. 8 ff.)</lxbase:a><lxbase:a>Ich bitte auf die Erfassung eines solchen Übergangsgewinns,
+der sich bei Weinbaubetrieben insbesondere aus den im Übergangszeitpunkt
+in der Regel mit den Anschaffungs- oder Herstellungskosten zu bewertenden
+insgesamt vorhandenen Weinbeständen ergeben kann, besonders
+zu achten.</lxbase:a><lxbase:a>Sofern in derartigen Fällen gegen den vom Land- und
+Forstwirt erklärten Wertansatz für die im Übergangszeitpunkt
+angegebenen Weinbestände seines Betriebes Bedenken bestehen,
+kann der weinbauliche Sachverständige der Oberfinanzdirektion
+Koblenz eingeschaltet werden.</lxbase:a><lxbase:a>Jeder Weinbaubetrieb unterliegt mit seinen am 31.08. eines jeden
+Kalenderjahres vorhandenen Wein- und Traubenmostbeständen
+einer Meldepflicht. Diese Bestände müssen bis
+zum 07.09. des jeweiligen Kalenderjahres der für den Betrieb örtlich
+zuständige Stadt-, Gemeinde- oder Verbandsgemeindeverwaltung
+mitgeteilt werden. Diese Meldung kann einen Anhaltspunkt für
+die im jeweiligen Weinbaubetrieb vorhandenen und im Rahmen der Übergangsgewinnermittlung
+zu erfassenden Weinbestände darstellen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200027">6	 Aufwendungen eines
+Kraftfahrzeugs im Betriebsvermögen und privater Nutzungsanteil </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057975200028">6.1	 Aufwendungen eines
+Kraftfahrzeugs als Vertriebskosten </lxbase:ueberschrift><lxbase:a>Ein Kraftfahrzeug kann im Weinbaubetrieb den Bereichen der Bebauung, des
+Ausbaus (hier allerdings in aller Regel in unbedeutendem Umfang)
+und des Vertriebs dienen. In den in Anlage 1 aufgeführten
+Bebauungskostenrichtbeträgen sind aufgrund der Erhebung
+dieser Kosten nur die insoweit (durchschnittlich) angefallenen betrieblich
+bedingten Kraftfahrzeugkosten enthalten. Wird vom Land- und Forstwirt
+im Rahmen der Gewinnermittlung für seinen Weinbaubetrieb
+der maßgebende Bebauungskostenrichtbetrag angesetzt, können
+die nachweislich auf den Vertrieb entfallenden und somit betrieblich
+veranlassten Kraftfahrzeugkosten darüber hinaus als sonstige
+Kosten (vgl. Tz. 1.2.3) des Weinbaubetriebes berücksichtigt
+werden.</lxbase:a><lxbase:a>Handelt es sich um ein Kraftfahrzeug des Betriebsvermögens,
+können die Fahrtkosten dabei <lxbase:unterst>nicht</lxbase:unterst> ohne
+weiteres mit dem pauschalen Kilometersatz in Höhe von 0,30 € je
+Fahrtkilometer berücksichtigt werden. Weist der Land- und
+Forstwirt lediglich die mit seinem betrieblichen Kraftfahrzeug für
+den Vertrieb zurückgelegte Fahrstrecke nach oder macht
+diese glaubhaft, habe ich keine Bedenken, wenn die insoweit entstandenen
+Fahrtkosten mit 0,15 € je Fahrtkilometer als Betriebsausgaben
+berücksichtigt werden. Höhere Fahrtkosten je Fahrtkilometer
+für ein solches Fahrzeug hat der Land- und Forstwirt nachzuweisen
+(vgl. BFH-Urteil vom 07.04.1992, BStBl II S. 854).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200029">6.2 	Privatanteil beim
+Ansatz von Richtbeträgen und der auf den Vertrieb entfallenden
+Kraftfahrzeugkosten</lxbase:ueberschrift><lxbase:a>Werden neben den o. a. Richtbeträgen für die
+Bebauung und den Ausbau vom Land- und Forstwirt nur die tatsächlich
+auf den Vertrieb entfallenden Kraftfahrzeugkosten entsprechend den
+vorstehenden Ausführungen als Betriebsausgaben des Weinbaubetriebes
+erklärt, bleibt für den Ansatz eines privaten
+Nutzungsanteils des betrieblichen Kraftfahrzeugs kein Raum. Sofern jedoch
+in derartigen Fällen darüber hinaus noch die gesamte
+AfA für das betriebliche Kraftfahrzeug geltend gemacht
+wird, kommt eine Kürzung dieser Betriebsausgabe in Betracht,
+wenn das Fahrzeug auch privat genutzt wird. Ich habe keine Bedenken,
+wenn diese wegen der Privatnutzung des betrieblichen Kraftfahrzeugs
+gebotene Kürzung der für das Fahrzeug angesetzten
+AfA z. B. bei Weinbaubetrieben, deren Flaschenweinvermarktung in
+weit überwiegendem Umfang nicht vom Weingut aus erfolgt,
+grundsätzlich mit 30 - 35 v. H. (dieser AfA) vorgenommen
+wird. Bei Weinbaubetrieben mit anderen Vermarktungsformen ist eine
+solche Kürzung unter Berücksichtigung aller Umstände des
+Einzelfalls zu schätzen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200030">6.3 	Privatanteil beim
+Ansatz der gesamten Kraftfahrzeugkosten</lxbase:ueberschrift><lxbase:a>Die private Nutzung eines betrieblichen Kraftfahrzeugs ist demgegenüber nach § 4
+Abs. 5 Satz 1 Nr. 6 und § 6 Abs. 1 Nr. 4 Sätze
+2 und 3 EStG zu ermitteln (siehe hierzu BMF-Schreiben vom 12.05.1997,
+BStBl I S. 562), wenn der Land- und Forstwirt im Rahmen der Gewinnermittlung
+für seinen Weinbaubetrieb tatsächlich die gesamten
+Kraftfahrzeugkosten geltend macht.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200031">7	 Vordruck "Anlage
+Weinbau" </lxbase:ueberschrift><lxbase:a>Der bundeseinheitliche Vordruck "Anlage Weinbau" ist von dem
+betroffenen Personenkreis als unselbständige Anlage der
+"Anlage L zur Einkommensteuer- oder Feststellungserklärung
+der Einkünfte aus Land- und Forstwirtschaft" beizufügen.
+Der entsprechende Hinweis in Zeile 45 Spalte 6 der bisherigen Anlage
+L fehlt leider bei der Anlage L 2004; er wurde bei der Anlage L
+2005 wieder aufgenommen. Eine konkrete Auswirkung hat das Fehlen
+dieses Hinweises nicht.</lxbase:a><lxbase:a>Nach § 150 Abs. 1 und 2 AO sind die Angaben in Steuererklärungen
+auf amtlich vorgeschriebenem Vordruck zu machen. Diese Verpflichtung
+umfasst auch die den Steuererklärungen beizufügenden
+Anlagen, insbesondere bei Land- und Forstwirten die Anlage L und
+Anlage Weinbau. Werden diese Anlagen vom Land- und Forstwirt nicht
+eingereicht, kann deren Abgabe mit Zwangsmaßnahmen nach §§ 328
+- 335 AO durchgesetzt werden (siehe im Einzelnen die Rdvfg. vom
+23.07.2002 - S 2230 A - St 31 - Tz. 7 ff.).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200032">8	 Ansparabschreibungen
+von Rebanlagen </lxbase:ueberschrift><lxbase:a>Die Bildung von Ansparabschreibungen nach § 7g Abs.
+3 und 7 EStG bei beabsichtigter Herstellung von Rebanlagen ist grundsätzlich
+zulässig. Rebanlagen sind jedoch erst im dritten Jahr nach
+dem Wirtschaftsjahr der Anpflanzung fertig gestellt. Weil der begünstigte
+Investitionszeitraum nach § 7g Abs. 3 EStG nur zwei Wirtschaftsjahre
+beträgt, können Ansparabschreibungen für
+Rebanlagen erst nach dem Wirtschaftsjahr der Anpflanzung und vor
+dem Wirtschaftsjahr der Fertigstellung wirksam gebildet werden.
+Eine frühere Bildung von Ansparabschreibungen bei Rebanlagen
+scheidet aus.</lxbase:a><lxbase:a>Siehe im Einzelnen zum Zeitpunkt, der Höhe und der Auflösung
+der Ansparabschreibungen sowie der Bezeichnung der einzelnen Rebanlagen
+die Rdvfg. vom 21.11.2002 - S 2233 A - St 31 1 - Tz. 6.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200033">9	 Pacht- und Bewirtschaftungsverträge
+im Weinbau </lxbase:ueberschrift><lxbase:a>Zur ertragsteuerrechtlichen Beurteilung eines Pacht- und Bewirtschaftungsvertrages über
+weinbaulich genutzte Flächen verweise ich auf die Rdvfg. vom
+21.11.2002 - S 2233 A - St 31 1 - Tz. 7 und die dort aufgeführten
+Abgrenzungskriterien. Eine land- und forstwirtschaftliche Tätigkeit
+ist hiernach anzunehmen, wenn die vertraglichen Vereinbarungen zwischen
+Verpächter und Pächter tatsächlich auf
+den Verkauf der Ernte gerichtet sind und auch entsprechend durchgeführt
+werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200034">10	 Umsatzsteuer</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057975200035">10.1	 Steuersatz</lxbase:ueberschrift><lxbase:a>Bei Traubenablieferungen fällt im Rahmen der Durchschnittsbesteuerung keine
+Umsatzsteuer an, wenn 9 v. H. (vorher 10 v. H.) in Rechnung gestellt wird.</lxbase:a><lxbase:a>Der Steuersatz für die Entgelte aus dem Verkauf von
+Most, Traubensaft und Wein beträgt seit dem 01.04.1998 <lxbase:fett>16
+v. H</lxbase:fett>. Damit ergibt sich bei Anwendung der Durchschnittsatzbesteuerung
+die folgende Zahllast:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="34*" /><cals:colspec colnum="2" colname="2" colwidth="17*" /><cals:colspec colnum="3" colname="3" colwidth="11*" /><cals:colspec colnum="4" colname="4" colwidth="38*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Zeit</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Vorsteuerabzug</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>Zahllast</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>Änderungsgesetz</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>01.07.1998 - 31.03.1999</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>10 v. H.</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>	6 v. H.</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>Art. 3 des Gesetzes zur Anpassung steuerlicher Vorschriften
+der LuF vom 29.06.1998, BStBl I S. 930</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>01.04.1999</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>	9 v. H.	</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>7 v. H. </lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>Art. 7, Nr. 18 StEntlG<lxbase:az normform="1999/20" manuell="nein"> 1999/20</lxbase:az>00/2002 vom24.03.1999,
+BStBl I S. 304, 391</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200036">10.2	 Umsätze
+von Getränken und alkoholischen Flüssigkeiten </lxbase:ueberschrift><lxbase:a>Es wird auf die Vereinfachungsregelung für Umsätze
+von Getränken und alkoholischen Flüssigkeiten
+hingewiesen (für Umsätze bis 2.400 DM/Jahr,
+ab 01.01.2002 bis 1.200 €/Jahr, Abschn. 268 UStR
+2005), nach der unter bestimmten Voraussetzungen auf die Erhebung
+der anfallenden Umsatzsteuer abgesehen werden kann.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057975200037">10.3	 Umsatzsteuerliche
+Behandlung von Straußwirtschaften </lxbase:ueberschrift><lxbase:a>Straußwirtschaften sind häufig Nebenbetriebe
+der Land- und Forstwirtschaft (§ 24 Abs. 2 UStG). Da sie
+Speisen und Getränke zum Verzehr an Ort und Stelle abgeben,
+sind diese Leistungen nach § 3 Nr. 9 Satz 4 UStG als sonstige
+Leistungen einzustufen (vgl. auch Abschn. 25a UStR 2005).</lxbase:a><lxbase:a>Ab dem 01.01.2002 wurde § 24 Abs. 1 Nr. 2 UStG geändert.
+Danach wird für sonstige Leistungen nach § 3 Nr.
+9 Satz 4 UStG die Steuer auf 16 v. H. festgesetzt, soweit in der
+Anlage nicht aufgeführte Getränke abgegeben werden (Zahllast
+7 v. H.), vgl. Abschn. 264 Abs. 2 Satz 4 UStR 2005. Zur Rechtslage bis
+einschl. 31.12.2001 verweise ich auf die Rdvfg vom 03.06.2003 -
+S 7414 A - St 443 und vom 08.11.2005 -S 7414 A - St 443.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:a>Anlage</lxbase:a><lxbase:a><lxbase:unterst>Bebauungskostenrichtbeträge für das
+Wirtschaftsjahr<lxbase:az normform="2004/20" manuell="nein"> 2004/20</lxbase:az>05	</lxbase:unterst></lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="8*" /><cals:colspec colnum="2" colname="2" colwidth="61*" /><cals:colspec colnum="3" colname="3" colwidth="21*" /><cals:colspec colnum="4" colname="4" colwidth="10*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>lfd. Nr.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Weinbaugebiet	</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>Richtbetrag für Winzer 		€/ha *) Ertragsrebfläche</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>VAK je/ha</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>2</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>3</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>4</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>	Rheinhessen, Rheinpfalz, aus dem Anbaugebiet
+Nahe die	 	Weinbaugemeinden 	Langenlonsheim, Guldental, Bretzenheim, Bad
+Kreuznach **)		</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>2.050,--</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>0,5</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>2</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>	Ahr, Mittelrhein	 	(einschl. Lahn), Mosel, Ruwer,
+Saar, Sauer, Nahe (ohne die Weinbaugemeinden Langenlonsheim, Guldental,
+Bretzenheim, Bad Kreuznach) **)		</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>1.950,--</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>1,0</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>zu *)</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>	Die Bebauungskostenrichtbeträge
+umfassen die Kosten der Bebauung bis zum Transport der geernteten
+Trauben zur Kelter oder zur Winzergenossenschaft. Eine Kürzung
+der Richtbeträge wegen Vollablieferung der Trauben und
+Maische ist nicht vorzunehmen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Die zusätzlichen Aufwendungen,
+die bei der Schädlingsbekämpfung durch Hubschrauberspritzung
+entstehen, sind nur noch in tatsächlich nachgewiesener
+Höhe neben den Bebauungskostenrichtbeträgen abzugsfähig.
+Die Mittelrheinische Rebschutzgesellschaft mbH hat den angeschlossenen
+Raiffeisenbanken angeboten, die reinen Flugkosten auf den Rechnungen
+getrennt auszuweisen. Von diesem Angebot wird dort kein Gebrauch
+gemacht, wo die Flurbereinigung unmittelbar bevorsteht. In diesen
+Fällen bestehen keine Bedenken, die zusätzlichen
+Kosten je nachgewiesener Hubschrauberspritzung mit 60,-- €/ha
+neben den Bebauungskostenrichtbeträgen zum Abzug zuzulassen.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>zu **)</lxbase:a><lxbase:a>Maßgebend ist regelmäßig das Gebiet,
+in dem der Betrieb seinen Sitz hat. Das gilt aus Vereinfachungsgründen
+auch dann, wenn die Weinberge in anderen Gebieten belegen sind.</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Umsatzsteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Rheinland-Pfalz</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:branchen><lxbase:branche>Landwirtschaft</lxbase:branche></lxbase:branchen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

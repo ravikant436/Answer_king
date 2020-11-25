@@ -1,0 +1,1143 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Schreiben" dok-typ="Verwaltungsanweisung" dok-nummer="0105285" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Der Bundesminister der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>IV B 1 - S-2532 - 81/91 </lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2532 </lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2532 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2532 | S</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1991-09-17" /></lxbase:daten><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Aufgehoben für Steuertatbestände, die nach
+dem 31.12.2004 verwirklicht worden sind, durch BdF <lxprod:doknr-verw linkend="HT5230685">IV C 6 -
+O-1000 / 07 / 0018</lxprod:doknr-verw> v. 29. 3. 2007 (koordinierter
+Ländererlass - "Schreiben zur Eindämmung der
+Normenflut")</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:normen /><lxbase:jahre><lxbase:jahr jahr="1991" /></lxbase:jahre><lxbase:zitate><lxbase:alt-zitate><lxbase:alt-zitat>FinMin RP <lxbase:az normform="S2121A442" manuell="nein">S-2121
+A - 442</lxbase:az> v. 2. 8. 1991 </lxbase:alt-zitat><lxbase:alt-zitat> BdF <lxprod:doknr-verw linkend="HT0098394">IV
+B 7 - S-1900 - 97/91</lxprod:doknr-verw> v. 6. 5. 1991 </lxbase:alt-zitat></lxbase:alt-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Bearbeitung der Jahreserklärungen 1990 im Beitrittsgebiet </lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500001"><lxbase:a>1. Allgemeines </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500002"><lxbase:a>2. Allgemeine
+Rechtsgrundlagen der Veranlagung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500003"><lxbase:a>3. Vordruckübersicht
+(Jahreserklärungen, Anlagen und Anleitungen) ohne Umsatzsteuererklärung
+für das 2. Halbjahr 1990 </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500004"><lxbase:a>4. Überprüfung
+des Abrechnungsteils in den Jahreserklärungen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500005"><lxbase:a>5. Veranlagungsverfahren </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500006"><lxbase:a>6. Erfassung
+und Kontierung im IABV </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500007"><lxbase:a>7. Grundinformationen
+im Rahmen der Jahreserklärung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500008"><lxbase:a>8. Hinweise
+zur Ertragsbesteuerung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500009"><lxbase:a>9. Steuerfreie
+Akkumulationsrücklage nach § 3 Abs. 2 StÄG </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500010"><lxbase:a>10. Steuerbefreiung
+für reprivatisierte Betriebe </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500011"><lxbase:a>11. Steuerabzugsbetrag
+nach § 9 Abs. 1 DB zum StÄG </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500012"><lxbase:a>12. Beschränkte
+Steuerpflicht </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500013"><lxbase:a>13. Ausländische
+Einkünfte / Bedeutung von Doppelbesteuerungsabkommen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500014"><lxbase:a>14. Berechnung
+der Steuer beim Zusammentreffen von </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500015"><lxbase:a>15. Gewerbesteuer </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500016"><lxbase:a>16. Vermögensteuer </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500017"><lxbase:a>17. Körperschaftsteuer </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500018"><lxbase:a>18. Verfahrensrecht </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500019"><lxbase:a>19. Ausgleichszahlungen
+für lohnpolitische Maßnahmen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010528500020"><lxbase:a>20. Belange
+der Sozialversicherung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D010528500001">1. Allgemeines </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Mit der Veranlagung ist unverzüglich
+zu beginnen. In den Fällen, in denen nicht von
+der Erklärung abgewichen wird, sind die Vordrucke Verfügung (ESt-Veranlagung),
+Verfügung (Feststellung), Verfügung (KSt-Veranlagung), zu
+verwenden. In allen anderen Fällen ist der zutreffende
+Berechnungsbogen zu verwenden und stets ein Steuerbescheid zu erteilen. Alle
+Steuerbescheide sind unter den Vorbehalt der Nachprüfung
+(§ 164 AO) zu stellen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500002">2. Allgemeine Rechtsgrundlagen
+der Veranlagung </lxbase:ueberschrift><lxbase:a eingerueckt="nein">2.1 Verfahrensrecht </lxbase:a><lxbase:a eingerueckt="nein">AO 1970 - DDR -, GBl SDr. Nr. 681; </lxbase:a><lxbase:a eingerueckt="nein">AO 1990 - DDR - und dazu ergangenes
+Einführungsgesetz, GBl SDr. Nr. 1428; </lxbase:a><lxbase:a eingerueckt="nein">AO 1977 </lxbase:a><lxbase:a eingerueckt="nein">2.2 Ertragsteuerliche Rechtsgrundlagen
+für natürliche und juristische Personen </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>EStG in der Fassung
+v. 18. 9. 1970, GBl SDr. Nr. 670; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>KöStG in der Fassung v. 18. 9.
+1970, GBl SDr. Nr. 671; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Anordnung über die Besteuerung
+der Gewerbetreibenden, selbständig Tätigen und
+anderen steuerpflichtigen Bürger - Besteuerungsrichtlinien
+- v. 24. 8. 1979, GBl SDr. Nr. 1016; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Steueränderungsgesetz - StÄG
+- v. 6. 3. 1990, GBl I Nr. 17 S. 136; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Durchführungsbestimmung - DB -
+v. 16. 3. 1990 zum StÄG, GBl I Nr. 21 S. 195; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Steueranpassungsgesetz - StAnpG - v. 22.
+6. 1990, GBl SDr. Nr. 1427; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>DB v. 22. 6. 1990 zum StAnpG, GBl SDr. Nr.
+1427 S. 127; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Gesetz über die Eröffnungsbilanz
+in Deutscher Mark und die Kapitalneufestsetzung in der durch Art.
+4 des Gesetzes zur Beseitigung von Hemmnissen bei der Privatisierung
+von Unternehmen und zur Förderung von Investitionen geänderten
+Fassung (D-Markbilanzgesetz - DMBilG -), <lxbase:lit-fs normform="BStBl-1991-I-0713" manuell="nein">BStBl I 1991
+S. 713</lxbase:lit-fs>; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Steueränderungsgesetz 1991 v. 24.
+6. 1991, <lxbase:lit-fs normform="BStBl-1991-I-0665" manuell="nein">BStBl
+I S. 665</lxbase:lit-fs>; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Anordnung über die Steuerbefreiung
+von Einnahmen aus der Vermietung von Zimmern an den Feriendienst
+des FDGB und die Einrichtungen des Kur- und Bäderwesens
+vom 1. 4. 1974, GBl I Nr. 20 S. 195; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>AfA-Tabellen, herausgegeben vom Ministerium
+der Finanzen 1990, nur für das 2. Halbjahr 1990 gültig,
+Vertrieb: Verlag Die Wirtschaft Berlin GmbH. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>2.3 Zusätzliche ertragsteuerliche Sonderregelungen </lxbase:a><lxbase:a>2.3.1 Handwerker / pauschalierte Handwerker </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Gesetz über
+die Besteuerung der Handwerker - HdwStG - v. 16. 3. 1966, GBl I
+Nr. 8 S. 71; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Anordnung über die Steuerveranlagung
+der Handwerker v. 16. 3. 1966 - Veranlagungsrichtlinien - v. 17.
+3. 1966, GBl SDr. Nr. 537; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>1. DB zum Gesetz über die Besteuerung
+der Handwerker v. 17. 3. 1966, GBl II Nr. 32 S. 183; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>3. DB zum Gesetz v. 16. 5. 1968, GBl II
+Nr. 54 S. 287; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>4. DB zum Gesetz v. 9. 4. 1976, GBl I Nr.
+16 S. 1221; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>5. DB zum Gesetz v. 11. 2. 1986, GBl I Nr.
+13 S. 181. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>2.3.2 Steuerbegünstigt freiberuflich Tätige </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Verordnung -
+VO - über die Besteuerung des Arbeitseinkommens v. 22.
+12. 1952, GBl I Nr. 182 S. 1413. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>2.3.3 Kommissionshändler (KH) </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>VO über
+die Besteuerung der KH - KHStVO - v. 24. 12. 1959, GBl I 1960 Nr.
+2 S. 19 in der Fassung der Berichtigung v. 27. 2. 1960, GBl I Nr.
+12 S. 126; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>4. DB zur VO v. 13. 2. 1980, GBl 1980 SDr.
+Nr. 1033. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>2.3.4 Nebenberuflich Tätige </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>VO v. 22. 12.
+1952 über die Besteuerung des Arbeitseinkommens (für
+steuerbegünstigte freiberufliche Einkünfte), GBl
+Nr. 182 S. 1413; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>VO v. 12. 1. 1984 über die Besteuerung
+der Umsätze und Gewinne aus dem Verkauf pflanzlicher und
+tierischer Erzeugnisse, GBl I Nr. 3 S. 20; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Besteuerungsrichtlinien v. 24. 8. 1979 bei
+Zimmervermietung, GBl SDr. Nr. 1016; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Anordnung über die Steuerbefreiung
+von Einnahmen aus der Vermietung von Zimmern an den Feriendienst
+des FDGB und die Einrichtungen des Kur- und Bäderwesens
+v. 1. 4. 1974, GBl I Nr. 20 S. 195. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>2.3.5 Körperschaften </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Anordnung über
+die Vereinfachung der Erhebung von Abgaben für die wirtschaftliche
+Tätigkeit der gesellschaftlichen Organisationen v. 4. 7.
+1967, GBl II Nr. 66 S. 445; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Parteiengesetz v. 21. 2. 1990, GBl I Nr.
+9 S. 66; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>VO über die Besteuerung der Kreditgenossenschaften
+v. 7. 4. 1966 GBl II Nr. 45 S. 290; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>VO zur Einführung des Gesetzes über
+die Inkraftsetzung von Rechtsvorschriften der Bundesrepublik Deutschland
+für Wohnungsgenossenschaften der DDR v. 15. 8. 1990, GBl
+I Nr. 53 S. 1072. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>2.3.6 Produktionsgenossenschaften des Handwerks </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Gesetz über
+die Besteuerung der Produktionsgenossenschaften des Handwerks und
+ihrer Mitglieder - PGH-Steuergesetz - v. 30. 11. 1962, GBl I Nr. 13
+S. 119; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>1. DB zum PGH-Steuergesetz v. 4. 12. 1962,
+GBl II Nr. 92 S. 777; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>5. DB zum PGH-Steuergesetz v. 23. 12. 1969,
+GBl II Nr. 105 S. 731; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>VO über die Gründung,
+Tätigkeit und Umwandlung von Produktionsgenossenschaften
+des Handwerks v. 8. 3. 1990, GBl I Nr. 18 S. 164. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>2.3.7 Treuhänderisch verwaltete Grundstücke </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>4. DB zur Verordnung über
+die Selbstberechnung und über die Fälligkeit von
+Steuern und Sozialversicherungsbeiträgen - Besteuerung
+des Einkommens und Vermögens der nicht in der Deutschen
+Demokratischen Republik ansässigen Steuerpflichtigen -
+v. 27. 1. 1955, GBl I Nr. 10 S. 97; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Anordnung über die Aufhebung finanzrechtlicher
+Bestimmungen v. 10. 9. 1990, GBl I Nr. 62 S. 1560. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>2.4 Umsatzsteuerrecht </lxbase:a><lxbase:a>2.4.1 Umsatzsteuerrecht für das 1. Halbjahr 1990 </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Gesetzliche Rechtsvorschriften
+für die USt v. 1. 1. bis 30. 6. 1990 </lxbase:a><lxbase:a>Umsatzsteuergesetz (UStG) i. d. F. v. 18. 9. 1970, GBl SDr. Nr.
+673; </lxbase:a><lxbase:a>1. DB zum Umsatzsteuergesetz v. 20. 10. 1981, GBl I Nr. 37 S.
+436. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Umsatzsteuerbegünstigungen sind
+in folgenden Rechtsvorschriften geregelt: </lxbase:a><lxbase:a>Anordnung v. 23. 7. 1957 über die Befreiung der Umsätze
+verschiedener Lebensmittel im privaten Einzelhandel von der USt,
+GBl I Nr. 50 S. 406 i. d. F. der Anordnung v. 24. 9. 1962, GBl II
+Nr. 74 S. 667 - Änderung § 12 -; </lxbase:a><lxbase:a>Anordnung v. 22. 3. 1958 über die Befreiung der Umsätze
+von industriell abgepacktem Mehl im privaten Einzelhandel von der
+USt, GBl I Nr. 25 S. 337; </lxbase:a><lxbase:a>Anordnung v. 23. 7. 1958 über die Befreiung der Umsätze
+aus der Lieferung verschiedener Lebensmittel in genossenschaftlichen
+und privaten Produktionsbetrieben von der USt, GBl I Nr. 53 S. 621; </lxbase:a><lxbase:a>Anordnung v. 8. 8. 1958 über die Befreiung der Umsätze
+aus freiberuflicher Tätigkeit von der USt, GBl I Nr. 55
+S. 642; </lxbase:a><lxbase:a>Anordnung v. 9. 4. 1959 über die Befreiung von Umsätzen
+aus freiberuflicher steuerbegünstigter Tätigkeit
+der Ärzte von der USt, GBl I Nr. 24 S. 327; </lxbase:a><lxbase:a>Anordnung v. 26. 9. 1958 über steuerliche Vergünstigungen
+für Umsätze aus der Lieferung von Fleisch, Fleisch-
+und Wurstwaren sowie tierischen Fetten von der USt, GBl I Nr. 63
+S. 779; </lxbase:a><lxbase:a>Anordnung v. 16. 10. 1958 über die Befreiung der Umsätze
+aus der Lieferung von Schuhwerk aus Leder von der USt, GBl I Nr.
+65 S. 798; </lxbase:a><lxbase:a>Anordnung v. 1. 7. 1959 über die Anwendung der Umsatzsteuerbefreiung bei
+genossenschaftlichen, halbstaatlichen und privaten Produktionsbetrieben,
+GBl I Nr. 43 S. 620; </lxbase:a><lxbase:a>Anordnung v. 11. 9. 1959 über die Befreiung der Umsätze
+des Orthopädieschuhmacher-Handwerks von der USt, GBl I
+Nr. 53 S. 686; </lxbase:a><lxbase:a>Anordnung v. 21. 11. 1959 über steuerliche Vergünstigungen
+für Umsätze aus der Lieferung von Fischen und
+Fischwaren sowie von Röstkaffee bei der USt, GBl I Nr.
+68 S. 884; </lxbase:a><lxbase:a>Anordnung v. 5. 8. 1960 über Umsatzsteuerbefreiungen,
+GBl I Nr. 48 S. 486; </lxbase:a><lxbase:a>Anordnung Nr. 2 v. 29. 12. 1960 über Umsatzsteuerbefreiungen,
+GBl II 1961 Nr. 1 S. 2 - Änderung -; </lxbase:a><lxbase:a>Anordnung v. 10. 2. 1966, GBl II Nr. 19 S. 99, - Handel mit beweglichen Grundmitteln
+-; </lxbase:a><lxbase:a>Anordnung v. 24. 9. 1962 über Steuervergünstigungen
+für die Umsätze von Speisespätkartoffeln
+im halbstaatlichen und privaten Einzelhandel, GBl II Nr. 74 S. 667; </lxbase:a><lxbase:a>Anordnung Nr. 3 v. 10. 12. 1962 über Umsatzsteuerbefreiungen,
+GBl II Nr. 99 S. 852; </lxbase:a><lxbase:a>Anordnung Nr. 5 v. 25. 5. 1964 über Umsatzsteuerbefreiung,
+GBl II Nr. 54 S. 477; </lxbase:a><lxbase:a>Anordnung Nr. 8 v. 18. 8. 1965 über Umsatzsteuerbefreiung,
+GBl II Nr. 87 S. 643; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Interne Regelungen über USt-Begünstigungen </lxbase:a><lxbase:a>Anweisung Nr. 7/1975 v. 10. 6. 1975 zur Besteuerung
+des Augenoptikerhandwerks; </lxbase:a><lxbase:a>Anweisung Nr. 9/1978 v. 31. 7. 1978 über die
+Besteuerung von Handwerkern und Gewerbetreibenden bei Aufkauf von
+Reifenkarkassen und Vertrieb runderneuerter Reifen; </lxbase:a><lxbase:a>Beitrag D 1/1 im I-Brief Nr. 2/80 v. 23. 10.
+1980 über den Verkauf neuer Reifen; </lxbase:a><lxbase:a>Anweisung Nr. 5/1987 v. 29. 6. 1987 über steuerliche
+Regelungen aufgrund der Preisänderungen bei Edelmetallen. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>2.4.2 Umsatzsteuerrecht für das 2. Halbjahr 1990 </lxbase:a><lxbase:a>Vgl. Anhang. </lxbase:a><lxbase:a>2.5 Gewerbesteuerrecht </lxbase:a><lxbase:a>Gewerbesteuergesetz in der Fassung v. 18. 9. 1970, GBl SDr. Nr.
+672. </lxbase:a><lxbase:a>2.6 Vermögensteuerrecht </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Bewertungsgesetz
+in der Fassung v. 18. 9. 1970, GBl SDr. Nr. 674; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Vermögensteuergesetz in der Fassung
+v. 18. 9. 1970, GBl SDr. Nr. 675; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Anordnung zur Vermögen- und Erbschaftsteuer
+v. 2. 12. 1987, GBl I Nr. 29 S. 282; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Gesetz zur Änderung der Rechtsvorschriften über
+die Einkommen-, Körperschaft- und Vermögensteuer
+- StÄG - v. 6. 3. 1990, GBl I Nr. 17 S. 136; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Vermögensteuer- und Bewertungs-Richtlinien
+- VSt - und BewR 1955 - v. 15. 1. 1955, GBl SDr. Nr. 70, geändert
+durch VO vom 19. Januar 1961, GBl II Nr. 9 S. 35, Anordnung v. 14.
+5. 1974, GBl I Nr. 26 S. 268, und Anordnung v. 10. 9. 1990, GBl
+I Nr. 62 S. 1560; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Steueränderungsgesetz 1991 v. 24.
+6. 1991, <lxbase:lit-fs normform="BStBl-1991-I-0665" manuell="nein">BStBl
+I S. 665</lxbase:lit-fs> . </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500003">3. Vordruckübersicht
+(Jahreserklärungen, Anlagen und Anleitungen) ohne Umsatzsteuererklärung
+für das 2. Halbjahr 1990 </lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Jahreserklärung für
+Gewerbetreibende (<lxbase:az normform="AV-24/30" manuell="nein">AV 24/30</lxbase:az>)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Amtliche Anleitung <lxbase:az normform="zu-AV-24/30" manuell="nein">zu AV 24/30</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Anlage Produktionsfondssteuer (<lxbase:az normform="AV-24/41" manuell="nein">AV 24/41</lxbase:az>)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>Anlage Lohneinkünfte (AV 24/L)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a>Anlage R - Akkumulationsrücklage
+- (AV 24/R)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6."><lxbase:a>Jahreserklärung für Personengesellschaften
+(<lxbase:az normform="AV-24/31" manuell="nein">AV 24/31</lxbase:az>)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7."><lxbase:a>Amtliche Anleitung <lxbase:az normform="zu-AV-24/31" manuell="nein">zu AV 24/31</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="8."><lxbase:a>Jahreserklärung für freiberuflich
+Tätige (<lxbase:az normform="AV-8/10" manuell="nein">AV 8/10</lxbase:az>)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="9."><lxbase:a>Amtliche Anleitung <lxbase:az normform="zu-AV-8/10" manuell="nein">zu AV 8/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="10."><lxbase:a>Jahreserklärung für
+nebenberuflich Tätige (<lxbase:az normform="AV-24/23" manuell="nein">AV 24/23</lxbase:az>)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="11."><lxbase:a>Amtliche Anleitung <lxbase:az normform="zu-AV-24/23" manuell="nein">zu AV 24/23</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="12."><lxbase:a>Jahreserklärung für
+Kommissionshändler (<lxbase:az normform="AV-24/10" manuell="nein">AV 24/10</lxbase:az>)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="13."><lxbase:a>Amtliche Anleitung <lxbase:az normform="zu-AV-24/10" manuell="nein">zu AV 24/10</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="14."><lxbase:a>Jahreserklärung für
+Eigentümer treuhänderisch verwalteter Grundstücke (<lxbase:az normform="AV-24/30" manuell="nein">AV
+24/30</lxbase:az>)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="15."><lxbase:a>Jahreserklärung für
+Handwerker (<lxbase:az normform="AV-11/30" manuell="nein">AV 11/30</lxbase:az>)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="16."><lxbase:a>Amtliche Anleitung <lxbase:az normform="zu-AV-11/30" manuell="nein">zu AV 11/30</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="17."><lxbase:a>Jahreserklärung für
+Handwerker und Kleingewerbetreibende mit pauschaler Steuer (<lxbase:az normform="AV-11/22" manuell="nein">AV 11/22</lxbase:az>)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="18."><lxbase:a>Amtliche Anleitung <lxbase:az normform="zu-AV-11/22" manuell="nein">zu AV 11/22</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="19."><lxbase:a>Antrag auf Erstattung einbehaltener Honorarsteuer
+(<lxbase:az normform="AV-8/17" manuell="nein">AV 8/17</lxbase:az>)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="20."><lxbase:a>Jahreserklärung für
+Körperschaften (<lxbase:az normform="AV-24/32" manuell="nein">AV 24/32</lxbase:az>)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="21."><lxbase:a>Amtliche Anleitung <lxbase:az normform="zu-AV-24/32" manuell="nein">zu AV 24/32</lxbase:az></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="22."><lxbase:a>Jahreserklärung für
+PGH und AGP (AV 24/1)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="23."><lxbase:a>Amtliche Anleitung zu AV 24/1</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="24."><lxbase:a>Steuerbescheinigung der ausschüttenden
+Körperschaft (§ 11 Abs. 3 DB zum StÄG)
+(VE 8-0 (1990))</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="25."><lxbase:a>Erklärung zur gesonderten Feststellung
+von Besteuerungsgrundlagen (§ 47 KStG) zum 1. 1. 1991 (KSt
+1 G DDR)</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Wegen der Umsatzsteuererklärung für das 2.
+Halbjahr 1990 vgl. Anhang. </lxbase:a><lxbase:a eingerueckt="nein">Wurden Steuererklärungen nicht
+auf den Vordrucken der Beitrittsländer abgegeben oder wurden
+falsche Vordrucke des Beitrittsgebiets verwendet, so sind die Erklärungen
+(ggf. nach Ablichtung) mit besonderem Anschreiben unter Beifügung
+der richtigen Vordrucke zurückzusenden. Der Steuerpflichtige
+ist zu bitten, die Erklärung erneut unter Verwendung der
+richtigen Vordrucke einzureichen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500004">4. Überprüfung
+des Abrechnungsteils in den Jahreserklärungen </lxbase:ueberschrift><lxbase:a eingerueckt="nein">ohne Umsatzsteuererklärung
+für das 2. Halbjahr 1990 </lxbase:a><lxbase:a eingerueckt="nein">4.1 Bearbeitung der Jahreserklärungen
+in den Festsetzungsstellen </lxbase:a><lxbase:a eingerueckt="nein">Der Eingang der Jahreserklärung
+wird in der V-Liste und in der Strichliste (vgl. Tz. 1.2) vermerkt
+und im Bearbeitungsvermerk der Jahreserklärung (Gründruck)
+unter Punkt 1 abgezeichnet. </lxbase:a><lxbase:a eingerueckt="nein">Danach erfolgt die Überprüfung
+des Teils Zusammenfassung und Abrechnung für 1990 in der
+Jahreserklärung. Speziell der in Spalte 7 ermittelte
+Betrag muß entsprechend dem Muster auf Seite 3 geprüft
+werden. </lxbase:a><lxbase:a eingerueckt="nein">Bei der Prüfung der Jahreserklärung
+ist insbesondere die Richtigkeit des vom Steuerpflichtigen angegebenen
+Saldos per 30. 6. 1990 durch die Festsetzungsstelle zu kontrollieren. </lxbase:a><lxbase:a eingerueckt="nein">Durch die Währungsunion wurden
+alle Guthaben und fällig gewesenen Rückstände
+per 30. 6. 1990 um 50 v. H. reduziert. Es ergab sich dadurch
+in jedem betreffenden Jahr eine Änderung des kumulativen
+Sollbetrags. </lxbase:a><lxbase:a eingerueckt="nein">Als Grundlage für die Überprüfung
+in den Festsetzungsstellen dienen die Tabelle 33 und der Kontoauszug
+per 20. 6. 1990, auf dem alle vom 21. bis 30. 6. 1990 entstandenen
+Veränderungen durch Zahlungen, Solländerungen, Umbuchungen
+und Erstattungen einzutragen waren. </lxbase:a><lxbase:a eingerueckt="nein">Ehemals volkseigene Kombinate, Betriebe
+und Einrichtungen unterliegen allgemein ab 1. 7. 1990 der Steuerpflicht
+(BMF-Schreiben v. 3. 5. 1991 - <lxprod:doknr-verw linkend="HT0098397">IV B 7 - S-1900 - 59/91</lxprod:doknr-verw> -, BStBl
+I S. 506). Dementsprechend erfolgt nur für das
+2. Halbjahr 1990 die Festsetzung einer Steuerrate. Es ist
+deshalb darauf zu achten, daß auch auf die Steuerrate nur
+solche Vorauszahlungen angerechnet werden, die tatsächlich
+Vorauszahlungen auf die Steuerrate des 2. Halbjahres 1990 darstellen. Geleistete Zahlungen
+für das 1. Halbjahr 1990 von Kapitalgesellschaften, die
+aufgrund der Treuhandverordnung vom 1. 3. 1990 aus ehemaligen volkseigenen
+Betrieben hervorgegangen sind, sind keine Steuerabschlagszahlungen,
+sondern Zahlungen aufgrund besonderer Beziehungen zum Staatshaushalt. Das
+gilt auch dann, wenn die Zahlungen unter den EAA 153 bis 155 oder
+101 erfolgten. Diese Zahlungen sind nicht Bestandteil der
+Abrechnungen im Rahmen der Jahreserklärungen <lxbase:az normform="AV-24/32" manuell="nein">AV 24/32</lxbase:az> . </lxbase:a><lxbase:a eingerueckt="nein">Zur erleichterten Überprüfung
+sind die Körperschaften in Zeile 100 der Jahreserklärung
+(<lxbase:az normform="AV-24/32" manuell="nein">AV 24/32</lxbase:az> )
+aufgefordert, die unter den EAA 153 bis 155 oder 101 für
+das 1. Halbjahr 1990 geleisteten Zahlungen nachrichtlich anzugeben. </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="8" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="11*" /><cals:colspec colnum="2" colname="2" colwidth="13*" /><cals:colspec colnum="3" colname="3" colwidth="13*" /><cals:colspec colnum="4" colname="4" colwidth="13*" /><cals:colspec colnum="5" colname="5" colwidth="13*" /><cals:colspec colnum="6" colname="6" colwidth="13*" /><cals:colspec colnum="7" colname="7" colwidth="12*" /><cals:colspec colnum="8" colname="8" colwidth="13*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" /><cals:entry namest="3" nameend="5" align="center"><lxbase:a>1. Halbjahr 1990</lxbase:a></cals:entry><cals:entry colname="6" align="center" /><cals:entry namest="7" nameend="8" align="center"><lxbase:a>2. Halbjahr 1990</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" /><cals:entry colname="3" align="center"><lxbase:a>Betrag , M</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>vor dem 1. 7. 1990 entrichtet, M</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>Nachzahlung +/ Überzahlung
+- (Spalte 1 ./. Spalte 2), M</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>50 v. H. von Spalte 3, DM</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>Betrag , DM</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>nach dem 30. 6. 1990 entrichtet, DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>1</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>2</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>3</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>4</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>5</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>6</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Steuerrate lt. Zeile .. (in Sp. 1 u. 5 einzutragen)</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>10.000</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>6.000</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>+ 4.000</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>+ 2.000</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>7.000</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>7.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>2</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>10.000</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>12.000</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>- 2.000</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>- 1.000</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>7.000</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>7.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>3</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>10.000</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>6.000</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>+ 4.000</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>+ 2.000</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>7.000</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>8.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>4</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>10.000</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>12.000</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>- 2.000</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>- 1.000</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>7.000</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>6.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>5</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>10.000</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>15.000</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>- 5.000</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>- 2.500</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>7.000</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>0</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>6</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>10.000</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>22.000</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>- 12.000</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>- 6.000</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>7.000</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>0</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="9" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="10*" /><cals:colspec colnum="2" colname="2" colwidth="11*" /><cals:colspec colnum="3" colname="3" colwidth="11*" /><cals:colspec colnum="4" colname="4" colwidth="11*" /><cals:colspec colnum="5" colname="5" colwidth="11*" /><cals:colspec colnum="6" colname="6" colwidth="11*" /><cals:colspec colnum="7" colname="7" colwidth="11*" /><cals:colspec colnum="8" colname="8" colwidth="11*" /><cals:colspec colnum="9" colname="9" colwidth="11*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" /><cals:entry namest="3" nameend="5" align="center"><lxbase:a>Steuernummer</lxbase:a></cals:entry><cals:entry colname="6" colsep="0" align="center" /><cals:entry colname="7" colsep="0" align="center" /><cals:entry colname="8" colsep="0" align="center" /><cals:entry colname="9" align="center" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" /><cals:entry colname="3" morerows="1" align="center"><lxbase:a>Betrag lt. Spalte 1
+./. Spalte 4 + Spalte 5, M / DM </lxbase:a></cals:entry><cals:entry colname="4" align="center" /><cals:entry namest="5" nameend="8" align="center"><lxbase:a>für
+das Jahr 1990 insgesamt</lxbase:a></cals:entry><cals:entry colname="9" morerows="1" align="center"><lxbase:a>Nach- / Überzahlung Betrag
+lt. Spalte 7 ./. Spalte 12, DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" /><cals:entry colname="4" align="center" /><cals:entry colname="5" align="center"><lxbase:a>Jahr</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>EAA</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>BA</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>entrichtet (Spalte 2 + Spalte 6),
+M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" /><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>7</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>8</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>9</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>10</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>11</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>12</lxbase:a></cals:entry><cals:entry colname="9" align="center"><lxbase:a>13</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Steuerrate</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>15.000</lxbase:a></cals:entry><cals:entry colname="4" align="center" /><cals:entry colname="5" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>101</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>25</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>13.000</lxbase:a></cals:entry><cals:entry colname="9" align="center"><lxbase:a>+ 2.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>2</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>18.000</lxbase:a></cals:entry><cals:entry colname="4" align="center" /><cals:entry colname="5" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>101</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>25</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>19.000</lxbase:a></cals:entry><cals:entry colname="9" align="center"><lxbase:a>- 1.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>3</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>15.000</lxbase:a></cals:entry><cals:entry colname="4" align="center" /><cals:entry colname="5" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>101</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>25</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>14.000</lxbase:a></cals:entry><cals:entry colname="9" align="center"><lxbase:a>+ 1.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>4</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>18.000</lxbase:a></cals:entry><cals:entry colname="4" align="center" /><cals:entry colname="5" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>101</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>25</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>18.000</lxbase:a></cals:entry><cals:entry colname="9" align="center"><lxbase:a>0</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>5</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>19.500</lxbase:a></cals:entry><cals:entry colname="4" align="center" /><cals:entry colname="5" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>101</lxbase:a></cals:entry><cals:entry colname="7" align="center"><lxbase:a>25</lxbase:a></cals:entry><cals:entry colname="8" align="center"><lxbase:a>15.000</lxbase:a></cals:entry><cals:entry colname="9" align="center"><lxbase:a>+ 4.500</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>6</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" align="center"><lxbase:a>23.000</lxbase:a></cals:entry><cals:entry colname="4" align="center" /><cals:entry colname="5" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>101</lxbase:a></cals:entry><cals:entry colname="7" align="center" /><cals:entry colname="8" align="center"><lxbase:a>22.000</lxbase:a></cals:entry><cals:entry colname="9" align="center"><lxbase:a>+ 1.000</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">4.2 Jahreserklärungen mit Nachzahlungen </lxbase:a><lxbase:a eingerueckt="nein">Ist in Spalte 13 eine Nachzahlung (Abschlußzahlung)
+eingetragen, die sich bei der ersten überschlägigen
+Prüfung bestätigt, ist diese Jahreserklärung
+sofort der Finanzkasse zur Sollstellung der Nachzahlung (Abschlußzahlung)
+zuzuleiten. Es ist gleichzeitig mit der Sollstellung der
+Termin der Fälligkeit zur Überwachung ins Projekt
+713 einzugeben. Alle Nachzahlungen sind innerhalb von 7
+Tagen nach Abgabe der Jahreserklärungen fällig. Deshalb
+muß unbedingt auf jeder Jahreserklärung (auch
+bei persönlicher Übergabe) das Eingangsdatum vermerkt
+werden. Als Termin der Fälligkeit ist das Eingangsdatum
+zzgl. 7 Tage einzugeben. </lxbase:a><lxbase:a eingerueckt="nein">Die Finanzkasse bildet für
+Zwecke der Datenerfassung eine Blocksumme aus den Daten der Jahreserklärung,
+wobei in einem Block nur Jahreserklärungen mit gleichem
+Fälligkeitstermin zusammenzufassen sind. </lxbase:a><lxbase:a eingerueckt="nein">Die Bestätigung dieser Datenerfassung
+ist von der Datenerfassungsstelle stets unter Punkt 2 der auf den
+Erklärungsvordrucken eingedruckten Verfügung vorzunehmen. </lxbase:a><lxbase:a eingerueckt="nein">Die Kassenaufsicht überprüft
+die Sollstellung. Danach wird die Jahreserklärung
+der Festsetzungsstelle zur weiteren Bearbeitung übergeben. </lxbase:a><lxbase:a eingerueckt="nein">4.3 Jahreserklärungen mit Überzahlungen </lxbase:a><lxbase:a eingerueckt="nein">Ist in Spalte 13 eine Überzahlung
+(Guthaben) errechnet, muß vor Weiterleitung der Jahreserklärung
+zur Sollstellung an die Finanzkasse die Veranlagung durchgeführt
+werden. Überzahlungen können mit Rückständen
+und demnächst fällig werdenden Vorauszahlungen
+verrechnet werden. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500005">5. Veranlagungsverfahren </lxbase:ueberschrift><lxbase:a eingerueckt="nein">5.1 Veranlagung ohne Abweichung von
+der Jahreserklärung </lxbase:a><lxbase:a eingerueckt="nein">Ergeben sich bei der Veranlagung durch
+die Steuerfestsetzungsstelle keine Abweichungen von der Jahreserklärung,
+so wird in den Buchungsteil der Jahreserklärung in eine
+Leerzeile im Verfahren 713 die Buchungsart 27 mit dem Betrag "0" auf
+die niedrigste EAA eingetragen, damit ein Kontoauszug ausgedruckt
+wird und dieses Konto für das Jahr 1990 als abgerechnet
+gilt. </lxbase:a><lxbase:a eingerueckt="nein">Diese so bearbeitete Jahreserklärung
+wird mit einer besonderen Bearbeitungsverfügung (getrennt
+nach Einkommen-, Körperschaftsteuer und Feststellungen) der
+Finanzkasse zugeleitet. </lxbase:a><lxbase:a eingerueckt="nein">In ein leeres Kontierungsfeld ist von
+der Finanzkasse die Blocksumme einzutreffen. Danach ist
+die Jahreserklärung an die Datenerfassungsstelle weiterzuleiten. Anschließend
+erfolgt die Prüfung der Sollstellung durch die Kassenaufsicht. In
+der Bearbeitungsverfügung ist die jeweilige Bearbeitung
+zu vermerken. </lxbase:a><lxbase:a eingerueckt="nein">Ein Exemplar des doppelt ausgedruckten
+Kontoauszugs wird von der Finanzkasse dem Steuerpflichtigen als
+Abrechnung des Jahres 1990 übersandt. </lxbase:a><lxbase:a eingerueckt="nein">Der ausgedruckte Kontoauszug, die Jahreserklärung
+und die Bearbeitungsverfügung gehen nach Bestätigung
+durch die Finanzkasse an die Veranlagungsstellen zurück. </lxbase:a><lxbase:a eingerueckt="nein">Bei Erstattungsfällen ist durch
+die Veranlagungsstelle eine Auszahlungsanordnung zu fertigen. Dabei
+sind Pfändungen und Abtretungen zu beachten. Die
+Auszahlungsanordnung und der Kontoauszug werden zur Erstattung an
+die Finanzkasse übersandt. Die Finanzkasse hat
+ggf. eine Verrechnung mit anderen Ansprüchen vorzunehmen. </lxbase:a><lxbase:a eingerueckt="nein">5.2 Veranlagung mit Abweichungen von
+der Jahreserklärung </lxbase:a><lxbase:a eingerueckt="nein">Führt die Prüfung
+der Jahreserklärung zu einer abweichenden Festsetzung,
+ist diese mit </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>dem Berechnungsbogen
+für natürliche Personen <lxbase:az normform="AV-9/22" manuell="nein">AV 9/22</lxbase:az> , </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>der Anlage zum mitarbeitenden Ehegatten <lxbase:az normform="AV-9/23" manuell="nein">AV 9/23</lxbase:az> 
+, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>dem Berechnungsbogen für Personengesellschaften <lxbase:az normform="AV-9/25" manuell="nein">AV 9/25</lxbase:az> 
+, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>dem Berechnungsbogen für verwaltete
+Grundstücke <lxbase:az normform="AV-9/29" manuell="nein">AV
+9/29</lxbase:az> , </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>dem Berechnungsbogen für Körperschaften <lxbase:az normform="AV-9/52" manuell="nein">AV 9/52</lxbase:az> 
+, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a> dem Berechnungsbogen für <lxbase:az normform="PGH-AV-9/51" manuell="nein">PGH AV 9/51</lxbase:az></lxbase:a><lxbase:a>vorzunehmen. Eine abweichende Festsetzung ist nur durchzuführen, wenn
+sich die Steuerrate (Spalte 7 des Abrechnungsteils der Jahreserklärung)
+um mehr als 20,-- M / DM ändert (sinngemäße
+Anwendung der Kleinbetragsverordnung). Danach sind die
+Bescheide </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Bescheid über Steuern und Ausgleichszahlungen <lxbase:az normform="AV-9/24" manuell="nein">AV 9/24</lxbase:az> 
+, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Bescheid für die Personengesellschaft <lxbase:az normform="AV-9/27" manuell="nein">AV 9/27</lxbase:az> 
+, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Bescheid für die verwalteten Grundstücke <lxbase:az normform="AV-9/30" manuell="nein">AV 9/30</lxbase:az> 
+, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Bescheid für Körperschaften <lxbase:az normform="AV-9/54" manuell="nein">AV 9/54</lxbase:az> 
+, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a> Bescheid für <lxbase:az normform="PGH-AV-9/53" manuell="nein">PGH AV 9/53</lxbase:az></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>zu erstellen. </lxbase:a><lxbase:a>Der Berechnungsbogen und der Bescheid werden der Finanzkasse
+zur Sollstellung übersandt. </lxbase:a><lxbase:a>Die Finanzkasse bildet die Blocksumme; anschließend
+sind die Daten zu erfassen. In der Verfügung des
+Berechnungsbogens sind die entsprechenden Erledigungsvermerke anzubringen. Die
+Finanzkasse trägt Datum und Fälligkeit ein und
+versendet den Bescheid zusammen mit einer Ausfertigung des Kontoauszugs. Der
+Berechnungsbogen und eine Ausfertigung des Kontoauszugs gehen an
+die Festsetzungsstelle zurück. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500006">6. Erfassung und Kontierung
+im IABV </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Nach Einführung des IABV sind
+Buchungen im Projekt 713 nicht mehr möglich. Die
+Buchung der Jahreserklärung ist bei einer unveränderten Übernahme
+der vom Stpfl. errechneten Abschlußzahlung / des
+Erstattungsbetrags mit einem besonderen Vordruck der Finanzkasse
+von der Datenerfassungsstelle vorzunehmen. </lxbase:a><lxbase:a eingerueckt="nein">Bei Abweichung von der Jahreserklärung
+ist danach der in allen Berechnungsbogen enthaltene Abrechnungsteil "Erstmalige
+oder geänderte Festsetzung im IABV" zu verwenden. Dies
+gilt auch für Fälle, die bei der erstmaligen Datenerfassung
+im Projekt 713 bearbeitet worden sind, d. h. auch Berichtigungsbuchungen
+können dann nur noch im IABV erfaßt werden. </lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="6" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="17*" /><cals:colspec colnum="2" colname="2" colwidth="17*" /><cals:colspec colnum="3" colname="3" colwidth="17*" /><cals:colspec colnum="4" colname="4" colwidth="17*" /><cals:colspec colnum="5" colname="5" colwidth="17*" /><cals:colspec colnum="6" colname="6" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="3" align="center"><lxbase:a>1. Halbjahr 1990</lxbase:a></cals:entry><cals:entry colname="4" align="center" /><cals:entry namest="5" nameend="6" align="center"><lxbase:a>2. Halbjahr 1990</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" rowsep="0" align="center"><lxbase:a>Betrag</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="center"><lxbase:a>vor dem 1. 7.
+1990 entrichtet</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="center"><lxbase:a>Nachzahlung / Überzahlung (Spalte
+1 ./. Spalte 2)</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="center"><lxbase:a>50 v. H. von
+Spalte 3</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" align="center"><lxbase:a>Betrag</lxbase:a></cals:entry><cals:entry colname="6" rowsep="0" align="center"><lxbase:a>nach dem 30.
+6. 1990 entrichtet</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>M</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>M</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>M</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>M</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>DM</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>M</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>1</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>2</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>3</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>4</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>5</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>6</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" align="center"><lxbase:a>10.000</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>6.000</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>+ 4.000</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>+ 2.000</lxbase:a></cals:entry><cals:entry colname="5" align="center"><lxbase:a>7.000</lxbase:a></cals:entry><cals:entry colname="6" align="center"><lxbase:a>7.000</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="21*" /><cals:colspec colnum="2" colname="2" colwidth="21*" /><cals:colspec colnum="3" colname="3" colwidth="21*" /><cals:colspec colnum="4" colname="4" colwidth="38*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="4" align="center"><lxbase:a>Steuernummer</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>Steuerart</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>Zeitraum</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>Buchungstext</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>Betrag lt. Spalte 1 ./.
+Spalte 4 + Spalte 5, M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>19</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>20</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>21</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>22</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>1110</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>03</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>15.000</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>1140</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>03</lxbase:a></cals:entry><cals:entry colname="4" align="center" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>1160</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>03</lxbase:a></cals:entry><cals:entry colname="4" align="center" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="center"><lxbase:a>1111</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>13</lxbase:a></cals:entry><cals:entry colname="4" align="center" /></cals:row><cals:row rowsep="0"><cals:entry namest="1" nameend="3" align="center"><lxbase:a>Fälligkeit
+......................................</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>15.000</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a eingerueckt="nein">Die nachzuzahlenden bzw. überzahlten
+Beträge sind aus der Jahreserklärung ersichtlich. Die
+Mehrpostensumme (MPS = Summe der Einzelbeträge aus
+Spalte 22) ist von der Festsetzungsstelle einzutragen. </lxbase:a><lxbase:a eingerueckt="nein">Ergibt sich bei der Veranlagung keine
+Abweichung von der Jahreserklärung, sind der im IABV zu
+erfassende Teil (vgl. letzter Abschnitt in der Abrechnung der jeweiligen
+Berechnungsbogen) in geeigneter Form auf den Jahreserklärungen
+anzubringen und die zu erfassenden Daten einzutragen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500007">7. Grundinformationen
+im Rahmen der Jahreserklärung </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Bei der Bearbeitung der Jahreserklärungen
+sind die gespeicherten Grundinformationen für den Steuerfall
+zu überprüfen und ggf. zu aktualisieren. Hierbei
+sind neben den Anschriftendaten sorgfältig zu prüfen: </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">a)
+die Kontoangabe des Stpfl.; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">b) Grund- und Zinskennbuchstaben
+für den Steuerfall; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">c) Religionszugehörigkeit
+und zeitliche Zuordnung der erstmaligen Festsetzung von Kirchensteuern
+einer hebeberechtigten Kirchengemeinde; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">d) soweit möglich
+Speicherung der Versendemerkmale für den Versand der Vordrucke
+für die Steuererklärung 1991 (z. B. bei Einkünften
+aus Vermietung und Verpachtung: Zahl der Mietwohngrundstücke
+für die zutreffende Zahl der Anlagen V); </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">e) soweit eine steuerliche
+Beratung vorliegt, ist das Merkmal "St" im Konto zu
+setzen (damit werden dem Stpfl. künftig keine Vordrucke
+zur Steuererklärung mehr übersandt); </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">f) soweit der Stpfl. für
+seine steuerlichen Angelegenheiten einen Bevollmächtigten / Vertreter
+bestimmt hat, ist der Umfang der Vollmacht nach Zeitraum und der
+Zuständigkeit für Festsetzung und Erhebung festzustellen und
+im Konto einzutragen; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">g) die Gewerbekennzahl ist
+in Zweifelsfällen im Einvernehmen mit dem Statistischen
+Landesamt zu ermitteln und im Konto abzulegen; nach Einführung des
+IABV gilt dies auch für die Gewerbebezeichnung; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">h) soweit die Ehegatten mit
+ihren Eigentumsformen / Tätigkeiten noch unter verschiedenen
+Steuernummern geführt werden (ggf. sogar bei verschiedenen Finanzämtern),
+sind die Konten ab 1991 für Zwecke der Einkommen- und Vermögensteuer
+zusammenzuführen. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500008">8. Hinweise zur Ertragsbesteuerung </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Auf die Hinweise in den Erläuterungen
+zu den Jahreserklärungen wird verwiesen. Weiterhin
+ist zu beachten: </lxbase:a><lxbase:a eingerueckt="nein">8.1 Ermittlung der als Betriebsausgaben
+abziehbaren Gewerbesteuer aus der Steuerrate bei Einnahme- / Überschußrechnung </lxbase:a><lxbase:a eingerueckt="nein">Als Betriebsausgabe darf nur der Anteil
+an der Gewerbesteuer angesetzt werden, der in der Steuerrate enthalten
+ist. Selbst wenn sich aufgrund der Berechnungen des Stpfl.
+eine höhere Gewerbesteuer ergibt als in der entrichteten
+Steuerrate enthalten ist, gilt die Gewerbesteuer nur in der tatsächlich
+entrichteten Höhe als zuerst getilgt. Wurden mit
+Beginn der Gewerbesteuerpflicht im 2. Halbjahr 1990 Steuerabschlagszahlungen
+deshalb nicht erhöht, weil im 2. Halbjahr 1990 andere Teile
+der Steuerrate wegfielen (z. B. Produktionsfondssteuer, Lohnsummensteuer),
+so gilt die Gewerbesteuer in Höhe dieser weggefallenen
+Steuern als entrichtet. War der Gewerbesteueranteil in
+der Steuerrate höher als die errechnete Gewerbesteuer,
+so bleibt dieser Gewerbesteueranteil Betriebsausgabe. Die Überzahlung
+ist im Zeitpunkt der Vereinnahmung / Verrechnung als Betriebseinnahme
+zu buchen. </lxbase:a><lxbase:a eingerueckt="nein">Ist die Gewerbesteuerpflicht erst im
+Laufe des Kalenderjahres 1990 eingetreten und wurde deswegen die
+Steuerrate nicht um einen Gewerbesteueranteil erhöht, so
+kann auch in diesem Fall für 1990 die Gewerbesteuer nur
+in der Höhe als Betriebsausgabe angesetzt werden, in der
+andere Steuern aus dem 1. Halbjahr 1990, die bei der Festsetzung
+der Steuerabschlagszahlungen berücksichtigt wurden, im
+2. Halbjahr 1990 weggefallen sind (z. B. Produktionsfondssteuer, Lohnsummensteuer).</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="74*" /><cals:colspec colnum="2" colname="2" colwidth="26*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Für 1990 festgesetzte entrichtete
+Steuerraten</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>6.000 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>darin enthaltener Gewerbesteueranteil</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.000 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Aufgrund der Jahreserklärungen vom
+Stpfl. errechnete Gewerbesteuer</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>3.000 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Als Betriebsausgabe in 1990 anzusetzende entrichtete Gewerbesteuer</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.000 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Für den VZ 1991 bzw. den VZ, in dem
+die Nachzahlung erfolgt, anzusetzende entrichtete Gewerbesteuer
+als Betriebsausgabe</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>2.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a eingerueckt="nein">8.2 Berechnung der Kostenpauschale für
+Betriebsausgaben </lxbase:a><lxbase:a eingerueckt="nein">Die Kostenpauschale für Betriebsausgaben
+bemißt sich nach den Bruttoeinnahmen. Bei Inanspruchnahme
+der Kostenpauschale sind sämtliche Betriebsausgaben abgegolten. </lxbase:a><lxbase:a eingerueckt="nein">8.3 Keine Verrechnung von laufenden
+Verlusten mit Veräußerungsgewinnen des 1. Halbjahrs
+1990 </lxbase:a><lxbase:a eingerueckt="nein">(nur bei privaten Handwerkern und Kleingewerbetreibenden
+sowie bei Geschäften und Gaststätten des Kommissions-
+und privaten Einzelhandels) </lxbase:a><lxbase:a eingerueckt="nein">Ein Verlustausgleich der laufenden Verluste
+des Kalenderjahres 1990 mit Veräußerungsgewinnen
+des 1. Halbjahrs 1990 ist nicht möglich. Das bedeutet,
+daß Veräußerungsgewinne des 1. Halbjahrs
+1990 - im Gegensatz zu Veräußerungsgewinnen des
+2. Halbjahrs 1990 - stets der gesonderten Besteuerung unterliegen. Das
+gilt auch, wenn Verluste aus dem laufenden Geschäftsbetrieb
+im 1. Halbjahr 1990 entstanden sind. Sofern sich durch die
+gesonderte Besteuerung der Veräußerungsgewinne
+des 1. Halbjahres 1990 eine Steuer ergibt, wird diese stets in der
+berechneten Höhe festgesetzt. Veräußerungsgewinne
+des 2. Halbjahres 1990 können mit negativen laufenden Gewinnen
+aus beiden Halbjahren verrechnet werden. </lxbase:a><lxbase:a eingerueckt="nein">8.4 Verrechnung von laufenden Verlusten
+sowie Verlustrücktrag aus 1991 / 1992 auf das
+2. Halbjahr 1990 </lxbase:a><lxbase:a eingerueckt="nein">Nach § 4 der DB zum StÄG
+kommt sowohl ein Verlustausgleich innerhalb einer Einkunftsart als
+auch ein Verlustausgleich zwischen mehreren Einkunftsarten in Betracht. Dies
+gilt sowohl für Zwecke der Einkommen- und Körperschaftsteuer
+als auch für Zwecke der Gewerbesteuer. Dementsprechend
+können auch Verluste eines Halbjahres mit Gewinnen aus
+dem anderen Halbjahr verrechnet werden. Verluste des 1.
+Halbjahres 1990 sind für Zwecke der Gewerbesteuer auch
+dann verrechenbar, wenn für das 1. Halbjahr 1990 wegen
+besonderer Besteuerungsformen (Gewinnsteuer) keine Gewerbesteuer
+zu entrichten ist (z. B. Handwerker und PGH). Soweit eine
+Verrechnung nicht möglich ist, können Verluste
+des Jahres 1990 unter den Voraussetzungen des § 10d EStG, § 8
+Abs. 4 KStG (§ 57 Abs. 4 EStG bezw. § 36 Abs.
+5a GewStG 1991) vorgetragen werden. Der vortragsfähige
+Verlust ist im Rahmen der Veranlagung gesondert festzustellen; hierüber
+ist stets ein Bescheid zu erteilen. Auch bei Übernahme
+der Erklärungswerte ist für die Feststellung des
+vortragsfähigen Verlustes ein Bescheid, z. B. mit Vordruck <lxbase:az normform="AV-9/24" manuell="nein">AV 9/24</lxbase:az> 
+, zu erteilen. </lxbase:a><lxbase:a eingerueckt="nein">Aufgrund des Steueränderungsgesetzes
+1991 vom 24. 6. 1991 (BStBl I S. 665 ) können Verluste
+aus 1991 / 1992 in das 2. Halbjahr 1990 zurückgetragen
+werden. Dies gilt nicht für die Gewerbesteuer. Der
+Berechnungsbogen 1990 enthält eine entsprechende Rechenzeile. </lxbase:a><lxbase:a eingerueckt="nein">8.5 Spendenabzug </lxbase:a><lxbase:a eingerueckt="nein">8.5.1 Spendenabzug im 1. Halbjahr 1990 </lxbase:a><lxbase:a eingerueckt="nein">Nach § 2 DB zum StÄG
+können Zuwendungen von Sponsoren bis zur Höhe von
+2 vom Tausend des Umsatzes des Betriebs bzw. aus der selbständigen
+oder freiberuflichen Tätigkeit als Betriebsausgaben abgezogen
+werden. </lxbase:a><lxbase:a eingerueckt="nein">8.5.2 Spendenabzug im 2. Halbjahr 1990 </lxbase:a><lxbase:a eingerueckt="nein">Mit § 10a EStG wurde durch
+das StAnpG ein begrenzter Spendenabzug für das 2. Halbjahr
+1990 als Sonderausgaben eingeführt. Bei der Bemessung
+der Höchstbeträge der als Sonderausgaben abziehbaren
+Spenden dürfen nur die in den Geltungsbereich des EStG
+fallenden Einkunftsarten berücksichtigt werden, nicht jedoch
+die nach den Bestimmungen der AStVO zu besteuernden Einkünfte. Begünstigte
+Spenden dürfen abgezogen werden, wenn sie nachweislich
+im 2. Halbjahr 1990 geleistet worden sind. Für
+die Begrenzung des Spendenabzugs ist der Gesamtbetrag der Einkünfte
+des gesamten Kalenderjahres bzw. die Summe der gesamten Umsätze
+des 2. Halbjahres 1990 und der im Kalenderjahr aufgewendeten Löhne
+und Gehälter maßgebend. Diese Regelung
+gilt für Körperschaften entsprechend. </lxbase:a><lxbase:a eingerueckt="nein">8.5.3 Spenden an politische Parteien
+sind in 1990 nicht abziehbar. </lxbase:a><lxbase:a eingerueckt="nein">8.5.4 Jahreserklärung <lxbase:az normform="AV-24/34" manuell="nein">AV 24/34</lxbase:az> 
+ für Eigentümer treuhänderisch verwalteter
+Grundstücke </lxbase:a><lxbase:a eingerueckt="nein">Die in der o. g. Jahreserklärung
+enthaltene Berechnung der Einkommensteuer mit pauschal 25 v. H.
+für das 2. Halbjahr 1990 ist überholt. </lxbase:a><lxbase:a eingerueckt="nein">Durch § 1 Nr. 5 der Anordnung über
+die Aufhebung finanzrechtlicher Bestimmungen v. 10. 9. 1990 (GBl
+I Nr. 62 S. 1560) wurde die Vierte Durchführungsbestimmung
+vom 27. 1. 1955 (GBl I Nr. 10 S. 97) aufgehoben. Damit entfällt
+ab 1. 7. 1990 die Regelung zur pauschalierten Festsetzung der Einkommensteuer
+in Höhe von 25 v. H. Ab diesem Zeitpunkt gelten
+die Regelungen der §§ 49 und 50 EStG i. d. F.
+v. 18. 9. 1970 (GBl SDr. Nr. 670). Die Einkommensteuer
+ist auf den Überschuß des 2. Halbjahrs 1990 nach
+dem Steuergrundtarif A zu ermitteln. Dabei ist zu beachten,
+daß die Steuer mindestens 10 v. H., höchstens
+25 v. H. des Überschusses beträgt. </lxbase:a><lxbase:a eingerueckt="nein">Der Berechnungsbogen <lxbase:az normform="AV-9/29" manuell="nein">AV 9/29</lxbase:az> 
+ berücksichtigt bereits die neue Rechtslage. </lxbase:a><lxbase:a eingerueckt="nein">Eine geänderte Steuerfestsetzung
+ist vom Finanzamt jedoch nur dann durchzuführen, wenn die
+steuerliche Auswirkung mehr als 20 M / DM beträgt
+(sinngemäße Anwendung der Kleinbetragsverordnung). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500009">9. Steuerfreie Akkumulationsrücklage
+nach § 3 Abs. 2 StÄG </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die steuerfreie Rücklage ist
+stets nach der Anlage R (AV 24/R) zu berechnen. In
+den vom Stpfl. erklärten Einkünften, z. B. aus
+Gewerbebetrieb, darf die Rücklage noch nicht abgezogen
+sein. Ein Abzug kommt erst bei der Ermittlung des Gesamtbetrags
+der Einkünfte in Betracht. </lxbase:a><lxbase:a eingerueckt="nein">Hat der Stpfl. die Rücklage
+bereits bei den Einkünften abgezogen, ist sie in der abgezogenen
+Höhe wieder den Einkünften zuzurechnen, damit
+der Gewinn aus Gewerbebetrieb bei der Berechnung der Gewerbesteuer
+zutreffend angesetzt wird. </lxbase:a><lxbase:a eingerueckt="nein">Bei der Berechnung der Akkumulationsrücklage
+ist bei Einkommensteuerpflichtigen und Körperschaftsteuerpflichtigen
+von einer vergleichbaren Bemessungsgrundlage auszugehen. Dementsprechend
+sind bei Körperschaftsteuerpflichtigen die Beträge
+der Zeilen 1 bis 3 und 5 des Vordrucks <lxbase:az normform="AV-24/32" manuell="nein">AV 24/32</lxbase:az> erst nach Korrektur
+um die Zu- und Abrechnungen der Zeilen 8 bis 10 c (soweit diese
+mit den Einkünften der Zeilen 1 bis 3 und 5 zusammenhängen)
+in den Vordruck AV 24/R zu übernehmen. Bei
+buchführungspflichtigen Körperschaften werden
+i. d. R. die Beträge der Zeile 11 zu übernehmen
+sein. Bei PGH ist entsprechend zu verfahren. </lxbase:a><lxbase:a eingerueckt="nein">Die Anlage R ist als Überwachungsblatt
+der Einkommensteuerakte vorzuheften. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500010">10. Steuerbefreiung
+für reprivatisierte Betriebe </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Hierzu ergeht noch ein gesondertes BMF-Schreiben. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500011">11. Steuerabzugsbetrag
+nach § 9 Abs. 1 DB zum StÄG </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Hierzu wird auf das BMF-Schreiben v.
+22. 7. 1991 (BStBl
+I S. 737 ) verwiesen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500012">12. Beschränkte
+Steuerpflicht </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Personen, die im Jahr 1990 im Beitrittsgebiet
+nicht unbeschränkt steuerpflichtig sind, unterliegen mit
+ihren aus dem Beitrittsgebiet bezogenen Einkünften im Sinne
+des § 49 EStG der beschränkten Steuerpflicht. Zu
+Einzelheiten vgl. BMF-Schreiben v. 10. 7. 1991 (BStBl I S. 739 ). Im
+Einzelfall ist zu prüfen, inwieweit die beschränkte Steuerpflicht
+durch ein Doppelbesteuerungsabkommen eingeschränkt sein kann. Bei
+beschränkt Steuerpflichtigen, die in der bisherigen Bundesrepublik
+Deutschland ansässig sind, sind mit Wirkung ab 1. 6. 1990
+die BMF-Schreiben v. 10. 7. 1990 (BStBl I S. 314 ) und v. 22. 8. 1990
+(BStBl I
+S. 417 ) zu beachten. Weitere Hinweise, insbesondere
+zur Besteuerung des Arbeitseinkommens, ergeben sich aus den Arbeitshinweisen
+des Ministeriums der Finanzen der ehemaligen DDR v. 22. 8. 1990
+(BStBl I
+S. 546 ff. / 555). Zum Steuerabzug von
+steuerbegünstigten freiberuflichen Einkünften
+vgl. BMF-Schreiben vom 19. 7. 1991 - <lxprod:doknr-verw linkend="HT0105056">IV B 4 - S-2500
+- 101/91</lxprod:doknr-verw> - (Anlage 1). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500013">13. Ausländische
+Einkünfte / Bedeutung von Doppelbesteuerungsabkommen </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Entsprechend den Regelungen des Einigungsvertrages
+bleiben die von der ehemaligen DDR abgeschlossenen Doppelbesteuerungsabkommen
+bis zum 31. 12. 1990 in Kraft. Zu den Doppelbesteuerungsabkommen
+zählen auch die Abkommen zur Vermeidung der Doppelbesteuerung
+bei Einnahmen und Vermögen natürlicher und juristischer
+Personen zwischen den Mitgliedstaaten des RGW. Eine Übersicht über
+die bis zum 31. 12. 1990 gültigen DBA ist als Anlage 2
+beigefügt. Die DBA der Bundesrepublik Deutschland
+gelten im Beitrittsgebiet ab 1. 1. 1991. Die Regelungen
+der DBA gehen den Steuergesetzen vor (§ 2 AO 1990 - DDR
+- bzw. § 2 AO 1977). </lxbase:a><lxbase:a eingerueckt="nein">Die DBA </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>regeln für
+unbeschränkt Steuerpflichtige, die Einkünfte aus
+dem jeweiligen Vertragsstaat beziehen, wie die Doppelbesteuerung
+zu vermeiden ist (in der Regel durch Freistellung der aus dem anderen
+Staat stammenden Einkünfte oder durch Anrechnung der auf
+die Einkünfte gezahlten ausländischen Steuer auf
+die inländische Steuerschuld), </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>regeln, inwieweit Personen, die mit Einkünften
+im Sinne des § 49 EStG der beschränkten Steuerpflicht
+unterliegen, tatsächlich besteuert werden dürfen. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Soweit im Rahmen der unbeschränkten Steuerpflicht ausländische
+Einkünfte aufgrund eines DBA freizustellen sind, sind die
+Einkünfte aus der Steuerbemessungsgrundlage auszuscheiden. Wird
+dagegen die Doppelbesteuerung durch Anrechnung der ausländischen
+Steuer auf die inländische Steuerschuld vermieden, richtet
+sich die Anrechnung nach § 34 der Besteuerungsrichtlinien v.
+24. 8. 1979 (GBl SDr. Nr. 1016), es sei denn, das jeweilige DBA
+enthält eine davon abweichende Regelung. Die Vermeidung
+der Doppelbesteuerung bei ausländischen Einkünften
+aus Staaten, mit denen kein Abkommen zur Vermeidung der Doppelbesteuerung
+besteht, erfolgt nach § 34 der Besteuerungsrichtlinien
+vom 24. 8. 1979 (a. a. O.) durch Anrechnung der ausländischen Steuer
+bei unbeschränkter Steuerpflicht. </lxbase:a><lxbase:a>Als Einkünfte aus dem Ausland gelten im Jahr 1990 auch
+Einkünfte aus der bisherigen Bundesrepublik Deutschland. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500014">14. Berechnung der Steuer
+beim Zusammentreffen von </lxbase:ueberschrift><lxbase:a eingerueckt="nein">mehreren Tätigkeiten bei der
+Einkommensteuer </lxbase:a><lxbase:a eingerueckt="nein">14.1 Verschiedene hauptberufliche Tätigkeiten,
+die der gleichen Rechtsvorschrift unterliegen </lxbase:a><lxbase:a eingerueckt="nein">14.1.1 Erforderliche Jahreserklärung </lxbase:a><lxbase:a eingerueckt="nein">Wurden verschiedene hauptberufliche
+Tätigkeiten zeitlich nebeneinander ausgeführt,
+die aber den Bestimmungen - z. B. des EStG - unterliegen, so ist
+hierfür die Abgabe einer Jahreserklärung ausreichend. Das
+bedeutet, daß z. B. mehrere hauptberufliche Einkünfte
+aus Gewerbebetrieben für Zwecke der Einkommensteuer in
+der Zeile "Einkünfte aus Gewerbebetrieb" zusammengefaßt
+werden können. </lxbase:a><lxbase:a eingerueckt="nein">Bei der Ermittlung des Gesamteinkommens
+kann nach § 4 DB zum StÄG der Verlustausgleich
+innerhalb der Einkunftsart und auch die Verrechnung von Verlusten
+mit Einkünften aus einer anderen Einkunftsart vorgenommen
+werden. </lxbase:a><lxbase:a eingerueckt="nein">14.1.2 Ermittlung des steuerpflichtigen
+Einkommens </lxbase:a><lxbase:a eingerueckt="nein">Bei der Ermittlung des steuerpflichtigen
+Gesamteinkommens ist zu beachten, daß, auch wenn mehrere
+Jahreserklärungen ausgefüllt worden sind, </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Sonderausgaben </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>50 v. H. der Beiträge zur FZR </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Steuerklassenfreibeträge und </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Steuerermäßigungen wegen
+außergewöhnlicher Belastungen </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>insgesamt nur einmal in Anspruch genommen werden können. </lxbase:a><lxbase:a>Steuerbegünstigt freiberuflich Tätige können
+Sonderausgaben und 50 v. H. der Beiträge zur FZR nicht
+abziehen, wenn sie die Pauschalierung der berufsbedingten Ausgaben
+mit 30 v. H. in Anspruch genommen haben. </lxbase:a><lxbase:a>14.1.3 Ermittlung der Einkommensteuer </lxbase:a><lxbase:a>Bei der Ermittlung der Einkommensteuer ist jeweils vom Gesamteinkommen auszugehen. Dazu
+muß aus den betreffenden Jahreserklärungen das jeweilige
+steuerpflichtige Einkommen addiert werden. Auf das hiernach ermittelte
+steuerpflichtige Gesamteinkommen ist die Einkommensteuer nach Steuergrundtarif
+A (StÄG) zu berechnen. </lxbase:a><lxbase:a>14.1.4 Ermittlung der Gewerbesteuer </lxbase:a><lxbase:a>Hinsichtlich der Gewerbesteuer ist zu beachten, daß die
+Gewerbesteuer für jeden Gewerbebetrieb gesondert zu ermitteln
+ist. </lxbase:a><lxbase:a>14.2 Verschiedene hauptberufliche Tätigkeiten, die unterschiedlichen
+Rechtsvorschriften unterliegen </lxbase:a><lxbase:a>14.2.1 Erforderliche Jahreserklärung </lxbase:a><lxbase:a>Hat ein Steuerpflichtiger verschiedene hauptberufliche Tätigkeiten
+zeitlich nebeneinander ausgeübt, so sind grundsätzlich
+die entsprechenden unterschiedlichen Jahreserklärungen
+abzugeben. </lxbase:a><lxbase:a>Wurden von Handwerkern oder Kommissionshändlern im 2.
+Halbjahr 1990 hauptberuflich noch andere einkommensteuerpflichtige
+Einkünfte erzielt, so können diese in der Jahreserklärung
+für Handwerker oder Kommissionshändler erklärt
+werden. </lxbase:a><lxbase:a>Zum Verlustausgleich gilt das unter Nr. 14.1.1 Ausgeführte
+entsprechend. </lxbase:a><lxbase:a>14.2.2 Ermittlung des steuerpflichtigen Einkommens </lxbase:a><lxbase:a>Bei der Ermittlung des steuerpflichtigen Gesamteinkommens ist
+zu beachten, daß auch bei unterschiedlichen Jahreserklärungen </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Sonderausgaben </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>50 v. H. der Beiträge zur FZR </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Steuerklassenfreibeträge und </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Steuerermäßigung wegen
+außergewöhnlicher Belastung </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>nur einmal abgezogen werden dürfen. </lxbase:a><lxbase:a>Aus Vereinfachungsgründen können bei zeitlich
+nebeneinander ausgeübten Tätigkeiten die jeweils
+höchstmöglichen Beträge einer der in
+Frage kommenden Rechtsvorschriften angewendet werden. </lxbase:a><lxbase:a>Steuerbegünstigt freiberuflich Tätige können
+Sonderausgaben und 50 v. H. der Beiträge zur FZR nicht
+abziehen, wenn sie die Pauschalierung der berufsbedingten Ausgaben
+mit 30 v. H. in Anspruch nehmen. </lxbase:a><lxbase:a>Wurden die hauptberuflichen Einkünfte zeitlich nacheinander
+erzielt oder eine hauptberufliche Tätigkeit aufgegeben,
+so können die Beträge nur zeitanteilig (Zwölftelung)
+entsprechend dem Zeitraum der Erzielung von Einkünften
+der jeweiligen Einkunftsart berücksichtigt werden. </lxbase:a><lxbase:a>14.2.3 Ermittlung der Einkommensteuer </lxbase:a><lxbase:a>Siehe Nr. 14.1.3. </lxbase:a><lxbase:a>14.3 Einkünfte aus hauptberuflicher Tätigkeit
+und Lohneinkünfte </lxbase:a><lxbase:a>14.3.1 Erforderliche Jahreserklärung </lxbase:a><lxbase:a>Wurden vor Beginn oder nach Beendigung der hauptberuflichen Tätigkeit Lohneinkünfte
+aus einem Arbeitsrechtsverhältnis erzielt, so ist für
+die hauptberufliche Tätigkeit die entsprechende Jahreserklärung
+abzugeben (<lxbase:az normform="AV-24/30" manuell="nein">AV 24/30</lxbase:az> 
+ bzw. <lxbase:az normform="AV-8/10" manuell="nein">AV 8/10</lxbase:az> 
+). Hinzu kommt die Anlage Lohneinkünfte (AV 24/L),
+auf der vom Arbeitgeber die bezogenen Löhne einzutragen
+sind. Zur Ermittlung der Lohneinkünfte siehe Anleitung
+zur Jahreserklärung <lxbase:az normform="AV-24/23" manuell="nein">AV 24/23</lxbase:az> Ziff. 2.3. </lxbase:a><lxbase:a>Bei Handwerkern und Kommissionshändlern bleiben die
+Lohneinkünfte außer Ansatz, da für beide
+Gruppen besondere Besteuerungsvorschriften galten. </lxbase:a><lxbase:a>Haben deren mitarbeitenden Ehegatten ihre Tätigkeit
+im Betrieb des Ehegatten erst nach dem 30. 6. 1990 aufgenommen,
+so daß zu keinem Zeitpunkt des Jahres 1990 die besonderen
+Rechtsvorschriften für sie galten, sind deren Lohneinkünfte
+mit der Anlage Lohneinkünfte (AV 24/L) in ihre
+Besteuerung einzubeziehen. </lxbase:a><lxbase:a>14.3.2 Ermittlung des steuerpflichtigen Einkommens </lxbase:a><lxbase:a>Bei der Ermittlung des steuerpflichtigen Gesamteinkommens ist
+zu beachten, daß das in der Jahreserklärung ermittelte
+steuerpflichtige Einkommen (<lxbase:az normform="AV-24/30" manuell="nein">AV 24/30</lxbase:az> Zeile 60) in die Anlage
+Lohneinkünfte (AV 24/L) Zeile 9 übernommen
+wird. </lxbase:a><lxbase:a>14.3.3 Ermittlung der Einkommensteuer </lxbase:a><lxbase:a>Der Steuersatz ist nach der Steuersatztabelle C zu ermitteln. Grundlage bildet
+das Gesamteinkommen. Bei der Ermittlung des Steuersatzes
+sind zwei Rechenschritte zu beachten. </lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">Ermittlung
+des Steuersatzes nach der Steuersatztabelle C auf das steuerpflichtige
+Einkommen aus der hauptberuflichen Tätigkeit </lxbase:a><lxbase:a eingerueckt="nein">Das steuerpflichtige Einkommen (z. B.
+Zeile 60 des Vordrucks <lxbase:az normform="AV-24/30" manuell="nein">AV
+24/30</lxbase:az> ) wird in Zeile 9 der Anlage Lohneinkünfte
+(AV 24/L) übernommen. Der Steuersatz
+nach Steuersatztabelle C wird ermittelt. </lxbase:a><lxbase:a eingerueckt="nein">Steuersatz = (Steuer lt. Steuergrundtarif
+A) / (Gesamteinkommen)</lxbase:a><lxbase:a eingerueckt="nein">Der so ermittelte Steuersatz wird auf
+das steuerpflichtige Einkommen aus der hauptberuflichen Tätigkeit
+angewendet. Nach Errechnen der Einkommensteuer wird diese
+aus Anlage L in die entsprechende Jahreserklärung übertragen
+und der Rechengang fortgesetzt. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">Ermittlung des
+Steuersatzes nach der Steuersatztabelle C auf das steuerpflichtige
+Einkommen aus der nebenberuflichen Tätigkeit </lxbase:a><lxbase:a eingerueckt="nein">Im Vordruck <lxbase:az normform="AV-24/23" manuell="nein">AV 24/23</lxbase:az> sind in Zeile 64 die Lohneinkünfte
+aus Anlage L und das steuerpflichtige Gesamteinkommen aus der hauptberuflichen
+Jahreserklärung zu übernehmen. </lxbase:a><lxbase:a eingerueckt="nein">Der Steuersatz auf das steuerpflichtige
+Gesamteinkommen wird nach der Steuersatztabelle C wie bereits dargestellt
+ermittelt. Anschließend wird der Steuersatz auf
+das steuerpflichtige Einkommen aus der nebenberuflichen Tätigkeit
+angewendet. Die so ermittelte Einkommensteuer wird in die
+Jahreserklärung für die hauptberufliche Tätigkeit übernommen und
+dann der Rechengang fortgesetzt. </lxbase:a><lxbase:a eingerueckt="nein">Dabei ist der ermittelte Steuersatz
+nur auf das insgesamt ermittelte steuerpflichtige Einkommen aus
+der / den hauptberuflichen Tätigkeit(en) anzuwenden. Die
+Einkommensteuer wird in der Anlage Lohneinkünfte (AV 24/L)
+berechnet und dann in die Jahreserklärung für
+die weiteren Berechnungsschritte übernommen. </lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein">14.4 Einkünfte aus mehreren
+nebenberuflichen Tätigkeiten </lxbase:a><lxbase:a eingerueckt="nein">Für jede nebenberufliche Tätigkeit
+ist eine gesonderte Jahreserklärung für nebenberufliche
+Tätigkeit (<lxbase:az normform="AV-24/23" manuell="nein">AV
+24/23</lxbase:az> ) abzugeben. Die Berechnung der Einkommensteuer
+ist in der zweiten und jeder weiteren Jahreserklärung für
+nebenberuflich Tätige nur bis zur Zeile 45 der Jahreserklärung
+(Zwischensumme) vorzunehmen. </lxbase:a><lxbase:a eingerueckt="nein">Das Ergebnis dieser Zeile 45 in der
+zweiten und jeder weiteren Jahreserklärung ist in die Zeile
+45 der ersten zusammenfassenden Jahreserklärung zu übertragen. </lxbase:a><lxbase:a eingerueckt="nein">Mit der bisherigen Zwischensumme sind
+die zusätzlichen Einkünfte zu summieren. </lxbase:a><lxbase:a eingerueckt="nein">Nach § 4 der DB zum StÄG
+kann ein Verlust, der in einer Nebentätigkeit entstanden
+ist, hier in Zeile 45, aufgeteilt nach Halbjahren, mit den positiven
+Einkünften verrechnet werden. </lxbase:a><lxbase:a eingerueckt="nein">Mit der Summenbildung ist gewährleistet,
+daß die </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Sonderausgaben
+und </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Vorsorgeaufwendungen </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>nur einmal in Abzug gebracht werden. </lxbase:a><lxbase:a>Nach § 12 StÄG kann der Freibetrag in Höhe
+von 3.000 M / DM nur auf die nebenberuflichen Einkünfte
+insgesamt angewendet werden. Zu beachten ist, daß der
+Freibetrag immer beim Einkommen zu berücksichtigen ist. </lxbase:a><lxbase:a>14.5 Einkünfte aus hauptberuflicher Tätigkeit
+und nebenberuflicher Tätigkeit sowie Lohneinkünfte </lxbase:a><lxbase:a>14.5.1 Erforderliche Jahreserklärung </lxbase:a><lxbase:a>Es ist jeweils die entsprechende Jahreserklärung für
+die hauptberufliche Tätigkeit abzugeben (z. B. <lxbase:az normform="AV-24/30" manuell="nein">AV 24/30</lxbase:az> 
+, <lxbase:az normform="AV-8/10" manuell="nein">AV 8/10</lxbase:az> 
+). </lxbase:a><lxbase:a>Für die nebenberufliche Tätigkeit ist der Vordruck <lxbase:az normform="AV-24/23" manuell="nein">AV 24/23</lxbase:az> 
+ abzugeben und für die Lohneinkünfte die Anlage
+Lohneinkünfte (AV 24/L). </lxbase:a><lxbase:a>14.5.2 Ermittlung des steuerpflichtigen Einkommens </lxbase:a><lxbase:a>Das steuerpflichtige Einkommen ist in den einzelnen Jahreserklärungen getrennt
+zu ermitteln. Dabei ist zu beachten, daß </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>die Sonderausgaben </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>50 v. H. der Beiträge zur FZR </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Steuerklassenfreibeträge und </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Steuerermäßigungen wegen
+außergewöhnlicher Belastung </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>nur einmal die Einkünfte mindern dürfen. Steuerbegünstigt
+freiberuflich Tätige können Sonderausgaben und
+50 v. H. der Beiträge der FZR nicht abziehen, wenn sie
+die Pauschalierung der berufsbedingten Ausgaben mit 30 v. H. in Anspruch
+nehmen. </lxbase:a><lxbase:a>14.5.3 Ermittlung der Einkommensteuer </lxbase:a><lxbase:a>Vgl. Nr. 14.3.3. </lxbase:a><lxbase:a>14.5.4 Ermittlung der Gewerbesteuer </lxbase:a><lxbase:a>Hinsichtlich der Gewerbesteuer ist zu beachten, daß ggf.
+auch für die nebenberufliche Tätigkeit eine Gewerbesteuer
+zu ermitteln und in der jeweiligen Erklärung der Abschnitt
+Gewerbesteuer auszufüllen ist. </lxbase:a><lxbase:a>14.6 Hinweise zur Abgrenzung zwischen haupt- und nebenberuflicher
+Tätigkeit </lxbase:a><lxbase:a>Als nebenberufliche Tätigkeit im Sinne des § 12
+StÄG gilt eine Tätigkeit, die in sich abgeschlossen
+ist und nicht im wirtschaftlichen Zusammenhang mit einer ausgeübten
+hauptberuflichen Tätigkeit steht. Für
+Einnahmen aus einer nebenberuflichen Tätigkeit, wie aus
+Handwerks-, Handels- und Gewerbebetrieb sowie sonstiger selbständiger
+Tätigkeit, aus freiberuflicher Arbeit und Vermietung und
+Verpachtung wird ein Steuerfreibetrag von 3.000 M / DM
+jährlich gewährt. Eine nebenberufliche
+Tätigkeit schließt die Beschäftigung
+von Arbeitskräften aus (§ 13 DB zum StÄG). Zur
+Abgrenzung zwischen einer haupt- und nebenberuflichen Tätigkeit
+ist auch eine zeitliche Komponente zu beachten. Ausgehend
+von dem jeweils erforderlichen Zeitaufwand ist eine Tätigkeit
+immer dann hauptberuflich, wenn der Steuerpflichtige seine Arbeitszeit
+zu mehr als einem Drittel für diese Tätigkeit
+verwendet. Haben Hausfrauen, Rentner und Studenten steuerpflichtige
+Einkünfte erzielt, so gelten diese steuerlich als hauptberufliche
+Einkünfte. Gegenüber dem Vorjahr 1989
+ist hier eine Änderung eingetreten (im Rahmen der Abgabe
+der Jahreserklärungen 1989 hatte dieser Personenkreis Vergünstigungen
+wie für nebenberuflich Tätige erhalten). Ab
+1990 wird eine anderweitige Tätigkeit von Hausfrauen, Rentnern
+oder Studenten nicht mehr wie eine nebenberufliche Tätigkeit
+behandelt. Ebenso ist die übrige Tätigkeit
+eines Beziehers von Arbeitslosengeld, Arbeitslosenhilfe, Vorruhestandsgeld
+oder Wartegeld hauptberuflich. Dies führt 1990
+dazu, daß z. B. Rentner, Hausfrauen oder Empfänger
+von Arbeitslosengeld für ihre Einkünfte aus Vermietung
+und Verpachtung diesen Steuerfreibetrag (3.000 M / DM)
+nicht erhalten. Wenn sie jedoch im Kalenderjahr 1990 diese
+Tätigkeit erst aufgenommen haben, können sie 10.000
+M / DM Steuerabzugsbetrag für Neueröffnungen nach § 9
+Abs. 1 DB zum StÄG erhalten. Die steuerpflichtigen
+Einkünfte dieses Personenkreises sind in der Jahreserklärung
+für hauptberufliche Einkünfte (z. B. für
+Gewerbetreibende <lxbase:az normform="AV-24/30" manuell="nein">AV
+24/30</lxbase:az> ) zu erklären. </lxbase:a><lxbase:a>14.7 Organisatorische Verbindung von Fällen mit haupt-
+und nebenberuflicher Tätigkeit </lxbase:a><lxbase:a>In Fällen, in denen Einkünfte aus haupt- und
+nebenberuflicher Tätigkeit zusammentreffen, sind die Steuern
+auf die Einkünfte aus der nebenberuflichen Tätigkeit
+zusammen mit den Steuern auf die Einkünfte aus der hauptberuflichen Tätigkeit
+in der Jahreserklärung für die hauptberufliche
+Tätigkeit abzurechnen. Fälle, bei denen
+für die nebenberufliche Tätigkeit eine eigene
+Steuernummer vergeben wurde und bei denen zu dieser Steuernummer
+Buchungen vorgenommen worden sind, sind Soll- und Habenbeträge
+auf das Personenkonto mit der Steuernummer für die hauptberufliche
+Tätigkeit umzubuchen. Die Steuernummer für
+die nebenberufliche Tätigkeit ist danach zu löschen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500015">15. Gewerbesteuer </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Beginnt die Steuerpflicht im Laufe des
+Jahres 1990, entfällt die Festsetzung eines Steuermeßbetrags
+für das Gewerbekapital. Das gilt auch für
+Körperschaften, die aus ehemals volkseigenen Betrieben
+hervorgegangen und aufgrund des Treuhandgesetzes v. 17. 6. 1990
+ab 1. 7. 1990 steuerpflichtig sind. </lxbase:a><lxbase:a eingerueckt="nein">Bestand die Gewerbesteuerpflicht bereits
+am 1. 1. 1990, ist für die Berechnung des Gewerbekapitals
+der zuletzt festgestellte Einheitswert für das Betriebsvermögen
+maßgebend. Hat das Finanzamt bisher keinen Einheitswert
+für das Betriebsvermögen festgestellt und unterlag
+der Betrieb bereits zum 1. 1. 1990 der Gewerbesteuer, ist die Feststellung
+des Einheitswerts für das Betriebsvermögen nachzuholen. Bei
+der Berechnung des Gewerbeertrags kann aus Vereinfachungsgründen
+auf den Ansatz eines Jahresbetrags (§ 10 Abs. 2 GewStG)
+und die zeitanteilige Festsetzung der Gewerbesteuer (§ 22
+Abs. 1 GewStG) verzichtet werden, wenn der Steuerpflichtige damit
+einverstanden ist. Gewinne aus der Veräußerung
+eines gewerblichen Betriebs (Teilbetriebs) oder aus der Veräußerung
+eines der selbständigen Tätigkeit dienenden Vermögens
+unterliegen nicht der Gewerbesteuer (§ 13 Abs. 7 der Besteuerungsrichtlinien
+v. 24. 8. 1979, a. a. O.). Zur Abgrenzung der Einkünfte aus
+selbständiger Arbeit von den Einkünften aus Gewerbebetrieb
+vgl. § 14 der Besteuerungsrichtlinien v. 24. 8. 1979, a.
+a. O. Für Kommissionshändler und Handwerker,
+die der Besteuerung nach der KHStVO v. 24. 12. 1959 (a. a. O.) bzw.
+dem HdwStG v. 16. 3. 1966 (A. a. O.) unterlegen haben, beginnt die Gewerbesteuerpflicht
+am 1. 7. 1990. Das gleiche gilt bei Produktionsgenossenschaften
+des Handwerks und deren Arbeitsgemeinschaften. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500016">16. Vermögensteuer </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Für natürliche und
+juristische Personen, die im Jahr 1990 steuerpflichtig geworden
+sind, ergibt sich für 1990 keine Vermögensteuerpflicht. Das
+gilt wegen § 135 BewG i. d. F. des Steueränderungsgesetzes
+1991 (a. a. O.) entgegen der Verordnung über die Zahlung
+von Steuern der in Kapitalgesellschaften umgewandelten volkseigenen
+Kombinate, Betriebe und Einrichtungen im 2. Halbjahr 1990 v. 27.
+6. 1990 (GBl I Nr. 41 S. 618) auch für Körperschaften,
+die aus ehemals volkseigenen Betrieben hervorgegangen sind und die
+aufgrund des Treuhandgesetzes v. 17. 6. 1990 als in eine AG oder
+GmbH umgewandelt gelten. Soweit mit der zusammengefaßten
+Steuerrate für das 2. Halbjahr 1990 Vermögensteuer
+der ehemaligen VEB gezahlt wurde, kann diese erst in der Jahreserklärung
+1990 mit den übrigen Steuern verrechnet werden (Art. 97
+a § 3 EGAO). Hinsichtlich der Vermögensteuerpflicht
+für Kommissionshändler ist ergänzend
+zu den Erläuterungen der Jahreserklärung zu beachten, daß nach § 3
+Abs. 2 KHStVO v. 24. 12. 1959 (a. a. O.) die Freistellung des Betriebsvermögens
+gegeben ist, wenn der Kommissionshändler über
+kein anderes steuerpflichtiges Vermögen verfügt
+und zu seinem Betriebsvermögen keine Grundstücke
+gehören. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500017">17. Körperschaftsteuer </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Zum Beginn der Steuerpflicht vgl. die
+Erläuterungen zur Jahreserklärung. </lxbase:a><lxbase:a eingerueckt="nein">Folgende Abweichungen sind zu beachten: </lxbase:a><lxbase:a eingerueckt="nein">Gesellschaftliche Organisationen: Die
+Anordnung über die Vereinfachung der Erhebung von Abgaben
+für die wirtschaftliche Tätigkeit der gesellschaftlichen Organisationen
+v. 4. 7. 1967, GBl II Nr. 66 S. 445, wurde mit Wirkung v. 1. 7. 1990
+aufgehoben (Nr. 4 der Anordnung über die Aufhebung finanzrechtlicher Bestimmungen
+v. 10. 9. 1990, GBl I Nr. 62 S. 1560). Dementsprechend unterliegen
+die in § 1 Abs. 1 der Anordnung v. 4. 7. 1967 genannten
+gesellschaftlichen Organisationen ab 1. 7. 1990 den allgemeinen
+steuerlichen Vorschriften. Die Steuerpflicht wird sich
+i. d. R. auf die Umsätze und Gewinne aus wirtschaftlicher
+Tätigkeit beschränken (§ 4 KöStG, §§ 52,
+64 AO-DDR bzw. AO 1977). </lxbase:a><lxbase:a eingerueckt="nein">Kreditgenossenschaften: Kreditgenossenschaften
+unterliegen erst ab 1. Juli 1990 der allgemeinen Besteuerung. Für
+das 1. Halbjahr 1990 gilt die Verordnung v. 7. 4. 1966, GBl II Nr.
+45 S. 290, mit der Maßgabe, daß sich die Gewinnsteuer
+nach Steuergrundtarif B des StÄG bemißt. Die
+Steuerpflicht von Betrieben gewerblicher Art von juristischen Personen,
+die selbst von der Körperschaftsteuer befreit sind, beginnt,
+wenn die juristische Person eine nachhaltige wirtschaftliche Tätigkeit
+aufnimmt, die nicht hoheitlich ist. Die Steuerpflicht bestehender
+Betriebe gewerblicher Art beginnt spätestens am 1. 7. 1990. Zu
+Einzelheiten vergleiche Arbeitshinweise des Ministeriums der Finanzen
+der DDR v. 22. 8. 1990 (BStBl I S. 546 / 549). Für
+Kapitalgesellschaften, die aus ehemals volkseigenen Kombinaten,
+Betrieben und Einrichtungen hervorgegangen sind, beginnt die Steuerpflicht
+am 1. 7. 1990. Auch wenn die Umwandlung in eine Kapitalgesellschaft
+schon im 1. Halbjahr 1990 erfolgte (vgl. </lxbase:a><lxbase:a eingerueckt="nein">BMF-Schreiben vom 3. Mai 1991, <lxprod:doknr-verw linkend="HT0098397">BStBl 1991 I
+S. 506</lxprod:doknr-verw> ), beginnt die Besteuerung nach dem KöStG,
+GewStG und UStG erst ab 1. 7. 1990. Vermögensteuer
+und Gewerbekapitalsteuer werden entgegen der Selbstberechnungsverordnung
+- VEB - nicht erhoben (StÄndG 1991). Soweit die
+Körperschaftsteuerpflicht im Laufe des Jahres 1990 beginnt,
+erfolgt eine Umrechnung des steuerpflichtigen Einkommens auf einen
+Jahresbetrag nur bei Körperschaften, die aufgrund des Treuhandgesetzes
+v. 17. 6. 1990 aus einem ehemaligen volkseigenen Kombinat, Betrieb oder
+einer Einrichtung hervorgegangen sind (§ 2 Abs. 3 der Verordnung
+v. 27. 6. 1990, GBl I Nr. 41 S. 618). </lxbase:a><lxbase:a eingerueckt="nein">17.1 Besteuerung der Ausschüttungen </lxbase:a><lxbase:a eingerueckt="nein">Körperschaftsteuersatz </lxbase:a><lxbase:a eingerueckt="nein">Das Einkommen, das der Körperschaftsteuer
+unterliegt, ist nach dem Steuergrundtarif B des StÄG vom
+6. März 1990 (a. a. O.) zu besteuern. Ausschüttungen
+anderer Körperschaften als Kapitalgesellschaften unterliegen
+nicht dem ermäßigten Ausschüttungssatz. Für
+beschränkt Körperschaftsteuerpflichtige kommt
+der ermäßigte Körperschaftsteuersatz
+ebenfalls nicht in Betracht. Für ausgeschüttete
+Gewinne von unbeschränkt steuerpflichtigen Kapitalgesellschaften
+beträgt die Körperschaftsteuer 36 v. H. Bemessungsgrundlage
+der Körperschaftsteuer auf Ausschüttungen ist
+der für die Ausschüttung verwendete Teil des Einkommens, das <lxbase:az normform="sind-100/64" manuell="nein">sind 100/64</lxbase:az> 
+des Ausschüttungsbetrags vor Abzug der Kapitalertragsteuer. </lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel: </lxbase:a><lxbase:a eingerueckt="nein">Die X-GmbH beschließt eine
+Dividende in Höhe von 100. Darauf behält sie
+15 v. H. Kapitalertragsteuer gemäß § 44
+Abs. 1 EStG in Höhe von 15 ein. Der Anteilseigner
+erhält demnach eine Bardividende in Höhe von 85. Der
+für die Ausschüttung verwendete Teil des Einkommens,
+der dem ermäßigten Steuersatz 36 v. H. unterliegt,
+berechnet sich wie folgt: </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="73*" /><cals:colspec colnum="2" colname="2" colwidth="27*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Bardividende</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>100</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Der dafür verwendete Einkommensbetrag
+beträgt <lxbase:az normform="100/64" manuell="nein">100/64</lxbase:az> =</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>156</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Körperschaftsteuer 36 v. H. =</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>56</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a eingerueckt="nein">Die Körperschaftsteuer auf
+Ausschüttungen von unbeschränkt steuerpflichtigen Kapitalgesellschaften
+in Höhe von 36 v. H. nach § 5 Abs. 2 StÄG
+(a. a. O.) ist auch auf Ausschüttungen für das
+Jahr 1990 zu erheben, die erst im Jahr 1991 oder später
+erfolgen (§ 54a Nr. 2 KStG-BRD). </lxbase:a><lxbase:a eingerueckt="nein">Anteilseigner, die im Jahr 1990 im Beitrittsgebiet
+der unbeschränkten Steuerpflicht unterliegen und die im
+Jahr 1990 Gewinnausschüttungen bezogen haben, können
+die auf der Gewinnausschüttung von unbeschränkt
+steuerpflichtigen Kapitalgesellschaften lastende Körperschaftsteuer
+in Höhe von 22,5 v. H. der ausgeschütteten Dividende
+anrechnen (§ 6 StÄG, a. a. O.). Grundlage
+der Körperschaftsteueranrechnung und der Anrechnung der
+einbehaltenen Kapitalertragsteuer ist die nach § 11 Abs.
+3 der DB zum StÄG (a. a. O.) zu erteilende Steuerbescheinigung
+VE 8-0 (1990). </lxbase:a><lxbase:a eingerueckt="nein">17.2. Produktionsgenossenschaften des
+Handwerks und AGP </lxbase:a><lxbase:a eingerueckt="nein">Die Besteuerung der Produktionsgenossenschaften
+des Handwerks richtet sich für das 1. Halbjahr 1990 - wie
+bisher - nach dem </lxbase:a><lxbase:a eingerueckt="nein">PGH-Steuergesetz v. 30. 11. 1962 (a.
+a. O.). Für die Besteuerung im 2. Halbjahr 1990
+sind die allgemeinen steuerrechtlichen Vorschriften maßgebend, insbesondere
+das Körperschaftsteuergesetz und das Gewerbesteuergesetz. Erfolgt
+1990 eine Umwandlung der PGH in eine Kapitalgesellschaft oder Personengesellschaft,
+so hat die Nachfolgegesellschaft die Jahreserklärung für
+Körperschaften bzw. die Erklärung zur einheitlichen
+und gesonderten Feststellung der Einkünfte der Personengesellschaft
+für den Zeitraum von der Umwandlung bis zum 31. 12. 1990
+abzugeben. Das gilt auch im Fall der Umwandlung einer PGH
+in eine eingetragene Genossenschaft. Soweit die Umwandlung
+einer PGH in eine eingetragene Genossenschaft im 1. Halbjahr 1990
+erfolgte, richtet sich die Besteuerung bereits ab dem Zeitpunkt
+der Umwandlung nach allgemeinem Steuerrecht und nicht nach dem PGH-Steuergesetz. Bemessungsgrundlage
+für den Gewinnsteuersatz der PGH ist der Jahresgewinn je
+Mitglied und nicht nur der Gewinn des 1. Halbjahrs 1990. PGH
+können die Sonderabschreibungen nach § 12 i. V. m. § 7
+DB zum StÄG in Anspruch nehmen. Ebenfalls ist
+es zulässig, den Verlust eines Halbjahres mit dem Gewinn
+des anderen Halbjahres zu verrechnen, wenn die PGH im Jahre 1990
+als PGH weiter bestanden hat. Ein verbleibender Verlust
+kann nach § 10d EStG-BRD vorgetragen werden. </lxbase:a><lxbase:a eingerueckt="nein">Wegen der Besteuerung der PGH-Mitglieder
+vgl. das BMF-Schreiben vom 6. 5. 1991 - <lxprod:doknr-verw linkend="HT0098394">IV B 7 - S-1900
+- 97/91</lxprod:doknr-verw> - (Anlage 3). PGH können
+für das 1. Halbjahr 1990 die Akkumulationsrücklage nicht
+in Anspruch nehmen. PGH können einen Ausgleich
+für eine Nettoeinkommensminderung erhalten, die sich durch
+den Wegfall bisheriger Steuervergünstigungen (z. B. für
+Klein- und Kleinstreparaturen) und unter Berücksichtigung
+der durch das Steueränderungsgesetz eingeführten
+Neuregelungen ergeben (§ 9 Abs. 4 DB zum StÄG,
+a. a. O.). Dieser Ausgleich konnte durch das Finanzamt
+bis zum 31. 12. 1990 gewährt werden. Soweit einer
+PGH der Ausgleich im Einzelfall zusteht, ist er über die
+Steuerrate herbeizuführen. Ansprüche
+aus dem 1. Halbjahr 1990 sind im Verhältnis 2:1 abzuwerten. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500018">18. Verfahrensrecht </lxbase:ueberschrift><lxbase:a eingerueckt="nein">18.1 Verspätungszuschlag </lxbase:a><lxbase:a eingerueckt="nein">Bemessungsgrundlage für einen
+Verspätungszuschlag ist die Steuerrate. Der Verspätungszuschlag
+darf 10 v. H. der Steuerrate nicht übersteigen. Da
+ein Verspätungszuschlag einheitlich in DM erhoben wird,
+muß der auf das 1. Halbjahr entfallende Anteil der Steuerrate
+halbiert werden. Danach ist der Vomhundertsatz auf die
+halbierte Steuerrate des 1. Halbjahrs 1990 und auf die Steuerrate
+des 2. Halbjahrs 1990 anzuwenden. Die Summe ergibt den für
+1990 höchstens festzusetzenden Verspätungszuschlag. Führt
+eine spätere Änderung der Steuerfestsetzung zu
+einer Herabsetzung der Steuerrate, ist der Höchstsatz von
+10 v. H. für den Verspätungszuschlag auf die geminderte Steuerrate
+zu begrenzen. Die Festsetzung eines Verspätungszuschlags
+ist auch bei einer negativen Steuerrate möglich, da in
+bestimmten Fällen der Stpfl. hierdurch veranlaßt
+werden soll, seinen steuerlichen Pflichten zur Abgabe von Steuererklärungen
+künftig termingerecht nachzukommen. Die Festsetzung
+eines Verspätungszuschlags muß sich in jedem Fall
+im Ermessensspielraum des § 152 AO bewegen und sollte bei
+erstmaliger Verspätung bis zum 31. 12. 1991 grundsätzlich
+unterbleiben. </lxbase:a><lxbase:a eingerueckt="nein">18.2 Schätzung der Besteuerungsgrundlagen </lxbase:a><lxbase:a eingerueckt="nein">Werden Besteuerungsgrundlagen erstmalig
+geschätzt und ist zu diesem Zeitpunkt das IABV noch nicht
+eingeführt worden, muß im Abrechnungsteil zusätzlich
+eine gesonderte Buchungszeile mit Buchungsart 27 eingegeben werden,
+damit eine maschinelle Abrechnungsmitteilung erstellt und das Konto damit
+abgerechnet wird. Die Buchungszeile mit dem Betrag "O" ist bereits
+vorgedruckt; lediglich im Feld "EAA" ist die in
+diesem Fall niedrigste EAA einzutragen. </lxbase:a><lxbase:a eingerueckt="nein">18.3 Übersendung von Steuerbescheiden
+bei Mitarbeit des Ehegatten </lxbase:a><lxbase:a eingerueckt="nein">Die Jahreserklärung enthält
+auch die Berechnung der Steuern, die auf den Gewinnanteil des mitarbeitenden
+Ehegatten entfallen. Die auf den mitarbeitenden Ehegatten
+entfallenden Steuern sind in den zusammengefaßten Bescheid
+an den Inhaber mit aufzunehmen. Der Bescheid ist an beide Ehegatten
+zu adressieren (z. B. Herrn und Frau Hans und Maria Meier). Sollte
+der mitarbeitende Ehegatte eine gesonderte Bescheidausfertigung
+wünschen oder eine solche aus anderen Gründen
+(z. B. getrennt lebende Ehegatten oder in Schätzungsfällen)
+notwendig sein, so ist für den mitarbeitenden Ehegatten
+eine Zweitschrift des Steuerbescheids zu fertigen und ihm zuzusenden. Weicht
+die Festsetzungsstelle von der Steuererklärung des Stpfl.
+ab, ist zum Berechnungsbogen <lxbase:az normform="AV-9/22" manuell="nein">AV 9/22</lxbase:az> der besondere Berechnungsbogen
+für den mitarbeitenden Ehegatten (Vordruck <lxbase:az normform="AV-9/23" manuell="nein">AV 9/23</lxbase:az> 
+) zu verwenden. Dieser Vordruck enthält die spezifischen
+Angaben für den mitarbeitenden Ehegatten und ist als Anlage
+zum Vordruck <lxbase:az normform="AV-9/22" manuell="nein">AV 9/22</lxbase:az> 
+ konzipiert. </lxbase:a><lxbase:a eingerueckt="nein">18.4 Mitteilung von Nebenbestimmungen
+im Steuerbescheid </lxbase:a><lxbase:a eingerueckt="nein">Der Steuerbescheid wird mit dem Inhalt
+wirksam, mit dem er bekanntgegeben wird (§ 124 AO 1977). Im
+Abschnitt Nebenbestimmungen und Erläuterungen sind außer
+den Erklärungen über abweichende Berechnungen
+ggf. die Art der Steuerfestsetzung (Seite 1 des Berechnungsbogens)
+mitzuteilen. Bei Änderungen und Berichtigungen
+sowie nach § 165 AO vorläufigen Bescheiden sind
+die dafür maßgebenden Vorschriften der AO dem
+Steuerpflichtigen mitzuteilen. Bei einer ganz oder teilweise
+vorläufigen Steuerfestsetzung oder vorläufigen
+Verlustfeststellung ist der Grund der Vorläufigkeit anzugeben. Bei
+einer nur teilweisen vorläufigen Steuerfestsetzung ist
+der Umfang der Vorläufigkeit genau abzugrenzen. Für
+den Steuerpflichtigen muß eindeutig ersichtlich sein, für
+welchen Teilbereich die Vorläufigkeit wirkt. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500019">19. Ausgleichszahlungen
+für lohnpolitische Maßnahmen </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Nach § 9 Abs. 2 der DB zum
+StÄG (a. a. O.) können Ausgleichszahlungen vom Steuerpflichtigen
+bei seinem zuständigen Finanzamt beantragt werden. Voraussetzung
+für die Gewährung ist, daß er seine Einnahmen
+zu staatlich festgelegten Preisen realisiert hat, in denen die zwischen
+den Tarifpartnern vereinbarten Lohn- und Gehaltserhöhungen
+für seine Beschäftigten noch nicht enthalten sind,
+und die Einkünfte (Gewinne) aus dem Betrieb 50.000 M / DM im
+Veranlagungszeitraum 1990 nicht überschreiten. </lxbase:a><lxbase:a eingerueckt="nein">Diese Ausgleichszahlungen werden nach
+der Gewinnermittlung getrennt nach dem 1. und 2. Halbjahr 1990 berechnet
+und mit der Jahreserklärung beantragt. Sind nicht
+im gesamten Veranlagungsjahr 1990 die Bedingungen für die
+Gewährung von Ausgleichszahlungen für lohnpolitische
+Maßnahmen gegeben, ist die Einkunftsgrenze von 50.000 M / DM
+zeitanteilig zu reduzieren. Die Mehraufwendungen werden
+nur bis zum Erreichen der maßgebenden Einkunftsgrenze ausgeglichen. Wurden
+im Veranlagungsjahr 1990 Einnahmen sowohl aufgrund staatlich festgelegter
+Preise als auch aufgrund freier Preise realisiert, können
+Ausgleichszahlungen für lohnpolitische Maßnahmen
+nur entsprechend dem Verhältnis der aus staatlich festgelegten Preisen
+realisierten Einnahmen zu den Gesamteinnahmen beantragt werden und sind
+in den vorliegenden Erklärungen aufgeteilt nach dem 1.
+und 2. Halbjahr 1990 abzurechnen. Da die Währungsumstellung
+beachtet werden muß, ist auch das Verhältnis der
+aus staatlich festgelegten Preisen realisierten Einnahmen zu den
+Gesamteinnahmen getrennt nach Halbjahr zu ermitteln. Hierbei
+ist davon auszugehen, daß im 2. Halbjahr 1990 im wesentlichen
+von den Steuerpflichtigen freie Preise realisiert worden sind. Staatlich
+festgelegte Preise gab es im 2. Halbjahr 1990 u. a. für
+Kohlenhändler und Fuhrunternehmer. </lxbase:a><lxbase:a eingerueckt="nein">Rechenbeispiele zu Ausgleichszahlungen
+für lohnpolitische Maßnahmen </lxbase:a><lxbase:a eingerueckt="nein">Die Ausgleichszahlungen können
+nach den folgenden Rechenbeispielen berechnet und beantragt werden: </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="12*" /><cals:colspec colnum="2" colname="2" colwidth="64*" /><cals:colspec colnum="3" colname="3" colwidth="24*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right"><lxbase:a>a)</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im 1. Halbjahr
+1990</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>25.000 M</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im 2. Halbjahr
+1990</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>30.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im Veranlagungszeitraum</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>55.000 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>Keine Gewährung
+von Ausgleichszahlungen. Der Gewinn ist größer
+als 50.000 M / DM; die Einkunftsgrenze nach § 9
+Abs. 2 der DB zum StÄG ist überschritten.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right"><lxbase:a>b)</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im 1. Halbjahr
+1990</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>25.000 M</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im 2. Halbjahr
+1990</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>20.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im Veranlagungszeitraum</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>45.000 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>Zwischen den Tarifpartnern
+vereinbarte Lohn- und Gehaltserhöhungen, die in den staatlich
+festgelegten Preisen noch nicht realisiert sind 8.000 M / DM.
+Der Gewinn ist kleiner als 50.000 M / DM. Die Ausgleichszahlung
+kann gewährt werden. Die Ausgleichszahlung für
+lohnpolitische Maßnahmen in Höhe von 8.000 M / DM
+ist getrennt nach dem 1. und 2. Halbjahr 1990 anzugeben, damit die
+Währungsumstellung berücksichtigt werden kann.
+Es können jedoch nur 5.000 M / DM gewährt
+werden, da nur ein Gewinn von 50.000 M / DM garantiert
+wird.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right"><lxbase:a>c)</lxbase:a></cals:entry><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>Der Betrieb wurde
+zum 31. 10. 1990 aufgegeben.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im 1. Halbjahr
+1990</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>24.000 M</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im 2. Halbjahr
+1990 bis 31. 10. 1990</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>24.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im Veranlagungszeitraum
+bis 31. 10. 1990</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>48.000 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>Der Gewinn ist kleiner
+als 50.000 M / DM. Die Ausgleichszahlung könnte
+nach einer ersten Prüfung gewährt werden. Die
+Voraussetzung für die Gewährung von Ausgleichszahlungen
+bestand jedoch nur vom 1. 1. 1990 bis zum 31. 10. 1990, so daß die
+Einkunftsgrenze zeitanteilig reduziert werden muß.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>Gewinn im Veranlagungszeitraum</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>bis 31. 10. 1990</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>48.000 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Einkunftsgrenze für
+den Zeitraum, für den die Voraussetzungen zutreffen bis
+31. 10. 1990 (50.000 : 12 = 4.166 x 10 Monate)</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>41.660 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right"><lxbase:a>d)</lxbase:a></cals:entry><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>Der Betrieb bestand
+das gesamte Jahr 1990.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>Staatlich festgesetzte
+Preise wurden nur bis zum 31. 10. 1990 realisiert.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im 1. Halbjahr
+1990</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>24.000 M</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im 2. Halbjahr
+1990</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>24.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im Veranlagungszeitraum</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>48.000 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn für
+1. Halbjahr 1990</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>24.000 M</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Anteiliger Gewinn
+für 2. Halbjahr 1990</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>16.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Anteiliger Gewinn
+für den Zeitraum</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>40.000 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Einkunftsgrenze 50.000
+<lxbase:az normform="x-10/12" manuell="nein">x 10/12</lxbase:az> =</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>41.660 M / DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>Da die Einkunftsgrenze
+nicht überschritten ist, kann eine Ausgleichszahlung gewährt
+werden.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right"><lxbase:a>e)</lxbase:a></cals:entry><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>Der Betrieb bestand
+das gesamte Jahr 1990.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry namest="2" nameend="3" rowsep="0"><lxbase:a>Staatlich festgesetzte
+Preise wurden im 1. Halbjahr 1990 zu 80 v. H., im 2. Halbjahr 1990
+zu 50 v. H. der Gesamteinnahmen realisiert.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im 1. Halbjahr
+1990</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>16.000 M</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" align="right" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>Gewinn im 2. Halbjahr
+1990</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>24.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0" align="right" /><cals:entry colname="2" colsep="0"><lxbase:a>Gewinn im Veranlagungszeitraum</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>40.000 M / DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Auszugleichende Lohn- und Gehaltserhöhung im 1. Halbjahr
+1990 = 5.000 M, auszugleichende Lohn- und Gehaltserhöhung
+im 2. Halbjahr 1990 = 6.000 DM. Als Ausgleichszahlung kann
+für das 1. Halbjahr 1990 ein Betrag von 80 v. H. von 5.000
+M = 4.000 M beantragt werden. Als Ausgleichszahlung kann
+für das 2. Halbjahr 1990 50 v. H. von 6.000 DM = 3.000
+DM beantragt werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010528500020">20. Belange der Sozialversicherung </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Mit den Jahreserklärungen zur
+Einkommensteuer wurden für die Inhaber und für
+die mitarbeitenden Ehegatten die von der Überleitungsanstalt
+herausgegebenen Vordrucke für den Nachweis der Beitragszahlung
+zur Sozialversicherung 1990 übersandt. Hierbei
+hatte das Finanzamt lediglich die Aufgabe, die Versendung auf der
+Grundlage der V-Listen vorzunehmen. Die Rücksendung
+der ausgefüllten Vordrucke erfolgt direkt an die Sozialversicherung. </lxbase:a><lxbase:a eingerueckt="nein">Irrtümlich, z. B. mit der Jahreserklärung
+eingereichte Beitragszahlungsnachweise der Sozialversicherung sind
+an diese ohne Abgabennachricht weiterzuleiten und die Abgabe in
+der Steuerakte zu vermerken. </lxbase:a><lxbase:a align="zentriert"><lxbase:fett>Anhang</lxbase:fett> </lxbase:a><lxbase:a eingerueckt="nein">Umsatzsteuer für das 2. Halbjahr
+1990 </lxbase:a><lxbase:a eingerueckt="nein"><lxbase:fett>1. Rechtsgrundlagen</lxbase:fett> </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Umsatzsteuergesetz
+(DDR) - UStG - v. 22. 6. 1990, GBl 1990 Sonderdruck Nr. 1432 </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Umsatzsteuer-Durchführungsverordnung
+- UStDV - v. 22. 6. 1990, GBl 1990 Sonderdruck Nr. 1432 </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Verwaltungsregelungen: </lxbase:a><lxbase:unnum-aufz typ="manuell"><lxbase:aufz-pkt wert="+"><lxbase:a>Behandlung
+der Subventionen für bestimmte Umsätze an die
+Bevölkerung, </lxbase:a><lxbase:a eingerueckt="ja">BMF-Schreiben v. 27. 12. 1990 - <lxprod:doknr-verw linkend="HT0096778">BStBl I 1991,
+S. 80</lxprod:doknr-verw></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="+"><lxbase:a>Lieferungen und sonstige Leistungen
+an die sowjetischen Truppen (1. 7. 1990 bis 2. 10. 1990), </lxbase:a><lxbase:a eingerueckt="ja">BMF-Schreiben v. 25. 10. 1990 - <lxbase:lit-fs normform="BStBl-1990-I-0760" manuell="nein">BStBl 1990 I,
+S. 760</lxbase:lit-fs></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="+"><lxbase:a>Umsatzsteuerbefreiung nach Art. 16
+des Vertrags zwischen der BRD und der UdSSR über die Bedingungen
+des befristeten Aufenthalts und die Modalitäten des planmäßigen
+Abzugs der sowjetischen Truppen aus dem Gebiet der BRD, </lxbase:a><lxbase:a eingerueckt="ja">BMF-Schreiben v. 15. 2. 1991 - <lxprod:doknr-verw linkend="HT0098579">BStBl 1991 I,
+S. 238</lxprod:doknr-verw></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="+"><lxbase:a>Behandlung der zeitlich befristeten
+Stützungsmaßnahmen für ausgewählte
+Waren zur Förderung der Anpassung an die Marktbedingungen und
+der Verbesserung der Wettbewerbsfähigkeit (§ 10
+Abs. 1 UStG-DDR), </lxbase:a><lxbase:a eingerueckt="ja">BMF-Schreiben v. 12. 2. 1991 - <lxprod:doknr-verw linkend="HT0098615">BStBl 1991 I,
+S. 321</lxprod:doknr-verw></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="+"><lxbase:a>Besteuerung von Strom-, Gas-, Wärme-
+und Wasserlieferungen beim Übergang zur neuen Umsatzsteuer, </lxbase:a><lxbase:a eingerueckt="ja">BMF-Schreiben v. 18. 2. 1991 - <lxprod:doknr-verw linkend="HT0098577">BStBl 1991 I,
+S. 323</lxprod:doknr-verw></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="+"><lxbase:a>Umsatzsteuerliche Behandlung des innerdeutschen
+Waren- und Dienstleistungsverkehrs ab 1. 7. 1990, </lxbase:a><lxbase:a eingerueckt="ja">BMF-Schreiben v. 10. 8. 1990 - <lxprod:doknr-verw linkend="HT0096164">BStBl 1990 I,
+S. 361</lxprod:doknr-verw></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="+"><lxbase:a>Gesetz über die strukturelle
+Anpassung der Landwirtschaft an die soziale und ökologische
+Marktwirtschaft in der DDR v. 25. 6. 1990 - Landwirtschaftsanpassungsgesetz
+- vom 29. 6. 1990, GBl I Nr. 42 S. 642 (insbesondere § 67
+LAPG) </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="+"><lxbase:a>Anwendung der Durchschnittsbesteuerung
+nach § 24 UStG-DDR auf LPG, z. B. Verfügung der
+OFD Chemnitz v. 19. 4. 1991 - <lxbase:az normform="S74102St23" manuell="nein">S-7410 - 2 - St 23</lxbase:az> - </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="+"><lxbase:a>Umsatzsteuerliche Beurteilung der Einschaltung
+von Unternehmen in die Erfüllung hoheitlicher Aufgaben, </lxbase:a><lxbase:a eingerueckt="ja">BMF-Schreiben v. 27. 12. 1990 - <lxprod:doknr-verw linkend="HT0096777">BStBl 1991 I,
+S. 81</lxprod:doknr-verw></lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein"><lxbase:fett>2. Umsatzsteuervordrucke</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Umsatzsteuererklärung
+- USt 2 A - </lxbase:a><lxbase:a eingerueckt="ja">für die Zeit vom 1. Juli bis
+zum 31. Dezember 1990 </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Anlage UR </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Anlage UN </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein"><lxbase:fett>3. Abgabenrechtliche Wirkung der
+Umsatzsteuererklärung</lxbase:fett> </lxbase:a><lxbase:a eingerueckt="nein">Umsatzsteuererklärungen (USt-Erklärungen)
+sind Steueranmeldungen im Sinne des § 150 Abs. 1 Satz 2
+AO. Sie können zustimmungsbedürftig oder nicht
+zustimmungsbedürftig sein (§ 168 AO). </lxbase:a><lxbase:a eingerueckt="nein">Nicht zustimmungsbedürftige
+Steueranmeldungen stehen mit dem Tag des Eingangs beim Finanzamt
+einer Steuerfestsetzung unter Vorbehalt der Nachprüfung
+gleich. </lxbase:a><lxbase:a eingerueckt="nein">Zustimmungsbedürftige Steueranmeldungen
+stehen mit Erteilung der Zustimmung durch das Finanzamt einer Steuerfestsetzung
+unter Vorbehalt der Nachprüfung gleich. </lxbase:a><lxbase:a eingerueckt="nein">Ein Steuerbescheid ist nur zu erteilen,
+wenn die Umsatzsteuer abweichend von der USt-Erklärung
+(Steueranmeldung) festgesetzt wird (§ 167 Abs. 1 S. 1 AO). Die
+USt-Erklärung enthält deshalb folgenden Hinweis
+für den Unternehmer: "Ein Umsatzsteuerbescheid
+ergeht nur, wenn von Ihrer Berechnung der Umsatzsteuer abgewichen
+wird." </lxbase:a><lxbase:a eingerueckt="nein">Eine Zustimmung ist erforderlich bei
+Herabsetzung der "verbleibenden Umsatzsteuer" (Zeile
+105 der USt-Erklärung) gegenüber dem Vorauszahlungssoll
+(Beispiel 1) und bei Anträgen auf eine Festsetzung mit
+einem Vorsteuerüberschuß (§ 155 Abs.
+1 und 6 AO) (Beispiel 2), gleichgültig, ob sich gegenüber den
+Vorsteuerüberschüssen aus dem Voranmeldungsverfahren
+eine (weitere) Erstattung oder eine Abschlußzahlung (Beispiel
+3) ergibt. </lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="40*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:colspec colnum="3" colname="3" colwidth="20*" /><cals:colspec colnum="4" colname="4" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>1</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>2</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>3</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>DM</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>DM</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>verbleibende USt / verbleibender Überschuß</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>800</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>- 200</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>- 600</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Vorauszahlungssoll</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>1.000</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>0</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>- 400</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Erstattungsanspruch / Abschlußzahlung</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>- 200</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>- 200</lxbase:a></cals:entry><cals:entry colname="4" align="center"><lxbase:a>- 200</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a eingerueckt="nein">Wenn das Finanzamt nicht von der USt-Erklärung
+abweicht, erhält der Steuerpflichtige eine Abrechnungsmitteilung. Erfolgt
+die Abrechnung noch über das Projekt 713, so ist die USt-Erklärung
+mit 027 zu kontieren, damit der Ausdruck eines Kontoauszugs erfolgt. </lxbase:a><lxbase:a eingerueckt="nein"><lxbase:fett>4. Festsetzung der Umsatzsteuer
+durch den Teilbezirk</lxbase:fett> </lxbase:a><lxbase:a eingerueckt="nein">Die Umsatzsteuer ist zusammen mit der
+jeweiligen Leitveranlagung (ESt oder Gewinnfeststellung) zu bearbeiten. Von
+diesem Grundsatz der Gesamtbearbeitung des Steuerfalls ist abzusehen, </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">a)
+in Fällen des verkürzten Besteuerungszeitraums
+(§§ 16 Abs. 3, 18 Abs. 3 Satz 2 UStG) und </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">b) bei zustimmungsbedürftigen
+USt-Erklärungen, wenn Erstattungsansprüche erklärt
+werden. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Eine Überprüfung der
+USt-Erklärung ist geboten, wenn sich erhebliche Differenzen
+zwischen der Umsatzsteuer lt. USt-Erklärung und der Umsatzsteuer
+lt. Voranmeldungen ergeben. Eine überschlägige
+Abgleichung läßt sich aus der Summenspalte des
+jeweils beigefügten USt-Überwachungsbogens USt
+1 OE herleiten; ggf. ist beim Steuerpflichtigen gezielt nachzufragen
+(z. B. wesentliche Erhöhung der steuerpflichtigen Umsätze
+laut USt-Erklärung; Erhöhung des Anteils ermäßigter
+Umsätze bei etwa gleichem Gesamtumsatz; Erhöhung
+der Vorsteuerbeträge). Bei einer groben Überprüfung
+der </lxbase:a><lxbase:a eingerueckt="nein">USt-Erklärung sollte auch eine
+Verprobung des Vorsteuerabzugs und der Umsätze erfolgen. Die
+höchstmögliche Vorsteuer läßt
+sich anhand der Angaben in der Verlust- und Gewinnanrechnung oder
+in der Einnahmenüberschußrechnung (für
+das 2. Halbjahr 1990) ermitteln. </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">a)
+Anlagenzugänge und Sachaufwand mit Vorsteuer </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">b) Privateinlagen und Sachaufwand
+ohne Vorsteuer (z. B. Personalkosten, Abschreibungen, Porto, Telefon,
+betriebliche Steuern, Gebühren und Versicherungen) </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Bei der Umsatzverprobung ist auf die
+jeweilige Besteuerungsart abzustellen. Bei Sollversteuerung
+(Besteuerung nach vereinbarten Entgelten) sind anzusetzen: </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>Erlöse lt. V + G
+(einschließlich Hilfsumsätze)
+<lxbase:za />./.
+Erlösschmälerungen (Skonti, Boni)
+<lxbase:za />./.
+halbfertige Arbeiten
+<lxbase:za /> + Anzahlungen im Rahmen der Mindest-Istversteuerung
+<lxbase:za />./.
+nicht umsatzsteuerbare Einnahmen (z. B. Schadenersatz, Auslandsumsätze;
+vgl. Zeile 205 Anlage UR)</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Bei Istversteuerung (Besteuerung nach vereinnahmten Entgelten)
+sind anzusetzen (nach dem 30. 6. 1990 vereinnahmte Entgelte für
+vor dem 1. 7. 1990 ausgeführte Umsätze sind nicht
+zu berücksichtigen):</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>Erlöse lt. V + G
+(einschließlich Hilfsumsätze)
+<lxbase:za />./.
+Forderungen (netto) bis zum 31. 12. 1990
+<lxbase:za />./. Erlösschmälerungen
+<lxbase:za />./.
+nicht umsatzsteuerbare Einnahmen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Außerdem sollten die Angaben eines Unternehmers zum
+Eigenverbrauch überprüft und ggf. ergänzt
+werden. Zur Bemessungsgrundlage wird auf Abschnitt 155
+UStR und die Angaben in der Erläuterung zur USt-Erklärung verwiesen. Für
+das 2. Halbjahr 1990 können die von der Richtsatzgruppe Süd
+erarbeiteten Eigenverbrauchspauschbeträge mit einem Wertansatz
+von 70 % bzw. 50 % für die folgenden
+Gewerbebereiche berücksichtigt werden:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Bäckerei</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Gast- und Speisewirtschaft</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Konditorei</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Metzgerei</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Einzelhandel</lxbase:a><lxbase:a>- Milch, Milcherzeugnisse, Fettwaren und Eier</lxbase:a><lxbase:a>- Nahrungs- und Genußmittel verschiedener Art</lxbase:a><lxbase:a>- Obst und Gemüse, Südfrüchte und
+Kartoffeln.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Beim Verwendungseigenverbrauch (Abschnitt
+9 Abs. 2 UStR) gehört die auf die Verwendung für
+unternehmensfremde Zwecke entfallende Absetzung für Abnutzung
+nicht zur Bemessungsgrundlage, wenn der Gegenstand vom Unternehmer
+selbst aus seinem nichtunternehmerischen Bereich in das Unternehmen eingelegt
+wurde oder der Gegenstand </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>von einem Nichtunternehmer, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>aus dem nichtunternehmerischen Bereich eines
+anderen Unternehmers, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>aufgrund einer nach § 4 Nr. 7 bis
+28 UStG steuerfreien Lieferung oder </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>von einem unter die Regelung des § 19
+Abs. 1 UStG fallenden Kleinunternehmer erworben wurde. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Die anderen Kosten i. S. des § 10 Abs. 4 Nr. 2 UStG
+gehören auch dann zur Bemessungsgrundlage, wenn für
+sie kein Recht zum Vorsteuerabzug besteht (z. B. beim Kraftfahrzeug,
+Versicherungsprämien, Kraftfahrzeugsteuer und Garagenmiete). Wurde
+ein Telefonanschluß dem Unternehmen zugeordnet, unterliegt
+die private Nutzung der Umsatzsteuer einschließlich der
+(bei der Telekom erst ab 1. 1. 1996 steuerpflichtigen) Fernsprechgebühren. Die Vorschrift
+des § 15a UStG kommt im Besteuerungszeitraum 1990 nur dann
+zur Anwendung, wenn ein im 2. Halbjahr 1990 angeschafftes oder hergestelltes Wirtschaftsgut
+im gleichen Zeitraum veräußert oder zum Eigenverbrauch
+entnommen worden ist und dieser Umsatz für den Vorsteuerabzug
+anders zu behandeln ist als die erstmalige Verwendung (Abschn. 215
+Abs. 1 UStR). </lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Sonstiges Steuerrecht</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:deskriptoren> kw49-91 </lxbase:deskriptoren></lxbase:allgemeine-angaben></lxrvw:rspvwa>

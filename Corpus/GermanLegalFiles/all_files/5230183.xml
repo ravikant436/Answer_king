@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Erlass" dok-typ="Verwaltungsanweisung" dok-nummer="5230183" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Koblenz</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2532 A - St 31 2</lxbase:aktenzeichen><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2006-06-08" ts="nein" /></lxbase:daten><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:Allgemein</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2006" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Vordrucke für die personelle Einkommensteuerveranlagung
+unbeschränkt und beschränkt Steuerpflichtiger
+sowie für die personelle gesonderte bzw. gesonderte und
+einheitliche Feststellung für 2005;</lxbase:a><lxbase:a>Bezug: Veranlagungsverfügung vom 01.02.2006 - S 2319
+A - St 31 2 -</lxbase:a></lxbase:headline></lxbase:titel><lxbase:kapitel><lxbase:a>Ergänzend zur o. a. Veranlagungsverfügung teile
+ich Folgendes mit:</lxbase:a><lxbase:a>Die für die Durchführung der personellen Einkommensteuerveranlagungen
+und Feststellungen neu aufgelegten Vordrucke wurden an die ab 2005
+geltende Rechtslage angepasst.</lxbase:a><lxbase:a><lxbase:fett>a) Unveränderte Vordrucke</lxbase:fett></lxbase:a><lxbase:a>Folgende jahresneutrale Vordrucke sind inhaltlich gegenüber
+dem Jahr 2004 nicht geändert worden und können
+weiterhin verwendet werden:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="6*" /><cals:colspec colnum="2" colname="2" colwidth="29*" /><cals:colspec colnum="3" colname="3" colwidth="65*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>1.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Anlage ESt 2 L/3 L (2002)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>- Gewinnermittlung nach § 13a EStG</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>2.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>ESt 5 A (2004)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>- Anfrage/Mitteilung bei getrennter
+Veranlagung</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>3.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>ESt 5 B (2004)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>- Anfrage nach Besteuerungsgrundlagen</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>4.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>ESt 7 A (2004)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>- Überwachungsbogen Gebäude</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>5.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>ESt 7g (2003)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>- Ansparabschreibungen nach § 7g EStG</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>6.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>ESt 14a (2002)</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>- Überwachungsbogen zu § 14a
+Abs. 4 EStG</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:fett>b) Geänderte Vordrucke</lxbase:fett></lxbase:a><lxbase:a>Nach der im Mai 2005 veröffentlichten Neuausgabe der
+DIN<lxbase:az normform="5008/20" manuell="nein"> 5008/20</lxbase:az>05-05
+ist auf die bisher geltende Einfügung einer Leerzeile als
+Vorgabe bei Adressen im Schriftverkehr zu verzichten, so dass die
+bislang ausgewiesene Leerzeile im Anschriftenblock der Vordrucke
+entfernt wurde.</lxbase:a><lxbase:a>Im Übrigen gebe ich zu den wesentlichen Änderungen
+gegenüber dem Vorjahr folgende Erläuterungen:</lxbase:a><lxbase:a>1. <lxbase:fett>ESt 2 A</lxbase:fett> - (Berechnungsbogen - unbeschränkt
+Stpfl.)</lxbase:a><lxbase:a>Durch das AltEinkG wurde die Anpassung der Zeilen 16 bis 22 erforderlich.
+In den Zeilen 19 und 20 sind nunmehr der Versorgungsfreibetrag und
+der Zuschlag zum Versorgungsfreibetrag vorgesehen. Da für
+begünstigte Versorgungsbezüge ab 2005 ein Pauschbetrag
+von 102 € nach § 9a Satz 1 Nr. 1b EStG gewährt wird,
+war eine geänderte Ermittlung der Einkünfte aus
+nichtselbständiger Arbeit erforderlich.</lxbase:a><lxbase:a>Die sonstigen Einkünfte wurden in den Zeilen 28 bis
+41 (alt) um die Kohortenbesteuerung nach § 22 Nr. 1 Satz
+3 Buchstabe a Doppelbuchstabe aa EStG (Zeilen 28 bis 30 neu) ergänzt.
+In Zeile 31 wurde dabei der Zeilentext geändert in "Ertragsanteil(e)
+der Leibrente(n) i. S. d. § 22 Nr. 1 Satz 3 Buchstabe a
+Doppelbuchstabe bb". Außerdem wurde mit einer neuen Fußnote
+11a) auf die Fälle der Öffnungsklausel hingewiesen.</lxbase:a><lxbase:a>Zeile 42 ist mit "Versorgungsfreibetrag" überschrieben.
+Fußnote 15 verweist auf § 52 Abs. 34b EStG, der
+wiederum auf § 19 Abs. 2 EStG Bezug nimmt. In Zeile 42
+ist daher nicht nur der Versorgungsfreibetrag, sondern auch der Zuschlag
+zum Versorgungsfreibetrag zu berücksichtigen.</lxbase:a><lxbase:a>In Zeile 59 wurde der durch das AltEinkG verminderte Altersentlastungsbetrag (Höchstbetrag)
+ausgewiesen.</lxbase:a><lxbase:a>In Zeile 64 wurde das Wort "Verlustabzug" durch "Verlustvortrag"
+ersetzt, da nach § 10d Abs. 4 EStG der verbleibende Verlustvortrag
+zum 31.12. des Vorjahres festgestellt wird.</lxbase:a><lxbase:a>Zeile 75 (Hinzurechnung der Altersvorsorgezulage zur Ermittlung
+nach § 10a EStG begünstigter Beiträge)
+wurde um den Begriff "Anspruch auf" vervollständigt.</lxbase:a><lxbase:a>Aufgrund der Änderungen durch R 2 Abs. 2 EStR 2005 (Berechnungsschema) wurden
+die Zeilen 185 und 186 (Ausländische Steuern und Minderungsbetrag nach
+DBA-Belgien) getauscht.</lxbase:a><lxbase:a>Aufgrund der ZIV und der darin geregelten Anrechnung ausländischer
+Steuern nach § 14 Abs. 2 ZIV i. V. m. §§ 36
+und 34c EStG, kann in Zeile 222 die anzurechnende ausländische
+Quellensteuer nach der ZIV erfasst werden.</lxbase:a><lxbase:a>Die Zeilen 406 bis 414 und 421 bis 428 (alt) wurden aufgrund
+der Umstellung der Berechnungsweise der Kirchensteuer bei Zusammenveranlagung
+glaubensverschiedener Ehegatten mit Einkünften nach dem
+Halbeinkünfteverfahren angepasst. Die Berechnung wird nunmehr
+in den Zeilen 406 bis 418 und 425 bis 436 (für Vorauszahlungszwecke)
+neu dargestellt.</lxbase:a><lxbase:a>Durch das AltEinkG mussten die Vorsorgeaufwendungen in den Zeilen
+510 bis 573 (alt) neu gestaltet werden. Die Zeilen 510 bis 531a
+stellen dabei das geltende Recht ab 2005 hinsichtlich der Ermittlung
+der Vorsorgepauschale dar, die sich anschließenden Zeilen
+532 bis 572 die Berechnung der Vorsorgepauschale nach dem EStG in
+der für 2004 geltenden Fassung (§ 10c Abs. 5 EStG
+i. V. m. § 10c Abs. 2 bis 4 EStG i. d. F. 2004).</lxbase:a><lxbase:a>Die Zeilen 573 bis 590 stellen die Höchstbetragsberechnung
+ab 2005 (§ 10 Abs. 3 und 4 EStG) dar, die Zeilen 591 bis
+608 die Höchstbetragsberechnung nach § 10 Abs.
+4a EStG i. V. m. § 10 Abs. 3 EStG i. d. F. 2004. Die Günstigerprüfungen
+nach § 10 Abs. 4a und § 10c Abs. 5 EStG erfolgen
+in Zeile 73.</lxbase:a><lxbase:a>Zeile 577 wurde um Fußnote 34a) erweitert und lautet
+wie folgt: "Eine Kürzung erfolgt nicht, wenn der Stpfl.
+nur deshalb zum Personenkreis des § 10c Abs. 3 Nr. 2 EStG
+gehört, weil er Anwartschaftsrechte durch nach § 3
+Nr. 63 EStG steuerfreie Beträge erworben hat." Die Erläuterung
+geht auf Rz. 29 des BMF-Schreibens vom 24.02.2005 (BStBl I S. 429)
+zurück und dient der Abgrenzung zur Handhabung bei der
+Vorsorgepauschale, da der angesprochene Personenkreis nur die gekürzte
+Vorsorgepauschale beanspruchen kann.</lxbase:a><lxbase:a>Der Vorläufigkeitskatalog in Abschnitt B wurde aktualisiert
+und berücksichtigt den Katalog der Vorläufigkeiten
+mit Stand Oktober 2005. Die "Anwendung des § 24b EStG (Entlastungsbetrag
+für Alleinerziehende)" wurde in den Katalog aufgenommen
+(BMF-Schreiben vom 02.11.2005, <lxprod:doknr-verw linkend="HT0579479">BStBl I S. 952</lxprod:doknr-verw>). Zwischenzeitlich
+eingetretene Änderungen sind noch nicht eingearbeitet und
+müssen bei Bedarf ergänzt werden (zum aktuellen Stand
+vgl. Rdvfg. vom 14.03.2006 - S 0338 A - St 35 2 -).</lxbase:a><lxbase:a>Fußnote 6 (an "Begünstigte Versorgungsbezüge"
+in Zeile 18) wurde um den Text "und Nachzahlungen für mehrere
+Jahre" ergänzt. Die Fußnoten 8 (Zwölftelung
+der Freibeträge für Versorgungsbezüge
+bei Nichtvorliegen der Gewährungsvoraussetzungen) und 9
+(Ausschluss negativer Einkünfte bei Versorgungsbezügen
+durch Abzug des Zuschlags zum Versorgungsfreibetrag) wurden aufgrund
+des AltEinkG neu aufgenommen, die neuen Fußnoten 12 (10 alt)
+und 34 (30 alt) wurden ergänzt. Fußnote 15) ist
+wie folgt ergänzt worden: "Nur in den Fällen des § 52
+Abs. 34b Satz 1 EStG, soweit nicht in den Zeilen 19 und 39 abgesetzt."
+Dies soll sicherstellen, dass die Freibeträge für
+Versorgungsbezüge insgesamt nur bis zum Höchstbetrag
+gewährt werden. Die übrigen Fußnoten
+wurden neu durchnummeriert.</lxbase:a><lxbase:a>2. <lxbase:fett>ESt 3 A</lxbase:fett> - (Bescheid - unbeschränkt Stpfl.)</lxbase:a><lxbase:a>Die im Berechnungsbogen "ESt 2 A" vorgenommenen Änderungen
+wurden im personellen ESt-Bescheid "ESt 3 A" nachvollzogen. Darüber
+hinaus wurde die Rechtsbehelfsbelehrung aktualisiert.</lxbase:a><lxbase:a>3. <lxbase:fett>ESt 2 B/3 B </lxbase:fett>- (Feststellungsbogen/-bescheid)</lxbase:a><lxbase:a>Für die geändert aufgelegten Vordrucke "ESt
+4 B-FE-K 1 und 2" wurden im Bereich A. (Feststellungen) Anlagensicherungen
+geschaffen.</lxbase:a><lxbase:a>Entsprechend dem Vordruck "ESt 1 B" wurde auch hier ein Ankreuzfeld
+für "Gesellschaften S. d. § 15 Abs. 4 Sätze
+6 bis 8 EStG" geschaffen.</lxbase:a><lxbase:a>Im Teil B. (Begründung und Nebenbestimmungen) wurden
+hinsichtlich der Anwendung der durch das HBeglG 2004 geänderten
+Vorschriften sowie hinsichtlich der Nichtberücksichtigung
+pauschaler Werbungskosten bzw. Betriebsausgaben in Höhe
+der steuerfreien Aufwandsentschädigung nach § 12
+des Gesetzes über die Rechtsverhältnisse der MdB
+Vorläufigkeitsvermerke vorgesehen (vgl. BMF-Schreiben vom
+02.11.2005).</lxbase:a><lxbase:a>Im Bereich C. (Nachrichtliche Angaben) des Vordrucks "ESt 2 B"
+wurde in Zeile 5 die Fußnote 3 entfernt, da die Aufteilung
+des Gewerbebesteuerungsmessbetrags auf der "Anlage FE-1" nicht mehr
+möglich ist. Die Fußnote wurde entsprechend angepasst.</lxbase:a><lxbase:a>In Zeile 7 wurde die Formulierung i. S. d. § 9 Abs.
+2 Satz 2 EigZulG" nach dem Begriff "Altbau" entfernt.</lxbase:a><lxbase:a>Die Rechtsbehelfsbelehrung im Vordruck "ESt 3 B" wurde angepasst.</lxbase:a><lxbase:a><lxbase:fett>4. Anlagen zum Vordruck ESt 2 B/3 B</lxbase:fett></lxbase:a><lxbase:a>Die Vordrucke <lxbase:fett>"ESt 4 B-FE 1", "ESt 4 B-FE 2/3",
+"ESt 4 B-FE KAP", "ESt 4 B-FE AUS 1/2", und "ESt 4 B-FE
+K 1/2"</lxbase:fett> wurden inhaltlich an die Muster 2005 der <lxbase:unterst>Anlagen</lxbase:unterst> "FE
+1", "FE 2", "FE 3", "FE-AUS 1", "FE-AUS 2", "FE-KAP", "FE-K 1" und
+"FE-K 2" angeglichen.</lxbase:a><lxbase:a>Der Inhalt der "Anlage FE-K 2" wurde auf der Rückseite
+der neuen Anlage "ESt 4 B-FE K 1/2" untergebracht.</lxbase:a><lxbase:a>Im Vordruck <lxbase:fett>"ESt 4 B-FE K 1/2"</lxbase:fett> sind die
+Zeilen 4 bis 8 (Zuwendungen in den Vermögensstock einer
+Stiftung) entfallen, da diese bereits auf Seite 1 der "Anlage FE
+3" und damit auf der Rückseite der "Anlage ESt 4 B-FE 2/3"
+enthalten sind.</lxbase:a><lxbase:a>5. <lxbase:fett>ESt 2 C/3 C/4 C-</lxbase:fett> (Gesonderte
+Feststellung des Gewinns)</lxbase:a><lxbase:a>Aufgrund der ZIV wurde auf der jeweiligen Seite 2 eine Eintragungsmöglichkeit
+für die Anrechnung der ausländischen Quellensteuern
+nach der ZIV geschaffen.</lxbase:a><lxbase:a>Im Teil B. (Begründung und Nebenbestimmungen) wurden
+hinsichtlich der Anwendung der durch das HBeglG 2004 geänderten
+Vorschriften sowie hinsichtlich der Nichtberücksichtigung
+pauschaler Werbungskosten bzw. Betriebsausgaben in Höhe
+der steuerlichen Aufwandsentschädigung nach § 12
+des Gesetzes über die Rechtsverhältnisse der MdB
+Vorläufigkeitsvermerke vorgesehen (vgl. zum Vordruck "ESt
+2 B/3 B").</lxbase:a><lxbase:a>Um dem Platzbedarf gerecht zu werden, wurde die Spalte für
+die anzurechnende Körperschaftsteuer entfernt und ein Hinweis
+in die Fußnote 6 aufgenommen.</lxbase:a><lxbase:a>Die Rechtsbehelfsbelehrung im Vordruck "ESt 3 C" wurde angepasst.</lxbase:a><lxbase:a>6. <lxbase:fett>ESt 2 D/3 D (2005)</lxbase:fett> - (Verlustfeststellungsbogen/-bescheid)</lxbase:a><lxbase:a>Der bisherige Verfügungspunkt 5 wird durch Zeitablauf
+nicht mehr benötigt. Hier war bis VZ 2004 zu vermerken,
+in welchem Umfang Rücktragsvolumen nach § 10d
+EStG (511.500 Euro-Grenze) bisher verbraucht wurde.</lxbase:a><lxbase:a>Die Rechtsbehelfsbelehrung wurde aktualisiert.</lxbase:a><lxbase:a>7. <lxbase:fett>ESt 2 E/3 E</lxbase:fett> - (Gesonderte Feststellungen
+nach § 2a EStG)</lxbase:a><lxbase:a>Mit Urteil vom 30.06.2005 - <lxprod:doknr-verw linkend="HT5000520">IV R 31/04</lxprod:doknr-verw> - (BStBl II S. 641)
+hat der BFH entgegen der bisherigen Verwaltungsauffassung entschieden,
+dass auch solche negativen ausländischen Einkünfte,
+die in den VZ 1985 bis 1991 entstanden sind und bis zum VZ 1991
+einschließlich nicht ausgeglichen wurden, nach § 2a
+EStG i. d. F. des StÄndG 1992 zeitlich unbegrenzt vorgetragen
+werden dürfen. Die Zeilen 3, 11 und 19 wurden entsprechend
+angepasst.</lxbase:a><lxbase:a>Die Rechtsbehelfsbelehrung wurde aktualisiert.</lxbase:a><lxbase:a>Der Vordruck ESt 2 E/3 E steht in Kürze als
+Word-Vorlage zur Verfügung.</lxbase:a><lxbase:a>8. <lxbase:fett>ESt 2 G </lxbase:fett>- (Berechnungsbogen - beschränkt
+Stpfl.)</lxbase:a><lxbase:a>Durch das AltEinkG wurde eine Erweiterung der Zeilen bei Berechnung
+der Einkünfte aus nichtselbständiger Arbeit (Zeilen
+13 bis 19) erforderlich. Nach § 19 Abs. 2 EStG sind ein
+geänderter Versorgungsfreibetrag und ein Zuschlag zum Versorgungsfreibetrag
+zu berücksichtigen (Zeilen 16 und 17). Da für begünstigte
+Versorgungsbezüge ab 2005 nur noch ein Pauschbetrag von
+102 € nach § 9a Satz 1 Nr. 1b EStG gewährt
+wird, war eine geänderte Darstellung zur Ermittlung der
+Einkünfte aus nichtselbständiger Arbeit erforderlich.</lxbase:a><lxbase:a>In Zeile 24 (neu) wurde eine Eintragungsmöglichkeit
+für die Einkünfte i.S.d. § 49 Abs. 1
+Nr. 7 EStG (z. B. Renten aus gesetzlichen Rentenversicherungen) geschaffen.</lxbase:a><lxbase:a>Durch das AltEinkG mussten die Zeilen 44 bis 61 (alt) umgestaltet
+werden. In den Zeilen 44 bis 52 wird dabei die Berechnung der ungekürzten
+und gekürzten Vorsorgepauschale nach § 10c Abs.
+2, Abs. 3 und Abs. 4 EStG dargestellt. Die sich anschließenden
+Zeilen 53 bis 70 stellen die Berechnung der Vorsorgepauschale nach
+dem EStG in der für 2004 geltenden Fassung nach § 10c
+Abs. 5 EStG (§ 10c Abs. 2, Abs. 3 EStG i. d. F. 2004) dar.</lxbase:a><lxbase:a>In Zeile 72 wurde das Wort "Verlustabzug" durch "Verlustvortrag"
+ersetzt, da nach § 10d Abs. 4 EStG der verbleibende Verlustvortrag
+zum 31.12. des Vorjahres festgestellt wird.</lxbase:a><lxbase:a>Der Text der Zeile 165 wurde umgestaltet, da er bisher zu einem
+falschen steuerlichen Ergebnis führen konnte. Die Zeile
+enthält nunmehr folgenden Text: "Kleinerer Betrag aus Zeile
+84 oder 86".</lxbase:a><lxbase:a>Aufgrund der Änderungen durch R 2 Abs. 2 EStR 2005 wurden
+die Zeilen 169 und 170 (Ausländische Steuern und Minderungsbetrag
+nach DBA-Belgien) getauscht.</lxbase:a><lxbase:a>Aufgrund der ZIV und der darin geregelten Anrechnung ausländischer
+Steuern nach § 14 Abs. 2 ZIV i. V. m. §§ 36
+und 34c EStG kann in der neuen Zeile 193 die anzurechnende ausländische
+Quellensteuer nach der ZIV erfasst werden.</lxbase:a><lxbase:a>Der Vorläufigkeitskatalog wurde in Abschnitt B an den
+durch BMF-Schreiben vom 02.11.2005 bekannt gegebenen Katalog angepasst.</lxbase:a><lxbase:a>Die Fußnoten 5 und 6 (zu den Freibeträgen für
+Versorgungsbezüge) wurden aufgrund des AltEinkG neu aufgenommen,
+die übrigen Fußnoten wurden neu durchnummeriert.</lxbase:a><lxbase:a>9. <lxbase:fett>ESt 3 G </lxbase:fett>- (Bescheid - beschränkt Stpfl.)</lxbase:a><lxbase:a>Die im Berechnungsbogen "ESt 2 G" vorgenommenen Änderungen
+wurden im personellen ESt-Bescheid "ESt 3 G" nachvollzogen. Darüber
+hinaus wurde die Rechtsbehelfsbelehrung angepasst.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Rheinland-Pfalz</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

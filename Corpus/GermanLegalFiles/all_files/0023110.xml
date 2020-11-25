@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0023110" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Kiel</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2319 / S-2230 A - St 110</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2230 - 19 - St 22 2</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2230 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2319</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2230</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1976-01-05" /><lxbase:datum normdat="1979-01-24" ts="ja" /></lxbase:daten><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>für Veranlagungszeitraum 1976 bleiben die Grundsätze
+anwendbar gemäß der Verfügung der OFD
+Saarbrücken <lxbase:az normform="S2230 13St222" manuell="nein">S-2230
+- 13 - St 222</lxbase:az> v. 13. 4. 1978; </lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:redakt><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="19*" /><cals:colspec colnum="2" colname="2" colwidth="81*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Bibliographie der inhaltlich
+entsprechenden Verwaltungsanweisungen:</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Saarland</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Saarbrücken S-2230 - 19 - St
+22 2 vom 24.01.1979</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:10</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:13</lxbase:norm-kuerzel><lxbase:norm-kuerzel>EStG:13a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>GDL:12</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1976" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Veranlagung der nichtbuchführungspflichtigen
+Land- und Forstwirte zur Einkommensteuer für das Kalenderjahr
+1974; hier: Veranlagung nach § 13a EStG</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000001"><lxbase:a>1. Allgemeines </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000002"><lxbase:a>1.1 Abweichungen
+gegenüber dem GDL</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000003"><lxbase:a>1.2 Zeitlicher
+Geltungsbereich</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000004"><lxbase:a>1.3 Persönlicher
+Anwendungsbereich (§ 13a Abs. 1 Satz 1 EStG)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000005"><lxbase:a>1.4 Antrag
+zur Ausübung des Wahlrechts zur anderweitigen Gewinnermittlung
+(§ 13a Abs. 1 Satz 2 EStG) </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000006"><lxbase:a>2. Ermittlung
+des Gewinns nach § 13a Abs. 2 - 6 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000007"><lxbase:a>3. Grundbetrag
+(§ 13a Abs. 3 EStG) </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000008"><lxbase:a>4. Wert der
+Arbeitsleistung (§ 13a Abs. 4 EStG)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000009"><lxbase:a>5. Wert der
+Arbeitsleistung für die Betriebsleistung (§ 13a
+Abs. 4 Ziff. 1 b EStG) </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000010"><lxbase:a>6. Vereinnahmte
+Pachtzinsen (§ 13a Abs. 2 Ziff. 3 i. V. m. Abs. 5 Satz
+3 EStG) </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000011"><lxbase:a>7. Zuschläge
+(§ 13 Abs. 6 EStG)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000012"><lxbase:a>8. Nutzungswert
+der Wohnung (§ 13a Abs. 2 Ziff. 5 EStG)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000013"><lxbase:a>9. Absetzungen
+vom Grundbetrag (§ 13a Abs. 2 Satz 2 EStG)</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000014"><lxbase:a>9.1 Verausgabte
+Pachtzinsen (§ 13a Abs. 5 Satz 1 u. 2 EStG) </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000015"><lxbase:a>9.2 Schuldzinsen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000016"><lxbase:a>9.3 Dauernde
+Lasten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000017"><lxbase:a>10. Zweifelsfragen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000018"><lxbase:a>Zusatz der
+OFD Saarbrücken: </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000019"><lxbase:a>10. Sonderabschreibungen </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000020"><lxbase:a>10.1 Erhöhte
+Absetzungen nach § 7b EStG </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000021"><lxbase:a>10.2. Erhöhte
+Absetzungen nach § 7d EStG </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000022"><lxbase:a>II. Schätzungslandwirte </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000023"><lxbase:a>III. Buchführende
+Land- und Forstwirte </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000024"><lxbase:a>1. Allgemeines </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000025"><lxbase:a>2. Nutzungswert
+der eigenen Wohnung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000026"><lxbase:a>3. Pauschbeträge
+für den Eigenverbrauch und die Beköstigung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000027"><lxbase:a>IV. Schlußbemerkungen </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000028"><lxbase:a>1. Antrag auf
+Verlängerung der gesetzlichen Ausschlußfrist des § 55
+Abs. 5 EStG </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000029"><lxbase:a>2. Sonderabschreibung
+gem. §§ 76 - 78 EStDV </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D002311000030"><lxbase:a>3. Altenteilsleistungen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D002311000001">1. Allgemeines </lxbase:ueberschrift><lxbase:a>Die Vorschrift des § 13a EStG ersetzt das GDL vom 15.
+9. 1965; sie ist nach ihrer Systematik im wesentlichen dem GDL vergleichbar.
+Die Ermittlung des Gewinns erfolgt nach Durchschnittsätzen
+auf der Grundlage der nach den Wertverhältnissen vom 1.
+1. 1964 festgestellten Einheitswerte der Betriebe der Land- und
+Forstwirtschaft. Mit den Durchschnittsätzen wird der Gewinn
+i. S. des § 4 Abs. 1 EStG erfaßt (vgl. die zur
+VOL ergangenen BFH-Urteile vom 5. 11. 1964, <lxbase:lit-fs normform="bstbl-1964-ii-0602" manuell="nein">BStBl II S.
+602</lxbase:lit-fs>; vom 3. 6. 1965, <lxprod:doknr-verw linkend="HT0000491">BStBl III S. 576</lxprod:doknr-verw>). Die vom Bundesfinanzhof
+zum Wesen der VOL und des GDL aufgestellten Grundsätze
+gelten auch für die Vorschriften des § 13a EStG. </lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D002311000002">1.1 Abweichungen gegenüber
+dem GDL</lxbase:ueberschrift><lxbase:a>§ 13a EStG weicht jedoch u. a. in folgenden Punkten
+von der bisher angewandten Durchschnittsbesteuerung nach § 12
+GDL ab: </lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>das Wahlrecht zum Übergang
+auf eine Buchführung ist erweitert worden. Außer
+dem Übergang zur Gewinnermittlung durch Betriebsvermögensvergleich
+ist nunmehr auch der Übergang zur Einnahmeüberschußrechnung möglich
+(§ 13 Abs. 1 Ziff. 2). </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Der Nutzungswert der Wohnung des Betriebsinhabers
+ist mit einem Achtzehntel des im Einheitswert besonders ausgewiesenen
+Wohnungswerts zu erfassen (§ 13a Abs. 2 Ziff. 5 EStG). </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>Der Gewinn nach § 13a EStG ist
+für jedes Wirtschaftsjahr neu zu ermitteln und der Besteuerung
+zugrunde zu legen. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d."><lxbase:a>Die Vorschriften des § 7 GDL (Geltungsdauer
+der Gewinnermittlung), § 9 (Geltungsdauer der Steuerfestsetzung), § 10
+(Steuererlaß in außergewöhnlichen Fällen)
+sowie die Übergangsvorschriften der §§ 11
+und 12 GDL sind als entbehrlich nicht in § 13a EStG übernommen
+worden. </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e."><lxbase:a>Ein Zuschlag für übernormale
+Tierhaltung ist nicht mehr zulässig (§ 13 Abs. 3
+Ziff. 1 Buchst. a EStG). </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="f."><lxbase:a>Als Grundbetrag ist der zwölfte
+Teil des Ausgangswerts anzusetzen. Der Ausgangswert ergibt sich
+aus dem Einheitswert des Betriebes (§ 13a Abs. 3 EStG). </lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000003">1.2 Zeitlicher Geltungsbereich</lxbase:ueberschrift><lxbase:a>Die Vorschrift des § 13a EStG ist erstmals für
+Wirtschaftsjahre anzuwenden, die nach dem 31. 12. 1973 beginnen
+(§ 52 Abs. 15 EStG 1974). Das ist in der Regel das Wirtschaftsjahr
+<lxbase:az normform="1974/75" manuell="nein">1974/75</lxbase:az>. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000004">1.3 Persönlicher
+Anwendungsbereich (§ 13a Abs. 1 Satz 1 EStG)</lxbase:ueberschrift><lxbase:a>Bei Land- und Forstwirten, die weder zur Führung von
+Büchern verpflichtet sind, noch innerhalb der Ausschlußfrist
+einen Antrag nach § 13a Abs. 1 Satz 2 EStG gestellt haben,
+ist der Gewinn nach § 13a Abs. 2 - 6 EStG zu ermitteln, wenn
+sich ein Grundbetrag (§ 13a Abs. 3 EStG) von mehr als Null
+DM ergibt. Liegt ausschließlich oder fast ausschließlich
+Forstwirtschaft, Gartenbau oder eine sonstige land- und forstwirtschaftliche
+Betätigung vor, so kommt eine Gewinnermittlung nach § 13a
+EStG nicht in Betracht. </lxbase:a><lxbase:a>Beim Übergang zur Buchführungspflicht nach § 161
+Abs. 1 Nr. 1 AO beginnt diese im allgemeinen erst, nachdem das Finanzamt
+auf den Zeitpunkt des Beginns durch besondere Mitteilung hingewiesen
+hat (BFH-Urteil vom 9. 5. 1957, <lxprod:doknr-verw linkend="HT0006387">BStBl III 291</lxprod:doknr-verw>; Abschn. 127 Abs. 1
+Sätze 2 u. 3 EStR; FinMin-Erl. vom 21. 5. 1974 - <lxbase:az normform="S1160" manuell="nein">S-1160</lxbase:az>
+a - L VI 32 a, mitgeteilt durch Rdvfg. vom 9. 7. 1974 - <lxbase:az normform="S1160" manuell="nein">S-1160</lxbase:az> a
+A - St 251). Dies gilt auch dann, wenn die Land- und Forstwirte
+von Angehörigen der steuerberatenden Berufe betreut werden. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000005">1.4 Antrag zur Ausübung
+des Wahlrechts zur anderweitigen Gewinnermittlung (§ 13a
+Abs. 1 Satz 2 EStG) </lxbase:ueberschrift><lxbase:a>Die Antragsfrist von 6 Monaten nach Ablauf des jeweiligen Wirtschaftsjahres ist
+eine Ausschlußfrist. Der Antrag ist schriftlich zu stellen;
+er kann nicht widerrufen werden (§ 13 Abs. 1 Satz 3 EStG). </lxbase:a><lxbase:a>Das Wahlrecht kann ausgeübt werden durch Übergang
+zur Gewinnermittlung durch Betriebsvermögensvergleich (Ziff.
+1) </lxbase:a><lxbase:a>oder</lxbase:a><lxbase:a>zur Gewinnermittlung durch Vergleich der Betriebseinnahmen mit
+den Betriebsausgaben (Ziff. 2). </lxbase:a><lxbase:a>Bei der letztgenannten Gewinnermittlungsart sind die Vorschriften
+des § 4 Abs. 3 EStG anzuwenden (u. a. AfA bzw. AfS gem. § 7
+EStG, Berücksichtigung der Anschaffungs- oder Herstellungskosten
+für nicht abnutzbare Wirtschaftsgüter des Anlagevermögens
+erst im Zeitpunkt der Veräußerung oder Entnahme
+dieser Wirtschaftsgüter und Aufnahme dieser Wirtschaftsgüter
+in besondere, lfd. zu führende Verzeichnisse, § 4
+Abs. 3 Sätze 3 - 5 EStG). </lxbase:a><lxbase:a>Geht ein Land- und Forstwirt von der Gewinnermittlung nach § 4
+Abs. 1 EStG, § 12 GDL oder § 13a EStG zur Gewinnermittlung
+durch Gegenüberstellung der Betriebseinnahmen und Betriebsausgaben über,
+so sind die Bestimmungen des Abschn. 19 EStR (Gewinnkorrektur) zu
+beachten. Dies gilt auch, wenn er von der Einnahmeüberschußrechnung
+zu einer anderen Gewinnermittlungsart übergeht. </lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000006">2. Ermittlung des Gewinns
+nach § 13a Abs. 2 - 6 EStG</lxbase:ueberschrift><lxbase:a>Der Gewinn ist die Summe aus </lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>dem Grundbetrag (Abs. 3), </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>dem Wert der Arbeitsleistung des Betriebsinhabers
+und seiner im Betrieb tätigen Angehörigen (Abs.
+4), </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>den vereinnahmten Pachtzinsen (Abs. 5 Satz
+3), </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>den Zuschlägen nach Abs. 6, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a>dem Nutzungswert der Wohnung des Betriebsinhabers. </lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000007">3. Grundbetrag (§ 13a
+Abs. 3 EStG) </lxbase:ueberschrift><lxbase:a>Als Grundbetrag ist der zwölfte Teil des Ausgangswerts
+anzusetzen. </lxbase:a><lxbase:a>3.1 Zum Ausgangswert gehören die im maßgebenden
+Einheitswert des Betriebs ausgewiesenen Werte: </lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>der Vergleichswert
+der landwirtschaftlichen Nutzung einschließlich der dazugehörenden
+Abschläge und Zuschläge nach § 41 BewG,
+jedoch ohne Sonderkulturen, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>die Hektarwerte des Geringstlandes </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>die Vergleichswerte für Sondernutzungen
+i. S. des § 13a Abs. 3 Nr. 1 Buchst. c EStG, wenn die Summe
+der im Einheitswert enthaltenen Werte dieser Sondernutzungen 4.000,--
+DM nicht übersteigen. </lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>3.2 Die im Einheitswertverfahren erfolgte Zuordnung der Flächen
+zu den einzelnen Nutzungen ist auch dann maßgebend, wenn
+die tatsächliche Nutzung hiervon abweicht. Derartige Abweichungen
+können erst nach Fortschreibung des EW unter Beachtung
+des § 13a Abs. 3 Ziff. 1 letzter Absatz EStG durch Berichtigung
+nach § 218 AO berücksichtigt werden. Nach der
+letzten EW-Feststellung eingetretene Veränderungen, die
+die Wertgrenzen des § 22 BewG nicht erreichen und deshalb
+zu keiner Wertfortschreibung führen (z. B. Flächenzukauf, übernormale
+Tierhaltung, Erhöhung des Wohnungswerts infolge baulicher
+Veränderungen usw.) können nicht durch einen besonderen
+Zuschlag in die Gewinnermittlung einbezogen werden. </lxbase:a><lxbase:a>3.3 Sind die im Ausgangswert erfaßten Flächen
+oder Wirtschaftsgüter verpachtet, so sind die auf die verpachteten
+Flächen oder Wirtschaftsgüter entfallenden Werte
+bei der Ermittlung des Ausgangswertes auszuscheiden (§ 13a
+Abs. 3 Ziff. 3 u. 4 EStG). </lxbase:a><lxbase:a>3.4 Werden Flächen oder Wirtschaftsgüter i.
+S. des § 13a Abs. 3 Ziff. 1 Buchst. a und c EStG zugepachtet,
+so ist der Ausgangswert um die auf diese zugepachteten Flächen
+oder Wirtschaftsgüter entfallenden Werte zu erhöhen.
+Maßgebend sind hierbei die Verhältnisse zu Beginn
+des Wirtschaftsjahres. Dies gilt auch für sogenannte Pächterbetriebe.
+Besteht für die zugepachteten Flächen kein besonderer
+Vergleichswert, so ist ein "Ersatzvergleichswert" zu
+ermitteln (§ 13a Abs. 3 Ziff. 2 EStG). </lxbase:a><lxbase:a>3.5 Sind in dem maßgebenden Einheitswert Vergleichswerte
+für zugepachtete Flächen des Spargelbaues, des
+Gemüse-, Blumen- und Zierpflanzenbaues und der Baumschulen
+(§ 61 BewG) sowie der zur sonstigen land- und forstwirtschaftlichen
+Nutzung gehörenden Saatzucht (§ 62 Abs. 1 Ziff.
+6 BewG) enthalten, so ist darauf zu achten, daß außerdem
+die auf die zugepachteten (intensiv genutzten) Flächen
+entfallenden und dem Eigentümer der Flächen zugerechneten
+Vergleichswerte für landwirtschaftliche Nutzungen anzusetzen
+sind (vgl. § 48a BewG, Einheitswert bestimmter intensiv
+genutzter Flächen). </lxbase:a><lxbase:a>3.6 Sind land- und forstwirtschaftlich genutzte Flächen
+als Grundvermögen bewertet (§ 69 BewG), so sind
+diese Flächen mit dem Wert anzusetzen, der sich nach den
+Vorschriften über die Bewertung des land- und forstwirtschaftlichen Vermögens
+ergeben würde (§ 13a Abs. 3 Ziff. 5 EStG). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000008">4. Wert der Arbeitsleistung
+(§ 13a Abs. 4 EStG)</lxbase:ueberschrift><lxbase:a>Bei der Einheitsbewertung wird unterstellt, daß der
+land- und forstwirtschaftliche Betrieb ausschließlich mit
+entlohnten Arbeitskräften bewirtschaftet wird. Daher ist
+der Wert der Arbeitsleistung des Betriebsinhabers und seiner unentgeltlich
+beschäftigten Angehörigen (§ 10 StAnpG)
+dem Grundbetrag hinzuzurechnen. </lxbase:a><lxbase:a>4.1 Eine etwaige Mitarbeit der Altenteiler im Betrieb ist mit
+Ausnahme gelegentlicher, geringfügiger Arbeitsleistungen
+in angemessenem Umfang zu berücksichtigen. </lxbase:a><lxbase:a>4.2 Als Wert der Arbeitsleistung der Angehörigen darf
+höchstens für die nach Art und Größe
+des Betriebs angemessene Zahl von Vollarbeitskräften (VAK) angesetzt
+werden. Die zu berücksichtigende Zahl von VAK darf bei
+der landwirtschaftlichen Nutzung 0,07 VAK je ha nicht übersteigen
+(§ 13 Abs. 4 Ziff. 5 EStG). Die körperliche Mitarbeit
+des Betriebsinhabers ist hierbei miteinzubeziehen. </lxbase:a><lxbase:a>4.3 Ist im Ausgangswert ein Wertanteil für Sondernutzungen
+(Nutzungen, Nutzungsteile und sonstige Wirtschaftsgüter
+i. S. des § 13a Abs. 3 Ziff. 1 Buchst. c EStG) enthalten,
+weil die Summe der auf diese Sondernutzungen entfallenden Vergleichs-
+oder Einzelertragswerte insgesamt 4.000,-- DM nicht übersteigt,
+so ist bei der Ermittlung des Werts der Arbeitsleistung keine Kürzung
+um die auf Sondernutzungen entfallenden Anteile der VAK vorzunehmen.
+In diesem Fall ist bei der Ermittlung der höchstens anzusetzenden
+VAK die Fläche der Sondernutzungen mit in die maßgebende
+Fläche der höchstzulässigen Zahl der VAK
+einzubeziehen (§ 13a Abs. 4 Ziff. 5 EStG). Somit entfällt
+hier eine Berechnung der für diese Sondernutzungen tatsächlich
+erforderlichen VAK. </lxbase:a><lxbase:a>4.4 Sind der Betriebsinhaber oder Angehörige nicht voll
+im Betrieb beschäftigt (z. B. infolge Minderung der Erwerbsfähigkeit,
+anhaltender Krankheit, Tätigkeit außerhalb des
+land- und forstwirtschaftlichen Betriebs), ist nur ein der tatsächlichen
+Mitarbeit entsprechender Teil des maßgebenden Werts der Arbeitsleistung
+anzusetzen. Das gleiche gilt, wenn die körperliche Mitarbeit
+auf Nutzungen des land- und forstwirtschaftlichen Betriebs entfällt,
+die nicht in die Ermittlung des Ausgangswerts nach § 13a
+Abs. 3 EStG einbezogen sind. Hierzu gehören die in Abs.
+3 Ziff. 1 Buchstabe c genannten Nutzungen usw. mit einem maßgebenden
+Wert von insgesamt mehr als 4.000,-- DM sowie die forstwirtschaftliche
+Nutzung. Wegen der dabei auftretenden Schwierigkeiten solcher Feststellungen
+ist bereits unter dem Geltungsbereich des GDL angeordnet worden,
+daß bei fehlenden oder offensichtlich unzutreffenden Angaben über den
+jeweiligen Anteil der Beschäftigung in der Anlage L zur
+ESt- Erklärung davon auszugehen ist, daß sich
+die Arbeitskraft mit je 50 v. H. auf die normale landwirtschaftliche
+Nutzung und auf die Sonderbetriebszweige (einschl. Sonderkulturen)
+verteilt, wenn die tatsächlichen Verhältnisse
+nicht gegen ein solches Verteilungsverhältnis sprechen
+(vgl. FinMin-Erl. vom 28. 12. 1966 - <lxbase:az normform="S2142" manuell="nein">S-2142</lxbase:az> - 63 II 31, mitgeteilt
+durch Rdvfg. vom 13. 1. 1967 - S-2230 A - St <lxbase:az normform="110/11" manuell="nein">110/11</lxbase:az> 2 und Veranlagungsrundverfügung
+vom 3. 1. 1973 - <lxbase:az normform="S2319" manuell="nein">S-2319</lxbase:az> A pp. - St 110/112, Tz. 5.34).
+Diese Weisung gilt sinngemäß weiter. </lxbase:a><lxbase:a>4.5 Für andere Nutzungen i. S. des § 13a Abs.
+3 Ziff. 1 Buchst. b und c (Geringstland, Sonderkulturen, weinbauliche,
+gärtnerische und sonstige land- und forstwirtschaftliche
+Nutzungen i. S. des § 62 BewG, Nebenbetriebe, Abbauland),
+bei denen der VAK-Bedarf höher oder niedriger sein kann,
+ist die angemessene Zahl an VAK aufgrund von Erfahrungssätzen
+zu ermitteln (vgl. Kommentar Felsmann, Tabelle 4 und Anm. C 27). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000009">5. Wert der Arbeitsleistung
+für die Betriebsleistung (§ 13a Abs. 4 Ziff. 1
+b EStG) </lxbase:ueberschrift><lxbase:a>Als Wert der Arbeitsleistung für die Leitung des Betriebs
+sind dem Grundbetrag 2,5 v. H. des nach § 13a Abs. 3 EStG
+ermittelten Ausgangswerts hinzuzusetzen. Der Betrag von 2,5 v. H.
+des Ausgangswerts ist auch dann in voller Höhe anzusetzen,
+wenn der Betrieb von einer Person geleitet wird, deren körperliche
+Arbeitsleistung nicht mit dem vollen Wert zu berücksichtigen
+oder ganz außer Ansatz zu lassen ist. Der Wert ist auch
+dann in voller Höhe anzusetzen, wenn der Betriebsinhaber
+den Betrieb nicht selbst leitet oder die Leitung in anderen Händen
+liegt (z. B. Ehefrau, Sohn, Schwiegersohn). Wird der Betrieb von
+mehreren Personen geleitet, ist der Wert nur einmal zu berücksichtigen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000010">6. Vereinnahmte Pachtzinsen
+(§ 13a Abs. 2 Ziff. 3 i. V. m. Abs. 5 Satz 3 EStG) </lxbase:ueberschrift><lxbase:a>Vereinnahmte Pachtzinsen sind dem Grundbetrag hinzuzurechnen,
+wenn sie zu den Einkünften aus Land- und Forstwirtschaft
+gehören. Dies hat zur Voraussetzung, daß die verpachteten
+Flächen zum land- und forstwirtschaftlichen Betriebsvermögen
+gehören. Auch einzeln verpachtete Flächen, die
+zulässigerweise dem Betriebsvermögen zugeordnet
+worden sind, bleiben solange Betriebsvermögen, bis sie
+durch eine eindeutige (ausdrückliche oder schlüssige)
+Entnahmehandlung in das Privatvermögen überführt
+werden (Abschn. 14 Abs. 13 EStR). </lxbase:a><lxbase:a>Hat nach dem Pachtvertrag der Pächter die Zahlung der
+Grundsteuer, Landwirtschaftskammerbeiträge und ähnliche
+Abgaben übernommen so sind diese Beträge als beim
+Verpächter vereinnahmte Pachtzinsen anzusetzen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000011">7. Zuschläge
+(§ 13 Abs. 6 EStG)</lxbase:ueberschrift><lxbase:a>Bei der Gewinnermittlung nach § 13a EStG sind durch
+Zuschläge die Erträge aus </lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Sondernutzungen i.
+S. des § 13a Abs. 3 Ziff. 1 Buchst. c EStG, wenn diese nicht
+bereits im Grundbetrag erfaßt sind (also die Summe der
+Vergleichswerte usw. mehr als 4.000 DM beträgt); </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>forstwirtschaftlicher Nutzung; </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>anderen Betriebsvorgängen, die
+bei der Feststellung des Ausgangswertes nach Abs. 3 nicht berücksichtigt
+worden sind, zu erfassen, wenn dadurch der nach § 13a Abs.
+2 - 5 EStG ermittelte Betrag um mindestens 800,-- DM erhöht
+wird. </lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>7.1 Die als Zuschlag anzusetzenden Erträge sind grundsätzlich
+durch Gegenüberstellung der Betriebseinnahmen und Betriebsausgaben
+zu ermitteln. Soweit über diese Betriebsvorfälle
+keine Aufzeichnungen vorliegen, ist der Gewinnzuschlag gem. § 217
+AO zu schätzen. </lxbase:a><lxbase:a>7.2 Bei der Ermittlung der Zuschläge ist nicht von den
+im Einheitswert erfaßten Flächen, sondern von
+den tatsächlichen zu Beginn des Wirtschaftsjahres bewirtschafteten
+Flächen der Sondernutzungen auszugehen. Eine Änderung
+der im Ausgangswert (Abs. 3) erfaßten Flächen
+der landwirtschaftlichen Nutzung tritt dadurch nicht ein. </lxbase:a><lxbase:a>7.3 Die Zuschläge nach Abs. 6 sind als eine Einheit
+anzusehen. Bei einzelnen Sondernutzungen und Betriebsvorgängen
+eingetretene Verluste können mit Gewinnen aus anderen Sondernutzungen
+und Betriebsvorgängen verrechnet werden. Ein bei dieser
+Saldierung insgesamt errechneter Verlust kann aber nicht zu einem
+Abschlag führen. </lxbase:a><lxbase:a>Bei kapitalintensiven Betriebszweigen ist zu beachten, daß die
+anfallenden Betriebsausgaben (insbesondere Schuldzinsen) auch diesen
+Betriebszweig zugeordnet werden. </lxbase:a><lxbase:a>7.4 Zu den Sonderkulturen gehören Hopfen, Spargel und
+andere Sonderkulturen (§ 52 BewG). </lxbase:a><lxbase:a>Die gärtnerische Nutzung umfaßt u. a. die Nutzungsteile </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>Gemüse-,
+Blumen- und Zierpflanzenbau, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>Obstbau und Baumschulen. Strauchbeerenobst
+und Erdbeeren gehören ebenfalls zu gärtnerischen
+Nutzung (vgl. auch Abschn. 1.11 BewRL). </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Zur sonstigen land- und forstwirtschaftlichen Nutzung gehören
+insbesondere </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="-"><lxbase:a>die Binnenfischerei,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>die Wanderschäferei </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>die Teichwirtschaft,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>der Pilzanbau, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>die Fischzucht für Binnenfischerei
+und Teichwirtschaft</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>die Weihnachtsbaumkultur</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>die Imkerei,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="-"><lxbase:a>die Saatzucht. (vgl. auch § 62
+BewG, Abschn. 1.12 BewRL). </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Werden Kopfkohl (Weiß-, Rot- und Wirsingkohl), Pflückerbsen
+und Pflückbohnen nach landwirtschaftlicher Anbaumethode
+im Rahmen der landwirtschaftlichen Fruchtfolge als Hauptkultur angebaut,
+so gehören die Anbauflächen zur landwirtschaftlichen
+Nutzung (Abschn. 1.08 BewRL). Ebenfalls dazu gehören Bagatellflächen
+nach Maßgabe des Abschn. 1.13 BewR L. </lxbase:a><lxbase:a>7.5 Erträge aus forstwirtschaftlicher Nutzung (Abs.
+6 Ziff. 2)</lxbase:a><lxbase:a>Bei der Feststellung des Ausgangswertes bzw. des Grundbetrages
+scheidet die forstwirtschaftliche Nutzung in vollem Umfang aus.
+Daher sind die Gewinne aus Holznutzungen usw. durch einen Zuschlag
+zu erfassen. Das gleiche gilt für Gewinne, die bei der
+Veräußerung von Waldgrundstücken auf
+das stehende Holz (Bestockung) entfallen. </lxbase:a><lxbase:a>7.6 Erträge aus anderen Betriebsvorgängen (Abs.
+6 Ziff 3)</lxbase:a><lxbase:a>Als Erträge kommen in Betracht: </lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Gewinne aus Zuchtviehverkäufen,
+soweit sie über den Normalgewinn hinausgehen, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Gewinne aus der Haltung von Vatertieren
+(Deckgelder), </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c."><lxbase:a>Gewinne aus Leistungen, insbesondere aus
+Lohnfuhren, Lohndrusch, aus Vermietung von beweglichen Anlagegütern
+oder von Gebäuden oder Gebäudeteilen, soweit diese
+zum Betriebsvermögen gehören (Vermietung von Wohnungen
+an Feriengäste), aus Vermietung von Reitpferden, aus Jagdverpachtung,
+aus Nebentätigkeit bei Berufsverbänden, aus Beteiligung an
+Erzeuger-, Absatz und Kreditgenossenschaften, </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d."><lxbase:a>Gewinne aus der Veräußerung
+oder Entnahme von Wirtschaftsgütern des Anlagevermögens,
+insbesondere von Grund und Boden und Gebäuden. Hinsichtlich
+dieser Gewinne ist § 4 Abs. 3 EStG i. V. m. § 55
+EStG anzuwenden. </lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>7.7 Realisierte Wertsteigerungen bei den Wirtschaftsgütern
+des Betriebsvermögens sind mit dem Grundbetrag nicht abgegolten.
+Der Grundbetrag bezieht sich nur auf die im normalen Betriebsablauf
+anfallenden Gewinne. Deshalb sind Gewinne aus der Veräußerung
+oder Entnahme von Anlagegütern, soweit diese nicht einem
+normalen Betriebsablauf entsprechen, durch einen Zuschlag zu erfassen
+(vgl. auch Rdvfg. vom 11. 12. 1967 - S-2319 / S-2230 A
+- St <lxbase:az normform="110/11" manuell="nein">110/11</lxbase:az> 2). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000012">8. Nutzungswert der
+Wohnung (§ 13a Abs. 2 Ziff. 5 EStG)</lxbase:ueberschrift><lxbase:a>Der Nutzungswert der Wohnung des Betriebsinhabers ist mit einem
+Achtzehntel des im Einheitswert besonders ausgewiesenen Wohnungswerts
+anzusetzen. Im Wohnungswert sind die dem Betriebsinhaber und seinen
+zum Haushalt gehörenden Familienangehörigen sowie
+die den Altenteilern zu Wohnzwecken dienenden Gebäude und
+Gebäudeteile erfaßt. </lxbase:a><lxbase:a>8.1 Soweit für eine im Wohnungswert erfaßte
+Wohnung ein dingliches Wohnrecht eingeräumt worden ist
+(z. B. bei Altenteilsvereinbarungen, die grundbuchlich gesichert
+sind), ist der Nutzungswert den Berechtigten zuzurechnen. Der im
+Einheitswert ausgewiesene Wohnungswert ist entsprechend zu kürzen. Es
+bestehen keine Bedenken, den Anteil der Altenteilerwohnungen in
+diesen Fällen mit 25 v. H. des Wohnungswerts anzusetzen,
+soweit sich aus den Unterlagen nichts anderes ergibt. </lxbase:a><lxbase:a>8.2 Landarbeiterwohnungen gehören nicht zum Wohnteil,
+sondern zum Wirtschaftsteil, auch wenn sie von Familienangehörigen
+mit eigenem Hausstand bewohnt werden. Sie sind daher bereits im
+Vergleichswert der einzelnen Nutzungen i. S. § 34 Abs.
+2 Ziff. 1 BewG erfaßt (vgl. auch Abschnitt 130 Abs. 4 EStR). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000013">9. Absetzungen vom Grundbetrag
+(§ 13a Abs. 2 Satz 2 EStG)</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D002311000014">9.1 Verausgabte Pachtzinsen
+(§ 13a Abs. 5 Satz 1 u. 2 EStG) </lxbase:ueberschrift><lxbase:a>Verausgabte Pachtzinsen sind bis zur Höhe des zwölften
+Teils des Ausgangswerts für die gepachteten Flächen
+und Betriebsteile abziehbar. Bei zugepachteten Wohngebäuden
+können die hierauf entfallenden Pachtzinsen bis zur Höhe von
+einem Achtzehntel des Wohnungswerts abgezogen werden. Gezahlte Pachtzinsen,
+die ganz oder teilweise auf Nutzungen und Betriebsteile entfallen, die
+bei der Ermittlung des Ausgangswerts ausscheiden (§ 13a
+Abs. 3 Ziff. 1 Buchst. c EStG), sind nicht vom Grundbetrag abzusetzen.
+Sie sind bei der Zuschlagsberechnung als Betriebsausgaben zu berücksichtigen
+(§ 13a Abs. 6 EStG). </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000015">9.2 Schuldzinsen</lxbase:ueberschrift><lxbase:a>Soweit Schuldzinsen Betriebsausgaben darstellen, sind sie in
+unbeschränkter Höhe abzugsfähig. Dies
+gilt auch für Zinsen auf die Hypothekengewinnabgabe. Auf
+Nutzungen und Betriebsteile entfallende Schuldzinsen, die bei der
+Ermittlung des Ausgangswerts ausscheiden, sind bei der Zuschlagsberechnung
+als Betriebsausgaben zu berücksichtigen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000016">9.3 Dauernde Lasten</lxbase:ueberschrift><lxbase:a>Ein Abzug von dauernden Lasten, die Betriebsausgaben sind, setzt
+nach § 13a Abs. 2 Satz 2 EStG voraus, daß diese
+bei der Einheitsbewertung nicht berücksichtigt worden sind.
+Die üblichen auf dem Betrieb ruhenden dauernden Lasten, wie
+die Deich- und Siellasten (einschl. der Beiträge zu den
+Wasser- und Bodenverbänden) sowie die Grundsteuerbelastung
+sind bei der Einheitsbewertung bereits berücksichtigt worden.
+Altenteilslasten sind keine betrieblichen Lasten und können
+daher nur im Rahmen der Sonderausgaben nach § 10 EStG abgesetzt
+werden. Abzugsfähige dauernde Lasten dürften daher
+in der Praxis kaum noch vorkommen. </lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000017">10. Zweifelsfragen</lxbase:ueberschrift><lxbase:a>Über die sich im Zusammenhang mit der Anwendung der
+Vorschriften des § 13a EStG ergebenden Zweifelsfragen bitte
+ich laufend zu berichten. </lxbase:a><lxbase:a>-------------------- </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000018">Zusatz der OFD Saarbrücken: </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D002311000019">10. Sonderabschreibungen </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D002311000020">10.1 Erhöhte
+Absetzungen nach § 7b EStG </lxbase:ueberschrift><lxbase:a>Der Nutzungswert der Wohnung gehört gem. Ziff. 9 zum
+Gewinn aus Land- und Forstwirtschaft. Entsprechend können
+Land- und Forstwirte unter den Voraussetzungen des § 7b
+EStG erhöhte Absetzungen bei der Berechnung des Gewinns
+nach § 13a EStG berücksichtigen. </lxbase:a><lxbase:a>§ 52 EStDV 1974 läßt zu, daß der
+Absetzungsbetrag in voller Höhe vom Durchschnittssatzgewinn
+abgezogen werden kann, auch wenn dadurch ein Verlust entsteht. Diese
+Regelung ist in § 52 EStDV nicht mehr enthalten. Die erhöhte Absetzung
+darf daher auch nicht mehr zu einem Verlust führen. § 7a
+Abs. 6 EStG 1975. Das gilt jedoch allgemein erstmals für
+nach dem 31. 12. 1974 angeschaffte oder hergestellte Gebäude,
+sowie für nach dem 31. 12. 1974 fertiggestellte Ausbauten
+und Erweiterungen, § 52 Abs. 10 EStG 1975, § 84
+Abs. 5 EStDV 1975. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000021">10.2. Erhöhte
+Absetzungen nach § 7d EStG </lxbase:ueberschrift><lxbase:a>Mit Erlaß vom 14. 11. 1975 - <lxbase:az normform="B/II699/75 S2182A" manuell="nein">B/II - 699/75
+- S-2182 A</lxbase:az> hat der Minister der Finanzen des Saarlandes im Einvernehmen
+mit dem Bundesminister der Finanzen und den obersten Finanzbehörden
+der übrigen Länder zu der Frage der Inanspruchnahme
+der Abschreibungsvergünstigung nach § 7d EStG
+1975 im Rahmen der Gewinnermittlung nach § 13a EStG wie
+folgt Stellung genommen: </lxbase:a><lxbase:a>"Eine Anwendung kann in den Fällen des § 13a
+Abs. 1 - 5 EStG nicht in Betracht kommen, weil mit den Durchschnittssätzen
+die Absetzung für Abnutzung nach § 7 EStG und
+damit auch die an deren Stelle tretenden erhöhten Absetzungen
+nach § 7d EStG 1975 abgegolten sind. </lxbase:a><lxbase:a>Wird dagegen ein Wirtschaftsgut in der in § 7d EStG
+1975 vorgesehenen Weise in einem Betriebsteil verwendet, dessen
+Ergebnis durch einen Zuschlag nach § 13a Abs. 6 EStG zu
+erfassen ist, so können die erhöhten Absetzungen
+nach § 7d EStG 1975 vorgenommen werden, wenn auch die übrigen
+in dieser Vorschrift genannten Voraussetzungen erfüllt
+sind. Das gilt auch, wenn im Rahmen eines solchen Betriebsteils
+ein auf freiwilliger Vereinbarung beruhender Zuschuß im Sinne
+von § 7d EStG gegeben wird." </lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000022">II. Schätzungslandwirte </lxbase:ueberschrift><lxbase:a>Für Land- und Forstwirte, die zur Buchführung
+verpflichtet sind, jedoch keine ordnungsmäßigen
+Bücher führen, ist der Gewinn gem. § 217
+AO zu schätzen. Hierbei ist der Gewinn möglichst
+den tatsächlichen Verhältnissen entsprechend zu
+ermitteln. Eine Schätzung in Anlehnung an § 13a
+EStG scheidet aus. Liegen keine Vergleichswerte aus den Vorjahren
+oder von ähnlich strukturierten Betrieben des Finanzamtsbezirks
+vor, kann folgendes Verfahren angewendet werden: </lxbase:a><lxbase:a>Betriebseinkommen<lxbase:za />+ Nutzungswert der Wohnung<lxbase:za />+ Gewinnzuschläge
+aus Sonderbetriebszweig u. ä.<lxbase:za />+ vereinnahmte
+Pachtzinsen<lxbase:za />./. gezahlte Löhne<lxbase:za />./.
+gezahlte Pacht- und Schuldzinsen</lxbase:a><lxbase:a>Als Betriebseinkommen ist je ha landwirtschaftliche Nutzfläche
+(LN) anzusetzen:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="78*" /><cals:colspec colnum="2" colname="2" colwidth="22*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>a) Bei Betrieben
+mit einem Hackfruchtanteil von mehr als 20 v. H. der LN</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>= 1.100,-- DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>b) Bei Betrieben
+mit einem Hackfruchtanteil von mehr als 15 bis 20 v. H. der LN</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>= - 900,-- DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>c) Bei Betrieben mit einem Hackfruchtanteil
+von O bis 15 v. H. der LN</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>= - 600,-- DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Zur Ermittlung des Nutzungswertes der Wohnung s. Abschn. III
+Ziffer 2. Für Gewinnzuschläge wie z. B. wegen übernormaler
+Tierhaltung oder Zuchtviehverkäufe können die
+Werte für die GDL - bzw. § 13a - Landwirte herangezogen werden. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000023">III. Buchführende
+Land- und Forstwirte </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D002311000024">1. Allgemeines </lxbase:ueberschrift><lxbase:a>Land- und Forstwirte, die die Voraussetzungen des § 161
+Abs. 1 Ziff. 1 Buchstabe a, c oder e AO i. V. mit Abschnitt 127
+Abs. 1 EStG erfüllen, sind verpflichtet Bücher
+zu führen. Dabei ist zu berücksichtigen, daß bei
+der Prüfung, ob Buchführungspflicht nach § 161
+Abs. 1 Nr. 1 Buchstabe c AO gegeben ist, ab 1. 1. 1974 die Einheitswerte
+nach dem BewG 1964 maßgebend sind (Hinweis auf FMS- Erl.
+vom 22. 5. 74 - <lxbase:az normform="B/I67/74S1160a" manuell="nein">B/I - 67/74 - S-1160 a</lxbase:az> A, bekanntgegeben mit
+Verfügung vom 23. 7. 74 <lxbase:az normform="S1160a2St231" manuell="nein">S-1160 a - 2 - St 231</lxbase:az>). Die Buchführungspflicht
+beginnt in der Regel erst, nachdem das Finanzamt den Zeitpunkt des
+Beginns besonders mitgeteilt hat. </lxbase:a><lxbase:a>Im Hinblick darauf, daß im Rahmen der AO-Reform die
+Gewinngrenze für Land- und Forstwirte in § 161
+Abs. 1 Ziff. 1 Buchstabe e AO voraussichtlich ab Wirtschaftsjahr
+<lxbase:az normform="1974/75" manuell="nein">1974/75</lxbase:az> auf 15.000 DM erhöht wird und somit eine
+Anzahl von Land- und Forstwirten, die bisher buchführungspflichtig
+waren, aber keine Bücher geführt haben, nun nicht
+mehr der Buchführungspflicht unterliegen, ist die Veranlagung
+in diesen Fällen bis zur Veröffentlichung der
+neuen Bestimmungen zurückzustellen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000025">2. Nutzungswert der
+eigenen Wohnung </lxbase:ueberschrift><lxbase:a>Der Nutzungswert der eigenen Wohnung des Land- und Forstwirts
+gehört dann zu den Einkünften aus Land- und Forstwirtschaft,
+wenn die Wohnung die bei Betrieben gleicher Art übliche
+Größe nicht überschreitet, § 13
+Abs. 2 Ziff. 2 EStG. </lxbase:a><lxbase:a>Zur Ermittlung des Nutzungswerts der eigenen Wohnung wird auf
+die BFH-Urteile vom 30. 1. 1974, <lxprod:doknr-verw linkend="HT0015432">BStBl 1975 II S. 3</lxprod:doknr-verw> und vom 28. 3.
+1974, <lxprod:doknr-verw linkend="HT0015435">BStBl
+1975 II S. 9</lxprod:doknr-verw> hingewiesen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000026">3. Pauschbeträge
+für den Eigenverbrauch und die Beköstigung </lxbase:ueberschrift><lxbase:a>Als Pauschbetrag für den Eigenverbrauch und die Beköstigung
+sind weiterhin die Beträge, die mit Verfügung
+vom 6. 5. 1974 - <lxbase:az normform="S2149 3St222" manuell="nein">S-2149
+- 3 - St 222</lxbase:az> a festgesetzt wurden, zu berücksichtigen. </lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000027">IV. Schlußbemerkungen </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D002311000028">1. Antrag auf Verlängerung
+der gesetzlichen Ausschlußfrist des § 55 Abs.
+5 EStG </lxbase:ueberschrift><lxbase:a>Hierzu wird auf die Verfügung vom 8. 1. 1976 - <lxbase:az normform="S223012St 221" manuell="nein">S-2230 - 12 - St
+221</lxbase:az> verwiesen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000029">2. Sonderabschreibung
+gem. §§ 76 - 78 EStDV </lxbase:ueberschrift><lxbase:a>Gemäß FMS-Erlaß vom 5. 12. 1975 -
+<lxprod:doknr-verw linkend="HT0023061">B/II - 658/75 - S-2184 A</lxprod:doknr-verw> , bekanntgegeben mit
+Verfügung vom 19. 12. 1975 - <lxbase:az normform="S21842St221" manuell="nein">S-2184 - 2 - St 221</lxbase:az>, sind Gabelstapler
+unter die Wirtschaftsgüter der Anlage 1 zu den §§ 76
+- 78 EStDV einzuordnen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D002311000030">3. Altenteilsleistungen </lxbase:ueberschrift><lxbase:a>Altenteilsleistungen können grundsätzlich als
+Sonderausgaben (dauernde Last) in voller Höhe berücksichtigt
+werden (Abschn. 167 Abs. 1 EStR 1972). Beim Empfänger stellen
+sie wiederkehrende Leistungen i. S. des § 22 Ziff. 1 EStG dar.
+Handelt es sich bei der einem Altenteiler überlassenen
+Wohnung um ein dinglich abgesichertes Nutzungsrecht, ist der Nutzungswert
+diesem zuzurechnen (BFH-Urteil vom 12. 9. 1969, <lxprod:doknr-verw linkend="HT0001534">BStBl II S.
+706</lxprod:doknr-verw>). Insoweit unterbleibt ein Abzug als Sonderausgaben. </lxbase:a><lxbase:a>Für die evtl. um den Nutzungswert der überlassenen
+Wohnung gekürzten Altenteilsleistungen können
+pauschal folgende Beträge (Jahreswert) angesetzt werden: </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="77*" /><cals:colspec colnum="2" colname="2" colwidth="23*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>a) für altenteilsberechtigte Ehepaare</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>= 2.200,-- DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>b) für altenteilsberechtigte Einzelpersonen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>= 1.200,-- DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>--- </lxbase:a></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Schleswig-Holstein</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Saarland</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:branchen><lxbase:branche>Landwirtschaft</lxbase:branche></lxbase:branchen><lxbase:deskriptoren> Landwirt </lxbase:deskriptoren></lxbase:allgemeine-angaben></lxrvw:rspvwa>

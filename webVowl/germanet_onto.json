@@ -1,0 +1,243 @@
+{
+    "_comment": "Empty ontology for WebVOWL Editor [Additional Information added by WebVOWL Exporter Version: 1.1.7]",
+    "header": {
+        "languages": [
+            "en"
+        ],
+        "baseIris": [
+            "http://www.w3.org/2000/01/rdf-schema"
+        ],
+        "iri": "http://visualdataweb.org/newOntology/",
+        "title": {
+            "en": "New ontology"
+        },
+        "description": {
+            "en": "New ontology description"
+        }
+    },
+    "namespace": [],
+    "settings": {
+        "global": {
+            "zoom": "0.69",
+            "translation": [
+                182.71,
+                105.99
+            ],
+            "paused": true
+        },
+        "gravity": {
+            "classDistance": 200,
+            "datatypeDistance": 120
+        },
+        "filter": {
+            "checkBox": [
+                {
+                    "id": "datatypeFilterCheckbox",
+                    "checked": false
+                },
+                {
+                    "id": "objectPropertyFilterCheckbox",
+                    "checked": false
+                },
+                {
+                    "id": "subclassFilterCheckbox",
+                    "checked": false
+                },
+                {
+                    "id": "disjointFilterCheckbox",
+                    "checked": true
+                },
+                {
+                    "id": "setoperatorFilterCheckbox",
+                    "checked": false
+                }
+            ],
+            "degreeSliderValue": "0"
+        },
+        "modes": {
+            "checkBox": [
+                {
+                    "id": "pickandpinModuleCheckbox",
+                    "checked": false
+                },
+                {
+                    "id": "nodescalingModuleCheckbox",
+                    "checked": true
+                },
+                {
+                    "id": "compactnotationModuleCheckbox",
+                    "checked": false
+                },
+                {
+                    "id": "colorexternalsModuleCheckbox",
+                    "checked": true
+                }
+            ],
+            "colorSwitchState": false
+        }
+    },
+    "class": [
+        {
+            "id": "Class1",
+            "type": "owl:Class"
+        },
+        {
+            "id": "Class2",
+            "type": "owl:Class"
+        },
+        {
+            "id": "Class3",
+            "type": "owl:Class"
+        },
+        {
+            "id": "Class436",
+            "type": "owl:Class"
+        },
+        {
+            "id": "\u00fcbermittlung",
+            "type": "owl:Class"
+        },
+        {
+            "id": "aufforderung",
+            "type": "owl:Class"
+        },
+        {
+            "id": "mitteilung",
+            "type": "owl:Class"
+        },
+        {
+            "id": "prozess",
+            "type": "owl:Class"
+        },
+        {
+            "id": "ereignis",
+            "type": "owl:Class"
+        }
+    ],
+    "classAttribute": [
+        {
+            "id": "Class1",
+            "iri": "http://visualdataweb.org/newOntology/Class1",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Ravi"
+        },
+        {
+            "id": "Class2",
+            "iri": "http://visualdataweb.org/newOntology/Class2",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Madhur"
+        },
+        {
+            "id": "Class3",
+            "iri": "http://visualdataweb.org/newOntology/Class3",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Amrish"
+        },
+        {
+            "id": "\u00fcbermittlung",
+            "iri": "http://visualdataweb.org/newOntology/\u00fcbermittlung",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "\u00dcbermittlung"
+        },
+        {
+            "id": "aufforderung",
+            "iri": "http://visualdataweb.org/newOntology/aufforderung",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Aufforderung"
+        },
+        {
+            "id": "mitteilung",
+            "iri": "http://visualdataweb.org/newOntology/mitteilung",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Mitteilung"
+        },
+        {
+            "id": "prozess",
+            "iri": "http://visualdataweb.org/newOntology/prozess",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Prozess"
+        },
+        {
+            "id": "ereignis",
+            "iri": "http://visualdataweb.org/newOntology/ereignis",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Ereignis"
+        }
+    ],
+    "property": [
+        {
+            "id": "objectProperty1",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "objectProperty2",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property1",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property2",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property3",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property4",
+            "type": "owl:ObjectProperty"
+        }
+    ],
+    "propertyAttribute": [
+        {
+            "id": "objectProperty1",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "Class1",
+            "range": "Class3"
+        },
+        {
+            "id": "objectProperty2",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "Class2",
+            "range": "Class3"
+        },
+        {
+            "id": "object_property1",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "aufforderung",
+            "range": "mitteilung"
+        },
+        {
+            "id": "object_property2",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "mitteilung",
+            "range": "\u00fcbermittlung"
+        },
+        {
+            "id": "object_property3",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "\u00fcbermittlung",
+            "range": "prozess"
+        },
+        {
+            "id": "object_property4",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "prozess",
+            "range": "ereignis"
+        }
+    ]
+}

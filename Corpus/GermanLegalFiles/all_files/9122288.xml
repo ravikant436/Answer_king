@@ -1,0 +1,1194 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrno:rechtsnorm xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lxrno="http://xml.datev.de/lexinform/cms/rechtsnorm/v01" dok-nummer="9122288" dok-art="Gesetzestext (Gesamttext)" dok-typ="Rechtsnorm" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rechtsnorm/v01  file:////LEXinformRedaktion/XML/Schema/rechtsnorm/v01/lexrno.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Gesetzgeber</lxbase:institution></lxbase:autor><lxbase:norm-id>WoFG:konsolidiert</lxbase:norm-id><lxbase:lizenzen2><lxbase:lizenz2 name="Gesetze" id="09" /><lxbase:lizenz2 name="Yellowmap" id="66" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2015-10-02" /><lxbase:inkraft normdat="2015-11-01" /><lxbase:bekanntmachung normdat="2001-09-13" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BGBl-2015-I-1610</lxbase:fs-kuerzel><lxbase:fs-kuerzel>BGBl-2001-I-2376</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>WoFG:konsolidiert</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:normen-k><lxbase:norm-k>WoFG:1</lxbase:norm-k><lxbase:norm-k>WoFG:2</lxbase:norm-k><lxbase:norm-k>WoFG:3</lxbase:norm-k><lxbase:norm-k>WoFG:4</lxbase:norm-k><lxbase:norm-k>WoFG:5</lxbase:norm-k><lxbase:norm-k>WoFG:6</lxbase:norm-k><lxbase:norm-k>WoFG:7</lxbase:norm-k><lxbase:norm-k>WoFG:8</lxbase:norm-k><lxbase:norm-k>WoFG:9</lxbase:norm-k><lxbase:norm-k>WoFG:10</lxbase:norm-k><lxbase:norm-k>WoFG:11</lxbase:norm-k><lxbase:norm-k>WoFG:12</lxbase:norm-k><lxbase:norm-k>WoFG:13</lxbase:norm-k><lxbase:norm-k>WoFG:14</lxbase:norm-k><lxbase:norm-k>WoFG:15</lxbase:norm-k><lxbase:norm-k>WoFG:16</lxbase:norm-k><lxbase:norm-k>WoFG:17</lxbase:norm-k><lxbase:norm-k>WoFG:18</lxbase:norm-k><lxbase:norm-k>WoFG:19</lxbase:norm-k><lxbase:norm-k>WoFG:20</lxbase:norm-k><lxbase:norm-k>WoFG:21</lxbase:norm-k><lxbase:norm-k>WoFG:22</lxbase:norm-k><lxbase:norm-k>WoFG:23</lxbase:norm-k><lxbase:norm-k>WoFG:24</lxbase:norm-k><lxbase:norm-k>WoFG:25</lxbase:norm-k><lxbase:norm-k>WoFG:26</lxbase:norm-k><lxbase:norm-k>WoFG:27</lxbase:norm-k><lxbase:norm-k>WoFG:28</lxbase:norm-k><lxbase:norm-k>WoFG:29</lxbase:norm-k><lxbase:norm-k>WoFG:30</lxbase:norm-k><lxbase:norm-k>WoFG:31</lxbase:norm-k><lxbase:norm-k>WoFG:32</lxbase:norm-k><lxbase:norm-k>WoFG:33</lxbase:norm-k><lxbase:norm-k>WoFG:34</lxbase:norm-k><lxbase:norm-k>WoFG:35</lxbase:norm-k><lxbase:norm-k>WoFG:36</lxbase:norm-k><lxbase:norm-k>WoFG:37</lxbase:norm-k><lxbase:norm-k>WoFG:38</lxbase:norm-k><lxbase:norm-k>WoFG:39</lxbase:norm-k><lxbase:norm-k>WoFG:40</lxbase:norm-k><lxbase:norm-k>WoFG:41</lxbase:norm-k><lxbase:norm-k>WoFG:42</lxbase:norm-k><lxbase:norm-k>WoFG:43</lxbase:norm-k><lxbase:norm-k>WoFG:44</lxbase:norm-k><lxbase:norm-k>WoFG:45</lxbase:norm-k><lxbase:norm-k>WoFG:46</lxbase:norm-k><lxbase:norm-k>WoFG:47</lxbase:norm-k><lxbase:norm-k>WoFG:48</lxbase:norm-k><lxbase:norm-k>WoFG:49</lxbase:norm-k><lxbase:norm-k>WoFG:50</lxbase:norm-k><lxbase:norm-k>WoFG:51</lxbase:norm-k><lxbase:norm-k>WoFG:52</lxbase:norm-k></lxbase:normen-k><lxbase:jahre><lxbase:jahr jahr="2015" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrno:norm-text><lxbase:titel><lxbase:headline><lxbase:a>Wohnraumförderungsgesetz
+(WoFG) (gültig ab 01.11.2015) </lxbase:a></lxbase:headline></lxbase:titel><lxbase:prolog><lxbase:a>geändert durch Gesetz zur Reform des Wohngeldrechts und
+zur Änderung des Wohnraumförderungsgesetzes, Art. <lxbase:az normform="3-vom-2/10" manuell="nein">3 vom 2.10</lxbase:az>.2015
+(<lxbase:lit-fs normform="BGBl-2015-I-1610" manuell="nein">BGBl
+I S. 1610</lxbase:lit-fs>). Betroffene Vorschriften: §21.</lxbase:a><lxbase:a>geändert durch Gesetz zur Neuregelung der Unterhaltssicherung
+sowie zur Änderung soldatenrechtlicher Vorschriften, Art. 3 Abs.
+<lxbase:az normform="10-vom-29/06" manuell="nein">10 vom 29.06</lxbase:az>.2015
+(<lxbase:lit-fs normform="BGBl-2015-I-1061" manuell="nein">BGBl
+I S. 1061</lxbase:lit-fs>). Betroffene Vorschriften: §21.</lxbase:a><lxbase:a>geändert durch Haushaltsbegleitgesetz 2011, Art. <lxbase:az normform="2-vom-9/12" manuell="nein">2 vom 9.12</lxbase:az>.2010
+(<lxbase:lit-fs normform="BGBl-2010-I-1885" manuell="nein">BGBl
+I S. 1885</lxbase:lit-fs>). Betroffene Vorschriften: §21.</lxbase:a><lxbase:a>geändert durch ELENA-Verfahrensgesetz, Art. <lxbase:az normform="8-vom-28/03" manuell="nein">8 vom 28.03</lxbase:az>.2009
+(<lxbase:lit-fs normform="BGBl-2009-I-0634" manuell="nein">BGBl
+I S. 634</lxbase:lit-fs>). Betroffene Vorschriften: §21.</lxbase:a><lxbase:a>geändert durch Gesetz zur Neuregelung des Wohngeldrechts
+und zur Änderung des Sozialgesetzbuches, Art. <lxbase:az normform="4-vom-24/09" manuell="nein">4 vom 24.09</lxbase:az>.2008
+(<lxbase:lit-fs normform="BGBl-2008-I-1856" manuell="nein">BGBl
+I S. 1856</lxbase:lit-fs>). Betroffene Vorschriften: §21, §48.</lxbase:a><lxbase:a>geändert durch Gesetz zur Einführung des Elterngeldes
+vom 5.12.2006 (<lxbase:lit-fs normform="BGBl-2006-I-2748" manuell="nein">BGBl I S. 2748</lxbase:lit-fs>). Betroffene
+Vorschriften: 21</lxbase:a><lxbase:a>geändert durch Föderalismusreform-Begleitgesetz vom 5.9.2006
+(<lxbase:lit-fs normform="BGBl-2006-I-2098" manuell="nein">BGBl
+I S. 2098</lxbase:lit-fs>). Betroffene Vorschriften: 3, 4, 19, 38,
+39, 40, 41, 42, 43, 47, 48, 50, 51</lxbase:a><lxbase:a>geändert durch Zweites Gesetz zur Änderung wohnungsrechtlicher
+Vorschriften vom 15.12.2004 (<lxprod:doknr-verw linkend="HT6401270">BGBl I S. 3450</lxprod:doknr-verw>).
+Betroffene Vorschriften: 21, 34</lxbase:a><lxbase:a>geändert durch Zweites Gesetz zur Änderung wohnungsrechtlicher
+Vorschriften vom 15.12.2004 (<lxprod:doknr-verw linkend="HT6401270">BGBl I S. 3450</lxprod:doknr-verw>).
+Betroffene Vorschriften: 21, 34</lxbase:a><lxbase:a>geändert durch Gesetz zur Neuordnung der einkommensteuerrechtlichen
+Behandlung von Altersvorsorgeaufwendungen und Altersbezügen (Alterseinkünftegesetz
+– AltEinkG) vom 5.7.2004 (<lxbase:lit-fs normform="BGBl-2004-I-1427" manuell="nein">BGBl I S. 1427</lxbase:lit-fs>).
+Betroffene Vorschriften: 21</lxbase:a><lxbase:a>geändert durch Haushaltsbegleitgesetz 2004 vom 29.12.2003
+(<lxbase:lit-fs normform="BGBl-2003-I-3076" manuell="nein">BGBl
+I S. 3076</lxbase:lit-fs>). Betroffene Vorschriften: 38, 39, 40,
+41, 42, 43</lxbase:a><lxbase:a>geändert durch Gesetz zur Einordnung des Sozialhilferechts
+in das Sozialgesetzbuch vom 27.12.2003 (<lxbase:lit-fs normform="BGBl-2003-I-3022" manuell="nein">BGBl I S. 3022</lxbase:lit-fs>).
+Betroffene Vorschriften: 21, 34</lxbase:a><lxbase:a>geändert durch Viertes Gesetz für moderne Dienstleistungen
+am Arbeitsmarkt vom 24.12.2003 (<lxbase:lit-fs normform="BGBl-2003-I-2954" manuell="nein">BGBl I S. 2954</lxbase:lit-fs>).
+Betroffene Vorschriften: 34, 48, 51, 52</lxbase:a><lxbase:a>geändert durch Gesetz zur Änderung wohnungsrechtlicher
+Vorschriften vom 19.7.2002 (<lxprod:doknr-verw linkend="HT0542000">BGBl I S. 2690</lxprod:doknr-verw>).
+Betroffene Vorschriften: 21</lxbase:a><lxbase:a>geändert durch Gesetz zur Gleichstellung behinderter Menschen
+und zur Änderung anderer Gesetze vom 27.4.2002 (<lxbase:lit-fs normform="BGBl-2002-I-1467" manuell="nein">BGBl I S. 1467</lxbase:lit-fs>).
+Betroffene Vorschriften: 9, 50</lxbase:a></lxbase:prolog><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800001"><lxbase:a>Teil 1 Allgemeines
+zur Förderung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800003"><lxbase:a>§ 1 Zweck und Anwendungsbereich, Zielgruppe</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800006"><lxbase:a>§ 2 Fördergegenstände und Fördermittel</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800009"><lxbase:a>§ 3 Durchführung der Aufgaben und Zuständigkeiten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800014"><lxbase:a>§ 4 Bauland, sonstige Rahmenbedingungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800020"><lxbase:a>§ 5 Anforderungen an die Förderung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800024"><lxbase:a>§ 6 Allgemeine Fördergrundsätze</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800026"><lxbase:a>§ 7 Besondere Grundsätze zur Förderung von Mietwohnraum</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800028"><lxbase:a>§ 8 Besondere Grundsätze zur Förderung der Bildung selbst
+genutzten Wohneigentums</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800030"><lxbase:a>§ 9 Einkommensgrenzen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800034"><lxbase:a>§ 10 Wohnungsgrößen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800037"><lxbase:a>§ 11 Förderempfänger</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800041"><lxbase:a>§ 12 Bevorzugung von Maßnahmen, zusätzliche Förderung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800044"><lxbase:a>§ 13 Förderzusage</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800050"><lxbase:a>§ 14 Zweck, Beteiligte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800053"><lxbase:a>§ 15 Gegenstände des Kooperationsvertrags</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800058"><lxbase:a>Teil 2 Begriffsbestimmungen, Durchführung der sozialen
+Wohnraumförderung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800060"><lxbase:a>§ 16 Wohnungsbau, Modernisierung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800064"><lxbase:a>§ 17 Wohnraum</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800068"><lxbase:a>§ 18 Haushaltsangehörige</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800071"><lxbase:a>§ 19 Wohnfläche</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800074"><lxbase:a>§ 20 Gesamteinkommen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800076"><lxbase:a>§ 21 Begriff des Jahreseinkommens</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800080"><lxbase:a>§ 22 Zeitraum für die Ermittlung des Jahreseinkommens</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800085"><lxbase:a>§ 23 Pauschaler Abzug</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800088"><lxbase:a>§ 24 Frei- und Abzugsbeträge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800092"><lxbase:a>§ 25 Anwendungsbereich</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800095"><lxbase:a>§ 26 Gegenstände und Arten der Belegungsrechte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800099"><lxbase:a>§ 27 Wohnberechtigungsschein, Sicherung der Belegungsrechte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800108"><lxbase:a>§ 28 Bestimmung und Sicherung der höchstzulässigen Miete</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800115"><lxbase:a>§ 29 Dauer der Belegungs- und Mietbindungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800118"><lxbase:a>§ 30 Freistellung von Belegungsbindungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800122"><lxbase:a>§ 31 Übertragung von Belegungs- und Mietbindungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800127"><lxbase:a>§ 32 Sonstige Vorschriften der Sicherung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800135"><lxbase:a>§ 33 Geldleistung bei Gesetzesverstößen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800138"><lxbase:a>§ 34 Grundlagen der Ausgleichszahlung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800146"><lxbase:a>§ 35 Einkommensermittlung und Einkommensnachweis</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800151"><lxbase:a>§ 36 Höhe der Ausgleichszahlung und Leistungszeitraum</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800155"><lxbase:a>§ 37 Wegfall und Minderung der Ausgleichszahlung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800158"><lxbase:a>Teil 3 Bundesmittel</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800159"><lxbase:a>§ 38 (weggefallen)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800160"><lxbase:a>§ 39 (weggefallen)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800161"><lxbase:a>§ 40 (weggefallen)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800162"><lxbase:a>Teil 4 Ergänzungsvorschriften</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800163"><lxbase:a>§ 41 (weggefallen)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800164"><lxbase:a>§ 42 (weggefallen)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800165"><lxbase:a>§ 43 (weggefallen)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800166"><lxbase:a>§ 44 Sonderregelungen für einzelne Länder</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800168"><lxbase:a>§ 45 Förderung mit Wohnungsfürsorgemitteln</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800171"><lxbase:a>Teil 5 Überleitungs- und Schlussvorschriften</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800172"><lxbase:a>§ 46 Zeitlicher Anwendungsbereich</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800176"><lxbase:a>§ 47 Darlehen des Bundes und Förderung auf Grund früheren
+Rechts</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800183"><lxbase:a>§ 48 Anwendung des Zweiten Wohnungsbaugesetzes</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800186"><lxbase:a>§ 49 Anwendung des Wohnungsbaugesetzes für das Saarland</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800189"><lxbase:a>§ 50 Anwendung des Wohnungsbindungsgesetzes, der Neubaumietenverordnung
+und der Zweiten Berechnungsverordnung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800192"><lxbase:a>§ 51 Anwendung des Gesetzes über den Abbau der Fehlsubventionierung
+im Wohnungswesen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D912228800195"><lxbase:a>§ 52 Bußgeldvorschriften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxrno:kapitel><lxbase:ueberschrift id="D912228800001">Teil 1 Allgemeines zur
+Förderung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800002"><lxbase:a><lxbase:fett>Abschnitt
+1 Zweck und Maßnahmen der Förderung</lxbase:fett></lxbase:a></lxrno:normabsatz></lxrno:text-para><lxrno:kapitel><lxbase:ueberschrift id="D912228800003" apn="WoFG:1">§
+1 Zweck und Anwendungsbereich, Zielgruppe</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800004" apn="WoFG:1/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Dieses Gesetz regelt die Förderung des Wohnungsbaus und
+anderer Maßnahmen zur Unterstützung von Haushalten bei der Versorgung
+mit Mietwohnraum, einschließlich genossenschaftlich genutzten Wohnraums,
+und bei der Bildung von selbst genutztem Wohneigentum (soziale Wohnraumförderung).</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800005" apn="WoFG:1/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Zielgruppe der sozialen Wohnraumförderung
+sind Haushalte, die sich am Markt nicht angemessen mit Wohnraum
+versorgen können und auf Unterstützung angewiesen sind. <lxbase:satz nummer="2" />Unter diesen Voraussetzungen unterstützt </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+die Förderung von Mietwohnraum insbesondere Haushalte mit geringem
+Einkommen sowie Familien und andere Haushalte mit Kindern, Alleinerziehende,
+Schwangere, ältere Menschen, behinderte Menschen, Wohnungslose und
+sonstige hilfebedürftige Personen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. die Förderung der Bildung selbst genutzten
+Wohneigentums insbesondere Familien und andere Haushalte mit Kindern
+sowie behinderte Menschen, die unter Berücksichtigung ihres Einkommens
+und der Eigenheimzulage die Belastungen des Baus oder Erwerbs von
+Wohnraum ohne soziale Wohnraumförderung nicht tragen können.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800006" apn="WoFG:2">§
+2 Fördergegenstände und Fördermittel</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800007" apn="WoFG:2/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Fördergegenstände sind: </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Wohnungsbau, einschließlich des erstmaligen Erwerbs des Wohnraums
+innerhalb von zwei Jahren nach Fertigstellung (Ersterwerb),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Modernisierung von Wohnraum,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. Erwerb von Belegungsrechten an bestehendem
+Wohnraum und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. Erwerb bestehenden Wohnraums,</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a> wenn damit die Unterstützung von Haushalten bei der
+Versorgung mit Mietwohnraum durch Begründung von Belegungs- und
+Mietbindungen oder bei der Bildung von selbst genutztem Wohneigentum
+erfolgt.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800008" apn="WoFG:2/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Die Förderung erfolgt durch </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Gewährung von Fördermitteln, die aus öffentlichen Haushalten oder
+Zweckvermögen als Darlehen zu Vorzugsbedingungen, auch zur nachstelligen
+Finanzierung, oder als Zuschüsse bereitgestellt werden,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Übernahme von Bürgschaften, Garantien
+und sonstigen Gewährleistungen sowie</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. Bereitstellung von verbilligtem Bauland.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800009" apn="WoFG:3">§
+3 Durchführung der Aufgaben und Zuständigkeiten</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800010" apn="WoFG:3/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Länder, Gemeinden und Gemeindeverbände wirken nach Maßgabe
+dieses Gesetzes bei der sozialen Wohnraumförderung zusammen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800011" apn="WoFG:3/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Länder führen die soziale
+Wohnraumförderung als eigene Aufgabe durch. <lxbase:satz nummer="2" />Sie
+legen das Verwaltungsverfahren fest, soweit dieses Gesetz keine
+Regelungen trifft. <lxbase:satz nummer="3" />Zuständige Stelle
+im Sinne dieses Gesetzes ist die Stelle, die nach Landesrecht zuständig
+ist oder von der Landesregierung in sonstiger Weise bestimmt wird.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800012" apn="WoFG:3/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Länder sollen bei der sozialen
+Wohnraumförderung die wohnungswirtschaftlichen Belange der Gemeinden
+und Gemeindeverbände berücksichtigen; dies gilt insbesondere, wenn
+sich eine Gemeinde oder ein Gemeindeverband an der Förderung beteiligt.
+<lxbase:satz nummer="2" />Die Länder können bei ihrer Förderung
+ein von einer Gemeinde oder einem Gemeindeverband beschlossenes
+Konzept zur sozialen Wohnraumversorgung (kommunales Wohnraumversorgungskonzept)
+zu Grunde legen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800013" apn="WoFG:3/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a>Gemeinden und Gemeindeverbände können mit eigenen Mitteln
+eine Förderung nach diesem Gesetz und den hierzu erlassenen landesrechtlichen
+Vorschriften durchführen, soweit nicht im Übrigen Landesrecht entgegensteht.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800014" apn="WoFG:4">§
+4 Bauland, sonstige Rahmenbedingungen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800015" apn="WoFG:4/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Länder, Gemeinden, Gemeindeverbände, sonstige Körperschaften,
+Anstalten und Stiftungen des öffentlichen Rechts und die von ihnen
+wirtschaftlich abhängigen Unternehmen sollen in ausreichendem Umfang
+geeignete Grundstücke als Bauland für den Wohnungsbau unter Berücksichtigung
+der Anforderungen des Kosten und Flächen sparenden Bauens zu Eigentum
+oder in Erbbaurecht überlassen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800016" apn="WoFG:4/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Gemeinden sollen im Rahmen
+der Gesetze dafür Sorge tragen, dass für den Wohnungsbau erforderliche
+Grundstücke bebaut und erforderliche Modernisierungsmaßnahmen durchgeführt
+werden können. <lxbase:satz nummer="2" />Dabei soll auf die Anforderungen
+des Kosten und Flächen sparenden Bauens geachtet werden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800017" apn="WoFG:4/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a>Die Gemeinden sollen Bauwillige, die ein Baugrundstück
+erwerben wollen, beraten und unterstützen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800018" apn="WoFG:4/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a>Aus den Absätzen 1 bis 3 können Ansprüche nicht hergeleitet
+werden.</lxbase:a></lxrno:normabsatz></lxrno:text-para><lxrno:text-para><lxrno:normabsatz id="D912228800019"><lxbase:a><lxbase:fett>Abschnitt
+2 Grundsätze, Voraussetzungen und Förderzusage</lxbase:fett></lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800020" apn="WoFG:5">§
+5 Anforderungen an die Förderung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800021" apn="WoFG:5/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Die soziale Wohnraumförderung wird nach diesem Gesetz
+und hierzu erlassenen Vorschriften des Landes durchgeführt.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800022" apn="WoFG:5/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Die Länder treffen soweit erforderlich auf der Grundlage
+dieses Gesetzes Bestimmungen, insbesondere über Voraussetzungen
+der Förderung und deren Durchführung.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800023" apn="WoFG:5/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die in den <lxbase:intern-verw idref="D912228800024">§§ 6</lxbase:intern-verw> bis <lxbase:intern-verw idref="D912228800028">8</lxbase:intern-verw> und <lxbase:intern-verw idref="D912228800034">10</lxbase:intern-verw> bezeichneten
+Grundsätze sind bei den Bestimmungen nach Absatz 2 und, soweit solche
+Bestimmungen nicht getroffen sind, bei Entscheidungen, die zur Förderung
+ergehen, in der Abwägung und bei der Ermessensausübung zu berücksichtigen.
+<lxbase:satz nummer="2" />Die Länder können weitere Grundsätze
+aufstellen.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800024" apn="WoFG:6">§
+6 Allgemeine Fördergrundsätze</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800025"><lxbase:a><lxbase:satz nummer="1" />Die soziale Wohnraumförderung ist der Nachhaltigkeit
+einer Wohnraumversorgung verpflichtet, die die wirtschaftlichen
+und sozialen Erfordernisse mit der Erhaltung der Umwelt in Einklang
+bringt. <lxbase:satz nummer="2" />Bei der Förderung sind zu berücksichtigen:
+</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+die örtlichen und regionalen wohnungswirtschaftlichen Verhältnisse
+und Zielsetzungen, die erkennbaren unterschiedlichen Investitionsbedingungen
+des Bauherrn sowie die besonderen Anforderungen des zu versorgenden
+Personenkreises;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. der Beitrag des genossenschaftlichen
+Wohnens zur Erreichung der Ziele und Zwecke der sozialen Wohnraumförderung;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. die Schaffung und Erhaltung sozial
+stabiler Bewohnerstrukturen;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. die Schaffung und Erhaltung ausgewogener
+Siedlungsstrukturen sowie ausgeglichener wirtschaftlicher, sozialer
+und kultureller Verhältnisse, die funktional sinnvolle Zuordnung
+der Wohnbereiche zu den Arbeitsplätzen und der Infrastruktur (Nutzungsmischung)
+sowie die ausreichende Anbindung des zu fördernden Wohnraums an
+den öffentlichen Personennahverkehr;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. die Nutzung des Wohnungs- und Gebäudebestandes
+für die Wohnraumversorgung;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>6. die Erhaltung preisgünstigen Wohnraums
+im Fall der Förderung der Modernisierung;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>7. die Anforderungen des Kosten sparenden
+Bauens, insbesondere durch </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+die Begrenzung der Förderung auf einen bestimmten Betrag (Förderpauschale),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) die Festlegung von Kostenobergrenzen,
+deren Überschreitung eine Förderung ausschließt, oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>c) die Vergabe von Fördermitteln im Rahmen
+von Wettbewerbsverfahren;</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>8. die Anforderungen des barrierefreien
+Bauens für die Nutzung von Wohnraum und seines Umfelds durch Personen,
+die infolge von Alter, Behinderung oder Krankheit dauerhaft oder
+vorübergehend in ihrer Mobilität eingeschränkt sind;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>9. der sparsame Umgang mit Grund und
+Boden, die ökologischen Anforderungen an den Bau und die Modernisierung
+von Wohnraum sowie Ressourcen schonende Bauweisen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:satz nummer="3" />Maßnahmen der sozialen Wohnraumförderung,
+die im Zusammenhang mit städtebaulichen Sanierungs- und Entwicklungsmaßnahmen
+stehen, sind bevorzugt zu berücksichtigen.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800026" apn="WoFG:7">§
+7 Besondere Grundsätze zur Förderung von Mietwohnraum</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800027"><lxbase:a>Bei
+der Förderung von Mietwohnraum sind folgende Grundsätze zu berücksichtigen:
+</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Um tragbare Wohnkosten für Haushalte im Sinne des <lxbase:intern-verw idref="D912228800005">§ 1 Abs. 2 Satz 2</lxbase:intern-verw>
+Nr. 1 zu erreichen, können Wohnkostenentlastungen durch Bestimmung
+höchstzulässiger Mieten unterhalb von ortsüblichen Vergleichsmieten
+oder durch sonstige Maßnahmen vorgesehen werden. Dabei sind insbesondere
+die Leistungen nach dem Wohngeldgesetz sowie das örtliche Mietenniveau
+und das Haushaltseinkommen des Mieters sowie deren Entwicklungen
+zu berücksichtigen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Wohnkostenentlastungen, die nach Förderzweck
+und Zielgruppe sowie Förderintensität unangemessen sind (Fehlförderungen),
+sind zu vermeiden oder auszugleichen. Maßnahmen zur Vermeidung von
+Fehlförderungen sind Vorkehrungen bei der Förderung, durch die die
+Wohnkostenentlastung </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+auf Grund von Bestimmungen in der Förderzusage oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) auf Grund eines Vorbehalts in der
+Förderzusage durch Entscheidung der zuständigen Stelle</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a> vermindert wird. Eine Maßnahme zum Ausgleich entstandener
+Fehlförderungen in Fällen der Festlegung von höchstzulässigen Mieten
+ist die Erhebung von Ausgleichszahlungen nach den <lxbase:intern-verw idref="D912228800138">§§ 34</lxbase:intern-verw> bis <lxbase:intern-verw idref="D912228800155">37</lxbase:intern-verw>.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. Bei der Vermeidung und dem Ausgleich
+von Fehlförderungen sind soweit erforderlich Veränderungen der für
+die Wohnkostenentlastung maßgeblichen Einkommensverhältnisse und
+der Haushaltsgröße durch Überprüfungen in regelmäßigen zeitlichen Abständen
+zu berücksichtigen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800028" apn="WoFG:8">§
+8 Besondere Grundsätze zur Förderung der Bildung selbst genutzten
+Wohneigentums</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800029"><lxbase:a>Bei
+der Förderung der Bildung selbst genutzten Wohneigentums nach <lxbase:intern-verw idref="D912228800005">§ 1 Abs. 2 Satz 2</lxbase:intern-verw> Nr.
+2 sind folgende Grundsätze zu berücksichtigen: </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Die Förderung der Bildung selbst genutzten Wohneigentums erfolgt
+bevorzugt für Familien und andere Haushalte mit zwei und mehr Kindern
+im Sinne des <lxprod:doknr-verw jumpmark="EStG:32/1" linkend="HT9126410">§ 32 Abs. 1</lxprod:doknr-verw> bis
+5 des Einkommensteuergesetzes sowie für Haushalte, bei denen wegen
+einer Behinderung eines Haushaltsangehörigen oder aus sonstigen
+Gründen ein besonderer baulicher Bedarf besteht.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Um eine angemessene Belastung des
+Bauherrn oder des Erwerbers des selbst genutzten Wohneigentums zu
+erreichen, sind bei der Festlegung der Förderung insbesondere die
+Einkommensentwicklung und die Eigenheimzulage nach dem Eigenheimzulagengesetz
+zu berücksichtigen. Fehlförderungen sind zu vermeiden. Soweit dies durch
+eine Förderung erfolgt, die auf die Entwicklung des Haushaltseinkommens abstellt,
+sind Veränderungen der maßgeblichen Einkommensverhältnisse und der Haushaltsgröße
+durch Überprüfungen in regelmäßigen zeitlichen Abständen zu berücksichtigen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800030" apn="WoFG:9">§
+9 Einkommensgrenzen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800031" apn="WoFG:9/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Förderung darf nur Haushalte
+begünstigen, deren Einkommen die Grenzen für das jährliche Einkommen,
+die in Absatz 2 bezeichnet oder von den Ländern nach Absatz 3 abweichend
+festgelegt sind, nicht überschreiten. <lxbase:satz nummer="2" />Bei
+der Ermittlung des Einkommens sind die <lxbase:intern-verw idref="D912228800074">§§ 20</lxbase:intern-verw> bis <lxbase:intern-verw idref="D912228800088">24</lxbase:intern-verw> anzuwenden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800032" apn="WoFG:9/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Einkommensgrenze beträgt:
+</lxbase:a><cals:tabelle frame="none" rowsep="1" tocentry="1"><cals:tgroup colsep="1" cols="2" align="left" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="80*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:tbody valign="top"><cals:row rowsep="1"><cals:entry colsep="0" valign="top" align="left" colname="1" rowsep="0"><lxbase:a>für einen Einpersonenhaushalt</lxbase:a></cals:entry><cals:entry valign="top" align="left" colname="2" rowsep="0"><lxbase:a>12 000 Euro,</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" valign="top" align="left" colname="1" rowsep="0"><lxbase:a>für einen Zweipersonenhaushalt</lxbase:a></cals:entry><cals:entry valign="top" align="left" colname="2" rowsep="0"><lxbase:a>18 000 Euro,</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" valign="top" align="left" colname="1"><lxbase:a>zuzüglich für jede weitere <lxbase:za />zum Haushalt rechnende
+Person</lxbase:a></cals:entry><cals:entry valign="top" align="left" colname="2"><lxbase:a>4
+100 Euro.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:satz nummer="2" />Sind zum Haushalt rechnende
+Personen Kinder im Sinne des <lxprod:doknr-verw jumpmark="EStG:32/1" linkend="HT9126410">§
+32 Abs. 1</lxprod:doknr-verw> bis 5 des Einkommensteuergesetzes, erhöht
+sich die Einkommensgrenze nach Satz 1 für jedes Kind um weitere
+500 Euro.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800033" apn="WoFG:9/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Landesregierungen werden
+ermächtigt, durch Rechtsverordnung von den in Absatz 2 bezeichneten
+Einkommensgrenzen nach den örtlichen und regionalen wohnungswirtschaftlichen
+Verhältnissen insbesondere </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+zur Berücksichtigung von Haushalten mit Schwierigkeiten bei der
+Wohnraumversorgung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. im Rahmen der Förderung von selbst
+genutztem Wohneigentum oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. zur Schaffung oder Erhaltung sozial
+stabiler Bewohnerstrukturen</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a> Abweichungen festzulegen. <lxbase:satz nummer="2" />Die
+Landesregierungen können diese Ermächtigung durch Rechtsverordnung
+auf eine oberste Landesbehörde übertragen.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800034" apn="WoFG:10">§
+10 Wohnungsgrößen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800035" apn="WoFG:10/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Bei Bestimmungen der Länder über die Grenzen für Wohnungsgrößen
+sind folgende Grundsätze zu berücksichtigen: </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Die Größe der zu fördernden Wohnung muss entsprechend ihrer Zweckbestimmung angemessen
+sein.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Besonderheiten bei Maßnahmen im Gebäudebestand
+und bei selbst genutztem Wohneigentum sowie besonderen persönlichen
+oder beruflichen Bedürfnissen von Haushaltsangehörigen und einem
+nach der Lebenserfahrung in absehbarer Zeit zu erwartenden zusätzlichen
+Raumbedarf ist Rechnung zu tragen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800036" apn="WoFG:10/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Bei der Berechnung der Wohnfläche ist § 19 Abs. 1 anzuwenden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800037" apn="WoFG:11">§
+11 Förderempfänger</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800038" apn="WoFG:11/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Empfänger der Förderung ist </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+bei Maßnahmen des Wohnungsbaus und der Modernisierung derjenige,
+der das Bauvorhaben für eigene oder fremde Rechnung im eigenen Namen
+durchführt oder durch Dritte durchführen lässt (Bauherr),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. beim Ersterwerb vom Bauherrn zur Selbstnutzung
+der Erwerber des Wohnraums,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. beim Erwerb aus dem Bestand zur Selbstnutzung
+der Erwerber des Wohnraums,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. beim Erwerb von Belegungsrechten der
+Eigentümer oder der sonstige zur Einräumung von Belegungsrechten
+an dem Wohnraum Berechtigte.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800039" apn="WoFG:11/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Soweit Fördermittel an einen Bauträger vergeben werden,
+ist die Vergabe mit der Auflage zu verbinden, dass der Bauträger
+den geförderten Wohnraum zu angemessenen Bedingungen dem Erwerber
+alsbald zur Selbstnutzung überträgt.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800040" apn="WoFG:11/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Gewährung von Fördermitteln
+setzt voraus, dass </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+der Bauherr Eigentümer eines geeigneten Baugrundstücks ist oder
+nachweist, dass der Erwerb eines derartigen Grundstücks gesichert
+ist oder durch die Gewährung der Fördermittel gesichert wird,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. die Gewähr für eine ordnungsmäßige
+und wirtschaftliche Durchführung des Bauvorhabens und für eine ordnungsmäßige
+Verwaltung des Wohnraums besteht,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. der Bauherr die erforderliche Leistungsfähigkeit
+und Zuverlässigkeit besitzt,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. bei der Förderung von selbst genutztem
+Wohneigentum die Belastung auf Dauer tragbar erscheint und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. der Bauherr eine angemessene Eigenleistung
+erbringt, für die eigene Geldmittel, der Wert des nicht durch Fremdmittel
+finanzierten Baugrundstücks oder Selbsthilfe im Sinne des <lxbase:intern-verw idref="D912228800042">§ 12 Abs. 1 Satz 2</lxbase:intern-verw>
+in Betracht kommen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:satz nummer="2" />Fördermittel können auch einem
+Bauherrn oder einem sonstigen Förderempfänger gewährt werden, für
+den an einem geeigneten Grundstück ein Erbbaurecht von angemessener
+Dauer bestellt ist oder der nachweist, dass der Erwerb eines derartigen
+Erbbaurechts gesichert ist.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800041" apn="WoFG:12">§
+12 Bevorzugung von Maßnahmen, zusätzliche Förderung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800042" apn="WoFG:12/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Maßnahmen, bei denen Bauherren
+in Selbsthilfe tätig werden oder bei denen Mieter von Wohnraum Leistungen
+erbringen, durch die sie im Rahmen des Mietverhältnisses Vergünstigungen
+erlangen, können bei der Förderung bevorzugt werden. <lxbase:satz nummer="2" />Selbsthilfe sind die Arbeitsleistungen, die zur
+Durchführung der geförderten Maßnahmen vom Bauherrn selbst, seinen
+Angehörigen oder von anderen unentgeltlich oder auf Gegenseitigkeit
+oder von Mitgliedern von Genossenschaften erbracht werden. <lxbase:satz nummer="3" />Leistungen von Mietern sind die von </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Mietern für die geförderten Maßnahmen erbrachten Finanzierungsanteile,
+Arbeitsleistungen oder Sachleistungen und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Genossenschaftsmitgliedern übernommenen
+weiteren Geschäftsanteile, soweit sie für die geförderten Maßnahmen
+über die Pflichtanteile hinaus erbracht werden.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800043" apn="WoFG:12/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Eine zusätzliche Förderung für notwendigen Mehraufwand
+kann insbesondere gewährt werden bei </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Ressourcen schonenden Bauweisen, die besonders wirksam zur Entlastung
+der Umwelt, zum Schutz der Gesundheit und zur rationellen Energieverwendung
+beitragen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. besonderen baulichen Maßnahmen, mit
+denen Belangen behinderter oder älterer Menschen Rechnung getragen
+wird,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. einer organisierten Gruppenselbsthilfe
+für den bei der Vorbereitung und Durchführung der Maßnahmen entstehenden
+Aufwand,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. besonderen experimentellen Ansätzen
+zur Weiterentwicklung des Wohnungsbaus.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800044" apn="WoFG:13">§
+13 Förderzusage</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800045" apn="WoFG:13/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Die Förderung wird auf Antrag durch eine Förderzusage
+der zuständigen Stelle gewährt.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800046" apn="WoFG:13/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />In der Förderzusage sind Bestimmungen
+zu treffen </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+über Zweckbestimmung, Einsatzart und Höhe der Förderung, Dauer der
+Gewährung, Verzinsung und Tilgung der Fördermittel, Einhaltung von
+Einkommensgrenzen und Wohnungsgrößen, Rechtsfolgen eines Eigentumswechsels
+an dem geförderten Gegenstand sowie</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. bei der Förderung von Mietwohnraum
+zusätzlich unter Anwendung des Abschnitts 3 des Teils 2 über Gegenstand,
+Art und Dauer der Belegungsbindungen sowie Art, Höhe und Dauer der
+Mietbindungen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:satz nummer="2" />In die Förderzusage können
+weitere für den jeweiligen Förderzweck erforderliche Bestimmungen
+aufgenommen werden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800047" apn="WoFG:13/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Förderzusage erfolgt durch
+Verwaltungsakt oder durch öffentlich-rechtlichen Vertrag; sie bedarf
+der Schriftform. <lxbase:satz nummer="2" />Die sich aus der Förderzusage
+ergebenden Berechtigungen und Verpflichtungen gehen nach den in
+der Förderzusage für den Fall des Eigentumswechsels enthaltenen
+Bestimmungen auf den Rechtsnachfolger über.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800048" apn="WoFG:13/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a>Ein Anspruch auf Förderung besteht nicht.</lxbase:a></lxrno:normabsatz></lxrno:text-para><lxrno:text-para><lxrno:normabsatz id="D912228800049"><lxbase:a><lxbase:fett>Abschnitt
+3 Kooperationsvertrag</lxbase:fett></lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800050" apn="WoFG:14">§
+14 Zweck, Beteiligte</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800051" apn="WoFG:14/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Gemeinden, Gemeindeverbände und sonstige öffentliche Stellen
+können mit Eigentümern oder sonstigen Verfügungsberechtigten von
+Wohnraum Vereinbarungen über Angelegenheiten der örtlichen Wohnraumversorgung
+treffen (Kooperationsverträge), insbesondere zur Unterstützung von
+Maßnahmen der sozialen Wohnraumversorgung einschließlich der Verbesserung
+der Wohnverhältnisse sowie der Schaffung oder Erhaltung sozial stabiler
+Bewohnerstrukturen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800052" apn="WoFG:14/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />In die Vereinbarungen können
+Dritte, insbesondere öffentliche und private Träger sozialer Aufgaben
+und andere mit der Durchführung des Kooperationsvertrags Beauftragte, einbezogen
+werden. <lxbase:satz nummer="2" />Soweit durch Vereinbarungen
+die Aufgaben der nach <lxbase:intern-verw idref="D912228800011">§
+3 Abs. 2 Satz 3</lxbase:intern-verw> zuständigen Stellen berührt
+werden, sind diese Stellen zu beteiligen.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800053" apn="WoFG:15">§
+15 Gegenstände des Kooperationsvertrags</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800054" apn="WoFG:15/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Gegenstände des Kooperationsvertrags können insbesondere
+sein: </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+die Begründung oder Verlängerung von Belegungs- und Mietbindungen
+an Wohnraum des Eigentümers oder sonstigen Verfügungsberechtigten
+zu Gunsten der Gemeinde, einer zuständigen Stelle oder eines Trägers
+sozialer Aufgaben; die entsprechende Anwendung von Bestimmungen
+der <lxbase:intern-verw idref="D912228800095">§§ 26</lxbase:intern-verw>
+bis <lxbase:intern-verw idref="D912228800127">32</lxbase:intern-verw>
+kann vereinbart werden;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. im Zusammenhang mit Vereinbarungen
+nach Nummer 1 die Übernahme von Bewirtschaftungsrisiken sowie die
+Übernahme von Bürgschaften für die Erbringung einmaliger oder sonstiger
+Nebenleistungen der Mieter;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. die Aufhebung oder Änderung von Belegungs-
+und Mietbindungen an Wohnraum, soweit dies nach den <lxbase:intern-verw idref="D912228800118">§§ 30</lxbase:intern-verw> und <lxbase:intern-verw idref="D912228800122">31</lxbase:intern-verw> zulässig ist
+und Bestimmungen der Förderzusage nicht entgegenstehen;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. die Übernahme von wohnungswirtschaftlichen,
+baulichen und sozialen Maßnahmen, insbesondere von solchen der Verbesserung
+des Wohnumfelds, der Behebung sozialer Missstände und der Quartiersverwaltung;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. die Überlassung von Grundstücken und
+Räumen für die mit dem Kooperationsvertrag verfolgten Zwecke.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800055" apn="WoFG:15/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die vereinbarten Leistungen
+eines Kooperationsvertrags müssen den gesamten Umständen nach angemessen
+sein und in sachlichem Zusammenhang mit den jeweils beabsichtigten
+Maßnahmen der Wohnraumversorgung stehen. <lxbase:satz nummer="2" />Die
+Vereinbarung einer vom Eigentümer oder sonstigen Verfügungsberechtigten
+oder von einem in den Vertrag einbezogenen Dritten zu erbringenden
+Leistung ist unzulässig, wenn er auch ohne sie einen Anspruch auf
+die Gegenleistung hätte.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800056" apn="WoFG:15/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a>Ein Kooperationsvertrag bedarf der Schriftform, soweit
+nicht durch Rechtsvorschriften eine andere Form vorgeschrieben ist.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800057" apn="WoFG:15/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a>Die Zulässigkeit anderer Verträge bleibt unberührt.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800058">Teil 2
+Begriffsbestimmungen, Durchführung der sozialen Wohnraumförderung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800059"><lxbase:a><lxbase:fett>Abschnitt
+1 Begriffsbestimmungen</lxbase:fett></lxbase:a></lxrno:normabsatz></lxrno:text-para><lxrno:kapitel><lxbase:ueberschrift id="D912228800060" apn="WoFG:16">§
+16 Wohnungsbau, Modernisierung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800061" apn="WoFG:16/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Wohnungsbau ist das Schaffen von Wohnraum durch </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Baumaßnahmen, durch die Wohnraum in einem neuen selbstständigen
+Gebäude geschaffen wird,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Beseitigung von Schäden an Gebäuden
+unter wesentlichem Bauaufwand, durch die die Gebäude auf Dauer wieder
+zu Wohnzwecken nutzbar gemacht werden,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. Änderung, Nutzungsänderung oder Erweiterung
+von Gebäuden, durch die unter wesentlichem Bauaufwand Wohnraum geschaffen
+wird, oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. Änderung von Wohnraum unter wesentlichem
+Bauaufwand zur Anpassung an geänderte Wohnbedürfnisse.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800062" apn="WoFG:16/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Wohnraum oder anderer Raum ist in Fällen des Absatzes
+1 Nr. 2 nicht auf Dauer nutzbar, wenn ein zu seiner Nutzung erforderlicher
+Gebäudeteil zerstört ist oder wenn sich der Raum oder der Gebäudeteil
+in einem Zustand befindet, der aus bauordnungsrechtlichen Gründen
+eine dauernde, der Zweckbestimmung entsprechende Nutzung nicht gestattet; dabei
+ist es unerheblich, ob der Raum oder der Gebäudeteil tatsächlich
+genutzt wird.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800063" apn="WoFG:16/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Modernisierung sind bauliche
+Maßnahmen, die </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+den Gebrauchswert des Wohnraums oder des Wohngebäudes nachhaltig
+erhöhen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. die allgemeinen Wohnverhältnisse auf
+Dauer verbessern oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. nachhaltig Einsparungen von Energie
+oder Wasser bewirken.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:satz nummer="2" />Instandsetzungen, die durch
+Maßnahmen der Modernisierung verursacht werden, fallen unter die
+Modernisierung.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800064" apn="WoFG:17">§
+17 Wohnraum</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800065" apn="WoFG:17/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Wohnraum ist umbauter Raum,
+der tatsächlich und rechtlich zur dauernden Wohnnutzung geeignet
+und vom Verfügungsberechtigten dazu bestimmt ist. <lxbase:satz nummer="2" />Wohnraum können Wohnungen oder einzelne Wohnräume
+sein.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800066" apn="WoFG:17/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Selbst genutztes Wohneigentum ist Wohnraum im eigenen
+Haus oder in einer eigenen Eigentumswohnung, der zu eigenen Wohnzwecken
+genutzt wird.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800067" apn="WoFG:17/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a>Mietwohnraum ist Wohnraum, der den Bewohnern auf Grund
+eines Mietverhältnisses oder eines genossenschaftlichen oder sonstigen
+ähnlichen Nutzungsverhältnisses zum Gebrauch überlassen wird.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800068" apn="WoFG:18">§
+18 Haushaltsangehörige</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800069" apn="WoFG:18/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Zum Haushalt rechnen die in
+Absatz 2 bezeichneten Personen, die miteinander eine Wohn- und Wirtschaftsgemeinschaft
+führen (Haushaltsangehörige). <lxbase:satz nummer="2" />Zum Haushalt
+rechnen auch Personen im Sinne des Absatzes 2, die alsbald in den
+Haushalt aufgenommen werden sollen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800070" apn="WoFG:18/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Haushaltsangehörige sind: </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+der Antragsteller,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. der Ehegatte,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. der Lebenspartner und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. der Partner einer sonstigen auf Dauer
+angelegten Lebensgemeinschaft</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a> sowie deren Verwandte in gerader Linie und zweiten Grades
+in der Seitenlinie, Verschwägerte in gerader Linie und zweiten Grades
+in der Seitenlinie, Pflegekinder ohne Rücksicht auf ihr Alter und
+Pflegeeltern.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800071" apn="WoFG:19">§
+19 Wohnfläche</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800072"><lxbase:a><lxbase:satz nummer="1" />Die Wohnfläche einer Wohnung ist die Summe der
+anrechenbaren Grundflächen der ausschließlich zur Wohnung gehörenden
+Räume. <lxbase:satz nummer="2" />Die Landesregierungen werden ermächtigt,
+durch Rechtsverordnung Vorschriften zur Berechnung der Grundfläche
+und zur Anrechenbarkeit auf die Wohnfläche zu erlassen. <lxbase:satz nummer="3" />Die Landesregierungen können die Ermächtigung
+durch Rechtsverordnung auf eine oberste Landesbehörde übertragen.</lxbase:a></lxrno:normabsatz></lxrno:text-para><lxrno:text-para><lxrno:normabsatz id="D912228800073"><lxbase:a><lxbase:fett>Abschnitt
+2 Einkommensermittlung</lxbase:fett></lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800074" apn="WoFG:20">§
+20 Gesamteinkommen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800075"><lxbase:a><lxbase:satz nummer="1" />Maßgebendes Einkommen ist das Gesamteinkommen
+des Haushalts. <lxbase:satz nummer="2" />Gesamteinkommen des Haushalts
+im Sinne dieses Gesetzes ist die Summe der Jahreseinkommen der Haushaltsangehörigen
+abzüglich der Frei- und Abzugsbeträge nach <lxbase:intern-verw idref="D912228800088">§ 24</lxbase:intern-verw>. <lxbase:satz nummer="3" />Maßgebend sind die Verhältnisse im Zeitpunkt der
+Antragstellung.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800076" apn="WoFG:21">§
+21 Begriff des Jahreseinkommens</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800077" apn="WoFG:21/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Jahreseinkommen im Sinne dieses
+Gesetzes ist, vorbehaltlich der Absätze 2 und 3 sowie der <lxbase:intern-verw idref="D912228800080">§§ 22</lxbase:intern-verw> und <lxbase:intern-verw idref="D912228800085">23,</lxbase:intern-verw> die Summe
+der positiven Einkünfte im Sinne des <lxprod:doknr-verw jumpmark="EStG:2/1" linkend="HT9126410">§ 2 Abs. 1</lxprod:doknr-verw>, 2 und 5a des
+Einkommensteuergesetzes jedes Haushaltsangehörigen. <lxbase:satz nummer="2" />Bei den Einkünften im Sinne des <lxprod:doknr-verw jumpmark="EStG:2/1" linkend="HT9126410">§ 2 Abs. 1 Satz 1</lxprod:doknr-verw> Nr.
+1 bis 3 des Einkommensteuergesetzes ist <lxprod:doknr-verw jumpmark="EStG:7g/1" linkend="HT9126410">§ 7g Abs. 1</lxprod:doknr-verw> bis 4 und
+7 des Einkommensteuergesetzes nicht anzuwenden. <lxbase:satz nummer="3" />Ein Ausgleich mit negativen Einkünften aus anderen
+Einkunftsarten und mit negativen Einkünften des zusammenveranlagten
+Ehegatten ist nicht zulässig.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800078" apn="WoFG:21/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Zum Jahreseinkommen gehören:</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.1
+der nach <lxprod:doknr-verw jumpmark="EStG:19/2" linkend="HT9126410">§ 19 Abs. 2</lxprod:doknr-verw>
+und § 22 Nr. 4 Satz 4 Buchstabe b des Einkommensteuergesetzes steuerfreie
+Betrag von Versorgungsbezügen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>1.2 die einkommensabhängigen, nach §
+3 Nr. 6 des Einkommensteuergesetzes steuerfreien Bezüge, die auf
+Grund gesetzlicher Vorschriften aus öffentlichen Mitteln versorgungshalber
+an Wehr- und Zivildienstbeschädigte oder ihre Hinterbliebenen, Kriegsbeschädigte
+und Kriegshinterbliebene sowie ihnen gleichgestellte Personen gezahlt
+werden,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>1.3 die den Ertragsanteil oder den der
+Besteuerung unterliegenden Anteil nach § 22 Nr. 1 Satz 3 Buchstabe
+a des Einkommensteuergesetzes übersteigenden Teile von Leibrenten,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>1.4 die nach § 3 Nr. 3 des Einkommensteuergesetzes
+steuerfreien Kapitalabfindungen auf Grund der gesetzlichen Rentenversicherung
+und auf Grund der Beamten-(Pensions-)Gesetze,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>1.5 die nach § 3 Nr. 1 Buchstabe a des
+Einkommensteuergesetzes steuerfreien</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+Renten wegen Minderung der Erwerbsfähigkeit nach den <lxprod:doknr-verw jumpmark="SGB-VII:56" linkend="HT9126018">§§ 56</lxprod:doknr-verw> bis <lxprod:doknr-verw jumpmark="SGB-VII:62" linkend="HT9126018">62</lxprod:doknr-verw> des Siebten Buches
+Sozialgesetzbuch,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) Renten und Beihilfen an Hinterbliebene
+nach den §§ 63 bis <lxprod:doknr-verw jumpmark="SGB-VII:71" linkend="HT9126018">71</lxprod:doknr-verw>
+des Siebten Buches Sozialgesetzbuch,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>c) Abfindungen nach den <lxprod:doknr-verw jumpmark="SGB-VII:75" linkend="HT9126018">§§ 75</lxprod:doknr-verw> bis 80 des Siebten
+Buches Sozialgesetzbuch,</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>1.6 die Lohn- und Einkommensersatzleistungen
+nach <lxprod:doknr-verw jumpmark="EStG:32b/1" linkend="HT9126410">§ 32b Abs. 1 Nr. 1</lxprod:doknr-verw>
+des Einkommensteuergesetzes, mit Ausnahme der nach § 3 Nr. 1 Buchstabe
+d des Einkommensteuergesetzes steuerfreien Mutterschutzleistungen
+und des nach § 3 Nr. 67 des Einkommensteuergesetzes steuerfreien
+Elterngeldes bis zur Höhe der nach § 10 des Bundeselterngeld- und
+Elternzeitgesetzes anrechnungsfreien Beträge,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>1.7 die Hälfte der nach § 3 Nr. 7 des
+Einkommensteuergesetzes steuerfreien</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+Unterhaltshilfe nach den <lxbase:norm-fs normform="LAG:261">§§
+261</lxbase:norm-fs> bis 278a des Lastenausgleichsgesetzes, mit
+Ausnahme der Pflegezulage nach <lxbase:norm-fs normform="LAG:269/2">§
+269 Abs. 2</lxbase:norm-fs> des Lastenausgleichsgesetzes,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) Beihilfe zum Lebensunterhalt nach
+den §§ 301 bis 301b des Lastenausgleichsgesetzes,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>c) Unterhaltshilfe nach <lxbase:intern-verw idref="D912228800166">§ 44 und </lxbase:intern-verw>Unterhaltsbeihilfe
+nach § 45 des Reparationsschädengesetzes,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>d) Beihilfe zum Lebensunterhalt nach
+den §§ 10 bis 15 des Flüchtlingshilfegesetzes, mit Ausnahme der
+Pflegezulage nach <lxbase:norm-fs normform="LAG:269/2">§ 269
+Abs. 2</lxbase:norm-fs> des Lastenausgleichsgesetzes,</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>1.8 die nach § 3 Nr. 1 Buchstabe a des
+Einkommensteuergesetzes steuerfreien Krankentagegelder,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>1.9 die Hälfte der nach § 3 Nr. 68 des
+Einkommensteuergesetzes steuerfreien Renten nach § 3 Abs. 2 des
+Anti-D-Hilfegesetzes,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2.1 die nach § 3b des Einkommensteuergesetzes
+steuerfreien Zuschläge für Sonntags-, Feiertags- oder Nachtarbeit,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2.2 der nach § 40a des Einkommensteuergesetzes
+vom Arbeitgeber pauschal besteuerte Arbeitslohn,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3.1 der nach <lxprod:doknr-verw jumpmark="EStG:20/9" linkend="HT9126410">§ 20 Abs. 9</lxprod:doknr-verw> des Einkommensteuergesetzes
+steuerfreie Betrag (Sparer-Pauschbetrag), soweit die Kapitalerträge
+100 Euro übersteigen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3.2 weggefallen</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3.3 die auf erhöhte Absetzungen entfallenden
+Beträge, soweit sie die höchstmöglichen Absetzungen für Abnutzung
+nach § 7 des Einkommensteuergesetzes übersteigen, und die auf Sonderabschreibungen
+entfallenden Beträge,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4.1 der nach § 3 Nr. 9 des Einkommensteuergesetzes
+steuerfreie Betrag von Abfindungen wegen einer vom Arbeitgeber veranlassten
+oder gerichtlich ausgesprochenen Auflösung des Dienstverhältnisses,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4.2 der nach § 3 Nr. 27 des Einkommensteuergesetzes
+steuerfreie Grundbetrag der Produktionsaufgaberente und das Ausgleichsgeld
+nach dem Gesetz zur Förderung der Einstellung der landwirtschaftlichen
+Erwerbstätigkeit,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4.3 die nach § 3 Nr. 60 des Einkommensteuergesetzes
+steuerfreien Leistungen aus öffentlichen Mitteln an Arbeitnehmer
+des Steinkohlen-, Pechkohlen- und Erzbergbaues, des Braunkohlentiefbaues
+und der Eisen- und Stahlindustrie aus Anlass von Stilllegungs-,
+Einschränkungs-, Umstellungs- oder Rationalisierungsmaßnahmen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5.1 die nach § 22 Nr. 1 Satz 2 des Einkommensteuergesetzes
+dem Empfänger nicht zuzurechnenden Bezüge, die ihm von nicht zum
+Haushalt rechnenden Personen gewährt werden, und die Leistungen
+nach dem Unterhaltsvorschussgesetz,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5.2 die nach § 3 Nummer 48 des Einkommensteuergesetzes
+steuerfreien allgemeinen Leistungen nach § 17 des Unterhaltssicherungsgesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5.3 weggefallen</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5.4 die Hälfte des für die Kosten zur
+Erziehung bestimmten Anteils an Leistungen zum Unterhalt</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+des Kindes oder Jugendlichen in Fällen</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>aa)
+der Vollzeitpflege nach § 39 in Verbindung mit <lxprod:doknr-verw jumpmark="SGB-VIII:33" linkend="HT9125931">§ 33</lxprod:doknr-verw> oder mit <lxprod:doknr-verw jumpmark="SGB-VIII:35a/2" linkend="HT9125931">§ 35a Abs. 2 Nr. 3</lxprod:doknr-verw> des
+Achten Buches Sozialgesetzbuch oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>bb) einer vergleichbaren Unterbringung
+nach <lxprod:doknr-verw jumpmark="SGB-VIII:21" linkend="HT9125931">§ 21</lxprod:doknr-verw>
+des Achten Buches Sozialgesetzbuch,</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) des jungen Volljährigen in Fällen
+der Vollzeitpflege nach § 41 in Verbindung mit den §§ 39 und <lxbase:intern-verw idref="D912228800135">33</lxbase:intern-verw> oder mit den
+§§ 39 und <lxprod:doknr-verw jumpmark="SGB-VIII:35a/2" linkend="HT9125931">35a Abs.
+2 Nr. 3</lxprod:doknr-verw> des Achten Buches Sozialgesetzbuch,</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5.5 die Hälfte der laufenden Leistungen
+für die Kosten des notwendigen Unterhalts einschließlich der Unterkunft
+sowie der Krankenhilfe für Minderjährige und junge Volljährige nach
+<lxprod:doknr-verw jumpmark="SGB-VIII:13/3" linkend="HT9125931">§ 13 Abs. 3 Satz 2</lxprod:doknr-verw>,
+<lxprod:doknr-verw jumpmark="SGB-VIII:19/3" linkend="HT9125931">§ 19 Abs. 3</lxprod:doknr-verw>,
+<lxprod:doknr-verw jumpmark="SGB-VIII:21" linkend="HT9125931">§ 21 Satz 2</lxprod:doknr-verw>,
+<lxprod:doknr-verw jumpmark="SGB-VIII:39/1" linkend="HT9125931">§ 39 Abs. 1</lxprod:doknr-verw>
+und <lxprod:doknr-verw jumpmark="SGB-VIII:41/2" linkend="HT9125931">§ 41 Abs. 2</lxprod:doknr-verw>
+des Achten Buches Sozialgesetzbuch,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5.6 die Hälfte des Pflegegeldes nach
+§ 37 des Elften Buches Sozialgesetzbuch für Pflegehilfen, die keine
+Wohn- und Wirtschaftsgemeinschaft mit dem Pflegebedürftigen führen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>6.1 die Hälfte der als Zuschüsse erbrachten</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+Leistungen zur Förderung der Ausbildung nach dem Bundesausbildungsförderungsgesetz,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) Leistungen der Begabtenförderungswerke,
+soweit sie nicht von Nummer 6.2 erfasst sind,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>c) Stipendien, soweit sie nicht von Buchstabe
+b, Nummer 6.2 oder Nummer 6.3 erfasst sind,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>d) Berufsausbildungsbeihilfen und des
+Ausbildungsgeldes nach dem Dritten Buch Sozialgesetzbuch,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>d) Beiträge zur Deckung des Unterhaltsbedarfs
+nach dem Aufstiegsfortbildungsförderungsgesetz,</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>6.2 die als Zuschuss gewährte Graduiertenförderung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>6.3 die Hälfte der nach § 3 Nr. 42 des
+Einkommensteuergesetzes steuerfreien Zuwendungen, die auf Grund
+des Fulbright-Abkommens gezahlt werden,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>7.1 das Arbeitslosengeld II und das Sozialgeld
+nach § 19 Absatz 1 des Zweiten Buches Sozialgesetzbuch,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>7.2 die Leistungen der Hilfe zum Lebensunterhalt
+nach den §§ 27 bis 30 des Zwölften Buches Sozialgesetzbuch,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>7.3 die Leistungen der Grundsicherung
+im Alter und bei Erwerbsminderung nach § 42 Nummer 1, 2 und 4 des
+Zwölften Buches Sozialgesetzbuch mit Ausnahme der Leistungen für
+einmalige Bedarfe,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>7.4 die Leistungen nach dem Asylbewerberleistungsgesetz,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>7.5 die Leistungen der ergänzenden Hilfe
+zum Lebensunterhalt nach § 27a des Bundesversorgungsgesetzes oder
+nach einem Gesetz, das dieses für anwendbar erklärt, mit Ausnahme
+der Leistungen für einmalige Bedarfe,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>soweit diese Leistungen die bei ihrer
+Berechnung berücksichtigten Kosten für Wohnraum übersteigen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>8. die ausländischen Einkünfte nach <lxprod:doknr-verw jumpmark="EStG:32b/1" linkend="HT9126410">§ 32b Abs. 1 Nr. 2</lxprod:doknr-verw>
+und 3 des Einkommensteuergesetzes.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800079" apn="WoFG:21/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a>Aufwendungen zum Erwerb, zur Sicherung und zur Erhaltung
+von Einnahmen nach Absatz 2 mit Ausnahme der Nummern 5.3 bis 5.5
+dürfen in der im Sinne des <lxbase:intern-verw idref="D912228800081">§
+22 Abs. 1 und 2</lxbase:intern-verw> zu erwartenden oder nachgewiesenen
+Höhe abgezogen werden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800080" apn="WoFG:22">§
+22 Zeitraum für die Ermittlung des Jahreseinkommens</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800081" apn="WoFG:22/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Bei der Ermittlung des Jahreseinkommens
+ist das Einkommen zu Grunde zu legen, das in den zwölf Monaten ab
+dem Monat der Antragstellung zu erwarten ist. <lxbase:satz nummer="2" />Hierzu
+kann auch von dem Einkommen ausgegangen werden, das innerhalb der
+letzten zwölf Monate vor Antragstellung erzielt worden ist. <lxbase:satz nummer="3" />Änderungen sind zu berücksichtigen, wenn sie im Zeitpunkt
+der Antragstellung innerhalb von zwölf Monaten mit Sicherheit zu
+erwarten sind; Änderungen, deren Beginn oder Ausmaß nicht ermittelt
+werden können, bleiben außer Betracht.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800082" apn="WoFG:22/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Kann die Höhe des zu erwartenden Einkommens nicht nach
+Absatz 1 ermittelt werden, so ist grundsätzlich das Einkommen der
+letzten zwölf Monate vor Antragstellung zu Grunde zu legen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800083" apn="WoFG:22/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a>Bei Personen, die zur Einkommensteuer veranlagt werden,
+kann bei Anwendung des Absatzes 1 von den Einkünften ausgegangen
+werden, die sich aus dem letzten Einkommensteuerbescheid, den Vorauszahlungsbescheiden
+oder der letzten Einkommensteuererklärung ergeben; die sich hieraus
+ergebenden Einkünfte sind bei Anwendung des Absatzes 2 zu Grunde
+zu legen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800084" apn="WoFG:22/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Einmaliges Einkommen, das in
+einem nach Absatz 1 oder 2 maßgebenden Zeitraum anfällt, aber einem
+anderen Zeitraum zuzurechnen ist, ist so zu behandeln, als wäre
+es während des anderen Zeitraums angefallen. <lxbase:satz nummer="2" />Einmaliges
+Einkommen, das einem nach Absatz 1 oder 2 maßgebenden Zeitraum zuzurechnen,
+aber in einem früheren Zeitraum angefallen ist, ist so zu behandeln,
+als wäre es während des nach Absatz 1 oder 2 maßgebenden Zeitraums
+angefallen. <lxbase:satz nummer="3" />Satz 2 gilt nur für Einkommen,
+das innerhalb von drei Jahren vor Antragstellung angefallen ist.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800085" apn="WoFG:23">§
+23 Pauschaler Abzug</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800086" apn="WoFG:23/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Bei der Ermittlung des Jahreseinkommens wird von dem nach
+den <lxbase:intern-verw idref="D912228800076">§§ 21</lxbase:intern-verw>
+und <lxbase:intern-verw idref="D912228800080">22</lxbase:intern-verw>
+ermittelten Betrag ein pauschaler Abzug in Höhe von jeweils 10 Prozent
+für die Leistung von </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Steuern vom Einkommen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Pflichtbeiträgen zur gesetzlichen
+Kranken- und Pflegeversicherung und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. Pflichtbeiträgen zur gesetzlichen
+Rentenversicherung</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a> vorgenommen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800087" apn="WoFG:23/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Werden keine Pflichtbeiträge
+nach Absatz 1 Nr. 2 oder 3 geleistet, so werden laufende Beiträge
+zu öffentlichen oder privaten Versicherungen oder ähnlichen Einrichtungen
+in der tatsächlich geleisteten Höhe, höchstens bis zu jeweils 10
+Prozent des sich nach den <lxbase:intern-verw idref="D912228800076">§§
+21</lxbase:intern-verw> und <lxbase:intern-verw idref="D912228800080">22</lxbase:intern-verw> ergebenden
+Betrages abgezogen, wenn die Beiträge der Zweckbestimmung der Pflichtbeiträge
+nach Absatz 1 Nr. 2 oder 3 entsprechen. <lxbase:satz nummer="2" />Dies
+gilt auch, wenn die Beiträge zu Gunsten eines zum Haushalt rechnenden
+Angehörigen geleistet werden. <lxbase:satz nummer="3" />Die Sätze
+1 und 2 gelten nicht, wenn eine im Wesentlichen beitragsfreie Sicherung
+oder eine Sicherung, für die Beiträge von einem Dritten geleistet
+werden, besteht.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800088" apn="WoFG:24">§
+24 Frei- und Abzugsbeträge</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800089" apn="WoFG:24/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Bei der Ermittlung des Gesamteinkommens werden folgende
+Freibeträge abgesetzt: </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+4 500 Euro für jeden schwerbehinderten Menschen mit einem Grad der
+Behinderung </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+von 100 oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) von wenigstens 80, wenn der schwerbehinderte
+Mensch häuslich pflegebedürftig im Sinne des <lxprod:doknr-verw jumpmark="SGB-XI:14" linkend="HT9126394">§ 14</lxprod:doknr-verw> des Elften Buches
+Sozialgesetzbuch ist;</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. 2 100 Euro für jeden schwerbehinderten
+Menschen mit einem Grad der Behinderung von unter 80, wenn der schwerbehinderte
+Mensch häuslich pflegebedürftig im Sinne des <lxprod:doknr-verw jumpmark="SGB-XI:14" linkend="HT9126394">§ 14</lxprod:doknr-verw> des Elften Buches
+Sozialgesetzbuch ist;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. 4 000 Euro bei jungen Ehepaaren bis
+zum Ablauf des fünften Kalenderjahres nach dem Jahr der Eheschließung;
+junge Ehepaare sind solche, bei denen keiner der Ehegatten das 40.
+Lebensjahr vollendet hat;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. 600 Euro für jedes Kind unter zwölf
+Jahren, für das Kindergeld nach dem Einkommensteuergesetz oder dem
+Bundeskindergeldgesetz oder eine Leistung im Sinne des <lxprod:doknr-verw jumpmark="EStG:65/1" linkend="HT9126410">§ 65 Abs. 1</lxprod:doknr-verw> des Einkommensteuergesetzes
+oder des <lxprod:doknr-verw jumpmark="BKGG:4/1" linkend="HT9125880">§ 4 Abs. 1</lxprod:doknr-verw>
+des Bundeskindergeldgesetzes gewährt wird, wenn die antragsberechtigte
+Person allein mit Kindern zusammenwohnt und wegen Erwerbstätigkeit
+oder Ausbildung nicht nur kurzfristig vom Haushalt abwesend ist;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. bis zu 600 Euro, soweit ein zum Haushalt
+rechnendes Kind eigenes Einkommen hat und das 16., aber noch nicht
+das 25. Lebensjahr vollendet hat.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800090" apn="WoFG:24/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Aufwendungen zur Erfüllung
+gesetzlicher Unterhaltsverpflichtungen werden bis zu dem in einer
+notariell beurkundeten Unterhaltsvereinbarung festgelegten oder
+in einem Unterhaltstitel oder Unterhaltsbescheid festgestellten
+Betrag abgesetzt. <lxbase:satz nummer="2" />Liegen eine notariell
+beurkundete Unterhaltsvereinbarung, ein Unterhaltstitel oder ein
+Unterhaltsbescheid nicht vor, können Aufwendungen zur Erfüllung
+gesetzlicher Unterhaltsverpflichtungen wie folgt abgesetzt werden:
+</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+bis zu 3 000 Euro für einen Haushaltsangehörigen, der auswärts untergebracht
+ist und sich in der Berufsausbildung befindet;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. bis zu 6 000 Euro für einen nicht
+zum Haushalt rechnenden früheren oder dauernd getrennt lebenden
+Ehegatten oder Lebenspartner;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. bis zu 3 000 Euro für eine sonstige
+nicht zum Haushalt rechnende Person.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para><lxrno:text-para><lxrno:normabsatz id="D912228800091"><lxbase:a><lxbase:fett>Abschnitt
+3 Begründung und Sicherung von Belegungs- und Mietbindungen sowie von
+Bindungen für selbst genutztes Wohneigentum</lxbase:fett></lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800092" apn="WoFG:25">§
+25 Anwendungsbereich</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800093" apn="WoFG:25/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Mietwohnraum unterliegt den
+in der Förderzusage nach <lxbase:intern-verw idref="D912228800046">§
+13 Abs. 2</lxbase:intern-verw> bestimmten Bindungen, insbesondere
+Belegungs- und Mietbindungen. <lxbase:satz nummer="2" />Auf diese
+Bestimmungen sind die <lxbase:intern-verw idref="D912228800095">§§
+26</lxbase:intern-verw> bis <lxbase:intern-verw idref="D912228800135">33</lxbase:intern-verw> und <lxbase:intern-verw idref="D912228800195">52</lxbase:intern-verw> anzuwenden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800094" apn="WoFG:25/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Selbst genutztes Wohneigentum
+unterliegt den in der Förderzusage nach <lxbase:intern-verw idref="D912228800046">§ 13 Abs. 2</lxbase:intern-verw> bestimmten
+Bindungen. <lxbase:satz nummer="2" />Auf diese Bestimmungen sind
+<lxbase:intern-verw idref="D912228800106">§ 27 Abs. 7 Satz 1</lxbase:intern-verw>
+Nr. 2 und 3 und Satz 3 bis 5 sowie Abs. 8, <lxbase:intern-verw idref="D912228800128">§ 32 Abs. 1</lxbase:intern-verw>, 2
+und 4 sowie die <lxbase:intern-verw idref="D912228800135">§§
+33</lxbase:intern-verw> und <lxbase:intern-verw idref="D912228800195">52</lxbase:intern-verw> entsprechend anzuwenden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800095" apn="WoFG:26">§
+26 Gegenstände und Arten der Belegungsrechte</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800096" apn="WoFG:26/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Belegungsrechte können </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+an den geförderten Wohnungen (unmittelbare Belegung),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. an diesen und an anderen Wohnungen
+(verbundene Belegung),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. nur an anderen Wohnungen (mittelbare
+Belegung)</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a> begründet werden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800097" apn="WoFG:26/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Belegungsrechte können in der
+Förderzusage als allgemeine Belegungsrechte, Benennungsrechte und
+Besetzungsrechte begründet werden. <lxbase:satz nummer="2" />Ein
+allgemeines Belegungsrecht ist das Recht der zuständigen Stelle,
+von dem durch die Förderung berechtigten und verpflichteten Eigentümer
+oder sonstigen Verfügungsberechtigten zu fordern, eine bestimmte
+belegungsgebundene Wohnung einem Wohnungssuchenden zu überlassen, dessen
+Wohnberechtigung sich aus einer Bescheinigung nach <lxbase:intern-verw idref="D912228800099">§ 27</lxbase:intern-verw> ergibt. <lxbase:satz nummer="3" />Ein Benennungsrecht ist das Recht der zuständigen
+Stelle, dem Verfügungsberechtigten für die Vermietung einer bestimmten
+belegungsgebundenen Wohnung mindestens drei Wohnungssuchende zur
+Auswahl zu benennen. <lxbase:satz nummer="4" />Ein Besetzungsrecht
+ist das Recht der zuständigen Stelle, einen Wohnungssuchenden zu
+bestimmen, dem der Verfügungsberechtigte eine bestimmte belegungsgebundene
+Wohnung zu überlassen hat.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800098" apn="WoFG:26/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a>In der Förderzusage kann bestimmt werden, dass die zuständige
+Stelle unter in der Förderzusage festgelegten Voraussetzungen befristet
+oder unbefristet statt eines allgemeinen Belegungsrechts ein Benennungsrecht
+oder ein Besetzungsrecht im Sinne des Absatzes 2 ausüben kann.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800099" apn="WoFG:27">§
+27 Wohnberechtigungsschein, Sicherung der Belegungsrechte</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800100" apn="WoFG:27/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Der Verfügungsberechtigte darf
+die Wohnung nur einem Wohnungssuchenden zum Gebrauch überlassen,
+wenn dieser ihm vorher seine Wohnberechtigung durch Übergabe eines
+Wohnberechtigungsscheins nachweist. <lxbase:satz nummer="2" />Der
+Wohnberechtigungsschein wird nach Maßgabe der Absätze 2 bis 5 erteilt.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800101" apn="WoFG:27/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Der Wohnberechtigungsschein
+wird auf Antrag des Wohnungssuchenden von der zuständigen Stelle
+für die Dauer eines Jahres erteilt. <lxbase:satz nummer="2" />Antragsberechtigt
+sind Wohnungssuchende, die sich nicht nur vorübergehend im Geltungsbereich
+dieses Gesetzes aufhalten und die rechtlich und tatsächlich in der
+Lage sind, für sich und ihre Haushaltsangehörigen nach <lxbase:intern-verw idref="D912228800068">§ 18</lxbase:intern-verw> auf längere
+Dauer einen Wohnsitz als Mittelpunkt der Lebensbeziehungen zu begründen
+und dabei einen selbstständigen Haushalt zu führen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800102" apn="WoFG:27/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Der Wohnberechtigungsschein
+ist zu erteilen, wenn vom Wohnungssuchenden und seinen Haushaltsangehörigen
+die Einkommensgrenze nach <lxbase:intern-verw idref="D912228800032">§
+9 Abs. 2</lxbase:intern-verw> eingehalten wird. <lxbase:satz nummer="2" />Hat ein Land nach <lxbase:intern-verw idref="D912228800033">§ 9 Abs. 3</lxbase:intern-verw> eine
+Abweichung von der Einkommensgrenze festgelegt, ist der Wohnberechtigungsschein
+unter Zugrundelegung dieser abweichenden Einkommensgrenze zu erteilen.
+<lxbase:satz nummer="3" />In dem Wohnberechtigungsschein ist anzugeben,
+welche maßgebliche Einkommensgrenze eingehalten wird. <lxbase:satz nummer="4" />Der Wohnberechtigungsschein kann in Abweichung
+von der Einkommensgrenze nach Satz 1 oder 2 mit Geltung für das
+Gebiet eines Landes erteilt werden, wenn </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+die Versagung für den Wohnungssuchenden eine besondere Härte bedeuten
+würde oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. der Wohnungssuchende durch den Bezug
+der Wohnung eine andere geförderte Wohnung freimacht, deren Miete,
+bezogen auf den Quadratmeter Wohnfläche, niedriger ist oder deren
+Größe die für ihn maßgebliche Wohnungsgröße übersteigt.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:satz nummer="5" />Die Erteilung des Wohnberechtigungsscheins
+ist zu versagen, wenn sie auch bei Einhaltung der nach Satz 1 oder
+2 maßgeblichen Einkommensgrenze offensichtlich nicht gerechtfertigt
+wäre.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800103" apn="WoFG:27/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />In dem Wohnberechtigungsschein
+ist die für den Wohnungssuchenden und seine Haushaltsangehörigen
+nach den Bestimmungen des Landes maßgebliche Wohnungsgröße nach
+der Raumzahl oder nach der Wohnfläche anzugeben. <lxbase:satz nummer="2" />Von der maßgeblichen Grenze kann im Einzelfall
+</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+zur Berücksichtigung </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+besonderer persönlicher oder beruflicher Bedürfnisse eines Haushaltsangehörigen
+oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) eines nach der Lebenserfahrung in
+absehbarer Zeit zu erwartenden zusätzlichen Raumbedarfs oder</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. zur Vermeidung besonderer Härten</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a> abgewichen werden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800104" apn="WoFG:27/5"><lxrno:nummer>5</lxrno:nummer><lxbase:a>Soweit Wohnungen nach der Förderzusage bestimmten Haushalten
+vorbehalten sind und der Wohnungssuchende und seine Haushaltsangehörigen
+zu diesen Haushalten gehören, sind im Wohnberechtigungsschein Angaben
+zur Zugehörigkeit zu diesen Haushalten aufzunehmen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800105" apn="WoFG:27/6"><lxrno:nummer>6</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Ist eine Wohnung entgegen Absatz
+1 Satz 1 überlassen worden, hat der Verfügungsberechtigte auf Verlangen
+der zuständigen Stelle das Mietverhältnis zu kündigen und die Wohnung
+einem Wohnungssuchenden nach Absatz 1 Satz 1 zu überlassen. <lxbase:satz nummer="2" />Kann der Verfügungsberechtigte die Beendigung
+des Mietverhältnisses durch Kündigung nicht alsbald erreichen, kann
+die zuständige Stelle von dem Mieter, dem der Verfügungsberechtigte
+die Wohnung entgegen Absatz 1 Satz 1 überlassen hat, die Räumung
+der Wohnung verlangen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800106" apn="WoFG:27/7"><lxrno:nummer>7</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Der Verfügungsberechtigte darf
+eine Wohnung nur mit Genehmigung der zuständigen Stelle </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+selbst nutzen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. nicht nur vorübergehend, mindestens
+drei Monate, leer stehen lassen oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. anderen als Wohnzwecken zuführen oder
+entsprechend baulich ändern.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:satz nummer="2" />Im Fall des Satzes 1 Nr. 1
+ist die Genehmigung zu erteilen, wenn der Verfügungsberechtigte
+und seine Haushaltsangehörigen die Voraussetzungen für die Erteilung
+eines Wohnberechtigungsscheins nach den Absätzen 1 bis 5 erfüllen.
+<lxbase:satz nummer="3" />Im Fall des Satzes 1 Nr. 2 darf die
+Genehmigung nur erteilt werden, wenn und solange eine Vermietung
+nicht möglich ist und der Förderzweck nicht auf andere Weise, auch
+nicht durch Freistellung von Belegungsbindungen nach <lxbase:intern-verw idref="D912228800118">§ 30</lxbase:intern-verw> oder durch
+Übertragung von Belegungs- und Mietbindungen nach <lxbase:intern-verw idref="D912228800122">§ 31, </lxbase:intern-verw>erreicht
+werden kann. <lxbase:satz nummer="4" />Im Fall des Satzes 1 Nr.
+3 kann die Genehmigung erteilt werden, wenn und soweit ein überwiegendes
+öffentliches Interesse oder ein überwiegendes berechtigtes Interesse
+des Verfügungsberechtigten oder eines Dritten an der anderen Verwendung
+oder baulichen Änderung der Wohnung besteht; die Genehmigung kann
+unter der Verpflichtung zu einem Geldausgleich in angemessener Höhe
+oder zur vertraglichen Einräumung eines Belegungsrechts für eine
+andere nicht gebundene Wohnung (Ersatzwohnung) erteilt werden. <lxbase:satz nummer="5" />Wer der sich aus Satz 1 Nr. 3 ergebenden Verpflichtung
+zuwiderhandelt, hat auf Verlangen der zuständigen Stelle die Eignung
+für Wohnzwecke auf seine Kosten wiederherzustellen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800107" apn="WoFG:27/8"><lxrno:nummer>8</lxrno:nummer><lxbase:a>Sobald voraussehbar ist, dass eine Wohnung bezugsfertig
+oder frei wird, hat der Verfügungsberechtigte dies der zuständigen
+Stelle unverzüglich schriftlich anzuzeigen und den voraussichtlichen
+Zeitpunkt der Bezugsfertigkeit oder des Freiwerdens mitzuteilen.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800108" apn="WoFG:28">§
+28 Bestimmung und Sicherung der höchstzulässigen Miete</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800109" apn="WoFG:28/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />In der Förderzusage ist eine
+höchstzulässige Miete zu bestimmen; sie ist die Miete ohne den Betrag
+für Betriebskosten. <lxbase:satz nummer="2" />In der Förderzusage
+können Änderungen der höchstzulässigen Miete während der Dauer der
+Förderung, auch für Mieterhöhungen nach durchgeführten Modernisierungen,
+vorgesehen oder vorbehalten werden. <lxbase:satz nummer="3" />Bestimmungen über
+die höchstzulässige Miete dürfen nicht zum Nachteil des Mieters
+von den allgemeinen mietrechtlichen Vorschriften abweichen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800110" apn="WoFG:28/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Der Vermieter darf eine Wohnung
+nicht gegen eine höhere als die höchstzulässige Miete zum Gebrauch
+überlassen. <lxbase:satz nummer="2" />Er hat die in der Förderzusage
+enthaltenen Bestimmungen über die höchstzulässige Miete und das
+Bindungsende im Mietvertrag anzugeben.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800111" apn="WoFG:28/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a>Der Vermieter kann die Miete nach Maßgabe der allgemeinen
+mietrechtlichen Vorschriften erhöhen, jedoch nicht höher als bis
+zur höchstzulässigen Miete und unter Einhaltung sonstiger Bestimmungen
+der Förderzusage zur Mietbindung.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800112" apn="WoFG:28/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a>Der Vermieter darf </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+eine Leistung zur Abgeltung von Betriebskosten nur nach Maßgabe
+der §§ 556, <lxprod:doknr-verw jumpmark="BGB:556a" linkend="HT9125563">556a</lxprod:doknr-verw> und
+<lxprod:doknr-verw jumpmark="BGB:560" linkend="HT9125563">560</lxprod:doknr-verw> des
+Bürgerlichen Gesetzbuchs und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. eine einmalige oder sonstige Nebenleistung
+nur insoweit, als sie nach Vorschriften des Landes oder nach den
+Bestimmungen der Förderzusage zugelassen ist,</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a> fordern, sich versprechen lassen oder annehmen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800113" apn="WoFG:28/5"><lxrno:nummer>5</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Der Mieter kann sich gegenüber
+dem Vermieter auf die Bestimmung der Förderzusage über die höchstzulässige
+Miete und auf die sonstigen Bestimmungen der Förderzusage zur Mietbindung
+berufen. <lxbase:satz nummer="2" />Hierzu hat ihm der Vermieter
+die erforderlichen Auskünfte zu erteilen. <lxbase:satz nummer="3" />Erteilt
+der Vermieter die Auskünfte nicht oder nur unzureichend, hat dies
+auf Verlangen des Mieters durch die zuständige Stelle zu erfolgen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800114" apn="WoFG:28/6"><lxrno:nummer>6</lxrno:nummer><lxbase:a>Von den Absätzen 1 bis 5 abweichende Vereinbarungen im
+Mietvertrag sind unwirksam.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800115" apn="WoFG:29">§
+29 Dauer der Belegungs- und Mietbindungen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800116" apn="WoFG:29/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Dauer der Belegungs- und
+Mietbindungen ist in der Förderzusage durch Festlegung einer Frist
+zu bestimmen; bei der Gewährung von Darlehen sind Bestimmungen über
+die Dauer der Bindungen bei vorzeitiger vollständiger Rückzahlung
+der Darlehen zu treffen, die dem mit dem Einsatz der Fördermittel
+verfolgten Förderzweck Rechnung tragen. <lxbase:satz nummer="2" />Die Bindungen
+bleiben bestehen </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+bei Rückzahlung der Darlehen auf Grund einer Kündigung wegen Verstoßes
+gegen Bestimmungen der Förderzusage bis zu dem in der Förderzusage
+bestimmten Ende der Bindungen, längstens jedoch bis zum Ablauf des
+zwölften Kalenderjahres nach dem Jahr der Rückzahlung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. bei einer Zwangsversteigerung des
+Grundstücks bis zu dem in der Förderzusage bestimmten Ende der Bindungen,
+längstens jedoch bis zum Ablauf des dritten Kalenderjahres nach
+dem Kalenderjahr, in dem der Zuschlag erteilt worden ist und die
+auf Grund der Darlehensförderung begründeten Grundpfandrechte mit
+dem Zuschlag erloschen sind.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:satz nummer="3" />Bei der Gewährung von Zuschüssen
+bleiben die Bindungen im Fall der Rückforderung der Zuschüsse wegen
+Verstoßes gegen die Bestimmungen der Förderzusage längstens zwölf
+Kalenderjahre nach dem Jahr der Rückzahlung, im Fall der Zwangsversteigerung des
+Grundstücks bis zum Zuschlag bestehen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800117" apn="WoFG:29/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die zuständige Stelle hat auf
+Antrag dem Verfügungsberechtigten und bei berechtigtem Interesse
+auch einem Wohnungssuchenden und dem Mieter schriftlich zu bestätigen,
+wie lange die Belegungs- und Mietbindungen dauern. <lxbase:satz nummer="2" />Die Bestätigung ist gegenüber dem Verfügungsberechtigten
+und dem Mieter in tatsächlicher und rechtlicher Hinsicht verbindlich.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800118" apn="WoFG:30">§
+30 Freistellung von Belegungsbindungen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800119" apn="WoFG:30/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Die zuständige Stelle kann den Verfügungsberechtigten
+von den Verpflichtungen nach § 27 Abs. 1 und 7 Satz 1 freistellen,
+wenn und soweit </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+nach den örtlichen wohnungswirtschaftlichen Verhältnissen ein überwiegendes öffentliches
+Interesse an den Bindungen nicht mehr besteht oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. an der Freistellung ein überwiegendes
+öffentliches Interesse besteht oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. die Freistellung der Schaffung oder
+Erhaltung sozial stabiler Bewohnerstrukturen dient oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. an der Freistellung ein überwiegendes
+berechtigtes Interesse des Verfügungsberechtigten oder eines Dritten
+besteht</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a> und für die Freistellung ein Ausgleich dadurch erfolgt,
+dass der Verfügungsberechtigte der zuständigen Stelle das Belegungsrecht
+für Ersatzwohnungen, die bezugsfertig oder frei sind, für die Dauer
+der Freistellung vertraglich einräumt oder einen Geldausgleich in angemessener
+Höhe oder einen sonstigen Ausgleich in angemessener Art und Weise leistet.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800120" apn="WoFG:30/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Freistellungen können für bestimmte Wohnungen, für Wohnungen
+bestimmter Art oder für Wohnungen in bestimmten Gebieten erteilt
+werden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800121" apn="WoFG:30/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a>Bei einer Freistellung kann von einem Ausgleich abgesehen
+werden, wenn und soweit die Freistellung im überwiegenden öffentlichen
+Interesse erteilt wird.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800122" apn="WoFG:31">§
+31 Übertragung von Belegungs- und Mietbindungen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800123" apn="WoFG:31/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Die zuständige Stelle kann mit dem Verfügungsberechtigten
+vereinbaren, dass die Belegungs- und Mietbindungen von geförderten
+Wohnungen (Förderwohnungen) auf Ersatzwohnungen des Verfügungsberechtigten
+übergehen, wenn </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+dies der Schaffung oder Erhaltung sozial stabiler Bewohnerstrukturen
+dient oder aus anderen Gründen der örtlichen wohnungswirtschaftlichen
+Verhältnisse geboten ist und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Förderwohnungen und Ersatzwohnungen
+unter Berücksichtigung des Förderzwecks gleichwertig sind und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. sichergestellt ist, dass zum Zeitpunkt
+des Übergangs die Wohnungen bezugsfertig oder frei sind.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800124" apn="WoFG:31/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Gegenstand der Vereinbarung können ohne Vorliegen der
+Voraussetzungen des Absatzes 1 Nr. 2 auch Änderungen der Belegungs-
+und Mietbindungen, insbesondere deren Anzahl, Dauer, Art oder Höhe
+sein, wenn die Änderungen unter Berücksichtigung der maßgeblichen
+Umstände, insbesondere des Wohnwerts der Wohnungen, nicht zu einem mehr
+als nur unerheblichen wirtschaftlichen Vorteil des Verfügungsberechtigten
+führen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800125" apn="WoFG:31/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />In der Vereinbarung sind weitere
+zum Übergang und zur Änderung der Belegungs- und Mietbindungen sowie
+zu sonstigen in der Förderzusage festgelegten Berechtigungen und
+Verpflichtungen erforderliche Bestimmungen zu treffen, namentlich
+zum Zeitpunkt des Übergangs. <lxbase:satz nummer="2" />Mit dem
+Zeitpunkt des Übergangs gelten die Ersatzwohnungen als geförderte
+Wohnungen im Sinne der Förderzusage; auf die Ersatzwohnungen sind
+die Vorschriften dieses und des vierten Abschnitts anzuwenden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800126" apn="WoFG:31/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a>Sind gewährte Fördermittel durch dingliche Rechte am Grundstück
+der Förderwohnungen gesichert, können die zuständige Stelle, der
+Verfügungsberechtigte und der Gläubiger vereinbaren, dass die dinglichen
+Rechte aufgehoben und am Grundstück der Ersatzwohnungen neu bestellt
+werden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800127" apn="WoFG:32">§
+32 Sonstige Vorschriften der Sicherung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800128" apn="WoFG:32/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die zuständige Stelle kann
+Bestimmungen der Förderzusage nach den allgemeinen Vorschriften
+im Wege des Verwaltungszwangs vollziehen. <lxbase:satz nummer="2" />Soweit
+die Bestimmungen in einem öffentlich-rechtlichen Vertrag getroffen
+werden, hat sich der Förderempfänger der sofortigen Vollstreckung
+nach § 61 des Verwaltungsverfahrensgesetzes oder nach entsprechenden
+landesrechtlichen Vorschriften zu unterwerfen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800129" apn="WoFG:32/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die zuständige Stelle hat über
+die Wohnungen, ihre Nutzung, die jeweiligen Mieter und Vermieter
+sowie über die Belegungsrechte und die höchstzulässigen Mieten im
+Sinne des <lxprod:doknr-verw jumpmark="BDSG:3/3" linkend="HT9126163">§ 3 Abs. 3</lxprod:doknr-verw>
+bis 5 des Bundesdatenschutzgesetzes oder entsprechender landesrechtlicher Vorschriften
+Daten zu erheben, zu verarbeiten und zu nutzen, soweit dies zur
+Sicherung der Zweckbestimmung der Wohnungen und der sonstigen Bestimmungen
+der Förderzusage erforderlich ist. <lxbase:satz nummer="2" />Der
+Vermieter und der Mieter sind verpflichtet, der zuständigen Stelle
+auf Verlangen Auskunft zu erteilen und Einsicht in ihre Unterlagen
+zu gewähren und ihr die Besichtigung von Grundstücken, Gebäuden
+und Wohnungen zu gestatten, soweit dies zur Sicherung der Zweckbestimmung
+der Wohnungen und der sonstigen Bestimmungen der Förderzusage erforderlich
+ist. <lxbase:satz nummer="3" />Durch Satz 2 wird das Grundrecht
+der Unverletzlichkeit der Wohnung (<lxprod:doknr-verw jumpmark="GG:13" linkend="HT9126016">Artikel
+13</lxprod:doknr-verw> des Grundgesetzes) eingeschränkt.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800130" apn="WoFG:32/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Der Vermieter hat der zuständigen
+Stelle die Veräußerung von belegungs- oder mietgebundenen Wohnungen
+und die Begründung von Wohnungseigentum an solchen Wohnungen unverzüglich
+schriftlich mitzuteilen. <lxbase:satz nummer="2" />Der Vermieter,
+der eine Wohnung erworben hat, an der nach der Überlassung an einen
+Mieter Wohnungseigentum begründet worden ist, darf sich dem Mieter
+gegenüber auf berechtigte Interessen an der Beendigung des Mietverhältnisses
+im Sinne des <lxprod:doknr-verw jumpmark="BGB:573/2" linkend="HT9125563">§ 573 Abs.
+2 Nr. 2</lxprod:doknr-verw> des Bürgerlichen Gesetzbuchs nicht berufen,
+solange die Wohnung Belegungs- oder Mietbindungen unterliegt; im
+Übrigen bleibt <lxprod:doknr-verw jumpmark="BGB:577a/1" linkend="HT9125563">§ 577a Abs.
+1</lxprod:doknr-verw> und 2 des Bürgerlichen Gesetzbuchs unberührt,
+soweit in dieser Bestimmung auf <lxprod:doknr-verw jumpmark="BGB:573/2" linkend="HT9125563">§
+573 Abs. 2 Nr. 2</lxprod:doknr-verw> des Bürgerlichen Gesetzbuchs
+verwiesen wird.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800131" apn="WoFG:32/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Finanzbehörden und Arbeitgeber
+haben der zuständigen Stelle Auskunft über die Einkommensverhältnisse
+der Wohnungssuchenden zu erteilen, soweit dies zur Sicherung der
+Zweckbestimmung der Wohnungen und der sonstigen Bestimmungen der
+Förderzusage erforderlich ist und begründete Zweifel an der Richtigkeit
+der Angaben und der hierzu vorgelegten Nachweise bestehen. <lxbase:satz nummer="2" />Vor einem Auskunftsersuchen an den Arbeitgeber
+soll dem Wohnungssuchenden Gelegenheit zur Stellungnahme gegeben
+werden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800132" apn="WoFG:32/5"><lxrno:nummer>5</lxrno:nummer><lxbase:a>Fördermittel, die in Abhängigkeit vom jeweiligen Haushaltseinkommen
+des Mieters gewährt werden, können auch dann an den Vermieter ausgezahlt
+werden, wenn dieser aus den geleisteten Zahlungen Rückschlüsse auf
+das Einkommen des Mieterhaushalts ziehen kann.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800133" apn="WoFG:32/6"><lxrno:nummer>6</lxrno:nummer><lxbase:a>Die für Wohnungen geltenden Vorschriften dieses Abschnitts
+gelten entsprechend für einzelne Wohnräume mit Ausnahme solcher
+in Wohnheimen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800134" apn="WoFG:32/7"><lxrno:nummer>7</lxrno:nummer><lxbase:a>Für die Zwecke der Sicherung der höchstzulässigen Miete
+nach <lxbase:intern-verw idref="D912228800110">§ 28 Abs. 2 bis
+6</lxbase:intern-verw> und für die übrigen Sicherungsvorschriften
+der Absätze 2, 3, 5 und 6 ist der sonstige Verfügungsberechtigte
+dem Vermieter gleichgestellt.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800135" apn="WoFG:33">§
+33 Geldleistung bei Gesetzesverstößen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800136"><lxbase:a><lxbase:satz nummer="1" />Für die Zeit, während der der Verfügungsberechtigte
+oder ein von ihm Beauftragter schuldhaft gegen die Vorschriften
+des <lxbase:intern-verw idref="D912228800100">§ 27 Abs. 1</lxbase:intern-verw>
+oder 6 Satz 1 oder Abs. 7 Satz 1 oder Abs. 8 oder des <lxbase:intern-verw idref="D912228800110">§ 28 Abs. 2 bis 4</lxbase:intern-verw>
+oder des <lxbase:intern-verw idref="D912228800130">§ 32 Abs.
+3 Satz 1</lxbase:intern-verw> verstößt, kann die zuständige Stelle
+für die Dauer des Verstoßes durch Verwaltungsakt von dem Verfügungsberechtigten
+Geldleistungen bis zu monatlich 5 Euro je Quadratmeter Wohnfläche
+der Wohnung, auf die sich der Verstoß bezieht, erheben. <lxbase:satz nummer="2" />Für die Bemessung der Geldleistungen sind ausschließlich
+der Wohnwert der Wohnung und die Schwere des Verstoßes maßgebend.
+<lxbase:satz nummer="3" />Die eingezogenen Geldleistungen sind
+für Maßnahmen der sozialen Wohnraumförderung einzusetzen.</lxbase:a></lxrno:normabsatz></lxrno:text-para><lxrno:text-para><lxrno:normabsatz id="D912228800137"><lxbase:a><lxbase:fett>Abschnitt
+4 Ausgleich von Fehlförderungen</lxbase:fett></lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800138" apn="WoFG:34">§
+34 Grundlagen der Ausgleichszahlung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800139" apn="WoFG:34/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Länder können, um eine
+Fehlförderung im Sinne des § 7 Nr. 2 Satz 1 und 3 auszugleichen,
+landesrechtliche Vorschriften über die Erhebung einer Ausgleichszahlung
+von Mietern geförderter Wohnungen erlassen; sie treffen dazu nach
+Maßgabe der Absätze 2 bis 4, des <lxbase:intern-verw idref="D912228800147">§ 35 Abs. 1 Satz 2</lxbase:intern-verw>,
+des <lxbase:intern-verw idref="D912228800152">§ 36 Abs. 1 und
+3</lxbase:intern-verw> sowie des <lxbase:intern-verw idref="D912228800157">§ 37 Abs. 2 Satz 1 und 4</lxbase:intern-verw>
+die erforderlichen Bestimmungen. <lxbase:satz nummer="2" />Auf
+die Erhebung von Ausgleichszahlungen sind die Absätze 5 bis 7 sowie
+<lxbase:intern-verw idref="D912228800147">§ 35 Abs. 1 Satz 1</lxbase:intern-verw>,
+3 und 4 und Abs. 2 bis 4, § 36 Abs. 2 sowie § 37 Abs. 1 und 2 Satz
+2 und 3 anzuwenden. <lxbase:satz nummer="3" /><lxbase:intern-verw idref="D912228800133">§ 32 Abs. 6</lxbase:intern-verw> gilt
+entsprechend für die Vorschriften dieses Abschnitts.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800140" apn="WoFG:34/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Länder legen fest, in welchen
+Gemeinden und für welche Arten von geförderten Wohnungen eine Ausgleichszahlung
+erhoben werden soll. <lxbase:satz nummer="2" />Dabei kann von
+der Festlegung einer Gemeinde auch abgesehen werden, wenn in der
+Gemeinde </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+die für die Wohnungen bestimmten höchstzulässigen Mieten nur geringfügige Wohnkostenentlastungen
+beinhalten oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. der Verwaltungsaufwand für die Erhebung
+einer Ausgleichszahlung in einem unangemessenen Verhältnis zu den
+erwarteten Einnahmen stehen würde.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800141" apn="WoFG:34/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a>Die Verpflichtung zur Leistung einer Ausgleichszahlung
+darf für Mieter nur vorgesehen werden, wenn das Gesamteinkommen
+der Haushaltsangehörigen und der die Wohnung nicht nur vorübergehend
+nutzenden sonstigen Personen die entsprechend § 9 maßgebliche Einkommensgrenze
+mehr als unerheblich übersteigt.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800142" apn="WoFG:34/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Eine Verpflichtung zur Leistung
+einer Ausgleichszahlung darf nicht vorgesehen werden </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+für Mieter, die Wohngeld nach dem Wohngeldgesetz erhalten,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. für Mieter, die Leistungen der Hilfe
+zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch oder
+Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch
+Sozialgesetzbuch oder Leistungen der ergänzenden Hilfe zum Lebensunterhalt
+nach § 27a des Bundesversorgungsgesetzes erhalten und daneben keine weiteren
+Einkünfte erzielen, bei deren Berücksichtigung eine Ausgleichszahlung
+zu leisten wäre, oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. wenn eine Freistellung nach <lxbase:intern-verw idref="D912228800119">§ 30 Abs. 1 und 2</lxbase:intern-verw>
+für das Gebiet, in dem die Wohnung liegt, erfolgt ist.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:satz nummer="2" />Die Tatsachen für die Ausnahme
+von der Leistungspflicht nach Satz 1 hat der Mieter nachzuweisen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800143" apn="WoFG:34/5"><lxrno:nummer>5</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Von der Erhebung einer Ausgleichszahlung
+kann für bestimmte Wohnungen, für Wohnungen bestimmter Art, für
+Wohnungen in bestimmten Gebieten von Gemeinden oder für Wohnungen
+in bestimmten Teilen von Gemeinden ganz oder teilweise abgesehen werden,
+wenn nach dem Förderzweck unter Berücksichtigung der örtlichen wohnungswirtschaftlichen
+Verhältnisse das Absehen der Schaffung oder Erhaltung sozial stabiler Bewohnerstrukturen
+dient. <lxbase:satz nummer="2" />Satz 1 gilt entsprechend für
+bestimmte Wohnungen oder für Wohnungen bestimmter Art, wenn Tatsachen
+die Annahme rechtfertigen, dass die Vermietbarkeit dieser Wohnungen
+während des Leistungszeitraums sonst nicht gesichert wäre, oder
+für eine Wohnung, die vom Verfügungsberechtigten, der mindestens
+vier geförderte Wohnungen geschaffen hat, selbst genutzt wird.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800144" apn="WoFG:34/6"><lxrno:nummer>6</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die zuständige Stelle hat die
+eingezogenen Ausgleichszahlungen an das Land abzuführen, soweit
+nichts anderes bestimmt ist. <lxbase:satz nummer="2" />Das Aufkommen
+aus der Erhebung der Ausgleichszahlungen ist laufend für die soziale
+Wohnraumförderung zu verwenden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800145" apn="WoFG:34/7"><lxrno:nummer>7</lxrno:nummer><lxbase:a>Für die Zwecke des Ausgleichs von Fehlförderungen nach
+diesem Abschnitt sind sonstige Wohnungsinhaber den Mietern gleichgestellt.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800146" apn="WoFG:35">§
+35 Einkommensermittlung und Einkommensnachweis</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800147" apn="WoFG:35/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Auf die Ermittlung des Gesamteinkommens
+sind die <lxbase:intern-verw idref="D912228800074">§§ 20</lxbase:intern-verw>
+bis <lxbase:intern-verw idref="D912228800088">24</lxbase:intern-verw>
+unter Einbeziehung der die Wohnung nicht nur vorübergehend nutzenden
+Personen anzuwenden. <lxbase:satz nummer="2" />Die Länder können
+bestimmen, dass abweichend von Satz 1 zur weitergehenden Berücksichtigung sozialer
+Gründe, die der Vermeidung nicht vertretbarer Belastungen dient,
+zusätzliche Freibeträge vom Gesamteinkommen abgesetzt werden können.
+<lxbase:satz nummer="3" />Maßgebend für die Einkommensermittlung
+nach den Sätzen 1 und 2 sind die Verhältnisse neun Monate vor Beginn
+des durch landesrechtliche Vorschriften nach <lxbase:intern-verw idref="D912228800152">§ 36 Abs. 1 Nr. 3</lxbase:intern-verw>
+bestimmten Leistungszeitraums. <lxbase:satz nummer="4" />Abweichend
+hiervon ist in den Fällen des § 37 Abs. 2 der Zeitpunkt der Antragstellung
+maßgebend.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800148" apn="WoFG:35/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Der Mieter hat auf Anforderung
+der zuständigen Stelle sein Einkommen nachzuweisen und die weiteren
+Haushaltsangehörigen sowie die die Wohnung nicht nur vorübergehend
+nutzenden sonstigen Personen zu benennen sowie deren Einkommen nachzuweisen.
+<lxbase:satz nummer="2" />Dem Mieter ist hierfür eine angemessene
+Frist einzuräumen. <lxbase:satz nummer="3" />Verweigert eine für die
+Einkommensermittlung heranzuziehende Person gegenüber dem Mieter
+Angaben über ihr Einkommen, ist sie verpflichtet, die erforderlichen
+Angaben gegenüber der zuständigen Stelle zu machen und nachzuweisen;
+Satz 2 gilt entsprechend. <lxbase:satz nummer="4" />Der Mieter hat
+die zur Angabe des Einkommens verpflichtete Person vorab darauf
+hinzuweisen, dass sie ihre Angabe gegenüber der zuständigen Stelle
+machen und nachweisen kann.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800149" apn="WoFG:35/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Versäumt der Mieter oder die
+zur Angabe des Einkommens verpflichtete Person die Frist nach Absatz
+2 Satz 2 und 3, wird vermutet, dass eine Überschreitung der Einkommensgrenze
+in dem Umfang vorliegt, der den Mieter zu der nach <lxbase:intern-verw idref="D912228800151">§ 36</lxbase:intern-verw> festgelegten
+höchstmöglichen Ausgleichszahlung verpflichtet. <lxbase:satz nummer="2" />Wird die Verpflichtung nach Absatz 2 Satz 1 nachträglich
+erfüllt, ist vom ersten Tag des nächsten Kalendermonats an nur der
+Betrag zu entrichten, der sich nach Überprüfung der Einkommensverhältnisse
+ergibt.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800150" apn="WoFG:35/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Finanzbehörden und Arbeitgeber
+haben der zuständigen Stelle Auskunft über die Einkommensverhältnisse
+zu erteilen, soweit dies für die Festsetzung der Ausgleichszahlung erforderlich
+ist und begründete Zweifel an der Richtigkeit der Angaben und der
+hierzu vorgelegten Nachweise bestehen. <lxbase:satz nummer="2" />Vor
+einem Auskunftsersuchen an den Arbeitgeber soll dem Mieter oder
+der zur Angabe des Einkommens verpflichteten Person Gelegenheit
+zur Stellungnahme gegeben werden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800151" apn="WoFG:36">§
+36 Höhe der Ausgleichszahlung und Leistungszeitraum</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800152" apn="WoFG:36/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Die Länder bestimmen </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+den monatlichen Höchstbetrag je Quadratmeter Wohnfläche, auf den
+die Ausgleichszahlung festgesetzt werden kann,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. die Höhe der nach dem Gesamteinkommen
+des Haushalts zu staffelnden monatlichen Ausgleichszahlung je Quadratmeter
+Wohnfläche sowie</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. den Leistungszeitraum, für den die
+Ausgleichszahlung erhoben wird, und den Beginn der Leistungspflicht.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800153" apn="WoFG:36/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Der Gesamtbetrag aus höchstzulässiger Miete und Ausgleichszahlung
+darf die ortsübliche Vergleichsmiete im Sinne des <lxprod:doknr-verw jumpmark="BGB:558/2" linkend="HT9125563">§ 558 Abs. 2</lxprod:doknr-verw> des Bürgerlichen
+Gesetzbuchs nicht überschreiten.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800154" apn="WoFG:36/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Länder können zum Zwecke
+der Begrenzung der Ausgleichszahlung durch ortsübliche Vergleichsmieten
+nach Absatz 2 Höchstbeträge bestimmen. <lxbase:satz nummer="2" />Sie
+können hierfür </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Beträge bis zum Mittelwert der in einem Mietspiegel enthaltenen
+Mietspanne oder bis zu den in einem Mietspiegel enthaltenen Festbeträgen
+für Wohnungen vergleichbarer Art, Größe, Ausstattung, Beschaffenheit
+und Lage oder,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. wenn ein Mietspiegel nicht besteht
+oder keine entsprechenden Angaben enthält, die nach statistischen
+Erhebungen und deren Fortschreibung oder sonstigen Erkenntnismitteln
+erfahrungsgemäß zu erzielenden Entgelte für Wohnungen vergleichbarer Art,
+Größe, Ausstattung, Beschaffenheit und Lage nach Gemeinden unterschiedlich</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a> festlegen. <lxbase:satz nummer="3" />Sie können auch
+bestimmen, dass bei der Festsetzung der Ausgleichszahlung bestimmte
+eigene Leistungen des Mieters und der sich hieraus ergebende Mietvorteil
+zu seinen Gunsten berücksichtigt werden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800155" apn="WoFG:37">§
+37 Wegfall und Minderung der Ausgleichszahlung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800156" apn="WoFG:37/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Die Verpflichtung zur Leistung einer Ausgleichszahlung
+erlischt, sobald die Wohnung nicht mehr der Mietbindung unterliegt
+oder von keinem der Mieter mehr genutzt wird.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800157" apn="WoFG:37/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Die Zahlungspflicht ist auf
+Antrag mit Wirkung vom ersten Tag des auf den Antrag folgenden Kalendermonats
+an auf den Betrag herabzusetzen, der den Verhältnissen im Zeitpunkt
+des Antrags entspricht, wenn dieser Betrag niedriger ist, weil </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+das Gesamteinkommen die nach Absatz 2 oder auf Grund des Absatzes
+3 des § 9 maßgebliche Einkommensgrenze unterschreitet,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. sich das Gesamteinkommen um mehr als
+15 Prozent verringert hat,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. sich die Zahl der Haushaltsangehörigen
+und der die Wohnung nicht nur vorübergehend nutzenden sonstigen
+Personen erhöht hat oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. sich die Miete nach § 28 Abs. 1 Satz
+1 um mehr als 15 Prozent erhöht hat.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:satz nummer="2" />Die Herabsetzung nach Satz
+1 soll rückwirkend erfolgen, wenn das die Herabsetzung begründende
+Ereignis durch eine amtliche Bescheinigung nachgewiesen wird und
+diese Bescheinigung erst zu einem späteren Zeitpunkt beigebracht
+werden kann. <lxbase:satz nummer="3" />Der Antrag kann in den
+Fällen des Satzes 1 nur bis sechs Monate vor Ablauf des Leistungszeitraums, im
+Fall des Satzes 2 nur bis zum Ablauf des Leistungszeitraums gestellt
+werden. <lxbase:satz nummer="4" />Die Länder können zur Vermeidung
+eines unvertretbaren Verwaltungsaufwands von Satz 1 abweichende
+Bestimmungen erlassen.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800158">Teil 3
+Bundesmittel</lxbase:ueberschrift><lxrno:kapitel><lxbase:ueberschrift id="D912228800159" apn="WoFG:38">§
+38 (weggefallen)</lxbase:ueberschrift></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800160" apn="WoFG:39">§
+39 (weggefallen)</lxbase:ueberschrift></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800161" apn="WoFG:40">§
+40 (weggefallen)</lxbase:ueberschrift></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800162">Teil 4
+Ergänzungsvorschriften</lxbase:ueberschrift><lxrno:kapitel><lxbase:ueberschrift id="D912228800163" apn="WoFG:41">§
+41 (weggefallen)</lxbase:ueberschrift></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800164" apn="WoFG:42">§
+42 (weggefallen)</lxbase:ueberschrift></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800165" apn="WoFG:43">§
+43 (weggefallen)</lxbase:ueberschrift></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800166" apn="WoFG:44">§
+44 Sonderregelungen für einzelne Länder</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800167"><lxbase:a>In
+dem in <lxbase:norm-fs normform="EV:3">Artikel 3</lxbase:norm-fs>
+des Einigungsvertrags genannten Gebiet gelten: </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Fördergegenstand ist bis zum 31. Dezember 2008 in Ergänzung des
+<lxbase:intern-verw idref="D912228800007">§ 2 Abs. 1</lxbase:intern-verw>
+auch die Instandsetzung vorhandener Wohnungen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Bei der Förderung der Modernisierung
+und, soweit sie nach Nummer 1 Fördergegenstand ist, der Instandsetzung
+von Mietwohnungen kann von der Begründung von Belegungsbindungen
+abgesehen werden, soweit in dem Gebiet auf Grund von nach <lxbase:norm-fs normform="ASHG:12/2">§ 12 Abs. 2 Satz 1</lxbase:norm-fs>
+und 2 und <lxbase:norm-fs normform="ASHG:13">§ 13</lxbase:norm-fs>
+des Altschuldenhilfe-Gesetzes erlassenen landesrechtlichen Vorschriften
+genügend Wohnungen belegungsgebunden sind.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800168" apn="WoFG:45">§
+45 Förderung mit Wohnungsfürsorgemitteln</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800169" apn="WoFG:45/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Bei der Vergabe von Fördermitteln für Wohnungen, die für
+Angehörige des öffentlichen Dienstes oder ähnlicher Personengruppen
+aus öffentlichen Haushalten und Zweckvermögen unter Vereinbarung
+eines Wohnungsbesetzungsrechts unmittelbar oder mittelbar zur Verfügung
+gestellt werden (Wohnungsfürsorgemittel), findet <lxbase:intern-verw idref="D912228800108">§ 28</lxbase:intern-verw> entsprechende Anwendung.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800170" apn="WoFG:45/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Auf die nach Absatz 1 geförderten Wohnungen sind die <lxbase:intern-verw idref="D912228800138">§§ 34</lxbase:intern-verw> bis <lxbase:intern-verw idref="D912228800155">37</lxbase:intern-verw> und die hierzu ergangenen
+landesrechtlichen Vorschriften über die Erhebung von Ausgleichszahlungen mit
+folgenden Maßgaben anzuwenden: </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Für diese Wohnungen sind die landesrechtlichen Vorschriften des
+Landes, in dem die geförderten Wohnungen liegen, maßgeblich.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. Die eingezogenen Ausgleichszahlungen
+stehen den öffentlichen Haushalten oder Zweckvermögen zu, aus denen
+die Fördermittel verausgabt wurden; sie sind zur Förderung von Wohnungen
+nach Absatz 1 zu verwenden, soweit hierfür ein Bedarf besteht, im
+Übrigen für die soziale Wohnraumförderung. Sind für die Wohnungen auch
+Mittel der sozialen Wohnraumförderung eingesetzt worden, stehen
+die Einnahmen aus den Ausgleichszahlungen dem jeweiligen öffentlichen
+Haushalt oder Zweckvermögen, aus dem die Wohnungsfürsorgemittel
+verausgabt worden sind, nur zu, wenn im Zeitpunkt der Bewilligung
+oder Förderzusage die Förderung mit Wohnungsfürsorgemitteln dem
+Betrage nach überwogen hat.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800171">Teil 5
+Überleitungs- und Schlussvorschriften</lxbase:ueberschrift><lxrno:kapitel><lxbase:ueberschrift id="D912228800172" apn="WoFG:46">§
+46 Zeitlicher Anwendungsbereich</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800173" apn="WoFG:46/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Die <lxbase:intern-verw idref="D912228800003">§§ 1</lxbase:intern-verw>
+bis <lxbase:intern-verw idref="D912228800168">45</lxbase:intern-verw>
+dieses Gesetzes finden auf Maßnahmen der sozialen Wohnraumförderung Anwendung,
+für die die Förderzusage nach dem 31. Dezember 2001 erteilt wird.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800174" apn="WoFG:46/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Fördermittel können abweichend
+von Absatz 1 bis zum 31. Dezember 2002 auf der Grundlage des Zweiten
+Wohnungsbaugesetzes oder des Wohnungsbaugesetzes für das Saarland
+in der jeweils bis zum 31. Dezember 2001 geltenden Fassung bewilligt
+werden. <lxbase:satz nummer="2" />Dabei können an Stelle des §
+8 des Zweiten Wohnungsbaugesetzes und des § 6 des Wohnungsbaugesetzes
+für das Saarland <lxbase:intern-verw idref="D912228800068">§
+18 und </lxbase:intern-verw>an Stelle des <lxbase:intern-verw idref="D912228800094">§ 25 Abs. 2 und 3</lxbase:intern-verw>
+und der §§ 25a bis 25d des Zweiten Wohnungsbaugesetzes sowie des
+<lxbase:intern-verw idref="D912228800052">§ 14 Abs. 2 und 3</lxbase:intern-verw>
+und der §§ 14a bis 14d des Wohnungsbaugesetzes für das Saarland
+<lxbase:intern-verw idref="D912228800032">§ 9 Abs. 2</lxbase:intern-verw>
+und die <lxbase:intern-verw idref="D912228800074">§§ 20</lxbase:intern-verw>
+bis <lxbase:intern-verw idref="D912228800088">24</lxbase:intern-verw> angewendet
+werden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800175" apn="WoFG:46/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Bis zum Erlass der Rechtsverordnung
+nach § 19 Abs. 1 Satz 2 sind die §§ 42 bis 44 der Zweiten Berechnungsverordnung
+in der Fassung der Bekanntmachung vom 12. Oktober 1990 (<lxbase:lit-fs normform="BGBl-1990-I-2178" manuell="nein">BGBl. I S. 2178</lxbase:lit-fs>),
+die zuletzt durch Artikel 8 Abs. 2 des Gesetzes vom 19. Juni 2001 (<lxprod:doknr-verw linkend="HT0522851">BGBl. I S. 1149</lxprod:doknr-verw>)
+geändert worden ist, anzuwenden. <lxbase:satz nummer="2" />Bis
+zum Erlass der Rechtsverordnung nach § 19 Abs. 2 Satz 2 ist hinsichtlich
+der Betriebskosten § 27 der Zweiten Berechnungsverordnung mit ihrer
+Anlage 3 anzuwenden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800176" apn="WoFG:47">§
+47 Darlehen des Bundes und Förderung auf Grund früheren Rechts</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800177" apn="WoFG:47/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>weggefallen</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800178" apn="WoFG:47/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Für die Einkommensermittlung
+nach § 88d Abs. 2 Nr. 4 des Zweiten Wohnungsbaugesetzes und nach
+§ 51e Abs. 2 Nr. 4 des Wohnungsbaugesetzes für das Saarland bei
+Wohnungen, die nach § 88d des Zweiten Wohnungsbaugesetzes oder nach
+§ 51e des Wohnungsbaugesetzes für das Saarland gefördert worden
+sind, finden an Stelle des § 25 Abs. 1 und 3 und der §§ 25a bis
+25d des Zweiten Wohnungsbaugesetzes sowie des § 14 Abs. 1 und 3
+und der §§ 14a bis 14d des Wohnungsbaugesetzes für das Saarland
+die §§ 20 bis 24 Anwendung. <lxbase:satz nummer="2" />Satz 1 gilt
+entsprechend bei Wohnungen, die nach den §§ 88 bis 88c des Zweiten
+Wohnungsbaugesetzes gefördert worden sind.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800179" apn="WoFG:47/3"><lxrno:nummer>3</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Ist in einer Bewilligung oder
+Förderzusage nach § 88 oder § 88d des Zweiten Wohnungsbaugesetzes
+bei der Bestimmung der Einkommensgrenze auf § 25 Abs. 2 des Zweiten Wohnungsbaugesetzes
+Bezug genommen worden, findet an Stelle dieser Bestimmung § 9 Abs.
+2 Anwendung. <lxbase:satz nummer="2" />Ist bei einer Förderzusage
+nach § 88d des Zweiten Wohnungsbaugesetzes eine Einkommensgrenze
+ohne Bezugnahme auf § 25 Abs. 2 des Zweiten Wohnungsbaugesetzes
+bestimmt worden, bleibt diese Bestimmung unberührt.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800180" apn="WoFG:47/4"><lxrno:nummer>4</lxrno:nummer><lxbase:a>Für die Sicherung der Zweckbestimmung von Wohnungen, die
+nach den §§ 87a, 87b, 88, 88d und 88e des Zweiten Wohnungsbaugesetzes
+gefördert worden sind, findet an Stelle des § 88f Abs. 1 Satz 1
+und Abs. 2 des Zweiten Wohnungsbaugesetzes § 32 Abs. 2 und 3 Satz
+1 sowie Abs. 4 und 5 Anwendung.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800181" apn="WoFG:47/5"><lxrno:nummer>5</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Erfolgt zur Bestätigung der
+Wohnberechtigung für Wohnungen, die bis zum 31. Dezember 2001 und
+in den Fällen des <lxbase:intern-verw idref="D912228800174">§
+46 Abs. 2</lxbase:intern-verw> bis zum 31. Dezember 2002 nach den
+Vorschriften des Wohnungsbaugesetzes für das Saarland gefördert
+wurden, eine Einkommensberechnung, sind <lxbase:intern-verw idref="D912228800032">§ 9 Abs. 2</lxbase:intern-verw> und
+die <lxbase:intern-verw idref="D912228800074">§§ 20</lxbase:intern-verw>
+bis <lxbase:intern-verw idref="D912228800088">24</lxbase:intern-verw>
+anzuwenden. <lxbase:satz nummer="2" />Zum Haushalt des Wohnungssuchenden
+rechnen die in <lxbase:intern-verw idref="D912228800068">§ 18</lxbase:intern-verw>
+bezeichneten Angehörigen.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800182" apn="WoFG:47/6"><lxrno:nummer>6</lxrno:nummer><lxbase:a>Für Wohnungen, die bis zum 31. Dezember 2001 und in den
+Fällen des <lxbase:intern-verw idref="D912228800174">§ 46 Abs.
+2</lxbase:intern-verw> bis zum 31. Dezember 2002 nach den Vorschriften
+des Wohnungsbaugesetzes für das Saarland gefördert wurden, gilt:
+</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+auf die Erhebung von Daten ist <lxbase:intern-verw idref="D912228800129">§ 32 Abs. 2 Satz 1</lxbase:intern-verw>
+anzuwenden;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. auf die Erteilung von Auskünften über
+die Einkommensverhältnisse ist § 32 Abs. 2 und 3 Satz 1 und Abs.
+4 anzuwenden.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800183" apn="WoFG:48">§
+48 Anwendung des Zweiten Wohnungsbaugesetzes</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800184" apn="WoFG:48/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Folgende Vorschriften des Zweiten Wohnungsbaugesetzes
+in der bis zum 31. Dezember 2001 geltenden Fassung sind weiter anzuwenden:
+</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Auf vor dem 1. Januar 2002 und in den Fällen des <lxbase:intern-verw idref="D912228800174">§ 46 Abs. 2</lxbase:intern-verw> vor
+dem 1. Januar 2003 </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+nach den §§ 42 bis 45 des Zweiten Wohnungsbaugesetzes bewilligte
+Darlehen für die Bilanzierung von Aufwendungsdarlehen und Annuitätsdarlehen
+§ 42 Abs. 1 Satz 3 in Verbindung mit § 88 Abs. 3 des Zweiten Wohnungsbaugesetzes,
+für Zinserhöhungen und erstmalige Verzinsungen § 44 Abs. 2 und 3
+des Zweiten Wohnungsbaugesetzes, für Tilgungserhöhungen § 44 Abs.
+4 Satz 2 und 3 des Zweiten Wohnungsbaugesetzes, für Kündigungen
+§ 44 Abs. 5 Satz 2 und 3 des Zweiten Wohnungsbaugesetzes, für die
+Bewilligung eines Zusatzdarlehens bei Kaufeigenheimen, Trägerkleinsiedlungen
+und Kaufeigentumswohnungen § 45 Abs. 3 Satz 2 Halbsatz 2, Abs. 6
+Satz 4 und Abs. 7 des Zweiten Wohnungsbaugesetzes, für die Rückzahlung
+eines Familienzusatzdarlehens § 45 Abs. 8 des Zweiten Wohnungsbaugesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) nach § 87a des Zweiten Wohnungsbaugesetzes
+bewilligte Wohnungsfürsorgemittel, mit Ausnahme von Wohnungsfürsorgemitteln
+des Bundes sowie der früheren öffentlich-rechtlichen Sondervermögen
+des Bundes oder deren Rechtsnachfolger, § 87a des Zweiten Wohnungsbaugesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>c) nach den §§ 87a und 87b des Zweiten
+Wohnungsbaugesetzes geförderte Wohnungen § 88f Abs. 1 Satz 2 des
+Zweiten Wohnungsbaugesetzes mit der Maßgabe, dass sich die Aufgaben
+der zuständigen Stelle auf den nach § 47 Abs. 4 anzuwendenden §
+32 Abs. 2 und 4 beziehen;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>d) nach § 88 des Zweiten Wohnungsbaugesetzes
+bewilligte Aufwendungsdarlehen und -zuschüsse § 88b Abs. 2 bis 4
+und § 88c des Zweiten Wohnungsbaugesetzes und für die Ausweisung
+eines Aufwendungsdarlehens in der Bilanz § 88 Abs. 3 des Zweiten
+Wohnungsbaugesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>e) nach § 88e des Zweiten Wohnungsbaugesetzes
+bewilligte einkommensorientierte Förderung § 88e Abs. 2 und 3 und
+§ 88f Abs. 2 des Zweiten Wohnungsbaugesetzes;</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. für die Ablösung von öffentlichen
+Baudarlehen durch Eigentümer eines Eigenheims, einer Eigensiedlung
+oder einer eigen genutzten Eigentumswohnung, für die öffentliche
+Mittel nach dem 31. Dezember 1969 bewilligt worden sind, bis zum
+28. Februar 2002 § 69 des Zweiten Wohnungsbaugesetzes;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. auf den sich ergebenden Ausfall an
+Rückflüssen durch die Ablösung nach § 69 des Zweiten Wohnungsbaugesetzes
+§ 70 Abs. 1 des Zweiten Wohnungsbaugesetzes.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800185" apn="WoFG:48/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Auf der Grundlage des Zweiten Wohnungsbaugesetzes wirksame
+Entscheidungen und sonstige Maßnahmen gelten weiter.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800186" apn="WoFG:49">§
+49 Anwendung des Wohnungsbaugesetzes für das Saarland</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800187" apn="WoFG:49/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Folgende Vorschriften des Wohnungsbaugesetzes für das
+Saarland in der bis zum 31. Dezember 2001 geltenden Fassung sind
+weiter anzuwenden: </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+Auf vor dem 1. Januar 2002 und in den Fällen des § 46 Abs. 2 vor
+dem 1. Januar 2003 </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>a)
+nach den §§ 24 bis 27 des Wohnungsbaugesetzes für das Saarland bewilligte
+Darlehen für Zinserhöhungen und erstmalige Verzinsungen § 26 Abs.
+2 und 3 des Wohnungsbaugesetzes für das Saarland, für Tilgungserhöhungen
+§ 26 Abs. 4 Satz 2 und 3 des Wohnungsbaugesetzes für das Saarland,
+für Kündigungen § 26 Abs. 5 Satz 2 und 3 des Wohnungsbaugesetzes
+für das Saarland, für die Bewilligung eines Zusatzdarlehens bei
+Kaufeigenheimen, Trägerkleinsiedlungen und Kaufeigentumswohnungen
+§ 27 Abs. 3 Satz 2 Halbsatz 2, Abs. 6 Satz 4 und Abs. 7 des Wohnungsbaugesetzes
+für das Saarland, für die Rückzahlung eines Familienzusatzdarlehens
+§ 27 Abs. 8 des Wohnungsbaugesetzes für das Saarland, für die höchstzulässige Miete
+§ 29a des Wohnungsbaugesetzes für das Saarland;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>b) nach § 38 des Wohnungsbaugesetzes
+für das Saarland bewilligte Wohnungsfürsorgemittel § 38 des Wohnungsbaugesetzes
+für das Saarland;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>c) nach § 51a des Wohnungsbaugesetzes
+für das Saarland bewilligte Aufwendungsdarlehen und -zuschüsse §
+51c Abs. 2 und 3 und § 51d des Wohnungsbaugesetzes für das Saarland,
+für die Ausweisung eines Aufwendungsdarlehens in der Bilanz § 51a
+Abs. 3 des Wohnungsbaugesetzes für das Saarland;</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. für die Ablösung von öffentlichen
+Baudarlehen durch Eigentümer eines Eigenheims, einer Eigensiedlung
+oder einer eigen genutzten Eigentumswohnung, für die öffentliche
+Mittel nach dem 31. Dezember 1969 bewilligt worden sind, bis zum
+28. Februar 2002 § 34 des Wohnungsbaugesetzes für das Saarland;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. auf den sich ergebenden Ausfall an
+Rückflüssen durch die Ablösung nach § 34 des Wohnungsbaugesetzes
+für das Saarland § 35 des Wohnungsbaugesetzes für das Saarland;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. für die Anpassung von Förderungsbestimmungen,
+deren Gegenstand die Errechnung und Anpassung der Kostenmiete für
+Wohnungen ist, die nach § 24 des Wohnungsbaugesetzes für das Saarland
+vor dem 1. Januar 2002 und in Fällen des <lxbase:intern-verw idref="D912228800174">§ 46 Abs. 2</lxbase:intern-verw> vor
+dem 1. Januar 2003 gefördert wurden, § 57 Abs. 2 des Wohnungsbaugesetzes
+für das Saarland.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800188" apn="WoFG:49/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Auf der Grundlage des Wohnungsbaugesetzes für das Saarland
+wirksame Entscheidungen, die auf seiner Grundlage erlassenen Bestimmungen
+und sonstige Maßnahmen gelten weiter.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800189" apn="WoFG:50">§
+50 Anwendung des Wohnungsbindungsgesetzes, der Neubaumietenverordnung
+und der Zweiten Berechnungsverordnung</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800190" apn="WoFG:50/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Das Wohnungsbindungsgesetz
+in der Fassung der Bekanntmachung vom 19. August 1994 (<lxbase:lit-fs normform="BGBl-1994-I-2166" manuell="nein">BGBl. I S. 2166,
+2319</lxbase:lit-fs>), geändert durch Artikel 7 Abs. 11 des Gesetzes
+vom 19. Juni 2001 (<lxprod:doknr-verw linkend="HT0522851">BGBl. I S. 1149</lxprod:doknr-verw>),
+die Neubaumietenverordnung in der Fassung der Bekanntmachung vom
+12. Oktober 1990 (<lxbase:lit-fs normform="BGBl-1990-I-2203" manuell="nein">BGBl. I S. 2203</lxbase:lit-fs>),
+geändert durch Artikel 2 der Verordnung vom 13. Juli 1992 (<lxbase:lit-fs normform="BGBl-1992-I-1250" manuell="nein">BGBl. I S. 1250</lxbase:lit-fs>),
+und die Zweite Berechnungsverordnung in der Fassung der Bekanntmachung
+vom 12. Oktober 1990 (<lxbase:lit-fs normform="BGBl-1990-I-2178" manuell="nein">BGBl. I S. 2178</lxbase:lit-fs>),
+zuletzt geändert durch Artikel 8 Abs. 2 des Gesetzes vom 19. Juni
+2001 (<lxprod:doknr-verw linkend="HT0522851">BGBl.
+I S. 1149</lxprod:doknr-verw>), sind ab 1. Januar 2002 in der jeweils
+geltenden Fassung auf Wohnraum, </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+für den öffentliche Mittel im Sinne des § 6 Abs. 1 des Zweiten Wohnungsbaugesetzes
+bis zum 31. Dezember 2001 bewilligt worden sind,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. für den öffentliche Mittel im Sinne
+des § 3 des Ersten Wohnungsbaugesetzes bewilligt worden sind,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. für dessen Bau ein Darlehen oder ein
+Zuschuss aus Wohnungsfürsorgemitteln, mit Ausnahme von Wohnungsfürsorgemitteln
+des Bundes sowie der früheren öffentlich-rechtlichen Sondervermögen
+des Bundes oder deren Rechtsnachfolger, nach § 87a Abs. 1 Satz 1
+des Zweiten Wohnungsbaugesetzes bis zum 31. Dezember 2001 bewilligt worden
+ist,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. für den Aufwendungszuschüsse und Aufwendungsdarlehen
+nach § 88 des Zweiten Wohnungsbaugesetzes bis zum 31. Dezember 2001
+bewilligt worden sind,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. weggefallen</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a> vorbehaltlich des Absatzes 2 anzuwenden, soweit das
+Wohnungsbindungsgesetz, die Neubaumietenverordnung und die Zweite
+Berechnungsverordnung hierfür am 31. Dezember 2001 Anwendung finden.
+<lxbase:satz nummer="2" />Satz 1 gilt auch, wenn Fördermittel
+nach <lxbase:intern-verw idref="D912228800174">§ 46 Abs. 2</lxbase:intern-verw> bewilligt
+werden.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800191" apn="WoFG:50/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:satz nummer="1" />Verfahren nach dem Wohnungsbindungsgesetz,
+der Neubaumietenverordnung und der Zweiten Berechnungsverordnung,
+die vor dem 1. Januar 2002 und im Fall des <lxbase:intern-verw idref="D912228800174">§ 46 Abs. 2</lxbase:intern-verw> vor
+dem 1. Januar 2003 förmlich eingeleitet worden sind, werden nach
+den bis zum 31. Dezember 2001 geltenden Vorschriften abgeschlossen.
+<lxbase:satz nummer="2" />Auf der Grundlage der jeweils bis zum
+31. Dezember 2001 geltenden Fassung des Wohnungsbindungsgesetzes,
+der Neubaumietenverordnung und der Zweiten Berechnungsverordnung
+wirksame Entscheidungen und sonstige Maßnahmen gelten weiter. <lxbase:satz nummer="3" />Verfahren, die nach dem 1. Januar 2002 nach <lxbase:intern-verw idref="D912228800174">§ 46 Abs. 2</lxbase:intern-verw> förmlich
+eingeleitet worden sind, können nach dem Wohnungsbindungsgesetz,
+der Neubaumietenverordnung und der Zweiten Berechnungsverordnung in
+der jeweils ab dem 1. Januar 2002 geltenden Fassung durchgeführt
+werden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800192" apn="WoFG:51">§
+51 Anwendung des Gesetzes über den Abbau der Fehlsubventionierung
+im Wohnungswesen</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800193" apn="WoFG:51/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Das Gesetz über den Abbau der Fehlsubventionierung im
+Wohnungswesen in der Fassung der Bekanntmachung vom 19. August 1994
+(<lxbase:lit-fs normform="BGBl-1994-I-2180" manuell="nein">BGBl.
+I S. 2180</lxbase:lit-fs>), zuletzt geändert durch Artikel 7 Abs.
+13 des Gesetzes vom 19. Juni 2001 (<lxprod:doknr-verw linkend="HT0522851">BGBl. I S. 1149</lxprod:doknr-verw>),
+ist ab 1. Januar 2002 in der jeweils geltenden Fassung für den in
+<lxbase:intern-verw idref="D912228800190">§ 50 Abs. 1 Satz 1</lxbase:intern-verw>
+Nr. 1 bis 3 und Satz 2 und den in § 2 Abs. 2 Nr. 2 des Wohnraumförderung-Überleitungsgesetzes
+vom 5. September 2006 (<lxbase:lit-fs normform="BGBl-2006-I-2098" manuell="nein">BGBl. I S. 2098, 2100</lxbase:lit-fs>)
+bezeichneten Wohnraum anzuwenden, bis das Land für die Erhebung
+von Ausgleichszahlungen nach Maßgabe des § 15 des Gesetzes über
+den Abbau der Fehlsubventionierung im Wohnungswesen Vorschriften
+erlassen hat.</lxbase:a></lxrno:normabsatz><lxrno:normabsatz id="D912228800194" apn="WoFG:51/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a><lxbase:intern-verw idref="D912228800191">§ 50 Abs.
+2</lxbase:intern-verw> gilt für Verfahren sowie für wirksame Entscheidungen
+und sonstige Maßnahmen nach dem Gesetz über den Abbau der Fehlsubventionierung
+im Wohnungswesen entsprechend.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel><lxrno:kapitel><lxbase:ueberschrift id="D912228800195" apn="WoFG:52">§
+52 Bußgeldvorschriften</lxbase:ueberschrift><lxrno:text-para><lxrno:normabsatz id="D912228800196" apn="WoFG:52/1"><lxrno:nummer>1</lxrno:nummer><lxbase:a>Ordnungswidrig handelt, wer </lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>1.
+entgegen <lxbase:intern-verw idref="D912228800100">§ 27 Abs.
+1</lxbase:intern-verw> eine Wohnung zum Gebrauch überlässt,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>2. ohne Genehmigung nach <lxbase:intern-verw idref="D912228800106">§ 27 Abs. 7 Satz 1</lxbase:intern-verw>
+Nr. 1 oder 2 eine Wohnung selbst nutzt oder nicht nur vorübergehend,
+mindestens drei Monate, leer stehen lässt,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>3. ohne Genehmigung nach <lxbase:intern-verw idref="D912228800106">§ 27 Abs. 7 Satz 1</lxbase:intern-verw>
+Nr. 3 eine Wohnung anderen als Wohnzwecken zuführt oder entsprechend
+baulich ändert,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>4. entgegen <lxbase:intern-verw idref="D912228800110">§ 28 Abs. 2</lxbase:intern-verw> eine
+Wohnung zum Gebrauch überlässt,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>5. entgegen <lxbase:intern-verw idref="D912228800112">§ 28 Abs. 4</lxbase:intern-verw> eine
+dort genannte Leistung fordert, sich versprechen lässt oder annimmt
+oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>6. entgegen <lxbase:intern-verw idref="D912228800130">§ 32 Abs. 3 Satz 1</lxbase:intern-verw>
+eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht
+rechtzeitig macht.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxrno:normabsatz><lxrno:normabsatz id="D912228800197" apn="WoFG:52/2"><lxrno:nummer>2</lxrno:nummer><lxbase:a>Die Ordnungswidrigkeit kann in den Fällen des Absatzes
+1 Nr. 6 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in
+den Fällen des Absatzes 1 Nr. 1 und 2 mit einer Geldbuße bis zu
+zehntausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu
+fünfzigtausend Euro geahndet werden.</lxbase:a></lxrno:normabsatz></lxrno:text-para></lxrno:kapitel></lxrno:kapitel><lxrno:kapitel><lxrno:text-para><lxrno:normabsatz id="D912228800198" /></lxrno:text-para></lxrno:kapitel></lxrno:norm-text><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Steuerliche Förderungsgesetze</lxbase:rthema><lxbase:rthema>Yellowmap</lxbase:rthema></lxbase:rthemen></lxbase:allgemeine-angaben><lxbase:interne-angaben><lxbase:quelle>Boorberg</lxbase:quelle></lxbase:interne-angaben></lxrno:rechtsnorm>

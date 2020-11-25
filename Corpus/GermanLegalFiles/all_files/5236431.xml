@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dok-nummer="5236431" dok-art="Schreiben (koordinierter Ländererlass)" dok-typ="Verwaltungsanweisung" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:externe-dateien><lxbase:datei name="a5236431.pdf" /><lxbase:datei name="b5236431.pdf" /><lxbase:datei name="c5236431.pdf" /><lxbase:datei name="d5236431.pdf" /><lxbase:datei name="e5236431.pdf" /><lxbase:datei name="f5236431.pdf" /><lxbase:datei name="g5236431.pdf" /><lxbase:datei name="h5236431.pdf" /></lxbase:externe-dateien><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bundesministerium der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen> IV C 6 - S-2142 / 16 / 10001 :011</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2142</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2142 A - 011 - St 223</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-2142 | S</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Elwi-Rewe" id="22" /><lxbase:lizenz2 name="Info" id="25" /><lxbase:lizenz2 name="INFO-KANZLEI" id="30" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2017-10-09" ts="nein" /><lxbase:datum normdat="2017-10-18" ts="ja" /><lxbase:datum normdat="2018-11-27" ts="ja" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BStBl-2017-I-1381</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DB-2017-2581</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände, die nach dem 31. 12. 2017 verwirklicht werden, durch <lxprod:doknr-verw linkend="HT5236851">IV A 2 – O-2000 / 18 / 10001</lxprod:doknr-verw> v. 18. 3. 2019 koordinierter Ländererlass</lxbase:a></lxbase:anmerkung><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände,
+die nach dem 31. 12. 2016 verwirklicht werden, durch BMF <lxprod:doknr-verw linkend="HT5236585"> IV A 2 – O-2000 / 17 / 10001 </lxprod:doknr-verw>
+v. 19. 3. 2018 koordinierter Ländererlass </lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:redakt><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="13*" /><cals:colspec colnum="2" colname="2" colwidth="87*" /><cals:tbody><cals:row rowsep="1"><cals:entry nameend="2" namest="1"><lxbase:a><lxbase:fett>Bibliographie
+der inhaltlich entsprechenden Verwaltungsanweisungen:</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Hessen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Frankfurt am Main S-2142
+A - 011 - St 223 vom 18.10.2017<lxbase:za />OFD Frankfurt am Main
+S-2142 A - 011 - St 223 vom 27.11.2018</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStDV:60/4</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2017" /></lxbase:jahre><lxbase:zitate><lxbase:passiv-zitate><lxbase:lit-zitat>IWW Institut für Wissen in der Wirtschaft GmbH
+<lxprod:doknr-verw linkend="HT5258531">Gestaltende
+Steuerberatung 2018 198</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>IWW Institut für Wissen in der Wirtschaft GmbH
+<lxprod:doknr-verw linkend="HT5258531">GStB
+2018 198</lxprod:doknr-verw></lxbase:lit-zitat></lxbase:passiv-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Standardisierte Einnahmenüberschussrechnung
+nach § 60 Absatz 4 EStDV; Anlage EÜR 2017</lxbase:a></lxbase:headline></lxbase:titel><lxbase:teaser><lxbase:a>BMF: Standardisierte Einnahmenüberschussrechnung nach
+§ 60 Absatz 4 EStDV; Anlage EÜR 2017</lxbase:a></lxbase:teaser><lxbase:kapitel><lxbase:a>Unter Bezugnahme auf das Ergebnis der Erörterungen mit
+den obersten Finanzbehörden der Länder gebe ich die Vordrucke der
+Anlage EÜR sowie die Vordrucke für die Sonder- und Ergänzungsrechnungen
+für Personengesellschaften und die dazugehörigen Anleitungen für
+das Jahr 2017 bekannt.</lxbase:a><lxbase:a>Der amtlich vorgeschriebene Datensatz, der nach § 60 Absatz
+4 Satz 1 EStDV durch Datenfernübertragung zu übermitteln ist, wird
+nach § 87b Absatz 2 AO im Internet unter <lxprod:www-verw linkend="http://www.elster.de" ziel-lizenzen="25 30 31">www.elster.de</lxprod:www-verw> bekannt
+gegeben. Die Übermittlung ist ab dem Veranlagungszeitraum 2017 nur
+noch mit elektronischer Authentifizierung möglich. Die Anlage AVEÜR
+sowie bei Mitunternehmerschaften ggf. die Anlage AVSE sind notwendiger
+Bestandteil der Einnahmenüberschussrechnung. Übersteigen die im
+Wirtschaftsjahr angefallenen Schuldzinsen, ohne die Berücksichtigung
+der Schuldzinsen für Darlehen zur Finanzierung von Anschaffungs-
+oder Herstellungskosten von Wirtschaftsgütern des Anlagevermögens,
+den Betrag von 2.050 Euro, sind bei Einzelunternehmen die in der
+Anlage SZE (Ermittlung der nicht abziehbaren Schuldzinsen) enthaltenen
+Angaben ebenfalls an die Finanzverwaltung zu übermitteln.</lxbase:a><lxbase:a>Die Regelung, nach der bei Betriebseinnahmen von weniger
+als 17.500 Euro der Steuererklärung anstelle des Vordrucks eine
+formlose Gewinnermittlung beigefügt werden durfte, besteht nicht
+mehr fort. Auf Antrag kann das Finanzamt entsprechend § 150 Absatz
+8 der Abgabenordnung in Härtefällen auf die Übermittlung der standardisierten
+Einnahmenüberschussrechnung nach amtlich vorgeschriebenem Datensatz
+durch Datenfernübertragung verzichten. Für die Einnahmenüberschussrechnung
+sind in diesen Fällen der Vordruck Anlage EÜR und die Anlage AVEÜR
+ggf. mit weiteren Anlagen zu verwenden.</lxbase:a><lxbase:a>Auf folgende Anpassung der Anlage EÜR wird hingewiesen:</lxbase:a><lxbase:a>Der bisherige Abschnitt zur Rückgängigmachung von Investitionsabzugsbeträgen
+wurde entfernt. Die Rückgängigmachung von berücksichtigten Investitionsabzugsbeträgen
+ist dem Finanzamt künftig durch Übermittlung einer berichtigten
+Anlage EÜR für das Jahr anzu-zeigen, in dem der Investitionsabzugsbetrag
+berücksichtigt wurde (vgl. Rn. 24 im BMF-Schreiben vom 20. März
+2017, <lxprod:doknr-verw linkend="HT5236234">BStBl
+I Seite 423</lxprod:doknr-verw>). Diese Vorgehensweise gilt auch für Investitionsabzugsbeträge,
+die in vor dem 1. Januar 2016 endenden Wirtschaftsjahren berücksichtigt
+wurden. Soweit für Veranlagungszeiträume vor 2016 zulässigerweise
+eine formlose Gewinnermittlung eingereicht wurde, wird es nicht
+beanstandet, wenn die Rückgängig-machung eines bis dahin berücksichtigten
+Investitionsabzugsbetrags (für das Abzugsjahr und evtl. Folgeänderungen)
+ebenfalls formlos erklärt wird.</lxbase:a><lxbase:a><lxbase:fett>Anlagen:</lxbase:fett></lxbase:a><lxbase:a>Anlage EÜR <lxprod:extern-verw linkart="View" zieladresse="a5236431.pdf" linkend="" filesize="162427">anzeigen / drucken </lxprod:extern-verw>oder
+<lxprod:extern-verw linkart="Save" zieladresse="a5236431.pdf" linkend="" filesize="162427">speichern
+(pdf-Datei 159 kb)</lxprod:extern-verw></lxbase:a><lxbase:a>Anlage AVEÜR <lxprod:extern-verw linkart="View" zieladresse="b5236431.pdf" linkend="" filesize="83018">anzeigen / drucken </lxprod:extern-verw>oder
+<lxprod:extern-verw linkart="Save" zieladresse="b5236431.pdf" linkend="" filesize="83018">speichern
+(pdf-Datei 82 kb)</lxprod:extern-verw></lxbase:a><lxbase:a>Anlage SZE <lxprod:extern-verw linkart="View" zieladresse="c5236431.pdf" linkend="" filesize="85511">anzeigen / drucken </lxprod:extern-verw> oder
+<lxprod:extern-verw linkart="Save" zieladresse="c5236431.pdf" linkend="" filesize="85511">speichern
+(pdf-Datei 84 kb)</lxprod:extern-verw></lxbase:a><lxbase:a>Anleitung zum Vordruck "Einnahmeüberschussrechnung - Anlage
+EÜR" <lxprod:extern-verw linkart="View" zieladresse="d5236431.pdf" linkend="" filesize="793336">anzeigen
+/ drucken </lxprod:extern-verw>oder <lxprod:extern-verw linkart="Save" zieladresse="d5236431.pdf" linkend="" filesize="793336">speichern (pdf-Datei
+775 kb)</lxprod:extern-verw></lxbase:a><lxbase:a>Anlage ER <lxprod:extern-verw linkart="View" zieladresse="e5236431.pdf" linkend="" filesize="124582">anzeigen / drucken </lxprod:extern-verw>oder
+<lxprod:extern-verw linkart="Save" zieladresse="e5236431.pdf" linkend="" filesize="124582">speichern
+(pdf-Datei 122 kb)</lxprod:extern-verw></lxbase:a><lxbase:a>Anlage SE <lxprod:extern-verw linkart="View" zieladresse="f5236431.pdf" linkend="" filesize="158580">anzeigen / drucken </lxprod:extern-verw>oder
+<lxprod:extern-verw linkart="Save" zieladresse="f5236431.pdf" linkend="" filesize="158580">speichern
+(pdf-Datei 155 kb)</lxprod:extern-verw></lxbase:a><lxbase:a>Anlage AVSE <lxprod:extern-verw linkart="View" zieladresse="g5236431.pdf" linkend="" filesize="108216">anzeigen / drucken </lxprod:extern-verw>oder
+<lxprod:extern-verw linkart="Save" zieladresse="g5236431.pdf" linkend="" filesize="108216">speichern
+(pdf-Datei 106 kb)</lxprod:extern-verw></lxbase:a><lxbase:a>Anleitung zu den Anlagen ER, SE, AVSE <lxprod:extern-verw linkart="View" zieladresse="h5236431.pdf" linkend="" filesize="700684">anzeigen / drucken
+</lxprod:extern-verw>oder <lxprod:extern-verw linkart="Save" zieladresse="h5236431.pdf" linkend="" filesize="700684">speichern (pdf-Datei 685 kb)</lxprod:extern-verw></lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>INFO</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Info</lxbase:rthema><lxbase:rthema>elwi-rewe</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:uuthemen><lxbase:thema>Weitergeltung Normenflut</lxbase:thema></lxbase:uuthemen><lxbase:newsrelevant relevant="top" datum="2017-10-27" uhrzeit="11:00:00" /><lxbase:newsgebiete><lxbase:newsgebiet>Einkommensteuer/Lohnsteuer</lxbase:newsgebiet></lxbase:newsgebiete><lxbase:newsletterlex><lxbase:newsletterrelevant ausgabe="201744" relevant="ja" /><lxbase:newsletter-text><lxbase:a>Das BMF hat die Vordrucke der Anlage EÜR sowie die Vordrucke
+für die Sonder- und Ergänzungsrechnungen für Personengesellschaften
+und die dazugehörigen Anleitungen für das Jahr 2017 bekannt gemacht.
+</lxbase:a></lxbase:newsletter-text></lxbase:newsletterlex></lxbase:allgemeine-angaben></lxrvw:rspvwa>

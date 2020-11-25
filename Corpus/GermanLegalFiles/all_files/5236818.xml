@@ -1,0 +1,1359 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" dok-nummer="5236818" dok-art="Schreiben (koordinierter Ländererlass)" dok-typ="Verwaltungsanweisung" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bundesministerium
+der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen> IV A 3 - S-0062 / 18 / 10005</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-0062</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Info" id="25" /><lxbase:lizenz2 name="INFO-KANZLEI" id="30" /><lxbase:lizenz2 name="LEXPUB" id="90" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2019-01-31" ts="nein" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BStBl-2019-I-0071</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DB-2019-0518</lxbase:fs-kuerzel><lxbase:fs-kuerzel>DStR-2019-0449</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Weitere Anwendbarkeit bestätigt für Steuertatbestände, die nach dem 31. 12. 2017 verwirklicht werden, durch <lxprod:doknr-verw linkend="HT5236851">IV A 2 – O-2000 / 18 / 10001</lxprod:doknr-verw> v. 18. 3. 2019 koordinierter Ländererlass</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>AO:allgemein</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AEAO:allgemein</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2019" /></lxbase:jahre><lxbase:zitate><lxbase:passiv-zitate><lxbase:lit-zitat>IWW Institut für Wissen in der Wirtschaft GmbH <lxprod:doknr-verw linkend="HT5260167">Vereinsbrief 2019 4 16</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>IWW Institut für Wissen in der Wirtschaft GmbH <lxprod:doknr-verw linkend="HT5260167">VB 2019 4 16</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>IWW Institut für Wissen in der Wirtschaft GmbH <lxprod:doknr-verw linkend="HT5260395">SB 2019 113</lxprod:doknr-verw></lxbase:lit-zitat><lxbase:lit-zitat>IWW Institut für Wissen in der Wirtschaft GmbH <lxprod:doknr-verw linkend="HT5260395">Stiftungsbrief 2019 113</lxprod:doknr-verw></lxbase:lit-zitat></lxbase:passiv-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Änderung des Anwendungserlasses
+zur Abgabenordnung (AEAO)</lxbase:a></lxbase:headline><lxbase:byline><lxbase:a>Bezug: BMF-Schreiben vom 6. Juni 2018 -
+<lxbase:az normform="IVA4S0062/12/1000104" manuell="nein">IV
+A 4 - S 0062/12/10001-04</lxbase:az> -</lxbase:a><lxbase:a>BMF-Schreiben vom 13. Juli 2018 - <lxbase:az normform="IVA3S0342/09/1000124" manuell="nein">IV A 3 - S 0342/09/10001-24</lxbase:az>
+-</lxbase:a></lxbase:byline></lxbase:titel><lxbase:teaser><lxbase:a>BMF: Änderung des Anwendungserlasses zur Abgabenordnung
+(AEAO) </lxbase:a></lxbase:teaser><lxbase:kapitel><lxbase:a>Unter Bezugnahme auf das Ergebnis der
+Erörterung mit den obersten Finanzbehörden der Länder wird der Anwendungserlass
+zur Abgabenordnung vom 31. Januar 2014 (<lxprod:doknr-verw linkend="HT5234877">BStBl I S. 290</lxprod:doknr-verw>),
+der zuletzt durch das BMF-Schreiben vom 19. Juni 2018 (<lxbase:lit-fs normform="BStBl-2018-I-0706" manuell="nein">BStBl I S. 706</lxbase:lit-fs>)
+geändert worden ist, mit sofortiger Wirkung wie folgt geändert:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>Die Nummer
+6 Buchstaben a und b des <lxbase:fett>AEAO zu § 18</lxbase:fett>
+werden wie folgt gefasst:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>„Ist für alle inländischen
+Beteiligten ein gemeinsamer Treuhänder oder eine andere die Interessen
+der inländischen Beteiligten vertretende Person bestellt, ist das
+Finanzamt zuständig, in dessen Bezirk der Treuhänder oder die andere Person
+ansässig ist. Sowohl eine Bevollmächtigung i.S.d. § 80 AO als auch
+eine Empfangsbevollmächtigung i.S.d. § 183 AO reichen für sich allein
+für die Annahme einer die Interessen der inländischen Beteiligten
+vertretenden Person i.S.d. Satzes 1 nicht aus. Bei späterer Änderung
+der Treuhand- oder Vertretungsverhältnisse tritt ein Zuständigkeitswechsel
+nicht ein, solange mindestens ein Beteiligter durch den bisherigen
+Treuhänder oder Vertreter vertreten bleibt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Ist eine Bestimmung der
+Zuständigkeit nach Buchstabe a nicht möglich, ist das Finanzamt
+zuständig, in dessen Bezirk die Beteiligten mit den höchsten Anteilen ansässig
+sind. Hierbei sind nur unmittelbare Beteiligungsverhältnisse zu berücksichtigen.
+Bei Änderung der Beteiligungsverhältnisse tritt ein Zuständigkeitswechsel
+nicht ein, solange mindestens ein Beteiligter im Bezirk des Finanzamts
+ansässig ist.“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>Die Nummer 5 des <lxbase:fett>AEAO
+zu § 19</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„5.	Das Vermögen i.S.d. § 19 Abs. 2 Satz 1 AO bestimmt
+sich nach § 121 BewG, aber abweichend von § 121 Nr. 4 BewG unabhängig
+von der Höhe der prozentualen Beteiligung an der inländischen Kapitalgesellschaft.
+Im Fall der Beteiligung an einer Grundbesitz verwaltenden Personengesellschaft
+ist für die Bestimmung der örtlichen Zuständigkeit die Belegenheit
+des Grundstücks maßgebend. Handelt es sich bei der Grundbesitz verwaltenden
+Personengesellschaft um eine gewerblich geprägte Personengesellschaft
+i.S.d. § 15 Abs. 3 Nr. 2 EStG, so richtet sich die örtliche Zuständigkeit für
+den beschränkt steuerpflichtigen Beteiligten in analoger Anwendung
+des § 18 Abs. 1 Satz 1 Nr. 2 AO nach dem Ort der Geschäftsleitung
+dieser Personengesellschaft.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a>In der Nummer 7 des <lxbase:fett>AEAO
+zu § 30</lxbase:fett> wird der Spiegelstrich „- § 2a Abs. 1, §
+2b Abs. 1, § 4 Abs. 5, § 6 Abs. 1 und 2 und § 9 Abs. 1 bis 3 des
+Gesetzes über Steuerstatistiken;“ durch den Spiegelstrich „- § 2a
+Abs. 1, § 2b Abs. 1, § 4 Abs. 4, § 6 Abs. 1 und 2 und § 9 Abs. 1
+bis 3 des Gesetzes über Steuerstatistiken;“ ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a>In der Nummer 4 des <lxbase:fett>AEAO
+zu § 31</lxbase:fett> wird die Angabe „(Vordruck V001)“ gestrichen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5. "><lxbase:a>Der Nummer 2.1 des <lxbase:fett>AEAO
+zu § 37</lxbase:fett> wird folgender Absatz angefügt:</lxbase:a><lxbase:a>„Zur Rückforderung von während des laufenden Insolvenzverfahrens
+ohne rechtlichen Grund an den Insolvenzverwalter ausbezahlten Ansprüchen
+aus dem Steuerschuldverhältnis siehe Nr. 14 des AEAO zu § 251.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6. "><lxbase:a>Nach der Nummer 2.6 des
+<lxbase:fett>AEAO zu § 42</lxbase:fett> wird folgende neue Nummer
+2.7 angefügt:</lxbase:a><lxbase:a>„2.7 Die - nur für Körperschaften geltenden - Mindeststandards
+der Richtlinie (EU) 2016/1164 vom 12.7.2016 (ABl. L 193 vom 19.7.2016,
+S. 1-14) werden durch § 42 AO national erfüllt.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7. "><lxbase:a>In der Nummer 4 des <lxbase:fett>AEAO
+zu § 46</lxbase:fett> wird die Angabe „(§ 7 Abs. 3 AsylbLG)“ durch
+die Angabe „(§ 7 Abs. 4 AsylbLG)“ ersetzt und der Satz „Die vorstehenden
+Sätze gelten entsprechend für Fälle einer Überleitung von Steuererstattungsansprüchen
+gem. § 90 BSHG.“ gestrichen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="8. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 51</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>In der Nummer 7 wird im
+letzten Absatz der letzte Satz gestrichen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Die Nummern 8 bis 10 werden
+wie folgt gefasst:</lxbase:a><lxbase:a>„8. Der Ausschluss so genannter extremistischer Körperschaften
+von der Steuerbegünstigung ist in § 51 Abs. 3 AO gesetzlich geregelt.</lxbase:a><lxbase:a>9. 	Die Ergänzung des § 51 AO soll klarstellen, dass eine
+Körperschaft nur dann als steuerbegünstigt behandelt werden kann,
+wenn sie weder nach ihrer Satzung und ihrer tatsächlichen Geschäftsführung
+Bestrebungen i.S.d. § 4 des BVerfSchG verfolgt noch dem Gedanken
+der Völkerverständigung zuwiderhandelt. § 4 BVerfSchG ist im Zusammenhang
+mit § 3 BVerfSchG zu lesen, der die Aufgaben der Verfassungsschutzbehörden
+des Bundes und der Länder und die Voraussetzungen für ein Tätigwerden
+des Verfassungsschutzes festlegt. Die Aufgabe besteht in der Sammlung und
+Auswertung von Informationen über die in § 3 Abs. 1 BVerfSchG erwähnten verfassungsfeindlichen
+Bestrebungen, die § 4 BVerfSchG zum Teil definiert. So beinhaltet
+§ 4 BVerfSchG im ersten Absatz eine Legaldefinition von Bestrebungen</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>gegen den Bestand des Bundes
+oder eines Landes</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>gegen die Sicherheit des
+Bundes oder eines Landes</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>gegen die freiheitliche
+demokratische Grundordnung.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Im zweiten Absatz des § 4 BVerfSchG werden die grundlegenden
+Prinzipien der freiheitlichen demokratischen Grundordnung aufgeführt.</lxbase:a><lxbase:a>Gem. § 51 Abs. 3 Satz 1 AO ist eine Steuervergünstigung
+auch ausgeschlossen, wenn die Körperschaft dem Gedanken der Völkerverständigung
+zuwiderhandelt. Diese Regelung nimmt Bezug auf § 3 Abs. 1 Nr. 4
+BVerfSchG, der wiederum auf Artikel 9 Abs. 2 GG (gegen den Gedanken
+der Völkerverständigung gerichtete Bestrebungen) sowie Artikel 26
+Abs. 1 GG (Störung des friedlichen Zusammenlebens der Völker) verweist.
+Im Rahmen des § 51 Abs. 3 Satz 1 AO sind die Leistungen einer Körperschaft
+für das Gemeinwohl nicht im Wege einer Gesamtschau gegen Anhaltspunkte
+für eine verfassungsfeindliche tatsächliche Geschäftsführung abzuwägen
+(BFH-Urteil vom 14.3.2018, <lxprod:doknr-verw linkend="HT5021110">V R 36/16</lxprod:doknr-verw>, BStBl II S. 422).</lxbase:a><lxbase:a>10.	 Der Tatbestand des § 51 Abs. 3 Satz 2 AO ist nur
+bei solchen Organisationen erfüllt, die im Verfassungsschutzbericht
+des Bundes oder eines Landes für den zu beurteilenden Veranlagungszeitraum
+ausdrücklich als extremistisch eingestuft werden (BFH-Urteil vom
+11.4.2012, <lxprod:doknr-verw linkend="HT0928400">I
+R 11/11</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0928400">BStBl 2013 II S. 146</lxprod:doknr-verw>).
+Die Widerlegung der Vermutung erfordert den vollen Beweis des Gegenteils;
+eine Erschütterung ist nicht ausreichend (BFH-Urteil vom 14.3.2018,
+<lxprod:doknr-verw linkend="HT5021110">V R 36/16</lxprod:doknr-verw>,
+BStBl II S. 422). Hat das Finanzamt die Körperschaft bisher als
+steuerbegünstigt behandelt und wird später ein Verfassungsschutzbericht
+veröffentlicht, in dem die Körperschaft als extremistisch aufgeführt
+wird, kommt ggf. eine Änderung nach § 173 Abs. 1 Nr. 1 AO in Betracht.“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="9. "><lxbase:a>Der <lxbase:fett>AEAO zu
+§ 52</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Die Nummer 2.2 wird wie
+folgt gefasst:</lxbase:a><lxbase:a>„2.2 Die Förderung von Kunst und Kultur umfasst die Bereiche
+der Musik, der Literatur, der darstellenden und bildenden Kunst
+und schließt die Förderung von kulturellen Einrichtungen, wie Theater
+und Museen, sowie von kulturellen Veranstaltungen, wie Konzerte
+und Kunstausstellungen, ein. Zur Förderung von Kunst und Kultur gehört
+auch die Förderung der Pflege und Erhaltung von Kulturwerten. Kulturwerte sind
+Gegenstände von künstlerischer und sonstiger kultureller Bedeutung,
+Kunstsammlungen und künstlerische Nachlässe, Bibliotheken, Archive
+sowie andere vergleichbare Einrichtungen. Das Vorführen von Filmen
+allein ist noch keine gemeinnützige Tätigkeit. Die Gemeinnützigkeit
+kommunaler Kinos ist jedoch zu bejahen, wenn bestimmte zusätzliche
+Kriterien erfüllt sind. Hierzu zählt, ob ein kommunaler Kinoverein
+öffentliche Zuschüsse erhält, ob er in die gesamte Kulturarbeit der
+Kommune integriert ist, ob sich das Programm inhaltlich, konzeptionell
+und formal von etwa vorhandenen gewerblichen Kinos am Ort unterscheidet,
+ob die Filme in bestimmten Sachzusammenhängen gezeigt und ob sie
+inhaltlich aufbereitet werden, z.B. durch begleitende Vorträge.
+Dabei reicht es aus, wenn ein kommunaler Kinoverein einige der genannten
+Kriterien erfüllt. Auf die künstlerische Qualität der einzelnen
+gezeigten Filme kommt es nicht an.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Nach der Nummer 2.3 wird
+folgende neue Nummer 2.4 eingefügt:</lxbase:a><lxbase:a>„2.4 Vereine, deren satzungsmäßiger Zweck die Förderung
+der nichtgewerblichen Fischerei ist (Anglervereine), können unter
+dem Gesichtspunkt der Förderung des Naturschutzes und der Landschaftspflege
+als gemeinnützig i.S.d. § 52 AO anerkannt werden. Ihre Tätigkeit
+ist im Wesentlichen auf die einheitliche Ausrichtung und Vertretung
+der Mitgliederinteressen bei der Hege und Pflege des Fischbestandes
+in den Gewässern in Verbindung mit Maßnahmen zum Schutz und zur
+Reinhaltung dieser Gewässer, sowie die Erhaltung der Schönheit und
+Ursprünglichkeit der Gewässer i.S.d. Naturschutzes und der Landschaftspflege
+gerichtet. Wettfischveranstaltungen sind grundsätzlich als nicht
+mit dem Tierschutzgesetz und mit der Gemeinnützigkeit vereinbar
+anzusehen.</lxbase:a><lxbase:a>Fischen und Angeln bedarf in jedem Fall einer besonderen
+Genehmigung, für private Gewässer der des Eigentümers, für öffentliche
+Gewässer der der zuständigen öffentlichen Körperschaft (z.B. Gemeinde).
+Der Verkauf von Angelkarten durch Vereine an Vereinsmitglieder wird
+im Rahmen eines steuerbegünstigten wirtschaftlichen Geschäftsbetriebs
+(= Zweckbetrieb) durchgeführt. Der Verkauf von Angelkarten an Nichtmitglieder
+hingegen stellt einen steuerpflichtigen wirtschaftlichen Geschäftsbetrieb
+dar.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>Die bisherigen Nummern 2.4
+bis 2.6 werden die neuen Nummern 2.5 bis 2.7.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d. "><lxbase:a>Der neuen Nummer 2.5 werden
+folgende Absätze angefügt:</lxbase:a><lxbase:a>„Für die Gemeinnützigkeit eines Vertriebenenverbands ist
+es unschädlich, wenn er nach seiner Satzung allgemein - im Sinne
+einer Wiederherstellung der allgemeinen Gerechtigkeit - auch Zwecke
+wie „Wiedergutmachung des Vertreibungsunrechts“ oder „Rückgabe des
+konfiszierten Vermögens auf der Basis eines gerechten Ausgleichs“
+fördert. Bei derartigen Formulierungen in der Satzung kann angenommen werden,
+dass sich der Verband bei seiner Betätigung im Rahmen des gemeinnützigen
+Zwecks „Fürsorge für Vertriebene“ hält und die Verfolgung individueller
+Rechtsansprüche der Mitglieder nicht Satzungszweck ist.</lxbase:a><lxbase:a>Zu beanstanden sind jedoch Formulierungen, die nach Satzungszweck
+z.B. mit „Anspruch der Volksgruppen und der einzelnen Landsleute
+auf Rückerstattung des geraubten Vermögens und die sich daraus ergebenden
+Entschädigungsansprüche zu vertreten“ definieren. Vertriebenenverbände
+mit diesem oder einem ähnlich formulierten Satzungszweck können
+nicht als gemeinnützig behandelt werden, weil sie gegen die Gebote
+der Ausschließlichkeit (§ 56 AO) und der Selbstlosigkeit (§ 55 AO) verstoßen.</lxbase:a><lxbase:a>Satzungszwecke wie „Wiedervereinigung mit den Vertreibungsgebieten“
+oder „Eingliederung der Vertreibungsgebiete“ sind ebenfalls schädlich
+für die Gemeinnützigkeit eines Vertriebenenverbandes. Die Verfolgung
+dieser Ziele ist keine Förderung der Allgemeinheit, weil solche
+Bestrebungen im Widerspruch zu den völkerrechtlich verbindlichen
+Verträgen der Bundesrepublik Deutschland mit ihren östlichen Nachbarstaaten
+und zum Grundgesetz stehen (vgl. BFH-Beschluss vom 16.10.1991, <lxprod:doknr-verw linkend="HT0104476">I B 16/91</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0104476">BFH/NV
+1992 S. 505</lxprod:doknr-verw>).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e. "><lxbase:a>Nach der neuen Nummer 2.7
+wird folgende neue Nummer 2.8 eingefügt: „2.8 Folgende Zwecke wurden
+als vergleichbare Zwecke i.S.d. § 52 Abs. 2 Satz 2 AO anerkannt:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>Turnierbridge
+nach dem Regelwerk der World Bridge Federation (BFH-Urteil vom 9.2.2017,
+<lxprod:doknr-verw linkend="HT0950619">V R 70/14</lxprod:doknr-verw>,
+BStBl II S. 1106).“</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="f. "><lxbase:a>Die Nummer 3 wird wie folgt
+gefasst:</lxbase:a><lxbase:a>„3.	Internetvereine können wegen Förderung der Volksbildung
+als gemeinnützig anerkannt werden, sofern ihr Zweck nicht der Förderung
+der (privat betriebenen) Datenkommunikation durch Zurverfügungstellung
+von Zugängen zu Kommunikationsnetzwerken sowie durch den Aufbau,
+die Förderung und den Unterhalt entsprechender Netze zur privaten
+und geschäftlichen Nutzung durch die Mitglieder oder andere Personen
+dient.</lxbase:a><lxbase:a>Freiwilligenagenturen sind Körperschaften, die Menschen
+für freiwilliges, unentgeltliches Engagement bei steuerbegünstigten
+Körperschaften oder Körperschaften des öffentlichen Rechts qualifizieren
+und ihnen die entsprechenden Tätigkeiten vermitteln. Sie treten
+auch unter anderen Bezeichnungen auf, z.B. Freiwilligenzentren oder Ehrenamtsbörsen.
+Freiwilligenagenturen können regelmäßig wegen der Förderung der
+Bildung (§ 52 Abs. 2 Satz 1 Nr. 1 AO) als gemeinnützig behandelt
+werden, weil das Schwergewicht ihrer Tätigkeit in der Aus- und Weiterbildung
+der Freiwilligen liegt. Die Vermittlung der Freiwilligen in das
+gewünschte Betätigungsfeld ist lediglich Endpunkt und Abschluss
+eines Qualifizierungsprozesses, nicht jedoch der vorrangige und
+überwiegende Tätigkeitsbereich. Erhält eine Freiwilligenagentur
+im Zusammenhang mit der Vermittlung von Freiwilligen ein Entgelt
+für ihre Leistungen, liegt ein wirtschaftlicher Geschäftsbetrieb
+i.S.d. § 14 AO vor, der sowohl die Ausbildungsleistung als auch
+die Vermittlung umfasst. Der wirtschaftliche Geschäftsbetrieb ist
+als Zweckbetrieb (§ 65 AO) zu behandeln, weil das Entgelt für die Gesamtleistung
+- mit Schwergewicht bei der Ausbildung - gezahlt wird.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="g. "><lxbase:a>Nach der Nummer 3 wird folgende
+neue Nummer 4 eingefügt:</lxbase:a><lxbase:a>„4.	Erfinderclubs verfolgen in der Regel die Förderung
+von Bildung nach § 52 Abs. 2 Satz 1 Nr. 7 AO. Eine Anerkennung der
+Gemeinnützigkeit wegen der Förderung der Forschung nach § 52 Abs.
+2 Satz 1 Nr. 1 AO ist nur dann möglich, wenn der Verein selbst forscht
+(Gebot der Unmittelbarkeit, § 57 AO).</lxbase:a><lxbase:a>Nicht gemeinnützig ist die Förderung einer eigenen gewerblichen
+Tätigkeit oder die Förderung der gewerblichen Tätigkeit der Mitglieder.
+Es ist entscheidend, dass es sich bei dem Verein nicht lediglich
+um einen Zusammenschluss von Personen handelt, die durch Erfindungen,
+Patente und ihre Verwertung persönliche Einkünfte erzielen wollen.
+Die für die Gemeinnützigkeit geforderte Selbstlosigkeit eines Erfindervereins
+schließt zwar ein gewisses Eigeninteresse der Mitglieder an der
+Vereinstätigkeit nicht aus, allerdings verstößt die Verfolgung von
+vorwiegend eigenwirtschaftlichen Interessen gegen das Gebot der
+Selbstlosigkeit nach § 55 Abs. 1 AO. An der gebotenen Selbstlosigkeit
+fehlt es, wenn der Verein nach seiner Satzung die Patentierung und
+Verwertung von Erfindungen seiner Mitglieder fördert, sie also bei
+einer im Grundsatz gewerblichen Tätigkeit unterstützt. Dies gilt
+auch, wenn der Verein die Patente für seine Mitglieder anmeldet
+und hält. Unschädlich ist die allgemeine Information der Mitglieder,
+z.B. durch Lehrveranstaltungen oder Merkblätter zum Patentrecht.</lxbase:a><lxbase:a>Bei einem Verein, der selbst forscht, ist es unschädlich
+für die Steuerbegünstigung, wenn er Forschungsergebnisse zum Patent
+anmeldet. Er muss die Forschungsergebnisse aber veröffentlichen
+und damit der Allgemeinheit zugänglich machen. Erlegt die Satzung
+den Mitgliedern eine Geheimhaltungsverpflichtung auf, ist dies ein
+Indiz dafür, dass nicht die Allgemeinheit, sondern (nur oder in
+erster Linie) die Mitglieder gefördert werden sollen.</lxbase:a><lxbase:a>Eine gemeinnützigkeitskonforme Zweckverwirklichung kann
+beispielhaft durch folgende Maßnahmen erfolgen:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>Förderung
+des Wissens über den Zusammenhang zwischen Erfindungen, Schutzrechten
+und Innovationen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Förderung des Erfahrungsaustausches
+im Zusammenhang mit Erfindungen, Innovationen und Patenten sowie</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Öffentlichkeitsarbeit; Durchführung
+von Veranstaltungen, Fortbildungsmaßnahmen, Vorhaben, Projekten,
+die den satzungsmäßigen Zwecken (und nicht nur Einzelnen) dienen.“</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="h. "><lxbase:a>Die bisherigen Nummern 4
+bis 15 werden die neuen Nummern 5 bis 16.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="i. "><lxbase:a>Die neue Nummer 7 wird wie
+folgt gefasst:</lxbase:a><lxbase:a>„7.	Ein wesentliches Element des Sports (§ 52 Abs. 2 Satz
+1 Nr. 21 AO) ist die körperliche Ertüchtigung. Motorsport fällt
+unter den Begriff des Sports (BFH-Urteil vom 29.10.1997, <lxprod:doknr-verw linkend="HT0145011">I R 13/97</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0145011">BStBl
+1998 II S. 9</lxprod:doknr-verw>), ebenso Ballonfahren. Dagegen sind
+Skat (BFH-Urteil vom 17.2.2000, I R 108, <lxbase:az normform="109/98" manuell="nein">109/98</lxbase:az>, BFH/NV S. 1071), Bridge,
+Gospiel, Gotcha, Paintball, IPSC-Schießen und Tipp-Kick kein Sport
+i.S.d. Gemeinnützigkeits-rechts. Dies gilt auch für Amateurfunk,
+Modellflug und Hundesport, die jedoch eigenständige gemeinnützige
+Zwecke sind (§ 52 Abs. 2 Satz 1 Nr. 23 AO). Schützenvereine können
+auch dann als gemeinnützig anerkannt werden, wenn sie nach ihrer Satzung
+neben dem Schießsport (als Hauptzweck) auch das Schützenbrauchtum (vgl.
+Nr. 12 des AEAO zu § 52) fördern. Die Durchführung von volksfestartigen Schützenfesten
+ist kein gemeinnütziger Zweck.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="j. "><lxbase:a>In der neuen Nummer 12 wird
+die Angabe „(vgl. Nr. 6 des AEAO zu § 52)“ durch die Angabe „(vgl.
+Nr. 7 des AEAO zu § 52)“ ersetzt.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="10. "><lxbase:a>Der <lxbase:fett>AEAO
+zu § 55</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Der Nummer 2 wird folgender
+Satz angefügt:</lxbase:a><lxbase:a>„Dies gilt nicht für Leistungen der steuerbegünstigten
+Einrichtung aus einem steuerpflichtigen wirtschaftlichen Geschäftsbetrieb
+(§ 64 AO).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Der erste Absatz der Nummer
+24 wird wie folgt gefasst:</lxbase:a><lxbase:a>„Bei Vorstandsmitgliedern von Vereinen sind Tätigkeitsvergütungen
+gemeinnützigkeitsrechtlich nur zulässig, wenn eine entsprechende
+Satzungsregelung besteht. Zu Einzelheiten bei Zahlungen an den Vorstand
+steuerbegünstigter Vereine siehe BMF-Schreiben vom 21.11.2014, <lxprod:doknr-verw linkend="HT5235378">BStBl I S. 1581</lxprod:doknr-verw>.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>Die Nummer 28 wird wie folgt
+gefasst:</lxbase:a><lxbase:a>„28. Eine zeitnahe Mittelverwendung ist gegeben, wenn
+die Mittel spätestens in den auf den Zufluss folgenden zwei Kalender-
+oder Wirtschaftsjahren für die steuerbegünstigten satzungsmäßigen
+Zwecke verwendet werden. Am Ende des Kalender- oder Wirtschaftsjahrs
+noch vorhandene Mittel müssen in der Bilanz oder Vermögensaufstellung
+der Körperschaft zulässigerweise dem Vermögen oder einer zulässigen
+Rücklage zugeordnet oder als im zurückliegenden Jahr zugeflossene
+Mittel, die in den folgenden zwei Jahren für die steuerbegünstigten
+Zwecke zu verwenden sind, ausgewiesen sein. Soweit Mittel nicht
+schon im Jahr des Zuflusses für die steuerbegünstigten Zwecke verwendet
+oder zulässigerweise dem Vermögen zugeführt werden, ist ihre zeitnahe
+Verwendung nachzuweisen, zweckmäßigerweise durch eine Nebenrechnung
+(Mittelverwendungsrechnung). Der Zweck des Grundsatzes der zeitnahen
+Mittelverwendung gebietet es, dass bei der Nachprüfung der Mittelverwendung
+nicht auf die einzelne Zuwendung abzustellen ist, sondern auf die Gesamtheit
+aller zeitnah zu verwendenden Zuwendungen und sonstigen Einnahmen
+bzw. Vermögenswerte der Körperschaft (Saldobetrachtung bzw. Globalbetrachtung;
+BFH-Urteil vom 20.3.2017, <lxprod:doknr-verw linkend="HT0950595">X R 13/15</lxprod:doknr-verw>, BStBl II S. 1110).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d. "><lxbase:a>Die Nummer 30 wird gestrichen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e. "><lxbase:a>Die bisherigen Nummern 31
+bis 33 werden die neuen Nummern 30 bis 32.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="11. "><lxbase:a>Die Nummer 1 des <lxbase:fett>AEAO
+zu § 58</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„1.	 Diese Ausnahmeregelung ermöglicht es, Körperschaften
+als steuerbegünstigt anzuerkennen, die andere Körperschaften fördern
+und dafür Spenden sammeln oder auf andere Art Mittel beschaffen
+(Mittelbeschaffungskörperschaften). Die Beschaffung von Mitteln
+muss als Satzungszweck festgelegt sein. Ein steuerbegünstigter Zweck,
+für den Mittel beschafft werden sollen, muss in der Satzung angegeben
+sein. Es ist nicht erforderlich, die Körperschaften, für die Mittel
+beschafft werden sollen, in der Satzung aufzuführen. Die Körperschaft,
+für die Mittel beschafft werden, muss nur dann selbst steuerbegünstigt
+sein, wenn sie eine unbeschränkt steuerpflichtige Körperschaft des privaten
+Rechts ist. Werden Mittel für nicht unbeschränkt steuerpflichtige
+Körperschaften beschafft, muss die Verwendung der Mittel für die
+steuerbegünstigten Zwecke ausreichend nachgewiesen werden. Weitergabefähige
+Mittel i.S.d. § 58 Nr. 1 AO sind nicht nur solche, die bereits mit
+dem Ziel der Weitergabe beschafft wurden. Gemeinnützigkeitsunschädlich
+weitergegeben werden dürfen sämtliche Mittel, soweit die Satzung
+der hingebenden Körperschaft im Zeitpunkt der Weitergabe über eine entsprechende
+Satzungsbestimmung verfügt (Nr. 1 Satz 2 des AEAO zu § 58) und die Zwecke
+der hingebenden und empfangenden Körperschaft insoweit identisch
+sind.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="12. "><lxbase:a>Der erste Absatz der Nummer
+4 des <lxbase:fett>AEAO zu § 59</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„Wird bei einer Körperschaft, die bereits nach § 5 Abs.
+1 Nr. 9 KStG steuerbefreit war, im Rahmen der Veranlagung festgestellt,
+dass die Satzung nicht den Anforderungen des Gemeinnützigkeitsrechts
+genügt, dürfen aus Vertrauensschutzgründen hieraus keine nachteiligen
+Folgerungen für die Vergangenheit gezogen werden. Die Körperschaft
+ist trotz der fehlerhaften Satzung für abgelaufene Veranlagungszeiträume
+und für das Kalenderjahr, in dem die Satzung beanstandet wird, als
+steuerbegünstigt zu behandeln. Dies gilt nicht, wenn bei der tatsächlichen
+Geschäftsführung gegen Vorschriften des Gemeinnützigkeitsrechts
+verstoßen wurde.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="13. "><lxbase:a>Satz 1 der Nummer 1 des
+<lxbase:fett>AEAO zu § 60a</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„Das Verfahren nach § 60a AO hat die sogenannte vorläufige
+Bescheinigung abgelöst.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="14. "><lxbase:a>Am Ende der Nummer 1 des
+<lxbase:fett>AEAO zu § 61</lxbase:fett> wird folgender Absatz
+angefügt:</lxbase:a><lxbase:a>„Die satzungsmäßige Vermögensbindung nach § 55 Abs. 1
+Nr. 4 Satz 2 i.V.m. § 61 Abs. 1 AO ist auch erfüllt, wenn in der
+Satzung einer Körperschaft als Anfallsberechtigte eine in einem
+EU-/EWR-Staat ansässige juristische Person des öffentlichen Rechts
+aufgeführt wird.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="15. "><lxbase:a>Der <lxbase:fett>AEAO
+zu § 64 </lxbase:fett>wird wie folgt geändert:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Satz 3 der Nummer 3 wird
+wie folgt gefasst:</lxbase:a><lxbase:a>„Die Beteiligung einer gemeinnützigen Körperschaft an
+einer gewerblich geprägten vermögensverwaltenden Personengesellschaft
+stellt keinen wirtschaftlichen Geschäftsbetrieb dar (BFH-Urteile
+vom 25.5.2011, <lxprod:doknr-verw linkend="HT0927950">I
+R 60/10</lxprod:doknr-verw>, <lxbase:lit-fs normform="BStBl-2012-II-0858" manuell="nein">BStBl 2012 II S. 858</lxbase:lit-fs>,
+und vom 18.2.2016, <lxprod:doknr-verw linkend="HT0950621">V
+R 60/13</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0950621">BStBl 2017 II S. 251</lxprod:doknr-verw>).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>In der Nummer 5 wird die
+Angabe „vgl. Nrn. 28 ff des AEAO zu § 64“ durch die Angabe „vgl.
+Nrn. 31 ff. des AEAO zu § 64“ ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>Nach der Nummer 6 wird folgende
+neue Nummer 7 eingefügt:</lxbase:a><lxbase:a>„7.	Eine gemeinnützige Körperschaft ist bereits nach §
+55 Abs. 1 Nr. 1 AO verpflichtet, ihre Mittel ausschließlich zur
+Förderung gemeinnütziger Zwecke einzusetzen. Ein steuerlicher Abzug
+derartiger Aufwendungen als Betriebsausgaben scheidet aus. Nichtabziehbar
+sind nach § 10 Nr. 1 KStG auch Aufwendungen für die Erfüllung von
+Zwecken, die in der Satzung vorgeschrieben sind. Die Aufwendungen
+für gemeinnützige oder satzungsmäßige Zwecke können auch nicht aufgrund
+einer „Auflage“ als abziehbare Betriebsausgaben behandelt werden
+(Nichtanwendung des BFH-Urteils vom 5.6.2003, <lxprod:doknr-verw linkend="HT0815880">I R 76/01</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0815880">BStBl
+II 2005 S. 305</lxprod:doknr-verw>).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d. "><lxbase:a>Die bisherigen Nummern 7
+bis 11 werden die neuen Nummern 8 bis 12.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e. "><lxbase:a>Nach der neuen Nummer 12
+wird folgende neue Nummer 13 eingefügt:</lxbase:a><lxbase:a>„13. Unter Beschäftigungsgesellschaften sind Körperschaften
+zu verstehen, die - gegebenenfalls unter Nutzung arbeitsförderungsrechtlicher
+Instrumente und sonstiger Förderungsmöglichkeiten - die Hilfe für
+früher arbeitslose und von Arbeitslosigkeit bedrohte Menschen insbesondere
+durch Arbeitsbeschaffungsmaßnahmen, berufliche Qualifizierungsmaßnahmen
+und Umschulungen zum Ziel haben.</lxbase:a><lxbase:a>Beschäftigungsgesellschaften können in der Regel nicht
+als gemeinnützig behandelt werden, wenn sie Waren herstellen und
+vertreiben oder Leistungen an Dritte erbringen, da sie dann wie
+andere Unternehmen eine wirtschaftliche Tätigkeit ausüben. Dies
+ist kein gemeinnütziger Zweck. Dass durch die wirtschaftliche Tätigkeit Arbeitsplätze
+erhalten oder geschaffen werden, rechtfertigt nicht die Anerkennung der
+Gemeinnützigkeit. Die Erhaltung und Schaffung von Arbeitsplätzen
+ist mit jeder wirtschaftlichen Tätigkeit verbunden.</lxbase:a><lxbase:a>Eine Beschäftigungsgesellschaft kann aber dann als gemeinnützig
+anerkannt werden, wenn das Schwergewicht ihrer Tätigkeit auf der
+beruflichen Qualifizierung, der Umschulung oder der sozialen Betreuung
+liegt. Werden dabei Waren hergestellt und vertrieben (z.B. im Rahmen
+einer Ausbildung angefertigte Sachen) oder Leistungen gegenüber
+Dritten erbracht, liegt insoweit ein wirtschaftlicher Geschäftsbetrieb
+(§ 14 Satz 1 und 2 AO) vor. Ist dieser steuerpflichtig, darf er
+weder Satzungszweck noch nach der tatsächlichen Geschäftsführung
+Selbst- oder Hauptzweck der Gesellschaft sein. Ob der wirtschaftliche
+Geschäftsbetrieb steuerpflichtig oder ein steuerbegünstigter Zweckbetrieb
+ist, richtet sich nach den §§ 65 und 68 AO.</lxbase:a><lxbase:a>Ein steuerbegünstigter Zweckbetrieb liegt insbesondere
+vor, wenn die Voraussetzungen des § 68 Nr. 3 AO erfüllt sind. Danach
+sind Werkstätten für behinderte Menschen, die nach den Vorschriften
+des Arbeitsförderungsgesetzes förderungsfähig sind und Personen
+Arbeitsplätze bieten, die wegen ihrer Behinderung nicht auf dem allgemeinen
+Arbeitsmarkt tätig sein können, sowie Einrichtungen für Beschäftigungs-
+und Arbeitstherapie, die der Eingliederung von Behinderten dienen,
+als Zweckbetriebe zu behandeln.</lxbase:a><lxbase:a>Die Voraussetzungen des § 65 AO für die Zweckbetriebseigenschaft
+einer wirtschaftlichen Betätigung sind regelmäßig erfüllt, wenn
+sich der wirtschaftliche Geschäftsbetrieb in einer aus- oder weiterbildenden
+Tätigkeit gegen Teilnehmergebühren erschöpft. Sie sind auch erfüllt,
+soweit als Ausfluss der beruflichen Qualifizierungs- und Umschulungsmaßnahmen
+Waren hergestellt und veräußert oder Dienstleistungen gegenüber
+Dritten gegen Entgelt erbracht werden. Dagegen wird ein steuerpflichtiger
+wirtschaftlicher Geschäftsbetrieb (§ 64 AO) begründet, wenn die
+Herstellung und Veräußerung von Waren oder die entgeltlichen Dienstleistungen
+den Umfang überschreiten, der zur Erfüllung der beruflichen Qualifizierungs- und
+Umschulungsmaßnahmen notwendig ist.</lxbase:a><lxbase:a>Bei der gemeinnützigkeitsrechtlichen Behandlung von Körperschaften,
+die ähnliche Zwecke wie die Beschäftigungsgesellschaft fördern,
+ist nach den gleichen Grundsätzen zu verfahren.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="f. "><lxbase:a>Die bisherigen Nummern 12
+und 13 werden die neuen Nummern 14 und 15.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="g. "><lxbase:a>Nach der neuen Nummer 15
+wird folgende neue Nummer 16 eingefügt:</lxbase:a><lxbase:a>„16. Die entgeltliche Übernahme von Verwaltungstätigkeiten
+durch Einsatzstellen, Zentralstellen und Träger i.S.d. §§ 6 und
+7 Bundesfreiwilligendienstgesetz (BFDG) aufgrund von Verträgen nach
+§ 16 BFDG begründet einen steuerpflichtigen wirtschaftlichen Geschäftsbetrieb
+nach § 64 AO (teilweise Nichtanwendung des BFH-Urteils vom 23.7.2009,
+<lxprod:doknr-verw linkend="HT0179074">V R 93/07</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0179074">BStBl
+2015 II S. 735</lxprod:doknr-verw>).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="h. "><lxbase:a>Die bisherigen Nummern 14
+bis 36 werden die neuen Nummern 17 bis 39.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="i. "><lxbase:a>In der neuen Nummer 18 wird
+die Angabe „(vgl. Nr. 17 des AEAO zu § 64)“ durch die Angabe „(vgl.
+Nr. 20 des AEAO zu § 64)“ ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="j. "><lxbase:a>In der neuen Nummer 20 wird
+die Angabe „i.S.d. Nr. 16 des AEAO zu § 64“ durch die Angabe „i.S.d.
+Nr. 19 des AEAO zu § 64“ ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="k. "><lxbase:a>Die neue Nummer 29 wird
+wie folgt gefasst:</lxbase:a><lxbase:a>„29. § 64 Abs. 5 AO gilt nur für Altmaterialsammlungen
+(Sammlung und Verwertung von Lumpen, gesammelten Kleidungsstücken,
+Altpapier, Schrott). Zahngold ist kein Altmaterial. Die Regelung
+gilt nicht für den Einzelverkauf gebrauchter Sachen (Gebrauchtwarenhandel).
+Basare und ähnliche Einrichtungen sind deshalb nicht begünstigt
+(vgl. BFH-Urteil vom 11.2.2009, <lxprod:doknr-verw linkend="HT0179267">I R 73/08</lxprod:doknr-verw>, BStBl II S. 516).
+Zu Kleiderkammern siehe Nr. 9 des AEAO zu § 66.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="l. "><lxbase:a>Die neue Nummer 35 wird
+wie folgt gefasst:</lxbase:a><lxbase:a>„35. Das Veranstalten von Trabrennen kann ein steuerpflichtiger
+wirtschaftlicher Geschäftsbetrieb nach § 64 AO sein, der mit dem
+Betrieb eines Totalisators einen einheitlichen wirtschaftlichen
+Geschäftsbetrieb bildet. Diesem Betrieb sind grundsätzlich sämtliche
+Einnahmen und Ausgaben zuzuordnen, die durch ihn veranlasst sind
+(BFH-Urteil vom 22.4.2009, <lxprod:doknr-verw linkend="HT0588179">I R 15/07</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0588179">BStBl 2011
+II S. 475</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Nach § 64 Abs. 6 Nr. 2 AO kann der Gewinn aus dem Totalisatorbetrieb
+der Pferderennvereine allerdings mit 15 % der Einnahmen angesetzt
+werden. Die maßgeblichen Einnahmen ermitteln sich insoweit wie folgt:</lxbase:a><lxbase:a>Wetteinnahmen</lxbase:a><lxbase:a>abzgl. Rennwettsteuer (Totalisatorsteuer)</lxbase:a><lxbase:a>abzgl. Auszahlungen an die Wetter.“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="16. "><lxbase:a>Nach der Nummer 8 des <lxbase:fett>AEAO
+zu § 66</lxbase:fett> wird folgende neue Nummer 9 eingefügt:</lxbase:a><lxbase:a>„9.	 Der Einzelverkauf gesammelter Kleidungsstücke in
+einer Kleiderkammer oder einer ähnlichen Einrichtung kann ein Zweckbetrieb
+i.S.d. § 66 AO sein. Dies setzt voraus, dass mindestens zwei Drittel
+der Leistungen der Einrichtung hilfebedürftigen Personen i.S.d. §
+53 AO zugutekommen.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="17. "><lxbase:a>Der AEAO zu § 67 wird wie
+folgt gefasst:</lxbase:a><lxbase:a>„<lxbase:fett>AEAO zu § 67 - Krankenhäuser:</lxbase:fett></lxbase:a><lxbase:a>Nach § 2 Nr. 1 Krankenhausfinanzierungsgesetz sind Krankenhäuser
+Einrichtungen, in denen durch ärztliche und pflegerische Hilfeleistung
+Krankheiten, Leiden oder Körperschäden festgestellt, geheilt oder
+gelindert werden sollen oder Geburtshilfe geleistet wird und in
+denen die zu versorgenden Personen untergebracht und verpflegt werden können.
+Krankenhausleistungen sind Leistungen, die unter Berücksichtigung
+der Leistungsfähigkeit des Krankenhauses im Einzelfall nach Art
+und Schwere der Krankheit für die medizinisch zweckmäßige und ausreichende
+Versorgung der Patienten notwendig sind. Es handelt sich u.a. um</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>ärztliche
+und pflegerische Behandlung oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Versorgung mit Arznei-,
+Heil- und Hilfsmitteln, die für die Versorgung im Krankenhaus notwendig
+sind, oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Unterkunft und Verpflegung.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Zu dem Zweckbetrieb Krankenhaus gehören damit alle Einnahmen
+und Ausgaben, die mit den ärztlichen und pflegerischen Leistungen
+an die Patienten als Benutzer des jeweiligen Krankenhauses zusammenhängen
+(BFH-Urteil vom 6.4.2005, <lxprod:doknr-verw linkend="HT5000205">I R 85/04</lxprod:doknr-verw>, BStBl II S. 545).
+Darunter fallen auch die an ambulant behandelte Patienten erbrachten Leistungen,
+soweit diese Bestandteil des Versorgungsauftrages des Krankenhauses sind.
+Gleiches gilt für typischerweise von einem Krankenhaus gegenüber
+seinen Patienten erbrachte Leistungen, soweit das Krankenhaus zur
+Sicherstellung seines Versorgungsauftrages von Gesetzes wegen zu
+diesen Leistungen befugt ist und der Sozialversicherungsträger die
+insoweit entstehenden Kosten trägt (BFH-Urteile vom 31.7.2013, <lxprod:doknr-verw linkend="HT0929412">I R 82/12</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0929412">BStBl
+2015 II S. 123</lxprod:doknr-verw>, und vom 18.10.2017, <lxprod:doknr-verw linkend="HT0951038">V R 46/16</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0951038">BStBl
+2018 II S. 672</lxprod:doknr-verw>). Der Versorgungsauftrag eines Krankenhauses
+(§ 8 Abs. 1 Satz 4 Krankenhausentgeltgesetz) regelt, welche Leistungen
+ein Krankenhaus, unabhängig von der Art der Krankenversicherungsträger,
+erbringen darf. Für die gemeinnützigkeitsrechtliche Beurteilung
+folgt daraus, dass für Leistungen, die außerhalb des Versorgungsauftrages erbracht
+werden, eine Zuordnung zum Zweckbetrieb Krankenhaus ausscheidet.</lxbase:a><lxbase:a>Für die Zurechnung der Behandlungsleistungen zum Zweckbetrieb
+Krankenhaus ist es unbeachtlich, wenn die Behandlungen von Patienten
+des Krankenhauses durch einen ermächtigten Arzt als Dienstaufgabe
+innerhalb einer nichtselbstständigen Tätigkeit (Einkünfte nach §
+19 EStG) erbracht werden.</lxbase:a><lxbase:a>Für die Beurteilung eines Krankenhauses als Zweckbetrieb
+ist allein § 67 AO maßgebend. Es müssen nicht zusätzlich die Voraussetzungen
+des § 66 AO erfüllt sein.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="18. "><lxbase:a>Der <lxbase:fett>AEAO
+zu § 67a</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>In der Nummer 8 wird die
+Angabe „Nrn. 29 bis 36 des AEAO zu § 64“ durch die Angabe „Nrn.
+32 bis 39 des AEAO zu § 64“ ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>In der Nummer 17 wird die
+Angabe „Nr. 15 und 16 des AEAO zu § 64“ durch die Angabe „Nr. 18
+und 19 des AEAO zu § 64“ ersetzt.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="19. "><lxbase:a>Der <lxbase:fett>AEAO
+zu § 68</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Der erste Absatz der Nummer
+5 wird wie folgt gefasst:</lxbase:a><lxbase:a>„Der Begriff „Werkstatt für behinderte Menschen“ bestimmt
+sich nach § 219 SGB IX. Werkstätten für behinderte Menschen bedürfen
+der förmlichen Anerkennung. Anerkennungsbehörde ist die Bundesagentur
+für Arbeit, die im Einvernehmen mit dem überörtlichen Träger der
+Sozialhilfe über die Anerkennung einer Einrichtung als Werkstatt
+für behinderte Menschen durch Anerkennungsbescheid entscheidet (§ 225
+SGB IX).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Die Nummer 6 wird folgt
+gefasst:</lxbase:a><lxbase:a>„6. 	Inklusionsbetriebe i.S.d. § 215 SGB IX sind rechtlich
+und wirtschaftlich selbständige Unternehmen oder unternehmensinterne
+oder von öffentlichen Arbeitgebern i.S.d. § 154 Abs. 2 SGB IX geführte
+Betriebe oder Abteilungen zur Beschäftigung schwerbehinderter Menschen,
+deren Teilhabe an einer sonstigen Beschäftigung auf dem allgemeinen
+Arbeitsmarkt aufgrund von Art oder Schwere der Behinderung oder
+wegen sonstiger Umstände voraussichtlich trotz Ausschöpfens aller
+Fördermöglichkeiten und des Einsatzes von Integrationsfachdiensten
+auf besondere Schwierigkeiten stößt. Inklusionsbetriebe i.S.d. §
+215 SGB IX müssen mindestens 30 % und sollen in der Regel nicht
+mehr als 50 % der genannten Personengruppe beschäftigen, um sozialrechtlich
+als Inklusionsbetrieb anerkannt werden zu können. Für die steuerliche
+Eignung als Zweckbetrieb bedarf es insgesamt einer Beschäftigungsquote
+von mindestens 40 % der genannten Personengruppen. Auf diese Quoten
+wird auch die Anzahl der psychisch kranken beschäftigten Menschen
+angerechnet, die behindert oder von einer Behinderung bedroht sind
+und deren Teilhabe an einer sonstigen Beschäftigung auf dem allgemeinen
+Arbeitsmarkt auf Grund von Art und Schwere der Behinderung oder
+wegen sonstiger Umstände auf besondere Schwierigkeiten stößt. Für
+Inklusionsbetriebe wird anders als bei Werkstätten für behinderte
+Menschen kein förmliches Anerkennungsverfahren durchgeführt. Als
+Nachweis für die Eigenschaft als Inklusionsbetrieb dient in der
+Regel der Bescheid des zuständigen Integrationsamtes über erbrachte
+Leistungen nach § 217 SGB IX (Leistungsbescheid) sowie, im Falle
+einer Beschäftigung psychisch kranker Menschen, der Leistungsbescheid
+des zuständigen Rehabilitationsträgers. Bei der Ermittlung der Beschäftigungsquote
+von 40 % sind alle schwerbehinderten und psychisch kranken Menschen,
+für die das jeweils zuständige Integrationsamt bzw. der zuständige
+Rehabilitationsträger auch Leistungen der begleitenden Hilfe im Arbeitsleben
+nach § 217 SGB IX erbringen kann, zu berücksichtigen. Dies ist bei Inklusionsbetrieben
+bei Beschäftigten mit einer wöchentlichen Arbeitszeit ab 12 Stunden
+möglich. Ein über diese Grenze hinausgehend Teilzeitbeschäftigter
+wird voll angerechnet.</lxbase:a><lxbase:a>Für Altfälle bis einschließlich VZ 2018 wird nicht beanstandet,
+wenn die bisherige Fassung der Nr. 6 des AEAO zu § 68 Nr. 3 angewendet
+wird.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>Die Nummer 7 wird wie folgt
+gefasst:</lxbase:a><lxbase:a>„7.	 Zusätzliche Beschäftigungsmöglichkeiten für (schwer-)behinderte
+Menschen schaffen Handelsbetriebe, die als wohnortnahe Einzelhandelsgeschäfte
+beispielsweise mit einem Lebensmittelvollsortiment und entsprechendem
+Einsatz von Fachpersonal betrieben werden. Mit dieser Beschäftigungsform
+soll behinderten Menschen eine Möglichkeit zur Teilhabe am Arbeitsleben
+auf dem allgemeinen Arbeitsmarkt auch außerhalb von Werkstätten
+für behinderte Menschen geboten werden.</lxbase:a><lxbase:a>Handelsbetriebe, die keine Läden oder Verkaufsstellen
+von Werkstätten für behinderte Menschen i.S.d. Nr. 5 des AEAO zu
+§ 68 darstellen, können als Inklusionsbetrieb (vgl. Nr. 6 des AEAO
+zu § 68) oder als zusätzlicher Arbeitsbereich, zusätzlicher Betriebsteil
+oder zusätzliche Betriebsstätte einer (anerkannten) Werkstatt für
+behinderte Menschen gegründet werden. Im letzteren Fall muss die
+Werkstatt für behinderte Menschen bei den Anerkennungsbehörden (§
+225 SGB IX) die Erweiterung der anerkannten Werkstatt um den zusätzlichen
+Arbeitsbereich, den Betriebsteil oder die zusätzliche Betriebsstätte
+„Handelsbetrieb“ anzeigen und um deren Einbeziehung in die Anerkennung
+nach § 225 SGB IX ersuchen. Die Anerkennungsbehörden prüfen, ob
+die anerkannte Werkstatt für behinderte Menschen auch mit einer solchen
+Erweiterung insgesamt noch die Anerkennungsvoraussetzungen als Werkstatt
+für behinderte Menschen nach § 225 SGB IX erfüllt.</lxbase:a><lxbase:a>Handelsbetriebe, die von den Sozialbehörden als Inklusionsbetriebe
+gefördert werden, stellen grundsätzlich einen steuerbegünstigten
+Zweckbetrieb nach § 68 Nr. 3 Buchstabe c AO dar, wenn die Beschäftigungsquote
+von 40 % der Personengruppe erreicht ist.</lxbase:a><lxbase:a>Die von den Sozialbehörden vorgenommene sozialrechtliche
+Einordnung dieser Handelsbetriebe als Teil einer Werkstatt für behinderte
+Menschen (§ 68 Nr. 3 Buchstabe a AO) oder als Inklusionsbetrieb
+(§ 68 Nr. 3 Buchstabe c AO) soll von der zuständigen Finanzbehörde
+regelmäßig übernommen werden. Dem zuständigen Finanzamt obliegt
+aber die abschließende rechtsverbindliche Entscheidung im Einzelfall.
+Dabei kommt den Bescheiden der Sozialbehörden (Anerkennungsbescheid nach
+§ 225 SGB IX bzw. Bescheid über erbrachte Leistungen nach § 217
+SGB IX) grundsätzlich Tatbestandswirkung zu. Die Bescheide stellen
+aber keine Grundlagenbescheide i.S.d. § 171 Abs. 10 AO dar.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d. "><lxbase:a>Die bisherige Nummer 15
+wird durch folgende neue Nummern 15 bis 20 ersetzt:</lxbase:a><lxbase:a>„15. An Veranstaltungen belehrender Art i.S.d. § 68 Nr.
+8 AO sind keine besonderen inhaltlichen Anforderungen zu stellen.
+Es genügt, dass bei den jeweiligen Veranstaltungen überwiegend Vorträge
+gehalten werden, die naturgemäß belehrenden Charakter haben (BFH-Urteil
+vom 21.6.2017, <lxprod:doknr-verw linkend="HT0950965">V
+R 34/16</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0950965">BStBl 2018 II S. 55</lxprod:doknr-verw>).</lxbase:a><lxbase:a>16. Bei der Anwendung des § 68 Nr. 9 AO bestehen keine
+Unterschiede zwischen Wissenschaftseinrichtungen und Forschungseinrichtungen.
+Die nachfolgenden Erläuterungen zur steuerlichen Behandlung von
+Forschungseinrichtungen gelten deshalb auch für Wissenschaftseinrichtungen.</lxbase:a><lxbase:a>17. § 68 Nr. 9 AO gilt nur für Körperschaften, deren satzungsmäßiger
+Zweck die Förderung von Wissenschaft und Forschung ist. Fördert
+die Körperschaft daneben nach ihrer Satzung auch andere steuerbegünstigte
+Zwecke, ist § 68 Nr. 9 AO nur anzuwenden, wenn die Forschungstätigkeit
+bei der tatsächlichen Geschäftsführung die Förderung der anderen
+steuerbegünstigten Zwecke überwiegt.</lxbase:a><lxbase:a>Die Sonderregelung in § 68 Nr. 9 AO geht der allgemeinen
+Regelung über die Zweckbetriebseigenschaft wirtschaftlicher Betätigungen
+in § 65 AO vor. Die Zweckbetriebseigenschaft der Forschungstätigkeit
+von Forschungseinrichtungen, auf die § 68 Nr. 9 AO anzuwenden ist,
+richtet sich deshalb ausschließlich nach dieser Vorschrift. Darauf,
+ob die Forschungstätigkeit die Voraussetzungen des § 65 AO erfüllt, kommt
+es nicht an. Dies gilt auch dann, wenn die Forschungseinrichtung
+die Voraussetzungen des § 68 Nr. 9 AO für die Annahme eines Zweckbetriebs
+nicht erfüllt. Die gesamte Forschungstätigkeit ist in diesem Fall
+ein steuerpflichtiger wirtschaftlicher Geschäftsbetrieb.</lxbase:a><lxbase:a>Die steuerliche Beurteilung der Zweckbetriebseigenschaft
+von wirtschaftlichen Geschäftsbetrieben, die nicht unmittelbar der
+Forschung dienen, richtet sich nach den §§ 65 bis 68 Nrn. 1 bis
+8 AO. Danach ist z.B. die teilweise Überlassung der Nutzung eines
+Rechenzentrums für Zwecke Dritter gegen Entgelt ein steuerpflichtiger wirtschaftlicher
+Geschäftsbetrieb. Zweckbetriebe kommen insbesondere bei der Förderung
+anderer steuerbegünstigter Zwecke in Betracht (z.B. Unterhaltung
+eines Museums durch den Träger einer Forschungseinrichtung - § 68
+Nr. 7 AO).</lxbase:a><lxbase:a>Betreibt eine steuerbegünstigte Körperschaft, auf die
+§ 68 Nr. 9 AO nicht anzuwenden ist, auch Forschung, ist die Zweckbetriebseigenschaft
+der Forschungstätigkeit nach § 65 AO zu beurteilen. Hierbei sind
+die Grundsätze des BFH-Urteils vom 30.11.1995, <lxprod:doknr-verw linkend="HT0132462">V R 29/91</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0132462">BStBl
+1997 II S. 189</lxprod:doknr-verw>, zu beachten. <lxbase:unterst>Danach</lxbase:unterst>
+ist die Auftragsforschung ein steuerpflichtiger wirtschaftlicher
+Geschäftsbetrieb. Falls sich die Auftragsforschung nicht von der
+Grundlagen- oder Eigenforschung abgrenzen lässt, liegt insgesamt
+ein steuerpflichtiger wirtschaftlicher Geschäftsbetrieb vor.</lxbase:a><lxbase:a>Eine Körperschaft ist nicht selbstlos tätig und kann deshalb
+nicht als gemeinnützig behandelt werden, wenn sie in erster Linie
+nicht steuerbegünstigte, sondern eigenwirtschaftliche Zwecke verfolgt
+(§ 55 Abs. 1 Satz 1 AO). Zweckbetriebe sind bei dieser Abgrenzung
+dem ideellen steuerbegünstigten Bereich zuzuordnen. Wenn eine Forschungseinrichtung
+nach § 68 Nr. 9 AO ein Zweckbetrieb ist, besteht deshalb die unwiderlegbare
+Vermutung, dass das Schwergewicht ihrer Tätigkeit im steuerbegünstigten
+Bereich liegt. Bei einer Forschungseinrichtung, auf die § 68 Nr.
+9 AO anzuwenden ist, deren Träger die Finanzierungsvoraussetzungen
+der Vorschrift jedoch nicht erfüllt, kann nicht zwingend davon ausgegangen
+werden, dass sie in erster Linie eigenwirtschaftliche Zwecke verfolgt.
+Nach den Grundsätzen des BFH-Urteils vom 4.4.2007, <lxprod:doknr-verw linkend="HT0586767">I R 76/05</lxprod:doknr-verw>,
+BStBl II S. 631, ist unter Berücksichtigung der gesamten Umstände
+des Einzelfalls zu prüfen, ob sich die Auftragsforschung von der
+steuerbegünstigten Tätigkeit trennen lässt. Ist in diesem Fall die
+Auftragsforschung von untergeordneter Bedeutung, kann der Träger
+der Einrichtung nach § 5 Abs. 1 Nr. 9 KStG gleichwohl steuerbefreit
+sein und die Auftragsforschung lediglich einen steuerpflichtigen
+wirtschaftlichen Geschäftsbetrieb (§ 64 AO) darstellen. Die Steuerbefreiung
+nach § 5 Abs. 1 Nr. 9 KStG geht nur dann verloren, wenn die Auftragsforschung
+als eigenständiger Zweck neben die Eigenforschung (Grundlagenforschung)
+tritt und somit gegen das Gebot der Ausschließlichkeit des § 56
+AO verstoßen wird.</lxbase:a><lxbase:a>18. Unter „Träger“ einer Forschungseinrichtung ist die
+Körperschaft (z.B. Verein, GmbH) zu verstehen, die die Einrichtung
+betreibt. Wie sich die Mitglieder oder Gesellschafter der Körperschaft
+finanzieren, ist ohne Bedeutung.</lxbase:a><lxbase:a>19.	 Die überwiegende Finanzierung des Trägers ergibt
+sich aus der Gegenüberstellung der Zuwendungen an den Träger von
+dritter Seite zuzüglich der Einnahmen aus der Vermögensverwaltung
+einerseits und der übrigen Einnahmen des Trägers andererseits. Zuwendungen
+von dritter Seite sind nur unentgeltliche Leistungen. Dazu gehören
+z.B. die Projektförderung von Bund, Ländern und der Europäischen Union,
+Spenden und echte Mitgliedsbeiträge.</lxbase:a><lxbase:a>Fördert die Körperschaft auch andere steuerbegünstigte
+Zwecke als die Wissenschaft und Forschung und geschieht dies durch
+einen Zweckbetrieb, sind die Einnahmen und Überschüsse aus diesem
+Zweckbetrieb bei der Beurteilung der Frage, aus welchen Mitteln
+sich der Träger der Forschungseinrichtung überwiegend finanziert,
+nicht zu berücksichtigen. Die Einnahmen und Überschüsse anderer
+Zweckbetriebe sind also weder als Zuwendungen noch als andere (schädliche)
+Mittelzuflüsse zu erfassen.</lxbase:a><lxbase:a>In welchem Jahr die Einnahmen anzusetzen sind, bestimmt
+sich nach den Grundsätzen der steuerlichen Einkünfteermittlung.
+Bei Körperschaften, die den Gewinn durch Betriebsvermögensvergleich
+(§ 4 Abs. 1 oder § 5 EStG) ermitteln, sind Forderungszugänge bereits
+als Einnahmen zu erfassen. Bei anderen Körperschaften sind die im Kalenderjahr
+zugeflossenen Einnahmen maßgeblich (§ 11 EStG).</lxbase:a><lxbase:a>Der Beurteilung, ob der Träger einer Forschungseinrichtung
+sich überwiegend aus Zuwendungen und der Vermögensverwaltung finanziert,
+ist grundsätzlich ein Dreijahreszeitraum zugrunde zu legen. Dieser
+umfasst den zu beurteilenden und die beiden vorangegangenen Veranlagungszeiträume.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel</lxbase:fett></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="4" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="15*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:colspec colnum="3" colname="3" colwidth="26*" /><cals:colspec colnum="4" colname="4" colwidth="26*" /><cals:tbody><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>Jahr</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>Zuwendungen
+und Vermögensverwaltung</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>Andere Finanzierung</lxbase:a></cals:entry><cals:entry align="center" colname="4"><lxbase:a>Gesamtfinanzierung</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a /></cals:entry><cals:entry align="right" colname="2"><lxbase:a>€</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>€</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a> €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>01</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>1.000</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>1.100</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>2.100</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>02</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>1.400</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>1.000</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>2.400</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>03</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>1.200</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>1.300</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>2.500</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry align="center" colname="1"><lxbase:a>Zusammen</lxbase:a></cals:entry><cals:entry align="right" colname="2"><lxbase:a>3.600</lxbase:a></cals:entry><cals:entry align="right" colname="3"><lxbase:a>3.400</lxbase:a></cals:entry><cals:entry align="right" colname="4"><lxbase:a>7.000</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a>Im Jahr 03 (zu beurteilender Veranlagungszeitraum) liegt
+ein Zweckbetrieb vor, weil sich der Träger der Forschungseinrichtung
+im maßgeblichen Beurteilungszeitraum (Jahre 01 bis 03) überwiegend
+aus Zuwendungen und der Vermögensverwaltung finanziert hat. Für
+die Beurteilung der Zweckbetriebseigenschaft im Jahr 04 ist die Finanzierung
+des Trägers der Forschungseinrichtung in den Jahren 02 bis 04 zugrunde
+zu legen.</lxbase:a><lxbase:a>20. 	Die Anfertigung von Prototypen und die Nullserie
+gehören noch zur Forschungstätigkeit.</lxbase:a><lxbase:a>Bei Routinemessungen, dem Routineeinsatz eines Ergebnisses
+und der Fertigung marktfähiger Produkte ist grundsätzlich anzunehmen,
+dass sich die Tätigkeit auf die Anwendung gesicherter wissenschaftlicher
+Erkenntnisse beschränkt. Dies ist eine Vermutung, die im Einzelfall
+von der Forschungseinrichtung widerlegt werden kann.</lxbase:a><lxbase:a>Bei der Anfertigung von Gutachten kommt es bei der Zuordnung
+auf Thema und Inhalt an. Gutachten, in denen lediglich gesicherte
+wissenschaftliche Erkenntnisse verwertet werden, gehören nicht zur
+Forschungstätigkeit.</lxbase:a><lxbase:a>„Projektträgerschaften“ sind von der „Projektförderung“
+zu unterscheiden.</lxbase:a><lxbase:a>„Projektförderung“ ist die Vergabe von Zuwendungen für
+bestimmte, einzeln abgrenzbare Forschungs- und Entwicklungsvorhaben
+an Forschungseinrichtungen, z.B. durch Bund, Länder und Europäische
+Union. Bei der Forschungseinrichtung liegen hierbei Zuwendungen
+i.S.d. § 68 Nr. 9 Satz 1 AO vor.</lxbase:a><lxbase:a>„Projektträgerschaft“ ist die fachliche und verwaltungsmäßige
+Betreuung und Abwicklung der Projektförderung durch Forschungseinrichtungen
+(Projektträger) im Auftrag des Bundes oder eines Landes. Zu den
+Aufgaben der Projektträger gehören u.a. die Prüfung und Beurteilung
+der Förderanträge der Forschungseinrichtungen, die eine Projektförderung
+beantragen, mit Entscheidungsvorschlag, Verwaltung der vom Zuwendungsgeber
+bereitgestellten Mittel, Kontrolle der Abwicklung des Vorhabens,
+Mitwirkung bei der Auswertung und Veröffentlichung der Arbeitsergebnisse.
+Die Projektträger erhalten vom Zuwendungsgeber ein Entgelt in Höhe
+der bei ihnen entstandenen Selbstkosten. Projektträgerschaften sind steuerpflichtige
+wirtschaftliche Geschäftsbetriebe. Bei der Beurteilung, wie sich
+die Forschungseinrichtung überwiegend finanziert, gehören die Einnahmen
+aus Projektträgerschaften zu den Einnahmen, die den Zuwendungen
+und den Einnahmen aus der Vermögensverwaltung gegenüber zu stellen
+sind.</lxbase:a><lxbase:a>Eine Tätigkeit ohne Forschungsbezug ist z.B. der Betrieb
+einer Kantine.“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="20. "><lxbase:a>Die Nummer 3.4.3 des <lxbase:fett>AEAO
+zu § 89</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„3.4.3 Der Antragsteller muss sein eigenes steuerliches
+Interesse darlegen (§ 1 Abs. 1 Nr. 3 StAuskV). Außer in den Fällen
+des § 1 Abs. 4 StAuskV ist ein Auskunftsantrag mit Wirkung für Dritte
+nicht zulässig. Denn eine dritte Person hat kein eigenes berechtigtes
+Interesse an einer Auskunftserteilung hinsichtlich der Besteuerung
+eines anderen, bereits existierenden Steuerpflichtigen.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="21. "><lxbase:a>Der <lxbase:fett>AEAO
+zu § 93</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Der dritte und vierte Absatz
+der Nummer 2.2.7 wird wie folgt gefasst:</lxbase:a><lxbase:a>„Da im Vollstreckungsverfahren eine Gefährdung der Ermittlungszwecke
+zu befürchten ist, wenn der säumige Steuerschuldner vor einem Kontenabruf
+individuell informiert würde, muss eine Information des Betroffenen
+vor Durchführung eines Kontenabrufs nach § 93 Abs. 7 Satz 1 Nr.
+4 AO unterbleiben (vgl. § 93 Abs. 9 Satz 3 AO). Es reicht aus, dass
+säumige Steuerschuldner in der Zahlungserinnerung auf die Möglichkeiten
+der Zwangsvollstreckung (einschließlich der Möglichkeit eines Kontenabrufs)
+hingewiesen werden (§ 93 Abs. 9 Satz 1 zweiter Halbsatz AO).</lxbase:a><lxbase:a>Bei der Ermittlung unbekannter Steuerfälle nach § 208
+Abs. 1 Satz 1 Nr. 3 AO kann sich durch eine vorherige Information
+eines möglicherweise Betroffenen ebenfalls eine Gefährdung der Ermittlungen
+ergeben. In diesem Fall muss eine Information des Verfügungsberechtigten
+oder wirtschaftlich Berechtigten vor Durchführung eines Kontenabrufs
+gem. § 93 Abs. 9 Satz 3 AO unterbleiben.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Der zweite Absatz der Nummer
+2.7 wird wie folgt gefasst:</lxbase:a><lxbase:a>„Würde durch eine vorhergehende Information des Beteiligten
+der Ermittlungszweck gefährdet (§ 93 Abs. 9 Satz 3 AO) oder ergibt
+sich aus den Umständen des Einzelfalles, dass eine Aufklärung durch
+den Beteiligten selbst nicht zu erwarten ist, kann sich die Finanzbehörde
+nach § 93 Abs. 1 Satz 1 AO unmittelbar an die betreffenden Kreditinstitute
+wenden bzw. andere erforderliche Maßnahmen ergreifen. In diesen
+Fällen ist der Beteiligte nachträglich über die Durchführung des
+Kontenabrufs zu informieren.“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="22. "><lxbase:a>Der erste Absatz der Nummer
+4 des <lxbase:fett>AEAO zu § 129</lxbase:fett> wird wie folgt
+gefasst:</lxbase:a><lxbase:a>„4.	 Die offenbare Unrichtigkeit muss beim Erlass des
+Verwaltungsakts unterlaufen sein. Daher können nur Fehler berichtigt
+werden, die der Finanzbehörde unterlaufen sind. Eine offenbare Unrichtigkeit
+kann aber auch dann vorliegen, wenn das Finanzamt eine in der Steuererklärung
+oder dieser beigefügten Anlagen enthaltene offenbare, d.h. für das
+Finanzamt erkennbare Unrichtigkeit als eigene übernimmt. Übersieht
+das Finanzamt bei der Einkommensteuerveranlagung, dass der Steuerpflichtige
+in seiner vorgelegten Gewinnermittlung die bei der Umsatzsteuererklärung
+für denselben Veranlagungszeitraum erklärten und erklärungsgemäß
+berücksichtigten Umsatzsteuerzahlungen in Gänze nicht als Betriebsausgabe
+erfasst hat, liegt insoweit eine von Amts wegen zu berichtigende
+offenbare Unrichtigkeit nach § 129 AO vor, auch wenn in diesem Fall
+noch Ermittlungen zur Höhe des tatsächlich zu berücksichtigenden Betrags
+erforderlich sind (vgl. BFH-Urteil vom 27.8.2013, <lxprod:doknr-verw linkend="HT0928373">VIII R 9/11</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0928373">BStBl
+2014 II S. 439</lxprod:doknr-verw>). Eine offenbare Unrichtigkeit liegt
+dagegen nicht vor, wenn der Steuerpflichtige nicht sämtliche Umsatzsteuer-Vorauszahlungen
+bei den Betriebsausgaben außer Acht gelassen, sondern im Rahmen
+seiner Steuererklärung einen Gesamtbetrag eingesetzt hat, der nicht
+von vornherein unrealistisch war (vgl. BFH-Urteile vom 3.5.2017,
+<lxprod:doknr-verw linkend="HT0950840">X R 4/16</lxprod:doknr-verw>,
+BFH/NV S. 1415, und vom 17.5.2017, <lxprod:doknr-verw linkend="HT0951174">X R 45/16</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0951174">BFH/NV 2018 S.
+10</lxprod:doknr-verw>).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="23. "><lxbase:a>Die Nummer 4 des <lxbase:fett>AEAO
+vor §§ 130, 131</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„4.	Zur Korrektur von Verspätungszuschlagsfestsetzungen
+vgl. § 152 Abs. 12 AO. Zur Korrektur von Haftungs- und Duldungsbescheiden
+vgl. AEAO zu § 191.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="24. "><lxbase:a>Die Nummer 2 des <lxbase:fett>AEAO
+zu § 138</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„2.	 § 138 Abs. 2 AO verpflichtet alle Steuerpflichtigen,
+Auslandsbeziehungen, insbesondere Auslandsbeteiligungen innerhalb
+der Fristen nach § 138 Abs. 5 AO dem Finanzamt mitzuteilen. Eine
+Verletzung dieser Verpflichtung kann als Steuergefährdung mit einem
+Bußgeld geahndet werden (§ 379 Abs. 2 Nr. 1 AO). Näheres zu Inhalt
+und Form der Mitteilungen regelt das BMF-Schreiben vom 5.2.2018,
+<lxprod:doknr-verw linkend="HT5236547">BStBl
+I S. 289</lxprod:doknr-verw>, ergänzt durch das BMF-Schreiben vom 18.7.2018,
+<lxprod:doknr-verw linkend="HT5236653">BStBl
+I S. 815</lxprod:doknr-verw>.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="25. "><lxbase:a>Der <lxbase:fett>AEAO
+zu § 152</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„<lxbase:fett>AEAO zu § 152 - Verspätungszuschlag:</lxbase:fett></lxbase:a><lxbase:a>Festsetzung von Verspätungszuschlägen nach der ab 1.1.2017
+geltenden Fassung</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a><lxbase:fett>Zeitlicher
+Anwendungsbereich</lxbase:fett></lxbase:a><lxbase:a>§ 152 AO i.d.F. des StModernG ist erstmals für Steuererklärungen
+anzuwenden, die nach dem 31.12.2018 abzugeben sind; eine Verlängerung
+der Steuererklärungsfrist ist hierbei nicht zu berücksichtigen (Art.
+97 § 8 Abs. 4 Satz 1 und 2 EGAO).</lxbase:a><lxbase:a>Sind Steuerpflichtige erst nach Aufforderung der Finanzbehörde
+zur Abgabe einer Steuererklärung verpflichtet (z.B. Erbschaft- oder
+Schenkungsteuererklärungen und damit zusammenhängende Feststellungserklärungen
+oder auch Erklärungen zur Feststellung der Einheitswerte, § 149
+Abs. 1 Satz 2 AO i.V.m. § 31 Abs. 1 ErbStG, § 153 Abs. 1 oder §
+28 Abs. 2 BewG), ist § 152 AO i.d.F. des StModernG anzuwenden, wenn
+ihnen die Aufforderung nach dem 31.12.2018 bekannt gegeben worden
+ist; der Zeitpunkt der Steuerentstehung oder der Feststellungszeitpunkt
+ist dabei unerheblich.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a><lxbase:fett>Ermessensabhängige
+Festsetzung von Verspätungszuschlägen</lxbase:fett></lxbase:a><lxbase:a>Nach § 152 Abs. 1 Satz 1 AO <lxbase:unterst>kann</lxbase:unterst>
+ein Verspätungszuschlag festgesetzt werden, wenn eine gesetzliche
+Frist (§ 149 Abs. 2 Satz 1, Abs. 3 AO) oder eine von der Finanzbehörde
+bestimmte Frist (§ 149 Abs. 1 Satz 2 AO) zur Abgabe einer Steuererklärung
+nicht eingehalten worden ist. Hierbei ist eine (ggf. rückwirkend)
+gewährte und eingehaltene Fristverlängerung (§ 109 AO) zu berücksichtigen.
+Die Festsetzung eines Verspätungszuschlags kommt insbesondere in
+Betracht im Fall wiederholt verspäteter oder unterbliebener Erklärungsabgabe.</lxbase:a><lxbase:a>Auch wenn die Festsetzung des Verspätungszuschlags nach
+§ 152 Abs. 2 AO aus den in § 152 Abs. 3 AO genannten Gründen nicht
+von Amts wegen erfolgt, kann die Finanzbehörde einen Verspätungszuschlag
+nach § 152 Abs. 1 AO festsetzen.</lxbase:a><lxbase:a>Der in § 152 AO verwendete Begriff der „Steuererklärung“
+umfasst auch Feststellungserklärungen (§ 181 Abs. 1 Satz 1 AO) und
+Erklärungen zur Festsetzung eines Steuermessbetrags (§ 184 Abs.
+1 Satz 4 AO). Die Berechnung des Verspätungszuschlags richtet sich
+in diesen Fällen nach § 152 Abs. 6, 7 und 9 AO.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a><lxbase:fett>Entschuldbarkeit
+der verspäteten Erklärungsabgabe</lxbase:fett></lxbase:a><lxbase:a>Im Anwendungsbereich des § 152 Abs. 1 AO sind Entschuldigungsgründe
+für eine verspätete Erklärungsabgabe vom Steuerpflichtigen glaubhaft
+zu machen (§ 152 Abs. 1 Satz 2 AO). Für die Finanzbehörden besteht
+insoweit keine Amtsermittlungspflicht. Das Versäumnis ist regelmäßig
+dann nicht entschuldbar, wenn Steuererklärungen wiederholt nicht
+oder nicht fristgemäß abgegeben oder von der Finanzbehörde antragsgemäß
+bewilligte Fristverlängerungen nicht eingehalten wurden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a><lxbase:fett>Gesetzlich
+vorgeschriebene Festsetzung von Verspätungszuschlägen</lxbase:fett></lxbase:a><lxbase:a>Unter den Voraussetzungen des § 152 Abs. 2 AO ist ein
+Verspätungszuschlag <lxbase:unterst>von Amts wegen</lxbase:unterst>
+(d.h. ermessensunabhängig) festzusetzen. Dies gilt unabhängig davon, ob
+ein „Beraterfall“ i.S.d. § 149 Abs. 3 AO vorliegt oder der Steuerpflichtige
+seine Steuererklärung selbst erstellt.</lxbase:a><lxbase:a>4.1 	Auf ein Kalenderjahr beziehen sich insbesondere die
+Einkommensteuererklärung, die Körperschaftsteuererklärung, die Gewerbesteuererklärung
+und die Umsatzsteuererklärung für das Kalenderjahr.</lxbase:a><lxbase:a>4.2	 Steuererklärungen, die sich auf einen gesetzlich
+bestimmten Zeitpunkt beziehen, sind z.B. die Erbschaftsteuererklärung,
+die Anzeigen nach § 19 GrEStG sowie die Erklärungen zur Feststellung
+von Einheitswerten und von Grundbesitzwerten.</lxbase:a><lxbase:a>	4.3	 § 152 Abs. 2 AO ist auch anwendbar, wenn Steuerpflichtige
+erst nach Aufforderung der Finanzbehörde zur Abgabe der Steuererklärung
+verpflichtet sind (vgl. Nr. 1 Satz 2 des AEAO zu § 152) und sie
+die Erklärung erst nach Ablauf dieser Frist abgegeben haben.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5. "><lxbase:a><lxbase:fett>	Rückausnahme
+gemäß § 152 Abs. 3 AO</lxbase:fett></lxbase:a><lxbase:a>Liegt ein Fall des § 152 Abs. 3 AO vor, findet § 152 Abs.
+2 AO keine Anwendung, d.h. es erfolgt keine ermessensunabhängige
+Festsetzung von Amts wegen. Die Festsetzung eines Verspätungszuschlags
+richtet sich in diesem Fall nach § 152 Abs. 1 AO.</lxbase:a><lxbase:a>	5.1 	Hat die Finanzbehörde die Frist für die Abgabe der
+Steuererklärung nach § 109 AO (ggf. rückwirkend) verlängert (§ 152
+Abs. 3 Nr. 1 AO), gilt Folgendes:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>Wurde
+die verlängerte Erklärungsfrist eingehalten, liegt keine verspätete
+Erklärungsabgabe vor, so dass weder nach § 152 Abs. 1 AO noch nach
+§ 152 Abs. 2 AO ein Verspätungszuschlag festgesetzt werden darf.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Wurde die verlängerte Erklärungsfrist
+nicht eingehalten, kann die Finanzbehörde nach § 152 Abs. 1 AO einen
+Verspätungszuschlag festsetzen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>	5.2 	In den folgenden Fällen kann die Finanzbehörde -
+insbesondere bei wiederholter Verletzung der Erklärungsfrist - nach
+§ 152 Abs. 1 AO einen Verspätungszuschlag festsetzen:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>Die Steuer
+wurde auf null Euro oder auf einen negativen Betrag festgesetzt
+(§ 152 Abs. 3 Nr. 2 AO),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>die festgesetzte Steuer
+übersteigt nicht die Summe der festgesetzten Vorauszahlungen und
+der anzurechnenden Steuerabzugsbeträge (§ 152 Abs. 3 Nr. 3 AO),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>bei jährlich abzugebenden
+Lohnsteueranmeldungen (§ 152 Abs. 3 Nr. 4 AO).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6. "><lxbase:a><lxbase:fett>Inhaltsadressat
+der Verspätungszuschlagsfestsetzung</lxbase:fett></lxbase:a><lxbase:a>Der Verspätungszuschlag wird gegen den Erklärungspflichtigen
+festgesetzt. Wird die Steuererklärung von einem gesetzlichen Vertreter
+oder einer sonstigen Person i.S.d. §§ 34, 35 AO abgegeben, so ist
+der Verspätungszuschlag gleichwohl grundsätzlich gegen den Steuerschuldner
+festzusetzen (vgl. BFH-Urteil vom 18.4.1991, <lxprod:doknr-verw linkend="HT0099256">IV R 127/89</lxprod:doknr-verw>,
+BStBl II S. 675). Eine Festsetzung gegen den Vertreter kommt nur
+in Ausnahmefällen (z.B. leichtere Beitreibbarkeit des Verspätungszuschlags
+bei dem Vertreter) in Betracht.</lxbase:a><lxbase:a>Für den Fall, dass mehrere Personen zur Abgabe ein und
+derselben Steuererklärung verpflichtet sind, vgl. § 152 Abs. 4 AO.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7. "><lxbase:a><lxbase:fett>Gesetzliche
+Vorgaben zur Berechnung von Verspätungszuschlägen</lxbase:fett></lxbase:a><lxbase:a>§ 152 Abs. 5 AO enthält gesetzliche Vorgaben zur Berechnung
+des Verspätungszuschlags und gilt sowohl für die Fälle des § 152
+Abs. 1 AO als auch für die Fälle des § 152 Abs. 2 AO. Insoweit besteht
+kein Ermessensspielraum der Finanzbehörde. Etwas anderes gilt lediglich
+in den Fällen des § 152 Abs. 8 AO.</lxbase:a><lxbase:a>In den Fällen von Nr. 4.3 des AEAO zu § 152 ist bei der
+Berechnung des Verspätungszuschlags § 152 Abs. 5 Satz 3 AO entsprechend
+anzuwenden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="8. "><lxbase:a><lxbase:fett>Berechnung
+von Verspätungszuschlägen bei anlassbezogenen Steueranmeldungen</lxbase:fett></lxbase:a><lxbase:a>§ 152 Abs. 8 AO gilt nicht für Steueranmeldungen, die
+nicht periodisch, sondern nur anlassbezogen abzugeben sind, wie
+z.B. die Kapitalertragsteuer-Anmeldung (§ 45a Abs. 1 Satz 1 i.V.m.
+§ 44 Abs. 1 Satz 5 EStG), die Steueranmeldung nach § 48a Abs. 1 EStG
+und die Anmeldung über einen Steuerabzug bei beschränkt Steuerpflichtigen (§
+50a EStG i.V.m. § 73e EStDV).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="9. "><lxbase:a><lxbase:fett>Berechnungszeitraum</lxbase:fett></lxbase:a><lxbase:a>Eine Verpflichtung zur Abgabe einer Steuererklärung bleibt
+auch dann bestehen, wenn die Finanzbehörde die Besteuerungsgrundlagen
+geschätzt hat (§ 149 Abs. 1 Satz 4 AO). Für die Bemessung eines
+Verspätungszuschlags ist aber nur auf den Zeitraum bis zum erstmaligen
+Erlass des Steuerbescheids bzw. dessen Bekanntgabe abzustellen (§
+152 Abs. 9 AO).</lxbase:a><lxbase:a>Der Beginn des Berechnungszeitraumes bestimmt sich grundsätzlich
+nach dem Ablauf der jeweiligen Erklärungsfrist. Vorbehaltlich einer
+etwaigen Fristverlängerung nach § 109 Abs. 1 oder 2 AO ist dies</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>bei nicht
+beratenen Steuerpflichtigen, sofern bei ihnen nach pflichtgemäßem Ermessen
+(§ 5 AO) ein Verspätungszuschlag festgesetzt werden soll, der Ablauf
+der allgemeinen Erklärungsfrist (§ 149 Abs. 2 AO),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>bei beratenen Steuerpflichtigen
+entweder der Ablauf der verlängerten Erklärungsfrist (§ 149 Abs.
+3 AO) oder bei vorzeitiger Anforderung (§ 149 Abs. 4 AO) der Ablauf der
+in der Anforderung bestimmten Frist.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>§ 152 Abs. 5 Satz 3 AO enthält eine Sonderregelung für
+die Steuerpflichtigen, die bis zum Zugang einer - nach Ablauf der
+allgemeinen Erklärungsfrist versandten - Aufforderung davon ausgehen
+konnten, nicht zur Abgabe einer Steuererklärung verpflichtet zu
+sein. In diesen Fällen ist der Verspätungszuschlag erst vom Ablauf
+der in der Aufforderung bezeichneten Erklärungsfrist an zu berechnen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="10. "><lxbase:a><lxbase:fett>Abrundung
+und Höchstbetrag</lxbase:fett></lxbase:a><lxbase:a>Der Verspätungszuschlag ist nach § 152 Abs. 10 AO auf
+volle Euro abzurunden und darf höchstens 25.000 Euro betragen. Er
+kann dabei - anders als nach § 152 AO a.F. - auch mehr als 10 %
+der festgesetzten Steuer betragen. Dies gilt insbesondere, wenn
+die Steuer auf null Euro oder auf einen negativen Betrag festgesetzt
+wurde oder wenn die Summe der festgesetzten Vorauszahlungen und
+der anzurechnenden Steuerabzugsbeträge die festgesetzte Steuer übersteigt
+(vgl. Nr. 5.2 des AEAO zu § 152).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="11. "><lxbase:a><lxbase:fett>Festsetzung,
+Fälligkeit und Verjährung</lxbase:fett></lxbase:a><lxbase:a>Der Verspätungszuschlag ist eine steuerliche Nebenleistung
+(§ 3 Abs. 4 AO). Er entsteht mit der Bekanntgabe seiner Festsetzung
+(§ 124 Abs. 1 AO) und wird mit Ablauf der gesetzten Frist fällig
+(§ 220 Abs. 2 AO). I.d.R. ist dies - wegen der grundsätzlich vorzunehmenden
+Verbindung mit dem Steuerbescheid (§ 152 Abs. 11 AO) - die Zahlungsfrist
+für die Steuer. Sofern der Verspätungszuschlag ausnahmsweise durch eigenständigen
+Verwaltungsakt festgesetzt wird (z.B. bei verspäteter Abgabe einer Steueranmeldung,
+§ 167 AO), ist auch eine gesonderte Zahlungsfrist für den Verspätungszuschlag
+einzuräumen.</lxbase:a><lxbase:a>Wird der Verspätungszuschlag bei verspäteter Abgabe einer
+Steueranmeldung (§ 168 AO) zeitnah durch eigenständigen Verwaltungsakt
+festgesetzt, bedarf es hierbei i.d.R. keiner besonderen Begründung
+(§ 121 Abs. 2 Nr. 2 AO; vgl. auch BFH-Urteile vom 11.6.1997, <lxprod:doknr-verw linkend="HT0144160">X R 14/95</lxprod:doknr-verw>,
+BStBl II S. 642, und vom 13.4.2010, <lxprod:doknr-verw linkend="HT0927484">IX R 43/09</lxprod:doknr-verw>, BStBl II S. 815).</lxbase:a><lxbase:a>Wegen der Verjährung des Verspätungszuschlags wird auf
+§ 228 AO, wegen der Haftung für Verspätungszuschläge auf §§ 69 ff.
+AO hingewiesen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="12. "><lxbase:a><lxbase:fett>Korrektur
+von Verspätungszuschlagsfestsetzungen</lxbase:fett></lxbase:a><lxbase:a>§ 152 Abs. 12 AO ordnet die Korrektur einer Verspätungszuschlagfestsetzung
+für den Fall an, dass der zugrundeliegende Bescheid aufgehoben oder
+korrigiert wird und dies Auswirkungen auf die Höhe des Verspätungszuschlags
+hat. Werden Steueranmeldungen i.S.d. § 152 Abs. 8 AO korrigiert,
+ist eine Änderung eines Verspätungszuschlags nach § 152 Abs. 12
+Satz 2 AO allerdings nur dann vorzunehmen, soweit der bisher festgesetzte
+Verspätungszuschlag nach der Höhe der Steuer bemessen war.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="13. "><lxbase:a><lxbase:fett>Festsetzung
+von Verspätungszuschlägen nach der bis zum 31.12.2016 geltenden
+Fassung</lxbase:fett></lxbase:a><lxbase:a>Für Steuererklärungen, die vor dem 1.1.2019 einzureichen
+sind und Umsatzsteuererklärungen für den kürzeren Besteuerungszeitraum
+nach § 18 Abs. 3 Satz 1 und 2 UStG, wenn die gewerbliche oder berufliche
+Tätigkeit in 2018 endet, ist weiterhin § 152 AO in der am 31.12.2016
+geltenden Fassung (§ 152 AO a.F.) anzuwenden (Art. 97 § 8 Abs. 4
+Satz 3 EGAO).</lxbase:a><lxbase:a>Insoweit gelten die Ausführungen in Nr. 2 Abs. 1 und 3,
+Nr. 3, Nr. 6 Abs. 1 und Nr. 11 des AEAO zu § 152 entsprechend. Darüber
+hinaus gilt:</lxbase:a><lxbase:a>13.1 	Bei Festsetzung eines Verspätungszuschlags bei verspäteter
+Abgabe oder bei Nichtabgabe von Erklärungen zur gesonderten Feststellung
+(§ 180 AO) sind bei der Bemessung des Verspätungszuschlags die steuerlichen
+Auswirkungen nach den Grundsätzen zu schätzen, die die Rechtsprechung
+zur Bemessung des Streitwerts entwickelt hat. Der Verspätungszuschlag
+ist gegen denjenigen festzusetzen, der nach § 181 Abs. 2 AO, § 3
+Abs. 1 der V zu § 180 Abs. 2 AO die Erklärung zur gesonderten Feststellung
+abzugeben hat. Bei mehreren Feststellungsbeteiligten ist es grundsätzlich
+ermessensfehlerfrei, ihn gegen den Erklärungspflichtigen festzusetzen,
+der gegenüber dem Finanzamt bei der Erledigung der steuerlichen
+Angelegenheiten für die Gemeinschaft bzw. die Beteiligten auftritt
+(vgl. BFH-Urteil vom 21.5.1987, <lxprod:doknr-verw linkend="HT0079737">IV R 134/83</lxprod:doknr-verw>, BStBl II S.
+764).</lxbase:a><lxbase:a>13.2 	Nach § 152 Abs. 2 Satz 1 AO a.F. darf der Verspätungszuschlag
+10 % der festgesetzten Steuer oder des festgesetzten Messbetrags
+nicht übersteigen und höchstens 25.000 € betragen. Ein Verspätungszuschlag
+i.H.v. mehr als 5.000 € ist nur festzusetzen, wenn mit einem Verspätungszuschlag
+i.H.v. bis zu 5.000 € ein durch die verspätete Abgabe der Steuererklärung
+(Steueranmeldung) entstandener Zinsvorteil nicht ausreichend abgeschöpft
+werden kann.</lxbase:a><lxbase:a>13.3 	Bei der Ermessensentscheidung sind sämtliche in
+§ 152 Abs. 2 Satz 2 AO a.F. ausdrücklich und abschließend aufgezählten
+Kriterien zu beachten; das Für und Wider der Kriterien ist gegeneinander
+abzuwägen (BFH-Urteil vom 26.4.1989, <lxprod:doknr-verw linkend="HT0089729">I R 10/85</lxprod:doknr-verw>, BStBl II S. 693).
+Auch wenn die Beurteilungsmerkmale grundsätzlich gleichwertig sind,
+sind sie nicht notwendigerweise in jedem Fall in gleicher Weise
+zu gewichten. Im Ergebnis kann je nach den Umständen des Einzelfalls
+ein Merkmal stärker als ein anderes hervortreten (BFH-Urteil vom
+11.6.1997, <lxprod:doknr-verw linkend="HT0144160">X
+R 14/95</lxprod:doknr-verw>, BStBl II S. 642) oder auch ganz ohne Auswirkung
+auf die Bemessung bleiben.</lxbase:a><lxbase:a>Danach gilt für die Anwendung des § 152 Abs. 2 Satz 2
+AO a.F. grundsätzlich Folgendes (BFH-Urteil vom 14.6.2000, <lxprod:doknr-verw linkend="HT0554540">X R 56/98</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0554540">BStBl
+2001 II S. 60</lxprod:doknr-verw> m.w.N.):</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>Es ist
+nicht ermessensfehlerhaft, wenn die Höhe des Verspätungszuschlags
+den durch die verspätete Abgabe der Erklärung gezogenen Vorteil
+erheblich übersteigt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Da die Bemessung des Zuschlags
+nicht durch das Maß des gezogenen Vorteils begrenzt wird, kommt
+es u.U. nicht entscheidend darauf an, ob und in welcher Höhe letztlich
+ein Zinsvorteil erzielt wurde.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Ein Verspätungszuschlag
+kann auch festgesetzt werden, obwohl es aufgrund von Anrechnungsbeträgen
+zu einer Erstattung gekommen ist oder wenn ein oder zwei der in
+§ 152 Abs. 2 Satz 2 AO a.F. genannten und in jedem Fall zu prüfenden
+Voraussetzungen nicht erfüllt sind.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Es ist in schweren Fällen
+(z.B. bei erheblicher Fristüberschreitung, schwerwiegendem Verschulden
+und hoher Steuerfestsetzung) nicht ermessensfehlerhaft, den Verspätungszuschlag
+so zu bemessen, dass er als angemessene Sanktion wirkt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Bei der Beurteilung der
+Frage, welche Vorteile der Steuerpflichtige aus der verspäteten
+oder unterlassenen Abgabe der Steuererklärung gezogen hat, ist zu
+berücksichtigen, dass Zinsvorteile bereits durch Zinsen nach § 233a
+AO teilweise ausgeglichen sein können.“</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="26. "><lxbase:a>Der <lxbase:fett>AEAO
+zu § 154</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Der erste Absatz der Nummer
+7.3 wird wie folgt gefasst:</lxbase:a><lxbase:a>„Hinsichtlich des wirtschaftlich Berechtigten sind (mindestens
+ein) Vorname, der Nachname und die Anschrift zu erheben. Die Anschrift
+muss nicht die Wohnanschrift des wirtschaftlich Berechtigten sein,
+es kann auch seine Geschäftsanschrift sein. Entscheidend ist, dass
+der wirtschaftlich Berechtigte unter der Anschrift im normalen Geschäftsverkehr
+erreichbar ist. Der Vertragspartner des Kreditinstituts hat diesem
+die hierzu erforderlichen Informationen und Unterlagen zur Verfügung zu
+stellen (vgl. § 11 Abs. 6 GwG).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>In der Nummer 11.1 wird
+im Buchstaben j das Wort „Vertretern“ durch das Wort „Vertreter“
+und der bisherige Buchstabe l durch folgende neue Buchstaben l und
+m ersetzt:</lxbase:a><lxbase:a>„l) bei Gerichtsvollzieher-Dienstkonten i.S.d. § 52 GVO
+(Gerichtsvollzieher und nach § 52 Abs. 6 GVO bevollmächtigte Personen),</lxbase:a><lxbase:a>m) bei vor dem 1.1.1992 begründeten, noch bestehenden
+oder bereits erloschenen Befugnissen.“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="27. "><lxbase:a>Die bisherige Nummer 3.5
+des <lxbase:fett>AEAO zu § 171</lxbase:fett> wird durch folgende
+neue Nummern 3.5 und 3.6 ersetzt:</lxbase:a><lxbase:a>„3.5 Auch wenn die Voraussetzungen für den Eintritt der
+Ablaufhemmung zunächst vorgelegen haben, entfällt diese rückwirkend
+wieder, wenn die Außenprüfung unmittelbar nach ihrem Beginn aus
+Gründen, die die Finanzverwaltung zu vertreten hat, länger als sechs
+Monate unterbrochen wird (§ 171 Abs. 4 Satz 2 AO). Eine spätere Unterbrechung
+der Prüfung lässt die eingetretene Ablaufhemmung dagegen unberührt.
+(BFH-Urteil vom 16.1.1979, <lxprod:doknr-verw linkend="HT0049299">VIII R 149/77</lxprod:doknr-verw>, BStBl
+II S. 453). Die Frage, ob eine Außenprüfung <lxbase:unterst>unmittelbar
+nach ihrem Beginn</lxbase:unterst> unterbrochen worden ist (§ 171
+Abs. 4 Satz 2 AO), ist grundsätzlich nach den Verhältnissen im Einzelfall
+zu beurteilen. Dabei sind neben dem zeitlichen Umfang der bereits
+durchgeführten Prüfungsmaßnahmen alle Umstände zu berücksichtigen,
+die Aufschluss über die Gewichtigkeit der Prüfungshandlungen vor
+der Unterbrechung geben.</lxbase:a><lxbase:a>Unabhängig vom Zeitaufwand ist eine Unterbrechung <lxbase:unterst>unmittelbar
+nach Beginn</lxbase:unterst> der Prüfung anzunehmen, wenn der Prüfer
+über Vorbereitungshandlungen, allgemeine Informationen über die
+betrieblichen Verhältnisse, das Rechnungswesen und die Buchführung
+und/oder die Sichtung der Unterlagen des zu prüfenden Steuerfalls
+bzw. ein allgemeines Aktenstudium nicht hinausgekommen ist.</lxbase:a><lxbase:a>Eine Außenprüfung ist <lxbase:unterst>nicht mehr unmittelbar
+nach Beginn</lxbase:unterst> unterbrochen, wenn die Prüfungshandlungen
+von Umfang und Zeitaufwand gemessen an dem gesamten Prüfungsstoff
+erhebliches Gewicht erreicht <lxbase:unterst>oder</lxbase:unterst>
+erste verwertbare Ergebnisse hervorgebracht haben (vgl. BFH-Urteil
+vom 24.4.2003, <lxprod:doknr-verw linkend="HT0815448">VII
+R 3/02</lxprod:doknr-verw>, BStBl II S. 739). Soweit dem Zeitmoment eine
+gewisse Bedeutung zukommt, besteht jedoch keine absolute oder relative
+zeitliche Mindestanforderung an die Dauer der Prüfung vom Beginn
+bis zur Unterbrechung. Die Verhältnisse bestimmen sich vielmehr
+nach den Umständen des Einzelfalls. Das Erfordernis erster verwertbarer
+Ergebnisse bedeutet nicht, dass die ermittelten Ergebnisse geeignet
+sein müssen, unmittelbar als Besteuerungsgrundlage Eingang in einen
+Steuer- oder Feststellungsbescheid zu finden; ausreichend ist vielmehr,
+dass Ermittlungsergebnisse vorliegen, an die bei der Wiederaufnahme
+der Prüfung angeknüpft werden kann.</lxbase:a><lxbase:a>Soweit Prüfungshandlungen bezüglich eines Prüfungsjahrs
+nachweislich erhebliches Gewicht erreicht oder erste verwertbare
+Ergebnisse hervorgebracht haben, gilt die Außenprüfung insgesamt
+- also auch bezogen auf andere Prüfungsjahre - als nicht unmittelbar
+nach dem Prüfungsbeginn unterbrochen i.S.d. § 171 Abs. 4 Satz 2
+AO (vgl. BFH-Urteil vom 26.4.2017, <lxprod:doknr-verw linkend="HT0950651">I R 76/15</lxprod:doknr-verw>, BStBl II S. 1159).</lxbase:a><lxbase:a>Eine Beendigung einer Prüfungsunterbrechung i.S.v. § 171
+Abs. 4 Satz 2 AO und damit die Wiederaufnahme einer unmittelbar
+nach ihrem Beginn unterbrochenen Prüfung wird nur durch solche Prüfungshandlungen
+bewirkt, die der Steuerpflichtige als eine Fortsetzung der Außenprüfung
+wahrnehmen kann; dazu gehören das Erscheinen des Prüfers am Prüfungsort,
+die Weiterführung der Prüfung, konkretes Anfordern von Unterlagen,
+Geschäftsbriefen, Verträgen etc. und - sofern der Prüfungsfall in
+ein Stadium gelangt ist, das eine Weiterbearbeitung an der Amtsstelle
+ermöglicht - nachvollziehbare, in den Akten ausgewiesene Handlungen
+zur Aufklärung, Ermittlung oder Auswertung der im Prüfungsverlauf
+bekannt gewordenen tatsächlichen und rechtlichen Sachverhalte. Handlungen
+im Innendienst der Finanzverwaltung, wie das Aktenstudium oder auch
+das bloße Zusammenstellen bisheriger Prüfungsergebnisse können daher
+nur ausnahmsweise geeignet sein, die Unterbrechung der Prüfung zu beenden
+(vgl. BFH-Urteile vom 24.4.2003, <lxprod:doknr-verw linkend="HT0815448">VII R 3/02</lxprod:doknr-verw>, und vom 26.4.2017,
+<lxprod:doknr-verw linkend="HT0950651">I R 76/15</lxprod:doknr-verw>, jeweils
+a.a.O.).</lxbase:a><lxbase:a>3.6	 Ermittlungen i.S.d. § 171 Abs. 4 Satz 3 AO sind nur
+diejenigen Maßnahmen eines Betriebsprüfers, die darauf gerichtet
+sind, Besteuerungsgrundlagen zu überprüfen oder bisher noch nicht
+bekannte Sachverhaltselemente festzustellen, etwa indem der Prüfer
+Unterlagen anfordert, den Steuerpflichtigen in irgendeiner anderen
+Weise zur Mitwirkung auffordert oder vom Steuerpflichtigen nachgereichte
+Unterlagen auswertet (vgl. BFH-Urteil vom 28.6.2011, <lxprod:doknr-verw linkend="HT0179647">VIII R 6/09</lxprod:doknr-verw>,
+BFH/NV S. 1830). Die Zusammenstellung des Prüfungsergebnisses im
+Prüfungsbericht stellt keine den Ablauf der Festsetzungsfrist hinausschiebende
+Ermittlungshandlung dar (BFH-Urteil vom 8.7.2009, <lxprod:doknr-verw linkend="HT0588618">XI R 64/07</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0588618">BStBl
+2010 II S. 4</lxprod:doknr-verw>).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="28. "><lxbase:a>Im <lxbase:fett>AEAO zu
+§ 175a</lxbase:fett> wird die Angabe „vgl. Merkblatt vom 13.7.2006,
+<lxprod:doknr-verw linkend="HT5230235">BStBl
+I S. 461</lxprod:doknr-verw>“ durch die Angabe „vgl. Merkblatt vom 9.10.2018,
+<lxprod:doknr-verw linkend="HT5255174">BStBl
+I S. 1122</lxprod:doknr-verw>“ ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="29. "><lxbase:a>Der letzte Satz der Nummer
+1 des <lxbase:fett>AEAO zu § 200</lxbase:fett> wird gestrichen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="30. "><lxbase:a>Der letzte Satz der Nummer
+4 des <lxbase:fett>AEAO zu § 208</lxbase:fett> wird gestrichen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="31. "><lxbase:a>Der <lxbase:fett>AEAO
+zu § 233a</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Die Nummer 10.2.1 wird wie
+folgt gefasst:</lxbase:a><lxbase:a>„10.2.1	Bei einem zulässigen Wechsel der Veranlagungsart
+(Zusammenveranlagung nach bereits erfolgter Einzelveranlagung -
+bis VZ 2012: getrennte Veranlagung - oder umgekehrt) beruhen sowohl
+die Aufhebung des/der ursprünglichen Bescheide(s) als auch der Erlass
+der/des neuen Bescheide(s) auf einem rückwirkenden Ereignis. Dies
+gilt unabhängig davon, ob es sich um den antragstellenden Ehegatten
+oder den anderen Ehegatten handelt. Dass die verfahrensrechtliche Umsetzung
+des Wechsels der Veranlagungsart beim antragstellenden Ehegatten nicht
+nach § 175 Abs. 1 Satz 1 Nr. 2 AO erfolgt, steht dem nicht entgegen.
+§ 233a Abs. 2a AO findet sowohl bei der Aufhebung der ursprünglichen
+Veranlagung(en) als auch beim Erlass der/des neuen Steuerbescheide(s)
+für beide Ehegatten Anwendung. Für Lebenspartner gelten diese Regelungen
+ab dem Veranlagungszeitraum 2013 entsprechend.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>In der Nummer 66 wird die
+Angabe „vgl. AEAO zu § 235, Nr. 4“ durch die Angabe „vgl. AEAO zu
+§ 235, Nr. 5“ ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>In der Nummer 70.1.2 wird
+das Klammerzitat „(fiktive Erstattungszinsen; vgl. BFH-Urteil vom
+7.11.2013, <lxprod:doknr-verw linkend="HT0928489">X
+R 22/11</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0928489">BFH/NV 2014 S. 817</lxprod:doknr-verw>,
+und BFH-Urteil vom 7.11.2013, <lxprod:doknr-verw linkend="HT0928490">X R 23/11</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0928490">BFH/NV 2014 S.
+660</lxprod:doknr-verw>)“ durch das Klammerzitat „(fiktive Erstattungszinsen;
+vgl. BFH-Urteil vom 31.5.2017, <lxprod:doknr-verw linkend="HT0950761">I R 92/15</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0950761">BStBl 2019
+II S. 14</lxprod:doknr-verw>)“ und das Datum „27.4.2006“ in den Beispielen
+14 und 15 durch das Datum „26.4.2006“ ersetzt.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="32. "><lxbase:a>Die Nummer 12 des <lxbase:fett>AEAO
+zu § 234</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a>„12. Wird ein Anspruch auf Rückforderung von Arbeitnehmer-Sparzulage,
+Eigenheimzulage, Investitionszulage oder Wohnungsbauprämie gestundet,
+so sind - da die Vorschriften über die Steuervergütung entsprechend
+gelten - Stundungszinsen zu erheben (§ 234 i.V.m. § 37 Abs. 1 AO).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="33. "><lxbase:a>Der <lxbase:fett>AEAO
+zu § 235</lxbase:fett> wird wie folgt gefasst:</lxbase:a><lxbase:a><lxbase:fett>„AEAO zu § 235 - Verzinsung von hinterzogenen
+Steuern:</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Inhaltsübersicht</lxbase:fett></lxbase:a><lxbase:a>1. Zweck und Voraussetzungen der Verzinsung</lxbase:a><lxbase:a>2. Gegenstand der Verzinsung</lxbase:a><lxbase:a>3. Zinsschuldner</lxbase:a><lxbase:a>4. Zinslauf</lxbase:a><lxbase:a>4.1	 Beginn des Zinslaufs</lxbase:a><lxbase:a>4.2	 Ende des Zinslaufs</lxbase:a><lxbase:a>5. Höhe der Hinterziehungszinsen</lxbase:a><lxbase:a>5.1	 Berechnung der Hinterziehungszinsen im Allgemeinen</lxbase:a><lxbase:a>5.2	 Berechnung der Hinterziehungszinsen auf Vorauszahlungen</lxbase:a><lxbase:a>5.3	 Beispiele zur Berechnung der Hinterziehungszinsen</lxbase:a><lxbase:a>6. Verfahren</lxbase:a><lxbase:a>7. Verjährung</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a><lxbase:fett>Zweck
+und Voraussetzungen der Verzinsung</lxbase:fett></lxbase:a><lxbase:a>1.1	 Hinterzogene Steuern sind nach § 235 AO zu verzinsen,
+um dem Nutznießer einer Steuerhinterziehung den steuerlichen Vorteil
+der verspäteten Zahlung oder der Gewährung oder Belassung von Steuervorteilen
+zu nehmen (BFH-Urteile vom 19.4.1989, <lxprod:doknr-verw linkend="HT0086973">X R 3/86</lxprod:doknr-verw>, BStBl II S. 596,
+und vom 27.9.1991, <lxprod:doknr-verw linkend="HT0101066">VI
+R 159/89</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0101066">BStBl 1992 II S. 163</lxprod:doknr-verw>).</lxbase:a><lxbase:a>1.2	 Die Zinspflicht tritt nur ein, wenn der objektive
+und subjektive Tatbestand des § 370 Abs. 1 AO erfüllt und die Tat
+i.S.d. § 370 Abs. 4 AO vollendet ist. Der Versuch einer Steuerhinterziehung
+(§ 370 Abs. 2 AO i.V.m. § 23 StGB) reicht zur Begründung einer Zinspflicht
+ebenso wenig aus wie die leichtfertige Steuerverkürzung (§ 378 AO)
+oder die übrigen Steuerordnungswidrigkeiten (§§ 379 ff. AO).</lxbase:a><lxbase:a>Von einer Steuerhinterziehung bei Vorauszahlungen ist
+z.B. dann auszugehen, wenn einer der folgenden Sachverhalte vorliegt:</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>Der Steuerpflichtige
+hat einen Antrag auf Festsetzung oder Herabsetzung der Vorauszahlungen
+vorsätzlich mit unrichtigen oder unvollständigen Angaben gestellt und
+es ist hierdurch zu einer zu niedrigen Festsetzung von Vorauszahlungen gekommen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>Der Steuerpflichtige musste
+aufgrund der Abgabe einer vorsätzlich unrichtigen oder unvollständigen
+Steuererklärung damit rechnen, dass Vorauszahlungen zu niedrig festgesetzt
+werden, und es ist hierdurch zu einer zu niedrigen Festsetzung von
+Vorauszahlungen gekommen. Der Steuerpflichtige musste insbesondere
+dann damit rechnen, dass Steuervorauszahlungen zu niedrig festgesetzt
+werden, wenn er bereits in der Vergangenheit Steuervorauszahlungen
+zu leisten hatte.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>1.3	 Die Festsetzung von Hinterziehungszinsen setzt keine
+strafrechtliche Verurteilung wegen Steuerhinterziehung voraus (BFH-Urteil
+vom 27.8.1991, <lxprod:doknr-verw linkend="HT0100752">VIII
+R 84/89</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0100752">BStBl 1992 II S. 9</lxprod:doknr-verw>).
+Die Zinspflicht ist unabhängig von einem Steuerstrafverfahren im Rahmen
+des Besteuerungsverfahrens zu prüfen.</lxbase:a><lxbase:a>Hinterziehungszinsen sind demnach auch festzusetzen, wenn</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>wirksam
+Selbstanzeige nach § 371 AO erstattet worden ist (z.B. durch Nachmeldung hinterzogener
+Umsatzsteuer in der Umsatzsteuer-Jahreserklärung),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>der Strafverfolgung Verfahrenshindernisse
+entgegenstehen (z.B. Tod des Täters oder Strafverfolgungsverjährung),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>das Strafverfahren wegen
+Geringfügigkeit eingestellt worden ist (z.B. nach § 153 StPO; §
+398 AO) oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>in anderen Fällen die Strafverfolgung
+beschränkt oder von der Strafverfolgung abgesehen wird (z.B. nach
+§§ 153a, 154, 154a StPO). An Entscheidungen im strafgerichtlichen
+Verfahren ist die Finanzbehörde nicht gebunden (BFH-Urteil vom 10.10.1972,
+<lxprod:doknr-verw linkend="HT0004561">VII R 117/69</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0004561">BStBl
+1973 II S. 68</lxprod:doknr-verw>). Im Allgemeinen kann sich das Finanzamt
+die tatsächlichen Feststellungen, Beweiswürdigungen und rechtlichen
+Beurteilungen des Strafverfahrens zu Eigen machen, wenn und soweit
+es zu der Überzeugung gelangt ist, dass diese zutreffend sind, und
+keine substantiierten Einwendungen gegen die Feststellungen im Strafurteil
+erhoben werden (vgl. BFH-Urteil vom 13.7.1994, <lxprod:doknr-verw linkend="HT0126177">I R 112/93</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0126177">BStBl
+1995 II S. 198</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>1.4 	Der zeitliche und sachliche Umfang der Nachentrichtungspflicht
+von Zinsen nach § 371 Abs. 3 AO hat keine Auswirkung auf die Berechnung
+und Festsetzung von Hinterziehungszinsen nach § 235 AO. Daher sind
+Hinterziehungszinsen auch dann festzusetzen, wenn die Zahlung der
+Hinterziehungszinsen für die Wirksamkeit einer Selbstanzeige bzw.
+den Ausgang des Strafverfahrens nach § 371 Abs. 3 Satz 2 AO unerheblich
+ist.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a><lxbase:fett>	Gegenstand
+der Verzinsung</lxbase:fett></lxbase:a><lxbase:a>	2.1 	Hinterziehungszinsen sind festzusetzen für</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>verkürzte
+Steuern; darunter fallen auch keine oder zu geringe Steuervorauszahlungen
+und der Solidaritätszuschlag. Landesgesetzlich geregelte Steuern
+sind nur zu verzinsen, wenn dies im Gesetz angeordnet ist,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>ungerechtfertigt erlangte
+Steuervorteile (z.B. zu Unrecht erlangte Steuervergütungen),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>zu Unrecht erlangte Steuervergünstigungen
+(z.B. Steuerbefreiungen und Steuerermäßigungen),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>ungerechtfertigt erlangte
+Prämien und Zulagen, auf die § 370 Abs. 1 bis 4, § 371, § 375 Abs.
+1 und § 376 AO entsprechend anzuwenden sind (z.B. Wohnungsbauprämien,
+Arbeitnehmer-Sparzulagen und Zulagen nach § 83 EStG).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Hinterziehungszinsen sind nicht festzusetzen bei erschlichener
+Investitionszulage und Eigenheimzulage, weil insoweit ein Subventionsbetrug
+und keine Steuerhinterziehung vorliegt.</lxbase:a><lxbase:a>	2.2	 Hinterziehungszinsen sind für jede Steuerart und
+jeden Besteuerungszeitraum (Veranlagungszeitraum, Voranmeldungszeitraum,
+Vorauszahlungszeitraum) oder Besteuerungszeitpunkt gesondert zu
+berechnen und festzusetzen. Einzelne, aufeinanderfolgende Steuerhinterziehungen
+sind nicht als eine Tat zu würdigen, sondern als selbständige Taten
+zu behandeln. Das gilt auch, wenn das Finanzamt die Besteuerungsgrundlagen
+nach § 162 AO geschätzt hat.</lxbase:a><lxbase:a>	2.3	 Wenn die Steuerhinterziehung zu keiner Nachforderung
+führt, erfolgt keine Zinsfestsetzung. Soweit infolge Kompensation
+der mit der Steuerhinterziehung zusammenhängenden Besteuerungsgrundlagen
+mit anderen steuermindernden Besteuerungsgrundlagen (z.B. nach §
+177 AO) kein Zahlungsanspruch entstanden ist, unterbleibt daher
+eine Zinsfestsetzung. Das strafrechtliche Kompensationsverbot des
+§ 370 Abs. 4 Satz 3 AO gilt nicht bei der Verzinsung nach § 235
+AO. Bemessungsgrundlage der Hinterziehungszinsen ist daher nicht
+die Steuer, die sich allein bei Einbeziehung der vorsätzlich verschwiegenen
+Besteuerungsgrundlagen in die ursprüngliche Steuerfestsetzung ergeben
+würde, sondern die tatsächliche Nachforderung, die sich aus dem
+Bescheid ergibt, in dem die bisher nicht oder unzutreffend erklärten
+Besteuerungsgrundlagen erstmals erfasst werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a><lxbase:fett>Zinsschuldner</lxbase:fett></lxbase:a><lxbase:a>	3.1 	Nach § 235 Abs. 1 Satz 2 AO ist derjenige Zinsschuldner,
+zu dessen Vorteil die Steuern hinterzogen worden sind. Durch die
+Vorschrift soll ausschließlich der steuerliche Vorteil des Steuerschuldners
+abgeschöpft werden. Der steuerliche Vorteil liegt darin, dass die
+geschuldete Steuer erst verspätet gezahlt wird. Allein der Steuerschuldner
+kann daher Zinsschuldner für hinterzogene Steuern i.S.d. § 235 Abs.
+1 Sätze 1 und 2 AO sein, und zwar unabhängig davon, ob er an der
+Steuerhinterziehung beteiligt war (vgl. BFH-Urteile vom 27.6.1991,
+<lxprod:doknr-verw linkend="HT0100341">V R 9/86</lxprod:doknr-verw>,
+BStBl II S. 822, vom 18.7.1991, <lxprod:doknr-verw linkend="HT0100254">V R 72/87</lxprod:doknr-verw>, BStBl II S. 781,
+und vom 27.9.1991, <lxprod:doknr-verw linkend="HT0101066">VI
+R 159/89</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0101066">BStBl 1992 II S. 163</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Sind Steuerschuldner Gesamtschuldner (§ 44 AO), ist jeder
+Gesamtschuldner auch Zinsschuldner. Dies gilt auch dann, wenn bei
+zusammenveranlagten Ehegatten/ Lebenspartnern der Tatbestand der
+Steuerhinterziehung nur in der Person eines der Ehegatten/Lebenspartner
+erfüllt ist. Da in diesem Fall beide Ehegatten/Lebenspartner Schuldner
+der Hinterziehungszinsen sind, kann nach § 239 Abs. 1 Satz 1 i.V.m.
+§ 155 Abs. 3 AO ein zusammengefasster Zinsbescheid an die Ehegatten/Lebenspartner
+ergehen (vgl. BFH-Urteil vom 13.10.1994, <lxprod:doknr-verw linkend="HT0126815">IV R 100/93</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0126815">BStBl 1995
+II S. 484</lxprod:doknr-verw>).</lxbase:a><lxbase:a>	3.2	 § 235 Abs. 1 Satz 3 AO regelt in Ergänzung des §
+235 Abs. 1 Satz 2 AO nur die Fälle, in denen der Steuerschuldner
+nicht Zinsschuldner ist, weil die Steuern nicht zu seinem Vorteil
+hinterzogen worden sind. In diesen Fällen ist der Entrichtungspflichtige
+Zinsschuldner. Hinsichtlich hinterzogener Steuerabzugsbeträge ist
+daher nicht der Steuerschuldner, sondern der Entrichtungspflichtige
+Zinsschuldner, wenn dieser die Steuer zwar einbehalten, aber nicht
+an das Finanzamt abgeführt hat. Dagegen ist der Steuerschuldner
+nach § 235 Abs. 1 Satz 2 AO Zinsschuldner, wenn der Entrichtungspflichtige
+die hinterzogene Abzugsteuer (zum Vorteil des Steuerschuldners)
+nicht einbehalten hat (BFH-Urteile vom 5.11.1993, <lxprod:doknr-verw linkend="HT0108798">VI R 16/93</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0108798">BStBl
+1994 II S. 557</lxprod:doknr-verw>, und vom 16.2.1996, <lxprod:doknr-verw linkend="HT0136374">I R 73/95</lxprod:doknr-verw>,
+BStBl II S. 592).</lxbase:a><lxbase:a>	3.3	 Die in §§ 34, 35 AO bezeichneten Vertreter, Vermögensverwalter
+und Verfügungsberechtigten sind nicht Entrichtungspflichtige und
+nicht Schuldner der Hinterziehungszinsen (vgl. BFH-Urteile vom 18.7.1991,
+<lxprod:doknr-verw linkend="HT0100254">V R 72/87</lxprod:doknr-verw>,
+BStBl II S. 781, und vom 27.9.1991, <lxprod:doknr-verw linkend="HT0101066">VI R 159/89</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0101066">BStBl 1992
+II S. 163</lxprod:doknr-verw>). Dieser Personenkreis kann aber sowohl
+für hinterzogene Steuern als auch für Hinterziehungszinsen haften
+(vgl. §§ 69 und 71 AO).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a><lxbase:fett>	Zinslauf</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>	4.1 	Beginn des Zinslaufs</lxbase:fett></lxbase:a><lxbase:a>4.1.1 Der Zinslauf beginnt mit dem Eintritt der Verkürzung
+oder der Erlangung des Steuervorteils (§ 235 Abs. 2 Satz 1 AO),
+d.h. sobald die Tat im strafrechtlichen Sinn vollendet ist. Wären
+die hinterzogenen Beträge ohne die Steuerhinterziehung erst später
+fällig geworden, z.B. bei einer Abschlusszahlung, beginnt die Verzinsung
+erst mit Ablauf des Fälligkeitstags (§ 235 Abs. 2 Satz 2 AO).</lxbase:a><lxbase:a>4.1.2 Bei <lxbase:fett>Fälligkeitssteuern</lxbase:fett>
+(z.B. Umsatzsteuer-Vorauszahlungen, Lohnsteuer) tritt die Verkürzung
+im Zeitpunkt der gesetzlichen Fälligkeit ein. Dies gilt auch dann, wenn
+keine (Vor-)Anmeldung abgegeben wurde. Bei Abgabe einer unrichtigen
+oder unvollständigen zustimmungsbedürftigen Steueranmeldung tritt
+die Verkürzung erst dann ein, wenn die Zustimmung nach § 168 Satz
+2 AO dem Steuerpflichtigen bekannt geworden ist (z.B. Auszahlung
+oder Umbuchung des Guthabens oder Erklärung der Aufrechnung; vgl.
+AEAO zu § 168, Nr. 3).</lxbase:a><lxbase:a>Lässt sich nicht ohne weiteres feststellen, welchem Voranmeldungszeitraum
+hinterzogene Beträge zeitlich zuzuordnen sind, ist zugunsten des
+Zinsschuldners von einem Beginn des Zinslaufs mit dem letzten gesetzlichen
+Fälligkeitszeitpunkt für das betroffene Jahr auszugehen (bei Unternehmern
+ohne Dauerfristverlängerung ist dies der 10.1. des jeweiligen Folgejahrs).</lxbase:a><lxbase:a>4.1.3 Bei <lxbase:fett>Veranlagungssteuern</lxbase:fett>
+tritt die Verkürzung im Fall der Abgabe einer unrichtigen oder unvollständigen
+Steuererklärung mit dem Tag der Bekanntgabe des auf dieser Erklärung
+beruhenden Steuerbescheids (§§ 122, 124 AO) ein; der Beginn des
+Zinslaufs verschiebt sich jedoch dann auf den Ablauf des Fälligkeitstags, wenn
+sich bereits aufgrund dieser Erklärung eine Abschlusszahlung ergeben
+hatte oder wenn sich - im Falle einer festgesetzten Erstattung -
+ohne die Steuerhinterziehung eine Abschlusszahlung ergeben hätte
+(vgl. AEAO zu § 235, Nr. 4.1.1 Satz 2).</lxbase:a><lxbase:a>Hat der Steuerpflichtige keine Steuererklärung abgegeben
+und ist aus diesem Grunde die Steuerfestsetzung unterblieben, so
+ist die Steuer zu dem Zeitpunkt verkürzt, zu dem die Veranlagungsarbeiten
+für das betreffende Kalenderjahr im Wesentlichen abgeschlossen waren.
+Dieser Zeitpunkt ist zugleich Zinslaufbeginn.</lxbase:a><lxbase:a>Hat das Finanzamt die Steuer aber zuvor wegen Nichtabgabe
+der Steuererklärung aufgrund geschätzter Besteuerungsgrundlagen
+(§ 162 AO) zu niedrig festgesetzt, tritt die Verkürzung bereits
+mit Bekanntgabe dieses Steuerbescheids ein. In diesem Fall beginnt
+der Zinslauf i.d.R. mit Ablauf des Fälligkeitstags (vgl. AEAO zu
+§ 235, Nr. 4.1.1 Satz 2).</lxbase:a><lxbase:a>Bei der Verzinsung von <lxbase:fett>Vorauszahlungen auf
+Veranlagungssteuern</lxbase:fett> beginnt der Zinslauf gesondert
+für jeden Vorauszahlungszeitraum mit Ablauf des jeweiligen Fälligkeitstags.</lxbase:a><lxbase:a><lxbase:fett>	4.2 	Ende des Zinslaufs</lxbase:fett></lxbase:a><lxbase:a>4.2.1 Der Zinslauf endet mit der Zahlung der hinterzogenen
+Steuer (§ 235 Abs. 3 Satz 1 AO). Erlischt der zu verzinsende Anspruch
+durch Aufrechnung, gilt der Tag, an dem die Schuld des Aufrechnenden
+fällig wird, als Tag der Zahlung (§ 238 Abs. 1 Satz 3 AO). Bei der
+Festsetzung von Hinterziehungszinsen auf Vorauszahlungen (bei Veranlagungs-
+und Fälligkeitssteuern) endet der Zinslauf mit dem Zeitpunkt der Zahlung
+der hinterzogenen Steuer, spätestens aber mit dem Ablauf des Fälligkeitstags
+der Jahressteuer.</lxbase:a><lxbase:a>4.2.2 Hinterziehungszinsen werden nicht für Zeiten festgesetzt,
+für die ein Säumniszuschlag entsteht, die Zahlung gestundet oder
+die Vollziehung ausgesetzt ist (§ 235 Abs. 3 Satz 2 AO), ohne dass
+es dabei auf die tatsächliche Erhebung von Säumniszuschlägen oder
+die Zahlung von Stundungs- und/oder Aussetzungszinsen ankommt. Der
+Zinslauf endet daher spätestens mit Ablauf des Fälligkeitstags.</lxbase:a><lxbase:a>4.2.3 Wird der Steuerbescheid nach Ende des Zinslaufs
+aufgehoben, geändert oder nach § 129 AO berichtigt, so bleiben die
+bis dahin entstandenen Zinsen unberührt (§ 235 Abs. 3 Satz 3 AO).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5. "><lxbase:a><lxbase:fett>	Höhe der Hinterziehungszinsen</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>5.1 Berechnung der Hinterziehungszinsen im
+Allgemeinen</lxbase:fett></lxbase:a><lxbase:a>5.1.1 Die Hinterziehungszinsen betragen für jeden vollen
+Monat des Zinslaufs 0,5 % (§ 238 Abs. 1 Satz 1 und 2 AO).</lxbase:a><lxbase:a>Für die Berechnung der Zinsen wird der zu verzinsende
+Betrag auf den nächsten durch 50 € teilbaren Betrag abgerundet (§
+238 Abs. 2 AO). Abzurunden ist jeweils der einzelne zu verzinsende
+Anspruch, d.h. jede einzelne hinterzogene Vorauszahlung/Voranmeldung
+und die Jahresabschlusszahlung jeweils für sich genommen (vgl. AEAO
+zu § 238, Nr. 2).</lxbase:a><lxbase:a>Im Falle von Teilzahlungen eines zu verzinsenden Anspruchs
+wird nur der Gesamtbetrag gerundet. Eine sich daraus ergebende Abrundungsspitze
+wird für Zwecke der Verzinsung bei der letzten Teilzahlung abgezogen.</lxbase:a><lxbase:a>Auch die Rundungsregelung und Kleinbetragsregelung hinsichtlich
+der Festsetzung der Zinsen gem. § 239 Abs. 2 AO sind für jeden einzelnen
+Zinsanspruch gesondert anzuwenden (vgl. AEAO zu § 239, Nr. 3).</lxbase:a><lxbase:a>5.1.2 Zur Vermeidung einer Doppelverzinsung im Hinterziehungsfall
+sind Zinsen nach § 233a AO, die für denselben Zeitraum festgesetzt
+wurden, auf die festzusetzenden Hinterziehungszinsen anzurechnen
+(§ 235 Abs. 4 AO).</lxbase:a><lxbase:a><lxbase:fett>5.2 Berechnung der Hinterziehungszinsen auf
+Vorauszahlungen</lxbase:fett></lxbase:a><lxbase:a>5.2.1 Die Bemessungsgrundlage von Hinterziehungszinsen
+auf Vorauszahlungen entspricht grundsätzlich dem (Mehr-) Betrag,
+der ohne Steuerhinterziehung festgesetzt worden wäre. Sie ist aber
+begrenzt auf die Abschlusszahlung aufgrund der Jahressteuerfestsetzung
+(vgl. AEAO zu § 235, Nr. 2.3). Dieser Betrag ist gleichmäßig auf
+die hinterzogenen Vorauszahlungszeiträume des jeweiligen Kalenderjahrs
+zu verteilen.</lxbase:a><lxbase:a>5.2.2 Auf Vorauszahlungen entfallen keine Zinsen gem.
+§ 233a AO. Wird die der Verzinsung nach § 233a AO unterliegende
+Jahressteuer erst nach Ablauf der Karenzzeit festgesetzt, überschneidet
+sich der Zinslauf der Hinterziehungszinsen auf Vorauszahlungen mit
+dem Zinslauf der Nachzahlungszinsen nach § 233a AO auf die Jahressteuer.
+In diesen Fällen sind Zinsen gem. § 233a AO auf festzusetzende Hinterziehungszinsen
+auf Vorauszahlungen anzurechnen.</lxbase:a><lxbase:a><lxbase:fett>5.3	 Beispiele zur Berechnung der Hinterziehungszinsen</lxbase:fett></lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 1:</lxbase:fett></lxbase:a><lxbase:a>Der Steuerpflichtige machte in der Einkommensteuererklärung
+2011 vorsätzlich unrichtige oder unvollständige Angaben. Er hatte
+bereits für die Vorjahre Vorauszahlungen zu leisten und konnte somit
+damit rechnen, dass durch die unzutreffende Steuererklärung auch
+die Vorauszahlungen für die Folgejahre zu niedrig festgesetzt werden.
+Der Einkommensteuerbescheid 2011 wie auch der Vorauszahlungsbescheid
+2012 ergingen am 15.6.2012 erklärungsgemäß (Bekanntgabe nach § 122
+Abs. 2 Nr. 1 AO am 18.6.2012, Fälligkeit am 18.7.2012). Bei einer
+zutreffenden Steuererklärung hätte sich für 2011 ein Einkommensteuer-Mehrbetrag
+in Höhe von 10.000 € zuzüglich 550 € Solidaritätszuschlag ergeben.
+Die Einkommensteuer-Vorauszahlungen für III/2012 und IV/2012 wurden
+um jeweils 5.000 € zuzüglich 275 € Solidaritätszuschlag zu niedrig
+festgesetzt.</lxbase:a><lxbase:a>Die zutreffende Steuererklärung für die Einkommensteuer
+2012 führte zu einer Festsetzung von 34.000 € Einkommensteuer zuzüglich
+1.870 € Solidaritätszuschlag (Bescheid vom 14.6.2013, Fälligkeit
+am 17.7.2013) und zur zukünftig korrekten Festsetzung von Vorauszahlungen.
+Es waren keine Steuerabzugsbeträge anzurechnen. Die Abschlusszahlung
+von 14.000 € Einkommensteuer zuzüglich 770 € Solidaritätszuschlag
+wurde bei Fälligkeit beglichen. Gleichzeitig erging der Änderungsbescheid
+für die Einkommensteuer 2011. Die hinterzogenen Steuern wurden am
+17.7.2013 fällig und auch gezahlt. Der Einkommensteuerbescheid 2013
+vom 20.6.2014 ergab keine Abschlusszahlung.</lxbase:a><lxbase:a>Lösung:</lxbase:a><lxbase:a>2011:</lxbase:a><lxbase:a>Für die Einkommensteuer 2011 beginnt der Zinslauf für
+die Hinterziehungszinsen am 19.7.2012 (Tag nach dem Fälligkeitstag)
+und endet am 17.7.2013 mit der Begleichung der Abschlusszahlung,
+so dass Zinsen für 11 volle Monate festzusetzen sind (§ 235 Abs.
+2 und 3 AO).</lxbase:a><lxbase:a>Festzusetzende Hinterziehungszinsen.</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="7*" /><cals:colspec colnum="2" colname="2" colwidth="16*" /><cals:colspec colnum="3" colname="3" colwidth="77*" /><cals:tbody><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>Steuer</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>Bemessungsgrundlage</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>Zinsen</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>ESt</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>10.000 €</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>450 €</lxbase:a><lxbase:a>(5,5 % von 10.000 € = 550 €, abzgl. 100 € nach § 235 Abs.
+4 AO anzurechnende § 233a AO Zinsen)</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry align="center" colname="1"><lxbase:a>SolZ</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>550 €</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>30 €</lxbase:a><lxbase:a>(5,5 % von 550 € = 30,25 €, abgerundet gem. § 239 Abs.
+2 Satz 1 AO auf 30 €)</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>2012:</lxbase:a><lxbase:a>Die Vorauszahlungen zur Einkommensteuer und zum Solidaritätszuschlag
+2012 hatte der Steuerpflichtige erstmalig zum 10.9.2012 (erster
+Fälligkeitstermin des fehlerhaften Vorauszahlungsbescheids) hinterzogen.
+Der Zinslauf beginnt mit Ablauf des jeweiligen Fälligkeitstags der
+Vorauszahlungen, d.h. für das III. Quartal am 11.9.2012 und für
+das IV. Quartal am 11.12.2012, und endet mit der Fälligkeit der
+Abschlusszahlungen aufgrund des Jahressteuerbescheids 2012 am 17.7.2013.</lxbase:a><lxbase:a>Hinterziehungszinsen sind</lxbase:a><lxbase:unnum-aufz><lxbase:aufz-pkt wert="¤ "><lxbase:a>für die
+hinterzogene Einkommensteuer-Vorauszahlung und die hinterzogene
+Solidaritätszuschlagsvorauszahlung III/2012 vom 11.9.2012 bis 17.7.2013
+(mithin für 10 Monate)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="¤ "><lxbase:a>für die hinterzogene Einkommensteuer-Vorauszahlung
+und die hinterzogene Solidaritätszuschlagsvorauszahlung IV/2012
+vom 11.12.2012 bis 17.7.2013 (mithin für 7 Monate)</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>zu berechnen und festzusetzen.</lxbase:a><lxbase:a>Bemessungsgrundlage für die Zinsberechnung sind jeweils
+5.000 € (ESt) bzw. jeweils 275 € (SolZ), die gem. § 238 Abs. 2 AO
+auf 250 € abgerundet werden.</lxbase:a><lxbase:a>Festzusetzende Hinterziehungszinsen:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="16*" /><cals:colspec colnum="2" colname="2" colwidth="14*" /><cals:colspec colnum="3" colname="3" colwidth="70*" /><cals:tbody><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>Steuer/Vorauszahlung</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>Bemessungsgrundlage</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>Zinsen</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>ESt III/2012</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>5.000 €</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>250 €</lxbase:a><lxbase:a>(5 % von 5.000 €)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>SolZ III/2012</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>250 €</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>12 €</lxbase:a><lxbase:a>(5 % von 250 € = 12,50 €, abgerundet gem. § 239 Abs. 2
+Satz 1 AO auf 12 €)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>ESt IV/2012</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>5.000 €</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>175 €</lxbase:a><lxbase:a>(3,5 % von 5.000 €)</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry align="center" colname="1"><lxbase:a>SolZ IV/2012</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>250 €</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>0 €</lxbase:a><lxbase:a>(3,5 % von 250 € = 8,75 €, abgerundet gem. § 239 Abs.
+2 Satz 1 AO auf 8 €; nach § 239 Abs. 2 Satz 2 AO erfolgt insoweit keine
+Zinsfestsetzung, vgl. AEAO zu § 239, Nr. 3)</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>2013:</lxbase:a><lxbase:a>Für die Einkommensteuer 2013 werden keine Hinterziehungszinsen
+auf die Vorauszahlungen festgesetzt, da der Einkommensteuerbescheid
+2013 vom 20.6.2014 zu keiner Abschlusszahlung führte.</lxbase:a><lxbase:a><lxbase:fett>Beispiel 2:</lxbase:fett></lxbase:a><lxbase:a>Wie Beispiel 1, jedoch betrug die Abschlusszahlung zur
+Einkommensteuer für 2012 lediglich 4.000 € und zum Solidaritätszuschlag
+220 €.</lxbase:a><lxbase:a>Die zutreffende Steuererklärung für die Einkommensteuer
+2012 führte zu einer Festsetzung von 24.000 € Einkommensteuer zuzüglich
+1.320 € Solidaritätszuschlag (Bescheid vom 14.6.2013). Es waren
+keine Steuerabzugsbeträge anzurechnen. Die Abschlusszahlung von
+4.000 € Einkommensteuer zuzüglich 220 € Solidaritätszuschlag wurde
+bei Fälligkeit am 17.7.2013 beglichen.</lxbase:a><lxbase:a>Lösung:</lxbase:a><lxbase:a>Für 2011 und 2013 ergeben sich keine Änderungen.</lxbase:a><lxbase:a>2012:</lxbase:a><lxbase:a>Wegen des Zinslaufs und der Anzahl der (vollen) Zinsmonate
+ergeben sich keine Änderungen.</lxbase:a><lxbase:a>Die Bemessungsgrundlage für die Zinsberechnung auf die
+Vorauszahlungen wird auf den Nachforderungsbetrag der Einkommensteuer
+2012 (hier 4.000 €) bzw. Solidaritätszuschlag (220 €) begrenzt.
+Diese Beträge sind gleichmäßig auf die hinterzogenen Vorauszahlungszeiträume
+zu verteilen. Daraus ergibt sich für das III. und IV. Quartal eine Bemessungsgrundlage
+von jeweils 2.000 € (ESt) bzw. jeweils 110 € (SolZ), die gem. §
+238 Abs. 2 AO auf 100 € abgerundet werden.</lxbase:a><lxbase:a>Festzusetzende Hinterziehungszinsen:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="16*" /><cals:colspec colnum="2" colname="2" colwidth="14*" /><cals:colspec colnum="3" colname="3" colwidth="70*" /><cals:tbody><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>Steuer/Vorauszahlung</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>Bemessungsgrundlage</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>Zinsen</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>ESt III/2012</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>2.000 €</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>100 €</lxbase:a><lxbase:a>(5 % von 2.000 €)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>SolZ III/2012</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>110 €</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>0 €</lxbase:a><lxbase:a>(5 % von 100 € = 5 €; nach § 239 Abs. 2 Satz 2 AO erfolgt insoweit
+keine Zinsfestsetzung)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry align="center" colname="1"><lxbase:a>ESt IV/2012</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>2.000 €</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>70 €</lxbase:a><lxbase:a>(3,5 % von 2.000 €)</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry align="center" colname="1"><lxbase:a>SolZ IV/2012</lxbase:a></cals:entry><cals:entry align="center" colname="2"><lxbase:a>110 €</lxbase:a></cals:entry><cals:entry align="center" colname="3"><lxbase:a>0 €</lxbase:a><lxbase:a>(3,5 % von 100 € = 3,50 €, abgerundet gem. § 239 Abs.
+2 Satz 1 AO auf 3 €; nach § 239 Abs. 2 Satz 2 AO erfolgt insoweit keine
+Zinsfestsetzung)</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6. "><lxbase:a><lxbase:fett>	Verfahren</lxbase:fett></lxbase:a><lxbase:a>	6.1 	Sind Steuern zum Vorteil der Gesellschafter einer
+Personengesellschaft hinterzogen worden, hat das Betriebsfinanzamt
+die Berechnungsgrundlagen der Hinterziehungszinsen gesondert und
+einheitlich festzustellen (§ 239 Abs. 3 Nr. 2 AO).</lxbase:a><lxbase:a>	6.2 	Die Zinsen für hinterzogene Realsteuern (insbes.
+Gewerbesteuer) sind von der hebeberechtigten Gemeinde zu berechnen,
+festzusetzen und zu erheben, wenn ihr die Festsetzung der Realsteuer
+übertragen worden ist. Die Berechnungsgrundlagen werden vom Finanzamt
+nach § 239 Abs. 3 Nr. 2 AO festgestellt. Dieser Messbescheid ist
+Grundlagenbescheid für den von der Gemeinde zu erlassenden Zinsbescheid.</lxbase:a><lxbase:a>Die Geltendmachung der Haftung für Hinterziehungszinsen
+zur Gewerbesteuer durch Haftungsbescheid setzt nicht voraus, dass
+zuvor gegenüber dem Zinsschuldner oder dem Haftungsschuldner Tatbestand
+und Umfang der Steuerhinterziehung gesondert festgestellt worden
+sind (BVerwG-Beschluss vom 16.9.1997, <lxprod:doknr-verw linkend="HT0163508">8 B 143/97</lxprod:doknr-verw>, BStBl II S.
+782).</lxbase:a><lxbase:a>6.3	 Werden Zinsen für mehrere Ansprüche aus dem Steuerschuldverhältnis
+(vgl. AEAO zu § 235, Nr. 2.2) äußerlich verbunden in einem Sammelbescheid
+festgesetzt, muss dieser Sammelbescheid erkennen lassen, in welcher
+Höhe für den einzelnen Anspruch Zinsen festgesetzt worden sind (vgl.
+BFH-Urteil vom 26.11.2014, <lxprod:doknr-verw linkend="HT0929793">X R 18/13</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0929793">BFH/NV 2015 S.
+785</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7. "><lxbase:a><lxbase:fett>Verjährung</lxbase:fett></lxbase:a><lxbase:a>Die Festsetzungsfrist für Hinterziehungszinsen beträgt
+ein Jahr (§ 239 Abs. 1 Satz 1 AO). Sie beginnt mit Ablauf des Kalenderjahrs,
+in dem die Festsetzung der hinterzogenen Steuern unanfechtbar geworden
+ist, jedoch nicht vor Ablauf des Kalenderjahrs, in dem ein eingeleitetes
+Strafverfahren rechtskräftig abgeschlossen worden ist (§ 239 Abs.
+1 Satz 2 Nr. 3 AO). Ein Strafverfahren hat nur dann Einfluss auf
+die für die Hinterziehungszinsen geltende Festsetzungsfrist, wenn
+es bis zum Ablauf des Jahres eingeleitet wird, in dem die hinterzogenen
+Steuern unanfechtbar festgesetzt wurden (BFH-Urteil vom 24.8.2001,
+<lxprod:doknr-verw linkend="HT0573200">VI R 42/94</lxprod:doknr-verw>,
+BStBl II S. 782).“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="34. "><lxbase:a>In der Nummer 1 des <lxbase:fett>AEAO
+zu §§ 241 bis 248</lxbase:fett> wird in der ersten Klammer die
+Angabe „siehe z.B. § 109 Abs. 2,“ durch die Angabe „siehe z.B. §
+109 Abs. 3,“ ersetzt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="35. "><lxbase:a>Der <lxbase:fett>AEAO
+zu § 251</lxbase:fett> wird wie folgt geändert:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Der erste Absatz der Nummer
+5.3.1 wird wie folgt gefasst:</lxbase:a><lxbase:a>„Ist eine angemeldete Abgabenforderung nach Grund und
+Höhe im Prüfungstermin bestritten worden, was z.B. auch bei „vorläufigem
+Bestreiten“ oder „auflösend bedingter Feststellung“ gegeben ist
+(vgl. BFH-Beschluss vom 16.3.2016, <lxprod:doknr-verw linkend="HT5908352">V B 41/15</lxprod:doknr-verw>, BFH/NV S. 1073),
+muss weiter differenziert werden, ob der Anspruch tituliert ist.“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Am Ende der Nummer 5.3.1.2.2
+wird folgender neuer Absatz angefügt:</lxbase:a><lxbase:a>„Wurden vor Eröffnung des Insolvenzverfahrens neben einem
+Steuerbescheid auch damit unmittelbar im Zusammenhang stehende Bescheide,
+wie insbesondere Verlustfeststellungsbescheide oder Gewerbesteuermessbescheide,
+die zumindest die abstrakte Eignung haben, sich auf Insolvenzforderungen
+auszuwirken, angefochten, können bei Streitigkeiten über Besteuerungsgrundlagen,
+die gleichermaßen für die festzustellende Forderung als auch die
+zugehörigen Bescheide von Bedeutung sind, nicht nur das durch die
+Insolvenzeröffnung unterbrochene Verfahren bezüglich des angefochtenen
+Steuerbescheids, sondern auch die unterbrochenen Verfahren für die
+angefochtenen zugehörigen Bescheide wieder aufgenommen werden (vgl. Urteil
+des FG Köln vom 10.8.2017, <lxprod:doknr-verw linkend="HT5020533">13 K 1849/13</lxprod:doknr-verw>, EFG S.1807).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>Die Nummer 14 wird wie folgt
+geändert:</lxbase:a><lxbase:a>aa) Der dritte Absatz wird wie folgt gefasst:</lxbase:a><lxbase:a>„Steuerbescheide sind an den Steuerpflichtigen zu richten
+und diesem bekannt zu geben. Aus diesem Grund ist für das Jahr der
+Insolvenzaufhebung z.B. nur eine Einkommensteuerfestsetzung durchzuführen,
+in der sowohl der Massezeitraum wie auch der Zeitraum nach Abschluss
+des Verfahrens zusammengefasst werden. Der Schuldner ist auch hinsichtlich
+der nach Eröffnung des Insolvenzverfahrens begründeten Steuerforderungen
+weiterhin Steuerschuldner (vgl. BFH-Beschluss vom 23.8.1993, <lxprod:doknr-verw linkend="HT0122746">V B 135/91</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0122746">BFH/NV
+1994 S. 186</lxprod:doknr-verw>). Somit können die während des Bestehens
+des Insolvenzverfahrens begründeten Steuerschulden nach Aufhebung
+des Insolvenzverfahrens gegenüber dem Steuerpflichtigen geltend
+gemacht und auch vollstreckt werden (vgl. BFH-Urteil vom 28.11.2017,
+<lxprod:doknr-verw linkend="HT0950733">VII R 1/16</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0950733">BStBl
+2018 II S. 457</lxprod:doknr-verw>).“</lxbase:a><lxbase:a>bb) Folgender neuer Absatz wird am Ende angefügt:</lxbase:a><lxbase:a>„Während des laufenden Insolvenzverfahrens ohne rechtlichen
+Grund an den Insolvenzverwalter ausbezahlte Ansprüche aus dem Steuerschuldverhältnis
+können nach Aufhebung des Insolvenzverfahrens vom früheren Insolvenzverwalter
+zurückgefordert werden, wenn die Zahlung auf dessen Anderkonto eingegangen
+war (BFH-Beschluss vom 12.8.2013, <lxprod:doknr-verw linkend="HT5907488">VII B 188/12</lxprod:doknr-verw>, ZIP S. 2370).
+Hiervon zu unterscheiden ist die Rechtslage bei Zahlungen auf ein
+sog. Sonderkonto, das vom Insolvenzverwalter für den Schuldner als
+Kontoinhaber (Fremdkonto) eingerichtet wird und bei dem der Insolvenzverwalter
+lediglich aufgrund seiner treuhänderischen Stellung verfügungsberechtigt
+ist. Gehen Zahlungen auf ein solches Sonderkonto ein, fallen sie
+in das Schuldnervermögen und damit in die Insolvenzmasse. Rückforderungen
+sind somit nicht gegen den Insolvenzverwalter persönlich, sondern
+nur gegen ihn in seiner Eigenschaft als Insolvenzverwalter geltend
+zu machen (BFH-Beschluss vom 12.8.2013, <lxprod:doknr-verw linkend="HT5907488">VII B 188/12</lxprod:doknr-verw>, a.a.O.).“</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d. "><lxbase:a>Zwischen dem vierten und
+fünften Absatz der Nummer 15.3 wird folgender neuer Absatz eingefügt:</lxbase:a><lxbase:a>„Masseverbindlichkeiten werden von der Restschuldbefreiung
+nicht erfasst und können daher auch nach Erteilung der Restschuldbefreiung
+vollstreckt werden (vgl. BFH-Urteil vom 28.11.2017, <lxprod:doknr-verw linkend="HT0950733">VII R 1/16</lxprod:doknr-verw>,
+<lxprod:doknr-verw linkend="HT0950733">BStBl
+2018 II S. 457</lxprod:doknr-verw>).“</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Dieses Schreiben wird im Bundessteuerblatt Teil I veröffentlicht.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>INFO</lxbase:rthema><lxbase:rthema>Verfahrensrecht/Abgabenordnung</lxbase:rthema><lxbase:rthema>LEXPUB</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:newsrelevant datum="2019-02-14" /><lxbase:newsgebiete><lxbase:newsgebiet>Steuerliches Verfahrensrecht</lxbase:newsgebiet></lxbase:newsgebiete><lxbase:newsletterlex><lxbase:newsletterrelevant ausgabe="201907" relevant="ja" /><lxbase:newsletter-text><lxbase:a>Das BMF teilt mit, dass der Anwendungserlass zur Abgabenordnung
+vom 31. Januar 2014, der zuletzt durch das BMF-Schreiben vom 19.
+Juni 2018 geändert worden ist, mit sofortiger Wirkung geändert wird.
+</lxbase:a></lxbase:newsletter-text></lxbase:newsletterlex></lxbase:allgemeine-angaben></lxrvw:rspvwa>

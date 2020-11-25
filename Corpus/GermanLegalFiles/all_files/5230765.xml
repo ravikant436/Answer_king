@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="5230765" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Karlsruhe</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2113 / 4 - St 11</lxbase:aktenzeichen><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2006-06-19" ts="nein" /></lxbase:daten><lxbase:fundstellen><lxbase:nicht-normiert><lxbase:fs-kuerzel>EStK § 2 EStG Nr.
+3</lxbase:fs-kuerzel></lxbase:nicht-normiert></lxbase:fundstellen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:2</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2006" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Leitfaden für die Bearbeitung von Liebhaberei-Fällen</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500028"><lxbase:a>1. Was ist Liebhaberei ?</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500001"><lxbase:a>2. Liebhaberei
+bei der Einkommensteuer</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500002"><lxbase:a>2.1 Liebhaberei
+bei den Gewinneinkünften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500004"><lxbase:a>2.2 Liebhaberei
+bei den Überschusseinkünften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500005"><lxbase:a>2.3 Beweisanzeichen
+für Einkunftserzielungsabsicht</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500006"><lxbase:a>2.4 Beweisanzeichen
+für Liebhaberei</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500007"><lxbase:a>2.5 Private
+bzw. persönliche Motive</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500008"><lxbase:a>2.6 Sammlung
+problematischer Fälle</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500012"><lxbase:a>2.6.1 Einkünfte
+aus Land- und Forstwirtschaft</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500009"><lxbase:a>2.6.2 Einkünfte
+aus Gewerbebetrieb</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500010"><lxbase:a>2.6.3 Einkünfte
+aus freiberuflicher Tätigkeit</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500013"><lxbase:a>2.6.4 Einkünfte
+aus Kapitalvermögen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500014"><lxbase:a>2.6.5 Einkünfte
+aus Vermietung und Verpachtung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500015"><lxbase:a>2.6.6 Einkünfte
+aus sonstiger Leistung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500016"><lxbase:a>3. Liebhaberei
+bei der Umsatzsteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500017"><lxbase:a>4. Die Bearbeitung
+von "liebhabereiverdächtigen" Fällen </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500018"><lxbase:a>4.1 Überprüfung
+der Ausgaben</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500019"><lxbase:a>4.2 Vorläufige
+Steuerfestsetzung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500020"><lxbase:a>5. Liebhaberei
+steht fest: Was sind die Folgen? </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500021"><lxbase:a>5.1 Grundsatz</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500022"><lxbase:a>5.2 Anlaufverluste</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500023"><lxbase:a>5.3 Der Übergang
+von der Einkünfteerzielung zur Liebhaberei</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500024"><lxbase:a>5.4 Der Übergang
+von der Liebhaberei zur Einkünfteerzielung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500025"><lxbase:a>5.5 Verluste
+aus dem Liebhaberei-Betrieb: Was ist noch abzugsfähig?</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500026"><lxbase:a>5.5.1 Schuldzinsen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523076500027"><lxbase:a>5.5.2 Verträge
+zwischen Ehegatten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D523076500028">1. Was ist Liebhaberei ?</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 1</lxbase:randziffer><lxbase:a>Ertragsteuerlich handelt es sich um Liebhaberei, wenn eine Tätigkeit
+oder Vermögensnutzung zwar unter eine Einkunftsart i.S.
+des § 2 Abs. 1 Nr. 1 bis 7 EStG fällt, jedoch
+nicht mit Einkunftserzielungsabsicht betrieben bzw. weiter betrieben
+wird. Verluste, die der Steuerpflichtige aus persönlichen
+Gründen bzw. Neigungen hinnimmt, sind einkommensteuerlich
+nicht berücksichtigungsfähig.</lxbase:a><lxbase:a>Die Prüfung der Einkunftserzielungsabsicht hat somit
+die Funktion, die steuerrechtlich relevanten Tätigkeiten
+von den steuerrechtlich nicht relevanten Tätigkeiten abzugrenzen.
+Fehlt es an der Einkunftserzielungsabsicht und liegt demzufolge
+Liebhaberei vor, sind die Ergebnisse der entsprechenden Tätigkeit bzw.
+Vermögensnutzungen einkommensteuerrechtlich unbeachtlich.
+Die Einkunftserzielungsabsicht kann</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a> 	von Anfang an fehlen oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a> 	erst fehlen und dann einsetzen oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a> 	erst später wegfallen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500001">2. Liebhaberei bei der
+Einkommensteuer</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 2</lxbase:randziffer><lxbase:a>Dem Merkmal der Einkunftserzielungsabsicht kommt besondere Bedeutung
+zu, wenn es darum geht, Verluste steuerlich anzuerkennen. Einkunftserzielungsabsicht
+ist das Streben nach einem Totalgewinn bzw. Totalüberschuss.
+Dieser subjektive Tatbestand ist anhand objektiver (äußerer)
+Merkmale zu beurteilen. Ob die Tätigkeit auf Dauer geeignet
+ist, um zu einem Totalüberschuss zu gelangen, ist anhand
+objektiver Kriterien zu überprüfen.</lxbase:a><lxbase:a>Aufgrund des Unterschieds in der Ermittlung des Totalgewinns
+bei den Gewinneinkünften bzw. des Totalüberschusses
+bei den Überschusseinkünften ist zunächst
+die Tätigkeit bzw. Vermögensnutzung einer bestimmten
+Einkunftsart zuzuordnen. Anschließend kann einkunftsartbezogen
+die Überprüfung der Liebhaberei erfolgen.</lxbase:a><lxbase:a>Für die Feststellung der Einkunftserzielungsabsicht
+bei den Gewinneinkünften (Gewinnerzielungsabsicht) ist
+ein Totalgewinn zu ermitteln. Für diese Prognose sind die
+in der Vergangenheit erzielten und künftig zu erwartenden
+Gewinne/Verluste anzusetzen. Außerdem ist ein
+bei der Beendigung der Tätigkeit zu erwartender Aufgabe-
+bzw. Veräußerungsgewinn (§§ 14,
+16 und 18 EStG) zu erfassen (vgl. BFH-Urteil vom 13.6.1998, <lxprod:doknr-verw linkend="HT0146772">XI R 64/97</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0146772">BStBl II 1998
+S. 727</lxprod:doknr-verw> und BFH vom 3.3.1996, <lxprod:doknr-verw linkend="HT0136536">IV R 52/93</lxprod:doknr-verw>, BStBl II S. 415).</lxbase:a><lxbase:a>Für die Feststellung der Einkunftserzielungsabsicht
+bei den Überschusseinkünften bleiben Wertsteigerungen
+des eingesetzten Vermögens regelmäßig außer
+Ansatz (Steuerfreiheit des Veräußerungsgewinns).
+Der Totalüberschuss ist daher in dem Zeitraum der voraussichtlichen
+Vermögensnutzung zu erzielen, es sei denn, der Veräußerungsgewinn
+ist steuerpflichtig (§§ 17, 23 EStG).</lxbase:a><lxbase:a>Die Prüfung, ob Liebhaberei in Verlustfällen
+vorliegt, hat in zwei Schritten zu erfolgen (BFH-Beschluss vom 25.6.1984, <lxprod:doknr-verw linkend="HT0061104">GrS 4/82</lxprod:doknr-verw>, BStBl
+II S. 751):</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Im ersten Schritt
+ist zu überprüfen, ob nach objektiven Merkmalen
+die Möglichkeit nach einem Totalgewinn bzw. Totalüberschuss
+der Einnahmen über die Betriebsausgaben bzw. Werbungskosten
+besteht. Ist dies der Fall, kann die Liebhabereiprüfung
+an dieser Stelle abgebrochen werden; eine Einkunftserzielungsabsicht
+ist anzunehmen. Ist ein Totalgewinn bzw. Totalüberschuss
+hiernach nicht ersichtlich, bleibt der zweite Schritt zu prüfen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Im zweiten Schritt ist zu prüfen,
+ob die Tätigkeit aufgrund einkommensteuerlich unbeachtlicher
+Motive ausgeübt wird. Steuerrechtlich irrelevante Tätigkeiten
+liegen beispielsweise bei verlustbringenden Tätigkeiten
+aus dem Bereich der allgemeinen Lebensführung (Hobby) vor.
+Kurzum: Für die Annahme von Liebhaberei reicht allein die
+Tatsache, dass Verluste erwirtschaftet wurden, nicht aus. Die Verluste
+müssen vielmehr aus persönlichen bzw. privaten
+Gründen vom Steuerpflichtigen "hingenommen" worden sein.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Die objektive Beweislast (Feststellungslast) für das
+Vorliegen der Gewinn- bzw. Überschusserzielungsabsicht
+trägt grundsätzlich der Steuerpflichtige, der sich
+auf die für ihn günstige Tatsache beruft, um damit
+steuerliche Vorteile, z. B. den Ausgleich der Verluste mit anderen
+positiven Einkünften, zu erlangen. Spricht jedoch der erste
+Anscheinsbeweis für das Vorliegen einer Gewinn- bzw. Überschusserzielungsabsicht,
+wie dies beispielsweise bei den klassischen Grundhandelsgewerben
+der Fall ist, trägt das Finanzamt die Feststellungslast.</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D523076500002">2.1 Liebhaberei bei
+den Gewinneinkünften</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 3</lxbase:randziffer><lxbase:a>Liebhabereifälle treten bei den Gewinneinkünften
+insbesondere bei den gewerblichen und bei den freiberuflichen Einkünften
+(§§ 15 und 18 EStG) auf. Bei der Prüfung,
+ob die Tätigkeit mit Gewinnerzielungsabsicht oder ohne
+diese erfolgt, sind insbesondere zwei Fallgruppen zu unterscheiden:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a."><lxbase:a>Die Tätigkeit
+ist typischerweise nicht dazu bestimmt und geeignet, private bzw.
+persönliche Neigungen zu befriedigen (z. B. Möbeleinzelhandel),
+oder die Tätigkeit wird hauptberuflich zur Sicherung des
+eigenen Unterhalts ausgeübt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b."><lxbase:a>Bei der Tätigkeit handelt es sich
+typischerweise um eine Hobbytätigkeit (z. B. An- und Verkauf
+von Briefmarken) oder die Tätigkeit wird nebenberuflich
+ausgeübt.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Allgemein gilt, dass bei einer Tätigkeit, die von ihrer
+Art her regelmäßig dazu dient, den eigenen Unterhalt
+zu finanzieren und nicht vordergründig private Freizeitinteressen
+befriedigt (sog. Brotberufe), grundsätzlich eine Gewinnerzielungsabsicht
+zu unterstellen ist. Hiervon kann regelmäßig ausgegangen
+werden, wenn ein Grundhandelsgewerbe (§ 15 EStG) oder ein
+Katalogberuf i.S. des § 18 EStG im Hauptberuf unter Einsatz
+der gesamten persönlichen Leistungskraft ausgeübt
+wird. Nach Ablauf der Anlaufphase (regelmäßig
+drei bis fünf Jahre nach der Betriebseröffnung)
+kann auch bei den Brotberufen zu prüfen sein, ob neben
+den Verlusten weitere Beweisanzeichen vorliegen, aus denen sich
+ergibt, dass der Steuerpflichtige die verlustbringende Tätigkeit
+"nur" aus im Bereich seiner Lebensführung liegenden persönlichen
+Gründen ausübt (BFH-Urteil vom 17.11.2004, <lxprod:doknr-verw linkend="HT0819663">X R 62/01</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0819663">BStBl 2005
+II S. 336</lxprod:doknr-verw>). Denn allein der Umstand, dass langjährig
+Verluste erzielt wurden, reicht nicht aus, um einen Liebhabereibetrieb anzunehmen.</lxbase:a><lxbase:a>Liegt hingegen typischerweise eine Hobbytätigkeit vor,
+die über Jahre hinweg zu Verlusten führt, ist
+regelmäßig Liebhaberei anzunehmen. In diesem Fall bleibt
+zu prüfen, ob auch Verluste in der Anlaufphase steuerlich
+anzuerkennen sind. Dies gilt im besonderen Maße, wenn die
+Tätigkeit nebenberuflich ausgeübt wird.</lxbase:a><lxbase:a>Letztlich ist die Frage, ob eine Gewinnerzielungsabsicht oder
+ein Liebhabereibetrieb vorliegt, nach den Umständen des
+Einzelfalls im Rahmen einer Gesamtschau zu beurteilen. Bei den Gewinneinkünften
+sind in den Totalüberschuss neben den laufenden Jahresergebnissen
+auch mögliche, bei einer Betriebsaufgabe bzw. -veräußerung
+aufzudeckende stille Reserven einzubeziehen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500004">2.2 Liebhaberei bei
+den Überschusseinkünften</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 4</lxbase:randziffer><lxbase:a>Bei den Überschusseinkünften treten Liebhabereifälle
+nicht nur bei den Einkünften aus Kapitalvermögen
+(§ 20 EStG) oder Einkünften aus Vermietung und Verpachtung
+(§ 21 EStG) auf.</lxbase:a><lxbase:a>Gerade im Bereich der Einkünfte aus sonstigen Leistungen
+(§ 22 Nr. 3 EStG) sind nicht wenige Liebhabereifälle
+angesiedelt. Betroffen sind Fälle, in denen der Steuerpflichtige
+bewegliche Einzelwirtschaftsgüter (z. B. Pkw, Wohnmobil, Boote
+- R 15.7 Abs. 3 EStR 2005) an Dritte vermietet und die Grenze zur Gewerblichkeit
+nicht überschritten ist. Regelmäßig ist
+die Vermietung nur eines Einzelwirtschaftsguts keine gewerbliche
+Tätigkeit (H 15.7 Abs. 3 "Wohnmobil" EStH 2005).</lxbase:a><lxbase:a>Nach höchstrichterlicher Rechtsprechung ist die Grenze
+zur Gewerblichkeit dann überschritten, wenn der Steuerpflichtige
+neben der entgeltlichen Überlassung des Einzelwirtschaftsguts
+dem Dritten weitere ins Gewicht fallende Sonderleistungen (R 15.7
+Abs. 3 Satz 2 EStR 2005) erbringt. Sonderleistungen sind z. B. Zusammenstellung
+einer Fahrtroute, Übernahme der Buchung von Hotelzimmern,
+entgeltliche Überlassung von weiteren Gegenständen, Überlassung eines
+Fahrers bzw. Skippers.</lxbase:a><lxbase:a>Bei den Überschusseinkünften können
+im Rahmen der anzustellenden Einkunftsprognose nur die laufenden
+Einnahmen und Werbungskosten berücksichtigt werden. Mögliche
+Veräußerungsgewinne nach § 23 EStG bleiben
+außer Ansatz. Im Bereich der Einkünfte aus Vermietung
+und Verpachtung ist die Einkunftsprognose (Liebhabereitest) auf
+einen Prognosezeitraum von 30 Jahren zu projizieren.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500005">2.3 Beweisanzeichen
+für Einkunftserzielungsabsicht</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 5</lxbase:randziffer><lxbase:a>In Verlustfällen kann für eine Gewinn-/Einkunftserzielungsabsicht
+sprechen:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>	Die Tätigkeit
+wird im Hauptberuf ausgeübt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Mit den Einkünften der Tätigkeit
+soll/muss der eigene Lebensunterhalt (sog. Brotberuf) bestritten
+werden, weil keine anderweitigen Einkünfte (ggf. auch nicht
+vom Ehegatten) vorliegen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Die Tätigkeit berührt typischerweise
+nicht die private Lebensführung, weil es sich um einen
+Brotberuf handelt (z. B. Tätigkeit als Metzger, Tätigkeit
+als Steuerberater).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Auf die Verluste wurde kaufmännisch reagiert
+(z. B. Verminderung von Kosten, Werbemaßnahmen, Einstellung
+des Betriebs nach der Verlustanlaufphase).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Es sind mehrere Arbeitnehmer angestellt, die nicht
+nahe Angehörige sind.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Es wurde eine Gewinnprognose vor Betriebseröffnung
+nach betriebswirtschaftlichen Grundsätzen erstellt. Dabei
+wurden Chancen und Risiken gegeneinander abgewogen und nicht nur
+die günstigste Einnahmen- sowie die günstigste
+Kostenentwicklung unterstellt.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500006">2.4 Beweisanzeichen
+für Liebhaberei</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 6</lxbase:randziffer><lxbase:a>Für Liebhaberei kann in Verlustfällen sprechen:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>	Es liegt eine typische
+Hobbytätigkeit vor (z. B. Yachtvercharterung, Briefmarkenan-
+und -verkauf, Brieftaubenzucht, Bienenzucht).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Die Tätigkeit wird nebenberuflich ausgeübt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Die Tätigkeit wird am Ende der allgemeinen
+Berufstätigkeit erstmals oder weiter ausgeübt
+(BFH-Urteil vom 26.2.2004, <lxprod:doknr-verw linkend="HT0817377">IV R 43/02</lxprod:doknr-verw>, BStBl II S. 455,
+der Steuerpflichtige war Arzt und in den Streitjahren über
+70 Jahre alt).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Kaufmännische Aktivitäten (z. B.
+intensivere Werbung) und kaufmännische Reaktionen (z. B.
+Kostenreduzierung) erfolgten nicht.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Der Betrieb ist nach seiner Wesensart nicht geeignet,
+nachhaltig Gewinne zu erzielen (z. B. Yachtvercharterung zu nicht
+kostendeckenden Preisen).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Die Verluste können mit positiven anderen
+Einkünften (ggf. mit denen des Ehegatten) verrechnet werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Es sind nahe Angehörige als Arbeitnehmer
+angestellt. </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500007">2.5 Private bzw. persönliche
+Motive</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 7</lxbase:randziffer><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Private bzw. persönliche
+Gründe, um einen verlustbringenden Betrieb weiterzuführen,
+können sein:</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Der Betrieb dient als Statussymbol (z. B. verlustbringendes
+Weingut eines gutverdienenden Managers, Gutshof mit Pferdezucht
+eines vermögenden Reeders).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Die Tätigkeit ist mit einem bestimmten Sozialprestige
+verbunden (BFH-Urteil vom 14.12.2004, <lxprod:doknr-verw linkend="HT0819832">XI R 6/02</lxprod:doknr-verw>, juris, zur Tätigkeit
+des Rechtsanwalts).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Der Betrieb befriedigt private bzw. persönliche
+Bedürfnisse (z.B. gewerbliche Yachtvercharterung und der
+Steuerpflichtige ist Skipper, An- und Verkauf von Briefmarken, Zucht
+und Verkauf von Brieftauben, Pferdezucht, Rennsportbegeisterung).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Der verlustbringende Betrieb soll für nahe
+Angehörige (z.B. Sohn, Tochter) zwecks späterer
+Betriebsübergabe erhalten werden.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Der verlustbringende Betrieb wird aufrechterhalten,
+um nahen Angehörigen eine Beschäftigung (mit sozialversicherungsrechtlicher
+Absicherung) zu geben (BFH-Urteil vom 17.11.2004, <lxprod:doknr-verw linkend="HT0819663">X R 62/01</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0819663">BStBl 2005
+II S. 336</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Durch eine Verlustverrechnung entsteht eine Steuerersparnis
+(BFH-Urteil vom 14.12.2004, <lxprod:doknr-verw linkend="HT0819832">XI R 6/02</lxprod:doknr-verw>, juris, m.w.N.).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500008">2.6 Sammlung problematischer
+Fälle</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 8</lxbase:randziffer><lxbase:a>Bei einer hauptberuflichen gewerblichen oder freiberuflichen
+Tätigkeit spricht der Beweis des ersten Anscheins für
+eine Einkunftserzielungsabsicht (z.B. BFH-Urteil vom 14.12.2004, <lxprod:doknr-verw linkend="HT0819832">XI R 6/02</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0819832">BStBl 2005
+II S.392</lxprod:doknr-verw>). Liebhaberei kann hier ausnahmsweise dann anzunehmen
+sein, wenn besondere Umstände vorliegen (z.B. nebenberufliche
+Tätigkeit, geringfügige Tätigkeit nach
+Erreichen der Rentenaltersgrenze). Bei nachfolgend beispielhaft
+angeführten Tätigkeiten ist im Verlustfall Liebhaberei
+zu prüfen:</lxbase:a></lxbase:a-randziffer><lxbase:kapitel><lxbase:ueberschrift id="D523076500012">2.6.1 Einkünfte
+aus Land- und Forstwirtschaft</lxbase:ueberschrift><lxbase:kapitel><lxbase:a>Liebhabereitätigkeiten, die der Steuerpflichtige
+trotz langjähriger Verluste ausübt, können
+im Bereich der Einkünfte aus Land- und Forstwirtschaft
+(§§ 13, 13a EStG) sein:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Pferdezucht (BFH-Beschluss
+vom 30.12.2002, <lxprod:doknr-verw linkend="HT0593776">IV
+B 168/01</lxprod:doknr-verw>, BFH/NV 2003 S. 896).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Anpachtung einer Jagd.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Betreiben eines Weinguts (BFH-Beschluss vom 14.7.2003, <lxprod:doknr-verw linkend="HT0815882">IV B 81/01</lxprod:doknr-verw>,
+BStBl II S. 804 zu einem Weinbaubetrieb eines Rechtsanwalts).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Betreiben eines Winzerbetriebs im Nebenberuf (BFH-Urteil
+vom 25.11.2004, <lxprod:doknr-verw linkend="HT5900688">IV
+R 8/03</lxprod:doknr-verw>, BFH/NV 2005 S. 854).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500009">2.6.2 Einkünfte
+aus Gewerbebetrieb</lxbase:ueberschrift><lxbase:a>Liebhabereitätigkeiten, die der Steuerpflichtige trotz
+langjähriger Verluste ausübt, können
+im Bereich der Einkünfte aus Gewerbebetrieb (§ 15
+EStG) sein:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Betreiben einer hochpreisigen
+Gaststätte (z. B. Gourmetlokal).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Betrieb eines Gästehauses (BFH-Urteil vom
+13.12.1984, <lxprod:doknr-verw linkend="HT0061503">VIII
+R 59/82</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0061503">BStBl 1985 II S. 455</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Handel mit Booten und Tauchsportartikeln (BFH-Urteil
+vom 21.7.2004, <lxprod:doknr-verw linkend="HT0818709">X
+R 33/03</lxprod:doknr-verw>, BStBl II S. 1063).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Betrieb einer Reitschule (BFH-Urteil vom 15.11.1984, <lxprod:doknr-verw linkend="HT0061304">IV R 139/81</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0061304">BStBl 1985
+II S. 205</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500010">2.6.3 Einkünfte
+aus freiberuflicher Tätigkeit</lxbase:ueberschrift><lxbase:a>Liebhabereitätigkeiten, die der Steuerpflichtige trotz
+langjähriger Verluste ausübt, können
+im Bereich der freiberuflichen Einkünfte (§ 18
+EStG) sein:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>	Künstlerische
+Tätigkeit (BFH-Urteil vom 6.3.2003, <lxprod:doknr-verw linkend="HT0814926">XI R 46/01</lxprod:doknr-verw>,
+BStBl II S. 602 bei einem Maler und Grafiker).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Schriftstellerische Tätigkeit im Nebenberuf
+(BFH-Beschlüsse vom 28.2. 2003, <lxprod:doknr-verw linkend="HT0593601">IV B 200/02</lxprod:doknr-verw>,
+BFH/NV S. 625 und vom 13.4.2000, <lxbase:az normform="XI-B-17-19/99" manuell="nein">XI B 17-19/99</lxbase:az>,
+BFH/NV S. 1200, m.w.N.).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Tätigkeit als Steuerberater (BFH-Urteil vom
+31.5.2001, <lxprod:doknr-verw linkend="HT0572695">IV R
+81/99</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0572695">BStBl 2002 II S. 276</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Tätigkeit als Rechtsanwalt (BFH-Beschluss
+vom 5.8.2004, <lxprod:doknr-verw linkend="HT5900343">IV
+B 224/02</lxprod:doknr-verw>, BFH/NV 2005 S. 44 und BFH-Urteil
+vom 14.12.2004, <lxbase:az normform="XI-6/02" manuell="nein">XI
+6/02</lxbase:az> <lxprod:doknr-verw linkend="HT0819832">BS­tBl 2005 II S. 392</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500013">2.6.4 Einkünfte
+aus Kapitalvermögen</lxbase:ueberschrift><lxbase:a>Bei den Einkünften aus Kapitalvermögen können
+Kapitalanlagen von Liebhaberei betroffen sein, die der Steuerpflichtige
+trotz langjähriger Verluste hält. Der Grund für
+die Verluste kann darin liegen, dass er die Kapitalanlage fremdfinanziert
+hat und/oder die Einnahmen niedriger sind als die Werbungskosten
+(u. a. Schuldzinsen). Daher ist es erforderlich, jede Kapitalanlage
+gesondert zu betrachten und im Einzelfall die Einnahmen sowie die
+Werbungskosten konkret der betreffenden Kapitalanlage zuzuordnen.
+Liebhabereifälle können sein:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Fremdfinanzierte Rentenversicherung
+(keine "Rürup"-Rente) gegen Einmalzahlung (BFH-Urteil vom
+16.9.2004, <lxprod:doknr-verw linkend="HT0819472">X R 29/02</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0819472">BStBl 2006
+II S. 234</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Fremdfinanzierte Wertpapiere oder Fondsanteile, bei
+denen die Erzielung steuerfreier Kursgewinne im Vordergrund steht.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Indessen sind Zinsen, die ein Steuerpflichtiger zum Erwerb einer
+wesentlichen Beteiligung i.S. von § 17 EStG aufwendet,
+regelmäßig bis zur Veräußerung
+der Beteiligung oder bis zum Eintritt der Vermögenslosigkeit
+bzw. bis zur Löschung der Kapitalgesellschaft im Handelsregister
+als Werbungskosten zu den Einkünften aus Kapitalvermögen
+abziehbar (vgl. BFH-Urteil vom 21.1.2004, <lxprod:doknr-verw linkend="HT0817750">VIII R 2/02</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0817750">BStBl 2004
+II S. 551</lxprod:doknr-verw>). Der Veräußerungsgewinn i.S.
+des § 17 EStG ist hier in die Totalgewinnprognose einzubeziehen.
+Nach Insolvenz, Liquidation oder Löschung einer Kapitalgesellschaft
+anfallende Schuldzinsen eines Gesellschafters können aber
+nicht als nachträgliche Werbungskosten berücksichtigt
+werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500014">2.6.5 Einkünfte
+aus Vermietung und Verpachtung</lxbase:ueberschrift><lxbase:a>Liebhabereifälle, bei denen der Steuerpflichtige trotz
+langjähriger Verluste Vermietungen bzw. Verpachtung betreibt,
+können sein:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>	Kurzfristige Vermietung
+(Vermietungsdauer fünf Jahre und weniger) wegen anschließender
+Selbstnutzung, Veräußerung oder Leerstands.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Vermietung von Luxusbauten.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Vermietung einer Ferienwohnung.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Befristete Vermietung.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Leerstehende Wohnung über mehrere Jahre.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Verbilligte Vermietung zwischen 56 und 75 v.H. der
+ortsüblichen Miete: Hier erfolgt der Liebhabereitest, um
+prüfen zu können, ob eine Werbungskostenkürzung
+nach § 21 Abs. 2 EStG erfolgen muss.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500015">2.6.6 Einkünfte
+aus sonstiger Leistung</lxbase:ueberschrift><lxbase:a>Liebhabereitätigkeiten, die der Steuerpflichtige trotz
+langjähriger Verluste ausübt, können
+sein (§ 22 Nr. 3 EStG):</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>Vermietung <lxbase:fett>eines</lxbase:fett> Wohnmobils
+(BFH-Urteil vom 12.11.1997, <lxprod:doknr-verw linkend="HT0160556">XI R 44/95</lxprod:doknr-verw>, juris).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Vermietung <lxbase:fett>einer</lxbase:fett> Segelyacht (BFH-Beschluss
+vom 28.3.2000, <lxprod:doknr-verw linkend="HT0590585">X
+B 82/99</lxprod:doknr-verw>, BFH/NV 2000 S. 1168, m. w. N.).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Vermietung <lxbase:fett>eines</lxbase:fett> Sportwagens.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Vermietung <lxbase:fett>eines</lxbase:fett> Reiseflugzeugs (BFH-Urteil
+vom 14.4.1972, <lxprod:doknr-verw linkend="HT0002778">IV
+R 172/69</lxprod:doknr-verw>, BStBl II S. 599).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500016">3. Liebhaberei bei der
+Umsatzsteuer</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 9</lxbase:randziffer><lxbase:a>Voraussetzung für die Unternehmereigenschaft ist nach § 2
+Abs. 1 Satz 3 UStG eine nachhaltige Tätigkeit zur Erzielung
+von Einnahmen, auch wenn die Gewinnerzielungsabsicht fehlt. Für
+die Annahme der Unternehmereigenschaft kommt es nicht darauf an,
+mit welchem Ergebnis die Tätigkeit ausgeübt wird, sondern
+darauf, ob die Tatbestandsmerkmale des § 2 Abs. 1 UStG
+erfüllt sind. Wenn Nachhaltigkeit gegeben ist, ist auch
+bei einer ertragsteuerlich als Liebhaberei eingestuften Tätigkeit
+die Unternehmereigenschaft zu bejahen (vgl. dazu A 18 Abs. 5 UStR
+2005 sowie BMF-Schreiben vom 14.7.2000, <lxbase:lit-fs normform="DB-2000-1687" manuell="nein">DB 2000 S. 1687</lxbase:lit-fs>,
+UR 2000 S. 399).</lxbase:a><lxbase:a>Bei der Vermietung eines Freizeitgegenstands (Wohnmobil, Segelboot),
+welcher nur gelegentlich vermietet und im Übrigen privat
+genutzt wird, ist die Unternehmereigenschaft - mangels Nachhaltigkeit
+- zu verneinen.</lxbase:a><lxbase:a>Die Aufwendungen im Zusammenhang mit einer ertragsteuerlichen
+Liebhaberei fallen nicht unter das Abzugsverbot des § 12
+Nr. 1 EStG. Sie sind bereits aus den übergeordneten Gesichtspunkten
+des § 2 EStG ertragsteuerlich unbeachtlich. Deshalb fällt
+aus umsatzsteuerlicher Sicht die Vorsteuer aus Vorbezügen für
+sog. Liebhabereibetriebe nicht unter das Abzugsverbot des § 15
+Abs. 1a Nr. 1 UStG i.V.m. § 12 Nr. 1 EStG.</lxbase:a><lxbase:a>Bei Unternehmern, für die § 4 Abs. 5 EStG ertragsteuerlich
+keine Bedeutung hat, weil sie keinen Gewinn zu ermitteln haben,
+ist für Umsatzsteuerzwecke darauf abzustellen, ob die Aufwendungen
+ihrer Art nach unter das Abzugsverbot für Repräsentationsaufwendungen
+in § 4 Abs. 5 Satz 1 Nr. 1 bis 4 und Nr. 7 EStG fallen
+(vgl. Abschnitt 197 UStR; für Bewirtungsaufwendungen ist
+der Vorsteuerabzug nach dem BMF-Schreiben vom 23.6.2005, <lxprod:doknr-verw linkend="HT0579270">BStBl I S. 816</lxprod:doknr-verw>,
+allerdings zulässig). Dies gilt auch für sog. Liebhabereibetriebe.
+In diesen Fällen kommt es deshalb zum Ausschluss des Vorsteuerabzugs
+nach § 15 Abs. 1a Nr. 1 UStG.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500017">4. Die Bearbeitung von
+"liebhabereiverdächtigen" Fällen </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523076500018">4.1 Überprüfung
+der Ausgaben</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 10</lxbase:randziffer><lxbase:a>Auch wenn eine abschließende Beurteilung der "liebhabereiverdächtigen" Tätigkeit
+noch nicht möglich ist, müssen die erklärten
+Betriebsausgaben bzw. Werbungskosten kritisch auf ihre Abzugsfähigkeit
+hin überprüft werden. Auf folgende Positionen
+ist ein besonderes Augenmerk zu legen:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>	Anteilige Raumkosten, die
+z.B. wegen der Abzugsbeschränkung für Arbeitszimmer
+nur bis zum Höchstbetrag i.H. von 1.250 Euro absetzbar
+sind.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>Kfz-Kosten für hochpreisige Fahrzeuge, deren
+betrieblicher Nutzungsumfang zweifelhaft ist.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>	Hohe Reisekosten, bei denen eine private Mitveranlassung
+nahe liegt.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500019">4.2 Vorläufige
+Steuerfestsetzung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 11</lxbase:randziffer><lxbase:a>Ein Steuerbescheid kann im Hinblick auf die tatsächliche
+Ungewissheit, ob die vom Steuerbürger ausgeübte
+Tätigkeit als steuerlich irrelevante Liebhaberei anzusehen
+ist, zunächst nach § 165 Abs. 1 AO vorläufig
+erlassen werden. Diese Nebenbestimmung zum Steuerbescheid kann auch
+noch nachträglich aufgenommen werden, sofern der Steuerbescheid
+unter dem Vorbehalt der Nachprüfung steht (Änderung
+nach § 164 Abs. 2 AO) oder wenn der Steuerbürger zustimmt
+(§ 172 Abs. 1 Nr. 2a AO).</lxbase:a><lxbase:a>Insbesondere ist dann von einer Ungewissheit auszugehen, wenn
+die für die Gewinnerzielungsabsicht maßgeblichen
+Umstände nicht mit der gebotenen Sicherheit festgestellt
+werden können. Der Grund der Vorläufigkeit ist
+mit dem Hinweis auf das mögliche Vorliegen von Liebhaberei
+bei der betreffenden Einkunftsquelle hinreichend bezeichnet.</lxbase:a><lxbase:a>Bei "liebhabereiverdächtigen" Fällen hat das
+Finanzamt einen Ermessensspielraum: Es kann sich dafür
+entscheiden, die in den tatsächlichen Voraussetzungen ungeklärten
+Einkünfte sowohl gänzlich wegzulassen als auch
+in korrigierter Höhe oder (wie erklärt) in die
+Steuerfestsetzung einzubeziehen. Von Ausnahmefällen abgesehen,
+können die Verluste i.d.R. vorläufig berücksichtigt
+werden.</lxbase:a><lxbase:a>Kann die Einkunftserzielungsabsicht nach Ablauf der Anlaufphase
+noch nicht abschließend beurteilt werden, können
+Einkommensteuerbescheide für einige Folgejahre vorläufig
+erteilt werden. Andererseits macht es keinen Sinn, den Fall auf
+unbegrenzte Zeit vorläufig zu veranlagen. Grundsätzlich
+ist nach Ablauf von zehn Jahren seit der Aufnahme bzw. Erweiterung
+der Tätigkeit anhand der bis dahin gesammelten Erkenntnisse
+zu entscheiden, ob die Annahmen in der Einkunftsprognose zutreffen
+und die Entwicklung des Betriebsergebnisses für oder gegen
+die Einkunftserzielungsabsicht spricht.</lxbase:a><lxbase:a>Werden die "liebhabereiverdächtigen" Einkünfte
+angesetzt, muss der Steuerbürger im Regelfall davon ausgehen,
+dass die Vorläufigkeit auch die nachrangigen Fragen, wie
+die Höhe der Betriebseinnahmen oder -ausgaben, betrifft.
+Davon ist jedenfalls dann auszugehen, wenn die Angaben des Steuerbürgers
+ungeprüft in die Steuerfestsetzung übernommen
+werden. Ein solcher Regelfall liegt dagegen nicht vor, wenn das
+Finanzamt nachrangige Fragen für den Steuerbürger erkennbar überprüft
+hat. Dann ist die Steuerfestsetzung hinsichtlich dieser Punkte endgültig
+(BFH-Urteil vom 26.10.1988, <lxprod:doknr-verw linkend="HT0086398">I R 189/84</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0086398">BStBl 1989
+II S. 130</lxprod:doknr-verw>), es sei denn, die nachrangigen Fragen werden
+ausdrücklich in den Vorläufigkeitsvermerk einbezogen
+(BFH-Urteil vom 19.10.1999, <lxprod:doknr-verw linkend="HT0553241">IX R 23/98</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0553241">BStBl 2000
+II S. 282</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Soweit die Steuer vorläufig festgesetzt wurde, kann
+die Steuerfestsetzung jederzeit nach § 165 Abs. 2 Satz
+1 AO aufgehoben oder geändert werden. Ist die Ungewissheit
+beseitigt, nachdem z.B. die Liebhaberei feststeht, ist die vorläufige
+Steuerfestsetzung nach § 165 Abs. 2 Satz 2 AO aufzuheben,
+zu ändern oder für endgültig zu erklären.</lxbase:a><lxbase:a>Die nach § 165 Abs. 2 Satz 1 AO mögliche Änderung,
+z.B. zur Kürzung der Betriebsausgaben um privat veranlasste
+Aufwendungen, ist nicht vom Wegfall der Ungewissheit abhängig,
+sondern kann unter Fortbestand der Ungewissheit ergehen.</lxbase:a><lxbase:a>Diese Änderungsmöglichkeit besteht aber auch
+dann, wenn die Ungewissheit weggefallen ist, nachdem sich z.B. der
+Liebhabereiverdacht zur Gewissheit verdichtet hat, und die Voraussetzungen
+für eine endgültige Steuerfestsetzung nach § 165
+Abs. 2 Satz 2 AO geschaffen sind. In diesem Fall ist das Finanzamt befugt,
+alle zunächst hingenommenen rechtlichen Fehlbeurteilungen
+des Steuerbürgers im Rahmen einer Änderung nach § 165
+Abs. 2 Satz 1 AO, deren Nachprüfung zunächst zurückgestellt
+war, zu korrigieren.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500020">5. Liebhaberei steht
+fest: Was sind die Folgen? </lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523076500021">5.1 Grundsatz</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 12</lxbase:randziffer><lxbase:a>Fehlt einer Betätigung die Einkunftserzielungsabsicht,
+handelt es sich um Liebhaberei mit der Folge, dass die Betätigung
+keine Einkunftsquelle i.S. von § 2 Abs. 1 Nr. 1 bis 7 EStG
+darstellt. Die durch die Liebhabereitätigkeit veranlassten
+Aufwendungen sind keine Werbungskosten oder Betriebsausgaben. Die aus
+einem Liebhabereibetrieb erzielten Einnahmen sind allerdings auch
+nicht einkommensteuerpflichtig. Im Ergebnis gehen deshalb sowohl
+Verluste als auch Gewinne bzw. Überschüsse aus
+einer Liebhabereitätigkeit grundsätzlich nicht
+in die Ermittlung des steuerpflichtigen Einkommens ein.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500022">5.2 Anlaufverluste</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 13</lxbase:randziffer><lxbase:a>Bei neu gegründeten Betrieben spricht der Beweis des
+ersten Anscheins grundsätzlich für eine Gewinnerzielungsabsicht,
+es sei denn, die Art des Betriebs bzw. die Betriebsführung
+sprechen von vornherein dagegen, weil das Unternehmen nach der Lebenserfahrung
+typischerweise dazu bestimmt und geeignet ist, persönlichen
+Neigungen des Betriebsinhabers zu dienen. Der Abzug von Anlaufverlusten
+setzt aber voraus, dass die vom Steuerpflichtigen auf Dauer ausgeübte
+Tätigkeit typisierend zu einem Totalgewinn führt
+und private bzw. persönliche Motive in den Hintergrund
+treten.</lxbase:a><lxbase:a>Die steuerliche Anerkennung von Anlaufverlusten ist danach nur
+ausnahmsweise zu versagen, da sie in der Regel in Kauf genommen
+werden müssen, um auf Dauer positive Einkünfte
+zu erzielen. Die Anlaufphase kann nur im Einzelfall bestimmt werden.
+Sie soll regelmäßig sechs bis acht Jahre nicht überschreiten
+(Ausnahmen sind bei Künstlern und Schriftstellern möglich;
+H 15.3 "Anlaufverluste" EStH 2005).</lxbase:a><lxbase:a>Die Vermutung, dass ein Betrieb mit Gewinnerzielungsabsicht geführt
+wird, wird nicht durch Verluste in der Anlaufphase entkräftet,
+wenn der Steuerbürger auf diese durch betriebswirtschaftlich
+sinnvolle Maßnahmen, z.B. Umstrukturierung oder Einstellung
+des Betriebs, reagiert (BFH-Urteil vom 21.7.2004, <lxprod:doknr-verw linkend="HT0818709">X R 33/03</lxprod:doknr-verw>,
+BFH/NV 2004 S. 1710). Reagiert der Betriebsinhaber auf
+eine Verlustperiode, indem er erhebliche Umstrukturierungsmaßnahmen
+vornimmt, beginnt eine neue Anlaufphase. Allerdings ist der Zeitraum
+in der Regel auf bis zu drei Jahre zu beschränken.</lxbase:a><lxbase:a>Der Abzug von Anlaufverlusten ist ausgeschlossen, wenn die Tätigkeit
+nach ihrem Wesen und der Art der Betriebsführung nicht
+geeignet ist, einen Totalgewinn zu erzielen (BFH-Urteil vom 27.1.2000, <lxprod:doknr-verw linkend="HT0553518">IV R 33/99</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0553518">BStBl 2000
+II S. 227</lxprod:doknr-verw>). Das ist dann der Fall, wenn der Betrieb, so
+wie er vom Betriebsinhaber bewirtschaftet wird, von vornherein nicht
+in der Lage ist, nachhaltig Gewinne zu erzielen, und daher von Anfang
+an objektiv eine einkommensteuerlich irrelevante Tätigkeit
+darstellt oder wenn aus dem Fehlen eines brauchbaren wirtschaftlichen Konzepts
+geschlossen werden kann, dass die Tätigkeit von Anfang
+an der Befriedigung privater Interessen - und nicht der Gewinnerzielung
+- diente (BFH-Urteil vom 15.5.2002, <lxprod:doknr-verw linkend="HT0813329">I R 92/00</lxprod:doknr-verw>, BFH/NV 2002
+S. 1538). Zweifelhaft ist die Anerkennung von Anlaufverlusten insbesondere
+bei Tätigkeiten, die prinzipiell der Freizeitgestaltung
+dienen (z.B. künstlerische Tätigkeit, Yachtvercharterung,
+Vermietung von Sportwagen).</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500023">5.3 Der Übergang
+von der Einkünfteerzielung zur Liebhaberei</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 14</lxbase:randziffer><lxbase:a>Der Übergang von der einkunftsrelevanten Betätigung
+im Rahmen einer Gewinneinkunftsart (§§ 13, 15,
+18 EStG) zu einer einkommensteuerrechtlichen Liebhaberei führt
+nicht zwangsweise zur Betriebsaufgabe (H 16 (2) "Liebhaberei" EStH
+2005). Der Inhaber des land- und forstwirtschaftlichen, gewerblichen oder
+freiberuflichen Betriebs kann allerdings die Betriebsaufgabe erklären
+mit der Folge, dass ein ggf. nach §§ 16, 34 EStG
+begünstigter Aufgabegewinn oder ein Aufgabeverlust entsteht.</lxbase:a><lxbase:a>Liegt keine ausdrückliche Betriebsaufgabeerklärung
+vor, sind die stillen Reserven (= Differenz zwischen dem
+Verkehrswert und dem Buchwert) in jedem Wirtschaftsgut des Anlagevermögens
+auf den Zeitpunkt, ab dem ein Liebhabereibetrieb vorliegt (dazu
+bietet sich i.d.R. der 1.1. an), gesondert und bei mehreren Beteiligten
+auch einheitlich nach § 8 der Verordnung zu § 180
+Abs. 2 AO (abgedruckt im AO-Handbuch nach § 180 AO) festzustellen
+(H 16 (2) "Liebhaberei" EStH 2005).</lxbase:a><lxbase:a>Die Besteuerung der festgestellten stillen Reserven eines Wirtschaftsguts
+hat in dem Veranlagungszeitraum zu erfolgen, in dem dieses Wirtschaftsgut
+untergegangen ist, z.B. durch Verschrottung einer Maschine, deren
+Verkauf oder im Jahr des Eingangs einer Entnahmeerklärung
+für dieses Wirtschaftsgut beim Finanzamt. Sämtliche
+festgestellten stillen Reserven sind dagegen in dem Veranlagungszeitraum
+zu besteuern, in dem der Liebhabereibetrieb verkauft worden ist
+oder eine Betriebsaufgabeerklärung beim Finanzamt eingegangen
+ist.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500024">5.4 Der Übergang
+von der Liebhaberei zur Einkünfteerzielung</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 15</lxbase:randziffer><lxbase:a>Die Einkünfteerzielungsabsicht kann von dem Zeitpunkt
+an angenommen werden, zu dem sich die Erzielung eines Totalgewinns
+bzw. Totalüberschusses abzeichnet (BFH-Urteil vom 12.12.1995, <lxprod:doknr-verw linkend="HT0132501">VIII R 59/92</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0132501">BStBl 1996
+II S. 219</lxprod:doknr-verw>, z.B. beim Übergang von einer Nebentätigkeit
+zur Haupterwerbsquelle).</lxbase:a><lxbase:a>Der Übergang von einem Liebhabereibetrieb zur Einkünfteerzielung
+ist eine Betriebseröffnung (§ 6 Abs. 1 Nr. 6 i.V.m.
+Nr. 5 EStG). Bei den Gewinneinkünften sind die der nun
+einkunftsrelevanten Tätigkeit gewidmeten Wirtschaftsgüter
+deshalb mit ihrem Teilwert bzw. mit ihren (fortgeführten) Anschaffungskosten
+anzusetzen.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500025">5.5 Verluste aus dem
+Liebhaberei-Betrieb: Was ist noch abzugsfähig?</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523076500026">5.5.1 Schuldzinsen</lxbase:ueberschrift><lxbase:a-randziffer><lxbase:randziffer>Rz. 16</lxbase:randziffer><lxbase:a>Schuldzinsen aus einem betrieblichen Schuldüberhang
+(= Verbindlichkeiten sind höher als der Verkehrswert
+des Aktivvermögens im Zeitpunkt des Übergangs
+zur Liebhaberei) sind auch nach dem Übergang zu einem Liebhabereibetrieb
+nachträgliche Betriebsausgaben (BFH-Urteile vom 15.5.2002, <lxprod:doknr-verw linkend="HT0813379">X R 3/99</lxprod:doknr-verw>,
+BStBl II S. 809 und vom 31.7.2002, <lxprod:doknr-verw linkend="HT0814336">X R 48/99</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0814336">BStBl 2003
+II S. 282</lxprod:doknr-verw>, H 24.2 "Nachträgliche Betriebsausgaben/Werbungskosten
+sind" EStH 2005).</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 1</lxbase:fett></lxbase:a><lxbase:a>Der verlustbringende Handel mit Edelsteinen des S wandelte sich
+nach Ablauf der Anlaufphase am 31.12.2004 zum Liebhabereibetrieb.
+Eine gedachte Aufgabebilanz zu Verkehrswerten zum 31.12.2004 sieht
+so aus:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="50*" /><cals:colspec colnum="2" colname="2" colwidth="50*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Anlagevermögen</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>	+100.000 Euro</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Umlaufvermögen</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>	+ 50.000 Euro</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Verbindlichkeiten</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a><lxbase:unterst>	./.600.000
+Euro</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Schuldüberhang</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>	./.450.000 Euro</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>In seiner Einkommensteuererklärung 2005 erklärte
+S die Schuldzinsen aus den betrieblichen Verbindlichkeiten (insgesamt
+40.000 Euro) als nachträgliche Betriebsausgaben seiner
+Einkünfte aus Gewerbebetrieb.</lxbase:a><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Die Schuldzinsen sind nur anteilig, soweit sie auf den Schuldüberhang
+entfallen, nachträgliche Betriebsausgaben. Von den 40.000
+Euro Schuldzinsen sind deshalb nur 75 v.H. (450.000 Euro Schuldüberhang
+: 600.000 Euro Verbindlichkeiten), also i.H. von 30.000 Euro nachträgliche
+Betriebsausgaben.</lxbase:a></lxbase:beispiel><lxbase:a>Ist die Betätigung des Steuerbürgers dagegen
+von Anfang an als Liebhaberei, d. h. als nicht einkunftsrelevant
+zu qualifizieren, sind Schuldzinsen - unabhängig davon,
+ob ein Schuldüberhang vorliegt - insgesamt keine (nachträglichen) Betriebsausgaben.</lxbase:a></lxbase:a-randziffer></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523076500027">5.5.2 Verträge
+zwischen Ehegatten</lxbase:ueberschrift><lxbase:a>Zahlungen aufgrund von schuldrechtlichen Austauschverträgen
+zwischen Ehegatten, z.B. Mietverträge, Darlehensverträge,
+Arbeitsverträge, von dem Inhaber eines Liebhabereibetriebs
+an seinen Ehegatten haben die finanzielle Leistungsfähigkeit
+der Erwerbsgemeinschaft der Ehegatten nicht erhöht.</lxbase:a><lxbase:a>Nach dem BFH-Urteil vom 17.11.2004, <lxprod:doknr-verw linkend="HT0819663">X R 62/01</lxprod:doknr-verw>, <lxprod:doknr-verw linkend="HT0819663">BStBl 2005
+II S. 336</lxprod:doknr-verw>, kann die Besteuerung der Mieteinnahmen, der
+Zinseinnahmen oder des Arbeitslohns aus solchen Verträgen
+zwischen Ehegatten beim Empfänger-Ehegatten den Wertungen
+des Gesetzgebers zuwiderlaufen. Denn er sieht Eheleute grundsätzlich
+als wirtschaftliche Gemeinschaft (Erwerbsgemeinschaft) an, deren
+steuerliche Belastung sich nach ihrer gemeinsamen finanziellen Leistungsfähigkeit bestimmt.</lxbase:a><lxbase:a>Aus sachlichen Billigkeitsgründen (i.d.R. bereits im
+Festsetzungsverfahren; § 163 AO) sind deshalb beim Empfänger-Ehegatten
+die Einkünfte aus den Austauschverträgen mit dem
+Liebhabereibetriebsinhaber-Ehegatten nicht zu besteuern.</lxbase:a><lxbase:beispiel><lxbase:a><lxbase:fett>Beispiel 2</lxbase:fett></lxbase:a><lxbase:a>Der Liebhabereibetrieb des S (Handel mit Edelsteinen; vgl. Beispiel
+1) wird in von seiner Ehefrau angemieteten Geschäftsräumen
+betrieben. In der gemeinsamen Einkommensteuererklärung
+2005 erklärt die Ehefrau folgende Einkünfte aus
+der Vermietung der Geschäftsräume an ihren Ehemann:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="50*" /><cals:colspec colnum="2" colname="2" colwidth="50*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Mieteinnahmen</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>5.000 Euro</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Schuldzinsen, AfA usw.</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a><lxbase:unterst>./. 3.500
+Euro</lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Einkünfte aus Vermietung und Verpachtung </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.500 Euro</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:fett>Lösung</lxbase:fett></lxbase:a><lxbase:a>Die erklärten Einkünfte aus Vermietung und
+Verpachtung der Ehefrau sind beim Erlass des Einkommensteuerbescheids
+2005 aus sachlichen Billigkeitsgründen nicht anzusetzen.</lxbase:a></lxbase:beispiel><lxbase:a>Sind die Einkünfte aus den Austauschverträgen
+mit dem Liebhabereibetriebsinhaber-Ehegatten negativ, bleibt der
+Verlust daraus abzugsfähig, sofern diese Austauschverträge
+die Voraussetzungen für die steuerliche Anerkennung von Verträgen
+zwischen Ehegatten erfüllen (vgl. dazu R 4.8 Abs. 1 EStR
+2005 sowie die Hinweise dazu). In diesen Fällen dürfen
+spätere Gewinne bzw. Überschüsse nicht
+aus Billigkeitsgründen unbesteuert bleiben.</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Baden-Württemberg</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

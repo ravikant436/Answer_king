@@ -1,0 +1,1927 @@
+{
+    "_comment": "Empty ontology for WebVOWL Editor [Additional Information added by WebVOWL Exporter Version: 1.1.7]",
+    "header": {
+        "languages": [
+            "en"
+        ],
+        "baseIris": [
+            "http://www.w3.org/2000/01/rdf-schema"
+        ],
+        "iri": "http://visualdataweb.org/newOntology/",
+        "title": {
+            "en": "New ontology"
+        },
+        "description": {
+            "en": "New ontology description"
+        }
+    },
+    "namespace": [],
+    "settings": {
+        "global": {
+            "zoom": "0.69",
+            "translation": [
+                182.71,
+                105.99
+            ],
+            "paused": true
+        },
+        "gravity": {
+            "classDistance": 200,
+            "datatypeDistance": 120
+        },
+        "filter": {
+            "checkBox": [
+                {
+                    "id": "datatypeFilterCheckbox",
+                    "checked": false
+                },
+                {
+                    "id": "objectPropertyFilterCheckbox",
+                    "checked": false
+                },
+                {
+                    "id": "subclassFilterCheckbox",
+                    "checked": false
+                },
+                {
+                    "id": "disjointFilterCheckbox",
+                    "checked": true
+                },
+                {
+                    "id": "setoperatorFilterCheckbox",
+                    "checked": false
+                }
+            ],
+            "degreeSliderValue": "0"
+        },
+        "modes": {
+            "checkBox": [
+                {
+                    "id": "pickandpinModuleCheckbox",
+                    "checked": false
+                },
+                {
+                    "id": "nodescalingModuleCheckbox",
+                    "checked": true
+                },
+                {
+                    "id": "compactnotationModuleCheckbox",
+                    "checked": false
+                },
+                {
+                    "id": "colorexternalsModuleCheckbox",
+                    "checked": true
+                }
+            ],
+            "colorSwitchState": false
+        }
+    },
+    "class": [
+        {
+            "id": "Class1",
+            "type": "owl:Class"
+        },
+        {
+            "id": "Class2",
+            "type": "owl:Class"
+        },
+        {
+            "id": "Class3",
+            "type": "owl:Class"
+        },
+        {
+            "id": "notwendigkeit",
+            "type": "owl:Class"
+        },
+        {
+            "id": "qualit\u00e4t einer sache",
+            "type": "owl:Class"
+        },
+        {
+            "id": "materieller besitz",
+            "type": "owl:Class"
+        },
+        {
+            "id": "bewirtschafter",
+            "type": "owl:Class"
+        },
+        {
+            "id": "aufeinanderfolge",
+            "type": "owl:Class"
+        },
+        {
+            "id": "bundesfinanzhof",
+            "type": "owl:Class"
+        },
+        {
+            "id": "handelsvertreter",
+            "type": "owl:Class"
+        },
+        {
+            "id": "\u00fcbernahme",
+            "type": "owl:Class"
+        },
+        {
+            "id": "inhaber",
+            "type": "owl:Class"
+        },
+        {
+            "id": "schuld",
+            "type": "owl:Class"
+        },
+        {
+            "id": "eigentum",
+            "type": "owl:Class"
+        },
+        {
+            "id": "berufst\u00e4tiger arbeitsverh\u00e4ltnis",
+            "type": "owl:Class"
+        },
+        {
+            "id": "wirtschafter",
+            "type": "owl:Class"
+        },
+        {
+            "id": "handelsrecht",
+            "type": "owl:Class"
+        },
+        {
+            "id": "gesellschaftsrecht",
+            "type": "owl:Class"
+        },
+        {
+            "id": "geschehen",
+            "type": "owl:Class"
+        },
+        {
+            "id": "amt",
+            "type": "owl:Class"
+        },
+        {
+            "id": "steuerung",
+            "type": "owl:Class"
+        },
+        {
+            "id": "verwendungsattribut",
+            "type": "owl:Class"
+        },
+        {
+            "id": "abkommen",
+            "type": "owl:Class"
+        },
+        {
+            "id": "\u00fcbermittlung",
+            "type": "owl:Class"
+        },
+        {
+            "id": "aufforderung",
+            "type": "owl:Class"
+        },
+        {
+            "id": "vorschrift",
+            "type": "owl:Class"
+        },
+        {
+            "id": "prozess",
+            "type": "owl:Class"
+        },
+        {
+            "id": "nachfolge",
+            "type": "owl:Class"
+        },
+        {
+            "id": "pacht",
+            "type": "owl:Class"
+        },
+        {
+            "id": "teil",
+            "type": "owl:Class"
+        },
+        {
+            "id": "steuergesetz",
+            "type": "owl:Class"
+        },
+        {
+            "id": "information",
+            "type": "owl:Class"
+        },
+        {
+            "id": "staatliche institution",
+            "type": "owl:Class"
+        },
+        {
+            "id": "berufst\u00e4tiger",
+            "type": "owl:Class"
+        },
+        {
+            "id": "ver\u00e4nderung",
+            "type": "owl:Class"
+        },
+        {
+            "id": "beweis",
+            "type": "owl:Class"
+        },
+        {
+            "id": "steuer",
+            "type": "owl:Class"
+        },
+        {
+            "id": "recht inhalt",
+            "type": "owl:Class"
+        },
+        {
+            "id": "pflicht",
+            "type": "owl:Class"
+        },
+        {
+            "id": "selbstst\u00e4ndiger",
+            "type": "owl:Class"
+        },
+        {
+            "id": "struktur",
+            "type": "owl:Class"
+        },
+        {
+            "id": "steuerpflichtiger",
+            "type": "owl:Class"
+        },
+        {
+            "id": "lohnsteuer",
+            "type": "owl:Class"
+        },
+        {
+            "id": "besitz",
+            "type": "owl:Class"
+        },
+        {
+            "id": "oberfinanzdirektion",
+            "type": "owl:Class"
+        },
+        {
+            "id": "inhaberschaft",
+            "type": "owl:Class"
+        },
+        {
+            "id": "handel",
+            "type": "owl:Class"
+        },
+        {
+            "id": "erbbaurecht",
+            "type": "owl:Class"
+        },
+        {
+            "id": "vorfall",
+            "type": "owl:Class"
+        },
+        {
+            "id": "finanzgericht",
+            "type": "owl:Class"
+        },
+        {
+            "id": "patiens",
+            "type": "owl:Class"
+        },
+        {
+            "id": "mieter",
+            "type": "owl:Class"
+        },
+        {
+            "id": "regel",
+            "type": "owl:Class"
+        },
+        {
+            "id": "juristischer text",
+            "type": "owl:Class"
+        },
+        {
+            "id": "berechtigung",
+            "type": "owl:Class"
+        },
+        {
+            "id": "finanzamt",
+            "type": "owl:Class"
+        },
+        {
+            "id": "verm\u00f6gen",
+            "type": "owl:Class"
+        },
+        {
+            "id": "vertrag",
+            "type": "owl:Class"
+        },
+        {
+            "id": "einkommensteuer",
+            "type": "owl:Class"
+        },
+        {
+            "id": "recht",
+            "type": "owl:Class"
+        },
+        {
+            "id": "berufst\u00e4tiger land- und viehwirtschaft",
+            "type": "owl:Class"
+        },
+        {
+            "id": "arbeitsvertrag",
+            "type": "owl:Class"
+        },
+        {
+            "id": "gesetz inhalt",
+            "type": "owl:Class"
+        },
+        {
+            "id": "rechnungswesen",
+            "type": "owl:Class"
+        },
+        {
+            "id": "gesetz",
+            "type": "owl:Class"
+        },
+        {
+            "id": "gesellschaftsvertrag",
+            "type": "owl:Class"
+        },
+        {
+            "id": "p\u00e4chter",
+            "type": "owl:Class"
+        },
+        {
+            "id": "ding",
+            "type": "owl:Class"
+        },
+        {
+            "id": "mitteilung",
+            "type": "owl:Class"
+        },
+        {
+            "id": "vertreter",
+            "type": "owl:Class"
+        },
+        {
+            "id": "mensch",
+            "type": "owl:Class"
+        },
+        {
+            "id": "vereinbarung",
+            "type": "owl:Class"
+        },
+        {
+            "id": "umsatz",
+            "type": "owl:Class"
+        },
+        {
+            "id": "sturz",
+            "type": "owl:Class"
+        },
+        {
+            "id": "fahrzeugteil",
+            "type": "owl:Class"
+        },
+        {
+            "id": "erbfolge",
+            "type": "owl:Class"
+        },
+        {
+            "id": "buchf\u00fchrung",
+            "type": "owl:Class"
+        },
+        {
+            "id": "ereignis",
+            "type": "owl:Class"
+        },
+        {
+            "id": "betriebsverm\u00f6gen",
+            "type": "owl:Class"
+        },
+        {
+            "id": "privatverm\u00f6gen",
+            "type": "owl:Class"
+        },
+        {
+            "id": "nachweis",
+            "type": "owl:Class"
+        },
+        {
+            "id": "agens",
+            "type": "owl:Class"
+        },
+        {
+            "id": "berufst\u00e4tiger t\u00e4tigkeit",
+            "type": "owl:Class"
+        },
+        {
+            "id": "verp\u00e4chter",
+            "type": "owl:Class"
+        },
+        {
+            "id": "betriebsinhaber",
+            "type": "owl:Class"
+        },
+        {
+            "id": "kirchensteuer",
+            "type": "owl:Class"
+        },
+        {
+            "id": "besitzwechsel",
+            "type": "owl:Class"
+        },
+        {
+            "id": "gericht",
+            "type": "owl:Class"
+        }
+    ],
+    "classAttribute": [
+        {
+            "id": "Class1",
+            "iri": "http://visualdataweb.org/newOntology/Class1",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Ravi"
+        },
+        {
+            "id": "Class2",
+            "iri": "http://visualdataweb.org/newOntology/Class2",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Madhur"
+        },
+        {
+            "id": "Class3",
+            "iri": "http://visualdataweb.org/newOntology/Class3",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Amrish"
+        },
+        {
+            "id": "notwendigkeit",
+            "iri": "http://visualdataweb.org/newOntology/notwendigkeit",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Notwendigkeit"
+        },
+        {
+            "id": "qualit\u00e4t einer sache",
+            "iri": "http://visualdataweb.org/newOntology/qualit\u00e4t einer sache",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Qualit\u00e4t einer Sache"
+        },
+        {
+            "id": "materieller besitz",
+            "iri": "http://visualdataweb.org/newOntology/materieller besitz",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "materieller Besitz"
+        },
+        {
+            "id": "bewirtschafter",
+            "iri": "http://visualdataweb.org/newOntology/bewirtschafter",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Bewirtschafter"
+        },
+        {
+            "id": "aufeinanderfolge",
+            "iri": "http://visualdataweb.org/newOntology/aufeinanderfolge",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Aufeinanderfolge"
+        },
+        {
+            "id": "bundesfinanzhof",
+            "iri": "http://visualdataweb.org/newOntology/bundesfinanzhof",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Bundesfinanzhof"
+        },
+        {
+            "id": "handelsvertreter",
+            "iri": "http://visualdataweb.org/newOntology/handelsvertreter",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Handelsvertreter"
+        },
+        {
+            "id": "\u00fcbernahme",
+            "iri": "http://visualdataweb.org/newOntology/\u00fcbernahme",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_\u00dcbernahme"
+        },
+        {
+            "id": "inhaber",
+            "iri": "http://visualdataweb.org/newOntology/inhaber",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Inhaber"
+        },
+        {
+            "id": "schuld",
+            "iri": "http://visualdataweb.org/newOntology/schuld",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Schuld"
+        },
+        {
+            "id": "eigentum",
+            "iri": "http://visualdataweb.org/newOntology/eigentum",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Eigentum"
+        },
+        {
+            "id": "berufst\u00e4tiger arbeitsverh\u00e4ltnis",
+            "iri": "http://visualdataweb.org/newOntology/berufst\u00e4tiger arbeitsverh\u00e4ltnis",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Berufst\u00e4tiger Arbeitsverh\u00e4ltnis"
+        },
+        {
+            "id": "wirtschafter",
+            "iri": "http://visualdataweb.org/newOntology/wirtschafter",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Wirtschafter"
+        },
+        {
+            "id": "handelsrecht",
+            "iri": "http://visualdataweb.org/newOntology/handelsrecht",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Handelsrecht"
+        },
+        {
+            "id": "gesellschaftsrecht",
+            "iri": "http://visualdataweb.org/newOntology/gesellschaftsrecht",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Gesellschaftsrecht"
+        },
+        {
+            "id": "geschehen",
+            "iri": "http://visualdataweb.org/newOntology/geschehen",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Geschehen"
+        },
+        {
+            "id": "amt",
+            "iri": "http://visualdataweb.org/newOntology/amt",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Amt"
+        },
+        {
+            "id": "steuerung",
+            "iri": "http://visualdataweb.org/newOntology/steuerung",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Steuerung"
+        },
+        {
+            "id": "verwendungsattribut",
+            "iri": "http://visualdataweb.org/newOntology/verwendungsattribut",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Verwendungsattribut"
+        },
+        {
+            "id": "abkommen",
+            "iri": "http://visualdataweb.org/newOntology/abkommen",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Abkommen"
+        },
+        {
+            "id": "\u00fcbermittlung",
+            "iri": "http://visualdataweb.org/newOntology/\u00fcbermittlung",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "\u00dcbermittlung"
+        },
+        {
+            "id": "aufforderung",
+            "iri": "http://visualdataweb.org/newOntology/aufforderung",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Aufforderung"
+        },
+        {
+            "id": "vorschrift",
+            "iri": "http://visualdataweb.org/newOntology/vorschrift",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Vorschrift"
+        },
+        {
+            "id": "prozess",
+            "iri": "http://visualdataweb.org/newOntology/prozess",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Prozess"
+        },
+        {
+            "id": "nachfolge",
+            "iri": "http://visualdataweb.org/newOntology/nachfolge",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Nachfolge"
+        },
+        {
+            "id": "pacht",
+            "iri": "http://visualdataweb.org/newOntology/pacht",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Pacht"
+        },
+        {
+            "id": "teil",
+            "iri": "http://visualdataweb.org/newOntology/teil",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Teil"
+        },
+        {
+            "id": "steuergesetz",
+            "iri": "http://visualdataweb.org/newOntology/steuergesetz",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Steuergesetz"
+        },
+        {
+            "id": "information",
+            "iri": "http://visualdataweb.org/newOntology/information",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Information"
+        },
+        {
+            "id": "staatliche institution",
+            "iri": "http://visualdataweb.org/newOntology/staatliche institution",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "staatliche Institution"
+        },
+        {
+            "id": "berufst\u00e4tiger",
+            "iri": "http://visualdataweb.org/newOntology/berufst\u00e4tiger",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Berufst\u00e4tiger"
+        },
+        {
+            "id": "ver\u00e4nderung",
+            "iri": "http://visualdataweb.org/newOntology/ver\u00e4nderung",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Ver\u00e4nderung"
+        },
+        {
+            "id": "beweis",
+            "iri": "http://visualdataweb.org/newOntology/beweis",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Beweis"
+        },
+        {
+            "id": "steuer",
+            "iri": "http://visualdataweb.org/newOntology/steuer",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Steuer"
+        },
+        {
+            "id": "recht inhalt",
+            "iri": "http://visualdataweb.org/newOntology/recht inhalt",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Recht Inhalt"
+        },
+        {
+            "id": "pflicht",
+            "iri": "http://visualdataweb.org/newOntology/pflicht",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Pflicht"
+        },
+        {
+            "id": "selbstst\u00e4ndiger",
+            "iri": "http://visualdataweb.org/newOntology/selbstst\u00e4ndiger",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Selbstst\u00e4ndiger"
+        },
+        {
+            "id": "struktur",
+            "iri": "http://visualdataweb.org/newOntology/struktur",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Struktur"
+        },
+        {
+            "id": "steuerpflichtiger",
+            "iri": "http://visualdataweb.org/newOntology/steuerpflichtiger",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Steuerpflichtiger"
+        },
+        {
+            "id": "lohnsteuer",
+            "iri": "http://visualdataweb.org/newOntology/lohnsteuer",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Lohnsteuer"
+        },
+        {
+            "id": "besitz",
+            "iri": "http://visualdataweb.org/newOntology/besitz",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Besitz"
+        },
+        {
+            "id": "oberfinanzdirektion",
+            "iri": "http://visualdataweb.org/newOntology/oberfinanzdirektion",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Oberfinanzdirektion"
+        },
+        {
+            "id": "inhaberschaft",
+            "iri": "http://visualdataweb.org/newOntology/inhaberschaft",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Inhaberschaft"
+        },
+        {
+            "id": "handel",
+            "iri": "http://visualdataweb.org/newOntology/handel",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Handel"
+        },
+        {
+            "id": "erbbaurecht",
+            "iri": "http://visualdataweb.org/newOntology/erbbaurecht",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Erbbaurecht"
+        },
+        {
+            "id": "vorfall",
+            "iri": "http://visualdataweb.org/newOntology/vorfall",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Vorfall"
+        },
+        {
+            "id": "finanzgericht",
+            "iri": "http://visualdataweb.org/newOntology/finanzgericht",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Finanzgericht"
+        },
+        {
+            "id": "patiens",
+            "iri": "http://visualdataweb.org/newOntology/patiens",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Patiens"
+        },
+        {
+            "id": "mieter",
+            "iri": "http://visualdataweb.org/newOntology/mieter",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Mieter"
+        },
+        {
+            "id": "regel",
+            "iri": "http://visualdataweb.org/newOntology/regel",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Regel"
+        },
+        {
+            "id": "juristischer text",
+            "iri": "http://visualdataweb.org/newOntology/juristischer text",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "juristischer Text"
+        },
+        {
+            "id": "berechtigung",
+            "iri": "http://visualdataweb.org/newOntology/berechtigung",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Berechtigung"
+        },
+        {
+            "id": "finanzamt",
+            "iri": "http://visualdataweb.org/newOntology/finanzamt",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Finanzamt"
+        },
+        {
+            "id": "verm\u00f6gen",
+            "iri": "http://visualdataweb.org/newOntology/verm\u00f6gen",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Verm\u00f6gen"
+        },
+        {
+            "id": "vertrag",
+            "iri": "http://visualdataweb.org/newOntology/vertrag",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Vertrag"
+        },
+        {
+            "id": "einkommensteuer",
+            "iri": "http://visualdataweb.org/newOntology/einkommensteuer",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Einkommensteuer"
+        },
+        {
+            "id": "recht",
+            "iri": "http://visualdataweb.org/newOntology/recht",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Recht"
+        },
+        {
+            "id": "berufst\u00e4tiger land- und viehwirtschaft",
+            "iri": "http://visualdataweb.org/newOntology/berufst\u00e4tiger land- und viehwirtschaft",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Berufst\u00e4tiger Land- und Viehwirtschaft"
+        },
+        {
+            "id": "arbeitsvertrag",
+            "iri": "http://visualdataweb.org/newOntology/arbeitsvertrag",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Arbeitsvertrag"
+        },
+        {
+            "id": "gesetz inhalt",
+            "iri": "http://visualdataweb.org/newOntology/gesetz inhalt",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Gesetz Inhalt"
+        },
+        {
+            "id": "rechnungswesen",
+            "iri": "http://visualdataweb.org/newOntology/rechnungswesen",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Rechnungswesen"
+        },
+        {
+            "id": "gesetz",
+            "iri": "http://visualdataweb.org/newOntology/gesetz",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Gesetz"
+        },
+        {
+            "id": "gesellschaftsvertrag",
+            "iri": "http://visualdataweb.org/newOntology/gesellschaftsvertrag",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Gesellschaftsvertrag"
+        },
+        {
+            "id": "p\u00e4chter",
+            "iri": "http://visualdataweb.org/newOntology/p\u00e4chter",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_P\u00e4chter"
+        },
+        {
+            "id": "ding",
+            "iri": "http://visualdataweb.org/newOntology/ding",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Ding"
+        },
+        {
+            "id": "mitteilung",
+            "iri": "http://visualdataweb.org/newOntology/mitteilung",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Mitteilung"
+        },
+        {
+            "id": "vertreter",
+            "iri": "http://visualdataweb.org/newOntology/vertreter",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Vertreter"
+        },
+        {
+            "id": "mensch",
+            "iri": "http://visualdataweb.org/newOntology/mensch",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Mensch"
+        },
+        {
+            "id": "vereinbarung",
+            "iri": "http://visualdataweb.org/newOntology/vereinbarung",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Vereinbarung"
+        },
+        {
+            "id": "umsatz",
+            "iri": "http://visualdataweb.org/newOntology/umsatz",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Umsatz"
+        },
+        {
+            "id": "sturz",
+            "iri": "http://visualdataweb.org/newOntology/sturz",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Sturz"
+        },
+        {
+            "id": "fahrzeugteil",
+            "iri": "http://visualdataweb.org/newOntology/fahrzeugteil",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Fahrzeugteil"
+        },
+        {
+            "id": "erbfolge",
+            "iri": "http://visualdataweb.org/newOntology/erbfolge",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Erbfolge"
+        },
+        {
+            "id": "buchf\u00fchrung",
+            "iri": "http://visualdataweb.org/newOntology/buchf\u00fchrung",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Buchf\u00fchrung"
+        },
+        {
+            "id": "ereignis",
+            "iri": "http://visualdataweb.org/newOntology/ereignis",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Ereignis"
+        },
+        {
+            "id": "betriebsverm\u00f6gen",
+            "iri": "http://visualdataweb.org/newOntology/betriebsverm\u00f6gen",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Betriebsverm\u00f6gen"
+        },
+        {
+            "id": "privatverm\u00f6gen",
+            "iri": "http://visualdataweb.org/newOntology/privatverm\u00f6gen",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Privatverm\u00f6gen"
+        },
+        {
+            "id": "nachweis",
+            "iri": "http://visualdataweb.org/newOntology/nachweis",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Nachweis"
+        },
+        {
+            "id": "agens",
+            "iri": "http://visualdataweb.org/newOntology/agens",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Agens"
+        },
+        {
+            "id": "berufst\u00e4tiger t\u00e4tigkeit",
+            "iri": "http://visualdataweb.org/newOntology/berufst\u00e4tiger t\u00e4tigkeit",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Berufst\u00e4tiger T\u00e4tigkeit"
+        },
+        {
+            "id": "verp\u00e4chter",
+            "iri": "http://visualdataweb.org/newOntology/verp\u00e4chter",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Verp\u00e4chter"
+        },
+        {
+            "id": "betriebsinhaber",
+            "iri": "http://visualdataweb.org/newOntology/betriebsinhaber",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Betriebsinhaber"
+        },
+        {
+            "id": "kirchensteuer",
+            "iri": "http://visualdataweb.org/newOntology/kirchensteuer",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "XXXX_Kirchensteuer"
+        },
+        {
+            "id": "besitzwechsel",
+            "iri": "http://visualdataweb.org/newOntology/besitzwechsel",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Besitzwechsel"
+        },
+        {
+            "id": "gericht",
+            "iri": "http://visualdataweb.org/newOntology/gericht",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "Gericht"
+        }
+    ],
+    "property": [
+        {
+            "id": "objectProperty1",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "objectProperty2",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property1",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property2",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property3",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property4",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property5",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property6",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property7",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property8",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property9",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property10",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property11",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property12",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property13",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property14",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property15",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property16",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property17",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property18",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property19",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property20",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property21",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property22",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property23",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property24",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property25",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property26",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property27",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property28",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property29",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property30",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property31",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property32",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property33",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property34",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property35",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property36",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property37",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property38",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property39",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property40",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property41",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property42",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property43",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property44",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property45",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property46",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property47",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property48",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property49",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property50",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property51",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property52",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property53",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property54",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property55",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property56",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property57",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property58",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property59",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property60",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property61",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property62",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property63",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property64",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property65",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property66",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property67",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property68",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property69",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property70",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property71",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property72",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property73",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property74",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property75",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property76",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property77",
+            "type": "owl:ObjectProperty"
+        },
+        {
+            "id": "object_property78",
+            "type": "owl:ObjectProperty"
+        }
+    ],
+    "propertyAttribute": [
+        {
+            "id": "objectProperty1",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "Class1",
+            "range": "Class3"
+        },
+        {
+            "id": "objectProperty2",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "Class2",
+            "range": "Class3"
+        },
+        {
+            "id": "object_property1",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "aufforderung",
+            "range": "mitteilung"
+        },
+        {
+            "id": "object_property2",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "mitteilung",
+            "range": "\u00fcbermittlung"
+        },
+        {
+            "id": "object_property3",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "\u00fcbermittlung",
+            "range": "prozess"
+        },
+        {
+            "id": "object_property4",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "prozess",
+            "range": "ereignis"
+        },
+        {
+            "id": "object_property5",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "umsatz",
+            "range": "ver\u00e4nderung"
+        },
+        {
+            "id": "object_property6",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "ver\u00e4nderung",
+            "range": "geschehen"
+        },
+        {
+            "id": "object_property7",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "geschehen",
+            "range": "ereignis"
+        },
+        {
+            "id": "object_property8",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "mitteilung",
+            "range": "information"
+        },
+        {
+            "id": "object_property9",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "nachweis",
+            "range": "beweis"
+        },
+        {
+            "id": "object_property10",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "beweis",
+            "range": "information"
+        },
+        {
+            "id": "object_property11",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "sturz",
+            "range": "vorfall"
+        },
+        {
+            "id": "object_property12",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "vorfall",
+            "range": "geschehen"
+        },
+        {
+            "id": "object_property13",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "oberfinanzdirektion",
+            "range": "finanzamt"
+        },
+        {
+            "id": "object_property14",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "finanzamt",
+            "range": "amt"
+        },
+        {
+            "id": "object_property15",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "amt",
+            "range": "staatliche institution"
+        },
+        {
+            "id": "object_property16",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "bundesfinanzhof",
+            "range": "finanzgericht"
+        },
+        {
+            "id": "object_property17",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "finanzgericht",
+            "range": "gericht"
+        },
+        {
+            "id": "object_property18",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "gericht",
+            "range": "staatliche institution"
+        },
+        {
+            "id": "object_property19",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "buchf\u00fchrung",
+            "range": "rechnungswesen"
+        },
+        {
+            "id": "object_property20",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "rechnungswesen",
+            "range": "handel"
+        },
+        {
+            "id": "object_property21",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "handel",
+            "range": "besitzwechsel"
+        },
+        {
+            "id": "object_property22",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "besitzwechsel",
+            "range": "besitz"
+        },
+        {
+            "id": "object_property23",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "verm\u00f6gen",
+            "range": "materieller besitz"
+        },
+        {
+            "id": "object_property24",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "materieller besitz",
+            "range": "besitz"
+        },
+        {
+            "id": "object_property25",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "betriebsverm\u00f6gen",
+            "range": "verm\u00f6gen"
+        },
+        {
+            "id": "object_property26",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "eigentum",
+            "range": "materieller besitz"
+        },
+        {
+            "id": "object_property27",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "privatverm\u00f6gen",
+            "range": "verm\u00f6gen"
+        },
+        {
+            "id": "object_property28",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "\u00fcbernahme",
+            "range": "besitzwechsel"
+        },
+        {
+            "id": "object_property29",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "pacht",
+            "range": "inhaberschaft"
+        },
+        {
+            "id": "object_property30",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "inhaberschaft",
+            "range": "besitz"
+        },
+        {
+            "id": "object_property31",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "erbfolge",
+            "range": "nachfolge"
+        },
+        {
+            "id": "object_property32",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "nachfolge",
+            "range": "aufeinanderfolge"
+        },
+        {
+            "id": "object_property33",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "aufeinanderfolge",
+            "range": "struktur"
+        },
+        {
+            "id": "object_property34",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "struktur",
+            "range": "ding"
+        },
+        {
+            "id": "object_property35",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "steuer",
+            "range": "steuerung"
+        },
+        {
+            "id": "object_property36",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "steuerung",
+            "range": "fahrzeugteil"
+        },
+        {
+            "id": "object_property37",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "fahrzeugteil",
+            "range": "teil"
+        },
+        {
+            "id": "object_property38",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "teil",
+            "range": "ding"
+        },
+        {
+            "id": "object_property39",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "handelsvertreter",
+            "range": "vertreter"
+        },
+        {
+            "id": "object_property40",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "vertreter",
+            "range": "selbstst\u00e4ndiger"
+        },
+        {
+            "id": "object_property41",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "selbstst\u00e4ndiger",
+            "range": "berufst\u00e4tiger arbeitsverh\u00e4ltnis"
+        },
+        {
+            "id": "object_property42",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "berufst\u00e4tiger arbeitsverh\u00e4ltnis",
+            "range": "berufst\u00e4tiger"
+        },
+        {
+            "id": "object_property43",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "bewirtschafter",
+            "range": "wirtschafter"
+        },
+        {
+            "id": "object_property44",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "wirtschafter",
+            "range": "berufst\u00e4tiger land- und viehwirtschaft"
+        },
+        {
+            "id": "object_property45",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "berufst\u00e4tiger land- und viehwirtschaft",
+            "range": "berufst\u00e4tiger t\u00e4tigkeit"
+        },
+        {
+            "id": "object_property46",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "berufst\u00e4tiger t\u00e4tigkeit",
+            "range": "berufst\u00e4tiger"
+        },
+        {
+            "id": "object_property47",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "steuerpflichtiger",
+            "range": "patiens"
+        },
+        {
+            "id": "object_property48",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "patiens",
+            "range": "mensch"
+        },
+        {
+            "id": "object_property49",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "verp\u00e4chter",
+            "range": "agens"
+        },
+        {
+            "id": "object_property50",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "agens",
+            "range": "mensch"
+        },
+        {
+            "id": "object_property51",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "p\u00e4chter",
+            "range": "mieter"
+        },
+        {
+            "id": "object_property52",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "mieter",
+            "range": "agens"
+        },
+        {
+            "id": "object_property53",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "betriebsinhaber",
+            "range": "inhaber"
+        },
+        {
+            "id": "object_property54",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "inhaber",
+            "range": "mensch"
+        },
+        {
+            "id": "object_property55",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "steuergesetz",
+            "range": "gesetz inhalt"
+        },
+        {
+            "id": "object_property56",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "gesetz inhalt",
+            "range": "gesetz"
+        },
+        {
+            "id": "object_property57",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "gesetz",
+            "range": "juristischer text"
+        },
+        {
+            "id": "object_property58",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "erbbaurecht",
+            "range": "recht inhalt"
+        },
+        {
+            "id": "object_property59",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "recht inhalt",
+            "range": "recht"
+        },
+        {
+            "id": "object_property60",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "recht",
+            "range": "juristischer text"
+        },
+        {
+            "id": "object_property61",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "arbeitsvertrag",
+            "range": "vertrag"
+        },
+        {
+            "id": "object_property62",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "vertrag",
+            "range": "abkommen"
+        },
+        {
+            "id": "object_property63",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "abkommen",
+            "range": "juristischer text"
+        },
+        {
+            "id": "object_property64",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "vorschrift",
+            "range": "juristischer text"
+        },
+        {
+            "id": "object_property65",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "handelsrecht",
+            "range": "recht"
+        },
+        {
+            "id": "object_property66",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "gesellschaftsrecht",
+            "range": "recht"
+        },
+        {
+            "id": "object_property67",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "recht",
+            "range": "berechtigung"
+        },
+        {
+            "id": "object_property68",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "berechtigung",
+            "range": "qualit\u00e4t einer sache"
+        },
+        {
+            "id": "object_property69",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "schuld",
+            "range": "pflicht"
+        },
+        {
+            "id": "object_property70",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "pflicht",
+            "range": "notwendigkeit"
+        },
+        {
+            "id": "object_property71",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "notwendigkeit",
+            "range": "verwendungsattribut"
+        },
+        {
+            "id": "object_property72",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "verwendungsattribut",
+            "range": "qualit\u00e4t einer sache"
+        },
+        {
+            "id": "object_property73",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "lohnsteuer",
+            "range": "einkommensteuer"
+        },
+        {
+            "id": "object_property74",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "kirchensteuer",
+            "range": "einkommensteuer"
+        },
+        {
+            "id": "object_property75",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "abkommen",
+            "range": "vereinbarung"
+        },
+        {
+            "id": "object_property76",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "vereinbarung",
+            "range": "regel"
+        },
+        {
+            "id": "object_property77",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "gesellschaftsvertrag",
+            "range": "regel"
+        },
+        {
+            "id": "object_property78",
+            "iri": "http://visualdataweb.org/newOntology/hypernym",
+            "baseIri": "http://visualdataweb.org/newOntology/",
+            "label": "hypernym",
+            "domain": "vorschrift",
+            "range": "regel"
+        }
+    ]
+}

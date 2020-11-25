@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0061693" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Münster</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2227 - 76 - St 11 - 31</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2227 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1985-03-28" /></lxbase:daten><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:21</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1985" /></lxbase:jahre><lxbase:zitate><lxbase:alt-zitate><lxbase:alt-zitat>BdF Schreiben <lxprod:doknr-verw linkend="HT0061136">IV B 1 - S-2253 - 139/84</lxprod:doknr-verw> v.
+15. 11. 1984 <lxprod:doknr-verw linkend="HT0061136">BStBl
+I 561</lxprod:doknr-verw></lxbase:alt-zitat></lxbase:alt-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Einkommensteuerrechtliche Behandlung des Nießbrauchs
+und anderer Nutzungsrechte bei Einkünften aus Vermietung
+und Verpachtung<lxbase:za />Bezug:</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Rundverfügung vom 17.
+12. 1984 <lxbase:az normform="S2227 76St1131" manuell="nein">S-2227
+- 76 - St 11 - 31</lxbase:az>, ESt-Nr. 104/1984, zu § 21
+EStG</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Rundverfügung vom 12. 3. 1985 <lxbase:az normform="S222776St 1131" manuell="nein">S-2227 - 76 - St
+11 - 31</lxbase:az>, ESt-Nr. 16/1985, zu § 21 EStG </lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D006169300001"><lxbase:a>1. Unentgeltlicher Zuwendungsnießbrauch </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D006169300002"><lxbase:a>2. Entgeltlich
+bestellter Zuwendungsnießbrauch </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D006169300003"><lxbase:a>3. Teilweise
+entgeltlich bestellter Nießbrauch </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D006169300004"><lxbase:a>4. Vorbehaltsnießbrauch / Vorbehaltswohnrecht </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D006169300005"><lxbase:a>5. Obligatorisches "Zuwendungs"-Nutzungsrecht </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D006169300006"><lxbase:a>6. Nicht dinglich
+gesichertes "Vorbehalts"-Wohnrecht </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D006169300007"><lxbase:a>7. Vorbehaltsnießbrauch
+bei entgeltlicher Grundstücksübertragung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:a>Ich übersende hiermit eine Reihe von Beispielsfällen
+zur einkommensteuerrechtlichen Behandlung des Nießbrauchs
+und anderer Nutzungsrechte nach dem Nießbraucherlaß vom
+15. 11. 1984, <lxprod:doknr-verw linkend="HT0061136">BStBl
+1984 I S. 561 ff</lxprod:doknr-verw>. Die Beispielsfälle sind als
+Arbeitshilfe für die Veranlagungsbezirke gedacht. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D006169300001">1. Unentgeltlicher Zuwendungsnießbrauch </lxbase:ueberschrift><lxbase:a>1.1 Karl Reich (R.) hat seiner minderjährigen Tochter
+Nadine (N.) am 31. 12. 1979 für 10 Jahre den Bruttonießbrauch
+an zwei fremdvermieteten Mietwohngrundstücken bestellt.
+Das Amtsgericht hatte die Bestellung eines Pflegers zum Abschluß des
+Vertrages abgelehnt. Der Nießbrauch ist im Grundbuch eingetragen. </lxbase:a><lxbase:a>Die Mieteinnahmen von jährlich 100.000 DM wurden von
+den Mietern auf ein Konto der N. eingezahlt. Die Kosten für
+die Grundstücke hat R. allein getragen (jährlich
+jeweils einschließlich des größeren Erhaltungsaufwands
+und der AfA 50.000 DM). Die ESt-Veranlagungen 1982 und 1983 des
+R. und der N. stehen unter VdN. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Der Nießbrauch ist trotz fehlender Pflegerbestellung
+steuerlich anzuerkennen (Tz. 4). </lxbase:a><lxbase:a>ESt-Veranlagungen 1982 und 1983 </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="59*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:colspec colnum="3" colname="3" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>R.</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>N.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Einnahmen</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>aus VuV</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>0 DM (Tz 23)</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>100.000 DM (Tz 10 ff)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Werbungskosten</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>50.000 DM +</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>0 DM (Tz 19 - 21)</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Einkünfte</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>- 50.000 DM</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>100.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>+ Tz 64 i. V. m. dem Erlaß des FinM NRW vom
+25. 5. 1981 <lxprod:doknr-verw linkend="HT0068577">S-2190 - 12 - V B 1</lxprod:doknr-verw> (= Rdvfg. vom 29. 6. 1981
+<lxbase:az normform="S2227101St1131" manuell="nein">S-2227 - 101 - St 11 - 31</lxbase:az>, ESt-Nr. 59/1981) und Erlasse
+des FinM NRW vom 15. 1. und 27. 8. 1982 <lxbase:az normform="S219012VB1" manuell="nein">S-2190 - 12 - V B 1</lxbase:az> (= Rdvfgen
+vom 17. 2. und 11. 10. 1982 <lxbase:az normform="S2227101St1131" manuell="nein">S-2227 - 101 - St 11 - 31</lxbase:az>, ESt-Nrn.
+16/1982 und 104/1982)</lxbase:a><lxbase:a>ESt-Veranlagungen 1984 ff</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="30*" /><cals:colspec colnum="2" colname="2" colwidth="35*" /><cals:colspec colnum="3" colname="3" colwidth="35*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>R.</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>N.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Einnahmen aus VuV</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>0 DM (Tz 23)</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>100.000 DM (Tz 10 ff)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Werbungskosten</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>0 DM (Tz 24)</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>0 DM (Tz 19 - 21)</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>0 DM</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>100.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>1.2 Sachverhaltsvariante (Vertragsänderung hinsichtlich
+der Lastentragung) </lxbase:a><lxbase:a>Durch notariellen Vertrag vom 2. 1. 1985 vereinbaren R. und N.,
+daß N. ab dem 1. 1. 1984 sämtliche Kosten für
+die Grundstücke zu tragen hat. Gleichzeitig überträgt
+R. seiner Tochter weiteres Vermögen. Bei der Vertragsänderung
+hat ein Ergänzungspfleger mitgewirkt; das Vormundschaftsgericht
+hat der Änderung zugestimmt. Vertragsgemäß erstattet
+N. ihrem Vater in 1985 die für 1984 angefallenen Kosten
+(ausschließlich AfA) in Höhe von 40.000 DM. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die Änderung des Nießbrauchvertrages ist zivilrechtlich
+wirksam. Das Kind war durch einen Ergänzungspfleger vertreten
+(§ 1909 Abs. 1 BGB); die vormundschaftsgerichtliche Genehmigung
+der Vertragsänderung (§ 1821 Abs. 1 Nr. 1 BGB)
+liegt vor. </lxbase:a><lxbase:a>Die Änderung ist steuerlich bereits ab VZ 1984 zu beachten
+(Tz 61). Der Nießbraucher bezahlt bzw. erstattet die Grundstückskosten
+zwar erst 1985; aufgrund der steuerlichen Anerkennung der Rückwirkung
+ist es jedoch möglich, die Aufwendungen bereits bei der
+ESt-Veranlagung 1984 der N. als Werbungskosten zu berücksichtigen
+(Tz 21). </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="72*" /><cals:colspec colnum="2" colname="2" colwidth="28*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>ESt-Veranlagung 1984
+R. wie bei 1.1.</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>ESt-Veranlagung 1984
+N. Einnahmen aus VuV</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>100.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Werbungskosten</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>40.000 DM (Tz 21)</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>60.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>1.3 Sachverhaltsvariante (Ablösung) </lxbase:a><lxbase:a>R. und N. vereinbaren am 2. 1. 1985 unter Einschaltung eines
+Ergänzungspflegers und mit Zustimmung des Vormundschaftsgerichts
+die Ablösung des Nießbrauchs zum 1. 1. 1984 gegen
+Zahlung eines angemessenen Betrages in Höhe von 400.000
+DM durch R. Der Vater überweist der Tochter am 10. 1. 1985 300.000
+DM (400.000 DM abzüglich der von N in 1984 vereinnahmten
+Mieteinnahmen von 100.000 DM). </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Unter Tz 61 fällt auch die Ablösung des Nießbrauchs.
+Aus der Ablösung sind steuerlich - auch für die
+Vergangenheit - selbst dann keine nachteiligen Folgerungen zu ziehen,
+wenn der Nießbrauch bis zum Zeitpunkt der Ablösung
+bzw. bis zu dem Zeitpunkt, auf den die Ablösung vereinbart
+ist (1. 1. 1984), keine 5 Jahre bestanden hat. (Wird die Nießbrauchbestellung
+mit Rückwirkung auf den Zeitpunkt des Vertragsabschlusses
+aufgehoben, muß geprüft werden, ob § 12 Nr.
+2 EStG anzuwenden ist.) </lxbase:a><lxbase:a>Die von N. in 1984 vereinnahmten Mieten sind aufgrund der Regelung
+in Tz 61 bei der ESt-Veranlagung 1984 des R zu erfassen. </lxbase:a><lxbase:a>Die Ablösezahlung kann R. weder bei der ESt-Veranlagung
+1984 (anteilig) noch in 1985 als Werbungskosten abziehen; bei N.
+gehört die Ablösezahlung nicht zu den steuerpflichtigen
+Einkünften (Tz 25). </lxbase:a><lxbase:a>ESt-Veranlagung 1984 </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:colspec colnum="3" colname="3" colwidth="33*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>R.</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>N.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Einnahmen aus VuV</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>100.000 DM</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Werbungskosten</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>50.000 DM</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>50.000 DM</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>1.4 Sachverhaltsvariante (Ablösung) </lxbase:a><lxbase:a>Sachverhalt wie bei 1.3; N. kann die in 1984 vereinnahmten Mieten
+behalten und erhält weiterhin von R. die Bruttomieten. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die ESt-Veranlagungen von R. und N. sind wie unter 1.3 durchzuführen.
+Der Verzicht auf die Rückzahlung der Mieteinnahmen durch
+die ehemalige Nießbraucherin ist bei R als nicht abzugsfähige
+Zuwendung i. S. d. § 12 Nr. 2 EStG zu werten (vgl. auch
+Tz. 25). Sollte für N. bereits eine bestandskräftige
+Veranlagung 1984 vorliegen, kann diese nach § 175 Abs.
+1 Satz 1 Nr. 2 AO berichtigt werden. </lxbase:a><lxbase:a>1.5 Sachverhaltsvariante (fehlende Grundbucheintragung) </lxbase:a><lxbase:a>Sachverhalt wie bei 1.1; der Nießbrauch ist zwar tatsächlich
+durchgeführt worden, aber nicht im Grundbuch eingetragen.
+Bei den unter VdN stehenden ESt-Veranlagungen des R für
+1982 und 1983 ist der Nießbrauch steuerlich nicht anerkannt
+worden. Für N hat das Finanzamt dementsprechend keine Veranlagungen
+durchgeführt. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Es handelt sich um ein wirksam vereinbartes obligatorisches Nutzungsrecht
+i. S. d. Abschn. 4 des Nießbraucherlasses. Die Einnahmen
+aus der Vermietung sind bei allen noch offenen Veranlagungen N.
+zuzurechnen (Tz. 54 b). R kann die von ihm getragenen Aufwendungen
+für die Grundstücke nicht mehr als Werbungskosten
+abziehen (Tz. 54 d). Die in der Lösung zu 1.1 genannten Übergangsregelungen
+zum Werbungskostenabzug beim Eigentümer betreffen nur dingliche
+Nutzungsrechte; sie sind deshalb hier nicht anwendbar. </lxbase:a><lxbase:a>Für N. sind noch Einkommensteuer-Veranlagungen durchzuführen;
+dabei sind Einkünfte aus VuV in Höhe von 100.000
+DM zugrunde zu legen (Tz 54 b). Wegen fehlender tatsächlicher
+Kostentragung entfällt der Werbungskostenabzug. </lxbase:a><lxbase:a>ESt-Veranlagungen 1982 ff </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:colspec colnum="3" colname="3" colwidth="33*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>R.</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>N.</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Einnahmen aus VuV</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>0 DM</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>100.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Werbungskosten</lxbase:a></cals:entry><cals:entry colname="2" colsep="0" rowsep="0"><lxbase:a>0 DM</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" colsep="0"><lxbase:a>0 DM</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>100.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Beachte Übergangsregelung</lxbase:a><lxbase:a>Auf übereinstimmenden Antrag von R. und N. können
+die Tzn 53 und 54 des Nießbraucherlasses vom 23. 11. 1983, <lxprod:doknr-verw linkend="HT0060640">BStBl I S. 508 f</lxprod:doknr-verw>ür
+1982 und 1983 weiter angewendet werden (Tz. 63). In diesem Fall
+sind R. weiterhin die Einnahmen zuzurechnen; er kann weiter die
+Werbungskosten abziehen. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D006169300002">2. Entgeltlich bestellter
+Zuwendungsnießbrauch </lxbase:ueberschrift><lxbase:a>Hermann Sorge (S.), der sich aus Altersgründen nicht
+mehr um die Verwaltung seines Mietwohngrundstücks mit 10
+gleich großen Wohnungen kümmern will, hat durch
+Vertrag vom 20. 12. 1983 mit Wirkung ab 1. 1. 1984 dem Rechtsanwalt
+Gustav Dreher (D.) für 15 Jahre den dinglichen Nießbrauch
+an dem Grundstück bestellt. D. soll laut Vertrag sämtliche
+Aufwendungen für das Grundstück tragen, und zwar über § 1041
+BGB hinaus auch den nicht gewöhnlichen Erhaltungsaufwand.
+D. hat für die Nießbrauchbestellung am 1. 2. 1984 einen
+Betrag von 300.000 DM gezahlt. Bei der Vereinbarung des Entgelts haben
+S. und D. die von S. in den letzten 10 Jahren durchschnittlich erzielten Mietüberschüsse
+von jährlich rund 28.300 DM zugrunde gelegt. </lxbase:a><lxbase:a>S. hat das Grundstück, dessen Herstellungskosten 450.000
+DM betragen haben, normal abgeschrieben. Im Jahre 1982 hat er für
+50.000 DM das Dach des Hauses neu eingedeckt. Die Kosten hat er
+nach § 82b EStDV auf 5 Jahre verteilt. Bei Abgabe seiner
+ESt-Erklärung 1984 hat er den Antrag gestellt, die Einnahmen
+aus der Nießbrauchbestellung auf 15 Jahre zu verteilen. </lxbase:a><lxbase:a>D. nutzt das Grundstück ab dem 1. 1. 1984 wie folgt:</lxbase:a><lxbase:a>7 Wohnungen sind fremdvermietet zu je 600 DM monatlich; 2 Wohnungen nutzt
+D. selbst, davon eine zu eigenen Wohnzwecken und eine für
+seine Anwaltskanzlei. Eine weitere Wohnung hat D. durch Vertrag
+vom 1. 1. 1984 seinem volljährigen Sohn Claus (C.) für
+die Dauer des Studiums, zunächst bis zum 1. 1. 1990 unentgeltlich
+zur Nutzung überlassen. Im Jahre 1984 hat D insgesamt 18.000
+DM an laufenden Kosten einschließlich Reparaturkosten für
+das Haus aufgewendet. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Es handelt sich um ein entgeltlich bestelltes Nießbrauchrecht
+(Tz 7). D. hat die Einnahmen aus den fremdvermieteten Wohnungen
+zu versteuern (Tz. 10 f.). Für die eigene Wohnung und die
+dem Sohn überlassene Wohnung sowie für die als
+Anwaltskanzlei genutzte Wohnung ist bei D. kein Nutzungswert anzusetzen (Tz
+27). </lxbase:a><lxbase:a>Die Kosten des Grundstücks zuzüglich der AfA
+auf das Nießbrauchrecht (Tz 28; 1/15 von 300.000
+DM = 20.000 DM) kann D. insoweit als Werbungskosten abziehen
+(Tz 29), als sie auf die fremdvermieteten Wohnungen entfallen. Für die
+selbstgenutzte Wohnung (Tz 30) und die Wohnung des Sohnes (Tz 54
+d) kann D keinen Werbungskostenabzug vornehmen. Soweit die Kosten
+auf die beruflich genutzte Wohnung entfallen, sind sie bei D. als
+Betriebsausgaben abzugsfähig. </lxbase:a><lxbase:a>Den Nutzungswert der Wohnung des Sohnes hat dieser nach § 21
+Abs. 2 zweite Alternative EStG zu versteuern (Tz 54). </lxbase:a><lxbase:a>Das Entgelt für die Nießbrauchbestellung ist
+bei S grundsätzlich in voller Höhe im Jahre 1984
+als Einnahme aus VuV zu erfassen (Tz 31). Es kann längstens auf
+10 Jahre gleichmäßig verteilt werden (Tz 32).
+S. kann weiterhin die AfA für das Gebäude in Anspruch
+nehmen (Tz 33) und den noch nicht verbrauchten Erhaltungsaufwand
+geltend machen. </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="82*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 D.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen VuV vermietete Wohnungen (4.200 DM
+x 12)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>50.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten laufende Kosten (18.000 DM),
+AfA Nießbrauchrecht (20.000 DM), insgesamt 38.000 <lxbase:az normform="DM-davon-7/10" manuell="nein">DM davon
+7/10</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>26.600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>23.800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Betriebsausgaben bei den Einkünften
+aus selbständiger Arbeit 1/10 von 38.000 DM</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>3.800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 C.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV (600 DM x 12)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>7.200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 S.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV Entgelt für Nießbrauch
+300.000 <lxbase:az normform="DM-davon-1/10" manuell="nein">DM davon 1/10</lxbase:az></lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>30.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten größerer Erhaltungsaufwand
+1/5 von 50.000 DM</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>10.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>AfA 2 v. H. von 450.000 DM</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>9.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>11.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D006169300003">3. Teilweise entgeltlich
+bestellter Nießbrauch </lxbase:ueberschrift><lxbase:a>3.1 Anfang Januar 1979 hat Christian Hausmann (H.) für
+500.000 DM (einschließlich Kosten des Grund und Bodens
+von 100.000 DM) ein Mietwohngrundstück mit 5 Wohnungen
+erworben. Durch notariellen Vertrag vom 15. 1. 1979 hat H seinen
+Eltern ein lebenslängliches dingliches Wohnrecht an einer Wohnung
+eingeräumt. Seine Eltern (E. H.) haben ihm dafür
+im Zusammenhang mit dem Grundstückskauf 40.000 DM zur Verfügung
+gestellt. Das Wohnrecht soll nach dem Tode des erstversterbenden
+Elternteils dem Überlebenden allein zustehen. Vater H.
+war zum Zeitpunkt der Wohnrechtsbestellung 65 Jahre, die Mutter
+55 Jahre alt. Die ortsübliche Miete für die Wohnung
+der Eltern und der anderen Wohnungen beträgt monatlich
+je 600 DM. H. hat sämtliche Aufwendungen für das
+Haus getragen mit Ausnahme der Kosten für Schönheitsreparaturen
+in allen Wohnungen. Die Aufwendungen des H für das Haus
+beliefen sich für 1982 bis 1984 jährlich auf je
+20.000 DM. Die Eltern haben für die selbstgenutzte Wohnung
+für Schönheitsreparaturen jährlich 1.000
+DM aufgewendet. </lxbase:a><lxbase:a>Die ESt-Veranlagungen 1979 bis 1981 des H. und der E. H. sind
+bestandskräftig. Die Zahlung der E. H. in Höhe
+von 40.000 DM ist bei der Veranlagung des H. für 1979 nicht
+als Einnahme aus VuV erfaßt worden. Die ESt-Veranlagungen
+1982 von H. und E. H. waren zum Zeitpunkt der Veröffentlichung
+des Nießbraucherlasses vom 15. 11. 1984 noch nicht durchgeführt. </lxbase:a><lxbase:a>Lösung <lxbase:za /> Nach Tz 8 des Nießbraucherlasses
+vom 23. 11. 1983 war von einem voll unentgeltlich bestellten Wohnrecht
+auszugehen. Dagegen ist nach Tz 8 des Nießbraucherlasses
+vom 15. 11. 1984 eine teilweise entgeltliche Bestellung des Wohnrechts
+anzunehmen. Der Wert des Wohnrechts zum Zeitpunkt der Bestellung
+belief sich auf 89.330 DM (Jahresmiete 7.200 DM x 12,407 - Vervielfältiger
+laut Anl. 9 zum BewG bei einem vollendeten Lebensjahr der Berechtigten von
+55 Jahren). Das Wohnrecht ist demnach zu 44,8 v. H. entgeltlich
+und zu 55,2 v. H. unentgeltlich bestellt worden. </lxbase:a><lxbase:a>Die Einnahmen aus der teilweise entgeltlichen Bestellung des
+Wohnrechts können bei H in 1982 nicht erfaßt werden,
+weil 1982 kein Zufluß erfolgt ist. Eine Änderung
+der Veranlagung für 1979 kommt nur in Betracht, wenn die
+Berichtigungsvorschriften der AO dies zulassen. </lxbase:a><lxbase:a>W. kann die auf die Wohnung der Eltern entfallenden Grundstückskosten
+insoweit als Werbungskosten abziehen, als die Wohnung entgeltlich überlassen worden
+ist (Tz 35a i. V. m. Tz 33 und 66). </lxbase:a><lxbase:a>Soweit das Wohnrecht unentgeltlich bestellt worden ist, haben
+die E. H. den Nutzungswert ihrer Wohnung nach § 21 Abs.
+2 zweite Alternative EStG zu versteuern (Tz 35a i. V. m. Tz 54a
+und 66). </lxbase:a><lxbase:a>Die von E. H. getragenen Kosten für Schönheitsreparaturen
+können nicht - auch nicht anteilig - als Werbungskosten
+berücksichtigt werden, weil in dem angesetzten Nutzungswert
+derartige Kosten nicht enthalten sind. </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="81*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagungen 1982 ff H.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>a) fremdvermietete Wohnungen (4 x 7.200 DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>28.800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>b) Wohnung der Eltern</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>AfA und andere Werbungskosten</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>28.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>davon entfallen auf:</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>a) fremdvermietete Wohnungen 80 v. H.</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>22.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>b) Wohnung der Eltern 20 v. H. (5.600 DM) davon
+abzugsfähig 44,8 v. H.</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>2.509 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>3.891 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>ESt-Veranlagungen 1982 ff E. H. </lxbase:a><lxbase:a>Da den E. H. der Nießbrauch zu 55,2 v. H. unentgeltlich
+bestellt worden ist, haben sie insoweit den Unterschiedsbetrag zwischen
+der ortsüblichen und der tatsächlich gezahlten
+Miete zu versteuern; es ist ihnen also 55,2 v. H. der Jahresmiete
+von 7.200 DM = 3.974 DM zuzurechnen (Tz 35a i. V. m. Tz
+54 a). </lxbase:a><lxbase:a>3.2 Sachverhaltsvariante (Übergangsregelung gemäß Tz
+66) </lxbase:a><lxbase:a>H. beantragt bei der Veranlagung für 1982, daß ihm
+das Teilentgelt für die Wohnrechtsbestellung nicht zugerechnet
+wird, d. h. er möchte weiterhin die Werbungskosten in voller
+Höhe abziehen. H. hat dazu eine Erklärung seiner Eltern
+vorgelegt, daß diese damit einverstanden sind, steuerlich
+nach der bisherigen Verwaltungspraxis behandelt zu werden. Die Eltern
+haben sich bereiterklärt, für 1982 und 1983 den
+Nutzungswert ihrer Wohnung weiterhin in voller Höhe zu
+versteuern (Tz 66 i. V. m. Tz. 63). </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Aufgrund der Regelung in Tz 66 ist weiterhin bis einschließlich
+des VZ 1983 davon auszugehen, daß die Wohnrechtsbestellung
+insgesamt unentgeltlich erfolgt ist. H. hat dementsprechend weder
+das Teilentgelt noch den Nutzungswert der Wohnung seiner Eltern
+zu versteuern. Er kann jedoch nach den unter 1.1 genannten Übergangsregelungen
+die auf die Wohnung der Eltern entfallenden Grundstückskosten
+bis einschließlich des VZ 1983 in voller Höhe
+als Werbungskosten abziehen. </lxbase:a><lxbase:a>Bei der Regelung in Tz 66 handelt es sich um eine Billigkeitsmaßnahme
+i. S. d. § 163 AO. Voraussetzung für die Anwendung
+der Regelung bei H ist, daß die Wohnberechtigten den Nutzungswert
+ihrer Wohnung für 1982 und 1983 voll versteuern. Die Billigkeitsmaßnahme
+für H. ist deshalb unter der auflösenden Bedingung
+der Besteuerung des Nutzungswerts bei den Wohnberechtigten zu treffen.
+Auf die Bedingung und die Folgen ihrer Nichterfüllung ist
+in einer Anlage zum Steuerbescheid des H. hinzuweisen (Hinweis auf
+Rdvfg. vom 12. 3. 1985 <lxbase:az normform="S2227 76St1131" manuell="nein">S-2227
+- 76 - St 11 - 31</lxbase:az>, <lxbase:az normform="ESt-Nr-16/19" manuell="nein">ESt-Nr 16/19</lxbase:az> 85, zu § 21
+EStG). </lxbase:a><lxbase:a>Die Anwendung der Tz 66 bei der ESt-Veranlagung 1982 der Wohnberechtigten
+setzt voraus, daß diese auch für 1983 den Nutzungswert
+versteuern. In einer Anlage zum Steuerbescheid 1982 ist deshalb
+darauf hinzuweisen, daß die Billigkeitsregelung unter der
+auflösenden Bedingung steht, daß der Nutzungswert auch
+für 1983 den Wohnberechtigten zugerechnet wird. </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="80*" /><cals:colspec colnum="2" colname="2" colwidth="20*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1982 H.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV fremdvermietete Wohnungen</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>28.800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Wohnung der Eltern</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten fremdvermietete Wohnungen</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>22.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Wohnung der Eltern</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>5.600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1982 E. H.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV Nutzungswert der
+Wohnung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>7.200 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>3.3 Sachverhaltsvariante (Übergangsregelung gemäß Tz
+66) </lxbase:a><lxbase:a>Sachverhalt wie bei 3.2; bei der ESt-Veranlagung 1983 des H.
+wurde die Ermittlung der Einkünfte wie für 1982
+vorgenommen (vgl. 3.2). Die E. H. bestehen bei ihrer ESt-Veranlagung
+1983 jedoch darauf, daß ihnen der Nutzungswert nur insoweit
+zugerechnet wird, als sie die Wohnung unentgeltlich nutzen. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die Voraussetzungen für die Anwendung der Billigkeitsregelung
+lt. Tz. 66 bei den ESt-Veranlagungen 1982 und 1983 des H. und bei
+der ESt-Veranlagung 1982 der E. H. liegen damit nicht mehr vor.
+Die Ermittlung der Einkünfte aus der Wohnung der E. H.
+ist für 1983 wie im Beispielsfall 3.1 vorzunehmen. Die im
+Rahmen der ESt-Veranlagung 1982 für H. und E. H. getroffene
+Billigkeitsmaßnahme ist zu widerrufen. Der Bescheid über
+den Widerruf der Billigkeitsmaßnahme stellt einen Grundlagenbescheid
+im Sinne des § 175 Abs. 1 Satz 1 Nr. 1 AO dar mit der Folge,
+daß die ESt-Veranlagungen 1982 des H. und der E. H. sowie
+die ESt-Veranlagung 1983 des H. entsprechend zu berichtigen sind (Ermittlung
+der Einkünfte jeweils wie im Beispielsfall 3.1). </lxbase:a><lxbase:a>ESt-Veranlagungen 1984 ff H. / E. H. </lxbase:a><lxbase:a>Die Übergangsregelung in Tz 66 ist nicht mehr anwendbar.
+Die Besteuerung hat jeweils wie im Beispielsfall 3.1 zu erfolgen. </lxbase:a><lxbase:a>3.4 Sachverhaltsvariante (Übergangsregelung gemäß Tz
+66) </lxbase:a><lxbase:a>Bei Abgabe der ESt-Erklärung für 1983 beantragt
+H. die Anwendung der Übergangsregelung gemäß Tz
+66 ausschließlich für den VZ 1983. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Dem Antrag kann schon deshalb nicht entsprochen werden, weil
+dieser für den ersten Veranlagungszeitraum, für
+den eine bestandskräftige Veranlagung noch nicht vorliegt,
+gestellt werden mußte; dies war hier der Veranlagungszeitraum 1982. Ändert
+H. seinen Antrag trotz entsprechender Belehrung nicht, ist die Ermittlung
+der Einkünfte aus VuV deshalb wie für 1982 vorzunehmen. </lxbase:a><lxbase:a>3.5 Sachverhaltsvariante (Ablösung) </lxbase:a><lxbase:a>Im März 1985 vereinbaren H. und seine Eltern die Ablösung
+des Wohnrechts mit Wirkung ab 1. 1. 1984 gegen Rückzahlung
+eines Betrags von 32.000 DM. Gleichzeitig schließen sie
+mit Wirkung ab. 1. 1. 1984 einen Mietvertrag (Miete 600 DM monatlich),
+so daß H. an seine Eltern im März 1985 nur noch
+einen Betrag von 23.000 DM überweist (32.000 DM abzüglich
+Miete für 15 Monate). Mit dem Betrag von 32.000 DM soll
+der bis zum 1. 1. 1984 noch nicht abgewohnte Teil des Entgelts von
+40.000 DM zurückerstattet werden. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die rückwirkende Ablösung ist zulässig
+(Tz 61). Steuerlich besteht das Wohnrecht ab dem 1. 1. 1984 nicht
+mehr. </lxbase:a><lxbase:a>Aufgrund der rückwirkenden Regelung ist davon auszugehen,
+daß wegen der Verrechnung der Ablösezahlung mit
+der Miete dem H die entsprechenden Mieteinnahmen bereits im Jahre
+1984 zugeflossen sind; gleichzeitig sind jedoch in 1984 entsprechende
+Ablösezahlungen abgeflossen. Die Zahlung zur Ablösung des
+teilweise entgeltlich bestellten Wohnrechts ist bei H. in Höhe
+der Miete aus der Wohnung für 1984 als negative Einnahme
+zu erfassen (Tz 35 a i. V. m. Tz 34). Der Restbetrag der Ablösezahlung
+mindert die Einnahmen aus VuV des Jahres 1985. </lxbase:a><lxbase:a>Da das Wohnrecht steuerlich ab 1. 1. 1984 nicht mehr besteht,
+ist den E. H. ab 1984 kein Nutzungswert mehr zuzurechnen. Die Ablösezahlung,
+die bei E. H. grundsätzlich zu den sonstigen Einkünften
+im Sinne des § 22 Nr. 3 EStG gehört (Tz 35), ist
+für 1984 noch nicht zu erfassen, weil der im Jahre 1984
+zugeflossene Betrag von 7.200 DM die zeitanteilig berücksichtigungsfähigen
+Anschaffungskosten des Wohnrechts noch nicht übersteigt: </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="65*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:colspec colnum="3" colname="3" colwidth="18*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Anschaffungskosten des Wohnrechts</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>40.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>voraussichtliche Laufzeit des Wohnrechts zum Zeitpunkt
+der Bestellung bei einem vollendeten Lebensjahr der Ehefrau von
+55 Jahren = 23 Jahre</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>jährliche AfA</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>1.739 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>AfA fuer 1979 bis 1983</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>8.695 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Restwert Wohnrecht</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>31.305 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 H.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV fremdvermietete Wohnungen</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>28.800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Wohnung Eltern</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>7.200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>negative Einnahmen / Ablösung</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>- 7.200</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>28.800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten (einschl. AfA)</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>28.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1985 H.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV fremdvermietete Wohnungen</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>28.800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Wohnung Eltern</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>7.200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>negative Einnahmen / Ablösung
+durch Verrechnung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.800 DM</lxbase:a></cals:entry><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>durch Überweisung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>23.000 DM</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>24.800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>11.200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten einschließlich AfA</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>28.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Verlust aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>16.800</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 E. H.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>sonstige Einkünfte</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1985 E. H.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>sonstige Einkünfte</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Ablösezahlung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>32.000 DM</lxbase:a></cals:entry><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Restwert Wohnrecht</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>31.305 DM</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>695 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D006169300004">4. Vorbehaltsnießbrauch / Vorbehaltswohnrecht </lxbase:ueberschrift><lxbase:a>4.1 Der Vater Alt (A.) hat seiner Tochter und seinem Schwiegersohn,
+den Eheleuten Jung (J.) im Jahre 1978 ein 1960 errichtetes Einfamilienhaus
+unter Vorbehalt eines lebenslänglichen dinglichen Nießbrauchs
+für sich und seine Ehefrau übertragen. Das Einfamilienhaus
+hatte nach Inanspruchnahme erhöhter Absetzungen nach § 7b
+EStG einen Restwert von 60.000 DM. Die Eheleute J. haben das Haus
+im Jahre 1980 renoviert und im Erdgeschoß um einen Anbau erweitert.
+Seitdem handelt es sich um ein Zweifamilienhaus. Die Kosten der Baumaßnahmen
+(150.000 DM) sind allein von J. getragen worden. Von den Kosten
+entfallen 30.000 DM auf größere Reparaturen, 20.000
+DM auf den Einbau einer Wärmepumpenheizung für
+das ganze Haus und 100.000 DM auf die Errichtung des Anbaus. Ab
+Ende 1980 bewohnt die Familie J. die Erdgeschoßwohnung
+einschließlich Anbau und die Eheleute A. das Obergeschoß.
+Die Wohnfläche im Erdgeschoß beträgt
+120 qm und im Obergeschoß 80 qm (60 v. H. bzw. 40 v. H.
+der Gesamtwohnfläche). </lxbase:a><lxbase:a>Die Eheleute J. haben - ohne daß eine besondere Vereinbarung
+getroffen worden ist - ab 1980 alle Kosten für das Haus
+getragen, jährlich jeweils </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="82*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Erhaltungsaufwand</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Grundsteuer</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Versicherung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Schuldzinsen für die von A. aufgenommenen
+Kredite im Zusammenhang mit dem Bau des Hauses</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Schuldzinsen für eigene Baudarlehn
+(8 v. H. von 150.000 DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>12.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Das Finanzamt hat bei den ESt-Veranlagungen für 1980
+bis 1982 der Eheleute J. den Nutzungswert der eigenen Wohnung jährlich
+mit 9.600 DM erfaßt (ortsübliche Miete 800 DM
+monatlich) und sämtliche Aufwendungen als Werbungskosten
+abgezogen. </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="84*" /><cals:colspec colnum="2" colname="2" colwidth="16*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Folgende AfA-Beträge
+wurden bei J. berücksichtigt:</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Restwert-AfA für das Einfamilienhaus
+2,5 v. H. von 60.000 DM</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.500 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>AfA nach § 82a EStDV für
+Wärmepumpe 10 v. H. von 20.000 DM</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>2.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>AfA nach § 7b EStG für den
+Anbau 5 v. H. von 100.000 DM</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>5.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" /><cals:entry colname="2" align="right"><lxbase:a>8.500 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Außerdem ist der größere Erhaltungsaufwand
+von 30.000 DM nach § 82b EStDV auf Antrag auf 5 Jahre verteilt
+worden (jährlich 6.000 DM). </lxbase:a><lxbase:a>Die Eheleute A. werden nicht zur Einkommensteuer veranlagt. </lxbase:a><lxbase:a>Auf Anregung des Finanzamts haben sich A. und die Eheleute J.
+geeinigt, daß die Eheleute J. als Eigentümer die
+AfA in Anspruch nehmen sollen; A. hat dies schriftlich bestätigt. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Der Nießbrauch erstreckt sich bürgerlich-rechtlich
+auf das gesamte Gebäude einschließlich Anbau (vgl.
+Palandt-Bassenge, 44. Auflage, § 1030 BGB Anm. 2). Der
+Nießbrauch ist jedoch nur hinsichtlich der von den Eltern
+A. genutzten Wohnung tatsächlich durchgeführt
+worden; der Nießbrauch ist deshalb steuerlich nur bezüglich
+der oberen Wohnung anzuerkennen. Der restliche Teil des Gebäudes
+wird von den Eigentümern aufgrund ihres Eigentumsrechts
+genutzt. Der Mietwert der von den Eigentümern J. genutzten
+Wohnung ist diesen zuzurechnen. Sie können die auf die
+eigengenutzte Wohnung entfallenden Kosten - ungeachtet des Nießbrauchs
+- als Werbungskosten abziehen (Tz. 45 i. V. m. Tz. 24a). </lxbase:a><lxbase:a>Die Aufwendungen für Instandhaltung und Versicherung
+sowie die Grundsteuer und die Zinsen für die seinerzeit
+von A. aufgenommenen Kredite sind nach den vertraglich nicht abbedungenen
+Regelungen der §§ 1041, 1045 und 1047 BGB grundsätzlich
+von den Nießbrauchern zu tragen. Soweit diese von den Eheleuten
+J. übernommenen Kosten auf die Wohnung der Nießbraucher entfallen,
+können sie bei großzügiger Auslegung
+der Tz. 67 und der Übergangsregelungen vom 25. 5. 1981
+ff (siehe Beispiel 1.1) bei der ESt-Veranlagung 1983 der Eheleute
+J. noch als Werbungskosten abgezogen werden (Hinweis auf Anl. 19
+zur Rdvfg. der OFD Münster vom 27. 7. 1983 <lxbase:az normform="S252258St 1131" manuell="nein">S-2522 - 58 - St
+11 - 31</lxbase:az>). </lxbase:a><lxbase:a>Der größere Erhaltungsaufwand und die Schuldzinsen
+für neu aufgenommene Kredite sind bürgerlich-rechtlich
+von den neuen Eigentümern zu tragen (§ 1041 und § 1047
+BGB). Soweit der größere Erhaltungsaufwand auf
+die Wohnung der Nießbraucher entfällt, ist ein
+Abzug bei J. bis einschließlich 1983 aufgrund der vorgenannten Übergangsregelungen
+möglich. Ab 1984 können die Eheleute J. die auf
+die Wohnung der Nießbraucher entfallenen Kosten nicht mehr
+abziehen (Tz 45 i. V. m. Tz. 24a). Danach würde sich jedoch
+der von den Eheleuten J. im Jahre 1980 getragene größere
+Erhaltungsaufwand - soweit er auf die Wohnung der Nießbraucher
+entfällt (40 v. H. von 30.000 DM) - steuerlich nicht mehr
+voll auswirken; der auf das Jahr 1984 entfallende Teilbetrag (1/5
+von 12.000 DM) bliebe unberücksichtigt. Dieser Teilbetrag
+kann bei der Veranlagung der Eheleute J. für 1983 zusätzlich
+abgezogen werden. </lxbase:a><lxbase:a>Der Abzug der Restwert-AfA für das Einfamilienhaus bei
+der ESt-Veranlagung 1983 der Eheleute J. ist von der entsprechenden
+Einigung mit A. abhängig (Tz. 67). Zur Inanspruchnahme
+der übrigen AfA ist A. als Vorbehaltsnießbraucher nicht
+berechtigt, weil er nicht vor Einräumung des Nießbrauchs
+die betreffenden Herstellungskosten getragen hat. </lxbase:a><lxbase:a>Das FA hat in einer Anlage zum Steuerbescheid 1983 der Eheleute
+J. zum Ausdruck zu bringen, daß es sich bei der Berücksichtigung
+der Restwert-AfA um eine Billigkeitsmaßnahme im Sinne des § 163
+AO handelt, die unter der auflösenden Bedingung steht,
+daß der Vorbehaltsnießbraucher die AfA nicht in Anspruch
+nimmt (vgl. Rdvfg vom 12. 3. 1985 <lxbase:az normform="S222776St1131" manuell="nein">S-2227 - 76 - St 11 - 31</lxbase:az>, <lxbase:az normform="ESt-Nr-16/19" manuell="nein">ESt-Nr 16/19</lxbase:az> 85, zu § 21
+EStG). </lxbase:a><lxbase:a>Die auf die Wohnung der Nießbraucher entfallenden Kosten,
+die ab dem Vz 1985 bei der ESt-Veranlagung der Eheleute J nicht
+mehr als Werbungskosten abgezogen werden können, stellen
+auch keine dauernde Last dar (Tz. 44). </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="82*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1983 J.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV Mietwert der eigenen Wohnung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>9.600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten laufender Erhaltungsaufwand</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>größerer Erhaltungsaufwand</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>a) eigene Wohnung 60 v. H. von 30.000 davon
+1/5 für 1983</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>3.600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>b) Wohnung A. 40 v. H. von 30.000 davon 1/5
+für 1983</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>2.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>davon 1/5 für 1984</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>2.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Schuldzinsen alt</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Schuldzinsen neu</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>12.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Grundsteuer</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Versicherung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>AfA</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>8.500 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Verlust aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>21.900 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 J.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV Mietwert der eigenen Wohnung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>9.600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten (jeweils nur soweit sie auf
+die eigene Wohnung entfallen) Erhaltungsaufwand 60 v. H. von 1.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>größerer Erhaltungsaufwand
+60 v. H. von 30.000 DM; davon 1/5 für 1984</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>3.600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Schuldzinsen alt, Grundsteuer, Versicherung
+(1.600 DM); davon 60 v. H.</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>960 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Schuldzinsen neu</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>12.000 DM,</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>davon entfallen auf Finanzierung</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>a) Wärmepumpe / größerer
+Erhaltungsaufwand (8 v. H. von 50.000 DM) 4.000 DM; davon 60 v.
+H.</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>2.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>b) Kosten des Anbaus (8 v. H. von 100.000 DM),
+voll abzugsfähig</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>8.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>AfA</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>a) Restwert-AfA 1.500 DM; davon 60 v. H.</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>900 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>b) Heizung 2.000 DM; davon 60 v. H.</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>c) Anbau; 100 v. H.</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>5.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Verlust aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>13.060 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>4.2 Sachverhaltsvariante (Übergangsregelung gem. Tz
+67) </lxbase:a><lxbase:a>Das FA stellt nach Durchführung der ESt-Veranlagung
+1983 der Eheleute J. fest, daß die Eheleute A. für
+1983 zur ESt zu veranlagen sind. Die Eheleute A. beantragen bei
+Abgabe der ESt-Erklärung 1983 den Abzug der ihnen zustehenden
+AfA. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die Eheleute A. haben den Nutzungswert ihrer Wohnung zu versteuern,
+und zwar Herr A. als Vorbehaltsnießbraucher nach § 21
+Abs. 2 erste Alternative EStG (Tz. 39) und Frau A. als Zuwendungsnießbraucherin
+nach § 21 Abs. 2 zweite Alternative EStG (Tz 18). </lxbase:a><lxbase:a>A. ist als Vorbehaltsnießbraucher grundsätzlich
+zur Inanspruchnahme der Restwert-AfA für das alte Einfamilienhaus
+berechtigt. Ein Abzug der AfA bei A. kommt allerdings nicht in Betracht,
+soweit der Nießbrauch tatsächlich nicht durchgeführt
+wird. Die auf die eigengenutzte Wohnung entfallende Restwert-AfA
+ist außerdem nur zur Hälfte zu berücksichtigen,
+weil dem A. wegen des Nießbrauchs seiner Ehefrau nur zur
+Hälfte der Nutzungswert zuzurechnen ist. Da die Ehefrau
+nicht Miteigentümerin des Hauses war, stehen ihr als Zuwendungsnießbraucherin
+keine AfA zu (vgl. BFH-Urteil vom 11. 10. 1983, <lxprod:doknr-verw linkend="HT0060777">BStBl 1984
+II S. 266</lxprod:doknr-verw>). </lxbase:a><lxbase:a>Mit der Inanspruchnahme der AfA durch den Vater ist die ursprüngliche
+Vereinbarung über den Abzug der AfA bei den Eheleuten J.
+praktisch widerrufen worden. Die Voraussetzungen für die
+Berücksichtigung der AfA bei den Eheleuten J. liegen somit
+nicht mehr vor (Tz. 67). Die für die Eheleute J. insoweit getroffene
+Billigkeitsmaßnahme ist zu widerrufen und der Steuerbescheid
+1983 gem. § 175 Abs. 1 Nr. 1 AO in der Weise zu ändern,
+daß die anteilige Rest-AfA von 300 DM (40 v. H. von 1.500
+DM, davon 1/2) nicht mehr berücksichtigt wird.
+Der für die Eheleute A. zuständige Vbz hat deshalb
+den für die Eheleute J. zuständigen Vbz durch
+Kontrollmitteilung über den Abzug der betreffenden AfA
+beim Vorbehaltsnießbraucher zu unterrichten. </lxbase:a><lxbase:a>Da die Eheleute J. alle Kosten des Grundstücks getragen
+haben, ist wegen fehlender Ausgaben bei den Nießbrauchern
+A. ein Abzug der auf ihre Wohnung entfallenden Kosten nicht möglich. </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="84*" /><cals:colspec colnum="2" colname="2" colwidth="16*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1983 A.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV Mietwert der eigengenutzten
+Wohnung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>6.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Restwert-AfA 1.500 DM, davon entfallen auf
+die Wohnung der Eheleute A. 600 DM, davon 1/2</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>300 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>6.100 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>4.3 Sachverhaltsvariante (Aufhebung des Nießbrauchs,
+Tz. 61) </lxbase:a><lxbase:a>Die Eheleute A. verzichten am 30. 3. 1985 mit Wirkung ab 1. 1.
+1984 auf das Nießbrauchrecht, ohne daß sich die
+Eheleute J zu einer Gegenleistung verpflichten. Die Eheleute J. überlassen
+die Wohnung im Obergeschoß den bisherigen Nießbrauchern
+ohne besondere vertragliche Vereinbarung weiterhin unentgeltlich. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die Eheleute J. haben ab 1984 den Nutzungswert beider Wohnungen
+voll zu versteuern und können gleichzeitig die Werbungskosten
+in vollem Umfang abziehen (Tz 61). </lxbase:a><lxbase:a>4.4 Sachverhaltsvariante (Ablösung gegen Rente, Tzn
+61 u. 62) </lxbase:a><lxbase:a>Die Eheleute A. und die Eheleute J. vereinbaren am 30. 3. 1985
+mit Wirkung vom 1. 1. 1984 die Ablösung des Nießbrauchs
+gegen Zahlung einer monatlichen Rente in Höhe von 540 DM
+(= Mietwert ihrer Wohnung). Die Eheleute J zahlen am 20.
+4. 1985 dementsprechend 6.480 DM Rente für 1984 und 2.160 DM
+für Januar bis April 1985 an die Eheleute A. Die Eheleute
+A. bewohnen die Wohnung im Obergeschoß weiterhin unentgeltlich,
+ohne daß darüber vertragliche Vereinbarungen bestehen. </lxbase:a><lxbase:a>Die Eheleute A. und die Eheleute J. haben den Antrag gestellt,
+daß die Rentenzahlungen bei J. als Werbungskosten abgezogen
+und bei A. als sonstige Einkünfte versteuert werden. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die Ablösung eines Vorbehaltsnießbrauchs gegen
+Entgelt gem. Tz. 62 ist ein Sonderfall der rückwirkenden
+Anpassung im Sinne der Tz. 61. Steuerlich besteht der Nießbrauch
+ab dem 1. 1. 1984 nicht mehr. Die Ermittlung der Einkünfte
+aus VuV der Eheleute J. ist für 1984 wie bei 4.3 vorzunehmen. </lxbase:a><lxbase:a>Die Rentenzahlungen für das Jahr 1984 können
+- soweit sie dem Vater A. als Vorbehaltsnießbraucher zustehen
+(also zur Hälfte) - bereits bei der ESt-Veranlagung 1984
+des J. als Werbungskosten berücksichtigt werden, da sie
+aufgrund der rückwirkenden Vereinbarung bereits in 1984
+durch Verrechnung abgeflossen sind. Sie sind nur mit dem Ertragsanteil
+als Werbungskosten abzuziehen (Tz 62). Der Regelung in Tz 62 liegt
+der Gedanke zugrunde, Ablösezahlungen in Form einer Rente
+so zu behandeln, als wären sie von Anfang an im Rahmen der
+unentgeltlichen Grundstücksübertragung anstelle
+des Nießbrauchs vereinbart worden. In diesem Fall wäre
+ebenfalls nur der Ertragsanteil (als Sonderausgabe) abzugsfähig.
+Die Zuordnung der Rentenzahlungen zu den Werbungskosten kann deshalb
+nicht den vollen Abzug begründen. </lxbase:a><lxbase:a>Ebenfalls für 1984 sind bei der ESt-Veranlagung der
+Eheleute A. die Renteneinnahmen des Vaters A. mit dem Ertragsanteil
+bei den sonstigen Einkünften i. S. d. § 22 Nr.
+1 EStG zu erfassen. Die Rentenzahlungen an die Mutter A., die Zuwendungsnießbraucherin
+ist, sind bei den ESt-Veranlagungen des J. nicht abzugsfähig;
+die Mutter hat die Einnahmen nicht zu versteuern (Tz 25). </lxbase:a><lxbase:a>4.5 Sachverhaltsvariante (Ablösung gegen dauernde Last,
+Tzn 61 und 62) </lxbase:a><lxbase:a>Sachverhalt wie bei 4.4, jedoch Ablösung des Nießbrauchs
+gegen laufende Zahlungen in Höhe von 340 DM monatlich.
+Eine Änderung der Zahlungen nach dem Rechtsgedanken des § 323
+ZPO wird ausdrücklich vereinbart. Außerdem haben
+die Eheleute J. auf Verlangen der Eheleute A. 30 v. H. der ggf. anfallenden
+Krankheitskosten zu tragen. </lxbase:a><lxbase:a>Gleichzeitig schließen die Eheleute J. und die Eheleute
+A. einen Mietvertrag ab 1. 1. 1984, nach dem die Eheleute A. monatlich
+eine Miete von 540 DM zu zahlen haben. Die Ablösezahlungen
+für 1984 (12 x 340 DM) und die Miete werden verrechnet.
+Die Eheleute A. zahlen am 20. 4. 1985 für 1984 noch 2.400
+DM Miete nach. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die rückwirkende Vereinbarung, die lt. Tzn. 61 und 62
+steuerlich zu beachten ist, hat zur Folge, daß die Eheleute
+J. für 1984 außer dem Mietwert der eigenen Wohnung
+noch 6.480 DM Mieteinnahmen aus der Obergeschoßwohnung
+zu versteuern haben. Die Werbungskosten sind voll abziehbar. Zusätzlich
+können die Eheleute J. die Zahlungen an den Vater in Höhe
+von 2.040 DM (4.080 DM zur Hälfte), die eine dauernde Last
+darstellen, als Werbungskosten abziehen; die Zahlungen sind von
+A. in voller Höhe als sonstige Einnahmen des Jahres 1984
+zu versteuern. Wegen der Zahlungen an die Mutter A. Hinweis auf
+4.4. </lxbase:a><lxbase:a>4.6 Sachverhaltsvariante (Ablösung gegen dauernde Last,
+Tz. 61 und 62) </lxbase:a><lxbase:a>Sachverhalt wie bei 4.5.; neben den laufenden Zahlungen in Höhe
+von insgesamt 4.080 DM haben die Eheleute J. für 1984 2.800
+DM Krankheitskosten des Vaters A. zu übernehmen. Die Eheleute
+J. zahlen an die Eheleute A. im Jahre 1985 für 1984 noch
+400 DM. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Lösung entsprechend 4.5 (Mieteinnahmen aus vermieteter
+Wohnung 6.480 DM, dauernde Last in Höhe von 4.840 DM (2.040
+DM laufende Zahlungen und 2.800 DM Krankheitskosten). Die Zahlung
+für 1984 ist auch bereits insoweit bei der ESt-Veranlagung
+1984 der Eheleute J. als dauernde Last zu berücksichtigen,
+als sie erst im Jahre 1985 geleistet worden ist. Der Vater hat für
+1984 sonstige Einnahmen in Höhe von 4.840 DM zu versteuern.
+Wegen der Zahlungen an die Mutter Hinweis auf 4.4. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D006169300005">5. Obligatorisches "Zuwendungs"-Nutzungsrecht </lxbase:ueberschrift><lxbase:a>5.1 Die Eheleute Groß (G.) haben am 31. 12. 1982 ein
+Zweifamilienhaus gekauft (Anschaffungskosten des Gebäudes
+250.000 DM). Der Einheitswert für das Haus beträgt
+70.000 DM. Die ortsübliche Miete für das Haus
+mit einer Wohnfläche von 150 qm im Erdgeschoß und
+100 qm im Obergeschoß beträgt 6 DM pro qm. Die
+Grundstückskosten betragen jährlich 30.000 DM
+(einschließlich Schuldzinsen 9.000 DM und AfA nach § 7b
+EStG 12.500 DM). </lxbase:a><lxbase:a>Die Eheleute G. haben die obere Wohnung für 5 DM pro
+qm an Frau Klein (K.), die Mutter des Herrn G., vermietet. Ein schriftlicher
+Mietvertrag wurde am 1. 1. 1983 abgeschlossen. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die Obergeschoßwohnung ist als vermietete Wohnung i.
+S. d. § 21a Abs. 1 Satz 3 Nr. 1 EStG anzusehen; die tatsächliche
+Miete steht nicht in krassem Mißverhältnis zur
+ortsüblichen Miete (Abschnitt 164b Abs. 13 EStÄR
+1984). </lxbase:a><lxbase:a>Die Eheleute G. haben die Wohnung jedoch Frau K. teilweise unentgeltlich überlassen
+(zu 16,67 v. H.). Dies führt dazu, daß die auf
+die Wohnung der Frau K. entfallenden Werbungskosten nicht in vollem
+Umfang, sondern nur zu 83,33 v. H. (Anteil der entgeltlichen Überlassung)
+abzugsfähig sind (Tz 54 e i. V. m. Tz 35 a Sätze
+2 und 3). </lxbase:a><lxbase:a>Frau K. hat den Unterschiedsbetrag zwischen der ortsüblichen
+Miete und der tatsächlich gezahlten Miete als Nutzungswert
+ihrer Wohnung zu versteuern (Abschn. 162 Abs. 1 EStR 1984, Tz. 54a). </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="82*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 G.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV Mietwert eigene Wohnung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>10.800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Mieteinnahmen Wohnung K.</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>6.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="right"><lxbase:a>16.800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten eigene Wohnung (60 v. H. v.
+30.000 DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>18.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>vermietete Wohnung (40 v. H. von 30.000 DM = 12.000
+DM) davon 83,33 v. H.</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>10.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Verlust aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>11.200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 K.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Einkuenfte aus VuV (12 x 100 DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.200 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>5.2 Sachverhaltsvariante </lxbase:a><lxbase:a>Sachverhalt wie bei 5.1; Frau K. ist jedoch mit den Eheleuten
+G. nicht verwandt. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Ermittlung der Einnahmen aus VuV der Eheleute G. wie bei 5.1;
+die Werbungskosten sind jedoch nicht zu kürzen. Da ein
+krasses Mißverhältnis zwischen ortsüblicher
+und tatsächlich gezahlter Miete nicht vorliegt, ist davon
+auszugehen, daß der Wert der Nutzungsüberlassung
+und der Wert der Gegenleistung (Miete) nach wirtschaftlichen Gesichtspunkten
+ausgewogen sind (Tz 54 a i. V. m. Tz. 7). Es handelt sich danach
+um eine voll entgeltliche Vermietung; Tz 54 e ist deshalb nicht
+anwendbar. Die auf die Wohnung der K. entfallenden Werbungskosten
+sind in voller Höhe abziehbar. </lxbase:a><lxbase:a>Bei der ESt-Veranlagung 1984 der Frau K. ist kein Nutzungswert
+zu erfassen (Abschn. 162 Abs. 2 EStÄR 1984). </lxbase:a><lxbase:a>5.3 Sachverhaltsvariante </lxbase:a><lxbase:a>Sachverhalt wie bei 5.1; die mit der Mutter K. vereinbarte Miete
+pro qm beträgt 3 DM. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die Obergeschoßwohnung ist nicht als vermietete Wohnung
+i. S. d. § 21a Abs. 1 Satz 3 Nr. 1 EStG anzusehen, weil
+die vereinbarte Miete in krassem Mißverhältnis
+zur ortsüblichen Miete steht (Abschn. 164b Abs. 13 EStÄR
+1984). Der Nutzungswert der Wohnung der Eheleute G. ist deshalb
+nach § 21a EStG zu ermitteln (Abschn. 164b Abs. 14 Satz
+2 EStR 1984). Zur Ermittlung der Einkünfte aus der vermieteten
+Wohnung ist insoweit eine Überschußrechnung zu machen. § 21a
+Abs. 5 Satz 2 EStG ist hier nicht relevant, weil nicht Teile eines Einfamilienhauses
+oder Teile einer Wohnung vermietet sind, sondern eine ganze Wohnung. </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="66*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="16*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 G</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV - eigene Wohnung
+1,4 v. H. des anteiligen Einheitswerts von (60 v. H. von 70.000
+DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>42.000 DM</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>588 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>anteilige Schuldzinsen (60 v. H. von 9.000
+DM) </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>5.400 DM</lxbase:a></cals:entry><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>höchstens</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>588 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>AfA nach § 7b EStG (60 v. H. von 12.500
+DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>7.500 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Verlust aus VuV - eigene Wohnung</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>7.500 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV - vermietete Wohnung
+Mieteinnahmen</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>3.600 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten vermietete Wohnung (40 v. H. von
+30.000 DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>12.000 DM,</lxbase:a></cals:entry><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>davon abzugsfähig lt. Tz. 54 e i.
+V. m. Tz 35 a nach dem Verhältnis der tatsächlichen
+zur ortsueblichen Miete 50 v. H.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>6.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Verlust aus VuV - vermietete Wohnung</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>2.400 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 K</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV Unterschiedsbetrag
+zwischen ortsüblicher und tatsächlich gezahlter
+Miete (12 x 300 DM) lt. Tz 54 a</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>3.600 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>5.4 Sachverhaltsvariante </lxbase:a><lxbase:a>Sachverhalt wie bei 5.3; die Wohnung ist jedoch für
+3 DM pro qm an die mit den Eheleuten G. nicht verwandte Frau K.
+vermietet. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die Wohnung ist als vermietete Wohnung i. S. d. § 21a
+Abs. 1 Satz 3 Nr. 1 EStG anzusehen. Die Miete steht zwar in krassem
+Mißverhältnis zur ortsüblichen Miete,
+es liegt jedoch keine Überlassung an eine unterhaltsberechtigte Person
+vor. Die Einkünfte aus VuV der Eheleute G. sind danach
+insgesamt durch Einnahmenüberschußrechnung zu
+ermitteln. </lxbase:a><lxbase:a>Frau K. hat den Unterschiedsbetrag zwischen der ortsüblichen
+Miete und der tatsächlich gezahlten Miete nach § 21
+Abs. 2 zweite Alternative EStG zu versteuern (Abschn. 162 Abs. 2
+EStÄR 1984, Tz 54 a und Tz 7). </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="79*" /><cals:colspec colnum="2" colname="2" colwidth="21*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 G.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV Mietwert eigene Wohnung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>10.800,-- DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Mieteinnahmen</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>3.600,-- DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="right"><lxbase:a>14.400,-- DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten eigene Wohnung (60 v. H. von
+30.000,-- DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>18.000,-- DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>vermietete Wohnung (40 v. H. v. 30.000,-- DM),
+davon abzugsfähig 50 v. H. (Tz 54 e i. V. m. Tz. 35 a)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>6.000,-- DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Verlust aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>9.600,-- DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1984 K.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV (12 x 300,-- DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>3.600,-- DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D006169300006">6. Nicht dinglich gesichertes "Vorbehalts"-Wohnrecht </lxbase:ueberschrift><lxbase:a>6.1 Die Eheleute Pfennig (P.) haben am 31. 12. 1980 ihrer Tochter
+und ihrem Schwiegersohn, den Eheleuten Sparsam (S.), ihr Zweifamilienhaus
+gegen Vorbehalt eines lebenslänglichen Wohnrechts an der
+Wohnung im Obergeschoß übertragen. Die Eheleute
+S haben sich gleichzeitig verpflichtet, die auf dem Grundstück
+lastenden Schulden zu übernehmen. Aus Kostengründen
+wurde auf die Eintragung des Wohnrechts im Grundbuch verzichtet.
+Die Eheleute S. bewohnen die Wohnung im Erdgeschoß (150
+qm), die Eheleute P bewohnen unentgeltlich die Wohnung im Obergeschoß (100
+qm). Der Mietwert beider Wohnungen beträgt 6 DM / qm.
+Die Eheleute S. haben seit der Übertragung des Hauses sämtliche
+Kosten des Grundstücks getragen (im Jahre 1983 einschließlich
+AfA 20.000 DM). </lxbase:a><lxbase:a>Lösung: </lxbase:a><lxbase:a>Für das nicht dingliche "Vorbehalts"-Wohnrecht
+gelten die Regelungen der Tzn 53 bis 54 e (Tz 5). </lxbase:a><lxbase:a>Der Nutzungswert der Wohnung der Eheleute P. ist diesen zuzurechnen
+(Tz 54), und zwar grundsätzlich bei allen noch offenen
+Veranlagungen (Tz 63). </lxbase:a><lxbase:a>Die Eheleute S. können die auf die Wohnung der Eheleute
+P. entfallenden Grundstückskosten nicht als Werbungskosten
+abziehen (Tz 54 d). Ein voller Werbungskostenabzug ist auch für
+Veranlagungszeiträume vor 1984 nicht möglich;
+die unter 1.1 genannten Übergangsregelungen zum Werbungskostenabzug
+beim Eigentümer betreffen ausschließlich dingliche
+Nutzungsrechte. </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="64*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:colspec colnum="3" colname="3" colwidth="18*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1983 S.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV Mietwert eigene Wohnung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>10.800 DM</lxbase:a></cals:entry><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Mietwert Wohnung Eltern</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten insgesamt</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>20.000 DM</lxbase:a></cals:entry><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>davon fuer obere Wohnung (40 v. H.)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>- 8.000 DM</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>12.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Verlust aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>1.200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1983 P.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Mietwert der eigengenutzten Wohnung (Tz 54)</lxbase:a></cals:entry><cals:entry colname="2" align="right" /><cals:entry colname="3" align="right"><lxbase:a>7.200 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>6.2 Sachverhaltsvariante </lxbase:a><lxbase:a>Sachverhalt wie bei 6.1; die Eheleute S. und P. beantragen im
+Einspruchsverfahren gegen den ESt-Bescheid 1983 der Eheleute S.
+gemeinsam die Anwendung der Tzn 53 und 54 des Nießbraucherlasses
+vom 23. 11. 1983 (<lxprod:doknr-verw linkend="HT0060640">BStBl I S. 508</lxprod:doknr-verw>). Gleichzeitig bitten
+die Eheleute S. um den Abzug einer dauernden Last in Höhe
+des Mietwerts der den Eltern P. überlassenen Wohnung. Die
+ESt-Veranlagung 1983 der Eheleute P. ist noch nicht durchgeführt. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Das unentgeltliche Wohnrecht der Eheleute P. ist mangels Eintragung
+im Grundbuch steuerlich nicht zu berücksichtigen (Tz 63
+i. V. m. den Tzn 53 und 54 des Erlasses vom 23. 11. 1983). Dem Antrag
+auf Abzug einer dauernden Last ist nicht zu entsprechen (Hinweis
+auf Rdvfg. vom 8. 12. 1977 <lxbase:az normform="S222776St1131" manuell="nein">S-2227 - 76 - St 11 - 31</lxbase:az>, ESt-Nr. 95/1977,
+zu §§ 21, 10 EStG). </lxbase:a><lxbase:a>Die Eheleute P. haben für 1983 weder den Mietwert ihrer
+Wohnung noch sonstige Einnahmen in Höhe des Mietwerts zu
+versteuern. </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="82*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung 1983 S.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV Mietwert eigene Wohnung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>10.800 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Mietwert Wohnung Eltern</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>7.200 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="right"><lxbase:a>18.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>20.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Verlust aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>2.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagungen 1984 S. und P.</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="0"><cals:entry namest="1" nameend="2"><lxbase:a>wie bei 6.1; die Übergangsregelung
+lt. Tz 63 ist nicht mehr anwendbar.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>6.3 Sachverhaltsvariante </lxbase:a><lxbase:a>Sachverhalt wie bei 6.2; der ESt-Bescheid 1983 der Eheleute P.,
+in dem der Nutzungswert der von ihnen genutzten Wohnung erfaßt
+worden ist, ist bereits bestandskräftig. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Die Anwendung der Übergangsregelung in Tz 63 ist bei
+den Eheleuten S. wegen der Bestandskraft des ESt-Bescheides der
+Eheleute P. nicht zulässig. Die Ermittlung der Einkünfte
+ist wie bei 6.1 vorzunehmen. </lxbase:a><lxbase:a>6.4 Sachverhaltsvariante </lxbase:a><lxbase:a>Sachverhalt wie bei 6.1; die Übertragung des Grundstücks
+fand jedoch am 31. 12. 1982 statt. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Der Nutzungswert der Wohnung der Eheleute S. ist nach § 21a
+EStG zu ermitteln. Der Einheitswert des Grundstücks ist
+zum Zwecke der Ermittlung der Einkünfte auf beide Wohnungen
+aufzuteilen (Abschnitt 164b Abs. 14 Satz 2 EStÄR 1984).
+Die anteilig auf die Wohnung der Eheleute P. entfallenden Grundstückskosten
+sind wegen fehlender Einnahmen bei den Eheleuten S. nicht als Werbungskosten
+zu berücksichtigen. Auch der Abzug einer dauernden Last kommt
+insoweit nicht in Betracht (vgl. Urteil des BFH vom 7. 12. 1982, <lxprod:doknr-verw linkend="HT0037488">BStBl 1983
+II S. 660</lxprod:doknr-verw>). </lxbase:a><lxbase:a>Die Eheleute P. haben den Nutzungswert ihrer Wohnung nach § 21
+Abs. 2 zweite Alternative EStG zu versteuern (Abschn. 162 Abs. 1
+EStÄR 1984 und Tz. 54). § 21a EStG ist insoweit
+nicht anwendbar. </lxbase:a><lxbase:a>6.5 Sachverhaltsvariante </lxbase:a><lxbase:a>Sachverhalt wie bei 6.4.; die Eheleute S. und P. beantragen jedoch
+vor Durchführung der endgültigen ESt-Veranlagungen
+1983 gemeinsam die Anwendung der Übergangsregelung laut
+Tz. 63.- </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Der Nutzungswert für das ganze Haus ist nach § 21a
+EStG zu ermitteln und den Eheleuten S. zuzurechnen. Sie können
+ggf. für 1983 noch erhöhte Absetzungen nach § 7b
+EStG oder § 82a EStDV in vollem Umfang als Werbungskosten abziehen. </lxbase:a><lxbase:a>Ab 1984 sind die Einkünfte aus VuV wie bei 6.4 zu ermitteln. </lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D006169300007">7. Vorbehaltsnießbrauch
+bei entgeltlicher Grundstücksübertragung </lxbase:ueberschrift><lxbase:a>7.1 Dinglicher Vorbehaltsnießbrauch </lxbase:a><lxbase:a>Frau Steinmann (St.) hat zum 1. 1. 1984 ihr schuldenfreies Einfamilienhaus
+für 300.000 DM an Herrn Lampe (L.) veräußert.
+Der Wert des Grund und Bodens beträgt 80.000 DM. St. hat
+sich gleichzeitig das lebenslängliche dingliche Nießbrauchrecht
+vorbehalten. Sie hatte bei Vertragsabschluß das 75. Lebensjahr vollendet.
+Der Wert des Nießbrauchs beläuft sich auf 7.000
+DM jährlich. St. hat das Haus weiterhin selbst bewohnt
+und die Grundstückskosten getragen. L. hat im Jahre 1984
+für 15.000 DM eine neue Heizung in das Haus einbauen lassen. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>St. hat als Vorbehaltsnießbraucherin des Einfamilienhauses
+den Nutzungswert weiterhin nach § 21a EStG zu versteuern
+(Tz 39). L. sind für 1984 keine Einnahmen aus VuV zuzurechnen;
+er kann deshalb auch keine Werbungskosten abziehen (Tz 44). </lxbase:a><lxbase:a>7.2 Sachverhaltsvariante (obligatorischer "Vorbehalts"-Nießbrauch) </lxbase:a><lxbase:a>Sachverhalt wie bei 7.1; der Nießbrauch ist jedoch nicht
+im Grundbuch eingetragen. </lxbase:a><lxbase:a>Lösung</lxbase:a><lxbase:a>Es handelt sich um ein entgeltlich bestelltes obligatorisches
+Nießbrauchrecht. Im Gegensatz zu Beispiel 7.1 liegt einkommensteuerlich
+ein Vorbehaltsnießbrauch nicht vor. Wegen der fehlenden
+grundbuchlichen Eintragung ist davon auszugehen, daß L.
+Eigentümer eines insoweit unbelasteten Grundstücks geworden
+ist und er als der neue Eigentümer der St. das Nießbrauchrecht
+eingeräumt hat. Die Grundstücksübertragung
+und die Nießbrauchbestellung sind steuerlich so zu behandeln,
+als wenn St. das Grundstück für 343.071 DM (300.000
+DM zuzüglich des Werts des Nießbrauchs laut Anlage
+9 zum BewG: 7.000 DM x 6,153 = 43.071 DM) veräußert
+hätte gegen Barzahlungen von 300.000 DM und Aufrechnung
+mit der Forderung des L. an St. aus der Begründung des
+Nutzungsrechts (Tz 53 b). </lxbase:a><lxbase:a>St. nutzt das Haus wie eine Mieterin. Ihr ist deshalb kein Nutzungswert
+zuzurechnen. Sie kann die Grundstückskosten nicht als Werbungskosten
+abziehen. </lxbase:a><lxbase:a>L. hat im Jahre 1984 in Höhe des Werts des Nießbrauchs
+Einnahmen aus VuV. Er kann beantragen, daß diese auf längstens
+10 Jahre gleichmäßig verteilt werden (Tz 53b i.
+V. m. Tz 32). L. kann die von ihm getragenen Kosten für
+die Heizungserneuerung und die AfA für das Gebäude
+als Werbungskosten abziehen. Zu den Anschaffungskosten des Grundstücks
+gehört auch der Wert des Nießbrauchs. </lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="81*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung St. 1984</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einkünfte aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>0 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt-Veranlagung L. 1984</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einnahmen aus VuV Entgelt für den
+Nießbrauch</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>43.071 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>davon auf Antrag 1/10</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>4.307 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Werbungskosten</lxbase:a></cals:entry><cals:entry colname="2" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Erneuerung der Heizung</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>15.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>AfA 2 v. H. von (343.071 DM abzüglich
+80.000 DM) 263.071 DM</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>5.262 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Verlust aus VuV</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>15.955 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>--- </lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Nordrhein-Westfalen</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

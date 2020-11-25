@@ -1,0 +1,728 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0107122" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Münster</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2225a - 165 - St 12 - 31 </lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2225a</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Recht" id="08" /><lxbase:lizenz2 name="LOHN" id="42" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1993-01-19" /></lxbase:daten><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:10e</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:10e/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:10e/2</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:10e/4</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:10e/5a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:10e/6</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:10e/6a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7/4</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7/5</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7/5a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:7b</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:10</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:10b</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:10d</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:21a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:34f</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:52/21</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:82b</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:82h</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:82k</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:43</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:44</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:54</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:157</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:39/2</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:165</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:175/1/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>WohnEigFG:31</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>2-WoBauG:17</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>BGB:812</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>BGB:951</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1993" /></lxbase:jahre><lxbase:zitate><lxbase:alt-zitate><lxbase:alt-zitat>BdF <lxbase:az normform="IV b3S2225a115/90" manuell="nein">IV
+b 3 - S-2225a - 115/90</lxbase:az> v. 25. 10. 1990 <lxprod:doknr-verw linkend="HT0096590">BStBl 1990 I
+626</lxprod:doknr-verw> (koord. Ländererlaß)</lxbase:alt-zitat></lxbase:alt-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Zweifelsfragen zur Anwendung des Wohneigentumsförderungsgesetzes vom
+15. 5. 1986 (<lxbase:lit-fs normform="BStBl-1986-I-0278" manuell="nein">BStBl
+I Seite 278</lxbase:lit-fs>) 
+<lxbase:za /> Bezug: Rundverfügungen vom
+18. 11. 1988 (ESt-Nr.: 59/1988), 27. 6. 1989 (ESt-Nr.:
+54/1989) und 7. 9. 1987 (ESt-Nr. 68/1987) <lxbase:az normform="S2225a154 St1631" manuell="nein">S-2225a - 154
+- St 16 - 31</lxbase:az></lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200001"><lxbase:a>I. Anschaffung / Herstellung einer zu eigenen Wohnzwecken
+genutzten Wohnung auf einem Erbbaugrundstück</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200002"><lxbase:a>II. Bauten
+auf fremdem Grund und Boden:</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200003"><lxbase:a>III. Wohnung
+im eigenen Haus - maßgebender Zeitpunkt</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200004"><lxbase:a>IV. Ausbauten
+und Erweiterungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200005"><lxbase:a>V. Nachträgliche
+Herstellungskosten bei teilentgeltlichem Erwerb</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200006"><lxbase:a>VI. Folgeobjekt</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200007"><lxbase:a>VII. § 10e
+EStG bei Eigentümergemeinschaften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200008"><lxbase:a>VIII. § 10e
+Abs. 6 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200009"><lxbase:a>IX. Schuldzinsenabzug
+gemäß § 10e Abs. 6 a EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200010"><lxbase:a>X. AfA in Fällen
+gemischter bzw. geänderter Nutzung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200011"><lxbase:a>XI. Verzicht
+auf die Nutzungswertbesteuerung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200012"><lxbase:a>XII. Billigkeitsmaßnahmen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D010712200013"><lxbase:a>XIII. Steuerliche
+Behandlung von Bausparguthabenzinsen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:a>Im folgenden wird die o. g. Verfügung vom 18. 11. 1988 überarbeitet
+und aktualisiert. Die Verfügungen vom 18. 11. 1988, 27.
+6. 1989 und 7. 9. 1987 werden hiermit aufgehoben. Ich bitte, einen
+entsprechenden Hinweis in den Bezugsverfügungen anzubringen.</lxbase:a><lxbase:a>Die in der Verfügung vom 18. 11. 1988 enthaltenen allgemeinen
+Regelungen zu Tz. I "Anschaffungs- oder Herstellungskosten
+i. S. d. § 10e EStG" entfallen, da sich entsprechende
+Anweisungen in dem BMF-Schreiben vom 25. 10. 1990 (<lxprod:doknr-verw linkend="HT0096590">BStBl 1990 I
+Seite 626</lxprod:doknr-verw>, Anhang 19 zur Handausgabe ESt 1990; im folgenden:
+BMF-Schreiben) und in den ESt-Richtlinien 1990 (im folgenden: EStR)
+befinden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200001">I. Anschaffung / Herstellung
+einer zu eigenen Wohnzwecken genutzten Wohnung auf einem Erbbaugrundstück</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Erbbauzinsen, die der Erbbauberechtigte
+für die fortwährende Nutzung des Erbbaugrundstücks
+an den Grundstückseigentümer entrichtet, können
+bis zum Beginn der erstmaligen Nutzung der Wohnung nach § 10e
+Abs. 6 EStG wie Sonderausgaben abgezogen werden, soweit sie auf
+die Zeit vor Beginn der erstmaligen Nutzung entfallen (Abschn. 52
+i. V. m. Abschn. 50 des BMF-Schreibens). Erbbauzinsen, die für
+nach dem Bezug der Wohnung liegende Zeiträume gezahlt werden,
+können steuerlich nur im Rahmen des § 10e Abs.
+6 a EStG berücksichtigt werden. Ein Abzug als dauernde
+Lasten i. S. d. § 10 Abs. 1 Nr. 1 a EStG scheidet aus (BFH-Urteil
+vom 24. 10. 1990, 
+<lxprod:doknr-verw linkend="HT0097777">BStBl 1991 II Seite 175</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Die von einem Erbbauberechtigten vereinbarungsgemäß übernommenen und
+vor Beginn der erstmaligen Nutzung der Wohnung gezahlten Erschließungskosten
+können nach § 10e Abs. 6 EStG in voller Höhe
+wie Sonderausgaben abgezogen werden, wenn der rechtswirksame Abschluß des Erbbaurechtsvertrags
+oder des auf die Übertragung eines Erbbaurechts gerichtete
+Vertrag vor dem 1. 1. 1992 liegt (BMF-Schreiben vom 16. 12. 1991, <lxprod:doknr-verw linkend="HT0105362">BStBl I Seite
+1011</lxprod:doknr-verw>). Hat der Erbbauberechtigte in diesen Altfällen
+die Erschließungskosten erst nach Bezug der selbstgenutzten
+Wohnung gezahlt oder ist der entsprechende Erbbaurechtsvertrag oder
+der auf Übertragung eines Erbbaurechts gerichtete Vertrag
+nach dem 31. 12. 1991 abgeschlossen worden, können diese
+nur insoweit nach § 10e Abs. 6 EStG steuerlich berücksichtigt
+werden, als sie auf den Zeitraum vor Beginn der Selbstnutzung entfallen
+(siehe zu 3.).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Die Anschaffungskosten für ein
+Erbbaurecht können im Rahmen des § 10e Abs. 2
+und Abs. 2 EStG nicht berücksichtigt werden. Sie sind insbesondere nicht
+in die Bemessungsgrundlage nach § 10e Abs. 1 einzubeziehen,
+da der Gesetzgeber ausdrücklich nur die Hälfte
+der Anschaffungskosten für den Grund und Boden begünstigt
+hat. Die Aufwendungen eines Erbbauberechtigten für den
+Erwerb des Erbbaurechts können den Anschaffungskosten eines
+Grundstückseigentümers für den Grund
+und Boden daher nicht gleichgestellt werden. Zu der Bemessungsgrundlage
+nach § 10e EStG gehört demnach auch nicht der
+kapitalisierte Wert der Erbbauzinsen.</lxbase:a><lxbase:a eingerueckt="nein">Die Anschaffungskosten für
+das Erbbaurecht können, soweit sie auf die Zeit vor Bezug
+der Wohnung entfallen, nach § 10e Abs. 6 EStG berücksichtigt werden
+(Abschn. 52 des BMF-Schreibens).</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200002">II. Bauten auf fremdem
+Grund und Boden:</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Abzugsberechtigt im Sinne des § 10e
+EStG ist nach Abschnitt 5 des BMF-Schreibens vom 25. 10. 1990 der
+bürgerlich-rechtliche oder der wirtschaftliche Eigentümer
+(§ 39 Abs. 2 Nr. 1 Abgabenordnung), der die Herstellungs- oder
+Anschaffungskosten getragen hat. Die Voraussetzungen für
+die Annahme wirtschaftlichen Eigentums des Bauherrn sind bei Bauten
+auf fremdem Grund und Boden in der Regel nicht erfüllt
+(vgl. Abschn. 6 des BMF-Schreibens vom 25. 10. 1990; BFH-Urteil
+vom 21. 5. 1992, 
+<lxprod:doknr-verw linkend="HT0102130">BStBl II Seite 944</lxprod:doknr-verw>). Sofern für
+den Bauherrn jedoch an dem unbebauten Grundstück ein Erbbaurecht
+oder ein Nießbrauchsrecht bestellt wurde, erlangt der Bauherr
+das bürgerlich rechtliche Eigentum an dem von ihm errichteten
+Gebäude.</lxbase:a><lxbase:a eingerueckt="nein">Nach § 39 Abs. 2 Nr. 1 Satz
+1 AO liegt wirtschaftliches Eigentum nur vor, wenn ein anderer als
+der Eigentümer die tatsächliche Herrschaft über
+ein Wirtschaftsgut in der Weise ausübt, daß er
+den Eigentümer im Regelfall für die gewöhnliche
+Nutzungsdauer von der Einwirkung auf das Wirtschaftsgut ausschließen
+kann. Allein die Tatsache, daß der Nutzungsberechtigte
+ein Gebäude auf einem ihm überlassenen Grundstück
+errichtet und die Lasten des Grundstücks trägt,
+begründet noch kein wirtschaftliches Eigentum des Nutzenden
+(BFH-Urteil vom 21. 12. 1978, 
+<lxprod:doknr-verw linkend="HT0048943">BStBl 1979 Teil II Seite 466</lxprod:doknr-verw>). Auch
+das bloße Einverständnis des Eigentümers
+mit dem Bauvorhaben begründet kein wirtschaftliches Eigentum
+des Bauherrn. Vielmehr ist es erforderlich, daß der Eigentümer
+durch vertragliche Vereinbarungen oder aus anderen Gründen
+von der Einwirkung auf das Wirtschaftsgut auf Dauer ausgeschlossen
+ist. Diese Voraussetzung ist erfüllt, wenn der Herausgabeanspruch
+des bürgerlich rechtlichen Eigentümers keine wirtschaftliche
+Bedeutung mehr hat, oder ein Herausgabeanspruch überhaupt
+nicht mehr besteht (BFH-Urteil vom 21. 12. 1978 und BFH-Urteil vom
+21. 5. 1992). Diese Voraussetzungen erfüllt im Regelfall nur
+der Dauerwohnberechtigte im Sinne des § 31 ff Wohnungseigentumsförderungsgesetz
+(WEG), sofern seine Rechte und Pflichten bei wirtschaftlicher Betrachtungsweise
+den Rechten und Pflichten eines Eigentümers entsprechen
+und er aufgrund des Dauerwohnrechtsvertrages bei Beendigung des Wohnrechts
+eine angemessene Entschädigung erhält (Abschn.
+7 des BMF-Schreibens). Einzelheiten siehe II. 3.</lxbase:a><lxbase:a eingerueckt="nein">Dinglich oder schuldrechtlich begründete
+Nutzungsrechte an einer Wohnung begründen kein wirtschaftliches
+Eigentum. Auch der Vorbehaltsnießbraucher ist nicht als
+wirtschaftlicher Eigentümer der errichteten Wohnung anzusehen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Eine Wohnung ist in der Regel auch dann
+im Sinne des § 10e EStG angeschafft, wenn sie durch Baumaßnahmen
+des Nutzungsberechtigten auf fremdem Grund und Boden entstanden
+ist und dieser das Eigentum an dem Objekt gegen Aufgabe seines Aufwendungs-
+und Ersatzanspruches nach § 951 BGB in Verbindung mit § 812
+BGB erwirbt (vgl. Abschn. 1 und Abschn. 15 des BMF-Schreibens).
+Mit der Übertragung des Grundstücks geht der Aufwendungs-
+und Ersatzanspruch bürgerlich-rechtlich unter. Eine ausdrückliche
+Erklärung der Vertragsparteien über die Behandlung
+des Aufwendungs- und Ersatzanspruchs ist deshalb nicht erforderlich.
+In Höhe des untergegangenen Aufwendungs- und Ersatzanspruchs
+liegen nunmehr Anschaffungskosten des Gebäudes vor. Es
+kann davon ausgegangen werden, daß die geschätzte
+Höhe des Aufwendungs- und Ersatzanspruchs dem Betrag der
+vom Steuerpflichtigen getragenen Herstellungskosten entspricht (Abschn.
+15 des BMF-Schreibens). Diese Herstellungskosten sind nicht um zwischenzeitlich
+fiktive oder gegebenenfalls in Anspruch genommene AfA-Beträge
+zu kürzen. Die Anschaffungskosten entfallen im vollen Umfang
+auf das Gebäude ohne den dazugehörigen Grund und
+Boden (Abschn. 17 Satz 2 des BMF-Schreibens). Der Verzicht auf den
+Aufwendungs- und Ersatzanspruch ist somit mit der Zahlung eines
+Entgelts vergleichbar, seine Höhe dient als Bemessungsgrundlage
+für den Abzugsbetrag nach § 10e EStG.</lxbase:a><lxbase:a eingerueckt="nein">Die Steuervergünstigung des § 10e
+EStG kann jedoch erst für den Veranlagungszeitraum in Anspruch
+genommen werden, in dem Besitz, Nutzungen, Lasten und Gefahr des
+Grundstücks auf den Steuerpflichtigen übergegangen sind.
+Ein Verzicht auf den Aufwendungs- und Ersatzanspruch ohne Übertragung
+des Eigentums ist nicht ausreichend.</lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel:</lxbase:a><lxbase:a eingerueckt="nein">S bewohnt seit 1987 unentgeltlich eine
+der Wohnungen im elterlichen Zweifamilienhaus. Im Jahre 1988 erweitert
+er seine Wohnung mit Zustimmung der Eltern auf eigene Kosten für
+50.000 DM. Die Steuerpflichtigen vereinbaren im Jahre 1991, daß das
+Grundstück auf den Sohn gegen Abgeltung des Aufwendungs-
+und Ersatzanspruches übertragen werden soll. Besitz, Nutzen
+und Lasten des Grundstückes gehen jedoch erst im Jahre
+1992 auf den Sohn über.</lxbase:a><lxbase:a eingerueckt="nein">Lösung:</lxbase:a><lxbase:a eingerueckt="nein">Durch den Anbau an der selbstgenutzten
+Wohnung erwirbt der Sohn im Jahre 1988 einen Aufwendungs- und Ersatzanspruch
+nach § 951 in Verbindung mit § 812 BGB in Höhe
+von 50.000 DM. Eine Berücksichtigung der Aufwendungen nach § 10e
+EStG kommt jedoch noch nicht in Betracht, weil der Sohn weder bürgerlich-rechtlicher
+noch wirtschaftlicher Eigentümer des Anbaus geworden ist.
+Für den Veranlagungszeitraum 1991 kommt eine Steuervergünstigung
+nach § 10e EStG ebenfalls nicht in Betracht, da der Steuerpflichtige
+zwar auf den Aufwendungs- und Ersatzanspruch verzichtet hat, aber
+noch kein bürgerlich-rechtliches Eigentum an dem Grundstück
+begründet hat. Mit Übergang des Grundstücks
+im Jahre 1992 liegen nunmehr Anschaffungskosten des Gebäudes in
+Höhe des untergegangenen Aufwendungs- und Ersatzanspruches
+in Höhe von 50.000 DM vor. Diese Anschaffungskosten entfallen
+im vollen Umfang auf das Gebäude ohne den dazugehörigen
+Grund und Boden. Da es sich im vorliegenden Fall jedoch um ein Zweifamilienhaus
+handelt, sind die Anschaffungskosten im Verhältnis der
+Nutzflächen auf die beiden Wohnungen zu verteilen. Zwar
+wurde durch die Baumaßnahme des Steuerpflichtigen keine
+neue Wohnung geschaffen, wie es im BMF-Schreiben ausdrücklich
+gefordert wird. Es handelt sich hierbei lediglich um eine nach § 10e
+Abs. 2 EStG begünstigte Wohnungserweiterung, der Aufwendungsersatzanspruch
+ist jedoch im Zuge der Eigentumsübertragung des Gebäudes
+als Anschaffungsaufwand zu behandeln, mit der Folge, daß es
+sich um ein Anschaffungsgeschäft nach § 10e Abs.
+1 Satz 4 EStG handelt. Der Zeitraum zwischen der Fertigstellung
+der Baumaßnahmen und der späteren Eigentumsübertragung
+ist ebenfalls unbeachtlich.</lxbase:a></lxbase:beispiel><lxbase:a eingerueckt="nein">Die Förderung des § 10e
+EStG ist jedoch zu versagen, wenn bei Fertigstellung der Baumaßnahmen
+vor dem Veranlagungszeitraum 1987 die Steuervergünstigung
+des § 7b EStG in Anspruch genommen worden wäre
+(vgl. BMF-Schreiben vom 4. 7. 1986, <lxprod:doknr-verw linkend="HT0066993">BStBl Teil I
+Seite 318 f</lxprod:doknr-verw>f), weil dies zu einer Doppelförderung
+ein und derselben Baumaßnahme führen würde.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Nach Abschn. 7 des BMF-Schreibens ist der
+Dauerwohnberechtigte im Sinne des § 31 ff. WEG in der Regel
+als wirtschaftlicher Eigentümer der Wohnung anzusehen.
+Voraussetzung ist jedoch, daß der Steuerpflichtige einen
+entsprechenden Musterrechtsvertrag zum Dauerwohnrecht nach § 31 ff.
+WEG abschließt. Durch diesen Mustervertrag soll der Dauerwohnberechtigte
+eine Stellung, die ihm wirtschaftlich einen Wohnungseigentümer gleichstellt,
+erlangen. Das Dauerwohnrecht kann an einem bestehenden oder einem
+noch zu errichtenden Gebäude eingeräumt werden.
+Das Wohnrecht kann sowohl zeitlich unbegrenzt als auch über
+einen besonders langen Zeitraum abgeschlossen werden. Soll das Wohnrecht
+dem Mustervertrag entsprechen, sind folgende Voraussetzungen zu
+erfüllen: Es muß in jedem Fall veräußerlich
+und vererblich sein. Bei einer vorzeitigen Beendigung des Dauerwohnrechtes
+hat der Grundstückseigentümer dem Dauerwohnberechtigten eine
+angemessene Entschädigung in Höhe des Verkehrswerts
+des Dauerwohnrechts zu zahlen. Nach Ablauf des Dauerwohnrechts ist
+der Eigentümer verpflichtet, den Dauerwohnberechtigten
+gegen Aufhebung des Dauerwohnrechts Wohnungseigentum zu verschaffen.
+Zu diesem Zweck ist bei Abschluß des Dauerwohnrechts eine
+notarielle Auflassungsvormerkung im Grundbuch vorzusehen.</lxbase:a><lxbase:a eingerueckt="nein">Sofern der Dauerwohnberechtigte sowohl
+die Finanzierung des Grundstückserwerbs und der Gebäudeeinrichtung
+als auch die Verzinsung und Tilgung des Fremdkapitals sowie die
+laufenden Bewirtschaftungskosten übernimmt, ist er als
+wirtschaftlicher Eigentümer anzusehen (BFH-Urteil vom 22.
+10. 1985, 
+<lxprod:doknr-verw linkend="HT0063263">BStBl
+1986, Teil II Seite 258</lxprod:doknr-verw>).</lxbase:a><lxbase:a eingerueckt="nein">Zur Bemessungsgrundlage des § 10e
+EStG gehören bei Dauerwohnrechtsberechtigten die Anschaffungskosten
+für das Dauerwohnrecht oder die vom Dauerwohnrecht-Berechtigten
+getragenen Herstellungskosten. Die Kosten für den Grund
+und Boden sind in jedem Fall aus der Bemessungsgrundlage auszuscheiden.</lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel:</lxbase:a><lxbase:a eingerueckt="nein">S bekommt an einem Zweifamilienhaus
+für die obere Wohnung ein Dauerwohnrecht eingeräumt.
+Als Gegenleistung für die Einräumung des Dauerwohnrechts
+verzichtet S auf die Rückzahlung einer fälligen
+Darlehnsforderung gegenüber dem Grundstückseigentümer
+in Höhe von 200.000 DM.</lxbase:a><lxbase:a eingerueckt="nein">Lösung:</lxbase:a><lxbase:a eingerueckt="nein">Da S für die Einräumung
+des Dauerwohnrechts einen Betrag von 200.000 DM aufwendet, ist er
+als wirtschaftlicher Eigentümer der oberen Wohnung anzusehen.
+Er kann demnach die Steuervergünstigung des § 10e
+EStG für die Anschaffungskosten von 200.000 DM in Anspruch
+nehmen.</lxbase:a></lxbase:beispiel><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel: </lxbase:a><lxbase:a eingerueckt="nein">Die Eltern des S gestatten diesem die
+Errichtung einer Wohnung durch Aufstockung ihres Einfamilienhauses.
+S führt die Baumaßnahme auf eigene Rechnung im
+Jahre 1990 mit einem Gesamtaufwand von 150.000 DM durch. Nach Fertigstellung
+der Baumaßnahme im Jahre 1991 räumen die Eltern
+dem S mit notariell beglaubigten Vertrag ein Dauerwohnrecht an der
+von ihm errichteten Wohnung ein.</lxbase:a><lxbase:a eingerueckt="nein">Lösung: </lxbase:a><lxbase:a eingerueckt="nein">S kann für die im Jahre 1991
+fertiggestellte Wohnung die Förderung des § 10e EStG
+in Anspruch nehmen. Bemessungsgrundlagen im Sinne des § 10e
+EStG sind die von ihm aufgewendeten Herstellungskosten in Höhe
+von 150.000 DM.</lxbase:a></lxbase:beispiel><lxbase:a eingerueckt="nein">Sofern es bei einer Baumaßnahme
+auf fremden Grund und Boden unmittelbar danach zur Einräumung
+eines Dauerwohnrechtes kommt, ist ein Vorkostenabzug nach § 10e
+Abs. 6 EStG grundsätzlich möglich. Ist der Steuerpflichtige
+im Zeitpunkt der Einräumung des Dauerwohnrechts bereits in
+die Wohnung eingezogen, kann er den Vorkostenabzug nach § 10e
+Abs. 6 EStG bis zu dem Zeitpunkt geltend machen, in dem er wirtschaftlicher Eigentümer
+der Wohnung geworden ist.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200003">III. Wohnung im eigenen
+Haus - maßgebender Zeitpunkt</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Nach Abschn. 8 des BMF-Schreibens vom
+15. 5. 1987 (<lxprod:doknr-verw linkend="HT0074930">BStBl
+1987 I Seite 434</lxprod:doknr-verw>) war für die Steuerermäßigung
+nach § 10e EStG die tatsächliche Gestaltung im
+Zeitpunkt des Bezugs der zu eigenen Wohnzwecken genutzten Wohnung
+maßgebend. Insoweit war gegenüber der zu § 7b
+EStG bestehenden Regelung, wonach für die Bestimmung des
+begünstigten Objektes auf die Gestaltung im Zeitpunkt der
+Herstellung oder Anschaffung abzustellen ist (Abschn. 54 Abs. 1
+Satz 4 EStR 1987), eine Änderung eingetreten.</lxbase:a><lxbase:a eingerueckt="nein">Abschn. 9 des BMF-Schreibens vom 25.
+10. 1990 enthält keine entsprechende Regelung. Nunmehr
+ist bei der Anwendung des § 10e EStG für jeden
+Veranlagungszeitraum gesondert zu prüfen, in welcher Höhe
+Anschaffungskosten / Herstellungskosten für die
+selbstgenutzte Wohnung im bewertungsrechtlichen Sinn gegeben sind.</lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel: </lxbase:a><lxbase:a eingerueckt="nein">A erwirbt im Kalenderjahr 1988 ein Zweifamilienhaus
+für 400.000 DM zuzüglich 100.000 DM für
+den Grund und Boden. Die Erdgeschoßwohnung bezieht er noch
+im selben Kalenderjahr, die Obergeschoßwohnung ist zunächst
+vermietet. Nach Auszug des Mieters im Jahre 1990 baut A das Haus
+zu einem Einfamilienhaus um und nutzt es insgesamt zu eigenen Wohnzwecken.</lxbase:a><lxbase:a eingerueckt="nein">Lösung: </lxbase:a><lxbase:a eingerueckt="nein">In den Kalenderjahren 1988 und 1989
+kann A die steuerliche Förderung gemäß § 10e
+Abs. 1 EStG in Höhe von 5 v. H. von 225.000 DM (1/2
+von 400.000 DM zuzüglich 1/4 von 100.000 DM) für
+die selbstgenutzte Erdgeschoßwohnung wie Sonderausgaben
+absetzen. </lxbase:a><lxbase:a eingerueckt="nein">Ab dem Veranlagungszeitraum 1990 bis
+1995 kann der Abzugsbetrag nach § 10e EStG in Höhe
+von 5 v. H. von 300.000 DM (Höchstbemessungsgrundlage) steuermindernd
+berücksichtigt werden.</lxbase:a></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200004">IV. Ausbauten und Erweiterungen</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Wegen der Begriffe Ausbau und
+Erweiterung wird auf § 17 des II. Wohnungsbaugesetzes (WoBauG)
+(<lxbase:lit-fs normform="BStBl-1990-I-0424" manuell="nein">BStBl 1990
+I Seite 424</lxbase:lit-fs> und Anhang 3 EStR 1990) hingewiesen.</lxbase:a><lxbase:a eingerueckt="nein">Ein Ausbau i. S. d. § 17 Abs.
+1 II. WoBauG und des § 10e Abs. 2 EStG ist auch dann anzunehmen,
+wenn bisherige Neben- oder Zubehörräume unter Einsatz
+wesentlichen Bauaufwands baulich zu (Haupt-)Wohnräumen
+im engeren Sinne umgewandelt werden (z. B. Ausbau eines Kellerraumes
+zum Kinderzimmer). Hierbei ist von wesentlichem Bauaufwand auszugehen, wenn
+die aufgewendeten Baukosten mindestens 1/3 der Kosten betragen,
+die bei einem unterstellten Neubau des Gebäudes auf entsprechende
+Wohnräume anteilig entfallen würden.</lxbase:a><lxbase:a eingerueckt="nein">Umbaumaßnahmen an einer Wohnung
+führen nur dann zu Ausbauten i. S. d. § 10e EStG,
+wenn die Wohnräume wegen der Änderung der Wohngegebenheiten
+für Wohnzwecke ungeeignet waren. Es genügt nicht,
+daß die Wohnräume instandsetzungsbedürftig
+waren (BFH-Urteil vom 28. 4. 1992, 
+<lxprod:doknr-verw linkend="HT0101946">BStBl 1992
+Teil II Seite 823</lxprod:doknr-verw>).</lxbase:a><lxbase:a eingerueckt="nein">Die Voraussetzungen des § 10e
+Abs. 2 EStG sind auch dann erfüllt, wenn ein Steuerpflichtiger
+erstmals Neben- und Zubehörräume zu der selbstgenutzten Wohnung
+errichtet (z. B. eine Waschküche, Abstell- oder Trockenräume).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Der Ausbau oder die Erweiterung muß allerdings
+in jedem Fall unmittelbar in einem räumlichen Zusammenhang
+mit der selbstgenutzten Wohnung durchgeführt werden. Es
+ist ausreichend, wenn nach der Fertigstellung sowohl der Ausbau
+oder die Erweiterung und die Wohnung selbst genutzt werden (Abschn.
+11 des BMF-Schreibens).</lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel:</lxbase:a><lxbase:a eingerueckt="nein">A erwirbt im Kalenderjahr 1990 unentgeltlich
+in vorweggenommener Erbfolge ein Zweifamilienhaus, dessen Obergeschoßwohnung
+vermietet ist. Nachdem er an dem Zweifamilienhaus einen Anbau zum
+Preis von 100.000 DM errichtet hat, zieht er 1992 nach der Fertigstellung
+in die Erdgeschoßwohnung ein. Der gleich große
+im Obergeschoß gelegene Teil des Anbaues wird nach der
+Fertigstellung mit vermietet.</lxbase:a><lxbase:a eingerueckt="nein">Lösung:</lxbase:a><lxbase:a eingerueckt="nein">A kann ab dem Veranlagungszeitraum 1992
+einen Abzugsbetrag gemäß § 10e EStG in
+Höhe von 5 v. H. der anteiligen Herstellungskosten von
+50.000 DM = 2.500 DM in Anspruch nehmen. Die für
+den vermieteten Teil angefallenen Aufwendungen sind als nachträgliche
+Herstellungskosten in die AfA-Bemessungsgrundlage mit einzubeziehen.</lxbase:a></lxbase:beispiel></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Herstellungskosten für einen Ausbau
+bzw. eine Erweiterung an einem zu eigenen Wohnzwecken genutzten
+Einfamilienhaus, für das die erhöhten Absetzungen
+nach § 7b EStG im Wege der "Kleinen Übergangsregelung" (§ 52
+Abs. 21 Satz 4 EStG) wie Sonderausgaben abgezogen werden, können wegen
+des räumlichen Zusammenhangs nicht nach § 10e
+Abs. 2 EStG berücksichtigt werden (Abschn. 32 Satz 2 des
+BMF-Schreibens; bestätigt durch BFH-Urteil vom 4. 10. 1990,
+ 
+<lxprod:doknr-verw linkend="HT0097883">BStBl
+1991 II Seite 221</lxprod:doknr-verw>). Der Steuerpflichtige hat jedoch regelmäßig
+die Möglichkeit, auf die noch nicht in Anspruch genommenen
+Absetzungsbeträge nach § 7b EStG zu verzichten.
+Dies kann im Einzelfall von Vorteil sein, wenn sich wegen der dann
+möglichen Anwendung des § 10e Abs. 2 EStG eine
+höhere Steuerermäßigung nach § 34f
+Abs. 2 oder 3 EStG ergibt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>Herstellungskosten für einen Ausbau
+bzw. eine Erweiterung an einer zu eigenen Wohnzwecken genutzten
+Wohnung, die unter die "Große Übergangsregelung" (§ 52
+Abs. 21 Satz 2 EStG) fällt und für die der Steuerpflichtige
+noch nicht auf die Nutzungswertbesteuerung verzichtet hat, können nicht
+nach § 10e Abs. 2 EStG begünstigt werden (Abschn.
+4 des BMF-Schreibens). Die Herstellungskosten erhöhen vielmehr
+die AfA-Bemessungsgrundlage der eigengenutzten Wohnung, gleichzeitig
+ist der Mietwert für die neu geschaffene Wohnfläche
+zu erfassen (BFH-Urteil vom 5. 8. 1992 <lxprod:doknr-verw linkend="HT0104850">X R 23/92</lxprod:doknr-verw> <lxbase:lit-fs normform="DStZ-0092-0768" manuell="nein">DStZ 92, S. 768</lxbase:lit-fs>).
+Es kann deshalb im Einzelfall auch hier günstiger sein, wenn
+der Steuerpflichtige auf die "Große Übergangsregelung" verzichtet und
+die Steuervergünstigung nach § 10e Abs. 2 EStG
+in Anspruch nimmt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a>Wird in dem Ausbau bzw. durch die Erweiterung
+eine neue Wohnung hergestellt, kommt eine Förderung der
+Aufwendungen des Steuerpflichtigen nur nach § 10e Abs.
+1 EStG in Betracht. Insoweit ist kein Ausbau bzw. keine Erweiterung
+an einer zu eigenen Wohnzwecken genutzten Wohnung gegeben (Urteil
+des FG Münster vom 20. 10. 1992 Az <lxbase:az normform="6-K-5468/89" manuell="nein">6 K 5468/89
+E</lxbase:az>, nicht veröffentlicht).</lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel:</lxbase:a><lxbase:a eingerueckt="nein">A erwirbt im Jahre 1989 unentgeltlich
+ein zu gewerblichen Zwecken dienendes Gebäude. Im Laufe
+des Kalenderjahres 1989 ließ A einen Küchenanschluß,
+ein Bad / WC, eine Dusche sowie ein Treppenhaus in dieses
+Gebäude einbauen. Zusätzlich sind Aufwendungen
+für die Neueindeckung des Daches (keine Änderung
+der Dachkonstruktion) angefallen. </lxbase:a><lxbase:a eingerueckt="nein">Das vorhandene Gebäude wird
+unter Verwendung der Fundamente und der tragenden Teile (Innen-
+und Außenwände) umgestaltet und seit dem 1. 5.
+1990 von A zu eigenen Wohnzwecken genutzt. </lxbase:a><lxbase:a eingerueckt="nein">Die von A in diesem Zusammenhang aufgewendeten
+Baukosten betragen 105.000 DM.</lxbase:a><lxbase:a eingerueckt="nein">Lösung:</lxbase:a><lxbase:a eingerueckt="nein">Durch die durchgeführten Baumaßnahmen
+hat A kein neues Gebäude geschaffen (Abschn. 2 des BMF-Schreibens
+vom 17. 2. 1992, <lxprod:doknr-verw linkend="HT0105532">BStBl
+Teil I Seite 115</lxprod:doknr-verw>). Gleichwohl erhält A im vorliegenden Fall
+die Grundförderung nach § 10e Abs. 1 EStG, da
+er eine Wohnung im eigenen Haus hergestellt hat (Bemessungsgrundlage
+105.000 DM).</lxbase:a></lxbase:beispiel></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6."><lxbase:a>Zu den nach § 10e Abs. 2 EStG
+begünstigten Aufwendungen gehören nicht die anteiligen
+Kosten für den Grund und Boden (Abschn. 12 Satz 3 des BMF-Schreibens).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7."><lxbase:a>Die Inanspruchnahme der Steuervergünstigungen
+nach § 34f EStG i. V. m. § 10e Abs. 2 EStG ist
+bei einer Erweiterung i. S. d. § 17 Abs. 2 II. WoBauG bzw.
+bei einem Ausbau des Dachgeschosses bis Ende 1991 nicht von der Höhe
+der von dem Grundstückseigentümer getragenen Aufwendungen abhängig.
+Sie sind auch dann zu gewähren, wenn bereits die Steuerermäßigung
+nach § 34f EStG die Baukosten übersteigt.</lxbase:a><lxbase:a eingerueckt="nein">Eine Begrenzung der Steuerbegünstigung
+nach § 34f EStG ist erstmals durch das Steueränderungsgesetz
+1992 vom 25. 2. 1992 (vgl. Verfügung vom 5. 3. 1992 - <lxbase:az normform="S2225a165 St1231" manuell="nein">S-2225a - 165
+- St 12 - 31</lxbase:az>) eingeführt worden. Nach § 34f
+Abs. 4 Satz 1 EStG kann der Steuerpflichtige das Baukindergeld nur
+insgesamt bis zur Höhe der Bemessungsgrundlage der Abzugsbeträge
+nach § 10e Abs. 1 oder 2 EStG in Anspruch nehmen. Diese Begrenzung
+gilt erstmals für Objekte, die im Veranlagungszeitraum
+1992 angeschafft oder hergestellt worden sind.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200005">V. Nachträgliche
+Herstellungskosten bei teilentgeltlichem Erwerb</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Bei einem teilentgeltlichen Erwerb
+ist der Anschaffungsvorgang in einem entgeltlichen und einen unentgeltlichen
+Teil nach dem Verhältnis des Entgelts zu dem Verkehrswert
+des gesamten Wirtschaftsgutes aufzuteilen. Die Anschaffungsnebenkosten
+bleiben bei dieser Verhältnisermittlung außer Betracht.
+Sie sind vielmehr später direkt in voller Höhe
+den Anschaffungskosten zuzurechnen (vgl. BFH-Urteil vom 10. 10.
+1991, 
+<lxprod:doknr-verw linkend="HT0101176">BStBl
+1992 Teil II Seite 239</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Sofern bei einem teilentgeltlichen Erwerb
+später nachträgliche Anschaffungskosten anfallen,
+sind diese nicht auf den entgeltlichen und unentgeltlichen Teil
+der Anschaffung aufzuteilen. Sie erhöhen vielmehr in voller
+Höhe die Bemessungsgrundlage des § 10e EStG für
+den entgeltlich angeschafften Teil der Wohnung.</lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel: </lxbase:a><lxbase:a eingerueckt="nein">Im Jahre 1991 übertrugen die
+Eltern in vorweggenommener Erbregelung eine Eigentumswohnung auf
+ihren Sohn. Der Verkehrswert der Wohnung beläuft sich auf
+300.000 DM. S verpflichtet sich, an seine Schwester ein Gleichstellungsgeld
+in Höhe von 150.000 DM zu zahlen.</lxbase:a><lxbase:a eingerueckt="nein">Im unmittelbaren Anschluß an
+die Übertragung der Wohnung beginnt S mit der Errichtung
+eines ganzjährig nutzbaren Wintergartens. Dessen Herstellungskosten
+belaufen sich auf 30.000 DM. Bei der Übertragung der Wohnung
+fielen Anschaffungsnebenkosten in Höhe von 10.000 DM an.
+Die Eigentumswohnung wird insgesamt von S zu eigenen Wohnzwecken
+genutzt. Aus Vereinfachungsgründen beträgt der
+Anteil des Grund und Bodens 0 DM.</lxbase:a><lxbase:a eingerueckt="nein">Lösung: </lxbase:a><lxbase:a eingerueckt="nein">Bei der von S im Wege der vorweggenommenen
+Erbregelung im Jahre 1991 erworbenen Eigentumswohnung handelt es
+sich um ein teilentgeltliches Anschaffungsgeschäft. S hat
+in Höhe des Gleichstellungsgeldes an seine Schwester Anschaffungskosten
+in Höhe von 150.000 DM aufgewendet. Im Verhältnis
+zum Verkehrswert des Grundstücks (300.000 DM) handelt es
+sich insoweit zur Hälfte um ein entgeltliches und zur anderen
+Hälfte um ein unentgeltliches Anschaffungsgeschäft.
+Die Anschaffungsnebenkosten sind unmittelbar dem entgeltlichen Anschaffungsgeschäft
+zuzuordnen. Die nachträglichen Herstellungskosten in Höhe
+von 30.000 DM würden als Ausbau bei strenger Betrachtungsweise
+auf ein zweites neues Objekt nach § 10e Abs. 2 EStG wegen
+des räumlichen Zusammenhangs nicht begünstigt
+sein. Es bestehen aber in diesen Fällen keine Bedenken,
+diese Aufwendungen wie nachträgliche Herstellungskosten
+zu behandeln, die trotzdem nach § 10e EStG begünstigt sind.</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="75*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Anschaffungskosten: </lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>150.000 DM </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>Anschaffungsnebenkosten: </lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>10.000 DM </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0"><lxbase:a>nachträgliche Anschaffungskosten: </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>30.000 DM </lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>Summe: </lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>190.000 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200006">VI. Folgeobjekt</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Für ein Folgeobjekt
+ist der § 10e EStG in der jeweils gültigen Fassung
+zum Zeitpunkt der Anschaffung oder Herstellung maßgebend.
+Es sind jedoch nur die Vomhundertsätze der vom Erstobjekt
+verbliebenen Jahre maßgebend.</lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel: </lxbase:a><lxbase:a eingerueckt="nein">A hat für ein 1990 hergestelltes
+und am 1. 6. 1992 wieder veräußertes Einfamilienhaus
+Abzugsbeträge nach § 10 Abs. 1 EStG für
+die Veranlagungszeiträume 1990 bis 1992 in Anspruch genommen.
+Mit notariell beurkundetem Kaufvertrag vom 1. 7. 1993 schafft er
+sich eine Eigentumswohnung an, die er ab dem Anschaffungszeitpunkt
+zu eigenen Wohnzwecken nutzt.</lxbase:a><lxbase:a eingerueckt="nein">A macht von der Folgeobjektregelung
+nach § 10 Abs. 4 Satz 4 EStG Gebrauch.</lxbase:a><lxbase:a eingerueckt="nein">Lösung: </lxbase:a><lxbase:a eingerueckt="nein">Die neue degressive Ausgestaltung des § 10e
+Abs. 1 EStG mit dem Abzugssatz von 6 v. H. wirkt sich für
+das Folgeobjekt noch im Veranlagungszeitraum 1993 aus. Der Abzugszeitraum
+für das erste Objekt umfaßte die Jahre 1990 bis
+1992. Die hierfür zulässige Grundförderung
+betrug demnach 3 x 5 v. H., höchstens jeweils 15.000 DM.
+Bei dem Folgeobjekt handelt es sich um ein Objekt im Sinne des § 10e
+Abs. 1 EStG in der Fassung des Steueränderungsgesetzes
+1992. Es sind demnach grundsätzlich die degressiv ausgestalteten
+Abzugssätze anzuwenden, allerdings sind die für
+das Erstobjekt in Anspruch genommenen Jahre bei der Bemessung der
+Vomhundertsätze zu berücksichtigen. Das bedeutet,
+daß der Abzugszeitraum für das Folgeobjekt die
+Jahre 1993 bis 1997 und die vom 4. bis zum 8. Jahr verbliebenen
+Abzugsbeträge des Erstobjekts umfaßt. Die Grundförderung
+für den Veranlagungszeitraum 1993 beträgt demnach
+6 v. H., höchstens 19.800 DM. Für die Jahre 1994
+bis 1997 können jeweils noch 4 x 5 v. H., höchstens
+jeweils 16.500 DM, abgesetzt werden.</lxbase:a></lxbase:beispiel></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Im Rahmen der Folgeobjektregelung ist es
+unter Umständen auch möglich, den erweiterten
+Schuldzinsenabzug nach § 10e Abs. 6 a EStG für
+das Folgeobjekt in Anspruch zu nehmen. Zur Verdeutlichung wird in
+diesem Zusammenhang auf das folgende Beispiel verwiesen.</lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel:</lxbase:a><lxbase:a eingerueckt="nein">S hat für ein im Jahre 1991
+angeschafftes und am 1. 6. 1993 wieder veräußertes Einfamilienhaus
+die Abzugsbeträge nach § 10e Abs. 1 EStG für
+die Veranlagungszeiträume 1991 bis 1993 in Anspruch genommen.
+Im Jahre 1992 erstellt S ein weiteres Objekt, das er nach dem Verkauf
+des Einfamilienhauses im Jahre 1993 zu eigenen Wohnzwecken nutzt.
+S macht von der Folgeobjektregelung nach § 10e Abs. 4 Satz
+4 EStG Gebrauch. Er wendet in den einzelnen Jahren ab dem Veranlagungszeitraum
+1992 jeweils Schuldzinsen in Höhe von 15.000 DM jährlich
+auf.</lxbase:a><lxbase:a eingerueckt="nein">Lösung: </lxbase:a><lxbase:a eingerueckt="nein">Da es sich bei dem Folgeobjekt um ein
+Objekt im Sinne des § 10e EStG Abs. 1 EStG in der Fassung
+des Steueränderungsgesetzes 1992 handelt, kann S grundsätzlich
+den Schuldzinsenabzug nach § 10e Abs. 6 a EStG für
+das Objekt in Anspruch nehmen. Voraussetzung ist jedoch, daß der
+Steuerpflichtige für dieses Objekt die Abzugsbeträge
+nach § 10e Abs. 1 oder 2 EStG in Anspruch nimmt. Ein Schuldzinsenabzug
+scheidet demnach für den Veranlagungszeitraum 1992 aus,
+da der Steuerpflichtige das Folgeobjekt noch nicht zu eigenen Wohnzwecken
+genutzt hat. Für den Veranlagungszeitraum 1993 kommt ein
+Schuldzinsenabzug nach § 10e Abs. 6 a EStG ebenfalls nicht
+in Betracht, da der Steuerpflichtige noch für das Erstobjekt
+die Grundförderung nach § 10e Abs. 1 EStG in Anspruch
+nimmt. Er kann demnach lediglich für den Veranlagungszeitraum
+1994 Schuldzinsen bis zum Höchstbetrag von 12.000 DM nach § 10e Abs.
+6 a EStG abziehen. Eine Nachholung des im Jahre 1992 nicht in Anspruch genommenen
+Schuldzinsenabzugs nach § 10e Abs. 6 a Satz 2 EStG im Kalenderjahr
+1995 scheidet deshalb aus, weil im Jahre 1992 die Voraussetzungen
+für die Inanspruchnahme des Schuldzinsenabzugs nach § 10e
+Abs. 6 a EStG nicht vorlagen, denn der Steuerpflichtige konnte für
+das Folgeobjekt nicht die Steuerbegünstigung des § 10e
+Abs. 1 EStG in Anspruch nehmen.</lxbase:a></lxbase:beispiel></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200007">VII. § 10e
+EStG bei Eigentümergemeinschaften</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die unter V. 1. Abs. 2 in meiner Bezugsverfügung
+vom 18. 11. 1988 dargestellten Verwaltungsauffassung ist inzwischen überholt
+(BFH-Urteil vom 12. 2. 1988, 
+<lxprod:doknr-verw linkend="HT0081452">BStBl Teil II Seite 764</lxprod:doknr-verw>, Grundsatz
+der Rechtszuständigkeit am gemeinschaftlichen Eigentum).
+Nach Abschn. 27 des BMF-Schreibens kann der Miteigentümer
+eines Zweifamilienhauses seine gesamten Aufwendungen für
+die selbstgenutzte Wohnung im Rahmen des § 10e Abs. 1 Satz
+1 oder Abs. 2 EStG steuermindernd geltend machen, wenn sein Miteigentumsanteil
+dem Wert der zu eigenen Wohnzwecken genutzten Wohnung im Verhältnis
+zum Wert des Gebäudes entspricht.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200008">VIII. § 10e
+Abs. 6 EStG</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Zu den nach § 10e Abs.
+6 EStG abziehbaren Aufwendungen eines Steuerpflichtigen gehören
+nicht die Absetzungen für Abnutzung gemäß § 7
+EStG, vgl. FG München, Urteil vom 21. 5. 1992 <lxbase:az normform="K-4660/90" manuell="nein">K 4660/90</lxbase:az>,
+NWB Eilnachrichten 1992 S. 351 (Ausnahme aber siehe Tz. I.3: Anschaffungskosten
+für ein Erbbaurecht).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Aufwendungen i. S. d. § 10e Abs.
+6 EStG liegen nur vor, wenn ein unmittelbarer Zusammenhang mit der
+eigengenutzten Wohnung gegeben ist. Eine Berücksichtigung
+von vergeblichen Kosten wie Sonderausgaben scheidet somit aus (Abs.
+56 des BMF-Schreibens, BFH-Urteil vom 17. 7. 1991, 
+<lxprod:doknr-verw linkend="HT0100505">BStBl II Seite
+916</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Aufwendungen für Fahrten zur Einholung
+von Kreditangeboten zur Finanzierung des herzustellenden bzw. anzuschaffenden
+eigengenutzten Wohnobjektes können wie Sonderausgaben abgezogen
+werden, wenn sie in unmittelbarem Zusammenhang mit dem eigengenutzten
+Wohnobjekt stehen und es sich um Finanzierungskosten handelt (Abschn.
+50 des BMF-Schreibens).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>Betriebskosten (z. B. Grundsteuer und Gebäudeversicherungsprämien)
+können im Jahr der Zahlung bis zu der Höhe abgezogen
+werden, in der sie auf den Zeitraum bis zur erstmaligen Nutzung
+der Wohnung zu eigenen Wohnzwecken entfallen. Auf die Ausführungen
+in Abschn. 54 des BMF-Schreibens wird verwiesen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a>Nach § 10e Abs. 6 EStG können
+auch solche Aufwendungen abgezogen werden, die der Steuerpflichtige
+bis zum Beginn der erstmaligen Nutzung eines Ausbaues oder einer
+Erweiterung der zu eigenen Wohnzwecken genutzten Wohnung aufgewendet
+hat (Abschn. 61 des BMF-Schreibens). Aufwendungen, die im Zusammenhang
+mit nachträglichen Herstellungskosten stehen, sind nicht
+nach § 10e Abs. 6 EStG abzugsfähig.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6."><lxbase:a>Erwirbt ein Steuerpflichtiger eine Wohnung
+unentgeltlich, so kann er die von ihm bis zum Bezug der Wohnung
+getragenen Aufwendungen i. S. d. § 10e Abs.6 EStG nur dann
+steuerlich geltend machen, wenn er Gesamtrechtsnachfolger ist und
+der Erblasser die Wohnung bisher nicht zu eigenen Wohnzwecken genutzt
+hatte. Der BFH vertritt in einem Urteil vom 11. 3. 1992 abweichend
+von Abschn. 49 des BMF-Schreibens die Auffassung, daß vor Bezug
+entstandene Aufwendungen für die Renovierung einer zu eigenen Wohnzwecken
+genutzten Wohnung nach § 10e Abs. 6 EStG auch bei unentgeltlicher
+Einzelrechtsnachfolge der Wohnung abgezogen werden können. Diese
+Auslegung ist im Hinblick auf den Wortlaut sowie den Sinn und Zweck
+der Vorschrift zweifelhaft. Das Urteil ist, auch im Hinblick auf
+weitere ähnlich gelagerte beim BFH anhängige Verfahren,
+nicht über den entschiedenen Einzelfall hinaus anzuwenden
+(<lxprod:doknr-verw linkend="HT0106151">BStBl 1992
+Teil I Seite 584</lxprod:doknr-verw>). Vergleichbare Rechtsbehelfsverfahren können
+mit Zustimmung des Stpfl. weiterhin ruhen (vgl. Kurz-Information für
+den ESt-Hauptsachgebietsleiter Nr. 37/1990 vom 22. 5. 1990).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7."><lxbase:a>Im Falle eines teilentgeltlichen Erwerbs
+ist nach der Verwaltungsauffassung eine differenzierte Beurteilung
+des Steuerfalls geboten:</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel: </lxbase:a><lxbase:a eingerueckt="nein">A, B und C sind zu gleichen Teilen Erben
+ihres im Januar 01 verstorbenen Vaters V. Das Erbe besteht im wesentlichen
+aus einem Einfamilienhaus (Verkehrswert 450.000 DM, darin Grund
+und Boden 75.000 DM), das V bis zu seinem Tode zu eigenen Wohnzwecken
+genutzt hat. A übernimmt die Anteile der Geschwister (Verkehrswert
+der beiden Anteile: 300.000 DM, darin Grund- und Bodenanteil 50.000
+DM) im Juli 01 gegen Abstandszahlungen von jeweils 75.000 DM (ges.
+150.000 DM). Nach der Renovierung des Gebäudes (Baukosten:
+12.000 DM) zog A noch im Dezember des Jahres 01 in das Haus ein
+und nutzt dieses ab diesem Zeitpunkt zu eigenen Wohnzwecken. Zur
+Finanzierung der Abstandszahlungen nimmt A ein Darlehen auf, für
+das er im Jahre 01 15.000 DM an Schuldzinsen zahlt.</lxbase:a><lxbase:a eingerueckt="nein">Lösung: </lxbase:a><lxbase:a eingerueckt="nein">A ist zu 1/3 Gesamtrechtsnachfolger
+nach V geworden. Die auf diesen Anteil entfallenden Renovierungskosten
+in Höhe von 4.000 DM stellen Erhaltungsaufwendungen dar.
+Sie können jedoch nicht als Vorkosten i. S. d. § 10e
+Abs. 6 EStG steuermindernd berücksichtigt werden, da V
+das Einfamilienhaus bis zu seinem Tode zu eigenen Wohnzwecken genutzt
+hatte (nicht erstmalige Nutzung, A tritt in die Rechtsstellung seines
+Vaters ein).</lxbase:a><lxbase:a eingerueckt="nein">A hat die Miteigentumsanteile seiner
+Geschwister (2/3 des Grundstücks) gegen Zahlung
+von 150.000 DM teilentgeltlich erworben. Insoweit steht ihm der Abzugsbetrag
+nach § 10e Abs. 1 EStG zu. Der Höchstbetrag nach § 10e
+Abs. 1 EStG wird nicht gekürzt (Abschnitt 16 des BMF-Schreibens).</lxbase:a><lxbase:a eingerueckt="nein">Die anteilig auf den entgeltlichen Erwerb
+(50 %) entfallenden Renovierungskosten in Höhe
+von 4.000 DM (2/3 von 12.000 DM = 8.000 DM, davon
+50 v. H.) sind nach § 10e Abs.6 EStG abzugsfähig.</lxbase:a><lxbase:a eingerueckt="nein">Die verbleibenden 4.000 DM Erhaltungsaufwendungen
+entfallen auf den unentgeltlich erworbenen Anteil und können
+nicht steuermindernd berücksichtigt werden, da A als Einzelrechtsnachfolger
+nach seinen Geschwistern nicht zum Abzug der Kosten nach § 10e
+Abs. 6 EStG berechtigt ist.</lxbase:a><lxbase:a eingerueckt="nein">Die von A gezahlten Schuldzinsen in
+Höhe von 15.000 DM sind dagegen in voller Höhe
+als Vorkosten gemäß § 10e Abs. 6 EStG
+abzugsfähig, da sie ausschließlich auf den entgeltlich
+erworbenen Teil des Einfamilienhauses entfallen.</lxbase:a><lxbase:a eingerueckt="nein">Berechnung des § 10e EStG:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="67*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a> Anschaffungskosten:</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>150.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>./. Grund
+und Boden</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>25.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0" /><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>125.000 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>+ 1/2
+Grund und Boden</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a>12.500 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>= BMG § 10e
+EStG</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>137.500 DM</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200009">IX. Schuldzinsenabzug
+gemäß § 10e Abs. 6 a EStG</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Der Schuldzinsenbegriff des § 10e
+Abs. 6 a EStG ist ebenso wie der Schuldzinsenbegriff des § 10e
+Abs. 6 EStG weit auszulegen. Unter diese Regelung fallen demnach
+neben den normalen Schuldzinsen auch das Damnum und sonstige Geldbeschaffungskosten,
+wie z. B. Schätzung-, Hypothekenvermittlungs-, Bürgschafts-
+und Zuteilungsgebühren, finanzierungsbedingte Notargebühren,
+Kreditprovisionen und Bereitstellungszinsen. Die Erbbauzinsen sind
+ebenfalls wie Schuldzinsen zu behandeln. Der abgezinste Teil einer Kaufpreisforderung
+kann ggf. auch nach § 10e Abs. 6 a EStG berücksichtigt werden.</lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel: </lxbase:a><lxbase:a eingerueckt="nein">S erwirbt am 1. 3. 1992 ein Einfamilienhaus
+im Wege der vorweggenommenen Erbfolge von seinem Vater gegen Zahlung
+eines Gleichstellungsgeldes an seine Schwester in Höhe
+von 200.000 DM. Der Kaufpreis ist erst am 28. 2. 1994 in einer Summe
+fällig. Der Verkehrswert des Grundstücks beträgt
+360.000 DM.</lxbase:a><lxbase:a eingerueckt="nein">Lösung: </lxbase:a><lxbase:a eingerueckt="nein">Bei dem Erwerb des Einfamilienhauses
+in vorweggenommener Erbfolge handelt es sich um ein teilentgeltliches
+Anschaffungsgeschäft. S hat Anschaffungskosten im Sinne
+des § 10e EStG in Höhe des abgezinsten Gegenwartswerts
+der Gleichstellungsgelder, da es sich im vorliegenden Fall um eine
+unverzinsliche Geldleistung handelt, deren Laufzeit mehr als ein
+Jahr beträgt. Unter Zugrundelegung der Vorschriften des
+Bewertungsgesetzes ergibt sich somit ein Anschaffungspreis von 179.690
+DM. Der Steuerpflichtige kann den Zinsanteil von 20.310 DM bis zu
+einer Höhe von 12.000 DM im Veranlagungszeitraum 1994 bei
+Zahlung als Schuldzinsenbetrag gemäß § 10e
+Abs. 6 a EStG geltend machen.</lxbase:a></lxbase:beispiel></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Die Vorschrift des § 10e Abs.
+6 a EStG ist nur auf Neubauten anzuwenden, d. h., der Steuerpflichtige
+muß das begünstigte Objekt nach § 10e
+Abs. 1 oder Abs. 2 EStG selbst herstellen oder bis zum Ende des
+Jahres der Fertigstellung anschaffen.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Der Schuldzinsenabzug ist grundsätzlich
+an die tatsächliche Inanspruchnahme des Steuerabzugsbetrages
+nach § 10e EStG im jeweiligen Veranlagungszeitraum gekoppelt.
+Die Geltendmachung des vollen Abzugsbetrages ist jedoch nicht erforderlich.
+Eine Ausnahmeregelung gilt aber dann, wenn dem Steuerpflichtigen
+nur wegen der Einkommensbegrenzung im § 10e Abs. 5 a EStG
+kein Abzugsbetrag zusteht.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a>Bezüglich der Anwendung des § 10e
+Abs. 6 a EStG i. V. m. der Folgeobjektregelung nach § 10e
+Abs. 4 EStG verweise ich auf die Ausführungen zu Tz. VI.
+2.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200010">X. AfA in Fällen
+gemischter bzw. geänderter Nutzung</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Der Abzugsbetrag nach § 10e
+EStG stellt keine Absetzung für Abnutzung i. S. d. § 7
+EStG dar. Wird eine bisher zu eigenen Wohnzwecken genutzte Wohnung
+zur Erzielung von Einkünften i. S. d. EStG verwandt (= Nutzungsänderung),
+kann der bisher nach § 10e EStG anzusetzende Betrag somit nicht
+ohne weiteres als Werbungskosten bzw. als Betriebsausgaben abgezogen
+werden. Für Zwecke der Einkunftsermittlung ist in diesen
+Fällen die gesetzlich zugelassene AfA zu ermitteln. Die
+in der Bemessungsgrundlage nach § 10e Abs. 1 EStG enthaltenen
+Anschaffungskosten des Grund und Bodens können bei der
+Ermittlung der AfA-Bemessungsgrundlage für die Abschreibung
+nach § 7 EStG nicht mit einbezogen werden. Nach Abschn. 43
+Abs. 6 Satz 3 Nr. 2 a EStR bleiben die Anschaffungs- oder Herstellungskosten
+oder der an deren Stelle tretende Wert der Wohnung für
+die weitere AfA als Bemessungsgrundlage maßgebend.</lxbase:a><lxbase:a eingerueckt="nein">Wegen der AfA-Methode Hinweis auf Abschn.
+44 Abs. 12 Satz 1 Nr. 2 EStR.</lxbase:a><lxbase:a eingerueckt="nein">In Veranlagungszeiträumen,
+in denen die Wohnung nach einer Nutzungsänderung der Erzielung
+von steuerpflichtigen Einkünften dient, kommt eine Nachholung
+von AfA für die Vorjahre nicht in Betracht, weil die gesetzliche AfA
+für die Zeit der Nutzung einer Wohnung zu eigenen Wohnzwecken
+des Eigentümers verbraucht und für diesen Zeitraum
+mangels Einkunftserzielung auch steuerlich nicht absetzbar ist (Abschn.
+44 Abs. 12 Satz 1 Nr. 2 Satz 4 EStR).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Werden Teile der Wohnung nicht zu eigenen
+Wohnzwecken genutzt (z. B. Praxisräume, Arbeitszimmer,
+vgl. § 10e Abs. 1 Satz 7 EStG), so sind die darauf entfallenden
+Anschaffungs- oder Herstellungskosten nach § 7 Abs. 4 oder
+Abs. 5 i. V. m. Abs. 5 a EStG abzuschreiben.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200011">XI. Verzicht auf die
+Nutzungswertbesteuerung</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Nach § 52 Abs. 21 Satz
+3 EStG kann der Steuerpflichtige unwiderruflich beantragen, daß die
+Nutzungswertbesteuerung für seine Wohnung entfällt. Die
+Bindungswirkung dieser Option ergibt sich bereits aus dem Antrag
+des Steuerpflichtigen im Veranlagungsverfahren, nicht erst aus der
+bestandskräftigen Steuerfestsetzung für den ersten
+Veranlagungszeitraum, für den kein Nutzungswert mehr zu
+erfassen ist (vgl. Abschn. II Ziffer 4 des BMF-Schreibens vom 19.
+9. 1986, <lxprod:doknr-verw linkend="HT0074061">BStBl
+I Seite 480</lxprod:doknr-verw>, Erlaß des FM NRW vom 19. 9. 1986,
+mitgeteilt durch Rundverfügung vom 13. 10. 1986 - <lxbase:az normform="S2225a154 St1631" manuell="nein">S-2225a - 154
+- St 16 - 31</lxbase:az>). Der Antrag kann deshalb auch nicht im Rechtsbehelfsverfahren
+widerrufen werden (vgl. Urteil des FG Bremen vom 23. 2. 1990, 
+<lxbase:lit-fs normform="efg-1990-0528" manuell="nein">EFG 1990 Seite 528</lxbase:lit-fs>;
+ebenso: FG Münster vom 11. 9. 1991, Az.: <lxprod:doknr-verw linkend="HT0100771">13 K 2923/90
+E</lxprod:doknr-verw>(nicht veröffentlicht)).</lxbase:a><lxbase:a eingerueckt="nein">Die Finanzverwaltung läßt
+aber aus Billigkeitsgründen eine Ausnahme zur Unwiderruflichkeit
+des Antrags auf Wegfall der Nutzungswertbesteuerung zu, wenn das
+Finanzamt von der in der ESt-Erklärung vorgenommenen Aufteilung
+der Aufwendungen in einen nichtabziehbaren Betrag und in einen als Werbungskosten
+bei den Einkünften aus Vermietung und Verpachtung abziehbaren
+Betrag zu Lasten des Steuerpflichtigen abweicht (Rundverfügung
+der OFD Münster vom 27. 9. 1989 - <lxbase:az normform="S2225a154 St1631" manuell="nein">S-2225a - 154
+- St 16 - 31</lxbase:az>, ESt-Nr. 74/1989).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Der Antrag nach § 52 Abs. 21 Satz
+3 EStG kann nach Abschn. II Ziff. 4 des BMF-Schreibens vom 19. 9.
+1986 (a. a. O.) bis zur Bestandskraft der Steuerfestsetzung gestellt
+werden.</lxbase:a><lxbase:a eingerueckt="nein">Bei einem unter dem Vorbehalt der Nachprüfung
+stehenden Steuerbescheid (§ 164 AO) ist der Antrag - auch
+nach Bestandskraft des Bescheides - jederzeit und ohne Einschränkung
+zulässig.</lxbase:a><lxbase:a eingerueckt="nein">Bei einem vorläufigen Steuerbescheid
+(§ 165 AO) ist der (nachträgliche) Antrag nur
+zulässig, soweit sich die Vorläufigkeit auf ungewisse
+Tatsachen erstreckt, die für die Ermittlung der Einkünfte
+aus Vermietung und Verpachtung der Wohnung des Steuerpflichtigen
+nach § 52 Abs. 21 Satz 2 EStG maßgebend sind.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a>Steht ein Gebäude im Miteigentum
+mehrerer Personen und nutzen die Miteigentümer jeweils
+eine ihren Miteigentumsanteil entsprechende Wohnung des Hauses,
+kann jeder Miteigentümer allein den Antrag nach § 52
+Abs. 21 Satz 3 EStG stellen. Nach dem Grundsatz der Rechtszuständigkeit
+am gemeinschaftlichen Eigentum (vgl. oben V.), erfüllt
+nur der Miteigentümer, der die einzelne Wohnung zu eigenen
+Wohnzwecken nutzt, die Voraussetzungen des § 52 Abs. 21
+Satz 2 EStG. Den übrigen Miteigentümern ist für
+diese Wohnung auch im Veranlagungszeitraum 1986 kein Nutzungswert
+zuzurechnen.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200012">XII. Billigkeitsmaßnahmen</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a>Nach Tz. II. 4 Satz 5 des Erlasses
+des Finanzministers NRW vom 19. 9. 1986 und Abschn. 157 Abs. 2 Satz
+6 EStR kann ein Steuerpflichtiger, der größeren Erhaltungsaufwand
+nach § 82b, § 82h oder § 82k EStDV verteilt
+abgezogen hat, den noch nicht abgezogenen Aufwand in einem Betrag
+in dem Veranlagungszeitraum abziehen, für den infolge einer
+Option nach § 52 Abs. 21 Satz 3 EStG letztmals der Nutzungswert
+anzusetzen ist. Entsprechendes gilt nach Tz. III. 1 c des o. g.
+Erlasses bei § 21a-Objekten, bei denen die Verteilung größeren
+Erhaltungsaufwands gemäß Abschn. 157 Abs. 2 Sätze
+6, 10 und 11 EStR 1987 zulässig war.</lxbase:a><lxbase:a eingerueckt="nein">Ist die Steuerfestsetzung des Veranlagungszeitraums,
+für den letztmals ein Nutzungswert versteuert wird, bereits
+bestandskräftig und hat der Steuerpflichtige die noch nicht
+abgezogenen Erhaltungsaufwendungen versehentlich (z. B. aus Unkenntnis
+der o. a. Anweisung) oder weil er die Nutzungswertbesteuerung zunächst
+weiterführen wollte, in diesem Veranlagungszeitraum nicht
+geltend gemacht, kann die ESt-Festsetzung auf Antrag des Steuerpflichtigen
+berichtigt werden, da es sich bei der o. a. Regelung zum Sofortabzug
+des bisher nicht berücksichtigten Restes der Erhaltungsaufwendungen
+um eine Billigkeitsmaßnahme handelt, die insoweit Grundlagenbescheid
+für den ESt-Bescheid ist. Die ESt-Festsetzung kann deshalb nach § 175
+Abs. 1 Nr. 1 AO geändert werden.</lxbase:a><lxbase:a eingerueckt="nein">Mit Urteil vom 14. 11. 1990 <lxprod:doknr-verw linkend="HT0097847">VII 2386/89
+E</lxprod:doknr-verw>(nicht veröffentlicht) hat das FG Münster
+Erhaltungsaufwendungen, die einem Steuerpflichtigen im Jahre 1985
+für sein zu eigenen Wohnzwecken genutztes Einfamilienhaus
+und gemäß § 82b EStDV auf fünf
+Jahre verteilt hatte, im Kalenderjahr 1987 als nachträgliche
+Werbungskosten bei den Einkünften aus Vermietung und Verpachtung
+berücksichtigt, obwohl das Einfamilienhaus nach dem Wohneigentumsförderungsgesetz
+kraft Gesetzes ab dem Veranlagungszeitraum 1987 aus der Nutzungswertbesteuerung
+ausscheidet. Da nach der Rechtsprechung der Wegfall der jeweiligen
+Einkunftsart der Geltendmachung nachträglicher Werbungskosten
+nicht entgegenstehe, müsse auch die vom Gesetz geregelte
+Verteilung bereits getätigter Ausgaben weiterhin Geltung
+haben.</lxbase:a><lxbase:a eingerueckt="nein">Gegen dieses Urteil ist beim BFH Revision
+unter dem Aktenzeichen <lxbase:az normform="IX-R-14/91" manuell="nein">IX
+R 14/91</lxbase:az> anhängig.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a>Nach der kleinen Übergangsregelung
+des § 52 Abs. 21 Satz 4 EStG können erhöhte
+Absetzungen nach § 7b EStG und der erweiterte Schuldzinsenabzug nach § 21a
+Abs. 4 EStG wie Sonderausgaben abgezogen werden. Dies kann zu einkommensteuerlichen
+Nachteilen führen, soweit die Höhe bestimmter Einkünfte
+oder der Gesamtbetrag der Einkünfte steuerlich von Bedeutung
+ist (z. B. bei den §§ 10b, 10d, 14a, 18 Abs. 4
+EStG 1987, 24a, 33, 46 Abs. 2 Nr. 1 EStG). Diese weitreichenden
+und bei der Verabschiedung des Wohneigentumsförderungsgesetzes
+auch bekannten Auswirkungen hat der Gesetzgeber bewußt
+hingenommen. Gründe für eine abweichende Steuerfestsetzung
+aus sachlichen Billigkeitsgründen sind daher nicht gegeben.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D010712200013">XIII. Steuerliche Behandlung
+von Bausparguthabenzinsen</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Hinweis auf das BMF-Schreiben vom 28.
+2. 1990, <lxprod:doknr-verw linkend="HT0094671">BStBl
+1990 I Seite 124</lxprod:doknr-verw>.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Lohnsteuer</lxbase:rthema><lxbase:rthema>Wohnungseigentum</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Verfahrensrecht/Abgabenordnung</lxbase:rthema><lxbase:rthema>Steuerliche
+Förderungsgesetze</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Nordrhein-Westfalen</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

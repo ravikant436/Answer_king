@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" dok-nummer="0577169" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion
+Frankfurt am Main</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2291 A - 10 - St II 20</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2291</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2002-08-23" ts="nein" /></lxbase:daten><lxbase:fundstellen><lxbase:nicht-normiert><lxbase:fs-kuerzel>LW-Kartei
+Fach 12 Karte 20</lxbase:fs-kuerzel></lxbase:nicht-normiert></lxbase:fundstellen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:34b</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:34b/2</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:34b/2/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:34b/2/2</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:4/4</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>UStG:24/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStR:212/5</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2002" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Aufteilung der Betriebsausgaben
+nach § 34b Abs. 2 EStG</lxbase:a></lxbase:headline></lxbase:titel><lxbase:kapitel><lxbase:num-aufz typ="römisch groß"><lxbase:aufz-pkt wert="I. "><lxbase:a>Nach § 34 b Abs. 2 EStG
+ist bei der Ermittlung der Einkünfte aus den einzelnen Holznutzungsarten
+ein bestimmter Teil der Betriebsausgaben nur bei den Einnahmen aus ordentlichen
+Holznutzungen und aus Kalamitätsnutzungen, die innerhalb des Nutzungssatzes
+anfallen, zu berücksichtigen (§ 34b Abs. 2 Nr. 1 EStG), während
+die anderen Betriebsausgaben entsprechend der Höhe der Einnahmen
+aus allen Holznutzungsarten auf diese zu verteilen sind (§ 34b Abs.
+2 Nr. 2 EStG). Ist die Aufteilung durch entsprechende Kontierung
+und Verbuchung nicht vollständig nachgewiesen, so kann sie durch
+anteilmäßige Schätzung ergänzt werden.</lxbase:a><lxbase:a>Die ermäßigten Steuersätze des § 34b EStG (§ 5 ForstschAusglG)
+setzen nach § 34b Abs. 2 EStG voraus, dass die Betriebsausgaben
+- aufgeteilt in solche nach § 34b Abs. 2 Nr. 1 und nach Nr. 2 EStG
+- nachgewiesen werden. Die Aufteilung der nachgewiesenen Einzelposten
+kann sowohl bei buchführenden als auch bei nicht buchführenden Land- und
+Forstwirten - durch eine ergänzende Schätzung bewirkt werden, wenn
+eine getrennte Aufzeichnung nicht erfolgt ist (R 212 Abs. 5 EStR).
+</lxbase:a><lxbase:a>Bei Anwendung der Betriebsausgaben-Pauschale nach § 51
+EStDV, § 4 ForstschAusglG ist der Pauschsatz von den Einnahmen aus
+der jeweiligen Holznutzungsart abzuziehen (R 209 Abs. 2 Satz 3 EStR).
+Werden die Betriebsausgaben dagegen in anderer Weise geschätzt,
+so kommen die ermäßigten Steuersätze nicht in Betracht. Ebensowenig
+ist es zulässig, für die Gewinnermittlung die Pauschsätze für Betriebsausgaben
+in Anspruch zu nehmen und gleichzeitig für die Ermittlung der tarifbegünstigten Gewinnteile
+die Betriebsausgaben nach § 34b Abs. 2 EStG nachzuweisen.</lxbase:a><lxbase:a>Den Aufwendungen nach § 34b Abs. 2 Nr. 1 oder 2 EStG sind
+sämtliche Betriebsausgaben zuzuordnen, die mit der Holznutzung zusammenhängen,
+z.B. auch Bestandspflege, Wegeunterhaltung, Wildschutz. Nur solche
+Betriebsausgaben, die ausschließlich durch andere Betriebseinnahmen
+als solche aus Holznutzung veranlasst sind, wie z.B. landwirtschaftliche
+Nutzung, Nebenbetriebe, sind nicht den Aufwendungen nach § 34b Abs.
+2 EStG zuzuordnen.</lxbase:a><lxbase:a>Nicht aufzuteilen sind Aufwendungen, die keine Betriebsausgaben
+sind und sich deshalb nicht auf die Höhe der Einkünfte ausgewirkt
+haben, z.B. Spenden, Leistungen zur Erfüllung von auf privatem Grundbesitz
+ruhenden Patronatslasten (BFH-Urteil vom 17.10.1958, <lxprod:doknr-verw linkend="HT0000401">BStBl 1959
+III S. 15</lxprod:doknr-verw>), Grundkirchensteuern, Altenteilsleistungen
+und Apanagen.</lxbase:a><lxbase:a>Bei Ermittlung der steuerbegünstigten Einkünfte im Sinne
+des § 34b EStG sind den Holzerlösen ohne Umsatzsteuer die Betriebsausgaben
+ohne Vorsteuer gegenüber zu stellen, wenn die Umsätze nach den allgemeinen
+Vorschriften des UStG (§ 24 Abs. 4 UStG) besteuert und deshalb getrennt
+aufgezeichnet werden.</lxbase:a><lxbase:a>Werden die Umsätze mit den Durchschnittssätzen des § 24
+Abs. 1 UStG besteuert, so sind sowohl für die Holzerlöse als auch
+für die Betriebsausgaben die Bruttobeträge zugrunde zu legen. Wird
+die Umsatzsteuer getrennt gebucht, so sind dementsprechend die Betriebseinnahmen
+um die Umsatzsteuer zu erhöhen und die gesondert gebuchten Vorsteuern
+den jeweiligen Betriebsausgaben nach § 34 b Abs. 1 oder 2 EStG zuzuordnen.</lxbase:a><lxbase:a>Entschädigungen und Zuschüsse für Betriebsausgaben, Skonti
+und Rabatte mindern jeweils die entsprechenden Betriebsausgaben.
+Gewinnauswirkungen, die sich durch Rückstellungen und Wertberichtigungen
+ergeben, sind ebenfalls bei den entsprechenden Betriebsausgaben
+zu berücksichtigen.</lxbase:a><lxbase:a>Die nachstehenden Übersichten enthalten die am häufigsten
+vorkommenden Betriebsausgaben, die für eine Aufteilung nach § 34
+b Abs. 2 EStG in Betracht kommen. Die Punkte, zu denen am Schluss
+der Übersichten Erläuterungen gegeben werden, sind durch ein Sternchen
+(*) gekennzeichnet.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="II. "><lxbase:a>Übersicht über die Betriebsausgaben
+i.S. des § 34 b Abs. 2 Nr. 1 EStG (Nur zu berücksichtigen bei den
+Einnahmen aus ordentlichen Nutzungen und Kalamitätsnutzungen, die
+innerhalb des Nutzungssatzes anfallen)</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a><lxbase:unterst>Feste
+Verwaltungskosten </lxbase:unterst></lxbase:a><lxbase:a>(Verwaltungskosten, die nicht mit den Holznutzungen in
+unmittelbarem Zusammenhang stehen)</lxbase:a><lxbase:a>1.1. Persönliche Verwaltungskosten</lxbase:a><lxbase:a>a. Sämtliche Barbezüge (Gehälter und Löhne einschließlich
+Sozialversicherungsbeiträgen) des zur Bewältigung des regelmäßigen
+Betriebs erforderlichen Verwaltungs- und Betriebsdienstpersonals,
+z.B. Leiter des Forstbetriebs, Revierförster, Forstwarte, Angestellte
+des Verwaltungsbüros, ständige Boten und Fahrer von Personenkraftwagen</lxbase:a><lxbase:a>b. Unterstützungen, Beihilfen, Stellenzulagen, Gratifikationen,
+Trennungsentschädigungen und Beschäftigungstagegelder für Verwaltungs-
+und Betriebsdienstpersonal</lxbase:a><lxbase:a>c. Unterhaltszuschüsse für Verwaltungs- und Betriebsdienstpersonal,
+Vergütungen an Lehrpersonal</lxbase:a><lxbase:a>d. Sachbezüge, Zuschüsse für Wohnung und Kleidung für
+Verwaltungs- und Betriebsdienstpersonal </lxbase:a><lxbase:a>e. Ruhegehälter, Witwengelder für ehemaliges Verwaltungs-
+und Betriebsdienstpersonal</lxbase:a><lxbase:a>f. Zusatzversicherung und Unfallfürsorge für Verwaltungs-
+und Betriebsdienstpersonal </lxbase:a><lxbase:a>1.2 Sachliche Verwaltungskosten</lxbase:a><lxbase:a>a. Kosten für die forstliche, rechtliche und steuerliche
+Beratung, Verwaltungs-, Bewirtschaftungs- und Beförsterungsbeiträge,
+Gerichts- und Prozesskosten, soweit sie nicht mit Holznutzungen
+in unmittelbarem Zusammenhang stehen</lxbase:a><lxbase:a>b. Dienstaufwandsentschädigungen, Reisekosten und Umzugskosten</lxbase:a><lxbase:a>c. Bürokosten (Heizung, Licht, Reinigung, Unterhaltung
+der Büroeinrichtung, Schreibbedarf, Bücherei, Buchführung, Post-
+und Fernsprechgebühren, Unterhaltung betriebseigener Fernsprechanlagen)</lxbase:a><lxbase:a>d. Instandhaltungskosten und AfA nach § 7 EStG von Verwaltungs-
+und Wohnbauten (auch soweit sie Wohngebäude betreffen, welche -
+weil sie vom Betriebsinhaber und dessen Familie als Wohnung genutzt
+werden - zum land- und forstwirtschaftlichen Betriebsvermögen gehören)
+sowie von Verwaltungsinventar</lxbase:a><lxbase:a>e. Pkw-Kosten (Unterhaltung, Garage, Versicherung, Steuer,
+AfA) *)</lxbase:a><lxbase:a>f. Beiträge zu Verbänden, Vereinen und Organisationen
+(Waldbesitzervereinen) </lxbase:a><lxbase:a>g. Sachliche Kosten der Ausbildung und Fortbildung von
+Verwaltungs- und Betriebsdienstpersonal</lxbase:a><lxbase:a>h. Aufwendungen für die Forsteinrichtung (Betriebsgutachten,
+Betriebswerk) sowie für die Standortkartierung und deren Fortschreibung</lxbase:a><lxbase:a>i. Kosten für Vermessung, Vermarktung, Grenzsicherung
+und Umlegung, soweit nicht schon unter h) erfasst</lxbase:a><lxbase:a>j. Schuldzinsen und Geldbeschaffungskosten, soweit sie
+nicht mit Holznutzungen in unmittelbarem Zusammenhang stehen</lxbase:a><lxbase:a>k. Versicherungen für Verwaltungsgebäude und Verwaltungsinventar,
+Haftpflicht- und Diebstahlversicherung *) </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a><lxbase:unterst>Grundsteuer</lxbase:unterst></lxbase:a><lxbase:a>Laufende Zahlungen und Nachzahlungen für frühere Jahre
+</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a><lxbase:unterst>Zwangsbeiträge</lxbase:unterst></lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Berufsgenossenschaft-Unfallversicherungsbeiträge
+und Beiträge für die Zusatzversorgung der Arbeitnehmer in der Land-
+und Forstwirtschaft sowie ähnliche Zwangsabgaben, soweit sie nicht
+mit Gehältern und Löhnen zusammenhängen, die unter § 34 b Abs. 2
+Nr. 2 EStG fallen</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Beiträge an Familienausgleichskassen
+(soweit sie als Betriebsausgaben abzugsfähig sind)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>Landwirtschaftsabgabe</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d. "><lxbase:a>Landwirtschaftskammerbeiträge</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e. "><lxbase:a>Beiträge an Deich- und Wassergenossenschaften
+</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a><lxbase:unterst>Erläuterungen
+zur Übersicht über die Betriebsausgaben in Sinne des § 34 b Abs.
+2 Nr.1 EStG</lxbase:unterst>:</lxbase:a><lxbase:a>Zu Nr. 1.2 Buchstabe e: Pkw-Kosten</lxbase:a><lxbase:a>Die Pkw-Kosten können sein: </lxbase:a><lxbase:a>- feste Verwaltungskosten</lxbase:a><lxbase:a>- bewegliche Verwaltungskosten und Betriebskosten. </lxbase:a><lxbase:a>Feste Verwaltungskosten liegen vor, wenn die Pkw-Kosten
+durch Fahrten des Betriebsleiters und des ständigen Verwaltungspersonals
+verursacht werden. Bewegliche Verwaltungskosten sind gegeben, wenn
+die Pkw-Kosten durch zusätzliches Verwaltungspersonal verursacht
+werden, das zur Bewältigung einer Großkalamität oder eines Sondereinschlags
+eingestellt wurde. Um Betriebskosten handelt es sich, wenn das Kraftfahrzeug
+unmittelbar bei Betriebsarbeiten Verwendung findet, z.B. zur Beförderung
+von Waldarbeitern.</lxbase:a><lxbase:a>Nach den vorbezeichneten Grundsätzen müssten die Pkw-Kosten
+aufgeteilt werden in feste Verwaltungskosten einerseits und bewegliche
+Verwaltungskosten sowie Betriebskosten andererseits. Aus Vereinfachungsgründen
+können jedoch die abzugsfähigen Pkw-Kosten in vollem Umfang grundsätzlich
+wie feste Verwaltungskosten behandelt werden. Eine Aufteilung dürfte
+nur in besonders gelagerten Einzelfällen in Betracht kommen.</lxbase:a><lxbase:a>Zu Nr. 1.2 Buchstabe k: Versicherungen</lxbase:a><lxbase:a>Beiträge zu Sachversicherungen (Feuer, Einbruch, Diebstahl
+usw.) stellen insoweit Verwaltungskosten dar, als sie sich auf Objekte
+beziehen, die der Verwaltung dienen. Versicherungen, die dem Forstbetrieb
+dienen, sind hingegen Betriebskosten. So sind z.B. Waldbrandversicherungen
+als reine Betriebskosten in vollem Umfang den Betriebsausgaben i.S.
+des § 34 b Abs. 2 Nr. 2 EStG hinzuzurechnen (vgl. III. Nr. 2.6).</lxbase:a><lxbase:a>In vielen Fällen wird für die Verwaltung und den Betrieb
+eine einheitliche Feuer-, Einbruch- und Diebstahlversicherung vorliegen.
+Die an sich vorzunehmende Aufteilung der einheitlich gezahlten Beiträge
+in feste und bewegliche Verwaltungskosten kann jedoch aus Vereinfachungsgründen
+unterbleiben.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="III. "><lxbase:a>Übersicht über die Betriebsausgaben
+i.S. des § 34 b Abs. 2 Nr. 2 EStG (Zu berücksichtigen bei den Einnahmen
+aus allen Holznutzungsarten)</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a><lxbase:unterst>Bewegliche
+Verwaltungskosten</lxbase:unterst></lxbase:a><lxbase:a>1.1 Persönliche Verwaltungskosten</lxbase:a><lxbase:a>Gehälter und Löhne an zusätzliches Verwaltungs- und Betriebsdienstpersonal
+für Holzeinschlag und Holzverwertung (z.B. bei Großkalamität oder
+Sondereinschlag) einschließlich der Sozialversicherungsbeiträge
+und der Sachbezüge.</lxbase:a><lxbase:a>1.2 Sachliche Verwaltungskosten</lxbase:a><lxbase:a>a. Kosten für die forstliche, rechtliche und steuerliche
+Beratung, Gerichts- und Prozesskosten, soweit sie mit Holznutzungen
+in unmittelbarem Zusammenhang stehen</lxbase:a><lxbase:a>b. Dienstaufwandsentschädigungen, Reise- und Umzugskosten
+für zusätzliches Verwaltungs- und Betriebsdienstpersonal (siehe
+Nr. 1.1)</lxbase:a><lxbase:a>c. Schuldzinsen und Geldbeschaffungskosten, soweit sie
+mit Holznutzungen in unmittelbarem Zusammenhang stehen</lxbase:a><lxbase:a>d. Kosten für den Verkauf des Holzes (z.B. Miete für Versteigerungslokal,
+Provisionen, Geschäftsfreundebewirtung u.a.) </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a><lxbase:unterst>Feste und
+bewegliche Betriebskosten </lxbase:unterst>(Löhne und Sachausgaben</lxbase:a><lxbase:a>2.1 Kulturkosten (Kosten der Bestandsbegründung in Fällen
+der Wiederaufforstung, der Erstaufforstung, Kosten der Kultur und
+Jungwuchspflege)</lxbase:a><lxbase:a>a. Vorbereitung der Kulturfläche (Abräumen und Entwässern
+usw.)</lxbase:a><lxbase:a>b. Beschaffung von Saatgut und Pflanzen</lxbase:a><lxbase:a>c. Saatschulen für den eigenen Bedarf</lxbase:a><lxbase:a>d. Säen und Pflanzen</lxbase:a><lxbase:a>e. Kulturpflege (Reinigung, Verdünnung, Grasbekämpfung
+usw.)</lxbase:a><lxbase:a>f. Kulturdüngung </lxbase:a><lxbase:a>2.2 Kosten der Bestandspflege</lxbase:a><lxbase:a>a. Dickungspflege</lxbase:a><lxbase:a>b. Astung</lxbase:a><lxbase:a>c. Bestandsdüngung </lxbase:a><lxbase:a>2.3 Kosten des Forstschutzes</lxbase:a><lxbase:a>a. Schutz gegen Wild (z.B. Fege- und Verbissschutz durch
+Zäune oder Einzelschutz, Wildfütterung)</lxbase:a><lxbase:a>b. Schutz gegen pflanzliche und tierische Schädlinge</lxbase:a><lxbase:a>c. Schutz gegen Feuer, Forstfrevel u.a.m. </lxbase:a><lxbase:a>2.4 Holzwerbungskosten (Anweisen, Fällen, Entasten, Ablängen,
+Vermessen, Aufnehmen/ Rücken, Entrinden, Aufsetzen bzw. Stapeln)</lxbase:a><lxbase:a>2.5 Umsetzen von Waldarbeiterwagen, Wegegeld, Geschirrgeld,
+Motorsägegeld </lxbase:a><lxbase:a>2.6 Instandhaltungskosten und AfA nach § 7 EStG (einschl.
+etwaiger Sonderabschreibungen)</lxbase:a><lxbase:a>a. für Wege, Brücken, Holzlagerplätze, Wasserbauten, Trift-
+und Riesanlagen</lxbase:a><lxbase:a>b. für Nutzfahrzeuge und Maschinen u.ä., sowie entsprechende
+Anschaffung- bzw. Herstellungskosten für geringwertige Wirtschaftsgüter
+nach § 6 Abs. 2 EStG, soweit diese Kosten nicht schon in den Kostengruppen
+2.1 bis 2.5 enthalten sind. </lxbase:a><lxbase:a>2.7 Waldbrandversicherung </lxbase:a><lxbase:a>2.8 Kosten der Ausbildung und Fortbildung von Waldarbeitern
+</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a><lxbase:unterst>Steuern
+und sonstige Lasten</lxbase:unterst> (ohne Grundsteuer und Zwangsbeiträge)
+*)</lxbase:a><lxbase:a>a. Laufende Umsatzsteuer, soweit sie sich als Kostenfaktor
+auf den Gewinn ausgewirkt hat</lxbase:a><lxbase:a>b. Renten (soweit sie als Betriebsausgaben abzugsfähig
+sind)</lxbase:a><lxbase:a>c. Patronatslasten</lxbase:a><lxbase:a>d. Abgaben an Forstnutzungsberechtigte </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a><lxbase:unterst>Betriebsausgaben
+i.S. des § 4 Abs. 4 EStG, die keine Kosten i.S. der Kostenrechnung sind
+*)</lxbase:unterst></lxbase:a><lxbase:a>a. Forderungsverluste</lxbase:a><lxbase:a>b. Verluste durch Unterschlagungen</lxbase:a><lxbase:a>c. Erhöhte Absetzungen für Abnutzung (Sonderabschreibungen)
+und Teilwertabschreibungen (BFH-Urteil vom 20.08.1970, <lxprod:doknr-verw linkend="HT0001431">BStBl 1970
+II S. 845</lxprod:doknr-verw>)</lxbase:a><lxbase:a>d. Minderung der aktivierten Anschaffungs- oder Erstaufforstungskosten
+nach Abschn. 212 Abs. 1 EStR</lxbase:a><lxbase:a>e. Rücklagen nach § 3 Forstschäden-Ausgleichsgesetz </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5. "><lxbase:a><lxbase:unterst>Erläuterungen
+zur Übersicht über die Betriebsausgaben im Sinne des § 34 b Abs.
+2 Nr. 2 EStG:</lxbase:unterst></lxbase:a><lxbase:a>Zu Nr. 3: Steuern und sonstige Lasten (ohne Grundsteuer
+und Zwangsbeiträge)</lxbase:a><lxbase:a>Steuern und sonstige Lasten gehören nach den Grundsätzen
+forstlicher Betriebswirtschaftslehre weder zu den Verwaltungskosten
+noch zu den Betriebskosten. Sie bilden vielmehr eine meist unter
+dem Begriff "sonstige Kosten" zusammengefasste besondere Kostengruppe.
+Diese Kosten fallen - mit Ausnahme der Grundsteuer und Zwangsbeiträge
+- unter die Betriebsausgaben i.S. des § 34b Abs. 2 Nr. 2 EStG.</lxbase:a><lxbase:a>Soweit sich unter den "Steuern und sonstigen Lasten" Kosten
+befinden, die keine Betriebsausgaben i.S. des § 4 Abs. 4 EStG darstellen
+(z.B. Apanagen - BFH-Urteil vom 03.12.1964, <lxprod:doknr-verw linkend="HT0000474">BStBl 1965
+III S. 166</lxprod:doknr-verw> - und Kirchensteuer vom Grundvermögen),
+bleiben sie sowohl bei der Ermittlung der Einkünfte als auch bei
+der Aufteilung der Betriebsausgaben außer Betracht.</lxbase:a><lxbase:a>Zu Nr. 4: Betriebsausgaben, die keine Kosten sind</lxbase:a><lxbase:a>Die Frage, ob Betriebsausgaben i.S. des § 4 Abs. 4 EStG
+gleichzeitig auch Kosten i.S. der Kostenrechnung sind, ist bei der
+Aufteilung der Betriebsausgaben nur von Bedeutung, soweit es sich
+um feste Verwaltungsausgaben handelt. Als feste Verwaltungsausgaben,
+die keine Verwaltungskosten i. S. des § 34b Abs. 2 Nr. 1 EStG darstellen,
+kommen insbesondere Sonderabschreibungen auf Verwaltungsgebäude und
+Verwaltungsinventar in Betracht. Ist der Unterschied zwischen den
+steuerlich anzuerkennenden Absetzungsbeträgen und der angemessenen
+Abschreibung i.S. der Kostenrechnung gering, so bestehen keine Bedenken,
+wenn eine Aufteilung der Absetzungsbeträge aus Vereinfachungsgründen
+unterbleibt und die gesamte AfA den Betriebsausgaben i.S. des §
+34 b Abs. 2 Nr. 1 EStG hinzugerechnet wird.</lxbase:a><lxbase:a>Grundsteuer und Zwangsbeiträge gehören - im Gegensatz
+zu den festen Verwaltungsausgaben - auch dann zu den Betriebsausgaben
+i.S. des § 34 b Abs. 2 Nr. 1 EStG, wenn sie keine Kosten darstellen
+(z.B. Nachzahlungen für frühere Jahre, für die keine Rückstellungen
+gebildet worden waren). Eine Aufteilung findet daher in diesem Fall
+nicht statt.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Umsatzsteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:branchen><lxbase:branche>Landwirtschaft</lxbase:branche></lxbase:branchen><lxbase:deskriptoren /></lxbase:allgemeine-angaben></lxrvw:rspvwa>

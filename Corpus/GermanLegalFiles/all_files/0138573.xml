@@ -1,0 +1,1028 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0138573" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Frankfurt am Main</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>FG-2018 A - 9 - St II 40</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>FG-2018</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>G-2018</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>FG-2018 - 21 - StO 321 / FG-2018 - 209 - StH
+ 551</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>FG-2018 - 21 - StO 321 / FG-2018 - 209 - StH
+551</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>FG-2018 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>FG-2018 - 21 - StO 321 / FG-2018
+- 209 - StH 551</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>FG-2018
+-</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>FG-2018 - 21 - StO 321 / FG-2018 - 209 - StH 551</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>FG-2018 | G</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>FG-2018-</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="Recht" id="08" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1997-04-14" /><lxbase:datum normdat="1998-02-03" ts="ja" /></lxbase:daten><lxbase:fundstellen><lxbase:nicht-normiert><lxbase:fs-kuerzel>AO-K Vor §§ 135
+- 149 FGO Karte 1</lxbase:fs-kuerzel></lxbase:nicht-normiert></lxbase:fundstellen><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>überholt durch OFD Frankfurt am Main <lxprod:doknr-verw linkend="HT0576242">FG-2018 A - 9
+- St II 40</lxprod:doknr-verw>   v. 2.1.2002 AO-Kartei vor §§ 135-149
+FGO Karte 1</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:redakt><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="11*" /><cals:colspec colnum="2" colname="2" colwidth="89*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Bibliographie der inhaltlich entsprechenden
+Verwaltungsanweisungen: </lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ND</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>AO-K Vor §§ 135-149 FGO Karte
+1 </lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a>OFD Hannover FG-2018 - 21 - StO 321 / FG-2018
+- 209 - StH 551 vom 03/02/98</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>AO:135</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:149</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>BRAGO:Allgemein</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>StBGebV:Allgemein</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>AO:139</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1997" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Kosten des finanzgerichtlichen Verfahrens</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300001"><lxbase:a>1. Kostenentscheidung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300002"><lxbase:a>2. Kosten i.
+S. des § 139 FGO</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300003"><lxbase:a>3. Gerichtskosten </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300004"><lxbase:a>4. Kosten der
+Beteiligten </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300005"><lxbase:a>5. Gebühren
+und Auslagen (der RA / StB) im Klageverfahren</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300007"><lxbase:a>5.1 Gebühren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300008"><lxbase:a>5.2 Prozeßgebühr
+(§ 31 Abs. 1 Nr. 1 BRAGO)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300009"><lxbase:a>5.3 Verhandlungsgebühr
+(§ 31 Abs. 1 Nr. 2 BRAGO)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300010"><lxbase:a>5.4 Beweisgebühr
+(§ 31 Abs. 1 Nr. 3 BRAGO)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300011"><lxbase:a>5.5 Erörterungsgebühr
+(§ 31 Abs. 1 Nr. 4 BRAGO) </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300012"><lxbase:a>5.6 Erledigungsgebühr
+(§ 24 BRAGO) </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300013"><lxbase:a>5.7 Gebühren
+im Revisionsverfahren </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300014"><lxbase:a>5.8 Gebühren
+im Beschwerdeverfahren </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300015"><lxbase:a>5.9 Auslagen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300016"><lxbase:a>5.10 Entgelte
+für Post- und Telekommunikationsdienstleistungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300017"><lxbase:a>5.11 Schreibauslagen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300018"><lxbase:a>5.12 Geschäftsreisen </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300019"><lxbase:a>5.13 Umsatzsteuer
+(§ 25 Abs. 2 BRAGO)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300006"><lxbase:a>6. Gebühren
+und Auslagen des Vorverfahrens </lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300020"><lxbase:a>6.1 Gebühren
+und Auslagen eines StB (im Vorverfahren) </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300021"><lxbase:a>6.2 Gebühren
+und Auslagen eines RA (im Vorverfahren) </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300022"><lxbase:a>7. Verzinsung
+des Erstattungsanspruchs </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300023"><lxbase:a>8. Beispiel
+zu den erstattungsfähigen Kosten </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300024"><lxbase:a>9. Kostenfestsetzungsverfahren</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300025"><lxbase:a>9.1 Zuständig
+für die Festsetzung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300026"><lxbase:a>9.2 Auszahlung
+durch das FA Kassel-Goethestraße </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300027"><lxbase:a>9.3 Erinnerung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300028"><lxbase:a>9.4 Einwendungen
+gegen die Höhe des Streitwerts </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300029"><lxbase:a>9.5 Antrag
+auf einstweilige Aussetzung der Vollstreckung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300030"><lxbase:a>9.6 Entscheidung über
+die Erinnerung </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300031"><lxbase:a>9.7 Kosten
+des Erinnerungsverfahrens </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300032"><lxbase:a>Anlage 1: Auszug
+aus der Bundesgebührenordnung für Rechtsanwälte (BRAGO)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D013857300033"><lxbase:a>Anlage 2: Auszug
+aus der Steuerberatergebührenverordnung (StBGebV) </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D013857300001">1. Kostenentscheidung </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Über die Frage, wer die Kosten
+eines finanzgerichtlichen Verfahrens zu tragen hat (§ 135
+- § 138 FGO), entscheidet das Gericht im Urteil oder, wenn
+das Verfahren in anderer Weise beendet worden ist, durch Beschluß (§ 143 FGO).</lxbase:a><lxbase:a eingerueckt="nein">Die Anfechtung dieser Kostenentscheidung
+ist nach § 145 FGO unzulässig, wenn nicht gegen
+die Entscheidung in der Hauptsache ein Rechtsmittel eingelegt wird.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300002">2. Kosten i. S. des § 139
+FGO</lxbase:ueberschrift><lxbase:a eingerueckt="nein">Kosten sind</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>die Gerichtskosten und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen
+Aufwendungen der Beteiligten einschließlich der Kosten
+des Vorverfahrens.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300003">3. Gerichtskosten </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die Gerichtskosten setzen sich zusammen
+aus den Gebühren und Auslagen. Sie werden auf
+der Grundlage der Kostenentscheidung (vgl. Tz. 1) nach den Bestimmungen
+des Gerichtskostengesetzes (GKG) erhoben. Die Gebühren
+sind im Kostenverzeichnis unter den Nrn. 3110 - 3402 (Anlage 1 zum
+GKG) aufgeführt und richten sich nach dem Streitwert (§ 11
+Abs. 2 und § 13 GKG). Die Erhebung der Auslagen
+erfolgt nach den Nrn. 9000 ff. der Anlage 1 zum GKG (Teil 9 des
+Kostenverzeichnisses).</lxbase:a><lxbase:a eingerueckt="nein">Festgesetzt (angesetzt) werden die Gerichtskosten
+nach § 4 Abs. 1 GKG durch den Kostenbeamten des Finanzgerichts
+(I. Instanz) oder des BFH (II. Instanz).</lxbase:a><lxbase:a eingerueckt="nein">Da die Finanzbehörden für
+den Fall des Unterliegens vor dem FG oder vor dem BFH von den Gerichtskosten
+befreit sind (§ 2 GKG), wird hier auf die (weiteren) Einzelheiten
+des Kostenansatzverfahrens nicht eingegangen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300004">4. Kosten der Beteiligten </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Den Beteiligten des finanzgerichtlichen
+Verfahrens (§ 57 FGO) sind nach § 139 Abs. 1 FGO
+die Aufwendungen zu ersetzen, die zur zweckentsprechenden Rechtsverfolgung
+(notwendig) erwachsen sind.</lxbase:a><lxbase:a eingerueckt="nein">Die Aufwendungen der Finanzbehörden
+sind allerdings nicht zu erstatten (§ 139 Abs. 2 FGO).</lxbase:a><lxbase:a eingerueckt="nein">Zu den Aufwendungen i. S. des § 139
+Abs. 1 FGO zählen auch die Gebühren und Auslagen
+eines Bevollmächtigten. Diese Aufwendungen sind
+nach § 139 Abs. 3 FGO stets erstattungsfähig,
+sofern sie gesetzlich vorgesehen sind.</lxbase:a><lxbase:a eingerueckt="nein">Wird der Kläger im finanzgerichtlichen
+Verfahren von einem Rechtsanwalt (RA) vertreten, richtet sich seine
+Vergütung nach der Bundesgebührenordnung für
+Rechtsanwälte (BRAGO). Die Regelungen der BRAGO
+sind auch anzuwenden, wenn sich der Kläger im finanzgerichtlichen
+Verfahren von einem Steuerberater (StB), Steuerbevollmächtigten
+oder einer Steuerberatungsgesellschaft vertreten läßt
+(§ 45 der Steuerberatergebührenverordnung - StBGebV).</lxbase:a><lxbase:a eingerueckt="nein">Danach können im wesentlichen
+folgende Gebühren und Auslagen in Betracht kommen (§ 114
+BRAGO):</lxbase:a><lxbase:a eingerueckt="nein"><lxbase:kursiv>Gebühren</lxbase:kursiv></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">Prozeßgebühr
+(§ 31 Abs. 1 Nr. 1 BRAGO)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">Verhandlungsgebühr
+(§ 31 Abs. 1 Nr. 2 BRAGO)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a eingerueckt="nein">Beweisgebühr
+(§ 31 Abs. 1 Nr. 3 BRAGO)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a eingerueckt="nein">Erörterungsgebühr
+(§ 31 Abs. 1 Nr. 4 BRAGO)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a eingerueckt="nein">Erledigungsgebühr
+(§ 24 BRAGO)</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein"><lxbase:kursiv>Auslagen</lxbase:kursiv></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">Entgelte
+für Post- und Telekommunikationsdienstleistungen (§ 26
+BRAGO)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">Schreibauslagen
+(§ 27 BRAGO)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a eingerueckt="nein">Geschäftsreisen
+(§ 28 BRAGO)</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a eingerueckt="nein">Umsatzsteuer (§ 25
+Abs. 2 BRAGO)</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein">Die Gebühren der StB / RA
+bemessen sich nach der Höhe des Gegenstandswerts (§ 7
+und § 11 BRAGO), und dieser wiederum bestimmt sich im gerichtlichen
+Verfahren nach den für die Gerichtsgebühren geltenden
+Wertvorschriften (§ 8 Abs. 1 BRAGO). Grundlage
+für die Berechnung der in Frage kommenden Gebühren
+im gerichtlichen Verfahren ist also stets der Streitwert i. S. des § 13
+GKG (siehe auch Tz. 9.4). Dasselbe gilt für die
+erstattungsfähigen Gebühren im außergerichtlichen
+Vorverfahren (vgl. Tz. 6).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300005">5. Gebühren
+und Auslagen (der RA / StB) im Klageverfahren</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D013857300007">5.1 Gebühren</lxbase:ueberschrift><lxbase:a>Die Höhe der Gebühren richtet sich nach § 11
+BRAGO (vgl. auch die als Anlage zur BRAGO abgedruckte Gebührentabelle).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300008">5.2 Prozeßgebühr
+(§ 31 Abs. 1 Nr. 1 BRAGO)</lxbase:ueberschrift><lxbase:a>Die Prozeßgebühr ist die Grundgebühr
+für das gerichtliche Verfahren. Mit ihr wird das
+ganze "Betreiben des Geschäfts" (z. B.
+Aufwendungen für Schriftsätze, Urkunden und Ablichtungen,
+die der Klagebegründung hinzuzufügen sind) einschließlich
+der Information für einen Rechtszug (§ 13 BRAGO) durch
+den Prozeßbevollmächtigten abgegolten.</lxbase:a><lxbase:a eingerueckt="nein">Die Höhe der Gebühr
+beträgt grundsätzlich 10/10 einer vollen
+Gebühr. Bei einer Tätigkeit in derselben
+Angelegenheit für mehrere Auftraggeber erhöht
+sich die Gebühr für jeden weiteren Auftraggeber
+um3/10 (sog. Mehrvertretungszuschlag nach § 6
+Abs. 1 BRAGO). Mehrere Erhöhungen dürfen den
+Betrag von zwei vollen Gebühren nicht übersteigen.</lxbase:a><lxbase:a eingerueckt="nein">Wird vom BFH das angefochtene Urteil
+aufgehoben und die Sache zur anderweitigen Verhandlung und Entscheidung
+zurückverwiesen (§ 126 Abs. 3 Nr. 2 FGO), ist
+das weitere Verfahren zwar ein neuer Rechtszug. Eine (erneute)
+Prozeßgebühr entsteht jedoch nur dann, wenn die
+Sache an ein Gericht zurückverwiesen ist, das mit der Sache
+noch nicht befaßt war (§ 15 Abs. 1 BRAGO).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300009">5.3 Verhandlungsgebühr
+(§ 31 Abs. 1 Nr. 2 BRAGO)</lxbase:ueberschrift><lxbase:a>Die Verhandlungsgebühr entsteht für die Tätigkeit
+(Stellung von Anträgen, Erörterung der Streitsache,
+Stellungnahme zu den Ausführungen des FA) des Bevollmächtigten
+in der mündlichen Verhandlung. Bleibt der Bevollmächtigte
+der mündlichen Verhandlung fern, entfällt die
+Verhandlungsgebühr. Das gleiche gilt, wenn im
+Verfahren eine mündliche Verhandlung nicht vorgesehen ist
+(z. B. bei einem Antrag auf Aussetzung der Vollziehung nach § 69
+Abs. 3 FGO).</lxbase:a><lxbase:a>Die Verhandlungsgebühr entfällt aber nicht,
+wenn</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>eine mündliche
+Verhandlung im Einverständnis der Parteien unterbleibt
+(§ 35 BRAGO),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>durch Urteil ohne mündliche Verhandlung (Verfahren
+nach billigem Ermessen gem. § 94a FGO) oder durch Gerichtsbescheid
+(§§ 90a und 79a FGO) entschieden wird (§ 117
+BRAGO). </lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Die Höhe der Gebühr
+beträgt grundsätzlich 10/10 einer vollen
+Gebühr. Wegen der Anrechnung der Erörterungsgebühr
+auf die Verhandlungsgebühr und umgekehrt wird auf § 31
+Abs. 2 BRAGO und auf Tz. 5.5 verwiesen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300010">5.4 Beweisgebühr
+(§ 31 Abs. 1 Nr. 3 BRAGO)</lxbase:ueberschrift><lxbase:a>Die Beweisgebühr entsteht für die Vertretung
+im Beweisaufnahmeverfahren oder bei der Anhörung oder Vernehmung
+einer Partei nach § 613 ZPO. Der Bevollmächtigte
+erhält die Beweisgebühr jedoch nicht, wenn die
+Beweisaufnahme lediglich in der Vorlegung der in den Händen
+des Beweisführers oder des Gegners befindlichen Akten besteht
+(§ 34 Abs. 1 BRAGO). Werden Akten oder Urkunden
+beigezogen, erhält der Bevollmächtigte die Beweisgebühr
+nur, wenn die Akten oder Urkunden durch Beweisbeschluß oder
+sonst erkennbar zum Beweis beigezogen oder als Beweis verwertet
+werden (§ 34 Abs. 2 BRAGO).</lxbase:a><lxbase:a eingerueckt="nein">Die Höhe der Gebühr
+beträgt grundsätzlich 10/10 einer vollen
+Gebühr. Der Streitwert für die Beweisgebühr
+richtet sich danach, über was Beweis erhoben wird. Dieser
+Wert kann niedriger sein als der Streitwert für das Verfahren.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300011">5.5 Erörterungsgebühr
+(§ 31 Abs. 1 Nr. 4 BRAGO) </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die Erörterungsgebühr
+entsteht für die Erörterung der Sache, auch im
+Rahmen eines Versuchs zur gütlichen Beilegung.</lxbase:a><lxbase:a eingerueckt="nein">Die Höhe der Gebühr
+beträgt grundsätzlich 10/10 einer vollen
+Gebühr.</lxbase:a><lxbase:a eingerueckt="nein">Erörterungsgebühren
+und Verhandlungsgebühren, die denselben Gegenstand betreffen
+und in demselben Rechtszug entstehen, werden aufeinander angerechnet. Der
+Bevollmächtigte kann somit in Fällen, in denen
+er einen Termin zur Erörterung der Sach- und Rechtslage
+wahrgenommen hat und in denen später noch eine mündliche
+Verhandlung durchgeführt wurde, lediglich eine Gebühr
+geltend machen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300012">5.6 Erledigungsgebühr
+(§ 24 BRAGO) </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die Erledigungsgebühr entsteht,
+wenn sich der Rechtsstreit ganz oder teilweise nach Zurücknahme
+oder Änderung des angefochtenen Verwaltungsakts erledigt und
+der Bevollmächtigte bei der Erledigung mitgewirkt hat. Die
+auf die Erledigung der Sache ohne Urteil gerichtete Tätigkeit
+des Prozeßbevollmächtigten muß also über
+seine durch die Prozeß- und Verhandlungsgebühr
+erfaßten Tätigkeiten hinausgehen. Dies
+bedeutet, daß die Tätigkeit des StB / RA nur
+dann mit der Erledigungsgebühr (gesondert) honoriert wird,
+wenn es sich um eine gesonderte, qualifizierte Mitwirkung handelt. Eine
+solche Mitwirkung liegt nicht schon dann vor, wenn die Klagebegründung
+so gut gelungen ist, daß das FA von sich aus abhilft oder
+wenn nur auf die Rechtsprechung in einem Parallelverfahren hingewiesen
+wird. Ist für die Erledigung ein richterlicher
+Hinweis ursächlich, sind die Tatbestandsmerkmale des § 24 BRAGO
+jedenfalls nicht erfüllt.</lxbase:a><lxbase:a eingerueckt="nein">Die Höhe der (Erfolgs-)Gebühr
+beträgt 10/10 einer vollen Gebühr.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300013">5.7 Gebühren
+im Revisionsverfahren </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Im Revisionsverfahren erhöhen
+sich die Gebühren nach § 31 BRAGO und die Erledigungsgebühr
+(§ 24 BRAGO) jeweils um <lxbase:az normform="3/10-auf-13/10" manuell="nein">3/10 auf 13/10</lxbase:az> einer
+vollen Gebühr (§ 11 Abs. 1 Satz 4 BRAGO).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300014">5.8 Gebühren
+im Beschwerdeverfahren </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Im Beschwerdeverfahren betragen die
+Gebühren nach § <lxbase:az normform="31-BRAGO-5/10" manuell="nein">31 BRAGO 5/10</lxbase:az> (= die
+Hälfte) einer vollen Gebühr (§ 61 Abs.
+1 Nr. 1 BRAGO).</lxbase:a><lxbase:a eingerueckt="nein">Wird Beschwerde gegen die Nichtzulassung
+der Revision erhoben, erhält der Prozeßbevollmächtigte
+6,5/10 (= die Hälfte der Gebühr
+fürs Revisionsverfahren) einer vollen Gebühr.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300015">5.9 Auslagen </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Nach § 25 Abs. 1 BRAGO werden
+mit den Gebühren auch die allgemeinen Geschäftsunkosten
+(Miete für die Büroräume, Gehälter
+usw.) abgegolten. Für bestimmte Auslagen (Entgelte
+für Post- und Telekommunikationsdienstleistungen, Schreibauslagen
+und Geschäftsreisen) sieht jedoch § 25 Abs. 3
+BRAGO i. V. mit den nachfolgenden Vorschriften eine Erstattung der entstandenen
+Kosten vor.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300016">5.10 Entgelte für
+Post- und Telekommunikationsdienstleistungen</lxbase:ueberschrift><lxbase:a>Nach § 26 BRAGO hat der Prozeßbevollmächtigte
+Anspruch auf Ersatz der bei der Ausführung des Auftrags
+für Post- und Telekommunikationsdienstleistungen zu zahlenden
+Entgelte. An Stelle der tatsächlich entstandenen
+Kosten kann er einen Pauschsatz fordern, der fünfzehn vom
+Hundert der gesetzlichen Gebühren beträgt, in
+derselben Angelegenheit und im gerichtlichen Verfahren in demselben
+Rechtszug jedoch höchstens 40 DM (Postgebührenpauschale).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300017">5.11 Schreibauslagen </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Nach § 27 Abs. 1 BRAGO hat
+der Prozeßbevollmächtigte Anspruch auf Ersatz der
+Schreibauslagen für die im Einverständnis mit
+dem Auftraggeber zusätzlich gefertigten Abschriften und
+Ablichtungen. Eine Erstattung (durch das FA) kommt aber
+nur in Betracht, wenn sie notwendig i. S. des § 139 Abs.
+1 FGO sind. Für Abschriften und Ablichtungen aus
+Behörden- und Gerichtsakten können Schreibauslagen
+nur geltend gemacht werden, soweit deren Herstellung zur sachgemäßen
+Bearbeitung der Rechtssache geboten war. Dies ist regelmäßig
+nicht der Fall bei Ablichtungen von Steuerbescheiden und von Schriftwechsel
+mit dem FA, die sich in den Steuerakten befinden und die nach § 71
+Abs. 2 FGO dem FG vorgelegt werden. Soweit den Schriftsätzen
+an das FG Ablichtungen für die übrigen Beteiligten beigefügt
+sind (§ 77 Abs. 1 Satz 3 FGO), sind die Kosten hierfür
+mit der Prozeßgebühr abgegolten (§ 25
+Abs. 1 BRAGO).</lxbase:a><lxbase:a eingerueckt="nein">Die Höhe der Schreibauslagen
+bemißt sich nach den für die gerichtlichen Schreibauslagen
+im GKG bestimmten Beträgen (§ 27 Abs. 2 BRAGO). Danach
+betragen die Schreibauslagen für jede Seite (Fotokopie)</lxbase:a><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">a)
+für die ersten 50 Seiten 1,-- DM</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">b) für jede weitere
+Seite 0,30 DM</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">(vgl. Nr. 9000 des Kostenverzeichnisses
+zum GKG, abgedruckt in der FGO-Handausgabe).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300018">5.12 Geschäftsreisen </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Für Geschäftsreisen
+sind dem Prozeßbevollmächtigten als Reisekosten
+die Fahrtkosten und die Übernachtungskosten zu erstatten;
+ferner erhält er ein Tage- und Abwesenheitsgeld. Eine
+Geschäftsreise liegt vor, wenn das Reiseziel außerhalb
+der Gemeinde liegt, in der sich die Kanzlei oder die Wohnung des
+Bevollmächtigten befindet (§ 28 Abs. 1 BRAGO).</lxbase:a><lxbase:a><lxbase:fett>5.12.1 Fahrtkosten (§ 28 Abs. 2 BRAGO)</lxbase:fett></lxbase:a><lxbase:a>Als Fahrtkosten sind zu erstatten</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>bei Benutzung eines eigenen
+Kfz 0,52 DM für jeden angefangenen Kilometer zuzüglich
+der durch die Benutzung des Kfz aus Anlaß der Geschäftsreise regelmäßig
+anfallenden baren Auslagen, insbesondere der Parkgebühren,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>bei Benutzung anderer Verkehrsmittel die tatsächlichen
+Aufwendungen, soweit sie angemessen sind.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>5.12.2 Tage- und Abwesenheitsgeld (§ 28 Abs. 3
+Satz 1 BRAGO)</lxbase:fett></lxbase:a><lxbase:a>Das Tage- und Abwesenheitsgeld beträgt bei einer Geschäftsreise</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a>von nicht mehr als 4 Stunden
+30,-- DM,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>von mehr als 4 bis 8 Stunden 60,-- DM,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a>von mehr als 8 Stunden 110,-- DM.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a><lxbase:fett>5.12.3 Übernachtungskosten (§ 28 Abs.
+3 Satz 2 BRAGO)</lxbase:fett></lxbase:a><lxbase:a>Die Übernachtungskosten sind in Höhe der tatsächlichen
+Aufwendungen zu erstatten, soweit sie angemessen sind.</lxbase:a><lxbase:a><lxbase:fett>5.12.4 Reisekosten zur Ausführung mehrerer Geschäfte
+(§ 29 BRAGO) </lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">Dient eine Reise mehreren Geschäften,
+so sind die entstandenen Reisekosten und Abwesenheitsgelder nach
+dem Verhältnis der Kosten zu verteilen, die bei gesonderter
+Ausführung der einzelnen Geschäfte entstanden
+wären.</lxbase:a><lxbase:beispiel><lxbase:a eingerueckt="nein">Beispiel</lxbase:a><lxbase:a eingerueckt="nein">Der Prozeßbevollmächtigte
+nimmt an einem Tag an vier mündlichen Verhandlungen teil. Die
+Gesamtsumme der Reisekosten beträgt 200,-- DM.</lxbase:a></lxbase:beispiel><lxbase:a eingerueckt="nein">Lösung</lxbase:a><lxbase:a eingerueckt="nein">Der Bevollmächtigte kann jeweils
+50,-- DM an Reisekostenersatz gegenüber den Mandanten geltend
+machen (200,-- DM : 4 - Anzahl der wahrgenommenen Geschäfte). Ob
+die Kosten allerdings vom FA zu ersetzen sind, hängt von
+dem Ausgang der jeweiligen Verfahren ab.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300019">5.13 Umsatzsteuer (§ 25
+Abs. 2 BRAGO)</lxbase:ueberschrift><lxbase:a>Für die Berücksichtigung der an den Bevollmächtigten
+gezahlten Umsatzsteuer im Kostenfestsetzungsverfahren (vgl. Tz.
+9) ist eine Erklärung des Klägers (Antragstellers)
+ausreichend, nach der er die Beträge nicht als Vorsteuer
+abziehen darf (§ 104 Abs. 2 ZPO in der Fassung des KostRÄndG
+1994 vom 24. 6. 1994, <lxbase:lit-fs normform="BStBl-1994-I-0383" manuell="nein">BStBl 1994 I Seite 383</lxbase:lit-fs> ).</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300006">6. Gebühren
+und Auslagen des Vorverfahrens </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Sind Gebühren und Auslagen
+für die Zuziehung eines Bevollmächtigten für
+das Vorverfahren zu erstatten (§ 139 Abs. 3 Satz 3 FGO),
+ist zu beachten, daß die StB und RA für diese
+Verfahren nach unterschiedlichen Gebührenordnungen (StB
+nach der StBGebV und RA nach der BRAGO) abrechnen. Die
+nach diesen Gebührenordnungen in Betracht kommenden Gebühren
+und Auslagen ergeben sich aus den folgenden Übersichten:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:colspec colnum="3" colname="3" colwidth="33*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="3"><lxbase:a>Gebühren</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>Steuerberater</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>Rechtsanwalt</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>StBGebV</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>BRAGO</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Geschäftsgebühr</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>§ 41</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>§ 118 Abs. 1 Nr.
+1</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Besprechungsgebühr</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>§ 42</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>§ 118 Abs. 1 Nr.
+2</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Beweisaufnahmegebühr</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>§ 43</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>§ 118 Abs. 1 Nr.
+3</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="3"><lxbase:a>Auslagen</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>Steuerberater</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>Rechtsanwalt</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" align="center"><lxbase:a>StBGebV</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>BRAGO</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Entgelte für Post- u. Telekommunikationsdienstleistungen</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>§ 16</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>§ 26</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Schreibauslagen</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>§ 17</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>§ 27</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Geschäftsreisen</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>§ 18</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>§ 28</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Umsatzsteuer</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a>§ 15</lxbase:a></cals:entry><cals:entry colname="3" align="center"><lxbase:a>§ 25 Abs. 2</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Die Gebühren bemessen sich
+(auch) im außergerichtlichen Rechtsbehelfsverfahren nach
+dem Streitwert (vgl. Tz. 4).</lxbase:a><lxbase:a eingerueckt="nein">Soweit ein StB oder RA in eigener Sache
+im außergerichtlichen Vorverfahren tätig geworden
+ist, erhält er hierfür im Gegensatz zu gerichtlichen
+Verfahren (mangels Notwendigkeit) keine Kostenerstattung. Dies
+gilt auch, wenn der Bevollmächtigte in einem Angestelltenverhältnis
+zu den Beteiligten steht (§ 139 Abs. 3 Satz 4 FGO).</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D013857300020">6.1 Gebühren
+und Auslagen eines StB (im Vorverfahren) </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die Höhe der Gebühren
+richtet sich nach der Tabelle E (Rechtsbehelfstabelle) zur StBGebV
+(vgl. § 10 Abs. 1 StBGebV).</lxbase:a><lxbase:a><lxbase:fett>6.1.1 Geschäftsgebühr (§ 41
+StBGebV)</lxbase:fett></lxbase:a><lxbase:a>Die Geschäftsgebühr ist die Grundgebühr
+für das außergerichtliche Rechtsbehelfsverfahren. Mit
+ihr wird das Betreiben des Geschäfts einschließlich der
+Information, der Einreichung und Begründung des Rechtsbehelfs
+durch den StB abgegolten. Die Höhe der Geschäftsgebühr
+beträgt <lxbase:az normform="5/10-bis-10/10" manuell="nein">5/10 bis 10/10</lxbase:az> einer
+vollen Gebühr (Rahmengebühr). Der Gebührenrahmen
+ermäßigt <lxbase:az normform="sich-auf-3/10" manuell="nein">sich auf 3/10</lxbase:az>
+bis 8/10 einer vollen Gebühr, wenn der StB
+in dem Verwaltungsverfahren, das dem Rechtsbehelfsverfahren vorausgeht,
+Gebühren nach § 28 StBGebV für die Prüfung
+des Steuerbescheids erhält (§ 41 Abs. 3 StBGebV). Da
+einer Rechtsbehelfseinlegung üblicherweise eine Überprüfung
+des Verwaltungsakts vorausgeht, hat grundsätzlich eine
+Reduzierung des Gebührenrahmens zu erfolgen. Dies
+gilt selbst dann, wenn dem Berater keine Gebühr nach § 28 zugeflossen
+ist, weil es lediglich auf das Entstehen des Anspruchs ankommt.</lxbase:a><lxbase:a>Sofern nichts Besonderes vorgetragen wird (vgl. § 11
+StBGebV), ist von einer Mittelgebühr (3/10 + 8/10
+: 2 = 5,5/10 einer vollen Gebühr) auszugehen.</lxbase:a><lxbase:a eingerueckt="nein">Höhere Rahmensätze
+(als die Mittelgebühr) können z. B. in Betracht
+kommen,</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">wenn
+besondere Kenntnisse in Randgebieten des Steuerrechts erforderlich sind,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">bei schwierigen Rechtsfragen
+und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt><lxbase:a eingerueckt="nein">bei erheblichem Arbeitsaufwand.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a eingerueckt="nein">Der unterste Rahmensatz kann hingegen
+angemessen sein, wenn bspw. sich die Einspruchsbegründung
+auf einen oder wenige Sätze beschränkt.</lxbase:a><lxbase:a eingerueckt="nein">Legt der Steuerberater gegen einen Schätzungsbescheid
+Einspruch ein und erstellt er während des Einspruchsverfahrens
+(zur Begründung des Rechtsbehelfs) die Steuererklärung,
+wofür er nach § 24 StBGebV honoriert wird, reduziert
+sich die Geschäftsgebühr auf <lxbase:az normform="1/10-bis-3/10" manuell="nein">1/10
+bis 3/10</lxbase:az> einer vollen Gebühr (§ 41
+Abs. 4 StBGebV).</lxbase:a><lxbase:a eingerueckt="nein">§ 41 Abs. 5 StBGebV enthält
+eine weitere Ermäßigung, wenn dem Rechtsbehelfsverfahren
+ein gesondert berechenbarer Antrag i. S. des § 23 StBGebV
+vorausgeht (wenn z. B. zuvor ein Stundungsantrag oder ein Antrag
+auf AdV gestellt wurde). Die Summe dieser Gebühren
+und der Gebühr nach § 41 Abs. <lxbase:az normform="1-StBGebV-darf-10/10" manuell="nein">1 StBGebV
+darf 10/10</lxbase:az> einer vollen Gebühr nicht übersteigen.</lxbase:a><lxbase:a eingerueckt="nein">Bei einer Tätigkeit in derselben
+Angelegenheit für mehrere Auftraggeber erhöht
+sich hingegen die Geschäftsgebühr durch jeden
+weiteren Auftraggeber um 3/10 (höchstens20/10),
+in Fällen des § 41 Abs. <lxbase:az normform="3-StBGebV-um-2/10" manuell="nein">3 StBGebV
+um 2/10</lxbase:az> (höchstens16/10) und in
+Fällen des § 41 Abs. <lxbase:az normform="4-StBGebV-um-1/10" manuell="nein">4 StBGebV
+um 1/10</lxbase:az> (höchstens6/10) einer vollen
+Gebühr (§ 41 Abs. 6 StBGebV).</lxbase:a><lxbase:a><lxbase:fett>6.1.2 Besprechungsgebühr (§ 42 StBGebV)</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">Die Besprechungsgebühr entsteht,
+wenn der Steuerberater an einer Besprechung über tatsächliche
+oder rechtliche Fragen (nach Einlegung des Rechtsbehelfs und vor
+Ergehen der Rechtsbehelfsentscheidung) mitwirkt, die von der Behörde
+angeordnet ist oder im Einverständnis mit dem Auftraggeber
+mit der Behörde oder einem Dritten geführt wird. Der
+StB erhält die Gebühr nicht für eine
+mündliche oder fernmündliche Nachfrage. Auch
+wenn mehrere Besprechungen im außergerichtlichen Rechtsbehelfsverfahren
+stattfinden, kann die Gebühr nur einmal angesetzt werden.</lxbase:a><lxbase:a eingerueckt="nein">Die Höhe der Gebühr
+beträgt <lxbase:az normform="5/10-bis-10/10" manuell="nein">5/10 bis 10/10</lxbase:az> einer
+vollen Gebühr (Rahmengebühr). Hat der
+StB bereits in dem dem außergerichtlichen Rechtsbehelfsverfahren
+vorangegangenen Verwaltungsverfahren Verhandlungen mit der Behörde
+geführt und hierfür (eine nicht vom FA zu erstattende)
+Gebühr nach § 31 StBGebV erhalten, so darf die
+Summe dieser Gebühr und der (Besprechungs-)Gebühr
+nach § 42 Abs. <lxbase:az normform="1-StBGebV-10/10" manuell="nein">1 StBGebV 10/10</lxbase:az> einer vollen
+Gebühr nicht übersteigen (Anrechnung auf die Gebühr
+nach § 42 StBGebV).</lxbase:a><lxbase:a><lxbase:fett>6.1.3 Beweisaufnahmegebühr (§ 43 StBGebV) </lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">Die Höhe der Beweisaufnahmegebühr
+beträgt <lxbase:az normform="5/10-bis-10/10" manuell="nein">5/10 bis 10/10</lxbase:az> einer
+vollen Gebühr.</lxbase:a><lxbase:a eingerueckt="nein">Da es im außergerichtlichen
+Rechtsbehelfsverfahren nur selten zu einer Beweisaufnahme kommt,
+fällt eine Beweisaufnahmegebühr regelmäßig
+nicht an. Die Voraussetzungen für das Entstehen
+dieser Gebühr ergeben sich weitgehend aus § 43
+StBGebV.</lxbase:a><lxbase:a eingerueckt="nein"><lxbase:fett>6.1.4 Auslagen</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">Die Erstattung der Auslagen des StB
+für das Vorverfahren richtet sich nach dem 3. Abschnitt
+der StBGebV (§§ 15 bis 19 StBGebV).</lxbase:a><lxbase:a eingerueckt="nein">Da die Regelungen im wesentlichen den
+für das gerichtliche Verfahren maßgebenden Bestimmungen
+der BRAGO entsprechen (Ausnahme: siehe § 18 StBGebV), wird
+auf die Tzn. 5.9 bis 5.13 verwiesen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300021">6.2 Gebühren
+und Auslagen eines RA (im Vorverfahren) </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die Höhe der Gebühren
+richtet sich nach § 11 BRAGO (vgl. auch die als Anlage
+zur BRAGO abgedruckte Gebührentabelle).</lxbase:a><lxbase:a><lxbase:fett>6.2.1 Geschäftsgebühr (§ 118
+Abs. 1 Nr. 1 BRAGO) </lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">Nach § 119 Abs. 1 BRAGO ist
+das Verwaltungsverfahren, das dem Rechtsstreit vorausgeht und der
+Nachprüfung des Verwaltungsakts dient (Vorverfahren, Einspruchsverfahren,
+Abhilfeverfahren), zusammen mit dem vorangegangenen Verwaltungsverfahren
+eine Angelegenheit. Daraus folgt, daß dem RA für
+seine Tätigkeit im Veranlagungsverfahren und dem (späteren)
+Einspruchsverfahren nur eine einheitliche Geschäftsgebühr
+zusteht. Sie beträgt je nach den Umständen
+des Einzelfalles (§ 12 Abs. <lxbase:az normform="1-BRAGO-5/10" manuell="nein">1 BRAGO) 5/10</lxbase:az>
+bis 10/10 einer vollen Gebühr (Rahmengebühr)
+für das Betreiben des Geschäfts einschließlich
+der Information, des Einreichens, Fertigens oder Unterzeichnens
+von Schriftsätzen oder Schreiben und des Entwerfens von
+Urkunden; der RA erhält diese Gebühr nicht für
+einen Rat oder eine Auskunft (§ 20 BRAGO).</lxbase:a><lxbase:a eingerueckt="nein">Im Hinblick auf die Regelung in § 139
+Abs. 1 i. V. mit Abs. 3 Satz 3 FGO, wonach nur die Kosten des Vorverfahrens,
+nicht aber die Kosten des vorangegangenen Verwaltungsverfahrens
+erstattungsfähig sind, ist die Geschäftsgebühr nur
+insoweit zu berücksichtigen, als sie sich durch das Tätigwerden
+im Rechtsbehelfsverfahren erhöht hat. Die (einheitliche)
+Gebühr ist folglich aufzuteilen, wobei zu berücksichtigen
+ist, mit welchem Aufwand das Veranlagungsverfahren (Steuererklärung
+mit oder ohne Bilanz usw.) betrieben wurde.</lxbase:a><lxbase:a eingerueckt="nein">Bei einer Tätigkeit in derselben
+Angelegenheit für mehrere Auftraggeber erhöht
+sich die Geschäftsgebühr für jeden weiteren
+Auftraggeber um 3/10 (§ 6 Abs. 1 BRAGO). Mehrere
+Erhöhungen dürfen den Betrag von zwei vollen Gebühren
+nicht übersteigen. Bei Gebühren, die
+nur dem Mindest- und Höchstbetrag nach bestimmt sind, erhöhen
+sich der Mindest- und Höchstbetrag durch jeden weiteren
+Auftraggeber um 3/10 ; mehrere Erhöhungen dürfen
+das Doppelte des Mindest- und Höchstbetrages nicht übersteigen.</lxbase:a><lxbase:a><lxbase:fett>6.2.2 Besprechungsgebühr (§ 118 Abs.
+1 Nr. 2 BRAGO) </lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">Die Ausführungen zur Besprechungsgebühr
+nach § 42 StBGebV (Besprechungsgebühr des Steuerberaters
+im außergerichtlichen Rechtsbehelfsverfahren; vgl. Tz.
+6.1.2) gelten entsprechend. Die Höhe der Gebühr
+beträgt (ebenfalls) <lxbase:az normform="5/10-bis-10/10" manuell="nein">5/10 bis 10/10</lxbase:az> einer
+vollen Gebühr. Für seine Tätigkeit
+im Verwaltungsverfahren und im anschließenden außergerichtlichen
+Rechtsbehelfsverfahren darf der RA als Besprechungsgebühr
+insgesamt <lxbase:az normform="nicht-mehr-als-10/10" manuell="nein">nicht mehr als
+10/10</lxbase:az> einer vollen Gebühr fordern (§ 118
+Abs. 1 Nr. 2 i. V. mit § 119 Abs. 1 BRAGO). Haben
+sowohl im Veranlagungsverfahren als auch im Einspruchsverfahren
+Besprechungen stattgefunden, ist die (einheitliche) Gebühr aufzuteilen. Nur
+der auf das außergerichtliche Rechtsbehelfsverfahren entfallende
+Teil der Gebühr ist nach § 139 FGO zu berücksichtigen.</lxbase:a><lxbase:a><lxbase:fett>6.2.3 Beweisaufnahmegebühr (§ 118 Abs.
+1 Nr. 3 BRAGO) </lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">Die Ausführungen zur Beweisaufnahmegebühr
+nach § 43 StBGebV (Beweisaufnahmegebühr des StB
+im außergerichtlichen Rechtsbehelfsverfahren, vgl. Tz.
+6.1.3) gelten entsprechend.</lxbase:a><lxbase:a eingerueckt="nein">§ 34 BRAGO gilt sinngemäß.</lxbase:a><lxbase:a><lxbase:fett>6.2.4 Auslagen </lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">Es gelten die gleichen Regelungen wie
+für Auslagen im gerichtlichen Verfahren (vgl. die Tzn.
+5.9 bis 5.13).</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300022">7. Verzinsung des Erstattungsanspruchs </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Die festgesetzten Kosten (siehe Tz.
+9) sind auf Antrag mit 4 vom Hundert zu verzinsen (§ 155
+FGO i. V. mit § 104 Abs. 1 Satz 2 ZPO).</lxbase:a><lxbase:a eingerueckt="nein">Der Zinslauf beginnt mit dem Eingang
+des Antrags auf Festsetzung der Kosten beim FG. Wurde der
+Antrag bereits vor dem Zeitpunkt der Kostenentscheidung (siehe Tz.
+1) gestellt, beginnt der Zinslauf in dem Zeitpunkt, in dem die Kostenentscheidung
+bestandskräftig wird, oder wenn im Urteil die Kosten für
+vorläufig vollstreckbar erklärt werden, ab dem
+Zeitpunkt der Urteilsverkündung.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300023">8. Beispiel zu den erstattungsfähigen
+Kosten </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Nachdem der StB X die Steuerfestsetzung überprüft
+hatte, legte er im Auftrag der Eheleute AB gegen den Einkommensteuerbescheid
+1993 am 1. 8. 1994 (erfolglos) Einspruch ein. Mit der im
+Namen der Eheleute am 10. 2. 1995 erhobenen Klage beantragte er,
+die Einkommensteuer um 10.200,-- DM herabzusetzen. Nach
+mündlicher Verhandlung erging am 15. 10. 1996 das Urteil. Die
+Kosten des Verfahrens haben nach der Kostenentscheidung die Eheleute
+(Kläger) zu 30 vom Hundert und das FA (Beklagter) zu 70 vom
+Hundert zu tragen. Die Hinzuziehung des Bevollmächtigten
+der Kläger zum Vorverfahren wurde für notwendig
+erklärt. Bei einem Streitwert von 10.200,-- DM
+kann von den Klägern eine Erstattung der folgenden Aufwendungen
+beantragt werden:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="64*" /><cals:colspec colnum="2" colname="2" colwidth="36*" /><cals:tbody><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Kosten des Klageverfahrens</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Maßgebend ist die Gebührentabelle
+der BRAGO vom 1. 7. 1994</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Prozeßgebühr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>10/10 + 3/10 (Mehrvertretungszuschlag) = 13/10</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>864,50 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Verhandlungsgebühr (10/10)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>665,00 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Postgebührenpauschale</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>40,00 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Fahrtkosten zum Gericht (120 km x 0,52 DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>62,40 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Tage- und Abwesenheitsgeld (mehr als 4 bis
+8 Stunden)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>60,00 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Umsatzsteuer (15 v. H. von 1.691,90)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>253,79 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Summe:</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.945,69 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Kosten des Vorverfahrens</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Maßgebend ist die Gebührentabelle
+(Tabelle E) der StBGebV</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Geschäftsgebühr</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry namest="1" nameend="2"><lxbase:a>Da der StB eine Gebühr
+für die Prüfung des Bescheids erhält,
+ermäßigt sich der Gebührenrahmen auf <lxbase:az normform="3/10-bis-8/10" manuell="nein">3/10
+bis 8/10</lxbase:az>. In Hinblick darauf, daß es sich
+um einen sogenannten Normalfall handelt, ist eine Mittelgebühr
+von 5,4/10 (313,50 DM) zu gewähren, die um 2/10 (313, <lxbase:az normform="50-DM-x-2/10" manuell="nein">50 DM x 2/10</lxbase:az> = 62,70
+DM) er erhöhen ist</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>(Mehrvertretungszuschlag, da Eheleute)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>376,20 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Postgebührenpauschale</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>40,00 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Umsatzsteuer (15 vom Hundert von 416,20 DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>62,43 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Summe</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>478,63 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Kosten insgesamt (1.945,69 DM + 478,63
+DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>2.424,32 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Zu erstattende Kosten (70 v. H. von 2.424,32 DM)</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.697,02 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry namest="1" nameend="2"><lxbase:a>Der zu erstattende Betrag ist
+auf Antrag mit 4 vom Hundert zu verzinsen.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300024">9. Kostenfestsetzungsverfahren</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D013857300025">9.1 Zuständig
+für die Festsetzung</lxbase:ueberschrift><lxbase:a>Für die Festsetzung der den Beteiligten (obsiegende
+Kläger) auf Antrag zu erstattenden Kosten ist der Urkundsbeamte
+des Gerichts des ersten Rechtszugs, in der Regel das FG, zuständig
+(§ 149 Abs. 1 FGO, § 155 FGO i. V. mit §§ 103 -
+105 ZPO).</lxbase:a><lxbase:a eingerueckt="nein">Wird ein Antrag auf Kostenfestsetzung
+gestellt, leitet ihn das FG dem FA zur Stellungnahme zu. Das
+FA hat daraufhin zu überprüfen, ob die geltend gemachten
+Kosten nach § 139 FGO zu berücksichtigen sind
+und ob die Höhe des Streitwerts (siehe Tz. 9.4) zutreffend
+ist.</lxbase:a><lxbase:a eingerueckt="nein">Nach der Stellungnahme des FA setzt
+der Urkundsbeamte des FG auf der Grundlage der Kostenentscheidung
+(Tz. 1) die zu erstattenden Kosten mit (Kostenfestsetzungs-)Beschluß fest.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300026">9.2 Auszahlung durch
+das FA Kassel-Goethestraße </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Je eine Ausfertigung dieses Beschlusses
+wird dem Kostenschuldner (beklagtes FA) und dem Kostengläubiger
+(obsiegender Kläger) zugestellt. Ferner erhält
+das Finanzamt Kassel-Goethestraße (FA KsG), das nach § 24
+der Verordnung über die Zuständigkeiten der Hessischen
+Finanzämter (AO-Kartei, § 17 FVG, Karte 1) für
+die Auszahlung der nach § 149 FGO festgesetzten erstattungsfähigen
+Aufwendungen für alle hessischen FÄ zuständig
+ist, eine Durchschrift der Entscheidung. Nach Eingang der
+Durchschrift fragt das FA KsG bei dem betroffenen FA (Kostenschuldner)
+an, ob der festgesetzte Erstattungsbetrag ausgezahlt werden kann. Zur
+Vermeidung von Beschwerden und Vollstrekkungsmaßnahmen
+(§ 151 FGO) hat das FA (Kostenschuldner) die Anfrage unverzüglich
+zu bearbeiten. Kann gegen den Kostenerstattungsanspruch
+aufgerechnet werden, so ist dies dem FA KsG unter Verwendung des der
+Anfrage beigefügten Vordrucks mitzuteilen. Das
+FA KsG wird dann die Aufrechnung erklären und das Weitere
+veranlassen (Überweisung des Betrags an das FA). Soweit
+keine Bedenken gegen die Auszahlung bestehen, ist hierüber
+das FA KsG (ebenfalls mit dem o. a. Vordruck) zu unterrichten und
+anzugeben, an wen erstattet werden soll (Erstattungsanschrift: Name,
+Anschrift, BLZ und Kontonummer).</lxbase:a><lxbase:a eingerueckt="nein">Für eine Erstattung an den
+Prozeßbevollmächtigten gilt folgendes:</lxbase:a><lxbase:a eingerueckt="nein">Nach § 155 FGO i. V. mit § 81
+ZPO ermächtigt die Prozeßvollmacht auch zur Empfangnahme
+der vom Gegner zu erstattenden Kosten. Das bedeutet, daß es
+insoweit keiner Abtretung des Kostenerstattungsanspruchs durch den Gläubiger
+(Kläger) an seinen Prozeßbevollmächtigten
+bedarf. In den übrigen Fällen ist eine
+Auszahlung mit schuldbefreiender Wirkung an einen Dritten nur möglich,
+wenn dem Finanzamt (Kostenschuldner) eine Abtretung des Erstattungsanspruchs
+vorliegt. Die strengen Formvorschriften des § 46
+AO sind für eine solche Abtretung nicht zu erfüllen,
+weil es sich bei dem Anspruch auf Erstattung der Kosten um keine
+Ansprüche im Sinne des § 46 Abs. 1 AO handelt. Maßgebend
+sind die Bestimmungen des BGB.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300027">9.3 Erinnerung </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Gegen die Festsetzung der Kosten kann
+(auch) das FA den Rechtsbehelf der Erinnerung einlegen. Abweichend
+von den übrigen Rechtsbehelfsfristen beträgt die
+Frist für die Erhebung der Erinnerung lediglich zwei Wochen
+(§ 149 Abs. 2 FGO).</lxbase:a><lxbase:a eingerueckt="nein">Mit der Erinnerung können nur
+Einwendungen gegen die Berechnung der Kosten, nicht aber gegen die
+dem Kostenfestsetzungsbeschluß zugrundeliegende Kostenentscheidung
+(Tz. 1) erhoben werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300028">9.4 Einwendungen gegen
+die Höhe des Streitwerts </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Wurde der bei der Kostenfestsetzung
+angesetzte Streitwert unzutreffend ermittelt und sind demzufolge
+die zu erstattenden Kosten zu hoch festgesetzt worden, ist dies
+ebenfalls mit der Erinnerung zu rügen (zur Höhe
+des Streitwerts vgl. Tipke / Kruse, Vor § 135
+FGO, Tz. 103, ABC der Streitwerte).</lxbase:a><lxbase:a eingerueckt="nein">Lediglich in den Fällen, in
+denen das Gericht den Streitwert (gesondert) durch Beschluß festgesetzt
+hat, sind Einwendungen zu dessen Ermittlung mit der Erinnerung gegen
+den Kostenfestsetzungsbeschluß unzulässig. Ein Rechtsbehelf
+gegen einen solchen (Streitwert-)Beschluß ist nicht gegeben,
+da es keine Beschwerde an ein oberstes Bundesgericht gibt (§ 25
+Abs. 3 GKG i. V. mit § 5 Abs. 2 Satz 3 GKG). Zur
+Möglichkeit der Änderung der Beschlüsse über
+die Festsetzung des Streitwerts siehe § 25 Abs. 2 Satz
+2 und 3 GKG.</lxbase:a><lxbase:a eingerueckt="nein">Aufgrund der am 1. 1. 1997 in Kraft
+getretenen Änderung des § 25 Abs. 1 Satz 1 GKG
+durch das 6. VwGOÄndG (<lxbase:lit-fs normform="BGBl-1996-1626" manuell="nein">BGBl 1996 Seite 1626</lxbase:lit-fs> ) setzt das Gericht
+den Streitwert außerhalb des Kostenfestsetzungsbeschlusses
+nur noch dann gesondert fest, wenn dies ein Beteiligter beantragt
+oder das Gericht es für angemessen erachtet. Da
+im Steuerprozeß Streitwertfestsetzungen nach § 24
+GKG nicht vorkommen, ist die (gesonderte) Festsetzung des Streitwerts
+künftig wieder, wie dies bereits in der Zeit vor dem 1.
+7. 1994 der Fall war, die Ausnahme. In der Zeit vom 1.
+7. 1994 bis 31. 12. 1996 hatte das FG bei jeder abschließenden
+Entscheidung in der Hauptsache oder bei Erledigung des Verfahrens
+den Streitwert von Amts wegen (gesondert) festzusetzen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300029">9.5 Antrag auf einstweilige
+Aussetzung der Vollstreckung </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Nach § 149 Abs. 3 FGO können
+der Vorsitzende des Gerichts oder das Gericht anordnen, daß die
+Vollstreckung einstweilen auszusetzen ist. Wurde Erinnerung
+eingelegt und ein Antrag auf einstweilige Aussetzung der Vollstreckung
+gestellt, ist das FA KsG entsprechend zu informieren (vgl. auch
+Tz. 9.2).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300030">9.6 Entscheidung über
+die Erinnerung </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Hilft der Urkundsbeamte der Erinnerung
+nicht ab, entscheidet das Gericht durch (unanfechtbaren) Beschluß (§ 149
+Abs. 4 und § 128 Abs. 4 FGO).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300031">9.7 Kosten des Erinnerungsverfahrens </lxbase:ueberschrift><lxbase:a eingerueckt="nein">Über die Frage, wer die Kosten
+des Erinnerungsverfahrens zu tragen hat, ergeht (wiederum) eine
+Kostenentscheidung (Tz. 1), die die Grundlage für ein anschließendes
+Kostenfestsetzungsverfahren ist. Die Höhe der
+Gebühren (§ 31 BRAGO) für die Tätigkeit
+des Prozeßbevollmächtigten beträgt nach § 61 Abs.
+1 Nr. <lxbase:az normform="2-BRAGO-5/10" manuell="nein">2 BRAGO
+5/10</lxbase:az> einer vollen Gebühr.</lxbase:a><lxbase:a align="zentriert">Die (Handakten-)Verfügungen vom 16. 8. 1988 - <lxbase:az normform="O2206" manuell="nein">O-2206</lxbase:az>
+A - 
+<lxbase:za />3 / <lxbase:az normform="FG2018" manuell="nein">FG 2018</lxbase:az> A - 6 - St I 61c - und vom 8. 9. 1994
+- <lxbase:az normform="FG2018" manuell="nein">FG 2018</lxbase:az> A 
+<lxbase:za />- 7 - St II 40 - sowie die AO-Kartei, § 145
+FGO, 
+<lxbase:za />Allgemeines, Karte 1, sind auszusondern. 
+<lxbase:za /> </lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300032">Anlage 1: Auszug aus
+der Bundesgebührenordnung für Rechtsanwälte (BRAGO)</lxbase:ueberschrift><lxbase:a align="zentriert">  
+<lxbase:fett>Erster Abschnitt: Allgemeine Vorschriften</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">§ 1 Geltungsbereich</lxbase:a><lxbase:a eingerueckt="nein">(1) Die Vergütung (Gebühren
+und Auslagen) des Rechtsanwalts für seine Berufstätigkeit
+bemißt sich nach diesem Gesetz.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 3 Vereinbarung der Vergütung</lxbase:a><lxbase:a eingerueckt="nein">(1) Aus einer Vereinbarung kann der
+Rechtsanwalt eine höhere als die gesetzliche Vergütung
+nur fordern, wenn die Erklärung des Auftraggebers schriftlich abgegeben
+und nicht in der Vollmacht oder in einem Vordruck, der auch andere Erklärungen
+umfaßt, enthalten ist.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 4 Vergütung für
+Tätigkeiten von Vertretern des Rechtsanwalts</lxbase:a><lxbase:a eingerueckt="nein">Die Vergütung für
+eine Tätigkeit, die der Rechtsanwalt nicht persönlich
+vornimmt, wird nach diesem Gesetz bemessen, wenn der Rechtsanwalt
+durch einen Rechtsanwalt, den allgemeinen Vertreter oder einen zur
+Ausbildung zugewiesenen Referendar vertreten wird.</lxbase:a><lxbase:a eingerueckt="nein">§ 5 Mehrere Rechtsanwälte</lxbase:a><lxbase:a eingerueckt="nein">Ist der Auftrag mehreren Rechtsanwälten
+zur gemeinschaftlichen Erledigung übertragen, so erhält
+jeder Rechtsanwalt für seine Tätigkeit die volle
+Vergütung.</lxbase:a><lxbase:a eingerueckt="nein">§ 6 Mehrere Auftraggeber</lxbase:a><lxbase:a eingerueckt="nein">(1) Wird der Rechtsanwalt in derselben
+Angelegenheit für mehrere Auftraggeber tätig,
+so erhält er die Gebühren nur einmal. Ist
+der Gegenstand der anwaltlichen Tätigkeit derselbe, so
+erhöhen sich die Geschäftsgebühr (§ 118 Abs.
+1 Nr. 1) und die Prozeßgebühr (§ 31 Abs.
+1 Nr. 1) durch jeden weiteren Auftraggeber um drei Zehntel; die
+Erhöhung wird nach dem Betrag berechnet, an dem die Auftraggeber
+gemeinschaftlich beteiligt sind; mehrere Erhöhungen dürfen
+den Betrag von zwei vollen Gebühren nicht übersteigen. Bei Gebühren,
+die nur dem Mindest- und Höchstbetrag nach bestimmt sind,
+erhöhen sich der Mindest- und Höchstbetrag durch
+jeden weiteren Auftraggeber um drei Zehntel; mehrere Erhöhungen
+dürfen das Doppelte des Mindest- und Höchstbetrages
+nicht übersteigen.</lxbase:a><lxbase:a eingerueckt="nein">(2) Der Rechtsanwalt erhält
+auch Schreibauslagen für Abschriften und Ablichtungen,
+die in derselben Angelegenheit zur notwendigen Unterrichtung von mehr
+als zehn Auftraggebern gefertigt werden.</lxbase:a><lxbase:a eingerueckt="nein">(3) Jeder der Auftraggeber schuldet
+dem Rechtsanwalt die Gebühren und Auslagen, die er schulden
+würde, wenn der Rechtsanwalt nur in seinem Auftrag tätig
+geworden wäre; Schreibauslagen schuldet jeder jedoch nur
+für Abschriften und Ablichtungen, die zu seiner Unterrichtung
+gefertigt werden. Der Rechtsanwalt kann aber insgesamt
+nicht mehr als die nach Absatz 1 berechneten Gebühren und
+die nach Absatz 2 berechneten Schreibauslagen fordern; die übrigen
+Auslagen kann er nur einmal fordern.</lxbase:a><lxbase:a eingerueckt="nein">§ 7 Gegenstandswert</lxbase:a><lxbase:a eingerueckt="nein">(1) Die Gebühren werden, soweit
+dieses Gesetz nichts anderes bestimmt, nach dem Wert berechnet,
+den der Gegenstand der anwaltlichen Tätigkeit hat (Gegenstandswert).</lxbase:a><lxbase:a eingerueckt="nein">(2) In derselben Angelegenheit werden
+die Werte mehrerer Gegenstände zusammengerechnet.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 8 Wertvorschriften</lxbase:a><lxbase:a eingerueckt="nein">(1) Soweit sich die Gerichtsgebühren
+nach dem Wert richten, bestimmt sich der Gegenstandswert im gerichtlichen
+Verfahren nach den für die Gerichtsgebühren geltenden
+Wertvorschriften. Diese Wertvorschriften gelten sinngemäß auch
+für die Tätigkeit außerhalb eines gerichtlichen
+Verfahrens, wenn der Gegenstand der Tätigkeit auch Gegenstand
+eines gerichtlichen Verfahrens sein könnte.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 9 Wertfestsetzung für
+die Gerichtsgebühren</lxbase:a><lxbase:a eingerueckt="nein">(1) Wird der für die Gerichtsgebühren
+maßgebende Wert gerichtlich festgesetzt, so ist die Festsetzung
+auch für die Gebühren des Rechtsanwalts maßgebend.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 11 Volle Gebühr,
+Mindestbetrag einer Gebühr</lxbase:a><lxbase:a eingerueckt="nein">(1) Die volle Gebühr bei einem
+Gegenstandswert bis 600,00 DM beträgt 50,00 DM. Die
+Gebühr erhöht sich bei einem</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="3" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:colspec colnum="3" colname="3" colwidth="33*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>Gegenstandswert bis … DM</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>für jeden angefangenen Betrag
+von weiteren … DM</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>um ... DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>3.000,00</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>600,00</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>40,00</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>10.000,00</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.000,00</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>55,00</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>20.000,00</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>2.000,00</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>70,00</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>50.000,00</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>5.000,00</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>80,00</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>100.000,00</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>10.000,00</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>140,00</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>400.000,00</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>30.000,00</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>160,00</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>1.000.000,00</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>60.000,00</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>250,00</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" align="right"><lxbase:a>über 1.000.000,00</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>100.000,00</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>300,00</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a eingerueckt="nein">Eine Gebührentabelle für
+Gegenstandswerte bis eine Million Deutsche Mark ist diesem Gesetz
+als Anlage beigefügt. Im Berufungs- und Revisionsverfahren
+erhöhen sich die Beträge der sich aus Satz 1 und
+2 ergebenden Gebühren um drei Zehntel. Im Revisionsverfahren
+erhöht sich die Prozeßgebühr jedoch um
+zehn Zehntel, soweit sich die Parteien nur durch einen beim Bundesgerichtshof
+zugelassenen Rechtsanwalt vertreten lassen können. In
+Verfahren vor dem Rechtsmittelgericht über die Zulassung
+des Rechtsmittels gelten die Sätze 4 und 5 entsprechend.</lxbase:a><lxbase:a eingerueckt="nein">§ 12 Rahmengebühren</lxbase:a><lxbase:a eingerueckt="nein">(1) Bei Rahmengebühren bestimmt
+der Rechtsanwalt die Gebühr im Einzelfall unter Berücksichtigung
+aller Umstände, insbesondere der Bedeutung der Angelegenheit,
+des Umfangs und der Schwierigkeit der anwaltlichen Tätigkeit
+sowie der Vermögens- und Einkommensverhältnisse
+des Auftraggebers, nach billigem Ermessen. Ist die Gebühr
+von einem Dritten zu ersetzen, so ist die von dem Rechtsanwalt getroffene
+Bestimmung nicht verbindlich, wenn sie unbillig ist.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 13 Abgeltungsbereich der
+Gebühren</lxbase:a><lxbase:a eingerueckt="nein">(1) Die Gebühren entgelten,
+soweit dieses Gesetz nichts anderes bestimmt, die gesamte Tätigkeit
+des Rechtsanwalts vom Auftrag bis zur Erledigung der Angelegenheit.</lxbase:a><lxbase:a eingerueckt="nein">(2) Der Rechtsanwalt kann die Gebühren
+in derselben Angelegenheit nur einmal fordern. In gerichtlichen
+Verfahren kann er die Gebühren in jedem Rechtszug fordern.</lxbase:a><lxbase:a eingerueckt="nein">(3) Sind für Teile des Gegenstands
+verschiedene Gebührensätze anzuwenden, so erhält
+der Rechtsanwalt für die Teile gesondert berechnete Gebühren,
+jedoch nicht mehr als die aus dem Gesamtbetrag der Wertteile nach
+dem höchsten Gebührensatz berechnete Gebühr.</lxbase:a><lxbase:a eingerueckt="nein">(4) Auf bereits entstandene Gebühren
+ist es, soweit dieses Gesetz nichts anderes bestimmt, ohne Einfluß,
+wenn sich die Angelegenheit vorzeitig erledigt oder der Auftrag
+endigt, bevor die Angelegenheit erledigt ist.</lxbase:a><lxbase:a eingerueckt="nein">(5) Wird der Rechtsanwalt, nachdem er
+in einer Angelegenheit tätig geworden ist, beauftragt,
+in derselben Angelegenheit weiter tätig zu werden, so erhält
+er nicht mehr an Gebühren, als er erhalten würde,
+wenn er von vornherein hiermit beauftragt worden wäre. Ist
+der frühere Auftrag seit mehr als zwei Kalenderjahren erledigt,
+gilt die weitere Tätigkeit als neue Angelegenheit.</lxbase:a><lxbase:a eingerueckt="nein">(6) Ist der Rechtsanwalt nur mit einzelnen
+Handlungen beauftragt, so erhält er nicht mehr an Gebühren
+als der mit der gesamten Angelegenheit beauftragte Rechtsanwalt
+für die gleiche Tätigkeit erhalten würde.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a align="zentriert"><lxbase:fett>Zweiter Abschnitt. Gemeinsame Vorschriften über
+Gebühren und Auslagen</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 24 Erledigungsgebühr</lxbase:a><lxbase:a eingerueckt="nein">Erledigt sich eine Rechtssache ganz
+oder teilweise nach Zurücknahme oder Änderung
+des mit einem Rechtsbehelf angefochtenen Verwaltungsaktes, so erhält
+der Rechtsanwalt, der bei der Erledigung mitgewirkt hat, eine volle Gebühr.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 25 Ersatz von Auslagen</lxbase:a><lxbase:a eingerueckt="nein">(1) Mit den Gebühren werden
+auch die allgemeinen Geschäftsunkosten entgolten.</lxbase:a><lxbase:a eingerueckt="nein">(2) Der Rechtsanwalt hat Anspruch auf
+Ersatz der auf seine Vergütung entfallenden Umsatzsteuer,
+sofern diese nicht nach § 19 Abs. 1 des Umsatzsteuergesetzes
+unerhoben bleibt.</lxbase:a><lxbase:a eingerueckt="nein">(3) Der Anspruch auf Ersatz der für
+Post- und Telekommunikationsdienstleistungen zu zahlenden Entgelte,
+der Schreibauslagen und der Reisekosten bestimmt sich nach den folgenden
+Vorschriften.</lxbase:a><lxbase:a eingerueckt="nein">§ 26 Entgelte für
+Post- und Telekommunikationsdienstleistungen</lxbase:a><lxbase:a eingerueckt="nein">Der Rechtsanwalt hat Anspruch auf Ersatz
+der bei der Ausführung des Auftrags für Post-
+und Telekommunikationsdienstleistungen zu zahlenden Entgelte. Er
+kann nach seiner Wahl an Stelle der tatsächlich entstandenen Kosten
+einen Pauschsatz fordern, der fünfzehn vom Hundert der
+gesetzlichen Gebühren beträgt, in derselben Angelegenheit
+und in gerichtlichen Verfahren in demselben Rechtszug jedoch höchstens
+40,00 Deutsche Mark, in Strafsachen und Bußgeldverfahren
+höchstens 30,00 Deutsche Mark. § 11 Abs.
+2 Satz 2 gilt sinngemäß.</lxbase:a><lxbase:a eingerueckt="nein">§ 27 Schreibauslagen</lxbase:a><lxbase:a eingerueckt="nein">(1) Der Rechtsanwalt hat Anspruch auf
+Ersatz der Schreibauslagen für Abschriften und Ablichtungen</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">aus
+Behörden- und Gerichtsakten, soweit deren Herstellung zur
+sachgemäßen Bearbeitung der Rechtssache geboten
+war,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">für die
+Unterrichtung von mehr als drei Gegnern oder Beteiligten auf Grund einer
+Rechtsvorschrift oder nach Aufforderung des Gerichts und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a eingerueckt="nein">im übrigen
+nur, wenn sie im Einverständnis mit dem Auftraggeber zusätzlich,
+auch zur Unterrichtung Dritter, angefertigt worden sind.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein">(2) Die Höhe der Schreibauslagen
+in derselben Angelegenheit und in gerichtlichen Verfahren in demselben
+Rechtszug bemißt sich nach den für die gerichtlichen
+Schreibauslagen im Gerichtskostengesetz bestimmten Beträgen.</lxbase:a><lxbase:a eingerueckt="nein">§ 28 Geschäftsreisen</lxbase:a><lxbase:a eingerueckt="nein">(1) Für Geschäftsreisen
+sind dem Rechtsanwalt als Reisekosten die Fahrtkosten und die Übernachtungskosten
+zu erstatten; ferner erhält er ein Tage- und Abwesenheitsgeld. Eine
+Geschäftsreise liegt vor, wenn das Reiseziel außerhalb
+der Gemeinde liegt, in der sich die Kanzlei oder die Wohnung des Rechtsanwalts
+befindet.</lxbase:a><lxbase:a eingerueckt="nein">(2) Als Fahrtkosten sind zu erstatten</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">bei
+Benutzung eines eigenen Kraftfahrzeugs zur Abgeltung der Anschaffungs-,
+Unterhaltungs- und Betriebskosten sowie der Abnutzung des Kraftfahrzeugs
+0,52 Deutsche Mark für jeden gefahrenen Kilometer zuzüglich
+der durch die Benutzung des Kraftfahrzeugs aus Anlaß der
+Geschäftsreise regelmäßig anfallenden
+baren Auslagen, insbesondere der Parkgebühren,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">bei Benutzung
+anderer Verkehrsmittel die tatsächlichen Aufwendungen, soweit
+sie angemessen sind.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein">(3) Als Tage- und Abwesenheitsgeld erhält
+der Rechtsanwalt bei einer Geschäftsreise von nicht mehr
+als 4 Stunden 30,00 Deutsche Mark, von mehr als 4 bis 8 Stunden
+60,00 Deutsche Mark und von mehr als 8 Stunden 110,00 Deutsche Mark;
+bei Auslandsreisen kann zu diesen Beträgen ein Zuschlag
+von 50 vom Hundert berechnet werden. Die Übernachtungskosten
+sind in Höhe der tatsächlichen Aufwendungen zu
+erstatten, soweit sie angemessen sind.</lxbase:a><lxbase:a eingerueckt="nein">§ 29 Reisen zur Ausführung
+mehrerer Geschäfte</lxbase:a><lxbase:a eingerueckt="nein">Dient eine Reise mehreren Geschäften,
+so sind die entstandenen Reisekosten und Abwesenheitsgelder nach
+dem Verhältnis der Kosten zu verteilen, die bei gesonderter
+Ausführung der einzelnen Geschäfte entstanden
+wären.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a align="zentriert"><lxbase:fett>Dritter Abschnitt. Gebühren in bürgerlichen
+Rechtsstreitigkeiten und in ähnlichen Verfahren</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">§ 31 Prozeßgebühr,
+Verhandlungsgebühr, Beweisgebühr, Erörterungsgebühr</lxbase:a><lxbase:a eingerueckt="nein">(1) Der zum Prozeßbevollmächtigten
+bestellte Rechtsanwalt erhält eine volle Gebühr</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">für
+das Betreiben des Geschäfts einschließlich der
+Information (Prozeßgebühr),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">für die
+mündliche Verhandlung (Verhandlungsgebühr),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a eingerueckt="nein">für die
+Vertretung im Beweisaufnahmeverfahren oder bei der Anhörung oder
+Vernehmung einer Partei nach § 613 der Zivilprozeßordnung
+(Beweisgebühr),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a eingerueckt="nein">für die
+Erörterung der Sache, auch im Rahmen eines Versuchs zur
+gütlichen Beilegung (Erörterungsgebühr).</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein">(2) Erörterungsgebühren
+und Verhandlungsgebühren, die denselben Gegenstand betreffen
+und in demselben Rechtszug entstehen, werden aufeinander angerechnet.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 34 Vorlegung von Urkunden,
+Beiziehung von Akten oder Urkunden</lxbase:a><lxbase:a eingerueckt="nein">(1) Der Rechtsanwalt erhält
+die Beweisgebühr nicht, wenn die Beweisaufnahme lediglich
+in der Vorlegung der in den Händen des Beweisführers
+oder des Gegners befindlichen Urkunden besteht.</lxbase:a><lxbase:a eingerueckt="nein">(2) Werden Akten oder Urkunden beigezogen,
+so erhält der Rechtsanwalt die Beweisgebühr nur,
+wenn die Akten oder Urkunden durch Beweisbeschluß oder sonst
+erkennbar zum Beweis beigezogen oder als Beweis verwertet werden.</lxbase:a><lxbase:a eingerueckt="nein">§ 35 Entscheidung ohne mündliche
+Verhandlung</lxbase:a><lxbase:a eingerueckt="nein">Wird in einem Verfahren, für
+das mündliche Verhandlung vorgeschrieben ist, im Einverständnis
+mit den Parteien oder gemäß § 128 Abs.
+3, § 307 Abs. 2, § 331 Abs. 3 oder § 495a
+Abs. 1 der Zivilprozeßordnung ohne mündliche Verhandlung
+entschieden, so erhält der Rechtsanwalt die gleichen Gebühren
+wie in einem Verfahren mit mündlicher Verhandlung.</lxbase:a><lxbase:a eingerueckt="nein">§ 61 Beschwerde, Erinnerung</lxbase:a><lxbase:a eingerueckt="nein">(1) Fünf Zehntel der im § 31
+bestimmten Gebühren erhält der Rechtsanwalt</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">im Beschwerdeverfahren;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">im Verfahren über
+die Erinnerung gegen die Kostenfestsetzung und gegen den Kostenansatz.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein">(2) In derselben Angelegenheit erhält
+der Rechtsanwalt die in Absatz 1 Nr. 2 bezeichneten Gebühren
+nur einmal.</lxbase:a><lxbase:a eingerueckt="nein">(3) Die Vorschriften des § 32
+und des § 33 Abs. 1 und 2 gelten nicht.</lxbase:a><lxbase:a eingerueckt="nein">§ 114 Verfahren vor Gerichten
+der Verwaltungs- und Finanzgerichtsbarkeit</lxbase:a><lxbase:a align="zentriert"><lxbase:fett>Elfter Abschnitt. Gebühren in Verfahren
+... vor Gerichten der ... Finanzgerichtsbarkeit</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">(1) In Verfahren vor den Gerichten der
+Verwaltungsgerichtsbarkeit und der Finanzgerichtsbarkeit gelten
+die Vorschriften des Dritten Abschnitts sinngemäß.</lxbase:a><lxbase:a eingerueckt="nein">(2) Der Rechtsanwalt erhält
+im erstinstanzlichen Verfahren vor dem Bundesverwaltungsgericht
+und vor einem Oberverwaltungsgericht (Verwaltungsgerichtshof) Gebühren
+nach § 11 Abs. 1 Satz 4, im Verfahren vor dem Finanzgericht
+Gebühren nach § 11 Abs. 1 Satz 1 und 2.</lxbase:a><lxbase:a eingerueckt="nein">(3) Im Verfahren nach § 84
+Abs. 1 Satz 2 der Verwaltungsgerichtsordnung und im Verfahren nach § 130a
+Satz 2 in Verbindung mit § 125 Abs. 2 Satz 3 der Verwaltungsgerichtsordnung
+erhält der Rechtsanwalt eine halbe Verhandlungsgebühr.</lxbase:a><lxbase:a eingerueckt="nein">(4) Ist die Klage nach § 45
+der Finanzgerichtsordnung als außergerichtlicher Rechtsbehelf
+zu behandeln, wird auf die Prozeßgebühr die neu
+entstehende oder eine in demselben Verwaltungsverfahren bereits
+entstandene Geschäftsgebühr angerechnet.</lxbase:a><lxbase:a eingerueckt="nein">(5) Im Verfahren auf Aussetzung oder
+Aufhebung der Vollziehung des Verwaltungsakts, auf Anordnung oder
+Wiederherstellung der aufschiebenden Wirkung und in Verfahren auf
+Erlaß einer einstweiligen Anordnung gilt § 40
+sinngemäß. Bei Vollziehung einer einstweiligen
+Anordnung gilt § 59 sinngemäß.</lxbase:a><lxbase:a eingerueckt="nein">(6) Im gerichtlichen Verfahren über
+einen Akt der Zwangsvollstreckung (des Verwaltungszwangs) erhält
+der Rechtsanwalt drei Zehntel der in § 31 bestimmten Gebühren. Die
+Vorschriften des § 32 und des § 33 Abs. 1 und
+2 gelten nicht.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 117 Besonderheiten für
+Verfahren vor Gerichten der Finanzgerichtsbarkeit</lxbase:a><lxbase:a eingerueckt="nein">Wird durch Urteil ohne mündliche
+Verhandlung oder als Urteil wirkenden Gerichtsbescheid entschieden,
+erhält der Rechtsanwalt die gleichen Gebühren wie
+in einem Verfahren mit mündlicher Verhandlung.</lxbase:a><lxbase:a align="zentriert"><lxbase:fett>Zwölfter Abschnitt: Gebühren in sonstigen
+Angelegenheiten</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">§ 118 Geschäftsgebühr,
+Besprechungsgebühr, Beweisaufnahmegebühr</lxbase:a><lxbase:a eingerueckt="nein">(1) In anderen als den im Dritten bis
+Elften Abschnitt geregelten Angelegenheiten erhält der
+Rechtsanwalt fünf Zehntel bis zehn Zehntel der vollen Gebühr</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">für
+das Betreiben des Geschäfts einschließlich der
+Information, des Einreichens, Fertigens oder Unterzeichnens von
+Schriftsätzen oder Schreiben und des Entwerfens von Urkunden
+(Geschäftsgebühr); der Rechtsanwalt erhält diese
+Gebühr nicht für einen Rat oder eine Auskunft
+(§ 20);</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">für das
+Mitwirken bei mündlichen Verhandlungen oder Besprechungen über tatsächliche
+oder rechtliche Fragen, die von einem Gericht oder einer Behörde
+angeordnet oder im Einverständnis mit dem Auftraggeber
+vor einem Gericht oder einer Behörde, mit dem Gegner oder
+mit einem Dritten geführt werden; für das Mitwirken
+bei der Gestaltung eines Gesellschaftsvertrages und bei der Auseinandersetzung
+von Gesellschaften und Gemeinschaften (Besprechungsgebühr);
+der Rechtsanwalt erhält diese Gebühr nicht für
+eine mündliche oder fernmündliche Nachfrage;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a eingerueckt="nein">für das
+Mitwirken bei Beweisaufnahmen, die von einem Gericht oder von einer
+Behörde angeordnet worden sind (Beweisaufnahmegebühr); § 34
+gilt sinngemäß.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein">(2) Soweit die in Absatz 1 Nr. 1 bestimmte
+Geschäftsgebühr für eine Tätigkeit außerhalb
+eines gerichtlichen oder behördlichen Verfahrens entsteht,
+ist sie auf die entsprechenden Gebühren für ein
+anschließendes gerichtliches oder behördliches
+Verfahren anzurechnen. Die in Satz 1 bezeichnete Geschäftsgebühr
+ist zur Hälfte auf die entsprechenden Gebühren
+für ein Verfahren über Anträge auf Vollstreckbarerklärung
+eines Vergleichs nach § 1044b der Zivilprozeßordnung
+anzurechnen.</lxbase:a><lxbase:a eingerueckt="nein">§ 119 Vorverfahren, Verwaltungszwangsverfahren,
+Aussetzung der Vollziehung</lxbase:a><lxbase:a eingerueckt="nein">(1) Das Verwaltungsverfahren, das dem
+Rechtsstreit vorausgeht und der Nachprüfung des Verwaltungsakts
+dient (Vorverfahren, Einspruchsverfahren, Beschwerdeverfahren, Abhilfeverfahren),
+ist zusammen mit dem vorangegangenen Verwaltungsverfahren eine Angelegenheit.</lxbase:a><lxbase:a eingerueckt="nein">(2) Im Verwaltungszwangsverfahren (Verwaltungsvollstreckungsverfahren) erhält
+der Rechtsanwalt je drei Zehntel der vollen Gebühr als
+Geschäftsgebühr, Besprechungsgebühr und
+Beweisaufnahmegebühr.</lxbase:a><lxbase:a eingerueckt="nein">(3) Das Verwaltungsverfahren auf Aussetzung
+der Vollziehung oder auf Beseitigung der aufschiebenden oder hemmenden
+Wirkung ist zusammen mit den in den Absätzen 1 und 2 genannten
+Verfahren eine Angelegenheit.</lxbase:a><lxbase:a align="zentriert">Gebührentabelle zu § 11 BRAGO</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:colspec colnum="4" colname="4" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>Gegenstandswert bis … DM</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>Gebühr … DM</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>Gegenstandswert bis … DM</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>Gebühr ... DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>600</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>50</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>70.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>1.705</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>1.200</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>90</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>80.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>1.845</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>1.800</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>130</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>90.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>1.985</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>2.400</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>170</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>100.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.125</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>3.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>210</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>130.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.285</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>4.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>265</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>160.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.445</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>5.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>320</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>190.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.605</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>6.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>375</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>220.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.765</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>7.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>430</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>250.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.925</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>8.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>485</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>280.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.085</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>9.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>540</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>310.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.245</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>10.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>595</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>340.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.405</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>12.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>665</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>370.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.565</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>14.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>735</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>400.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.725</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>16.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>805</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>460.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.975</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>18.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>875</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>520.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.225</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>20.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>945</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>580.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.475</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>25.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.025</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>640.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.725</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>30.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.105</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>700.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.975</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>35.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.185</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>760.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>5.225</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>40.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.265</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>820.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>5.475</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>45.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.345</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>880.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>5.725</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>50.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.425</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>940.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>5.975</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" align="right"><lxbase:a>60.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.565</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>1.000.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>6.225</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D013857300033">Anlage 2: Auszug aus
+der Steuerberatergebührenverordnung (StBGebV) </lxbase:ueberschrift><lxbase:a align="zentriert">  
+<lxbase:fett>Erster Abschnitt: Allgemeine Vorschriften</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">§ 1 Anwendungsbereich</lxbase:a><lxbase:a eingerueckt="nein">(1) Die Vergütung (Gebühren
+und Auslagenersatz) des Steuerberaters für seine selbständig
+ausgeübte Berufstätigkeit (§ 33 des Gesetzes)
+bemißt sich nach dieser Verordnung.</lxbase:a><lxbase:a eingerueckt="nein">(2) Für die Vergütung
+der Steuerbevollmächtigten und der Steuerberatungsgesellschaften
+gelten die Vorschriften über die Vergütung der
+Steuerberater entsprechend.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 3 Mindestgebühr,
+Auslagen</lxbase:a><lxbase:a eingerueckt="nein">(1) Der Mindestbetrag einer Gebühr
+ist 15 Deutsche Mark. Pfennigbeträge sind auf
+10 Deutsche Pfennig aufzurunden.</lxbase:a><lxbase:a eingerueckt="nein">(2) Mit den Gebühren werden
+auch die allgemeinen Geschäftskosten entgolten.</lxbase:a><lxbase:a eingerueckt="nein">(3) Der Anspruch auf Zahlung der auf
+die Vergütung entfallenden Umsatzsteuer und auf Ersatz
+der Post- und Fernmeldegebühren, der Schreibauslagen und
+der Reisekosten bestimmt sich nach den §§ 15 bis
+20.</lxbase:a><lxbase:a eingerueckt="nein">§ 4 Vereinbarung der Vergütung</lxbase:a><lxbase:a eingerueckt="nein">(1) Aus einer Vereinbarung kann der
+Steuerberater eine höhere Vergütung, als sie sich
+aus dieser Verordnung und den gesetzlichen Vorschriften über
+den Auslagenersatz ergibt, nur fordern, wenn die Erklärung
+des Auftraggebers schriftlich abgegeben und nicht in der Vollmacht
+oder in einem Vordruck, der auch andere Erklärungen umfaßt,
+enthalten ist. ...</lxbase:a><lxbase:a eingerueckt="nein">§ 5 Mehrere Steuerberater</lxbase:a><lxbase:a eingerueckt="nein">Ist die Angelegenheit mehreren Steuerberatern
+zur gemeinschaftlichen Erledigung übertragen, so erhält
+jeder Steuerberater für seine Tätigkeit die volle
+Vergütung.</lxbase:a><lxbase:a eingerueckt="nein">§ 6 Mehrere Auftraggeber</lxbase:a><lxbase:a eingerueckt="nein">(1) Wird der Steuerberater in derselben
+Angelegenheit für mehrere Auftraggeber tätig,
+so erhält er die Gebühren nur einmal.</lxbase:a><lxbase:a eingerueckt="nein">(2) Jeder Auftraggeber schuldet dem
+Steuerberater die Gebühren und Auslagen, die er schulden
+würde, wenn der Steuerberater nur in seinem Auftrag tätig geworden
+wäre. Der Steuerberater kann aber insgesamt nicht
+mehr als die Gebühr nach Absatz 1 fordern, die in den Fällen
+des § 41 Abs. 6 nach Maßgabe dieser Vorschrift
+zu berechnen ist; die Auslagen kann er nur einmal fordern.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a align="zentriert"><lxbase:fett>Zweiter Abschnitt: Gebührenberechnung</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">§ 10 Wertgebühren</lxbase:a><lxbase:a eingerueckt="nein">(1) Die Wertgebühren bestimmen
+sich nach den der Verordnung als Anlage beigefügten Tabellen
+A bis E. Sie werden nach dem Wert berechnet, den der Gegenstand
+der beruflichen Tätigkeit hat. Maßgebend
+ist, soweit diese Verordnung nichts anderes bestimmt, der Wert des
+Interesses.</lxbase:a><lxbase:a eingerueckt="nein">(2) In derselben Angelegenheit werden
+die Werte mehrerer Gegenstände zusammengerechnet; dies
+gilt nicht für die in den §§ 24 bis 27,
+30, 35 und 37 bezeichneten Tätigkeiten.</lxbase:a><lxbase:a eingerueckt="nein">§ 11 Rahmengebühren</lxbase:a><lxbase:a eingerueckt="nein">Ist für die Gebühren
+ein Rahmen vorgesehen, so bestimmt der Steuerberater die Gebühr
+im Einzelfall unter Berücksichtigung aller Umstände,
+insbesondere der Bedeutung der Angelegenheit, des Umfanges und der
+Schwierigkeit der beruflichen Tätigkeit nach billigem Ermessen.</lxbase:a><lxbase:a eingerueckt="nein">§ 12 Abgeltungsbereich der
+Gebühren</lxbase:a><lxbase:a eingerueckt="nein">(1) Die Gebühren entgelten,
+soweit diese Verordnung nichts anderes bestimmt, die gesamte Tätigkeit
+des Steuerberaters vom Auftrag bis zur Erledigung der Angelegenheit.</lxbase:a><lxbase:a eingerueckt="nein">(2) Der Steuerberater kann die Gebühren
+in derselben Angelegenheit nur einmal fordern.</lxbase:a><lxbase:a eingerueckt="nein">(3) Sind für Teile des Gegenstandes
+verschiedene Gebührensätze anzuwenden, so erhält
+der Steuerberater für die Teile gesondert berechnete Gebühren,
+jedoch nicht mehr als die aus dem Gesamtbetrag der Wertteile nach
+dem höchsten Gebührensatz berechnete Gebühr.</lxbase:a><lxbase:a eingerueckt="nein">(4) Auf bereits entstandene Güter
+ist es, soweit diese Verordnung nichts anderes bestimmt, ohne Einfluß,
+wenn sich die Angelegenheit vorzeitig erledigt oder der Auftrag
+endigt, bevor die Angelegenheit erledigt ist.</lxbase:a><lxbase:a eingerueckt="nein">(5) Wird der Steuerberater, nachdem
+er in einer Angelegenheit tätig geworden war, beauftragt,
+in derselben Angelegenheit weiter tätig zu werden, so erhält
+er nicht mehr an Gebühren, als er erhalten würde,
+wenn er von vornherein hiermit beauftragt worden wäre.</lxbase:a><lxbase:a eingerueckt="nein">(6) Ist der Steuerberater nur mit einzelnen
+Handlungen beauftragt, so erhält er nicht mehr an Gebühren,
+als der mit der gesamten Angelegenheit beauftragte Steuerberater
+für die gleiche Tätigkeit erhalten würde.</lxbase:a><lxbase:a eingerueckt="nein">§ 13 Zeitgebühr</lxbase:a><lxbase:a eingerueckt="nein">Die Zeitgebühr ist zu berechnen</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">in den
+Fällen, in denen diese Verordnung dies vorsieht,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">wenn keine genügenden
+Anhaltspunkte für eine Schätzung des Gegenstandswerts
+vorliegen; dies gilt nicht für Tätigkeiten nach § 23
+sowie für die Vertretung im außergerichtlichen
+Rechtsbehelfsverfahren (§§ 40 bis 43), im Verwaltungsvollstreckungsverfahren
+(§ 44) und in gerichtlichen und anderen Verfahren (§§ 45,
+46).</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein">Sie beträgt 30 bis 77,50 Deutsche
+Mark je angefangene halbe Stunde.</lxbase:a><lxbase:a eingerueckt="nein">§ 14 Pauschalvergütung</lxbase:a><lxbase:a eingerueckt="nein">(1) Für einzelne oder mehrere
+für denselben Auftraggeber laufend auszuführende
+Tätigkeiten kann der Steuerberater eine Pauschalvergütung
+vereinbaren. Die Vereinbarung ist schriftlich und für
+einen Zeitraum von mindestens einem Jahr zu treffen. In
+der Vereinbarung sind die vom Steuerberater zu übernehmenden
+Tätigkeiten und die Zeiträume, für die
+sie geleistet werden, im einzelnen aufzuführen.</lxbase:a><lxbase:a eingerueckt="nein">(2) Die Vereinbarung einer Pauschalvergütung
+ist ausgeschlossen für</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">die
+Anfertigung nicht mindestens jährlich wiederkehrender Steuererklärungen;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">die Ausarbeitung
+von schriftlichen Gutachten (§ 22);</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a eingerueckt="nein">die in § 23
+genannten Tätigkeiten;</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4."><lxbase:a eingerueckt="nein">die Teilnahme
+an Prüfungen (§ 29);</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5."><lxbase:a eingerueckt="nein">die Beratung und
+Vertretung im außergerichtlichen Rechtsbehelfsverfahren (§§ 40
+bis 43), im Verwaltungsvollstreckungsverfahren (§ 44) und
+in gerichtlichen und anderen Verfahren (§ 45).</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a align="zentriert"><lxbase:fett>Dritter Abschnitt: Umsatzsteuer, Ersatz von Auslagen</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">§ 15 Umsatzsteuer</lxbase:a><lxbase:a eingerueckt="nein">Der Vergütung ist die Umsatzsteuer
+hinzuzurechnen, die nach § 12 des Umsatzsteuergesetzes
+auf die Tätigkeit entfällt. Dies gilt
+nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 des Umsatzsteuergesetzes
+unerhoben bleibt.</lxbase:a><lxbase:a eingerueckt="nein">§ 16 Post- und Fernmeldegebühren</lxbase:a><lxbase:a eingerueckt="nein">Der Steuerberater hat Anspruch auf Ersatz
+der bei der Ausführung des Auftrags entstandenen Post-
+und Fernmeldegebühren. Er kann nach seiner Wahl an
+Stelle der tatsächlich entstandenen Kosten einen Pauschsatz
+fordern, der 15 vom Hundert der sich nach dieser Verordnung ergebenden
+Gebühren beträgt, in derselben Angelegenheit jedoch
+höchstens 40 Deutsche Mark, in Strafsachen und Bußgeldverfahren
+höchstens 30 Deutsche Mark.</lxbase:a><lxbase:a eingerueckt="nein">§ 17 Schreibauslagen</lxbase:a><lxbase:a eingerueckt="nein">(1) Schreibauslagen stehen dem Steuerberater
+nur für die im Einverständnis mit dem Auftraggeber
+zusätzlich gefertigten Abschriften und Ablichtungen zu. Für
+Abschriften und Ablichtungen aus Behörden- und Gerichtsakten stehen
+dem Steuerberater Schreibauslagen zu, soweit die Abschrift oder Ablichtung
+zur sachgemäßen Bearbeitung der Angelegenheit
+geboten war.</lxbase:a><lxbase:a eingerueckt="nein">(2) Die Höhe der Schreibauslagen
+in derselben Angelegenheit und in gerichtlichen Verfahren in demselben
+Rechtszug bemißt sich nach den für die gerichtlichen
+Schreibauslagen im Gerichtskostengesetz bestimmten Beträgen.</lxbase:a><lxbase:a eingerueckt="nein">§ 18 Geschäftsreisen</lxbase:a><lxbase:a eingerueckt="nein">(1) Bei Geschäftsreisen erhält
+der Steuerberater, wenn er einen eigenen Kraftwagen benutzt, 0,45
+Deutsche Mark für jeden angefangenen Kilometer des Hin-
+und Rückwegs, bei Benutzung anderer Verkehrsmittel die
+tatsächlichen Aufwendungen.</lxbase:a><lxbase:a eingerueckt="nein">(2) Als Tage- und Abwesenheitsgeld erhält
+der Steuerberater bei einer Geschäftsreise von nicht mehr
+als 4 Stunden 25 Deutsche Mark, von mehr als 4 bis 8 Stunden 50
+Deutsche Mark und von mehr als 8 Stunden 95 Deutsche Mark; bei Auslandsreisen
+kann zu diesen Beträgen ein Zuschlag von 50 vom Hundert
+berechnet werden. Außerdem hat er Anspruch auf
+Ersatz der Übernachtungskosten.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a align="zentriert"><lxbase:fett>Vierter Abschnitt: Gebühren für die
+Beratung und für die Hilfeleistung bei der Erfüllung
+allgemeiner Steuerpflichten</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 23 Sonstige Einzeltätigkeiten</lxbase:a><lxbase:a eingerueckt="nein">Die Gebühr beträgt
+für</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="77*" /><cals:colspec colnum="2" colname="2" colwidth="23*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>1. die Berichtigung
+einer Erklärung(§ 153 der Abgabenordnung)</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a><lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10
+bis 10/10</lxbase:az></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>2. einen Antrag auf
+Stundung</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a><lxbase:az normform="2/10-bis-8/10" manuell="nein">2/10
+bis 8/10</lxbase:az></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>3. einen Antrag auf
+Anpassung der Vorauszahlungen</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a><lxbase:az normform="2/10-bis-8/10" manuell="nein">2/10
+bis 8/10</lxbase:az></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>4. einen Antrag auf
+abweichende Steuerfestsetzung aus Billigkeitsgründen</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a><lxbase:az normform="2/10-bis-8/10" manuell="nein">2/10
+bis 8/10</lxbase:az></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>5. einen Antrag auf
+Erlaß von Ansprüchen aus dem Steuerschuldverhältnis</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a><lxbase:az normform="2/10-bis-8/10" manuell="nein">2/10
+bis 8/10</lxbase:az></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>6. einen Antrag auf
+Erstattung (§ 37 Abs. 2 der Abgabenordnung)</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a><lxbase:az normform="2/10-bis-8/10" manuell="nein">2/10
+bis 8/10</lxbase:az></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>7. einen Antrag auf
+Aufhebung oder Änderung eines Steuerbescheides oder auf
+Aufhebung einer Steueranmeldung</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a><lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10
+bis 10/10</lxbase:az></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>8. einen Antrag auf
+volle oder teilweise Rücknahme oder auf vollen oder teilweisen
+Widerruf eines Verwaltungsaktes</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a><lxbase:az normform="4/10-bis-10/10" manuell="nein">4/10
+bis 10/10</lxbase:az></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" colsep="0" rowsep="0"><lxbase:a>9. einen Antrag auf
+Wiedereinsetzung in den vorigen Stand außerhalb des Rechtsbehelfsverfahrens</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" align="right"><lxbase:a><lxbase:az normform="4/10-bis-10/10" manuell="nein">4/10
+bis 10/10</lxbase:az></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>10. sonstige Anträge,
+soweit sie nicht in Steuererklärungen gestellt werden einer
+vollen Gebühr nach Tabelle A (Anlage 1). Soweit Tätigkeiten
+nach den Nummern 1 bis 10 denselben Gegenstand betreffen, ist nur
+eine Tätigkeit maßgebend, und zwar die mit dem
+höchsten oberen Gebührenrahmen.</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a><lxbase:az normform="2/10-bis-10/10" manuell="nein">2/10
+bis 10/10</lxbase:az></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>§ 24 Steuererklärungen</lxbase:a><lxbase:a>(1) Der Steuerberater erhält für die Anfertigung</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="78*" /><cals:colspec colnum="2" colname="2" colwidth="22*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1" colsep="0"><lxbase:a>1. der Einkommensteuererklärung
+ohne Ermittlung der einzelnen Einkünfte einer vollen Gebühr
+nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der positiven Einkünfte,
+jedoch mindestens 12.000 Deutsche Mark;</lxbase:a></cals:entry><cals:entry colname="2" align="center"><lxbase:a><lxbase:az normform="1/10-bis-6/10" manuell="nein">1/10
+bis 6/10</lxbase:az></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>.</lxbase:a><lxbase:a>.</lxbase:a><lxbase:a>.</lxbase:a><lxbase:a>.</lxbase:a><lxbase:a>.</lxbase:a><lxbase:a>§ 28 Prüfung von Steuerbescheiden</lxbase:a><lxbase:a eingerueckt="nein">Für die Prüfung eines
+Steuerbescheids erhält der Steuerberater die Zeitgebühr.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">§ 31 Besprechungen</lxbase:a><lxbase:a eingerueckt="nein">Für Besprechungen mit Behörden
+oder mit Dritten in abgabenrechtlichen Sachen erhält der
+Steuerberater 5 Zehntel bis 10 Zehntel einer vollen Gebühr nach
+Tabelle A (Anlage 1). § 42 Abs. 2 gilt entsprechend.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a eingerueckt="nein">.</lxbase:a><lxbase:a align="zentriert"><lxbase:fett>Sechster Abschnitt: Gebühren für
+die Vertretung im außergerichtlichen Rechtsbehelfsverfahren
+und im Verwaltungsvollstreckungsverfahren</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">§ 40 Verfahren vor Verwaltungsbehörden</lxbase:a><lxbase:a eingerueckt="nein">Für die Vertretung im Rechtsbehelfsverfahren
+vor Verwaltungsbehörden erhält der Steuerberater</lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1."><lxbase:a eingerueckt="nein">die
+Geschäftsgebühr (§ 41),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2."><lxbase:a eingerueckt="nein">die Besprechungsgebühr
+(§ 42),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3."><lxbase:a eingerueckt="nein">die Beweisaufnahmegebühr
+(§ 43).</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a eingerueckt="nein">§ 41 Geschäftsgebühr</lxbase:a><lxbase:a eingerueckt="nein">(1) Die Geschäftsgebühr
+beträgt 5 Zehntel bis 10 Zehntel einer vollen Gebühr nach
+Tabelle E (Anlage 5).</lxbase:a><lxbase:a eingerueckt="nein">(2) Durch die Geschäftsgebühr
+wird das Betreiben des Geschäfts einschließlich der
+Information, der Einreichung und der Begründung des Rechtsbehelfs
+abgegolten.</lxbase:a><lxbase:a eingerueckt="nein">(3) Die Geschäftsgebühr
+ermäßigt sich auf 3 bis 8 Zehntel einer vollen
+Gebühr nach Tabelle E (Anlage 5), wenn der Steuerberater
+in dem Verwaltungsverfahren, das dem Verfahren nach § 40
+vorausgeht, Gebühren nach § 28 erhält.</lxbase:a><lxbase:a eingerueckt="nein">(4) Die Geschäftsgebühr
+ermäßigt sich auf 1 bis 3 Zehntel einer vollen
+Gebühr nach Tabelle E (Anlage 5), wenn der Steuerberater
+im Zusammenhang mit dem Verfahren nach § 40 Gebühren
+nach § 24 erhält.</lxbase:a><lxbase:a eingerueckt="nein">(5) Erhält ein Steuerberater
+in dem Verwaltungsverfahren, das dem Verfahren nach § 40
+vorausgeht, Gebühren nach § 23, so darf die Summe
+dieser Gebühren und der Gebühr nach Absatz 1 10
+Zehntel einer vollen Gebühr nach Tabelle E (Anlage 5) nicht übersteigen.</lxbase:a><lxbase:a eingerueckt="nein">(6) Wird der Steuerberater in derselben
+Angelegenheit für mehrere Auftraggeber tätig und
+ist der Gegenstand der beruflichen Tätigkeit derselbe,
+so erhöht sich die Geschäftsgebühr durch
+jeden weiteren Auftraggeber um 3 Zehntel, in den Fällen
+des Absatzes 3 um 2 Zehntel und in den Fällen des Absatzes
+4 um 1 Zehntel. Die Erhöhung wird nach dem Betrag
+berechnet, an dem die Auftraggeber gemeinschaftlich beteiligt sind. Mehrere
+Erhöhungen dürfen den Betrag von 20 Zehnteln,
+in den Fällen des Absatzes 3 den Betrag von 16 Zehnteln
+und in den Fällen des Absatzes 4 den Betrag von 6 Zehnteln
+einer vollen Gebühr nach Tabelle E (Anlage 5) nicht übersteigen.</lxbase:a><lxbase:a eingerueckt="nein">§ 42 Besprechungsgebühr</lxbase:a><lxbase:a eingerueckt="nein">(1) Die Besprechungsgebühr
+beträgt 5 Zehntel bis 10 Zehntel einer vollen Gebühr
+nach Tabelle E (Anlage 5).</lxbase:a><lxbase:a eingerueckt="nein">(2) Die Besprechungsgebühr
+entsteht, wenn der Steuerberater an einer Besprechung über
+tatsächliche oder rechtliche Fragen mitwirkt, die von der
+Behörde angeordnet ist oder im Einverständnis
+mit dem Auftraggeber mit der Behörde oder einem Dritten
+geführt wird. Der Steuerberater erhält
+diese Gebühr nicht für eine mündliche
+oder fernmündliche Nachfrage.</lxbase:a><lxbase:a eingerueckt="nein">(3) Erhält der Steuerberater
+in dem Verwaltungsverfahren, das dem Verfahren nach § 40
+vorausgeht, eine Gebühr nach § 31, so darf die
+Summe dieser Gebühr und der Gebühr nach Absatz
+1 10 Zehntel einer vollen Gebühr nach Tabelle E (Anlage
+5) nicht übersteigen.</lxbase:a><lxbase:a eingerueckt="nein">§ 43 Beweisaufnahmegebühr</lxbase:a><lxbase:a eingerueckt="nein">(1) Die Beweisaufnahmegebühr
+beträgt 5 Zehntel bis 10 Zehntel einer vollen Gebühr
+nach Tabelle E (Anlage 5).</lxbase:a><lxbase:a eingerueckt="nein">(2) Die Beweisaufnahmegebühr
+entsteht, wenn der Steuerberater bei einer Beweisaufnahme mitwirkt,
+die von einer Behörde angeordnet worden ist.</lxbase:a><lxbase:a eingerueckt="nein">(3) Der Steuerberater erhält
+die Beweisaufnahmegebühr nicht, wenn die Beweisaufnahme
+lediglich in der Vorlegung der in den Händen des Auftraggebers
+oder der Behörde befindlichen Urkunden besteht.</lxbase:a><lxbase:a eingerueckt="nein">(4) Werden Akten oder Urkunden beigezogen,
+so erhält der Steuerberater die Beweisaufnahmegebühr
+nur, wenn die Akten oder Urkunden erkennbar zum Beweis beigezogen
+oder als Beweis verwertet werden.</lxbase:a><lxbase:a eingerueckt="nein">§ 44 Verwaltungsvollstreckungsverfahren,
+Aussetzung der Vollziehung</lxbase:a><lxbase:a eingerueckt="nein">(1) Im Verwaltungsvollstreckungsverfahren
+erhält der Steuerberater je 3 Zehntel der vollen Gebühr
+nach Tabelle E (Anlage 5) als Geschäftsgebühr,
+Besprechungsgebühr und Beweisaufnahmegebühr.</lxbase:a><lxbase:a eingerueckt="nein">(2) Das Verwaltungsverfahren auf Aussetzung
+der Vollziehung oder auf Beseitigung der aufschiebenden oder hemmenden
+Wirkung ist zusammen mit den in Absatz 1 und in § 40 genannten
+Verfahren eine Angelegenheit.</lxbase:a><lxbase:a align="zentriert"><lxbase:fett>Siebenter Abschnitt: Gerichtliche und andere Verfahren</lxbase:fett></lxbase:a><lxbase:a eingerueckt="nein">§ 45 Vergütung in
+gerichtlichen und anderen Verfahren</lxbase:a><lxbase:a eingerueckt="nein">Auf die Vergütung des Steuerberaters
+im Verfahren vor den Gerichten der Finanzgerichtsbarkeit und der
+Verwaltungsgerichtsbarkeit, im Strafverfahren, berufsgerichtlichen
+Verfahren, Bußgeldverfahren und in Gnadensachen sind die
+Vorschriften der Bundesgebührenordnung für Rechtsanwälte
+sinngemäß anzuwenden.</lxbase:a><lxbase:a align="zentriert">Tabelle E (Rechtsbehelfstabelle) zu StBGebV</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="4" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="25*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="25*" /><cals:colspec colnum="4" colname="4" colwidth="25*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>Gegenstandswert Deutsche Mark</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>Volle Gebühr (10/10)
+Deutsche Mark</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>Gegenstandswert Deutsche Mark</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>Volle Gebühr (10/10)
+Deutsche Mark</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 300</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>40</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 95.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>1.824</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 600</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>55</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 100.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>1.889</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 900</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>70</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 115.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>1.964</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 1.200</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>85</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 130.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.039</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 1.500</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>100</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 145.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.114</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 1.800</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>115</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 160.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.189</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 2.100</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>130</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 175.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.264</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 2.400</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>145</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 190.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.339</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 2.700</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>160</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 205.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.414</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 3.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>175</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 220.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.489</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 3.500</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>201</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 235.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.564</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 4.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>227</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 250.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.639</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 4.500</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>253</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 265.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.714</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 5.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>279</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 280.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.789</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 5.500</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>305</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 295.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.864</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 6.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>331</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 310.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>2.939</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 6.500</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>357</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 325.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.014</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 7.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>383</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 340.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.089</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 7.500</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>409</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 355.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.164</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 8.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>435</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 370.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.239</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 8.500</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>461</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 385.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.314</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 9.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>487</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 400.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.389</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 9.500</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>513</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 430.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.509</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 10.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>539</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 460.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.629</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 11.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>570</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 490.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.749</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 12.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>601</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 520.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.869</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 13.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>632</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 550.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>3.989</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 14.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>663</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 580.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.109</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 15.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>694</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 610.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.229</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 16.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>725</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 640.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.349</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 17.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>756</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 670.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.469</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 18.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>787</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 700.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.589</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 19.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>818</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 730.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.709</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 20.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>849</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 760.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.829</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 25.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>914</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 790.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>4.949</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 30.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>979</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 820.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>5.069</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 35.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.044</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 850.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>5.189</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 40.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.109</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 880.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>5.309</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 45.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.174</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 910.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>5.429</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 50.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.239</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 940.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>5.549</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 55.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.304</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 970.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>5.669</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 60.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.369</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>bis 1.000.000</lxbase:a></cals:entry><cals:entry colname="4" align="right"><lxbase:a>5.789</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 65.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.434</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>von dem Mehrbetrag </lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right"><lxbase:a>150</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 70.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.499</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>über
+eine Million </lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 75.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.564</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>Deutsche Mark</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 80.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.629</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>für jeden
+angefangenen</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" align="right"><lxbase:a>bis 85.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.694</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" align="right"><lxbase:a>Betrag von weiteren</lxbase:a></cals:entry><cals:entry colname="4" rowsep="0" align="right" /></cals:row><cals:row rowsep="0"><cals:entry colname="1" align="right"><lxbase:a>bis 90.000</lxbase:a></cals:entry><cals:entry colname="2" align="right"><lxbase:a>1.759</lxbase:a></cals:entry><cals:entry colname="3" align="right"><lxbase:a>50.000 Deutsche Mark </lxbase:a></cals:entry><cals:entry colname="4" align="right" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Berufsrecht Steuerberater</lxbase:rthema><lxbase:rthema>Berufsrecht
+Rechtsanwälte</lxbase:rthema><lxbase:rthema>Verfahrensrecht/Abgabenordnung</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Niedersachsen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:branchen><lxbase:branche>Rechtsanwälte</lxbase:branche><lxbase:branche>Steuerberater</lxbase:branche></lxbase:branchen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

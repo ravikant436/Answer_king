@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" dok-nummer="0577847" dok-art="Schreiben (koordinierter Ländererlass)" dok-typ="Verwaltungsanweisung" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:externe-dateien><lxbase:datei name="a577847.pdf" /></lxbase:externe-dateien><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Bundesministerium der Finanzen</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>IV D 2 - S-1451 - 39/03</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-1901 A</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-1901 A - St 31 1</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-1901</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-1451 -</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:aktenzeichen-weitere><lxbase:ts>S-1901 | S</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2003-10-17" ts="nein" /><lxbase:datum normdat="2004-03-08" ts="ja" /></lxbase:daten><lxbase:fundstellen><lxbase:normiert><lxbase:fs-kuerzel>BStBl-2003-I-0502</lxbase:fs-kuerzel></lxbase:normiert></lxbase:fundstellen><lxbase:anmerkungen><lxbase:anmerkung><lxbase:a>Ersetzt durch BdF <lxprod:doknr-verw linkend="HT0578992">IV A 7 - S-1451 - 14/05</lxprod:doknr-verw> 
+v. 10. 2. 2005 (koord. Ländererlass)</lxbase:a><lxbase:a>Frist für die erstmalige Verwendung des Vordrucks verlängert
+durch OFD Koblenz S-2142 A - St <lxbase:az normform="3-076/04" manuell="nein">3 076/04</lxbase:az> vom 15. 12.
+2004</lxbase:a></lxbase:anmerkung></lxbase:anmerkungen><lxbase:redakt><lxbase:a>Bibliographie der inhaltlich entsprechenden Verwaltungsanweisungen:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="7*" /><cals:colspec colnum="2" colname="2" colwidth="93*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Rheinland-Pfalz</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>OFD Koblenz S-1901 A - St 31
+1 vom 08.03.2004</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:redakt><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:4/3</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:60/4</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:84/3c</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2003" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Vordruck "Einnahmeüberschussrechnung
+- EÜR"</lxbase:a><lxbase:a>BMF-Schreiben vom 11. September 2003 - <lxbase:az normform="IVD2S145127/03" manuell="nein">IV D 2 - S-1451
+- 27/03</lxbase:az></lxbase:a></lxbase:headline></lxbase:titel><lxbase:kapitel><lxbase:a>Unter Bezugnahme auf das Ergebnis der Erörterungen mit
+den obersten Finanzbehörden der Länder gilt Folgendes:</lxbase:a><lxbase:a>Nach §§ 60 Abs. 4, 84 Abs. 3c EStDV in der Fassung des
+Gesetzes zur Förderung von Kleinunternehmen und zur Verbesserung
+der Unternehmensfinanzierung (Kleinunternehmerförderungsgesetz)
+vom 31. Juli 2003 (BGBl. I S. 1550 ; BStBl I S. 398) haben Steuerpflichtige,
+die den Gewinn nach § 4 Abs. 3 EStG durch den Überschuss der Betriebseinnahmen
+über die Betriebsausgaben ermitteln, für Wirtschaftsjahre, die nach
+dem 31. Dezember 2003 beginnen, ihrer Steuererklärung eine Gewinnermittlung
+nach amtlich vorgeschriebenem Vordruck beizufügen.</lxbase:a><lxbase:a>Der amtlich vorgeschriebene Vordruck "Einnahmenüberschussrechnung
+– EÜR" (Anlage 1) wird hiermit bekannt gegeben. Er wird in der "Anleitung"
+(Anlage 2) erläutert.</lxbase:a><lxbase:a>Kann für das Wirtschaftsjahr, das nach dem 31. Dezember
+2003 und vor dem 1. Januar 2005 beginnt, die Zeile 9 ("Betriebseinnahmen
+zum ermäßigten Steuersatz") des Vordrucks aus technischen Gründen
+noch nicht ausgefüllt werden, ist dies nicht zu beanstanden; in
+diesem Fall sind sämtliche Betriebseinnahmen in Zeile 8 ("Betriebseinnahmen
+zum allgemeinen Umsatzsteuersatz oder eines Kleinunternehmers i.S.
+des § 19 Abs. 1 UStG") einzutragen.</lxbase:a><lxbase:a>Anlage 1 (PDF-Datei 82 KB)<lxprod:extern-verw linkart="View" zieladresse="a577847.pdf" linkend="" filesize="83813">anzeigen/drucken </lxprod:extern-verw> <lxprod:extern-verw linkart="Save" zieladresse="a577847.pdf" linkend="" filesize="83813">speichern </lxprod:extern-verw></lxbase:a><lxbase:a>Anlage 2:</lxbase:a><lxbase:a><lxbase:fett>Anleitung zum Vordruck "Einnahmenüberschussrechnung
+- EÜR"</lxbase:fett></lxbase:a><lxbase:a>(Gewinnermittlung nach § 4 Abs. 3 EStG)</lxbase:a><lxbase:a><lxbase:fett>Diese Anleitung soll Ihnen das Ausfüllen
+dieses Vordrucks erleichtern. Weitere Hinweise entnehmen Sie der
+Anleitung zur Einkommensteuererklärung.</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Abkürzungen</lxbase:fett></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="42*" /><cals:colspec colnum="2" colname="2" colwidth="58*" /><cals:thead><cals:row rowsep="1"><cals:entry colsep="0" colname="1"><lxbase:a>BMF Bundesministerium
+der Finanzen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a> EStDV Einkommensteuer-Durchführungsverordnung </lxbase:a></cals:entry></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>BStBl
+Bundessteuerblatt </lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>EStR Einkommensteuer-Richtlinien </lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>EStG Einkommensteuergesetz </lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>UStG Umsatzsteuergesetz</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:fett>Nach § 60 Abs. 4 EStDV ist der Steuererklärung
+eine Gewinnermittlung nach amtlich vorgeschriebenem Vordruck beizufügen,
+wenn der Gewinn nach § 4 Abs. 3 EStG durch den Überschuss der Betriebseinnahmen
+über die Betriebsausgaben ermittelt wird. Für jeden Betrieb ist
+eine separate Einnahmenüberschussrechnung abzugeben. Diese Vorschrift
+ist erstmals für das Wirtschaftsjahr anzuwenden, das nach dem 31.12.2003
+beginnt (§ 84 Abs. 3c EStDV).</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Betriebseinnahmen</lxbase:fett></lxbase:a><lxbase:a>Die Betriebseinnahmen sind jeweils mit dem Nettowert anzusetzen,
+es sei denn, Ihre Umsätze unterliegen der Umsatzbesteuerung nach
+§ 19 UStG (Kleinunternehmer). In diesem Fall ist in Zeile 3 der
+Wert "1" einzutragen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 8</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie hier sämtliche Betriebseinnahmen ein, die dem
+allgemeinen Umsatzsteuersatz nach § 12 Abs. 1 UStG unterliegen.
+Etwaige Hilfsgeschäfte sind ebenfalls in den Betriebseinnahmen zu
+erfassen. Die auf die Betriebseinnahmen entfallende Umsatzsteuer
+ist dagegen in Zeile 21 zu erfassen.</lxbase:a><lxbase:a>Wenn Sie Kleinunternehmer i.S. des § 19 Abs. 1 UStG sind,
+tragen Sie hier Ihre Betriebseinnahmen ein.</lxbase:a><lxbase:a><lxbase:fett>Zeile 9</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie hier sämtliche Betriebseinnahmen ein, die dem
+ermäßigten Umsatzsteuersatz nach § 12 Abs. 2 UStG unterliegen. Etwaige
+Hilfsgeschäfte sind ebenfalls in den Betriebseinnahmen zu erfassen.
+Die auf die Betriebseinnahmen entfallende Umsatzsteuer ist dagegen
+in Zeile 21 zu erfassen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 10</lxbase:fett></lxbase:a><lxbase:a>In dieser Zeile sind die nach § 4 UStG umsatzsteuerfreien
+und die nicht umsatzsteuerbaren Betriebseinnahmen anzugeben.</lxbase:a><lxbase:a><lxbase:fett>Zeile 11</lxbase:fett></lxbase:a><lxbase:a>Diese Zeile ist nur von Land- und Forstwirten auszufüllen,
+deren Umsätze nicht nach den allgemeinen Vorschriften zu versteuern
+sind.</lxbase:a><lxbase:a><lxbase:fett>Zeilen 12 bis 15</lxbase:fett></lxbase:a><lxbase:a>In diese Zeilen sind die Privatanteile einzutragen, die
+für Sach-, Nutzungs- oder Leistungsentnahmen anzusetzen sind. Eine
+Entnahme von Aufwand liegt entweder in der betriebsfremden Nutzung
+von Wirtschaftsgütern des Betriebsvermögens oder in der Inanspruchnahme
+von betrieblichen Leistungen zu betriebsfremden Zwecken (z.B. Nutzung
+eines betrieblichen Kfz zu Privatfahrten). Wird die private Kfz-Nutzung
+nach der Listenpreismethode (§ 6 Abs. 1 Nr. 4 S. 2 EStG) ermittelt,
+und übersteigt der so berechnete Wert den Betrag, der in Zeile 43
+einzutragen ist, ist höchstens der Betrag aus Zeile 43 in Zeile
+13 einzutragen ("Kostendeckelung" vgl. BMF-Schreiben vom 21. Januar
+2002, <lxprod:doknr-verw linkend="HT0576212">BStBl
+I S. 148</lxprod:doknr-verw> ). Die auf die Privatanteile entfallende
+Umsatzsteuer ist in Zeile 21 zu erfassen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 16</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie in dieser Zeile die sonstigen betrieblichen
+Einnahmen ein, die bisher in den Zeilen 8 bis 15 nicht berücksichtigt
+worden sind. Zu den sonstigen betrieblichen Einnahmen rechnen auch
+Zinsen und ähnliche Einnahmen (z.B. Dividenden, betrieblich veranlasste
+Rentenzahlungen, Erträge aus sonstigen Kapitalforderungen oder anteilige
+Einnahmen, die nach dem Halbeinkünfteverfahren zu ermitteln sind;
+der steuerfreie Teil ist in Zeile 24 einzutragen).</lxbase:a><lxbase:a><lxbase:fett>Zeile 17</lxbase:fett></lxbase:a><lxbase:a>Soweit nach § 6b Abs. 3 oder Abs. 10 EStG in Verbindung
+mit § 6c Abs. 1 EStG oder nach R 35 EStR eine Rücklage gebildet
+worden ist (fiktive Betriebsausgabe siehe Zeile 64), und diese auf
+Neuinvestitionen übertragen wird, ist die Rücklage aufzulösen und
+in Zeile 17 einzutragen. Ist am Ende der jeweiligen Übertragungsfrist
+die Rücklage noch vorhanden, so ist sie in diesem Zeitpunkt aufzulösen
+und auch hier als Betriebseinnahme zu erfassen; bei einer nach §
+6b Abs. 10 EStG gebildeten Rücklage jedoch nur in Höhe des steuerpflichtigen
+Teils; der steuerfreie Teil ist in Zeile 24 einzutragen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 18</lxbase:fett></lxbase:a><lxbase:a>Soweit nach § 7g Abs. 3 – 6 EStG Rücklagen (Ansparabschreibungen)
+gebildet worden sind, sind diese jeweils in Höhe von 40% der tatsächlichen
+Anschaffungs- oder Herstellungskosten gewinnerhöhend aufzulösen,
+sobald für das jeweils begünstigte Wirtschaftsgut Abschreibungen
+vorgenommen werden dürfen. Ist eine Rücklage oder Teilrücklage am
+Ende des zweiten auf ihre Bildung folgenden Wirtschaftsjahres noch
+vorhanden, so ist sie zu diesem Zeitpunkt gewinnerhöhend aufzulösen.
+Einzutragen ist die Summe der gewinnerhöhend aufgelösten Rücklagen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 19</lxbase:fett></lxbase:a><lxbase:a>Hier sind aufzulösende Existenzgründerrücklagen nach §
+7g Abs. 7 und 8 EStG einzutragen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 20</lxbase:fett></lxbase:a><lxbase:a>Soweit eine nach § 6b Abs. 3, 10 in Verbindung mit § 6c
+Abs. 1 EStG gebildete Rücklage gewinnerhöhend aufgelöst wird, ohne
+dass ein entsprechender Betrag nach § 6b Abs. 3, 10 EStG abgezogen
+wird oder die Auflösung einer Rücklage (Ansparabschreibung) nach
+§ 7g Abs. 3 in Verbindung mit Absatz 6 EStG nicht auf der Anschaffung
+oder Herstellung eines begünstigten Wirtschaftsguts beruht, ist
+der Gewinn des Wirtschaftsjahres, in dem die Rücklage aufgelöst
+wird, für jedes volle Wirtschaftsjahr, in dem die Rücklage bestanden
+hat, um 6 v.H. des aufgelösten steuerpflichtigen Rücklagenbetrages
+zu erhöhen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 21</lxbase:fett></lxbase:a><lxbase:a>Die vereinnahmten Umsatzsteuerbeträge auf die Betriebseinnahmen
+der Zeilen 8, 9, 11 und 16 sowie die Umsatzsteuer auf unentgeltliche
+Wertabgaben der Zeilen 12 bis 15 gehören im Zeitpunkt ihrer Vereinnahmung
+bzw. Entstehung zu den Betriebseinnahmen und sind in dieser Zeile
+einzutragen. Ebenso ist hier die Umsatzsteuer einzutragen, die Sie
+ggf. unberechtigt in Rechnung gestellt haben.</lxbase:a><lxbase:a><lxbase:fett>Zeile 22</lxbase:fett></lxbase:a><lxbase:a>Soweit Umsatzsteuer im Kalender- bzw. Wirtschaftsjahr
+vom Finanzamt erstattet worden ist, tragen Sie hier den Erstattungsbetrag
+ein. Die gezahlte Umsatzsteuer ist in Zeile 63 einzutragen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 24</lxbase:fett></lxbase:a><lxbase:a>In dieser Zeile sind die nach den Vorschriften des § 3
+Nrn. 1 bis 69 EStG einkommensteuerfreien Betriebseinnahmen einzutragen.</lxbase:a><lxbase:a><lxbase:fett>Betriebsausgaben</lxbase:fett></lxbase:a><lxbase:a>Die nachstehend aufgeführten Betriebsausgaben sind jeweils
+mit dem Nettowert anzusetzen (in diesem Fall sind die nach dem UStG
+abziehbaren Vorsteuerbeträge in Zeile 62 auszuweisen), es sei denn,
+Ihre Umsätze unterliegen der Umsatzbesteuerung nach § 19 UStG (Kleinunternehmer).</lxbase:a><lxbase:a><lxbase:fett>Zeilen 26, 28 und 29</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie in Zeile 26 die Anschaffungskosten für Waren,
+Roh-, Hilfs- und Betriebsstoffe einschließlich der entstandenen
+Nebenkosten ein. Die in diesem Betrag enthaltenen Aufwendungen,
+die dem allgemeinen Umsatzsteuersatz unterlegen haben, sind in Zeile
+28 und die Aufwendungen, die dem ermäßigten Umsatzsteuersatz unterlegen
+haben, sind in Zeile 29 einzutragen, sofern sie gesondert aufgezeichnet sind
+(z.B. § 63 Abs. 5 UStDV).</lxbase:a><lxbase:a><lxbase:fett>Zeile 30</lxbase:fett></lxbase:a><lxbase:a>Zu erfassen sind die von Dritten erbrachten Dienstleistungen,
+die in unmittelbarem Fertigungszusammenhang anfallen (Fremdleistungen
+für Erzeugnisse und andere Umsatzleistungen, Ausgaben für Leiharbeit,
+Lohnarbeit an Erzeugnissen, Aufwendungen für Fertigungslizenzen
+etc.).</lxbase:a><lxbase:a><lxbase:fett>Zeile 31</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie hier Betriebsausgaben für Gehälter, Löhne und
+Versicherungsbeiträge für Ihre Arbeitnehmer ein. Hierzu rechnen
+sämtliche Bruttolohn- und Gehaltsaufwendungen einschließlich der
+gezahlten Lohnsteuer und anderer Nebenkosten.</lxbase:a><lxbase:a><lxbase:fett>Zeilen 32 und 33</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie hier die Absetzungen für Abnutzung (AfA) für
+Wirtschaftsgüter des Anlagevermögens ohne Kraftfahrzeuge (Hinweis
+auf Zeile 42) und Gebäude (Hinweis auf Zeile 47) sowie die Absetzungen
+für Abnutzung für immaterielle Wirtschaftsgüter (z.B. Firmen- oder
+Praxiswert) ein.</lxbase:a><lxbase:a><lxbase:fett>Zeile 34</lxbase:fett></lxbase:a><lxbase:a>Die Anschaffungs- und Herstellungskosten oder der nach
+§ 6 Abs. 1 Nr. 5 oder Nr. 6 EStG an deren Stelle tretende Wert von
+abnutzbaren beweglichen Wirtschaftsgütern des Anlagevermögens, die
+einer selbständigen Nutzung fähig sind, können im Wirtschaftsjahr
+der Anschaffung, Herstellung oder Einlage des Wirtschaftsguts oder Eröffnung
+des Betriebs in voller Höhe als Betriebsausgaben abgesetzt werden,
+wenn die Anschaffungs- oder Herstellungskosten, vermindert um einen
+darin enthaltenen Vorsteuerbetrag, oder der nach § 6 Abs. 1 Nr.
+5 oder Nr. 6 EStG an deren Stelle tretende Wert für das einzelne
+Wirtschaftsgut 410 € nicht übersteigen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 40</lxbase:fett></lxbase:a><lxbase:a>Soweit Kraftfahrzeuge zum Privatvermögen gehören und dennoch
+für betriebliche Zwecke (z.B. Geschäftsreisen) genutzt werden, nehmen
+Sie in den Zeilen 41 bis 45 keine Eintragungen vor. Die durch die
+betriebliche Nutzung entstandenen Aufwendungen werden in Zeile 52
+berücksichtigt.</lxbase:a><lxbase:a>Soweit Kraftfahrzeuge zum Betriebsvermögen gehören oder
+bei geleasten Kraftfahrzeugen das Leasingverhältnis dem Betriebsvermögen
+zuzurechnen ist, nehmen Sie Eintragungen in den Zeilen 41 bis 45
+nach folgender Maßgabe vor:</lxbase:a><lxbase:a><lxbase:fett>Zeile 41</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie hier alle laufenden (z.B. Tankaufwendungen)
+und festen (z.B. Kraftfahrzeugsteuer) Kraftfahrzeugkosten ein. Bei
+geleasten Kraftfahrzeugen, für die Sie keine Absetzungen für Abnutzungen
+geltend machen, tragen Sie hier auch die Leasingaufwendungen ein.</lxbase:a><lxbase:a><lxbase:fett>Zeile 42</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie hier nur die Absetzungen für Abnutzungen (§
+4 Abs. 3 Satz 3 EStG i. V. m. § 7 Abs. 1 und 2 EStG) für die betrieblichen
+Kraftfahrzeuge ein.</lxbase:a><lxbase:a><lxbase:fett>Zeile 44</lxbase:fett></lxbase:a><lxbase:a>Hier werden zunächst die Aufwendungen, die auf Wege zwischen
+Wohnung und Betriebsstätte entfallen, eingetragen und abgezogen.
+Sie mindern damit Ihre tatsächlich ermittelten Kraftfahrzeugaufwendungen.
+Die für Wege zwischen Wohnung und Betriebsstätte abziehbaren Pauschbeträge
+(Entfernungspauschale) werden weiter unten in Zeile 55 erfasst.</lxbase:a><lxbase:a>Je nach Art der Ermittlung der Aufwendungen für die private
+Nutzung sind folgende Beträge in Zeile 44 einzutragen:</lxbase:a><lxbase:a>Wenn Sie die Aufwendungen für die private Nutzung durch
+die sogenannte Fahrtenbuchregelung ermitteln (Nachweis der für das
+Kraftfahrzeug insgesamt entstehenden Aufwendungen durch Belege und
+Nachweis des Verhältnisses der privaten zu den übrigen Fahrten durch
+ein ordnungsgemäßes Fahrtenbuch), tragen Sie hier die Aufwendungen
+ein, die von den in Zeile 41 und 42 genannten Aufwendungen auf Wege
+zwischen Wohnung und Betriebsstätte entfallen.</lxbase:a><lxbase:a>Wenn Sie die Aufwendungen für die private Nutzung durch
+die sogenannte 1%-Regelung (Listenpreisregelung) ermitteln (Zeile
+13), tragen Sie hier die Summe aus folgen- den Beträgen ein:</lxbase:a><lxbase:a>0,03 vom Hundert des Listenpreises i. S. des § 6 Abs.
+1 Nr. 4 S. 2 EStG x Kalendermonate der Nutzung für Wege zwischen
+Wohnung und Betriebsstätte x Kilometer der Entfernung zwischen Wohnung
+und Betriebsstätte zuzüglich 0,002 vom Hundert des Listenpreises
+i. S. des § 6 Abs. 1 Nr. 4 S. 2 EStG x Anzahl der Familienheimfahrten bei
+einer aus bebetrieblichem Anlass begründeten doppelten Haushaltsführung
+x Kilometer der Entfernung zwischen Beschäftigungsort und Ort des
+eigenen Hausstandes.</lxbase:a><lxbase:a>Übersteigt die Summe des so ermittelten Betrags zuzüglich
+des in Zeile 13 einzutragenden Betrags den Betrag nach Zeile 43,
+ist in Zeile 44 die Differenz zwischen dem Betrag in Zeile 43 und
+dem Betrag in Zeile 13 einzutragen ("Kostendeckelung" vgl. Erläuterung
+zu Zeilen 12 bis 15).</lxbase:a><lxbase:a><lxbase:fett>Zeile 46</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie hier die Miete, Pacht und Raumnebenkosten für
+die Geschäftsräume ein.</lxbase:a><lxbase:a><lxbase:fett>Zeile 47</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie hier die Aufwendungen (z.B. Grundsteuer, Instandhaltung,
+Absetzungen für Abnutzung) für zum Betriebsvermögen gehörende Grundstücke
+ein. Sollten Kosten für ein häusliches Arbeitszimmer in den Gesamtkosten
+enthalten sein, sind diese nicht zu berücksichtigen, sondern in
+Zeile 51 einzutragen. Schuldzinsen auf zum Betriebsvermögen gehörende
+Grundstücke sind in Zeile 57 einzutragen.</lxbase:a><lxbase:a><lxbase:fett>Zeilen 49, 50 und 57</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie die Schuldzinsen für Darlehn zur Finanzierung
+von Anschaffungs-und Herstellungskosten von Wirtschaftsgütern des
+Anlagevermögens in Zeile 57 ein. Der verbleibende Restbetrag der
+gezahlten Schuldzinsen auf betrieblich veranlasste Darlehn ist nur
+begrenzt abzugsfähig, wenn Überentnahmen getätigt wurden (§ 4 Abs. 4a
+EStG). Die nach dieser Vorschrift eingeschränkt abzugsfähigen Betriebsausgaben sind
+nach Maßgabe des § 4 Abs. 4a Satz 3 EStG in einen nicht abziehbaren
+und einen abziehbaren Teil aufzuteilen</lxbase:a><lxbase:a><lxbase:fett>Zeilen 51 bis 56</lxbase:fett></lxbase:a><lxbase:a>Die nach den Vorschriften des § 4 Abs. 5 Satz 1 Nrn. 1
+- 9 EStG eingeschränkt abziehbaren Betriebsausgaben sind in den
+Zeilen 51 bis 54 und 56 in einen nicht abziehbaren und einen abziehbaren
+Teil aufzuteilen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 52</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie hier neben Werbe- und Repräsentationskosten
+auch Aufwendungen für Geschäftsreisen ein. Beachten Sie, dass bspw.
+die Aufwendungen für die Verpflegung bei Geschäftsreisen nicht abziehbar
+sind bzw. die in § 4 Abs. 5 Satz 1 Nr. 5 EStG genannten Beträge
+beschränkt abziehbar sind. Tragen Sie in Zeile 52 auch diejenigen
+Aufwendungen ein, die durch die Nutzung eines zum Privatvermögen
+gehörenden Kraftfahrzeugs für betriebliche Fahrten entstanden sind.</lxbase:a><lxbase:a><lxbase:fett>Zeile 55</lxbase:fett></lxbase:a><lxbase:a>Unabhängig von der Art des benutzten Verkehrsmittels sind
+die Aufwendungen für die Wege zwischen Wohnung und Betriebsstätte
+und für Familienheimfahrten nach § 4 Abs. 5 Satz 1 Nr. 6 Satz 2
+i. V. mit § 9 Abs. 1 S. 3 Nr. 4 und 5 S. 1 bis 6 und Abs. 2 EStG
+nur in Höhe der folgenden Pauschbeträge abziehbar (Entfernungspauschale):</lxbase:a><lxbase:a>Arbeitstage, an denen die Betriebsstätte aufgesucht wird </lxbase:a><lxbase:a>x Kilometer der Entfernung zwischen Wohnung und Betriebsstätte </lxbase:a><lxbase:a>x 0,36 Euro für die ersten 10 Kilometer und </lxbase:a><lxbase:a>0,40 Euro für jeden weiteren Kilometer.</lxbase:a><lxbase:a>Bei Familienheimfahrten beträgt die Entfernungspauschale
+auch für die ersten 10 Kilometer 0,40 Euro/ km.</lxbase:a><lxbase:a>Die Entfernungspauschale darf höchstens 5 112 Euro im
+Kalenderjahr betragen. Ein höherer Betrag als 5 112 Euro ist anzusetzen,
+soweit Sie ein Kraftfahrzeug benutzen oder Aufwendungen für die
+Benutzung öffentlicher Verkehrsmittel den als Entfernungspauschale
+abziehbaren Betrag übersteigen.</lxbase:a><lxbase:a>Tragen Sie den so ermittelten Betrag in Zeile 55 ein.</lxbase:a><lxbase:a><lxbase:fett>Zeile 60</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie hier die sonstigen Betriebsausgaben ein, soweit
+diese nicht in den Zeilen 26 bis 59 berücksichtigt worden sind.</lxbase:a><lxbase:a>Soweit Sie eine Betriebsausgabenpauschale nach H 143 EStR
+in Anspruch nehmen, tragen Sie diese in Zeile 60 ein. In diesem
+Fall sind keine Eintragungen zu den Betriebsausgaben lt. Zeilen
+26 bis 59 und 61 bis 66 vorzunehmen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 62</lxbase:fett></lxbase:a><lxbase:a>Die in Rechnung gestellten und nach dem UStG abziehbaren
+Vorsteuerbeträge auf die Betriebsausgaben gehören im Zeitpunkt ihrer
+Bezahlung zu den Betriebsausgaben und sind hier einzutragen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 64</lxbase:fett></lxbase:a><lxbase:a>Soweit Steuerpflichtige die Übertragung stiller Reserven
+nach § 6b Abs. 1 EStG oder Abs. 10 nicht durch Abzug des bei der
+Veräußerung entstandenen Gewinns bei den Anschaffungs- oder Herstellungskosten
+der in § 6b Abs. 2 oder Abs. 10 bezeichneten Wirtschaftsgüter vorgenommen
+haben, können sie im Wirtschaftsjahr der Veräußerung eine den steuerlichen
+Gewinn mindernde Rücklage bilden. Tragen Sie in Zeile 64 die nach
+§ 6b Abs. 1 EStG oder Absatz 10 in Verbindung mit § 6c Abs. 1 EStG gebildete
+Rücklage ein. Auch die Minderung der Anschaffungs- Herstellungskosten bei
+der begünstigten Investition durch Übertragung der stillen Reserven
+ist hier als Betriebsausgabe einzutragen. Die Aufzeichnungspflichten
+nach § 6c Abs. 2 EStG sind zu beachten. Vorgenanntes gilt auch für
+die Rücklage für Ersatzbeschaffung nach R 35 EStR.</lxbase:a><lxbase:a><lxbase:fett>Zeile 65</lxbase:fett></lxbase:a><lxbase:a>Steuerpflichtige können nach § 7g Abs. 3 – 6 EStG für
+die künftige Anschaffung oder Herstellung eines neuen beweglichen
+Wirtschaftsgutes des Anlagevermögens eine den Gewinn mindernde Rücklage
+bilden (Ansparabschreibung). Die Rücklage darf 40 v. H. der voraussichtlichen
+Anschaffungs- oder Herstellungskosten des begünstigten Wirtschaftsgutes
+nicht überschreiten, das der Steuerpflichtige voraussichtlich bis Ende
+des zweiten auf die Bildung der Rücklage folgenden Wirtschaftsjahres
+anschaffen oder herstellen wird. Tragen Sie hier die Summe der nach
+§ 7g Abs. 3 – 6 EStG gebildeten Rücklagen ein.</lxbase:a><lxbase:a><lxbase:fett>Zeile 66</lxbase:fett></lxbase:a><lxbase:a>Hier sind im Wirtschaftsjahr gebildete Existenzgründerrücklagen
+nach § 7g Abs. 7 und 8 EStG einzutragen.</lxbase:a><lxbase:a><lxbase:fett>Ergänzende Angaben</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>Zeile 74</lxbase:fett></lxbase:a><lxbase:a>Tragen Sie hier die Netto-Anschaffungskosten der im Wirtschaftsjahr
+angeschafften Wirtschaftsgüter des Anlagevermögens ein. Die abziehbare
+Vorsteuer ist in Zeile 62 einzutragen.</lxbase:a><lxbase:a><lxbase:fett>Zeilen 75 und 76</lxbase:fett></lxbase:a><lxbase:a>Hier sind die Entnahmen und Einlagen einzutragen, die
+nach § 4 Abs. 4a EStG gesondert aufzuzeichnen sind. Hierzu gehören
+auch die Aufwendungen, die durch die betriebliche Nutzung solcher
+Wirtschaftsgüter entstehen, die nicht zum Betriebsvermögen gehören.</lxbase:a><lxbase:a><lxbase:fett>Zeile 77</lxbase:fett></lxbase:a><lxbase:a>Erstellen Sie ein Verzeichnis der abnutzbaren Anlagegüter
+nach dem Muster lt. Zeile 78 und legen Sie dieses Verzeichnis bei.
+Es sind alle angeschafften, hergestellten und eingelegten Wirtschaftsgüter
+zu erfassen.</lxbase:a><lxbase:a><lxbase:fett>Zeile 80</lxbase:fett></lxbase:a><lxbase:a>Der Gewinnermittlung nach § 4 Abs. 3 EStG ist ein Verzeichnis
+der nicht abnutzbaren Anlagegüter nach dem Muster lt. Zeile 81 beizufügen.
+Es sind alle angeschafften, hergestellten und eingelegten Wirtschaftsgüter
+zu erfassen.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Bundesrepublik</lxbase:bundesland></lxbase:region><lxbase:region><lxbase:bundesland>Rheinland-Pfalz</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:deskriptoren /></lxbase:allgemeine-angaben></lxrvw:rspvwa>

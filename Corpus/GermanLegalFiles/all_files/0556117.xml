@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0556117" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Frankfurt am Main</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-1988 A - 39 - St II 24</lxbase:aktenzeichen><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1999-10-19" /></lxbase:daten><lxbase:fundstellen><lxbase:nicht-normiert><lxbase:fs-kuerzel>EStK FördG Karte 31</lxbase:fs-kuerzel></lxbase:nicht-normiert></lxbase:fundstellen><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>FördG:3 </lxbase:norm-kuerzel><lxbase:norm-kuerzel>FördG:4</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>FördG:3/1 </lxbase:norm-kuerzel><lxbase:norm-kuerzel>FördG:3/2/1</lxbase:norm-kuerzel><lxbase:norm-kuerzel>FördG:3/2/2</lxbase:norm-kuerzel><lxbase:norm-kuerzel>FördG:3/2/3</lxbase:norm-kuerzel><lxbase:norm-kuerzel>FördG:4/1/5</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1999" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Inanspruchnahme von Sonderabschreibungen nach dem Fördergebietsgesetz
+auf Vorleistungen;<lxbase:za />
+Versagung der Sonderabschreibungen bei "Anzahlungen
+auf Teilherstellungskosten"</lxbase:a></lxbase:headline></lxbase:titel><lxbase:kapitel><lxbase:a>Gem. § 4 Abs. 1 Satz 5 FördG können
+die Sonderabschreibungen bereits für geleistete Anzahlungen
+auf Anschaffungskosten oder entstandene Teilherstellungskosten in
+Anspruch genommen werden.</lxbase:a><lxbase:a>In der letzten Zeit haben sich die Fälle gehäuft,
+in denen der Steuerpflichtige in seiner Einkommensteuererklärung
+Sonderabschreibungen für "Anzahlungen auf Teilherstellungskosten" im
+Rahmen der als Bauherr durchgeführten Herstellung oder
+Sanierung eines Gebäudes i. S. des § 3 Satz 1
+FördG geltend macht. Diese Art der Vorleistung ist jedoch
+nach dem Wortlaut des § 4 Abs. 1 Satz 5 FördG
+gerade nicht begünstigt, da Anzahlungen auf (eigene) Teilherstellungskosten
+begrifflich nicht denkbar sind (vgl. BFH-Urteil vom 10. 3. 1982, <lxprod:doknr-verw linkend="HT0026986">BStBl
+1982 II S. 426</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Führt der Steuerpflichtige die entsprechende Baumaßnahme
+als Bauherr durch, d. h. saniert oder stellt er das Gebäude
+auf eigene Rechnung und Gefahr her und beherrscht er das Baugeschehen,
+kommen als begünstigte Vorleistungen nur die entstandenen
+Teilherstellungskosten in Betracht. Der Steuerpflichtige ist hierbei
+auch dann als Bauherr zu behandeln, wenn er das Gebäude
+zu einem Festpreis von einem Generalunternehmen oder einen Fertighauserrichter auf
+seinem Grundstück herstellen oder sanieren läßt
+(R 45 Abs. 6 Satz 3 EStR 1998).</lxbase:a><lxbase:a>Unter dem Begriff Teilherstellungskosten sind alle Aufwendungen
+zu verstehen, die durch den Verbrauch von Gütern und die
+Inanspruchnahme von Diensten für die Herstellung oder Sanierung
+des Gebäudes entstanden sind, und zwar bis zum Ende des
+Kalender- oder Wirtschaftsjahres, das vor dem Jahr der Fertigstellung
+bzw. Beendigung der nachträglichen Herstellungsarbeiten
+liegt (vgl. H 45 "Teilherstellungskosten" EStH
+1998; BFH-Urteil vom 15. 11. 1985, <lxprod:doknr-verw linkend="HT0063409">BStBl 1986 II S. 367</lxprod:doknr-verw>). Für
+die Bestimmung des Umfangs der begünstigten Teilherstellungskosten
+ist somit nur der Bautenstand zum Ende des Kalender- bzw. Wirtschaftsjahres,
+mithin die Kosten für Güter und Dienstleistungen
+von Bedeutung, die bis zu diesem Zeitpunkt in das herzustellende
+oder zu sanierende Gebäude eingegangen sind. Eine Ausnahme
+gilt jedoch für bereits angeschafftes, aber noch nicht
+verbautes Baumaterial, wenn dieses bis zum Ende des Kalender- oder
+Wirtschaftsjahres zumindest auf der Baustelle angeliefert wurde
+(R 45 Abs. 6 Satz 1 EStR 1998).</lxbase:a><lxbase:a>Der die Baumaßnahmen als Bauherr durchführende
+Steuerpflichtige hat daher im Rahmen der Beantragung von Sonderabschreibungen
+auf Teilherstellungskosten stets Unterlagen über den Bautenstand
+zum Zwecke des Nachweises der im Kalender- oder Wirtschaftsjahr
+entstandenen Teilherstellungskosten einzureichen. Gegebenenfalls
+sind diese Unterlagen vom Steuerpflichtigen anzufordern.</lxbase:a><lxbase:a>Es kommt somit nicht darauf an, ob in dem Kalender- oder Wirtschaftsjahr bereits
+Zahlungen für Teilherstellungskosten geleistet worden sind.
+Mithin sind "Anzahlungen auf Teilherstellungskosten" nicht
+zur Bemessungsgrundlage für die Sonderabschreibungen zu
+zählen. Ein Vorziehen des Sonderabschreibungsanspruchs
+i. S. des § 4 Abs. 1 Satz 5 FördG ist durch das
+Leisten von "Anzahlungen auf Teilherstellungskosten" daher
+nicht möglich (R 45 Abs. 6 Satz 2 EStR 1998 und H 45 "Teilherstellungskosten" EStH
+1998). Soweit sich jedoch Zahlungen am Baufortschritt orientieren,
+können diese zumindest als Orientierungshilfe bei der Ermittlung
+der bis zum Ende des Kalender- oder Wirtschaftsjahres entstandenen
+Teilherstellungskosten herangezogen werden (vgl. R 45 Abs. 6 Satz
+4 EStR 1998).</lxbase:a><lxbase:a>Sonderabschreibungen auf Anzahlungen kommen begrifflich nur dann
+in Betracht, wenn sie in Erfüllung eines späteren
+Anschaffungsgeschäfts i. S. des § 3 Satz 2 Nr.
+1 bis Nr. 3 FördG - z. B. im Rahmen eines Bauherrenmodels,
+bei dem die Beteiligten als Erwerber anzusehen sind (vgl. ESt-Kartei
+FördG Karte 2) - geleistet werden (R 45 Abs. 5 EStR 1998
+und H 45 "Anzahlungen auf Anschaffungskosten" EStH
+1998). Anzahlungen auf Anschaffungskosten sind in der vom Steuerpflichtigen
+- entsprechend der vertraglichen Vereinbarung - geleisteten Höhe
+(ggf. in voller Höhe des Kaufpreises) unabhängig
+vom Bautenstand begünstigt. Insoweit ist daher der Erwerber
+gegenüber dem Bauherrn bevorteilt.</lxbase:a><lxbase:a>Die Ausführungen gelten entsprechend für die
+Anschaffung und die Herstellung von beweglichen Wirtschaftsgütern
+des Anlagevermögens und für nachträgliche
+Herstellungskosten an diesen (§ 2 FördG).</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Steuerliche Förderungsgesetze</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:deskriptoren>Kw/00/05</lxbase:deskriptoren></lxbase:allgemeine-angaben></lxrvw:rspvwa>

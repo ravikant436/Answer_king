@@ -1,0 +1,1342 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" dok-nummer="5235546" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:externe-dateien><lxbase:datei name="d5235546-001.gif" /><lxbase:datei name="d5235546-002.gif" /></lxbase:externe-dateien><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Frankfurt
+am Main</lxbase:institution></lxbase:autor><lxbase:aktenzeichen> S-2444 A - 2 - St 212</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2444</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /><lxbase:lizenz2 name="LOHN" id="42" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2015-02-25" ts="nein" /></lxbase:daten><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>KiStGHE:Allgemein</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:37b</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:40</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:40a/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:40a/2a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:40a/3</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:40b</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:51a</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2015" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Erhebung der Kirchensteuer im Land Hessen</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600001"><lxbase:a>1 Rechtsgrundlagen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600002"><lxbase:a>2 Anwendung des HKiStG auf Lebenspartner und Lebenspartnerschaften</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600003"><lxbase:a>3 Anwendung des HKiStG auf Kultussteuern</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600004"><lxbase:a>4 Erhebungsformen der Kirchensteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600005"><lxbase:a>5 Verwaltung der Kirchensteuern</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600006"><lxbase:a>6 Kirchensteuerpflicht</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600007"><lxbase:a>6.1 Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600008"><lxbase:a>6.2 Beginn der Kirchensteuerpflicht</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600009"><lxbase:a>6.3 Ende der Kirchensteuerpflicht</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600010"><lxbase:a>6.4 Kirchensteuerpflicht von Bundeswehrangehörigen im
+Ausland </lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600011"><lxbase:a>6.5 Kirchensteuerpflicht bei Zuzug aus dem Ausland</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600012"><lxbase:a>6.5.1 Mitgliedschaft in der römisch-katholischen Kirche</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600013"><lxbase:a>6.5.2 Mitgliedschaft in der evangelischen Kirche</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600014"><lxbase:a>7 Kirchensteuerhebesatz</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600015"><lxbase:a>8 Kirchensteuer auf Kapitalertragsteuer (Abgeltungsteuer)
+ab 2009</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600016"><lxbase:a>8.1 Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600017"><lxbase:a>8.2 Einbehalt der Kirchensteuer auf Abgeltungsteuer bis
+einschließlich 2014</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600018"><lxbase:a>8.3 Einbehalt der Kirchensteuer auf Abgeltungsteuer ab
+2015</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600019"><lxbase:a>8.4 Sonderausgabenabzug</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600020"><lxbase:a>9 Lohnsteuerabzugsverfahren</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600021"><lxbase:a>9.1 Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600022"><lxbase:a>9.2 Berücksichtigung von Kindern im Sinne des § 32 EStG</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600023"><lxbase:a>9.2.1 Besteuerung des laufenden Arbeitslohns</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600024"><lxbase:a>9.2.2 Besteuerung sonstiger Bezüge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600025"><lxbase:a>9.3 Berechnung der Kirchensteuer nach Centbeträgen / Mindestbeträge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600026"><lxbase:a>9.4 Kirchensteuer in konfessionsverschiedener Ehe</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600027"><lxbase:a>9.5 Kirchensteuer in glaubensverschiedener Ehe</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600028"><lxbase:a>9.6 Ende der Kirchensteuerpflicht</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600029"><lxbase:a>9.7 Kontrolle durch die Lohnsteuer-Außenprüfung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600030"><lxbase:a>9.8 Kirchensteuer in Pauschalierungsfällen</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600031"><lxbase:a>9.8.1 Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600032"><lxbase:a>9.8.2 Erhebung der Kirchensteuer</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600033"><lxbase:a>9.8.2.1 Vereinfachtes Verfahren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600034"><lxbase:a>9.8.2.2 Nachweisverfahren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600035"><lxbase:a>9.8.3 Pauschalierung der Einkommensteuer bei Sachzuwendungen
+(§ 37b EStG)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600036"><lxbase:a>9.8.4 Kirchensteuersatz in Pauschalierungsfällen (§§ 40,
+40a Abs. 1, 2a und 3, 40b und 37b EStG)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600037"><lxbase:a>9.8.5 Einheitliche Pauschsteuer (2 %) bei sog. Minijobs</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600038"><lxbase:a>9.9 Betriebsstätten</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600039"><lxbase:a>10 Veranlagungsverfahren</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600040"><lxbase:a>10.1 Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600041"><lxbase:a>10.2 Bemessungsgrundlage für die Kirchensteuer im Sinne
+des § 2 Abs. 2 HKiStG i.V.m. § 51a Abs. 2 EStG</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600042"><lxbase:a>10.2.1 Berücksichtigung von Kindern im Sinne des § 32
+EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600043"><lxbase:a>10.2.2 Anwendung des Halbeinkünfteverfahrens / Teileinkünfteverfahrens</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600044"><lxbase:a>10.2.3 Anrechnung des Gewerbesteuermessbetrags nach §
+35 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600045"><lxbase:a>10.2.4 Bemessungsgrundlage für die Kirchensteuer, wenn
+der Sonderausgabenabzug nach § 10a EStG günstiger ist als die Altersvorsorgezulage</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600046"><lxbase:a>10.3 Beginn bzw. Ende der Kirchensteuerpflicht im Laufe
+des Veranlagungszeitraums - Zwölftelungsverfahren</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600047"><lxbase:a>10.4 Wechsel des Wohnsitzes oder des gewöhnlichen Aufenthalts</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600048"><lxbase:a>10.5 Getrennte Veranlagung und besondere Veranlagung (bis
+einschließlich VZ 2012)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600049"><lxbase:a>10.6 Zusammenveranlagung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600050"><lxbase:a>10.6.1 Konfessionsgleiche Ehe</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600051"><lxbase:a>10.6.2 Konfessionsverschiedene Ehe</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600052"><lxbase:a>10.6.3 Glaubensverschiedene Ehe</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600053"><lxbase:a>10.6.3.1 Beide Ehegatten haben Einkünfte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600054"><lxbase:a>10.6.3.2 Nur der kirchensteuerpflichtige Ehegatte hat
+Einkünfte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600055"><lxbase:a>10.6.3.3 Nur der nichtkirchensteuerpflichtige Ehegatte
+hat Einkünfte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600056"><lxbase:a>10.7 Kirchensteuer in Form des besonderen Kirchgelds</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600057"><lxbase:a>10.7.1 Verfassungsmäßigkeit des besonderen Kirchgeldes</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600058"><lxbase:a>10.7.2 Verfahren bei Wohnsitzwechsel in andere Bundesländer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600059"><lxbase:a>10.7.3 Anrechnung der Kirchensteuer als Zuschlag zur Einkommensteuer
+(bis einschließlich VZ 2013)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600060"><lxbase:a>10.8 Anrechnung der Kirchensteuer als Zuschlag zur Einkommensteuer
+(ab VZ 2014)</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600061"><lxbase:a>10.8.1 Zeitanteilig festzusetzendes besonderes Kirchgeld
+(z. B. im Jahr der Eheschließung bzw. Scheidung)</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600062"><lxbase:a>10.9 Berechnung der Kirchensteuer nach Centbeträgen /
+Mindestbeträge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600063"><lxbase:a>11 Anwendung der Kleinbetragsverordnung im Bereich der
+Kirchensteuer in Hessen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600064"><lxbase:a>12 Stundung, Erlass und Niederschlagung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600065"><lxbase:a>13 Kappung der Kirchensteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600066"><lxbase:a>14 Verzinsung, Säumniszuschläge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600067"><lxbase:a>15 Erstattung zu Unrecht einbehaltener Kirchensteuer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600068"><lxbase:a>16 Steuergeheimnis</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600069"><lxbase:a>17 Rechtsbehelfsverfahren</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600070"><lxbase:a>17.1 Zulässiger Rechtsbehelf</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600071"><lxbase:a>17.2 Prüfung der formellen Voraussetzungen eines Widerspruchs</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600072"><lxbase:a>17.2.1 Schriftform</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600073"><lxbase:a>17.2.2 Widerspruchsfrist</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600074"><lxbase:a>17.2.3 Korrekte Bezeichnung des Widerspruchs</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600075"><lxbase:a>17.2.4 Widerspruchsführer und Beschwer</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600076"><lxbase:a>17.2.5 Hinzuziehung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600077"><lxbase:a>17.3 Einheitliche Rechtsbehelfe</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600078"><lxbase:a>17.4 Änderung des Kirchensteuerbescheides</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600079"><lxbase:a>17.5 Anhörung der Kirchenbehörde</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600080"><lxbase:a>17.6 Vorlage an die OFD</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600081"><lxbase:a>17.7 Ruhen des Verfahrens</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600082"><lxbase:a>18 Anträge auf Aussetzung der Vollziehung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600083"><lxbase:a>19 Beitreibung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600084"><lxbase:a>20 Anlagen und Links</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600085"><lxbase:a>Anlage 1 Übersicht über die Kirchensteuerordnungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600086"><lxbase:a>Anlage 2 Muster einer Erklärung gegenüber dem Betriebsstättenfinanzamt
+zur Religionszugehörigkeit für die Erhebung der pauschalen Lohnsteuer
+nach § 40, § 40a Abs. 1, 2a und 3 und § 40b EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600088"><lxbase:a>Anlage 3 Muster einer Erklärung gegenüber dem Betriebsstättenfinanzamt
+zur Religionszugehörigkeit für die Erhebung der pauschalen Einkommensteuer
+nach § 37b Abs. 4 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600087"><lxbase:a>Anlage 4 Liste der Religionsgemeinschaften, die einen
+Antrag auf Erhebung der Kirchensteuer als Zuschlag zur Kapitalertragsteuer
+gestellt haben</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D523554600089"><lxbase:a>Anlage 5 Liste der Religionsgemeinschaften, die einen
+Antrag auf Erhebung der Kirchensteuer als Zuschlag zur Kapitalertragsteuer
+gestellt haben</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D523554600001">1 Rechtsgrundlagen</lxbase:ueberschrift><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>Gesetz
+über die Erhebung von Steuern durch die Kirchen, Religions- und
+Weltanschauungsgemeinschaften im Lande Hessen (HKiStG) in der Fassung
+vom 12.02.1986 (GVBl I, 90), geändert durch Gesetz vom 20.11.1991
+(GVBl I, 339), vom 10.07.1997 (GVBl I, 231), vom 31.10.2001 (GVBl
+I, 442), vom 14.12.2006 (GVBl I, 657), vom 19.11.2008 (GVBl I, 981),
+zuletzt geändert durch Gesetz vom 26.11.2014 (GVBl I 2014, 283).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>Verordnung zur Durchführung
+des Kirchensteuergesetzes (Kirchensteuerdurchführungsverordnung
+- KiStDV) in der Fassung vom 23.11.1968 (GVBl I, 291), geändert
+durch Verordnung vom 20.12.1974 (GVBl I 1975, 5), vom 11.09.2001
+(GVBl I, 385), vom 30.12.2008 (GVBl I 2009, 43) und zuletzt vom
+26.11.2014, GVBl I 2014, 284.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a>Steuerordnungen und Steuerbeschlüsse
+der steuerberechtigten Kirchen, Religions- und Weltanschauungsgemeinschaften.
+Die Steuerordnungen sind in der Anlage 1 aufgeführt; die Steuerbeschlüsse
+werden jährlich im Staatsanzeiger (StAnz.) veröffentlicht.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600002">2 Anwendung des HKiStG
+auf Lebenspartner und Lebenspartnerschaften</lxbase:ueberschrift><lxbase:a>In § 1a HKiStG in der Fassung vom 26.11.2014 wird klarstellend
+geregelt, dass die Regelungen zu Ehegatten und Ehen auch auf Lebenspartner
+und Lebenspartnerschaften im Sinne des Lebenspartnerschaftsgesetzes
+vom 16.02.2001, zuletzt geändert durch Gesetz vom 20.06.2014 (<lxbase:lit-fs normform="BGBl-2014-I-0786" manuell="nein">BGBl
+I, 786</lxbase:lit-fs>) anzuwenden sind. § 1a HKiStG n.F. ist in allen Fällen anzuwenden,
+in denen die Kirchensteuer noch nicht bestandskräftig festgesetzt
+ist, § 17a Abs. 2 Satz 1 HKiStG n.F. Dies gilt jedoch nicht für
+die Festsetzung des besonderen Kirchgelds nach § 2 Abs. 1 Nr. 5
+HKiStG, welches erst ab Veranlagungszeitraum 2014 festgesetzt werden
+darf, § 17a Abs. 2 Satz 2 i.V.m. Abs. 1 HKiStG n.F. Für davorliegende
+Veranlagungszeiträume wird die Festsetzung eines besonderen Kirchgelds
+maschinell unterdrückt; die Kz 30.74 muss deshalb nicht manuell
+eingegeben werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600003">3 Anwendung des HKiStG
+auf Kultussteuern</lxbase:ueberschrift><lxbase:a>Gem. § 16 HKiStG können Religions- und Weltanschauungsgemeinschaften,
+die Körperschaften des öffentlichen Rechts sind, von ihren Mitgliedern,
+die einen Wohnsitz oder ihren gewöhnlichen Aufenthalt im Lande Hessen
+haben, auf Grund von Steuerordnungen (Satzungen) Kultussteuern als
+öffentliche Abgaben erheben. Für die Kultussteuern gelten die §§
+2 bis 15 HKiStG entsprechend.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600004">4 Erhebungsformen der
+Kirchensteuer</lxbase:ueberschrift><lxbase:a>Nach § 2 Abs. 1 HKiStG können als Kirchensteuer einzeln
+oder nebeneinander erhoben werden:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>ein Zuschlag zur Einkommensteuer
+(Lohnsteuer, Kapitalertragsteuer),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>eine Abgabe nach den Messbeträgen
+der Grundsteuer,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>ein Zuschlag zur Vermögensteuer,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d. "><lxbase:a>ein Kirchgeld,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e. "><lxbase:a>ein besonderes Kirchgeld
+von Kirchensteuerpflichtigen, deren Ehegatte keiner steuerberechtigten
+Kirche angehört (Kirchgeld in glaubensverschiedener Ehe).</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Für die Ermittlung der Kirchensteuer als Zuschlag zur
+Einkommensteuer (Lohnsteuer, Kapitalertragsteuer) und des Kirchgelds
+in glaubensverschiedener Ehe ist § 51a EStG in der jeweils geltenden
+Fassung anzuwenden. Wird die Kirchensteuer als Zuschlag zur Einkommensteuer
+erhoben, ist sie mit dieser festzusetzen. Wird die Einkommensteuer
+nach § 51a EStG in der jeweils geltenden Fassung durch Steuerabzug
+vom Arbeitslohn (Lohnsteuer) oder durch Steuerabzug vom Kapitalertrag erhoben,
+ist der Zuschlag zusammen mit dem Steuerabzug im Abzugsverfahren
+zu erheben. Mindestbeträge werden nicht erhoben (§ 2 Abs. 2 HKiStG).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600005">5 Verwaltung der Kirchensteuern</lxbase:ueberschrift><lxbase:a>Die Finanzämter sind gemäß § 9 Abs. 1 HKiStG auf Antrag
+der steuerberechtigten Kirchen, Religions- oder Weltanschauungsgemeinschaften
+mit der Verwaltung der Kirchensteuern beauftragt, die in Zuschlägen
+zur Einkommensteuer (Lohnsteuer, Kapitalertragsteuer) oder zur Vermögensteuer
+bestehen.</lxbase:a><lxbase:a>Das gleiche gilt für die Verwaltung des Kirchgelds in
+glaubensverschiedener Ehe bei nach § 26b EStG zusammenveranlagten
+Ehegatten.</lxbase:a><lxbase:a>Das Hessische Ministerium der Finanzen hat den Anträgen
+auf Verwaltung der Kirchensteuern durch die Finanzämter der folgenden
+Kirchen, Religions- oder Weltanschauungsgemeinschaften entsprochen:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Evangelische Kirche in Hessen
+und Nassau,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Evangelische Kirche von
+Kurhessen-Waldeck,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>Evangelische Kirche im Rheinland,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d. "><lxbase:a>Römisch-katholische Kirche,
+Diözese Limburg,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e. "><lxbase:a>Römisch-katholische Kirche,
+Diözese Fulda,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="f. "><lxbase:a>Römisch-katholische Kirche,
+Diözese Mainz,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="g. "><lxbase:a>Römisch-katholische Kirche,
+Erzdiözese Paderborn,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="h. "><lxbase:a>Altkatholische Kirche in
+Hessen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="i. "><lxbase:a>Freireligiöse Gemeinde Offenbach,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="j. "><lxbase:a>Freireligiöse Gemeinde Mainz</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="k. "><lxbase:a>Jüdische Gemeinde Frankfurt
+am Main,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="l. "><lxbase:a>Kultussteuerberechtigte
+jüdische Gemeinden im Landesverband Hessen: Bad Nauheim, Darmstadt,
+Fulda, Gießen, Kassel und Offenbach.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600006">6 Kirchensteuerpflicht</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523554600007">6.1 Allgemeines</lxbase:ueberschrift><lxbase:a>Kirchensteuerpflichtig sind alle natürlichen Personen,
+die Angehörige der unter Tz. 3 aufgeführten Kirchen, Religions-
+oder Weltanschauungsgemeinschaften sind und in Hessen einen Wohnsitz
+(§ 8 AO) oder gewöhnlichen Aufenthalt (§ 9 AO) haben (§ 1 HKiStG),
+§ 5 Abs. 1 HKiStG. Einen Wohnsitz im Sinne von § 8 AO hat der Steuerpflichtige
+dort, wo er eine Wohnung inne hat und Umstände vorliegen, die darauf schließen
+lassen, dass er die Wohnung beibehalten und benutzen wird. Einen gewöhnlichen
+Aufenthalt im Sinne von § 9 AO hat der Steuerpflichtige dort, wo
+er sich unter Umständen aufhält, die erkennen lassen, dass er an
+diesem Ort nicht nur vorübergehend verweilt; als gewöhnlicher Aufenthalt
+ist stets von Beginn an ein zeitlich zusammenhängender Aufenthalt
+von mehr als sechs Monaten Dauer anzusehen.</lxbase:a><lxbase:a>Unterhält ein Steuerpflichtiger mehrere Wohnsitze oder
+gewöhnliche Aufenthalte im Bundesgebiet, so ist der Hauptwohnsitz
+maßgebend. Der Hauptwohnsitz ist dort, wo sich der Mittelpunkt der
+Lebensinteressen des Steuerpflichtigen befindet; bei verheirateten
+Kirchensteuerpflichtigen ist dies der Familienwohnsitz.</lxbase:a><lxbase:a>Die Staatsangehörigkeit des Mitglieds ist ohne Bedeutung.
+Deshalb unterliegen auch Ausländer mit Wohnsitz oder gewöhnlichem
+Aufenthalt in der Bundesrepublik Deutschland der Kirchensteuerpflicht,
+wenn sie einer steuerberechtigten Religionsgesellschaft angehören,
+wobei es gleichgültig ist, ob in ihrem Heimatland Kirchensteuer
+erhoben wird oder nicht.</lxbase:a><lxbase:a>Beschränkt einkommensteuerpflichtige natürliche Personen
+sind nicht kirchensteuerpflichtig, da sie im Inland keinen Wohnsitz
+oder gewöhnlichen Aufenthalt haben.</lxbase:a><lxbase:a>Deutsche ohne inländischen Wohnsitz oder gewöhnlichen
+Aufenthalt, die Arbeitslohn aus einer inländischen öffentlichen
+Kasse beziehen und nach § 1 Abs. 2 oder 3 EStG erweitert unbeschränkt
+steuerpflichtig sind (z. B. deutsche Diplomaten, Soldaten oder Lehrer
+im Ausland), unterliegen ebenfalls nicht der Kirchensteuerpflicht.</lxbase:a><lxbase:a>Unter welchen Voraussetzungen eine Person Angehöriger
+einer Kirche, Religions- oder Weltanschauungsgemeinschaft ist, bestimmt
+sich nach innerkirchlichem Recht.</lxbase:a><lxbase:a>Grundsätzlich erfolgt die Aufnahme in die Kirchen, Religions-
+oder Weltanschauungsgemeinschaften durch Taufe oder (Wieder-) Eintritt;
+bei mehrfacher Taufe ohne ausdrücklichen Übertritt gilt die erste
+Taufe (vgl. FG München vom 02.07.1993, <lxbase:lit-fs normform="EFG-1994-0167" manuell="nein">EFG 1994, 167</lxbase:lit-fs>).</lxbase:a><lxbase:a>Kirchliche Maßnahmen, die kirchliche Rechte von Kirchenmitgliedern
+einschränken, berühren die Kirchensteuerpflicht nicht.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600008">6.2 Beginn
+der Kirchensteuerpflicht</lxbase:ueberschrift><lxbase:a>Nach § 5 Abs. 2 HKiStG beginnt die Kirchensteuerpflicht</lxbase:a><lxbase:a>a)	 bei Aufnahme in eine steuerberechtigte Kirche mit
+dem ersten Tag des Kalendermonats, der dem Monat folgt, in dem die
+Aufnahme oder der Übertritt von einer anderen steuerberechtigten
+Kirche wirksam geworden ist (§ 5 Abs. 2 Nr. 1 HKiStG),</lxbase:a><lxbase:a>b)	 bei Zuzug von Kirchenangehörigen mit dem ersten Tag
+des Kalendermonats, der auf den Monat folgt, in dem der Wohnsitz
+oder gewöhnliche Aufenthalt im Lande Hessen begründet worden ist,
+jedoch nicht vor Beendigung einer vorangegangenen Kirchensteuerpflicht
+(§ 5 Abs. 2 Nr. 2 HKiStG).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600009">6.3 Ende
+der Kirchensteuerpflicht</lxbase:ueberschrift><lxbase:a>Gemäß § 5 Abs. 3n. F. HKiStG endet die Kirchensteuerpflicht</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>bei Tod mit Ablauf des Sterbemonats
+(§ 5 Abs. 3 Nr. 1 HKiStG),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>bei Wegzug mit Ablauf des
+Kalendermonats, in dem der Wohnsitz oder der gewöhnliche Aufenthalt
+im Lande Hessen aufgegeben worden ist (§ 5 Abs. 3 Nr. Nr. 2),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>bei Austritt mit Ablauf
+des Kalendermonats *), in dem die Austrittserklärung wirksam geworden
+ist (§ 5 Abs. 3 Nr. 2 HKiStG),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d. "><lxbase:a>bei Übertritt zu einer anderen
+steuerberechtigten Kirche mit Ablauf des Kalendermonats, in dem
+der Übertritt wirksam geworden ist, (§ 5 Abs. 3 Nr. 4 HKiStG).</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a><lxbase:kursiv>*<lxbase:fett>)</lxbase:fett> Gilt für
+Lohnzahlungszeiträume und Veranlagungszeiträume, die nach dem 31. Dezember
+2013 enden. Bis einschließlich VZ 2013 gilt: Bei Austritt endet
+die Kirchensteuerpflicht mit Ablauf des Kalendermonats, der auf
+die Erklärung des Kirchenaustritts folgt, § 5 Abs. 2 Nr. 3 HKiStG
+a.F.</lxbase:kursiv></lxbase:a><lxbase:a>Wer in Hessen aus einer Religionsgemeinschaft öffentlichen
+Rechts mit bürgerlicher Wirkung austreten will, hat den Austritt
+bei dem für seinen Wohnsitz zuständigen Amtsgericht zu erklären
+(vgl. § 1 Hessisches Gesetz zur Regelung des Austritts aus Kirchen,
+Religions- oder Weltanschauungsgemeinschaften des öffentlichen Rechts
+- KRWAG - vom 13. Oktober 2009 (GVBl I, 394), geändert am 13. Dezember
+2012 (GVBl I, 622). Die Austrittsbescheinigung ist dem Finanzamt
+vorzulegen.</lxbase:a><lxbase:a /></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600010">6.4 Kirchensteuerpflicht
+von Bundeswehrangehörigen im Ausland </lxbase:ueberschrift><lxbase:a>(HMdF-Erlass vom 07.02.1986 - <lxbase:az normform="S2444A1IIB2" manuell="nein">S 2444 A - 1 - II B 2</lxbase:az> a
+-)</lxbase:a><lxbase:a>Nach § 1 Abs. 2 EStG sind deutsche Staatsangehörige unbeschränkt
+einkommensteuerpflichtig, die im Inland weder Wohnsitz noch gewöhnlichen
+Aufenthalt haben, aber zu einer inländischen juristischen Person
+des öffentlichen Rechts in einem Dienstverhältnis stehen und dafür
+Arbeitslohn aus einer inländischen öffentlichen Kasse beziehen.</lxbase:a><lxbase:a>Das gilt nicht für die Kirchensteuer. Hier ist erforderlich,
+dass es sich um Angehörige einer hebeberechtigten Kirche handelt.
+Dies setzt stets Wohnsitz oder gewöhnlichen Aufenthalt im Inland
+voraus (vgl. Tz. 6.1).</lxbase:a><lxbase:a>Soldaten, Beamte und Arbeitnehmer der Bundeswehr, die
+für längere Zeit ins Ausland entsandt werden, sind deshalb nicht
+mehr kirchensteuerpflichtig, sobald sie Wohnsitz oder gewöhnlichen
+Aufenthalt in der Bundesrepublik aufgegeben haben. Bei Unverheirateten
+wird das i. d. R. vom Beginn der Abordnung und bei Verheirateten
+von dem Zeitpunkt an der Fall sein, in dem sie ihre Familien in
+das Ausland nachfolgen lassen. Entsprechendes gilt für die im Auswärtigen
+Dienst Tätigen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600011">6.5 Kirchensteuerpflicht
+bei Zuzug aus dem Ausland</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523554600012">6.5.1
+Mitgliedschaft in der römisch-katholischen Kirche</lxbase:ueberschrift><lxbase:a>Bei der römisch-katholischen Kirche handelt es sich um
+eine weltumspannende Kirche. Daher bleibt die Mitgliedschaft zur
+römisch-katholischen Kirche auch automatisch bei Zuzügen aus dem
+Ausland unverändert bestehen, sie konkretisiert sich nur in einem
+anderen Jurisdiktionsbezirk. Es ist deshalb nicht erforderlich,
+dass der aus dem Ausland Zuziehende in seiner Anmeldung bei der
+Meldebehörde zum Ausdruck bringt, auch im Inland der weltumspannenden
+Religionsgemeinschaft anzugehören. Die Kirchensteuerpflicht besteht
+mit dem Zuzug in das Inland (vgl. FG Düsseldorf vom 14.04.1994,
+<lxbase:lit-fs normform="EFG-1994-1071" manuell="nein">EFG 1994, 1071</lxbase:lit-fs>) und zwar unabhängig davon, ob die ausländische römisch-katholische
+Kirche Kirchensteuer erhoben hat.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600013">6.5.2
+Mitgliedschaft in der evangelischen Kirche</lxbase:ueberschrift><lxbase:a>Zuziehende evangelischen Glaubens erwerben die Mitgliedschaft
+zu einer Gliedkirche der Evangelischen Kirche Deutschland durch
+Erklärung der Mitgliedschaft gegenüber der nach kirchlichem Recht
+zuständigen Stelle, wenn sie bisher Mitglied einer evangelischen
+Kirche oder Religionsgemeinschaft im Ausland waren (§ 9 Abs. 1 des
+Kirchenmitgliedschaftsgesetzes - KMG). Nach § 9 Abs. 3 KMG gelten
+Angaben gegenüber der staatlichen Meldebehörde als Erklärung im
+Sinne des § 9 Abs. 1 KMG.</lxbase:a><lxbase:a>Die wesentlichen Merkmale der Kirchenmitgliedschaft sind
+folglich die räumliche Beziehung einerseits und die konfessionelle
+Beziehung andererseits (vgl. auch § 1 KMG). Die räumliche Beziehung
+ist durch die Wohnsitznahme in Deutschland hergestellt worden. Die
+konfessionelle Beziehung besteht aus der durch die Taufe begründeten
+Bekenntniszugehörigkeit. Sie ist schon dann gegeben, wenn der Steuerpflichtige
+Mitglied einer Kirche ist oder war, die mit der steuererhebenden evangelischen
+Kirche bekenntnisverwandt ist. Dem evangelischen Bekenntnis verwandt
+sind u.a. die (weitestgehend europäischen) Kirchen, die die Leuenberger
+Konkordie unterzeichnet haben. Die gegenüber der Meldebehörde abzugebende Erklärung
+betrifft mithin die Bestätigung der Mitgliedschaft.</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600014">7 Kirchensteuerhebesatz</lxbase:ueberschrift><lxbase:a>Der Kirchensteuerhebesatz der Kirchen und Religionsgemeinschaften
+in Hessen wird jeweils im Staatsanzeiger für das Land Hessen veröffentlicht.</lxbase:a><lxbase:a>Er beträgt als:</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Zuschlag zur Einkommensteuer
+(Lohnsteuer, Kapitalertragsteuer): 9 % der Einkommensteuer, die
+sich nach Maßgabe des § 51a EStG ergibt.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Abgabe nach den Messbeträgen
+der Grundsteuer in einzelnen hessischen Kirchengemeinden zwischen
+10 und 33 1/3 %. Die Verwaltung dieser Abgabe obliegt nicht den
+Finanzämtern, sondern den zuständigen Stellen der Landeskirchen
+(Diözesen) oder Kirchengemeinden. Die zuständigen Staats- und Gemeindebehörden teilen
+diesen auf Anforderung die Höhe der Grundsteuermessbeträge mit (§
+8 HKiStG).</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>Die Festsetzung des - allgemeinen
+- Kirchgelds in festen oder gestaffelten Beträgen ist den Kirchen
+vorbehalten. Von der Erhebungsmöglichkeit dieser Steuerart wird
+nur gebietsweise Gebrauch gemacht.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d. "><lxbase:a>Das besondere Kirchgeld
+(Kirchgeld in glaubensverschiedener Ehe) wird von allen hebeberechtigten
+Kirchen und Religionsgemeinschaften in Hessen erhoben, die die Verwaltung
+der Kirchensteuer den Finanzämtern übertragen haben. Um eine glaubensverschiedene
+Ehe handelt es sich, wenn nur ein Ehegatte einer in Hessen steuerberechtigten
+und steuererhebenden Kirche angehört, der andere Ehegatte dagegen
+keiner Religionsgemeinschaft oder einer Religionsgemeinschaft, die keine
+Steuer erhebt, §§ 2 Abs. 1 Nr. 5, 3 Abs. 2 Satz 1 HKiStG. Das besondere Kirchgeld
+wird von dem der Kirche angehörenden nicht verdienenden oder - im Vergleich
+zum anderen Ehepartner - geringer verdienenden Ehegatten erhoben.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Das besondere Kirchgeld berechnet sich ab dem 01.01.2002
+nach folgender Tabelle:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="14*" /><cals:colspec colnum="2" colname="2" colwidth="51*" /><cals:colspec colnum="3" colname="3" colwidth="35*" /><cals:thead><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Stufe</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Bemessungsgrundlage
+(gemeinsames zu versteuerndes Einkommen nach § 2 Abs. 5 EStG*) in
+€</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Jährliches besonderes Kirchgeld
+in €</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">01</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">30.000 bis
+37.499</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">96</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">02</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">37.500 bis
+49.999</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">156</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">03</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">50.000 bis
+62.499</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">276</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">04</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">62.500 bis
+74.999</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">396</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">05</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">75.000 bis
+87.499</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">540</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">06</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">87.500 bis
+99.999</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">696</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">07</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">100.000
+bis 124.999</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">840</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">08</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">125.000
+bis 149.999</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">1.200</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">09</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">150.000
+bis 174.999</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">1.560</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">10</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">175.000
+bis 199.999</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">1.860</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">11</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">200.000
+bis 249.999</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">2.220</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a align="zentriert">12</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">250.000
+bis 299.999</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">2.940</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a align="zentriert">13</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">300.000
+und mehr</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">3.600</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>*Dabei ist zu beachten, dass gemäß § 2 Abs. 2 Satz 1 HKiStG
+für die Ermittlung des Kirchgelds in glaubensverschiedener Ehe §
+51a EStG in der jeweils geltenden Fassung anzuwenden ist. D.h. bei
+der Ermittlung des maßgeblichen zu versteuernden Einkommens werden
+Kinder- und Betreuungsfreibeträge stets mit den Jahresbeträgen berücksichtigt
+und das Halbeinkünfteverfahren ist nicht anzuwenden.</lxbase:a><lxbase:a>Wegen näherer Ausführungen zum besonderen Kirchgeld, siehe
+Tz. 10.6.3.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600015">8 Kirchensteuer auf Kapitalertragsteuer
+(Abgeltungsteuer) ab 2009</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523554600016">8.1 Allgemeines</lxbase:ueberschrift><lxbase:a>Die Besteuerung von - im Privatvermögen erzielten - Kapitalerträgen
+(Zinsen, Dividenden, Veräußerungsgewinnen etc.) wurde durch die
+Einführung der sog. Abgeltungsteuer im Kalenderjahr 2009 neu geordnet.</lxbase:a><lxbase:a>Wie bisher sind die Kapitalerträge Einkünfte, die der
+Einkommensteuer und damit der Kirchensteuer unterliegen. Die auszahlende
+Stelle behält von den Kapitalerträgen 25 % Kapitalertragsteuer ein.
+Hierauf wird - neben dem Solidaritätszuschlag - auch die Kirchensteuer
+(in Hessen: 9 %) erhoben.</lxbase:a><lxbase:a>Die Rechtsgrundlagen für den Kirchensteuereinbehalt befinden
+sich in den an die Abgeltungsteuer angepassten Kirchensteuergesetzen
+der Länder und den Kirchensteuerordnungen und Kirchensteuerbeschlüssen
+der steuererhebenden Religionsgemeinschaften; zentrale Vorschrift
+im EStG ist § 51a Abs. 2b, Abs. 2c und Abs. 2d. Die Erhebung der
+Kirchensteuer als Zuschlag zur Kapitalertragsteuer setzt allerdings voraus,
+dass die jeweilige Religionsgemeinschaft dies beantragt hat (§ 9
+Abs. 3 HKiStG).</lxbase:a><lxbase:a>Auf Antrag kann auch von Kirchen außerhalb des Landes
+Hessen die Einziehung der Kirchensteuer im Verfahren des Kapitalertragsteuerabzugs
+für Kapitalgläubiger bestimmt werden, die ihren Wohnsitz oder gewöhnlichen
+Aufenthalt nicht in Hessen haben, aber Kapitalerträge von einem
+Abzugsverpflichteten im Lande Hessen erhalten (§ 10 HKiStG). Die
+in einem Zuschlag zur Kapitalertragsteuer bestehende Kirchensteuer
+ist mit dem im Land des Wohnsitzes des Kapitalgläubigers geltenden Kirchensteuersatz
+einzubehalten und an das für die Betriebsstätte zuständige Finanzamt
+abzuführen (§ 7 Abs. 3 KiStDV).</lxbase:a><lxbase:a>Die Religionsgemeinschaften, die einen Antrag auf Erhebung
+der Kirchensteuer als Zuschlag zur Kapitalertragsteuer gestellt
+haben, ergeben sich aus der Anlage 3. Damit ist für alle in der
+"Kapitalertragsteuer-Anmeldung" aufgelisteten Kirchen und Religionsgemeinschaften
+die Kirchensteuer als Zuschlag zur Kapitalertragsteuer einzubehalten.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600017">8.2 Einbehalt
+der Kirchensteuer auf Abgeltungsteuer bis einschließlich 2014</lxbase:ueberschrift><lxbase:a>Für den Einbehalt der Kirchensteuer teilt das Kirchenmitglied
+dem Kreditinstitut seine Religionszugehörigkeit mit, sodass die
+Bank die Kirchensteuer als Zuschlag zur Kapitalertragsteuer gleich
+mit einbehalten kann. Für den Steuerpflichtigen besteht hierfür
+bis einschließlich Kalenderjahr 2014 noch ein Wahlrecht. Der Antrag
+kann nicht auf Teilbeträge des Kapitalertrags eingeschränkt oder
+rückwirkend widerrufen werden. Sind an den Kapitalerträgen mehrere
+Personen beteiligt, kann der Antrag zum Quellenabzug nur gestellt
+werden, wenn es sich um Ehegatten handelt oder alle Beteiligten
+derselben Religionsgemeinschaft (mit demselben Kirchensteuersatz) angehören.
+Sind an den Kapitalerträgen Ehegatten beteiligt, haben diese für
+den Antrag übereinstimmend zu erklären, in welchem Verhältnis der
+auf jeden Ehegatten entfallende Anteil der Kapitalerträge zu diesen
+Erträgen steht. Die Kapitalerträge sind entsprechend diesem Verhältnis
+aufzuteilen und die Kirchensteuer ist einzubehalten, soweit ein
+Anteil einem kirchensteuerpflichtigen Ehegatten zuzuordnen ist. Wird
+das Verhältnis nicht erklärt, wird der Anteil nach dem auf ihn entfallenden
+Kopfteil ermittelt (hälftige Aufteilung).</lxbase:a><lxbase:a>Teilt das Kirchenmitglied gegenüber seiner Bank die Religionszugehörigkeit
+nicht mit, müssen die Kapitalerträge zur Festsetzung der Kirchensteuer
+im Rahmen der Einkommensteuererklärung angeben werden. In beiden
+Fällen kommt bei der Ermittlung der Bemessungsgrundlage für die
+Kirchensteuer auf Kapitalerträge der in § 32d Abs. 1 Satz 3 und
+4 EStG geregelte ermäßigte Einkommensteuersatz zur Anwendung, der
+die Wirkung des Sonderausgabenabzugs für die Kirchensteuer bereits
+mit berücksichtigt.</lxbase:a><lxbase:a>Eine Veranlagung kann auch vom Steuerpflichtigen beantragt
+werden, wenn die Kirchensteuer in unzutreffender Höhe erhoben wurde
+oder wenn sein individueller Einkommensteuersatz niedriger ist als
+der Abgeltungsteuersatz. Zu diesem Zweck hat der Abzugsverpflichtete
+dem Steuerpflichtigen auf dessen Verlangen eine Bescheinigung über
+die einbehaltene Kapitalertragsteuer zu erteilen (§ 51a Abs. 2d
+Satz 2 EStG).</lxbase:a><lxbase:a>Die Regelung der Zwölftelung findet beim Kirchensteuerabzug
+durch die auszahlenden Stellen keine Anwendung. Sie werden - soweit
+zulässig - berücksichtigt, sofern die Kapitaleinkünfte veranlagt
+werden (§ 51a Abs. 2d S. 1 i. V. m. § 32d Abs. 3 ff. EStG).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600018">8.3 Einbehalt
+der Kirchensteuer auf Abgeltungsteuer ab 2015</lxbase:ueberschrift><lxbase:a>Ab dem 1. Januar 2015 erfolgt der Einbehalt für die steuererhebende
+Religionsgemeinschaft automatisch, ohne dass der Kirchensteuerpflichtige
+dazu tätig werden muss. Dazu fragen alle (z. B. Kreditinstitute,
+Versicherungen) einmal jährlich beim Bundeszentralamt für Steuern
+(BZSt) die Religionszugehörigkeit aller Kunden, Versicherten oder
+Anteilseigner ab, § 51a Abs. 2c EStG.</lxbase:a><lxbase:a>Jeder Bürger kann unter Angabe seiner Steueridentifikationsnummer
+(IdNr.) schriftlich beim BZSt dem automatisierten Datenabruf der
+Religionszugehörigkeit widersprechen. An die zum Steuerabzug vom
+Kapitalertrag verpflichteten Stellen werden dann aufgrund dieses
+Sperrvermerks keine Daten zur Religionszugehörigkeit des Kunden
+übermittelt. An den kirchensteuerlichen Verpflichtungen ändert der
+Sperrvermerk jedoch nichts; es unterbleibt lediglich der Abzug direkt
+an der Quelle. Das BZSt ist gehalten, bei eingelegtem Sperrvermerk
+Namen und Anschrift der anfragenden Kreditinstitute, Banken, Versicherungen,
+etc. an das zuständige Finanzamt des Steuerpflichtigen weiter zu
+reichen. Die Erklärung des Widerspruchs muss gegenüber dem BZSt
+auf amtlich vorgeschriebenem Vordruck oder elektronisch über das BZStOnline-Portal
+erfolgen. Der ausgefüllte und unterschriebene Vordruck "Erklärung
+zum Sperrvermerk" muss auf dem Postweg an das BZSt geschickt werden.
+Die Erklärung erfolgt unter Angabe der Steueridentifikationsnummer.
+Der Sperrvermerk gilt bis auf Widerruf, § 51a Abs. 2e EStG.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600019">8.4 Sonderausgabenabzug</lxbase:ueberschrift><lxbase:a>Nach § 10 Abs. 1 Nr. 4 EStG kann der Steuerpflichtige
+die im Kalenderjahr tatsächlich gezahlte Kirchensteuer im Rahmen
+der Veranlagung als Sonderausgabe geltend machen. Die Kapitalertragsteuer
+wird grundsätzlich (Veranlagungswahlrecht in § 32d Abs. 4 und 6
+EStG) abgeltend an der Quelle mit einem Steuersatz von 25 % erhoben (§
+32d Abs. 1 EStG). Nach § 32d Abs. 1 Satz 3 und 4 EStG wird der Sonderausgabenabzug
+in die Kapitalertragsteuer "eingepreist", d.h. die steuermindernde
+Wirkung des Sonderausgabenabzugs für die Kirchensteuer ist in der
+Formel des § 32d Abs. 1 Satz 4 EStG gleich mit berücksichtigt. Die
+Kapitalertragsteuer ermäßigt sich dabei um 25 % der auf die Kapitalerträge
+entfallenden Kirchensteuer.</lxbase:a><lxbase:a>Für die im Rahmen des Steuerabzugs erhobene Kirchensteuer
+scheidet daher - vorbehaltlich § 32d Abs. 2 und 6 EStG - ein Sonderausgabenabzug
+aus (§ 10 Abs. 1 Nr. 4 2. HS EStG).</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600020">9 Lohnsteuerabzugsverfahren</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523554600021">9.1 Allgemeines</lxbase:ueberschrift><lxbase:a>Bis zur Abschaffung der Lohnsteuerkarte waren auf der
+Vorderseite bei "Kirchensteuerabzug" die Religionsgemeinschaften
+(Kirchen, Religions- und Weltanschauungsgemeinschaften) einzutragen,
+denen der Arbeitnehmer und bei konfessionsverschiedener Ehe auch
+sein Ehegatte angehören, soweit die Religionsgemeinschaften die
+Erhebung den Finanzbehörden übertragen haben. Die (Papier-) Lohnsteuerkarte
+wird seit 2013 durch elektronische Lohnsteuerabzugsmerkmale (ELStAM)
+ersetzt. Die Lohnsteuerabzugsmerkmale beinhalten auch die für den
+Kirchensteuerabzug erforderlichen Merkmale (§ 39e Abs. 3 Satz 1
+EStG). Die Daten zur Zugehörigkeit zu einer steuererhebenden Religionsgemeinschaft
+werden durch die Meldebehörde gepflegt. Das Finanzamt ist an die
+Entscheidung der Meldebehörde insoweit gebunden, § 39e Abs. 2 EStG.</lxbase:a><lxbase:a>In der ELStAM-Datenbank ist für jeden Arbeitnehmer gespeichert,
+ob eine Zugehörigkeit zu einer steuererhebenden Religionsgemeinschaft
+besteht. Die entsprechende Religionsgemeinschaft ist ebenfalls gespeichert,
+sodass die Kirchensteuer im Lohnsteuerabzugsverfahren einbehalten
+werden kann.</lxbase:a><lxbase:a>Religionsschlüssel der in Hessen hebeberechtigten Religionsgemeinschaften:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="12*" /><cals:colspec colnum="2" colname="2" colwidth="88*" /><cals:thead><cals:row rowsep="1"><cals:entry colsep="0" colname="1"><lxbase:a>ev</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>für evangelisch, protestantisch,
+evangelisch-lutherisch, evangelisch-reformiert und französisch-reformiert,
+in anderen Bundesländern wird auch die Abkürzung "rf" (reformiert)
+oder "fr" verwandt,</lxbase:a></cals:entry></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>rk</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>für römisch-katholisch,</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>ak</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>für altkatholisch,</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>fm</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>für Freireligiöse
+Gemeinde Mainz,</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>fs</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>für Freireligiöse
+Gemeinde Offenbach,</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>is</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>für Mitglieder
+der Jüdischen Gemeinde Frankfurt am Main,</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>il</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>für Mitglieder
+der kultussteuerberechtigten jüdischen Gemeinden im Landesverband
+Hessen: Bad Nauheim, Darmstadt, Gießen, Fulda, Kassel und Offenbach</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>--</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>für keiner steuerberechtigten
+Kirche angehörend.</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Andere Abkürzungen dürfen nicht verwendet werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600022">9.2 Berücksichtigung
+von Kindern im Sinne des § 32 EStG</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523554600023">9.2.1
+Besteuerung des laufenden Arbeitslohns</lxbase:ueberschrift><lxbase:a>Bei der Berechnung der vom laufenden Arbeitslohn einzubehaltenden
+Lohnsteuer werden keine Kinder- oder Betreuungsfreibeträge mehr
+abgezogen. Für Zwecke der Kirchensteuer ist deshalb zunächst unter
+Berücksichtigung aller in Betracht kommenden Kinder- und Betreuungsfreibeträge
+eine fiktive Lohnsteuer (Maßstabslohnsteuer) zu ermitteln, die dann
+die Bemessungsgrundlage für die Kirchensteuer darstellt. Maßgeblich
+für die Höhe der zu gewährenden Freibeträge ist die eingetragene
+Lohnsteuerklasse (§ 51a Abs. 2a EStG). Dabei ist zu beachten, dass
+bei der Lohnsteuerklasse I, II, III die doppelten Kinder- und Betreuungsfreibeträge
+berücksichtigt werden und bei der Lohnsteuerklasse IV die einfachen
+Beträge. Bei der Lohnsteuerklasse V werden weder Kinder- noch Betreuungsfreibeträge
+berücksichtigt.</lxbase:a><lxbase:a>Zusätzlich kommen keine kinderbezogenen Abzugsbeträge
+in Betracht.</lxbase:a><lxbase:a>Für die Ermittlung der Maßstabslohnsteuer ist die in der
+ELStAM-Datenbank eingetragene Zahl der Kinderfreibeträge maßgebend.
+Die Kinder- und Betreuungsfreibeträge werden insoweit - unabhängig
+von der Dauer des Berücksichtigungszeitraums - mit dem vollen Jahresfreibetrag
+berücksichtigt.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600024">9.2.2
+Besteuerung sonstiger Bezüge</lxbase:ueberschrift><lxbase:a>Handelt es sich um die Besteuerung eines sonstigen Bezugs,
+so ist die Kirchensteuer von der auf den sonstigen Bezug entfallenden
+Lohnsteuer zu berechnen. Eine Minderung dieser Lohnsteuer um Kinder-
+und Betreuungsfreibeträge bzw. kinderbezogene Kürzungsbeträge ist
+nicht zulässig.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600025">9.3 Berechnung
+der Kirchensteuer nach Centbeträgen / Mindestbeträge</lxbase:ueberschrift><lxbase:a>Die Kirchensteuer ist auf den Cent genau zu berechnen,
+Bruchteile von Cents bleiben unberücksichtigt (§ 5 KiStDV).</lxbase:a><lxbase:a>Lohnzahlungszeiträume bis 31.12.2013:</lxbase:a><lxbase:a>Fällt nach Berücksichtigung der Kinder- und Betreuungsfreibeträge
+gem. § 51a Abs. 2a EStG keine Lohnsteuer an, ist auch kein Mindestbetrag
+an Kirchensteuer zu erheben (§ 6 Abs. 2 KiStDV).</lxbase:a><lxbase:a>Fällt Lohnsteuer an, beträgt die Mindestkirchensteuer
+bei Lohnzahlungszeiträumen vor dem 01.01.2014 jährlich 1,80 €, monatlich
+0,15 €, wöchentlich 0,04 €, und täglich 0,01 € (§ 6 Abs. 1 KiStDV).</lxbase:a><lxbase:a>Lohnzahlungszeiträume ab 01.01.2014:</lxbase:a><lxbase:a>Bei Lohnzahlungszeiträumen, die nach dem 31.12.2013 enden,
+werden Mindestbeträge nicht mehr erhoben, § 2 Abs. 2 HKiStG n.F.
+§ 6 KiStDV ist entfallen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600026">9.4 Kirchensteuer
+in konfessionsverschiedener Ehe</lxbase:ueberschrift><lxbase:a>Gehören der Arbeitnehmer und sein Ehegatte verschiedenen
+steuerberechtigten Kirchen an (konfessionsverschiedene Ehe) und
+sind nicht in die Steuerklasse I oder II einzureihen, wird die Kirchensteuer
+für jede der beiden beteiligten Kirchen als Zuschlag zur Hälfte
+der Lohnsteuer erhoben (§ 3 Abs. 1 Satz 2 HKiStG n.F., sog. Halbteilungsgrundsatz).
+In seiner Entscheidung vom 20.04.1966 hat das BVerfG den sog. Halbteilungsgrundsatz
+in diesen Fällen für verfassungsgemäß erklärt (BverfGE 20; 40).
+Bei Lohnzahlungszeiträumen, die noch vor dem 01.01.2014 enden, ist
+als Mindestbetrag für jede der beiden Kirchen die Hälfte der Mindestbeträge
+einzubehalten. Die Mindestbeträge entfallen ab 2014.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="27*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:colspec colnum="3" colname="3" colwidth="18*" /><cals:colspec colnum="4" colname="4" colwidth="18*" /><cals:colspec colnum="5" colname="5" colwidth="18*" /><cals:thead><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry nameend="3" namest="2"><lxbase:a><lxbase:fett>Ehemann
+rk</lxbase:fett></lxbase:a></cals:entry><cals:entry nameend="5" namest="4"><lxbase:a><lxbase:fett>Ehefrau
+ev</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Lohnsteuerklasse</lxbase:a></cals:entry><cals:entry nameend="3" namest="2"><lxbase:a>III</lxbase:a></cals:entry><cals:entry nameend="5" namest="4"><lxbase:a>IV</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Bruttomonatslohn</lxbase:a></cals:entry><cals:entry nameend="3" namest="2"><lxbase:a align="rechts">4.500,00
+€</lxbase:a></cals:entry><cals:entry nameend="5" namest="4"><lxbase:a align="rechts">2.500,00
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Lohnsteuer</lxbase:a></cals:entry><cals:entry nameend="3" namest="2"><lxbase:a align="rechts">649,16
+€</lxbase:a></cals:entry><cals:entry nameend="5" namest="4"><lxbase:a align="rechts">755,25
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Kirchensteuer</lxbase:a></cals:entry><cals:entry nameend="3" namest="2"><lxbase:a align="rechts">58,42
+€</lxbase:a></cals:entry><cals:entry nameend="5" namest="4"><lxbase:a align="rechts">67,97
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Hälftiger Betrag</lxbase:a></cals:entry><cals:entry nameend="3" namest="2"><lxbase:a align="rechts">29,21
+€</lxbase:a></cals:entry><cals:entry nameend="5" namest="4"><lxbase:a align="rechts">33,98
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Arbeitgeber führt ab</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>rk</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>ev</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>rk</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>ev</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a align="rechts">29,21 €</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">29,21 €</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="rechts">33,98 €</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="rechts">33,98 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600027">9.5 Kirchensteuer
+in glaubensverschiedener Ehe</lxbase:ueberschrift><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="38*" /><cals:colspec colnum="2" colname="2" colwidth="31*" /><cals:colspec colnum="3" colname="3" colwidth="31*" /><cals:thead><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a><lxbase:fett>Ehemann rk</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Ehefrau --</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Lohnsteuerklasse</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>III</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>V</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Bruttomonatslohn</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">4.500,00 €</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">---</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Lohnsteuer</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">649,16 €</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">---</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Kirchensteuer</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">58,42 €</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">---</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Arbeitgeber führt ab</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>rk</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">---</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a align="rechts">58,42 €</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">---</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel><lxbase:a>Gehört nur der Ehegatte des Arbeitnehmers einer steuerberechtigten
+Kirche an, so ist für den Arbeitnehmer keine Kirchensteuer einzubehalten.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="38*" /><cals:colspec colnum="2" colname="2" colwidth="31*" /><cals:colspec colnum="3" colname="3" colwidth="31*" /><cals:thead><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a><lxbase:fett>Ehemann --</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Ehefrau rk</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Lohnsteuerklasse</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>III</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>V</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Bruttomonatslohn</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">4.500,00 €</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">---</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Lohnsteuer</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">649,16 €</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">---</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Kirchensteuer</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">---</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">---</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Arbeitgeber führt ab</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">---</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">---</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600028">9.6 Ende
+der Kirchensteuerpflicht</lxbase:ueberschrift><lxbase:a>Das Ende der Kirchensteuerpflicht (geregelt in § 5 Abs.
+3 HKiStG n.F.) wird von der Meldebehörde in die ELStAM-Datenbank
+eingepflegt und dadurch dem Arbeitgeber im Rahmen einer Änderungsliste
+im ELStAM-Verfahren zum Abruf bereitgestellt, §§ 39 Abs. 1 Satz
+3, 39e Abs.2 EStG. Wird das Ende der Kirchensteuerpflicht im ELStAM-Verfahren
+nicht zutreffend abgebildet, kann der Arbeitgeber den Lohnsteuereinbehalt
+abweichend von den zum Abruf bereitgestellten ELStAM vornehmen, wenn
+ihm der Arbeitnehmer eine Bescheinigung für den Lohnsteuerabzug
+(Ersatzverfahren nach den §§ 39 Abs. 1 Satz 2 und 3, 39e Abs. 8
+EStG) vorlegt (siehe hierzu auch ofix: EStG/39e/40).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600029">9.7 Kontrolle
+durch die Lohnsteuer-Außenprüfung</lxbase:ueberschrift><lxbase:a>Die Lohnsteuer-Außenprüfer haben bei Außenprüfungen und
+Lohnsteuer-Nachschauen darauf zu achten, dass die Arbeitgeber dem
+Finanzamt die einbehaltenen Kirchensteuern entsprechend der abgerufenen
+ELStAM getrennt für die einzelnen Kirchen anmelden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600030">9.8 Kirchensteuer
+in Pauschalierungsfällen</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523554600031">9.8.1
+Allgemeines</lxbase:ueberschrift><lxbase:a>Ein Arbeitgeber hat - vorwiegend aus Vereinfachungsgründen
+- beim Lohnsteuerabzug für bestimmte Lohnbestandteile und im Niedriglohnbereich
+die Möglichkeit zur Pauschalversteuerung mit Abgeltungswirkung beim
+Lohnempfänger. Die Steuersätze sind weitgehend mit festen Prozentsätzen
+vorgegeben und für eine Fallgruppe zu ermitteln.</lxbase:a><lxbase:a>Der Charakterisierung der pauschalen Lohnsteuer als Unternehmersteuer
+eigener Art (BFH-Urteil vom 05.11.1982, <lxprod:doknr-verw linkend="HT0060118">BStBl II 1983, 91</lxprod:doknr-verw>) steht
+eine Erhebung der Kirchensteuer im Falle der Pauschalierung der
+Lohnsteuer nicht entgegen. Zwar ist die pauschale Lohnsteuer formell
+eine alleinige Steuerschuld des Arbeitgebers; materiell-rechtlich
+bleibt die pauschale Lohnsteuer jedoch eine Steuer des Arbeitnehmers. Der
+Arbeitgeber "übernimmt" dem Grunde nach nur die in der Person des
+Arbeitnehmers verwirklichte Steuerschuld (BFH-Urteil vom 30.11.1989,
+<lxprod:doknr-verw linkend="HT0091540">BStBl II 1990, 993</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Tatbestandsvoraussetzung für die Erhebung der Kirchensteuer
+ist auch in den Fällen der Pauschalierung der Lohnsteuer die Mitgliedschaft
+des Arbeitnehmers in einer kirchensteuererhebenden Körperschaft.
+Dem wird dadurch Rechnung getragen, dass die Kirchensteuer im Falle
+der Pauschalierung der Lohnsteuer an die pauschale Lohnsteuer als
+Maßstabsteuer anknüpft. Bemessungsgrundlage für die Kirchensteuer
+ist die pauschale Lohnsteuer, die auf den kirchensteuerpflichtigen
+Arbeitnehmer entfällt.</lxbase:a><lxbase:a>Der Antrag des Arbeitgebers auf Pauschalierung der Lohnsteuer
+zieht grundsätzlich die entsprechende Pauschalierung der Kirchensteuer
+nach sich (vgl. BFH-Urteil vom 05.11.1982, <lxprod:doknr-verw linkend="HT0060118">BStBl II 1983, 91</lxprod:doknr-verw>). Die
+Kirchensteuer knüpft nämlich nicht nur der Bemessungsgrundlage nach,
+sondern auch der Erhebungsform nach an die Lohnsteuer an. Der Antrag
+auf Pauschalierung kann demnach nicht auf die Lohnsteuer beschränkt
+werden. Bezüglich der Kirchensteuer besteht kein eigenes Antragsrecht (vgl.
+BFH-Urteil vom 07.12.1994, <lxprod:doknr-verw linkend="HT0126616">BStBl II 1995, 507</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600032">9.8.2
+Erhebung der Kirchensteuer</lxbase:ueberschrift><lxbase:a>In den Fällen der Pauschalierung der Lohnsteuer nach Maßgabe
+der § 40, § 40a Abs. 1, 2a und 3 und § 40b EStG kann der Arbeitgeber
+bei der Erhebung der Kirchensteuer zwischen einem vereinfachten
+Verfahren und einem Nachweisverfahren wählen. Diese Wahl kann der
+Arbeitgeber sowohl für jeden Lohnsteuer-Anmeldungszeitraum als auch
+für die jeweils angewandte Pauschalierungsvorschrift und darüber
+hinaus für die in den einzelnen Rechtsvorschriften aufgeführten
+Pauschalierungstatbestände unterschiedlich treffen, vgl. HMdF-Erlass
+vom 23.10.2012, <lxprod:doknr-verw linkend="HT5234247">BStBl I 2012, 1083</lxprod:doknr-verw>. Im Einzelnen gilt Folgendes:</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D523554600033">9.8.2.1
+Vereinfachtes Verfahren</lxbase:ueberschrift><lxbase:a>Entscheidet sich der Arbeitgeber für die Vereinfachungsregelung,
+hat er in allen Fällen der Pauschalierung der Lohnsteuer für sämtliche
+Arbeitnehmer Kirchensteuer zu entrichten. Dabei ist ein <lxbase:fett>ermäßigter</lxbase:fett> Steuersatz
+(in Hessen 7 %) anzuwenden, der in pauschaler Weise dem Umstand
+Rechnung trägt, dass nicht alle Arbeitnehmer Angehörige einer steuererhebenden
+Religionsgemeinschaft sind. Die im vereinfachten Verfahren ermittelten
+Kirchensteuern sind in der Lohnsteuer-Anmeldung bei Kennzahl 47
+gesondert anzugeben. Die Aufteilung auf die steuererhebenden Religionsgemeinschaften
+wird von der Finanzverwaltung übernommen.</lxbase:a><lxbase:a>Die Aufteilungssätze richten sich nach dem Verhältnis
+der in Hessen der einen oder anderen Konfession angehörenden Kirchenmitglieder
+und sind wie folgt auf die verschiedenen Konfessionen aufzuteilen:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="30*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:colspec colnum="3" colname="3" colwidth="18*" /><cals:colspec colnum="4" colname="4" colwidth="18*" /><cals:colspec colnum="5" colname="5" colwidth="17*" /><cals:thead><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Kirche, Religions- oder
+Weltanschauungsgemeinschaft</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a><lxbase:fett>Kalenderjahr 2012</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>%</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a><lxbase:fett>Kalenderjahr 2013</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>%</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a><lxbase:fett>Kalenderjahr 2014</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>%</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a><lxbase:fett>Kalenderjahr 2015</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>%</lxbase:fett></lxbase:a></cals:entry></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ev</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">54,6886</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">54,7985</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="rechts">54,8105</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="rechts">54,9424</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>rk</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">45,1143</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">45,0077</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="rechts">44,9955</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="rechts">44,8690</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ak</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">0,0263</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">0,0289</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="rechts">0,0293</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="rechts">0,0286</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>fs</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">0,0174</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">0,0141</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="rechts">0,0143</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="rechts">0,0136</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>fm</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">0,0030</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">0,0033</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="rechts">0,0030</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="rechts">0,0028</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>is</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">0,1288</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">0,1255</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="rechts">0,1257</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="rechts">0,1202</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>il</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">0,0216</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">0,0220</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="rechts">0,0217</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="rechts">0,0234</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600034">9.8.2.2
+Nachweisverfahren</lxbase:ueberschrift><lxbase:a>Macht der Arbeitgeber Gebrauch von der ihm zustehenden
+Nachweismöglichkeit, dass einzelne Arbeitnehmer keiner steuererhebenden
+Religionsgemeinschaft angehören, kann er hinsichtlich dieser Arbeitnehmer
+von der Entrichtung der auf die pauschale Lohnsteuer entfallenden
+Kirchensteuer absehen; für die übrigen Arbeitnehmer gilt der allgemeine
+Kirchensteuersatz.</lxbase:a><lxbase:a>Als Beleg für die Nichtzugehörigkeit zu einer steuererhebenden
+Religionsgemeinschaft dienen in den Fällen des § 40 und § 40b EStG
+grundsätzlich die vom Arbeitgeber abgerufenen elektronischen Lohnsteuerabzugsmerkmale
+(ELStAM) oder ein Vermerk des Arbeitgebers, dass der Arbeitnehmer
+seine Nichtzugehörigkeit zu einer steuererhebenden Religionsgemeinschaft
+mit der vom Finanzamt ersatzweise ausgestellten Bescheinigung für
+den Lohnsteuerabzug (Ersatzverfahren nach den §§ 39 Abs. 1 Satz
+2 und 3, 39e Abs. 8 EStG) nachgewiesen hat. Liegen dem Arbeitgeber diese
+amtlichen Nachweise nicht vor, bedarf es zumindest einer schriftlichen
+Erklärung des Arbeitnehmers nach beigefügtem <lxbase:unterst>Muster</lxbase:unterst>;
+in den Fällen des § 40a Abs. 1, 2a und 3 EStG genügt als Nachweis
+eine Erklärung nach beigefügtem <lxbase:unterst>Muster</lxbase:unterst>.</lxbase:a><lxbase:a>Der Nachweis über die fehlende Kirchensteuerpflicht des
+Arbeitnehmers muss vom Arbeitgeber als Beleg zum Lohnkonto aufbewahrt
+werden.</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>Die auf die kirchensteuerpflichtigen
+Arbeitnehmer entfallende pauschale Lohnsteuer hat der Arbeitgeber
+anhand des in den Lohnkonten aufzuzeichnenden Religionsbekenntnisses
+zu ermitteln; führt der Arbeitgeber ein Sammelkonto (§ 4 Abs. 2
+Nr. 8 Satz 2 LStDV) oder in den Fällen des § 40a EStG entsprechende
+Aufzeichnungen, hat er dort das Religionsbekenntnis der betroffenen
+Arbeitnehmer anzugeben.</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>Kann der Arbeitgeber die
+auf den einzelnen kirchensteuerpflichtigen Arbeitnehmer entfallendepauschale
+Lohnsteuer nicht ermitteln, kann er aus Vereinfachungsgründen die
+gesamte pauschale Lohnsteuer im Verhältnis der kirchensteuerpflichtigen
+zu den nicht kirchensteuerpflichtigen Arbeitnehmern aufteilen; der
+auf die kirchensteuerpflichtigen Arbeitnehmer entfallende Anteil
+ist Bemessungsgrundlage für die Anwendung des <lxbase:fett>allgemeinen</lxbase:fett> Kirchensteuersatzes.
+Die so ermittelte Kirchensteuer ist im Verhältnis der Konfessions-
+bzw. Religionszugehörigkeit der kirchensteuerpflichtigen Arbeitnehmer
+aufzuteilen. Die im Nachweisverfahren ermittelten Kirchensteuern
+sind in der Lohnsteuer-Anmeldung unter der jeweiligen Kirchensteuer-Kennzahl
+(z. B. 61, 62) anzugeben.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600035">9.8.3
+Pauschalierung der Einkommensteuer bei Sachzuwendungen (§ 37b EStG)</lxbase:ueberschrift><lxbase:a>Steuerpflichtige, die Sachzuwendungen nach Maßgabe des
+§ 37b EStG gewähren, können die darauf entfallende Einkommensteuer
+mit einem Pauschsteuersatz von 30 % abgeltend erheben. Die pauschale
+Einkommensteuer gilt als Lohnsteuer und ist von dem die Sachzuwendung
+gewährenden Steuerpflichtigen in der Lohnsteuer-Anmeldung anzugeben
+und an das Betriebsstättenfinanzamt abzuführen. In gleicher Weise
+ist auch hinsichtlich der zu entrichtenden Kirchensteuer zu verfahren.
+Bei der Erhebung der Kirchensteuer kann der Steuerpflichtige ebenfalls
+zwischen dem vereinfachten Verfahren (Tz. 9.8.2.1) und dem Nachweisverfahren
+(Tz. 9.8.2.2) wählen, HMdF-Erlass vom 28.12.2006, <lxprod:doknr-verw linkend="HT5230493">BStBl I 2007,
+76</lxprod:doknr-verw>.</lxbase:a><lxbase:a>Macht der Steuerpflichtige Gebrauch von der ihm zustehenden
+Nachweismöglichkeit, dass einzelne Empfänger keiner steuererhebenden
+Religionsgemeinschaft angehören, genügt als Nachweis über das Religionsbekenntnis
+bzw. die Nichtzugehörigkeit zu einer steuererhebenden Religionsgemeinschaft
+eine Erklärung nach beigefügtem Muster. Die Erklärung des Empfängers
+muss vom Steuerpflichtigen aufbewahrt werden. Bei Arbeitnehmern
+des Steuerpflichtigen ergibt sich die Religionszugehörigkeit anhand
+der abgerufenen elektronischen Lohnsteuerabzugsmerkmale (ELStAM)
+oder einer vom Finanzamt ersatzweise ausgestellten Bescheinigung
+für den Lohnsteuerabzug (Ersatzverfahren nach den §§ 39 Abs. 1 Satz
+2 und 3, 39e Abs. 8 EStG).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600036">9.8.4
+Kirchensteuersatz in Pauschalierungsfällen (§§ 40, 40a Abs. 1, 2a
+und 3, 40b und 37b EStG)</lxbase:ueberschrift><lxbase:a>Die Höhe der Kirchensteuersätze ergibt sich sowohl bei
+Anwendung der Vereinfachungsregelung (Tz. 9.8.2.1) als auch im Nachweisverfahren
+(Tz. 9.8.2.2) aus den Steuerbeschlüssen der steuererhebenden Religionsgemeinschaften.
+Die in den jeweiligen Ländern geltenden Regelungen werden für jedes
+Kalenderjahr im Bundessteuerblatt Teil I veröffentlicht.</lxbase:a><lxbase:a>Der ermäßigte Kirchensteuersatz (im vereinfachten Verfahren)
+beträgt in Hessen einheitlich 7 %. Der allgemeine Kirchensteuersatz
+(im Nachweisverfahren) beläuft sich in Hessen auf 9 %.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600037">9.8.5
+Einheitliche Pauschsteuer (2 %) bei sog. Minijobs</lxbase:ueberschrift><lxbase:a>Nach § 40a Abs. 2 EStG kann der Arbeitgeber unter Verzicht
+auf den Abruf von elektronischen Lohnsteuerabzugsmerkmalen (ELStAM)
+die Lohnsteuer einschließlich Solidaritätszuschlag und Kirchensteuern
+(einheitliche Pauschsteuer) für das Arbeitsentgelt aus geringfügigen
+Beschäftigungen i. S. d. § 8 Abs. 1 Nr. 1 oder des § 8a des Vierten
+Sozialgesetzbuches, für das er Beiträge nach § 168 Abs. 1 Nr. 1b
+oder 1c (geringfügig versicherungspflichtig Beschäftigte) oder nach
+§ 172 Abs. 3 oder 3a (versicherungsfrei oder von der Versicherungspflicht
+befreite geringfügig Beschäftigte)	 oder nach § 276a Abs. 1 (versicherungsfrei
+geringfügig Beschäftigte) des Sechsten Sozialgesetzbuches zu entrichten
+hat, mit einem einheitlichen Pauschsteuersatz i. H. v. insgesamt
+2 % des Arbeitsentgelts erheben.</lxbase:a><lxbase:a>Mit der einheitlichen Pauschalsteuer sind neben der Lohnsteuer
+auch der Solidaritätszuschlag und die Kirchensteuer abgegolten.
+Andererseits bleibt der Steuersatz mit 2 % auch dann gültig, wenn
+der Arbeitnehmer keiner erhebungsberechtigten Religionsgemeinschaft
+angehört.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600038">9.9 Betriebsstätten</lxbase:ueberschrift><lxbase:a>Die Arbeitgeber in Hessen erheben die Kirchensteuer von
+allen Arbeitnehmern, die in einer hessischen Betriebsstätte entlohnt
+werden, entsprechend den abgerufenen ELStAM mit dem für Hessen maßgeben-den
+Kirchensteuerhebesatz ohne Rücksicht darauf, ob der Arbeitnehmer
+seinen Wohnsitz oder gewöhnlichen Aufenthalt im Land Hessen oder
+in einem anderen Bundesland hat (§ 7 Abs. 1 KiStDV).</lxbase:a><lxbase:a>Die Kirchensteuer ist vom Arbeitgeber getrennt nach steuerberechtigten
+Kirchen anzumelden und abzuführen (§ 4 KiStDV n.F).</lxbase:a><lxbase:a>Die als Zuschlag zur Lohnsteuer abgeführten Kirchensteuerbeträge
+sind von dem Finanzamt an diejenige Landeskirche (Diözese) weiterzuleiten,
+in deren Bezirk die Betriebsstätte gelegen ist (§ 7 Abs. 4 KiSt-DV).</lxbase:a><lxbase:a>Die Verpflichtung des Arbeitgebers zum Abzug der Kirchenlohnsteuer
+gilt auch bei den Arbeitnehmern, die ihren Wohnsitz oder gewöhnlichen
+Aufenthalt außerhalb des Bundeslandes haben, in dem sich die lohnsteuerliche
+Betriebsstätte im Sinne des § 41 Abs. 2 EStG befindet, vorausgesetzt
+das Kirchensteuermerkmal existiert auch in dem Bundesland, in dem
+sich die Betriebsstätte befindet. Die Betriebsstätten-besteuerung
+beruht auf Gegenseitigkeitsvereinbarungen zwischen den betroffenen Kirchen.</lxbase:a><lxbase:a>Betriebsstätten, die die Lohnabrechnung für Arbeitnehmer
+durchführen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt in
+einem Bundesland haben, das einen niedrigeren Kirchensteuerhebesatz
+als Hessen hat, können, wenn ein an das für die Betriebsstätte zuständige
+Finanzamt gerichteter und durch die zuständige Kirchenbehörde genehmigter
+Antrag vorliegt, für diese Arbeitnehmer den niedrigeren Kirchensteuerhebesatz
+anwenden. Die einbehaltenen Kirchensteuern sind auch dann zusammen
+mit der Lohnsteuer dem Betriebsstättenfinanzamt anzumelden und dorthin
+abzuführen (Beispiel: Betriebsstätte in Frankfurt führt die Lohnabrechnungen
+für die Niederlassung in München durch).</lxbase:a><lxbase:a>Für Arbeitnehmer, die einer steuerhebeberechtigten Kirche,
+Religions- und Weltanschauungsgemeinschaft angehören, die jedoch
+in dem Bundesland, in dem sich die Betriebsstätte befindet, nicht
+am staatlichen Erhebungsverfahren teilnimmt, ist keine Kirchenlohnsteuer
+einzubehalten. Die Festsetzung der Kirchensteuer für diese Arbeitnehmer
+erfolgt erst im Rahmen der Einkommensteuerveranlagung.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600039">10 Veranlagungsverfahren</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523554600040">10.1 Allgemeines</lxbase:ueberschrift><lxbase:a>Maßgebend für die Festsetzung der Kirchensteuer sind die
+Angaben über die Religionszugehörigkeit in der Einkommensteuererklärung.
+Weichen die Angaben gegenüber der Erklärung des Vorjahres oder der
+ELStAM-Datenbank ab, ist die Abweichung zu klären und durch einen
+Vermerk auf der Einkommensteuererklärung aktenkundig zu machen.</lxbase:a><lxbase:a>Die Angaben zur Religionszugehörigkeit in GINSTER sind
+entsprechend richtig zu stellen.</lxbase:a><lxbase:a>Die festgesetzte Einkommensteuer entfaltet Bindungswirkung
+für die Zuschlagsteuern - hier die Kirchensteuer - nach Maßgabe
+des § 51a Abs. 2 EStG. Der Bescheid über die Festsetzung der Einkommensteuer
+ist Grundlagenbescheid für die Festsetzung der Kirchensteuer im
+Sinne des § 175 Abs. 1 Satz 1 Nr. 1 AO. Wird auf Antrag des Steuerpflichtigen
+eine Einkommensteuerveranlagung durchgeführt, ist auch der entsprechende
+Folgebescheid über die Kirchensteuer zu erlassen. Der Antrag auf Veranlagung
+kann nicht auf die Festsetzung der Einkommensteuer allein beschränkt werden,
+eine isolierte Rücknahme des Antrags hinsichtlich der Kirchensteuer
+ist nicht möglich (BMF-Schreiben vom 13.04.1992, Tz. 4.4.2, <lxprod:doknr-verw linkend="HT0105714">BStBl
+I 1992, 271</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600041">10.2 Bemessungsgrundlage
+für die Kirchensteuer im Sinne des § 2 Abs. 2 HKiStG i.V.m. § 51a
+Abs. 2 EStG</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523554600042">10.2.1
+Berücksichtigung von Kindern im Sinne des § 32 EStG</lxbase:ueberschrift><lxbase:a>§ 51a Abs. 2 EStG schreibt als Bemessungsgrundlage für
+die Kirchensteuer eine gesondert zu ermittelnde Einkommensteuer
+vor (Maßstabsteuer).</lxbase:a><lxbase:a>Kinder sind demnach abweichend von § 2 Abs. 6 EStG durch
+Anwendung der Freibeträge in allen Fällen nach § 32 EStG zu berücksichtigen
+(§ 51a Abs. 2 Satz 1 EStG). Dies bedeutet, dass die der Kirchensteuer
+zugrunde gelegte Einkommensteuer auch dann unter Berücksichtigung
+von Kinder- und Betreuungsfreibeträgen zu ermitteln ist, wenn die
+steuerliche Freistellung eines Einkommensbetrags in Höhe des Existenzminimums
+eines Kindes durch Kindergeld bewirkt wird und deshalb ein Abzug der
+Kinder- und Betreuungsfreibeträge bei der Ermittlung des zu versteuernden
+Einkommens nicht erfolgt. Die Kinder- und Betreuungsfreibeträge
+werden stets mit den Jahresbeträgen angesetzt.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600043">10.2.2
+Anwendung des Halbeinkünfteverfahrens / Teileinkünfteverfahrens</lxbase:ueberschrift><lxbase:a>Nach § 51a Abs. 2 Satz 2 EStG ist für die Ermittlung der
+Maßstabsteuer für die Kirchensteuer, im Rahmen einer Schattenveranlagung,
+das zu versteuernde Einkommen um die nach § 3 Nr. 40 EStG steuerfreien
+Beträge zu erhöhen und um die nach § 3c Abs. 2 EStG nicht abziehbaren
+Beträge zu mindern.</lxbase:a><lxbase:a>Ab 2009 ist das Halb- durch das Teileinkünfteverfahren
+abgelöst worden; Vorstehendes gilt hierfür entsprechend.</lxbase:a><lxbase:a>Dabei sind u.a. folgende Konstellationen denkbar:</lxbase:a><lxbase:a>a) 	Die festgesetzte Einkommensteuer beträgt durch die
+Anwendung des Halb- bzw. Teileinkünfteverfahrens 0,- €. Werden für
+die Berechnung der Bemessungsgrundlage der Kirchensteuer die steuerfreigestellten
+Einkünfte wieder hinzugerechnet, so kann es zu einer Überschreitung
+der Steuereingangssätze und somit zu einer eigenständigen Kirchensteuerfestsetzung
+kommen.</lxbase:a><lxbase:a>b)	 Durch die Anwendung des Halb- bzw. Teileinkünfteverfahrens
+werden Teile der Veräußerungsfreibeträge nach §§ 16 Abs. 4 EStG
+und 17 Abs. 3 EStG nicht voll ausgeschöpft. Bei der Ermittlung der
+Maßstabsteuer für die Kirchensteuer sind die nicht ausgeschöpften
+Teile der Veräußerungsfreibeträge bei der Hinzurechnung gegenzurechnen.
+Entsprechendes gilt auch bzgl. des Sparerfreibetrages nach § 20
+Abs. 4 EStG (bis einschließlich VZ 2008) bzw. des Sparerpauschbetrages
+nach § 20 Abs. 9 EStG (ab VZ 2009).</lxbase:a><lxbase:a>c) Sind die im Rahmen der Veranlagung zur Einkommensteuer
+steuerfrei belassenen Einnahmen geringer als die steuerlich nicht
+berücksichtigten Ausgaben, so ist die Maßstabsteuer geringer als
+die festgesetzte Einkommensteuer.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600044">10.2.3
+Anrechnung des Gewerbesteuermessbetrags nach § 35 EStG</lxbase:ueberschrift><lxbase:a>Nach Maßgabe des § 35 EStG wird die Gewerbesteuer auf
+die Einkommensteuer angerechnet. Die Gewerbesteueranrechnung nach
+§ 35 EStG ist gemäß § 51a Abs. 2 Satz 3 EStG bei der Berechnung
+von Zuschlagsteuern jedoch nicht zu berücksichtigen. Bei der Ermittlung
+der für die Kirchensteuer maßgebenden Einkommensteuer ist die vorgesehene
+Steuerermäßigung für gewerbliche Einkünfte mithin ausgeschlossen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600045">10.2.4
+Bemessungsgrundlage für die Kirchensteuer, wenn der Sonderausgabenabzug nach
+§ 10a EStG günstiger ist als die Altersvorsorgezulage</lxbase:ueberschrift><lxbase:a>Gemäß § 2 Abs. 6 Satz 2 EStG ist die Altersvorsorgezulage
+der tariflichen Einkommensteuer hinzuzurechnen, wenn zusätzliche
+Altersvorsorgebeiträge nach § 10a Abs. 1 EStG als Sonderausgaben
+abgezogen werden (Günstigerprüfung nach § 10a Abs. 2 EStG).</lxbase:a><lxbase:a>An die so ermittelte Einkommensteuer knüpfen die Bemessungsgrundlagen
+für den Solidaritätszuschlag (§ 3 Abs. 2 SolZG) und die Kirchensteuer
+(§ 51a Abs. 2 EStG) an. Nach diesen Vorschriften ist Bemessungsgrundlage
+die Einkommensteuer, die abweichend von § 2 Abs. 6 EStG unter Berücksichtigung
+von Freibeträgen nach § 32 Abs. 6 EStG in allen Fällen des § 32
+EStG festzusetzen wäre.</lxbase:a><lxbase:a>Diese Vorschriften sind nicht dahin zu verstehen, dass
+die Anwendung des § 2 Abs. 6 EStG völlig negiert wird. Sie beziehen
+sich vielmehr nur auf die Berücksichtigung kindbedingter Komponenten.
+Die Hinzurechnungsvorschrift für die Altersvorsorgezulage (§ 2 Abs.
+6 Satz 2 EStG) wird davon nicht berührt.</lxbase:a><lxbase:a>Dem entsprechend werden die Freibeträge für Kinder auch
+dann bei der Berechnung von Solidaritätszuschlag und Kirchensteuer
+berücksichtigt, wenn das Kindergeld günstiger ist als die Einkommensteuerersparnis
+durch die Freibeträge. Eine Hinzurechnung des Kindergeldes (§ 2
+Abs. 6 Satz 3 EStG) erfolgt nicht.</lxbase:a><lxbase:a>Die bei der maschinellen Festsetzung von Solidaritätszuschlag
+und Kirchensteuer vorgenommenen Hinzurechnungen der Altersvorsorgezulage
+erfolgen daher zu Recht.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600046">10.3 Beginn
+bzw. Ende der Kirchensteuerpflicht im Laufe des Veranlagungszeitraums -
+Zwölftelungsverfahren</lxbase:ueberschrift><lxbase:a>Besteht die Kirchensteuerpflicht nicht während des ganzen
+Kalenderjahres (vgl. § 5 Abs. 2, 3 HKiStG), wird gemäß § 5 Abs.
+4 HKiStG für jeden vollen Kalendermonat, in dem die Kirchensteuerpflicht
+gegeben ist, je ein Zwölftel des Betrages erhoben, der sich bei
+ganzjähriger Kirchensteuerpflicht als Jahressteuerschuld ergäbe.
+Dies gilt unabhängig von den Einkünften, die in der Zeit des Bestehens
+der Kirchensteuerpflicht und in der Zeit davor bzw. danach zugeflossen
+sind (Zwölftelungsverfahren). Dies gilt auch, wenn das Einkommen
+ausschließlich nach dem Kirchenaustritt erzielt wurde (vgl. FG München
+vom 01.09.1998 - <lxprod:doknr-verw linkend="HT0550223">13 K 2681/98</lxprod:doknr-verw>).</lxbase:a><lxbase:a>a) 	Die Zwölftelungsmethode gilt nicht, wenn die Dauer
+der Kirchensteuerpflicht der Dauer der Einkommensteuerpflicht entspricht
+(z. B. bei Tod im laufenden Kalenderjahr).</lxbase:a><lxbase:a>b) 	Eine Zwölftelung ist nicht vorzunehmen, wenn mit dem
+Beginn oder Ende der Kirchensteuerpflicht während des Kalenderjahres
+gleichzeitig die unbeschränkte Einkommensteuerpflicht beginnt oder
+endet, § 5 Abs. 4 Satz 2 HKiStG).</lxbase:a><lxbase:a>c) 	Die unter b) gemachten Ausführungen gelten nicht,
+wenn in den Fällen des § 2 Abs. 7 Satz 3 EStG in eine Veranlagung
+zur unbeschränkten Einkommensteuerpflicht die während der beschränkten
+Einkommensteuerpflicht erzielten inländischen Einkünfte einbezogen
+worden sind. In diesen Fällen ist das Zwölftelungsverfahren an-zuwenden.
+Dies kann sich ggf. auch zu Gunsten des Steuerpflichtigen auswirken, wenn
+z.B. die während der beschränkten Steuerpflicht erzielten inländischen
+Einkünfte negativ sind.</lxbase:a><lxbase:a>In der Rechtsprechung ist das Zwölftelungsverfahren als
+sachgerecht und rechtmäßig anerkannt (vgl. BVerwG-Urteil vom 12.02.1988,
+<lxbase:lit-fs normform="NJW-1988-1804" manuell="nein">NJW 1988, 1804</lxbase:lit-fs>; BFH-Urteil vom 15.10.1997, <lxprod:doknr-verw linkend="HT0144972">BStBl II 1998, 126</lxprod:doknr-verw>; FG
+Münster vom 17.05.1988, <lxprod:doknr-verw linkend="HT0087489">EFG 1988, 592</lxprod:doknr-verw>, Hessischer Verwaltungsgerichtshof
+vom 12.10.2012, <lxbase:az normform="5-A-1082/12" manuell="nein">Az: 5 A 1082/12</lxbase:az>.Z).</lxbase:a><lxbase:a>Das Zwölftelungsverfahren führt in der Regel zu sachgerechten
+Ergebnissen. Besonders gelagerten Ausnahmefällen (z.B. Zufluss von
+außerordentlichen Einnahmen und Gewinnen nach Ende der Kirchensteuerpflicht)
+kann von der zuständigen Kirchenbehörde im Erlassverfahren Rechnung
+getragen werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600047">10.4 Wechsel
+des Wohnsitzes oder des gewöhnlichen Aufenthalts</lxbase:ueberschrift><lxbase:a>Verlegt ein Kirchensteuerpflichtiger seinen Wohnsitz oder
+seinen gewöhnlichen Aufenthalt aus Hessen in ein anderes Land der
+Bundesrepublik oder aus einem anderen Bundesland nach Hessen, so
+scheidet der Kirchensteuerpflichtige in der Regel mit Ablauf des
+Monats, in dem der Wohnsitzwechsel oder der Wechsel des gewöhnlichen Aufenthalts
+erfolgt, aus der Kirchensteuerpflicht bei der bisher steuerberechtigten Kirche
+aus und tritt von diesem Zeitpunkt an in die Kirchensteuerpflicht
+bei der neu zuständig gewordenen Kirche ein (§ 5 Abs. 2 und Abs.
+3 Nr. 2 HKiStG). Nach den in Betracht kommenden kirchensteuerlichen
+Regelungen kann in diesen Fällen jede Kirche nur die Kirchensteuer
+erheben, die während der Wohnsitzdauer bzw. der Dauer des gewöhnlichen
+Aufenthalts des Steuerpflichtigen in ihrem Bereich angefallen ist.</lxbase:a><lxbase:a>Nimmt die Kirche, Religions- oder Weltanschauungsgemeinschaft
+sowohl in dem Bundesland des ehemaligen als auch des aktuellen Wohnsitzes
+am staatlichen Erhebungsverfahren teil, so gilt Folgendes:</lxbase:a><lxbase:a>Die Veranlagung zur Kirchensteuer nach einem bestimmten
+Prozentsatz der Einkommensteuer wird von dem für die Einkommensteuerveranlagung
+zuständigen Finanzamt durchgeführt. Das gilt auch für etwaige Berichtigungsveranlagungen
+bzw. Veranlagungen zurückliegender Jahre. Bei der Veranlagung ist
+der nach dem jeweiligen Wohnsitz bzw. dem gewöhnlichen Aufenthalt
+des Steuerpflichtigen maßgebende Kirchensteuersatz anzuwenden. Bei
+abweichenden Kirchensteuersätzen zwischen dem früheren und späteren
+Wohnsitzland wird für das Umzugsjahr die Maßstabsteuer für die Berechnung
+der Kirchensteuer gezwölftelt und auf jedes Zwölftel der nach dem
+jeweiligen Wohnsitz maßgebende Kirchensteuersatz angewandt.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><lxbase:a>Wohnsitzwechsel von Hessen (KiSt-Satz 9 %) nach Baden-Württemberg
+(KiSt-Satz 8 %) am 28.02.2013. Die Veranlagungen zur ESt und KiSt
+2012 und 2013 werden von dem Finanzamt in Baden-Württemberg durchgeführt.</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="47*" /><cals:colspec colnum="2" colname="2" colwidth="25*" /><cals:colspec colnum="3" colname="3" colwidth="28*" /><cals:thead><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt 2012 *</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">4.000,00 €</lxbase:a></cals:entry><cals:entry colname="3" /></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>KiSt 2012 (9 % von 4.000 €)</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a align="rechts">360,00 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>ESt 2013 *</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">4.200,00 €</lxbase:a></cals:entry><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>KiSt 2013</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>a) 9 % von 700 € (2/12 von 4.200
+€)</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">63,00 €</lxbase:a></cals:entry><cals:entry colname="3" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>b) 8 % von 3.500 € (10/12 von
+4.200 €)</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">280,00 €</lxbase:a></cals:entry><cals:entry colname="3" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>KiSt 2013</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a align="rechts">343,00 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>* BMG nach Maßgabe des § 51a Abs. 2 EStG</lxbase:a></lxbase:beispiel><lxbase:a>Auf die Kirchensteuer sind die vom Kirchensteuerpflichtigen
+geleisteten Vorauszahlungen anzurechnen. Die an das Finanzamt des
+früheren Wohnsitzes bzw. des früheren gewöhnlichen Aufenthalts geleisteten
+Vorauszahlungen sind diesem zu belassen. Das neu zuständig gewordene
+Finanzamt erhält die bei ihm geleisteten Vorauszahlungen und eine
+etwaige Abschlusszahlung. Etwa erforderliche Erstattungen werden durch
+das neu zuständig gewordene Finanzamt vorgenommen.</lxbase:a><lxbase:a>Bei Umzügen von Bayern nach Hessen oder von Hessen nach
+Bayern gilt Folgendes:</lxbase:a><lxbase:a>In Bayern wird die Kirchensteuer nicht von den Finanzämtern,
+sondern von den erhebungsberechtigten Kirchen und Religionsgemeinschaften
+durch eigene Kirchensteuerämter verwaltet. Beim Wohnsitzwechsel
+werden vorhandene Rückstände oder Guthaben grundsätzlich von den
+bisher zuständigen Kirchensteuerämtern abgewickelt. Der / die KB
+für die KiSt ist / sind entsprechend dem KB zur ESt gültig zu setzen.</lxbase:a><lxbase:a>Soweit bei Übernahmen aus Bayern kein Auszug aus dem Kirchensteuerkonto
+vorliegt, sind die notwendigen Daten vom zuständigen VTB anzufordern.
+Dabei ist zu beachten, dass Zeiträume bis zum Übernahmetag (Tag
+des Kontoauszugs des bayerischen Finanzamts) ausgeglichen (Soll
+= Ist) zu übernehmen sind. Für die Folgezeiträume (Vorauszahlungen)
+sind lediglich die Sollstellungen zu übernehmen (vgl. DA-ADV Fach
+50 Teil 4 Nr. 6 Stichwort "Veranlagungssteuern"). Dazu sind die
+Kirchensteuerbeträge unter Anwendung des in Bayern gültigen Hebesatzes
+von 8 % der Maßstabsteuer anhand des letztgültigen ESt-Bescheides
+zu errechnen.</lxbase:a><lxbase:a>Eine Eingabemöglichkeit für unterschiedliche Kirchensteuersätze
+ist im Einkommensteuersachprogramm nicht vorgesehen. Die Kirchensteuer
+ist personell zu berechnen, kann aber über die Kennzahlen zur Festsetzung
+einer personell berechneten Kirchensteuer in den Festsetzungsteil
+des Bescheids übernommen werden.</lxbase:a><lxbase:a>Ist die Religionsgemeinschaft, die Kirchensteuer vom Einkommen
+erhebt und die Verwaltung den Finanzbehörden übertragen hat, in
+dem anderen Bundesland nicht hebeberechtigt, so gilt Folgendes:</lxbase:a><lxbase:a>Die Zuständigkeit für die Festsetzung und Erhebung der
+Kirchensteuer bleibt bis zum Zeitpunkt des Wohnsitzwechsels bei
+dem die Steuerakten abgebenden Finanzamt (§ 24 AO). Dies gilt beispielsweise
+für die Festsetzung und Erhebung israelitischer Kultussteuer. Die
+Veranlagung israelitischer Kultussteuer kann nicht von einem außerhessischen
+Finanzamt übernommen werden (DA-ADV Fach 3 Teil 3 Nr. 12.8). Entsprechendes
+gilt für die Kirchensteuer der Freireligiösen Gemeinde Offenbach und
+der Freireligiösen Gemeinde Mainz.</lxbase:a><lxbase:a>Sind in einem abzugebenden Speicherkonto Abgabearten zur
+israelitischen Kultussteuer enthalten, werden diese Abgabearten
+nicht in die Kontenabgabe einbezogen. Das Speicherkonto bleibt insofern
+als Restkonto mit den entsprechenden Abgabearten bis zur Löschung
+bestehen. Dabei ist es unerheblich, ob es sich um Kultussteuer zur
+Einkommensteuer (AA 700, 720), zur Vermögensteuer (AA 750) oder
+zur Lohnsteuer (AA 780, 810) handelt (DA-ADV Fach 50 Teil 4 Nr.
+6 Stichwort "Veranlagungssteuern").</lxbase:a><lxbase:a>Evtl. nachträgliche Zahlungseingänge unter der bisherigen
+Steuernummer werden dann in voller Höhe der Kultussteuer zugeordnet
+und führen zu überhöhten Abrechnungen mit den Gläubigern der Kultussteuer.</lxbase:a><lxbase:a>Zur Vermeidung ungerechtfertigter Zuweisungen an die Jüdische
+Gemeinde Frankfurt am Main bzw. den Landesverband der Jüdischen
+Gemeinden in Hessen ist anhand eines Kontoausdrucks zu prüfen, ob
+entsprechende Abgabearten vorhanden sind. Soweit dies der Fall ist,
+ist das Speicherkonto mit einer I-Sperre zu belegen (DA-ADV Fach
+50 Teil 4 Nr. 6 Stichwort "Veranlagungssteuern").</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600048">10.5 Getrennte
+Veranlagung und besondere Veranlagung (bis einschließlich VZ 2012)</lxbase:ueberschrift><lxbase:a>Bei Ehegatten, die nach § 26a EStG getrennt veranlagt
+werden bzw. die nach § 26c EStG für den Veranlagungszeitraum der
+Eheschließung die besondere Veranlagung gewählt haben, bemisst sich
+die Kirchensteuer sowohl in <lxbase:unterst>konfessionsgleicher</lxbase:unterst> als auch
+in <lxbase:unterst>konfessionsverschiedener</lxbase:unterst> Ehe
+als Zuschlag zur Einkommensteuer jedes Ehegatten (§ 3 Nr. 1b KiStG
+a.F.).</lxbase:a><lxbase:a>Bei Ehegatten, die nach § 26a EStG getrennt veranlagt
+werden bzw. die nach § 26c EStG für den Veranlagungszeitraum der
+Eheschließung die besondere Veranlagung gewählt haben, bemisst sich
+die Kirchensteuer in <lxbase:unterst>glaubensverschiedener</lxbase:unterst> Ehe
+als Zuschlag zur Einkommensteuer des der steuerberechtigten Kirche
+angehörenden Ehegatten (§ 3 Nr. 2b HKiStG a. F.). Die Kirchensteuer
+ist dann für jeden Ehegatten entsprechend seiner Kirchenzugehörigkeit
+mit dem für das Land Hessen maßgebenden (vollen) Kirchensteuerhebesatz
+festzusetzen.</lxbase:a><lxbase:a>Ab dem Veranlagungszeitraum 2013 entfallen die Veranlagungsformen
+getrennte und besondere Veranlagung; es wird lediglich zwischen
+Einzel- (§ 26a EStG) und Zusammenveranlagung (§ 26b EStG) unterschieden.
+Die bisher im HKistG enthaltenen Regelungen zur getrennten und besonderen
+Veranlagung sind in § 3 HKiStG n.F. entfallen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600049">10.6 Zusammenveranlagung</lxbase:ueberschrift><lxbase:a>Bei der Ermittlung der Besteuerungsgrundlagen für Ehegatten
+ist zu unterscheiden, ob die Ehegatten in konfessionsgleicher, in
+konfessionsverschiedener oder in glaubensverschiedener Ehe leben.</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D523554600050">10.6.1
+Konfessionsgleiche Ehe</lxbase:ueberschrift><lxbase:a>Werden Ehegatten nach § 26b EStG zusammenveranlagt und
+gehören beide Ehegatten der gleichen steuerberechtigten Kirche an
+(konfessionsgleiche Ehe), so ist die Kirchensteuer von der gemeinsamen
+Einkommensteuer, die sich unter Berücksichtigung des § 51a Abs.
+2 EStG ergeben würde, mit dem für das Land Hessen maßgebenden Kirchensteuerhebesatz
+festzusetzen.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="58*" /><cals:colspec colnum="2" colname="2" colwidth="42*" /><cals:thead><cals:row rowsep="1"><cals:entry colsep="0" colname="1"><lxbase:a>Ehemann: ev</lxbase:a></cals:entry><cals:entry colname="2" /></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Ehefrau:
+ev</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>gemeinsame
+ESt * =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="rechts">12.000,00
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>KiSt
+= 9 % von 12.000,00 € =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="rechts">1.080,00
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>KiSt der Eheleute
+gesamt:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">1.080,00 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>* BMG nach Maßgabe des § 51a Abs. 2 EStG</lxbase:a></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600051">10.6.2
+Konfessionsverschiedene Ehe</lxbase:ueberschrift><lxbase:a>Werden Ehegatten nach § 26b EStG zusammenveranlagt und
+gehören die Ehegatten verschiedenen steuererhebenden Kirchen an
+(konfessionsverschiedene Ehe), so wird die Kirchensteuer für jede
+der bei den beteiligten Kirchen als Zuschlag zur Hälfte der gemeinsamen
+Einkommensteuer der Ehegatten erhoben (sog. Halbteilungsgrundsatz),
+§ 3 Abs. 1 Satz 1 HKiStG n.F.</lxbase:a><lxbase:a>Der Halbteilungsgrundsatz wurde vom Bundesverfassungsgericht
+mit Urteil vom 20.04.1966 (<lxprod:doknr-verw linkend="HT0016773">BVerfGE 20, 40</lxprod:doknr-verw>) für verfassungsgemäß
+gehalten und auch in neuerer Zeit vom BFH bestätigt (BFH-Urteil
+vom 15.03.1995, <lxprod:doknr-verw linkend="HT0127292">BStBl II 1995, 547</lxprod:doknr-verw>).</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:		</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="63*" /><cals:colspec colnum="2" colname="2" colwidth="37*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Ehemann:
+ev</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Ehefrau:
+rk</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>gemeinsame
+ESt * =</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="rechts">12.000,00
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>ev
+KiSt = 9 % von 1/2 von 12.000</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="rechts">540,00
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>rk
+KiSt = 9 % von 1/2 von 12.000</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="rechts">540,00
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>KiSt der Eheleute
+gesamt:</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="rechts">1.080,00 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>* BMG nach Maßgabe des § 51a Abs. 2 EStG</lxbase:a></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600052">10.6.3
+Glaubensverschiedene Ehe</lxbase:ueberschrift><lxbase:a>Gem. § 3 Abs. 2 Satz 1 HKiStG n.F. liegt eine glaubensverschiedene
+Ehe vor, wenn die Ehegatten nach § 26b EStG zusammen zur Einkommensteuer
+veranlagt werden und nur einer der Ehegatten einer steuererhebenden
+Kirche angehört.</lxbase:a><lxbase:a>Diese Neudefinition stellt eine Umsetzung der Rechtsprechung
+der Hessischen Verwaltungsgerichte dar, wonach eine Ehe auch dann
+als "glaubensverschieden" einzuordnen ist, wenn ein Ehegatte einer
+(nach überholter Definition des HKiStG) nicht "steuerberechtigten"
+Körperschaft des öffentlichen Rechts an gehörte. Der Begriff "steuerberechtigte"
+Kirche in § 3 HKiStG a.F. wurde als "steuererhebende" Kirche ausgelegt,
+da von dem Recht zur Erhebung der Kirchensteuer nach Auffassung
+des Verwaltungsgerichts auch tatsächlich Gebrauch gemacht werden
+muss (vgl. hierzu Urteile des VG Frankfurt am Main vom 17.06.2009,
+<lxbase:az normform="8-K-1989/05" manuell="nein">Az. 8 K 1989/05</lxbase:az>.F(1) und vom 11.03.2009, <lxbase:az normform="4-K-2407/07" manuell="nein">Az. 4 K 2407/07</lxbase:az>.F(3)).</lxbase:a><lxbase:a>Die Kirchensteuer berechnet sich wie folgt:</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D523554600053">10.6.3.1
+Beide Ehegatten haben Einkünfte</lxbase:ueberschrift><lxbase:a>Die Kirchensteuer ist zu erheben als Zuschlag zur Einkommensteuer
+zu dem Teil der nach § 51a Abs. 2 EStG ermittelten gemeinsamen Einkommensteuer,
+der auf den der Kirche angehörigen Ehegatten entfällt. Dabei ist
+die gemeinsame Einkommensteuer, die sich bei Anwendung des § 51a
+Abs. 2 EStG in der jeweils geltenden Fassung ergibt (Maßstabssteuer),
+im Verhältnis der Steuerbeträge aufzuteilen, die sich bei Anwendung
+der Grundtabelle auf die Summe der Einkünfte eines jeden Ehegatten
+entsprechend anzuwenden (§ 3 Abs. 2 Satz 2 HKiStG, "Individualisierungsgrundsatz").
+D.h., dass das Halb- bzw. (ab 2009) Teileinkünfteverfahren weder
+bei der Ermittlung der aufzuteilenden Maßstabsteuer noch bei der
+Ermittlung der Einkünfte eines jeden Ehegatten Anwendung findet.
+Die Regelung soll die der Leistungsfähigkeit des einzelnen Ehegatten
+durch die Anwendung des Halb-/Teileinkünfteverfahrens widersprechenden
+Verschiebungen im Einkünftebereich korrigieren und den vor Einführung
+des Halb-/Teilein-künfteverfahrens geltenden Aufteilungsmaßstab
+wiederherstellen. Die Kirchensteuer ist mit dem für das Land Hessen
+maßgebenden Kirchensteuersatz festzusetzen.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="7*" /><cals:colspec colnum="2" colname="2" colwidth="38*" /><cals:colspec colnum="3" colname="3" colwidth="22*" /><cals:colspec colnum="4" colname="4" colwidth="17*" /><cals:colspec colnum="5" colname="5" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry nameend="5" namest="2"><lxbase:a><lxbase:fett>Veranlagungszeitraum
+2008, glaubensverschiedene Ehe, Ehemann: ev, Ehegatte: --, 2 Kinder</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry morerows="5" colname="1"><lxbase:a>01.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Einkommen</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">30.000 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>zzgl. der nach § 3 Nr. 40 und
+§ 3c Abs. 2 EStG steuerfreien Einkünfte</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>abzgl. Jahresbetrag gem. § 32 Abs.
+6 EStG für 2 Kinder</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">./. 11.616
+€</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>maßgebliches z. v. E. nach § 51a
+Abs. 2 EStG</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">25.000 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>ESt für 2008 nach Splittingtarif gemäß
+§ 32a Abs. 5 i. V. m. Abs. 1 EStG (Bemessungsgrundlage für die Kirchensteuer)</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">1.864 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>Ehemann</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>Ehegatte</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>02.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Konfession</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>ev</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>--</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>03.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Summe der Einkünfte</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">22.500 €</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">14.800 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>04.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>zzgl. der nach § 3 Nr. 40 und
+§ 3c Abs. 2 EStG steuerfreien Einkünfte</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">6.616 €</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">---</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>05.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>maßgebliche Summe der Einkünfte</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">29.116 €</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">14.800 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>06.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>ESt lt. Grundtarif 2008</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">5.528 €</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">1.492 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>07.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>ESt lt. Grundtarif zusammen</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">7.020 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry morerows="2" colname="1"><lxbase:a>08.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Anteil des einer steuerhebeberechtigten
+Kirche angeh. Ehegatten an der Gesamtsteuer lt. Grundtarif</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Betrag von Ziffer 6 x 100</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0"><lxbase:a align="rechts">78,74
+%</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Betrag von Ziffer 7</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry morerows="2" colname="1"><lxbase:a>09.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Anteil des einer steuerhebeberechtigten
+Kirche angeh. Ehegatten an der ESt lt. Splittingtarif (Ziffer 1)</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Betrag von Ziffer 1 x Ziffer
+8</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0"><lxbase:a align="rechts">1.467,71
+€</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>100</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>10.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>davon 9 % = KiSt als Zuschlag zur
+ESt</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">132,09 €</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5" /></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600054">10.6.3.2
+Nur der kirchensteuerpflichtige Ehegatte hat Einkünfte</lxbase:ueberschrift><lxbase:a>Von der gemeinsamen Einkommensteuer, die sich unter Berücksichtigung
+des § 51a Abs. 2 EStG ergeben würde, ist die mit dem maßgebenden
+Kirchensteuerhebesatz zu berechnende Kirchensteuer festzusetzen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600055">10.6.3.3
+Nur der nichtkirchensteuerpflichtige Ehegatte hat Einkünfte</lxbase:ueberschrift><lxbase:a>Es ist keine Kirchensteuer als Zuschlag zur Einkommensteuer
+festzusetzen (siehe aber folgende Ausführungen über die Kirchensteuer
+in Form des besonderen Kirchgelds).</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600056">10.7 Kirchensteuer
+in Form des besonderen Kirchgelds</lxbase:ueberschrift><lxbase:a>Das Kirchgeld in glaubensverschiedener Ehe bemißt sich
+nach einem besonderen in den Kirchensteuerordnungen festzulegenden
+Steuertarif (siehe Tz. 7 d) und wird neben der Kirchensteuer als
+Zuschlag zur Einkommensteuer für den der Kirche angehörenden Ehegatten
+festgesetzt, § 4 Abs. 1 HKiStG. Es kann nur erhoben werden, wenn
+die Ehegatten nach § 26b EStG gemeinsam zur Einkommensteuer veranlagt
+werden, § 4 Abs. 2 HKiStG.</lxbase:a><lxbase:a>Das besondere Kirchgeld (Kirchgeld in glaubensverschiedener
+Ehe) wird von nahezu allen erhebungsberechtigten Kirchen und Religionsgemeinschaften
+in Hessen erhoben, die die Verwaltung der Kirchensteuer den Finanzämtern
+übertragen haben. Die Festsetzung des besonderen Kirchgelds richtet
+sich dabei nur gegen den der steuerberechtigten Kirche, Religions-
+oder Weltanschauungsgemeinschaft angehörenden Ehegatten.</lxbase:a><lxbase:a>Bezüglich der Rechtsbehelfsbefugnis wird auf Tz. 17 verwiesen.</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D523554600057">10.7.1
+Verfassungsmäßigkeit des besonderen Kirchgeldes</lxbase:ueberschrift><lxbase:a>Die Erhebung des besonderen Kirchgelds ist weder grundgesetzwidrig
+noch verstößt sie gegen die Hessische Verfassung (vgl. BVerwG-Urteil
+vom 18.02.1977, <lxbase:lit-fs normform="BVerwGE-0052-0104" manuell="nein">BVerwGE, Band 52, 104</lxbase:lit-fs>). Diese Rechtsprechung wurde
+in weiteren Entscheidungen bestätigt, u. a. für Hamburg durch die
+BVerfG-Beschlüsse vom 23.10.1986 - <lxprod:doknr-verw linkend="HT0077097">2 BvL 7/84</lxprod:doknr-verw> und <lxprod:doknr-verw linkend="HT0077097">2 BvL 8/84</lxprod:doknr-verw> (<lxbase:lit-fs normform="NJW-1987-0943" manuell="nein">NJW
+1987, 943</lxbase:lit-fs>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600058">10.7.2
+Verfahren bei Wohnsitzwechsel in andere Bundesländer</lxbase:ueberschrift><lxbase:a>In Fällen, in denen ein Steuerpflichtiger seinen Wohnsitz
+oder gewöhnlichen Aufenthalt in ein Bundesland verlegt, das kein
+besonderes Kirchgeld erhebt, ist wie folgt zu verfahren:</lxbase:a><lxbase:a>Die Zuständigkeit für die Festsetzung und Erhebung des
+besonderen Kirchgelds bleibt - anders als für die Einkommensteuer
+- bei dem die Steuerakten abgebenden Finanzamt (§ 24 AO). Das abgebende
+Finanzamt weist in seiner Abgabeverfügung hierauf besonders hin
+und bittet um Mitteilung des gemeinsamen zu versteuernden Einkommens
+der Ehegatten für die in Betracht kommenden Veranlagungszeiträume. Nach
+Eingang der Mitteilung des neu zuständigen Finanzamtes wird das
+besondere Kirchgeld - ggf. zeitanteilig - vom abgebenden Finanzamt
+festgesetzt.</lxbase:a><lxbase:a>In den Fällen der Aktenübernahme aus einem Wohnsitzland,
+in dem kein Kirchgeld bei glaubensverschiedener Ehe festgesetzt
+wird, ist im Sachbereich 30 bei der Kennziffer 74 eine "1" einzugeben,
+um die maschinelle Festsetzung des besonderen Kirchgelds zu verhindern.</lxbase:a><lxbase:a>Das besondere Kirchgeld wird gegenwärtig außer in Hessen
+auch in den Bundesländern Baden-Württemberg, Berlin, Brandenburg,
+Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen,
+Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein
+und Thüringen erhoben, allerdings nur von einem Teil der Kirchensteuergläubiger.</lxbase:a><lxbase:a>Seit 2004 wird auch von der Evangelisch-Lutherischen Kirche
+in Bayern ein besonderes Kirchgeld erhoben.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600059">10.7.3
+Anrechnung der Kirchensteuer als Zuschlag zur Einkommensteuer (bis
+einschließlich VZ 2013)</lxbase:ueberschrift><lxbase:a>Auf die Kirchensteuer in Form des besonderen Kirchgeldes
+ist die Kirchensteuer, die als Zuschlag zur Einkommensteuer festgesetzt
+wird, anzurechnen (§ 4 Abs. 3 HKiStG). Es kommt folglich nur dann
+zu einer Festsetzung des besonderen Kirchgeldes, wenn die Kirchensteuer
+als Zuschlag zur Einkommensteuer geringer ist.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="7*" /><cals:colspec colnum="2" colname="2" colwidth="38*" /><cals:colspec colnum="3" colname="3" colwidth="22*" /><cals:colspec colnum="4" colname="4" colwidth="17*" /><cals:colspec colnum="5" colname="5" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry nameend="5" namest="2"><lxbase:a><lxbase:fett>Veranlagungszeitraum
+2008, glaubensverschiedene Ehe, Ehemann: --, Ehegatte: rk, 2 Kinder</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry morerows="4" colname="1"><lxbase:a>01.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Einkommen</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">60.000 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>abzgl. Jahresbetrag gem. § 32 Abs.
+6 EStG für 2 Kinder</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">./. 11.616
+€</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>maßgebliches z. v. E. nach § 51a
+Abs. 2 EStG</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">48.384 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>ESt für 2008 nach Splittingtarif gemäß
+§ 32a Abs. 5 i. V. m. Abs. 1 EStG (Bemessungsgrundlage für die Kirchensteuer)</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">8.068 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>Ehemann</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>Ehegatte</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>02.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Konfession</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>--</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>rk</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>03.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Summe der Einkünfte</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">50.000 €</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">11.350 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>04.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>ESt lt. Grundtarif 2008</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">13.096 €</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">673 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>05.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>ESt lt. Grundtarif zusammen</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">13.769 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry morerows="2" colname="1"><lxbase:a>06.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Anteil des einer steuerhebeberechtigten
+Kirche angeh. Ehegatten an der Gesamtsteuer lt. Grundtarif</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Betrag von Ziffer 4 x 100</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0"><lxbase:a align="rechts">4,89
+%</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Betrag von Ziffer 5</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry morerows="2" colname="1"><lxbase:a>07.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Anteil des einer steuerhebeberechtigten
+Kirche angeh. Ehegatten an der ESt lt. Splittingtarif (Ziffer 1)</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Betrag von Ziffer 1 x Ziffer
+6</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0"><lxbase:a align="rechts">394,52
+€</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>100</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>08.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>davon 9 % = KiSt als Zuschlag zur
+ESt</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">35,50 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry morerows="2" colname="1"><lxbase:a>09.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Besonderes Kirchgeld lt. Steuertarif
+bei einem maßgebenden z. v. E. nach § 51a EStG i. H. v. 48.384 €</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">156,00 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Abzgl. KiSt als Zuschlag zur ESt
+(Ziffer 8)</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">35,50 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Verbleiben</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">120,50 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>10.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Festzusetzende KiSt (Summe aus
+Ziffer 8 und Ziffer 9)</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">156,00 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600060">10.8 Anrechnung
+der Kirchensteuer als Zuschlag zur Einkommensteuer (ab VZ 2014)</lxbase:ueberschrift><lxbase:a>Gem. § 4 Abs. 3 HKiStG n.F. sind auf das Kirchgeld in
+glaubensverschiedener Ehe die Kirchensteuern <lxbase:fett>beider</lxbase:fett> Ehegatten,
+die als Zuschlag zur Einkommensteuer festgesetzt werden sowie nunmehr
+auch <lxbase:fett>Kirchenbeiträge</lxbase:fett> beider Ehegatten,
+soweit diese wie Kirchensteuern als Sonderausgaben im Rahmen der
+Einkommensteuerveranlagung abziehbar sind, anzurechnen. Es handelt
+sich hierbei um die in R 10.7 EStR aufgeführten Beiträge der Mitglieder
+von Religionsgemeinschaften, die mindestens in einem Land als Körperschaft
+des öffentlichen Rechts anerkannt sind, aber während des ganzen
+Kalenderjahres keine Kirchensteuer erheben. Diese Kirchenbeiträge
+werden aus Billigkeitsgründen wie Kirchensteuern als Sonderausgaben
+(§ 10 Abs. 1 Nr. 4 EStG) berücksichtigt und werden ab dem Veranlagungszeitraum
+2014 nun auch auf das Kirchgeld in glaubensverschiedener Ehe angerechnet.
+Diese Fälle können derzeit noch nicht maschinell berechnet werden,
+sodass hierfür die Kennzahlen zur Festsetzung einer personell berechneten
+Kirchensteuer (Kz 30.85/86) eingegeben werden müssen.</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D523554600061">10.8.1
+Zeitanteilig festzusetzendes besonderes Kirchgeld (z. B. im Jahr
+der Eheschließung bzw. Scheidung)</lxbase:ueberschrift><lxbase:a>Beginnt oder endet die glaubensverschiedene Ehe im Laufe
+des Kalenderjahres, ist das jährliche Kirchgeld für jeden vollen
+Monat, während dessen Dauer die glaubensverschiedene Ehe nicht bestanden
+hat, um ein Zwölftel zu kürzen, § 5 Abs. 4 Satz 1 HKiStG.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="5" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="7*" /><cals:colspec colnum="2" colname="2" colwidth="38*" /><cals:colspec colnum="3" colname="3" colwidth="22*" /><cals:colspec colnum="4" colname="4" colwidth="17*" /><cals:colspec colnum="5" colname="5" colwidth="17*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry nameend="5" namest="2"><lxbase:a><lxbase:fett>Veranlagungszeitraum
+2008, glaubensverschiedene <lxbase:az normform="Ehe-seit-09/04" manuell="nein">Ehe seit 09.04</lxbase:az>.2008, Ehemann: --, Ehegatte:
+rk, 2 Kinder</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry morerows="4" colname="1"><lxbase:a>01.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Einkommen</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">60.000 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>abzgl. Jahresbetrag gem. § 32 Abs.
+6 EStG für 2 Kinder</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">./. 11.616
+€</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>maßgebliches z. v. E. nach § 51a
+Abs. 2 EStG</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">48.384 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>ESt für 2008 nach Splittingtarif gemäß
+§ 32a Abs. 5 i. V. m. Abs. 1 EStG (Bemessungsgrundlage für die Kirchensteuer)</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">8.068 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2" /><cals:entry colname="3"><lxbase:a>Ehemann</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>Ehegatte</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>02.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Konfession</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>--</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>rk</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>03.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Summe der Einkünfte</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">50.000 €</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">11.350 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>04.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>ESt lt. Grundtarif 2008</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">13.096 €</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">673 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>05.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>ESt lt. Grundtarif zusammen</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">13.769 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry morerows="2" colname="1"><lxbase:a>06.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Anteil des einer steuerhebeberechtigten
+Kirche angeh. Ehegatten an der Gesamtsteuer lt. Grundtarif</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Betrag von Ziffer 4 x 100</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0"><lxbase:a align="rechts">4,89
+%</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Betrag von Ziffer 5</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry morerows="2" colname="1"><lxbase:a>07.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Anteil des einer steuerhebeberechtigten
+Kirche angeh. Ehegatten an der ESt lt. Splittingtarif (Ziffer 1)</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Betrag von Ziffer 1 x Ziffer
+6</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0" /><cals:entry colname="4" rowsep="0"><lxbase:a align="rechts">394,52
+€</lxbase:a></cals:entry><cals:entry colname="5" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>100</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>08.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>KiSt als Zuschlag zur ESt für den
+Zeitraum 01.01.-31.03. = 9 % von 394,52 € (Ziffer 7) <lxbase:az normform="x-3/12" manuell="nein">x 3/12</lxbase:az></lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">8,88 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>09.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>KiSt als Zuschlag zur ESt für den
+Zeitraum 01.04.-31.12. = 9 % von 394,52 € (Ziffer 7) <lxbase:az normform="x-9/12" manuell="nein">x 9/12</lxbase:az></lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">26,63 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry morerows="2" colname="1"><lxbase:a>10.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Besonderes Kirchgeld lt. Steuertarif
+bei einem maßgebenden z. v. E. nach § 51a EStG i. H. v. 48.384 €
+(siehe Ziffer 1) für die Zeit vom 01.04. - 31.12.2010 = 156 € <lxbase:az normform="x-9/12" manuell="nein">x
+9/12</lxbase:az></lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">117,00 €</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Abzgl. KiSt als Zuschlag zur ESt
+(Ziffer 9)</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">26,63 €</lxbase:a></cals:entry><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="2"><lxbase:a>Verbleiben</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4"><lxbase:a align="rechts">90,37 €</lxbase:a></cals:entry><cals:entry colname="5" /></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>11.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>KiSt für die Zeit vom 01.04.
+- 31.12. (Summe aus Ziffer 9 und 10)</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">117,00 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5" /></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>12.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Festzusetzende KiSt (Summe aus
+Ziffer 8 und Ziffer 11)</lxbase:a></cals:entry><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a align="rechts">125,88 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:beispiel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600062">10.9 Berechnung
+der Kirchensteuer nach Centbeträgen / Mindestbeträge</lxbase:ueberschrift><lxbase:a>Die Kirchensteuer ist auf den Cent genau zu berechnen,
+Bruchteile von Cents werden nicht berücksichtigt (§ 5 KiStDV).</lxbase:a><lxbase:a>Liegt das für die Kirchensteuer maßgebliche Einkommen
+nach § 51a Abs. 2 EStG unter dem Grundfreibetrag bzw. dem verdoppelten
+Grundfreibetrag bei zusammenveranlagten Ehegatten ist auch kein
+Mindestbetrag an Kirchensteuer zu erheben. Wird jedoch eine Maßstabsteuer
+ermittelt, so beträgt die Mindestkirchensteuer jährlich 1,80 €,
+§ 6 KiStDV. Mindestbeträge entfallen ab dem VZ 2014, § 2 Abs. 2
+HKiStG n.F.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600063">11 Anwendung der Kleinbetragsverordnung
+im Bereich der Kirchensteuer in Hessen</lxbase:ueberschrift><lxbase:a>(HMdF-Erlass vom 20.01.1981 - <lxprod:doknr-verw linkend="HT0056951">S 2447 A - 22 - II B 21</lxprod:doknr-verw>)</lxbase:a><lxbase:a>Die Kleinbetragsverordnung vom 10.12.1980 (<lxbase:lit-fs normform="BStBl-1980-I-0784" manuell="nein">BStBl I 1980,
+784</lxbase:lit-fs>), zuletzt geändert durch das StEuglG vom 19.12.2000 (<lxbase:lit-fs normform="BGBl-2000-I-1805" manuell="nein">BGBl I
+2000, 1805</lxbase:lit-fs>), ist am 01.01.1981 in Kraft getreten. Sie findet auf
+die Festsetzung der Kirchensteuer keine unmittelbare Anwendung.
+Für die Festsetzung der Kirchensteuer gilt vielmehr folgendes:</lxbase:a><lxbase:a>a) 	Unterbleibt nach § 1 Abs. 1 der Kleinbetragsverordnung
+eine Änderung der Ein-kommensteuer (Lohnsteuer), ist auch von einer
+Änderung der Kirchensteuer abzusehen.</lxbase:a><lxbase:a>b) 	Wird die Einkommensteuer (Lohnsteuer) geändert, wird
+die Kirchensteuer auch dann neu festgesetzt, wenn die Abweichung
+weniger als 10 € beträgt.</lxbase:a><lxbase:a>c)	 Eine Auf- oder Abrundung der Kirchensteuer ist nicht
+zulässig (§ 5 KiStDV).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600064">12 Stundung, Erlass und
+Niederschlagung</lxbase:ueberschrift><lxbase:a>Die Finanzämter entscheiden bei Stundung, Erlass und Niederschlagung
+von Einkommensteuer (Lohnsteuer, Kapitalertragsteuer) gleichzeitig
+über Stundung, Erlass oder Niederschlagung der Kirchensteuer, soweit
+diese als Zuschlag zu diesen Steuern erhoben wird, § 11 Abs. 1 HKiStG.
+Diese Befugnisse können von den Finanzämtern nur im Rahmen der ihnen
+für die Einkommensteuer (Lohnsteuer, Kapitalertragsteuer) übertragenen
+Zuständigkeit ausgeübt werden. Stundung, Erlass oder Niederschlagung
+der Kirchensteuer ist stets nur in gleichem Umfang wie bei der Einkommensteuer
+(Lohnsteuer, Kapitaletragsteuer) auszusprechen. Der Berechnung der
+Verhältniszahlen ist das Jahressoll der jeweiligen Steuerart zugrunde
+zu legen. Die Stundungs- oder Erlasswürdigkeit sowie die Voraussetzungen
+für die Niederschlagung sind nach den gleichen strengen Grundsätzen
+zu prüfen, wie sie für die Maßstabsteuer gelten.</lxbase:a><lxbase:a>Von der Niederschlagung oder dem Erlass der Kirchensteuer
+ist der jeweiligen Kirchenbehörde (Kirchenleitung, Diözese) Mitteilung
+zu geben (PC-Voll - Vordruck L 08, Vollstreckungskartei § 261 AO,
+Karte 1 (A1).</lxbase:a><lxbase:a>Wird über einen Antrag auf Erlass / Stundung von Einkommensteuer
+/ Kirchensteuer ablehnend entschieden, ist darauf zu achten, dass
+der Rechtsbehelf des "Einspruchs" nur für die Einkommensteuer gegeben
+ist (vgl. Tz. 17).</lxbase:a><lxbase:a>Soweit unabhängig von der Maßstabsteuer Stundung oder
+Erlass der Kirchensteuer beantragt wird, bleibt die Entscheidung
+hierüber ausschließlich den Kirchenbehörden vorbehalten. Derartige
+Anträge sind wie bisher den zuständigen Kirchenbehörden zuzuleiten
+(§ 11 Abs. 2 HKiStG). Dies gilt auch für Fälle, in denen zunächst
+nur die Einkommensteuer (Lohnsteuer, Kapitalertragsteuer) gestundet
+oder erlassen wurde und später eine gesonderte Stundung oder Erlass
+von Kirchensteuer gewährt werden soll.</lxbase:a><lxbase:a>Bei der Stundung von Kirchensteuer zusammen mit der Einkommensteuer
+(Lohnsteuer, Kapitalertragsteuer) als Maßstabsteuer ist darauf zu
+achten, dass bei den Stundungsraten die Kirchensteuer in gleichem
+Umfang festgelegt wird wie die Maßstabsteuer. Keinesfalls darf die
+Kirchensteuer in einer Summe erst als letzte Stundungsrate festgelegt
+werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600065">13 Kappung der Kirchensteuer</lxbase:ueberschrift><lxbase:a>Unter Kirchensteuerkappung versteht man die Festlegung
+eines Höchstbetrags, berechnet auf einen bestimmten Prozentsatz
+des vom Finanzamt rechtskräftig veranlagten zu versteuernden Einkommens.
+Übersteigt das Einkommen eine bestimmte Höhe, die Kappungsschwelle,
+tritt ein Steuervorteil ein, da der Prozentsatz (Kappungssatz) des
+zu versteuernden Einkommens feststeht, während die Kirchensteuer durch
+die Form des Zuschlags zur Einkommensteuer entsprechend dem Progressionstarif
+steigt. Die Kirchensteuer koppelt sich in diesen Fällen also von
+der Bemessungsgrundlage "Einkommensteuer" ab zur Bemessungsgrundlage
+"zu versteuerndes Einkommen".</lxbase:a><lxbase:a>Die Kappung erfolgt (in Hessen) nicht von Amts wegen,
+sondern auf Antrag des Kirchensteuerpflichtigen. Der Antrag auf
+Kappung ist bei der zuständigen Kirchenbehörde unter Vorlage des
+bestandskräftigen Steuerbescheids zu stellen. Die Antragsfrist endet
+ein Jahr nach Bestandskraft des Steuerbescheids. Diese Frist kann durch
+interne Regelung der einzelnen Kirchenbehörden verlängert werden.</lxbase:a><lxbase:a>Der gesonderte Erlass von Kirchensteuer ist allein den
+Kirchenbehörden vorbehalten.</lxbase:a><lxbase:a>Sofern die als Zuschlag zur Einkommensteuer festgesetzte
+Kirchensteuer mehr als einen bestimmten Prozentsatz des zu versteuernden
+Einkommens beträgt, wird von den in Hessen steuerhebeberechtigten
+Kirchen mit Ausnahme der Jüdischen Gemeinden Frankfurt am Main,
+Gießen, Kassel, Bad Nauheim, Darmstadt, Fulda und Offenbach auf
+Antrag die Kirchensteuer auf diesen bestimmten Prozentsatz ermäßigt.</lxbase:a><lxbase:a>Bei der Freireligiösen Gemeinde Mainz entscheidet der
+Vorstand frei über evtl. Billigkeitsmaßnahmen hinsichtlich der Kultussteuer.
+In den anderen Fällen ist der Prozentsatz, ab dem eine Kirchensteuerkappung
+möglich ist, aus der folgenden Tabelle ersichtlich.</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="53*" /><cals:colspec colnum="2" colname="2" colwidth="47*" /><cals:thead><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Kirche, Religions-
+oder Weltanschauungsgemeinschaft</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert"><lxbase:fett>Kappungsgrenze
+% vom z. v. E.</lxbase:fett></lxbase:a><lxbase:a align="zentriert">(* = unter Beachtung des § 51a EStG)</lxbase:a></cals:entry></cals:row></cals:thead><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a align="zentriert"><lxbase:fett>ab
+2005</lxbase:fett></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Ev. Kirche in Hessen
+und Nassau</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">3,5 %*</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Ev. Kirche Kurhessen
+Waldeck</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">3,5 %</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Ev. Kirche im Rheinland</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">3,5 %</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Diözese Fulda</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">4 % *</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Diözese Limburg</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">4 % *</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Diözese Mainz</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">4 % *</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Erzdiözese Paderborn</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">4 % *</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a><lxbase:fett>Alt-kath. Kirche
+in Hessen</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">4 % *</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a><lxbase:fett>Freireligiöse Gemeinde
+Offenbach</lxbase:fett></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">4 %</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Entspricht die Kirchenbehörde dem Antrag auf Kappung der
+Kirchensteuer, teilt sie dies dem zuständigen Finanzamt mit. In
+diesem Schreiben müssen enthalten sein</lxbase:a><lxbase:num-aufz typ="buchstaben klein"><lxbase:aufz-pkt wert="a. "><lxbase:a>der Name und die vollständige
+Anschrift des Kirchensteuerpflichtigen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="b. "><lxbase:a>dessen Steuernummer,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="c. "><lxbase:a>der Veranlagungszeitraum,
+für den die Kappung ausgesprochen wird,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="d. "><lxbase:a>das zu versteuernde Einkommen
+dieses Veranlagungszeitraums,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="e. "><lxbase:a>die veranlagte Kirchensteuer,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="f. "><lxbase:a>der Kappungsbetrag und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="g. "><lxbase:a>die ermäßigte Kirchensteuer.</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz><lxbase:a>Diese Angaben sind zur weiteren Bearbeitung durch das
+Finanzamt unbedingt erforderlich. Eine Durchschrift dieses Schreibens
+erhält der Kirchensteuerpflichtige bzw. dessen Bevollmächtigter.
+Damit ist die Kappung dem Kirchensteuerpflichtigen gegenüber bekanntgegeben.</lxbase:a><lxbase:a>Der Veranlagungsteilbezirk hat zu beachten, dass nur veranlagte
+und bestandskräftig festgesetzte Beträge gekappt werden. Hinsichtlich
+des Verfahrens wird auf DA-ADV Fach 3 Teil 6 Nr. 2 verwiesen.</lxbase:a><lxbase:a>Obwohl der gesonderte Erlass von Kirchensteuer gem. §
+11 Abs. 2 HKiStG allein den Kirchenbehörden vorbehalten ist, haben
+die Finanzämter in allen Fällen, in denen <lxbase:fett>nach Kappung</lxbase:fett> der
+Kirchensteuer die <lxbase:fett>Kirchensteuerfestsetzung geändert</lxbase:fett> wird, die
+Kappung entsprechend dem geänderten zu versteuernden Einkommen manuell anzupassen.
+Hierbei ist zu beachten, dass die Kirchensteuer auf Abgeltungssteuer bei
+der Kappung nicht miteinzubeziehen ist - § 51a Abs. 3 EStG. Eine
+Mitteilung über die Änderung des Kappungsbetrags an die jeweils
+zuständige Kirchenbehörde soll nicht erfolgen. Eine maschinelle
+Anpassung der Kirchensteuerkappung ist bisher aus programmtechnischen
+Gründen nicht möglich, da die einzelnen in Hessen hebeberechtigten
+Kirchen und Religionsgemeinschaften keine einheitliche Regelung
+zur Berechnung des Kappungsbetrags haben. Zur Berechnung der neuen
+Kappungsbeträge in Änderungsfällen wird ebenfalls auf DA-ADV Fach
+3 Teil 6 Nr. 2 verwiesen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600066">14 Verzinsung, Säumniszuschläge</lxbase:ueberschrift><lxbase:a>Nach § 15 Abs. 2 HKiStG finden die Vorschriften über Verzinsung
+(§§ 233 bis 239 AO) und Säumniszuschläge (§ 240 AO) auf das Besteuerungsverfahren
+bei der Kirchensteuer keine Anwendung.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600067">15 Erstattung zu Unrecht
+einbehaltener Kirchensteuer</lxbase:ueberschrift><lxbase:a>Zur Vorgehensweise siehe Rundvfg. vom 14.03.2014 - <lxbase:az normform="S2298A11St54" manuell="nein">S 2298
+A - 11 - St 54</lxbase:az> - Anrechnung und Erstattung von Steuerabzugsbeträgen
+(ofix: ORG/349, Tz. 2).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600068">16 Steuergeheimnis</lxbase:ueberschrift><lxbase:a>Den Kirchengemeinden sind die Besteuerungsgrundlagen,
+Steuermessbeträge und Steuerbeträge von Steuerpflichtigen nach Maßgabe
+des § 31 AO mitzuteilen, soweit diese Angaben zur Festsetzung der
+Kirchensteuern benötigt werden. Dies gilt auch bei der Anhörung
+der betroffenen Kirchen gem. § 13 Abs. 1 HKiStG, bevor über den Widerspruch
+gegen die Kirchensteuerfestsetzung entschieden wird. Zu den Informationen,
+die bei Anhörung der Kirche offenbart werden können, vgl. auch Tz.
+17.5.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600069">17 Rechtsbehelfsverfahren</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523554600070">17.1 Zulässiger
+Rechtsbehelf</lxbase:ueberschrift><lxbase:a>Nach § 15 Abs. 2 HKiStG sind die Vorschriften der §§ 347
+bis 368 AO zum außergerichtlichen Rechtsbehelfsverfahren bei der
+Kirchensteuer nicht anzuwenden. Bei Streitigkeiten in Kirchensteuerangelegenheiten
+ist in Hessen der Verwaltungsrechtsweg gegeben. Daher ist der zulässige
+Rechtsbehelf gegen die KiSt-Festsetzung der Widerspruch gem. § 69
+VwGO.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600071">17.2 Prüfung
+der formellen Voraussetzungen eines Widerspruchs</lxbase:ueberschrift><lxbase:a>Wie bei einem Einspruch gem. § 348 AO ist die Wirksamkeit
+eines Widerspruchs auch an bestimmte formelle Voraussetzungen geknüpft,
+die als erstes zu überprüfen sind. Im Einzelnen sind dies:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>Schriftform,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Rechtsbehelfsfrist,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Korrekte Bezeichnung des
+Rechtsbehelfs,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Rechtsbehelfsführer,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Beschwer,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Hinzuziehen.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:kapitel><lxbase:ueberschrift id="D523554600072">17.2.1
+Schriftform</lxbase:ueberschrift><lxbase:a>Der Widerspruch ist schriftlich oder zur Niederschrift
+bei der Behörde zu erheben, die den KiSt-Bescheid erlassen hat (§
+70 Abs. 1 VwGO). Er ist somit beim örtlich zuständigen Finanzamt
+einzulegen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600073">17.2.2
+Widerspruchsfrist</lxbase:ueberschrift><lxbase:a>Die Widerspruchsfrist beträgt einen Monat, nachdem der
+KiSt-Bescheid wirksam bekanntgegeben worden ist. Für die Bekanntgabe
+und die Fristberechnung gelten die Vorschriften der §§ 108, 110
+und 122 AO sinngemäß.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600074">17.2.3
+Korrekte Bezeichnung des Widerspruchs</lxbase:ueberschrift><lxbase:a>Besondere Anforderungen an den Inhalt des Widerspruchs
+bestehen nicht, insbesondere ist weder die Bezeichnung als Widerspruch
+noch ein bestimmter Antrag oder eine Begründung vorgeschrieben.
+Auch eine falsche Bezeichnung, etwa als "Einspruch", schadet grundsätzlich
+nicht. Aus der abgegebenen Erklärung muss jedoch hinreichend erkennbar
+sein, dass der Stpfl. sich durch einen bestimmten KiSt-Bescheid
+beschwert fühlt und eine Nachprüfung begehrt.</lxbase:a><lxbase:a>Grundsätzlich ist bei ungenau gehaltenen Schreiben der
+Wille des Stpfl. zu erforschen und die falsche Bezeichnung in einen
+Widerspruch umzudeuten. Auch wenn die Vorschriften der AO hier nicht
+anzuwenden sind, so sind die dortigen Ausführungen zu einer korrekten
+Bezeichnung doch sinngemäß anzuwenden. Dies bedeutet, dass bei einem
+Rechtsbehelf, der durch einen Angehörigen der steuerberatenden Berufe
+eingelegt wird, höhere Ansprüche an die korrekte Bezeichnung zu
+stellen sind als bei einem nicht beratenen Stpfl. Besteht z.B. ein
+Steuerberater trotz Hinweis auf die falsche Bezeichnung des Rechtsbehelfs
+weiterhin auf den Rechtsbehelf des Einspruchs gem. § 348 AO, so
+ist dieser Rechtsbehelf als unzulässig zu verwerfen. Vorher ist
+jedoch rechtliches Gehör gem. § 91 AO zu gewähren und auf die falsche Bezeichnung
+des Rechtsbehelfs hinzuweisen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600075">17.2.4
+Widerspruchsführer und Beschwer</lxbase:ueberschrift><lxbase:a>Wichtig ist die Überprüfung, wer den Widerspruch eingelegt
+hat. Anders als bei der Einkommensteuer, bei der sich der ESt-Bescheid
+nach einer Zusammenveranlagung gem. §§ 26, 26b EStG gegen beide
+Ehegatten gemeinsam richtet (zusammengefasster Steuerbescheid gem.
+§ 155 Abs. 3 AO), richtet sich der KiSt-Bescheid immer nur gegen
+den einer steuerhebeberechtigten Kirche angehörenden Ehegatten.
+Nur wenn beide Ehegatten der gleichen Konfession angehören, handelt
+es sich auch bei dem KiSt-Bescheid um einen zusammengefassten Steuerbescheid.
+Ansonsten stellt jede einzelne KiSt-Festsetzung einen gesonderten
+Verwaltungsakt dar, der auch nur von dem Stpfl. angefochten werden
+kann, gegen den er sich richtet. Ein entsprechender deutlicher Hinweis
+ist in der Rechtsbehelfsbelehrung auf den maschinell erstellten Bescheiden
+enthalten. Darüber hinaus ist auch die KiSt-Festsetzung im Steuerbescheid
+genau bezeichnet.</lxbase:a><lxbase:a>Der Widerspruch ist außerdem nur zulässig, wenn der Rechtsbehelfsführer
+durch den angefochtenen Verwaltungsakt beschwert ist. Hier gelten
+die Ausführungen in AEAO zu § 350 AO sinngemäß.</lxbase:a><lxbase:a>So ist z. B. in einer glaubensverschiedenen Ehe allein
+der einer steuerhebeberechtigten Kirche angehörende Ehegatten beschwert
+und damit widerspruchsbefugt (§ 42 Abs. 2 VwGO analog). Der Umstand,
+dass der nicht einer steuerhebeberechtigten Kirche angehörende Ehegatte
+möglicherweise seinem kirchenangehörenden Ehegatten gegenüber gem.
+§§ 1360, 1360a BGB unterhaltsverpflichtet ist, so dass er auch die
+Mittel für die Kirchensteuer zur Verfügung stellen muss (vgl. FG
+Hamburg vom 07.02.1996, <lxbase:lit-fs normform="EFG-1996-0492" manuell="nein">EFG 1996, 492</lxbase:lit-fs>), ist eine Folge des Zivilrechts
+und stellt allenfalls eine für die Widerspruchsbefugnis des nicht
+der Kirche angehörenden Ehegatten nicht ausreichende wirtschaftliche
+Betroffenheit dar (vgl. FG Hamburg vom 15.12.1995, <lxbase:lit-fs normform="EFG-1996-0498" manuell="nein">EFG 1996, 498</lxbase:lit-fs>).</lxbase:a><lxbase:a>Wurde der Widerspruch von einem nicht von der KiSt-Festsetzung
+betroffenen Ehegatten erhoben, ist dieser darauf hinzuweisen, dass
+er aus den o. g. Gründen nicht befugt ist Widerspruch einzulegen.
+Ihm ist anheimzustellen, den Widerspruch zurückzunehmen, da dieser
+ansonsten durch die OFD als unzulässig zu verwerfen ist.</lxbase:a><lxbase:a>Ist jedoch aus dem Wortlaut des Widerspruchs zu entnehmen,
+dass der Widerspruch für den kirchenangehörigen Ehegatten eingelegt
+werden sollte, ist eine entsprechende Vollmacht vorzulegen. Der
+Widerspruch des nicht einer Kirche angehörenden Ehegatten bleibt
+unzulässig. Die Vollmacht dokumentiert lediglich die Vertretungsbefugnis
+des nicht einer Kirche angehörenden Ehegatten für den kirchenangehörigen Ehegatten.</lxbase:a><lxbase:a>Sofern Ehegatten, die in einer glaubensverschiedenen Ehe
+leben oder konfessionsverschieden sind, gemeinsam gegen den Kirchensteuerbescheid
+Widerspruch einlegen, sind in der Rechtsbehelfsstatistik zwei Widersprüche
+zu erfassen.</lxbase:a><lxbase:a>Eine Rücknahme des Widerspruchs muss schriftlich oder
+zur Niederschrift erfolgen (§ 69 i.V.m. § 92 Abs. 1 VwGO).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600076">17.2.5
+Hinzuziehung</lxbase:ueberschrift><lxbase:a>Eine Hinzuziehung des anderen Ehegatten kommt bei Widersprüchen
+gegen KiSt-Bescheide sehr selten vor. Sie wird nötig, wenn durch
+die Stattgabe des Antrags eines Ehegatten auf Herabsetzung bzw.
+Aufhebung der KiSt gegen ihn sich die Festsetzung der KiSt gegen
+den anderen Ehegatten erhöht.</lxbase:a><lxbase:beispiel><lxbase:a>Beispiel:</lxbase:a><lxbase:a>Bei der Zusammenveranlagung werden beide Ehegatten als
+kirchensteuerpflichtig behandelt. Der Stpfl. legt Widerspruch gegen
+den zusammengefassten KiSt-Bescheid ein mit der Begründung, er gehöre
+keiner steuerhebeberechtigten Kirche an. Die Ehefrau hatte keine
+eigenen Einkünfte.</lxbase:a><lxbase:a>Durch die Aufhebung der KiSt-Festsetzung gegenüber dem
+Stpfl. wäre gegen die Ehefrau ein besonderes Kirchgeld festzusetzen.
+Für die Ehefrau würde sich somit die Festsetzung unter Umständen
+erhöhen. Daher ist die Ehefrau zum Verfahren hinzuzuziehen.</lxbase:a></lxbase:beispiel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600077">17.3 Einheitliche
+Rechtsbehelfe</lxbase:ueberschrift><lxbase:a>Wenden sich Stpfl. mit einem einheitlichen Rechtsbehelf
+sowohl gegen die Einkommensteuer als auch gegen die Kirchensteuer
+und tragen eine gesonderte Begründung gegen die KiSt-Festsetzung
+vor, empfiehlt es sich zur Arbeitserleichterung von Anfang an dieses
+einheitliche Schreiben als zwei getrennt voneinander eingelegte Rechtsbehelfe
+anzusehen und zwischen Einspruch und Widerspruch zu unterscheiden.
+In derartigen Fällen sind zwei Rechtsbehelfe in der Rechtsbehelfsliste
+einzutragen.</lxbase:a><lxbase:a>Beruft sich ein Stpfl. zur Begründung seines Widerspruchs
+nur auf Einwendungen gegen die Höhe der Einkommensteuer, handelt
+es sich nicht um einen einheitlichen Rechtsbehelf, sondern nur um
+einen Einspruch gegen den ESt-Bescheid. Es liegt kein Widerspruch
+vor. Bei einer Änderung der ESt-Festsetzung wird die Kirchensteuer
+als Folgesteuer automatisch angepasst.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600078">17.4 Änderung
+des Kirchensteuerbescheides</lxbase:ueberschrift><lxbase:a>Die Änderungsvorschriften nach der Abgabenordnung sind
+auch für die Kirchensteuer anwendbar. Abhilfebescheide können daher
+auf § 172 Abs. 1 Nr. 2 AO gestützt werden. Entsprechendes gilt für
+die Aufhebung eines Kirchensteuerbescheids.</lxbase:a><lxbase:a>Mit Beschluss vom 18.01.2002 (Az.: <lxbase:az normform="4-G-783/01" manuell="nein">4 G 783/01</lxbase:az> (2)) hat
+das Verwaltungsgericht Darmstadt entschieden, dass die Nichtanwendbarkeit
+der Vorschriften des 8. Teils der AO (Straf- und Bußgeldvorschriften,
+Straf- und Bußgeldverfahren) auf die Erhebung der Kirchensteuer
+und der damit verbundene Ausschluss einer Bestrafung wegen Hinterziehung
+von Kirchensteuer (§ 15 Abs. 2 HKiStG) einer Verlängerung der Festsetzungsfrist
+auf 10 Jahre gemäß § 169 Abs. 2 Satz 2 AO, wenn die Kirchensteuer <lxbase:unterst>tatsächlich</lxbase:unterst> hinterzogen
+worden ist, nicht entgegensteht. Die Vorschrift der AO über die
+Verlängerung der Festsetzungsfrist bei Steuerhinterziehung verlangt
+allein die Erfüllung des objektiven und subjektiven Tatbestands
+einer Steuerhinterziehung, nicht jedoch deren Strafbarkeit auf Grund
+einer sich anknüpfenden Strafsanktion.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600079">17.5 Anhörung
+der Kirchenbehörde</lxbase:ueberschrift><lxbase:a>Kann dem Widerspruch nicht abgeholfen werden, ist gemäß
+§ 13 Abs. 1 Satz 2 HKiStG die zuständige Kirchenbehörde zu hören,
+bevor der Widerspruch der Oberfinanzdirektion zur Entscheidung vorgelegt
+wird. Dabei ist den Kirchen der Sachverhalt darzustellen und die
+beabsichtigte Entscheidung mitzuteilen. Bei konfessionsverschiedenen
+Ehen ist darauf zu achten, dass beide Kirchenbehörden gehört werden
+müssen. Gegenüber den Kirchenbehörden gilt das Steuergeheimnis gem.
+§ 30 AO nicht, soweit die Angaben für die Entscheidung über den
+Widerspruch erforderlich sind (§ 31 Abs. 1 AO). Es ist daher auch
+nichts dagegen einzuwenden, wenn der Schriftwechsel, der sich ausschließlich
+mit der Festsetzung der Kirchensteuer beschäftigt, den Kirchen in
+Kopie übersandt wird. Die Übersendung eines Bescheids über die Festsetzung
+der Einkommensteuer, der Kirchensteuer und des Solidaritätszuschlags
+verstößt jedoch gegen das Steuergeheimnis. In einem Steuerbescheid
+ist eine Vielzahl von Informationen enthalten, die nicht für die
+Festsetzung der Kirchensteuer von Bedeutung sind. Die Anschriften
+der in Hessen steuerhebeberechtigten Religionsgemeinschaften ergeben
+sich aus der Anlage 4.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600080">17.6 Vorlage
+an die OFD</lxbase:ueberschrift><lxbase:a>Widerspruchsbehörde ist für Hessen die Oberfinanzdirektion
+Frankfurt am Main. Sämtliche Widersprüche, denen nicht abgeholfen
+werden kann, sind daher der Oberfinanzdirektion vorzulegen (§ 73
+Abs. 1 Nr. 1 VwGO), nachdem die zuständige Kirchenbehörde gehört
+worden ist (vgl. Tz. 17.5); vorzulegen sind auch die Rechtsbehelfe,
+die sich gegen die Ablehnung einer Änderung der Kirchensteuerfestsetzung
+nach der Abgabenordnung richten (z.B. Widerspruch gegen die Ablehnung einer
+Änderung nach § 129 AO, § 175 AO usw.), da es sich hierbei auch
+um einen Widerspruch handelt. Die Vorlage erfolgt mit einem Bericht.</lxbase:a><lxbase:a>Zum Aufbau eines Berichts vgl. ofix: AO/5.</lxbase:a><lxbase:a>Als Betreff sollte dieser Bericht enthalten: Widerspruch
+gegen den Kirchensteuerbescheid 20xx; Name und Anschrift des / der
+Stpfl.</lxbase:a><lxbase:a>Ein Hinweis auf diese Verfügung ist nicht in den Bezug
+aufzunehmen.</lxbase:a><lxbase:a>Der Bericht soll eine kurze Schilderung des Sachverhalts
+enthalten, aus der sich ein Überblick über den Steuerfall ergibt.
+Auf die Wiedergabe von rechtlichen Begründungen kann bei der Vorlage
+von KiSt-Widersprüchen weitestgehend verzichtet werden. Am Ende
+des Berichts sollte ein Vorschlag gemacht wer-den, wie über den
+Widerspruch zu entscheiden ist.</lxbase:a><lxbase:a><lxbase:unterst>Dem Bericht sind die Steuerakten bzw.
+die ESt-Erklärungen für die widerspruchsbefangenen Jahre und der
+weitere Schriftverkehr beizufügen.</lxbase:unterst></lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600081">17.7 Ruhen
+des Verfahrens</lxbase:ueberschrift><lxbase:a>Ein Ruhen des Verfahrens, wie es bei den anderen Steuerangelegenheiten
+nach § 363 Abs. 2 AO möglich ist, ist nach der VwGO nur für das
+gerichtliche Verfahren vorgesehen. § 363 Abs. 2 AO findet im Widerspruchsverfahren
+keine Anwendung. Ein formelles Ruhen des außergerichtlichen Rechtsbehelfsverfahrens
+in Kirchensteuersachen ist daher nicht möglich. Es kann sich jedoch
+als zweckmäßig erweisen, die Vorlage des Widerspruchs an die OFD
+solange zurückzustellen, bis ein Rechtsbehelfsverfahren gegen die
+Festsetzung der ESt als Maßstabssteuer abgeschlossen ist, wenn sich
+dadurch auch der Widerspruch erledigen kann. </lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600082">18 Anträge auf Aussetzung
+der Vollziehung</lxbase:ueberschrift><lxbase:a>Da in Kirchensteuerangelegenheiten die Vorschriften der
+AO über das außergerichtliche Rechtsbehelfsverfahren nicht anwendbar
+sind, richtet sich die Behandlung eines Antrags auf Aussetzung der
+Vollziehung nach der VwGO.</lxbase:a><lxbase:a>Nach § 80 Abs. 4 VwGO kann nach Einlegung des Widerspruchs
+die Widerspruchsbehörde (hier: die OFD) die Vollziehung auf Antrag
+oder von Amts wegen aussetzen. Gegen eine ablehnende oder aufhebende
+Entscheidung ist kein Rechtsbehelf gegeben, sondern nur der Antrag
+auf Anordnung der aufschiebenden Wirkung an das Verwaltungsgericht
+(§ 80 Abs. 5 VwGO). <lxbase:unterst>Anträge auf Aussetzung der Vollziehung
+von Kirchensteuer sind daher sofort der OFD unter Beifügung der
+Akten zur Entscheidung vorzulegen</lxbase:unterst>, sobald die Aussetzung
+des Kirchensteuerbescheides mit Gründen beantragt wird, die sich
+ausschließlich gegen die KiSt-Festsetzung richten.</lxbase:a><lxbase:a>Wird die Aussetzung der Vollziehung der Kirchensteuer
+als Folgesteuer der Einkommensteuer beantragt, weil gegen den entsprechenden
+ESt-Bescheid Einspruch eingelegt wurde, kann die Kirchensteuer vom
+Finanzamt entsprechend mit der ESt ausgesetzt werden. Diese Fälle
+sind nicht der OFD vorzulegen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600083">19 Beitreibung</lxbase:ueberschrift><lxbase:a>Für die zwangsweise Einziehung von Kirchensteuern ist
+das Finanzamt zuständig, in dessen Bezirk die Vollstreckung erfolgen
+soll (§ 14 Abs. 1 HKiStG).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600084">20 Anlagen und Links</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D523554600085">Anlage
+1 Übersicht über die Kirchensteuerordnungen</lxbase:ueberschrift><lxbase:a>§ 1 Hess. KiStG i. V.m. der genehmigten</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="68*" /><cals:colspec colnum="2" colname="2" colwidth="32*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kirchensteuerordnung für
+die Evangelische Kirche in Hessen und Nassau vom 24. November 1970,</lxbase:a><lxbase:a>zuletzt geändert am 19. November 2014</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>Amtsblatt der Evangelischen
+Kirche in Hessen und Nassau 1970 S. 193</lxbase:a><lxbase:a>Amtsblatt der Evangelischen Kirche in Hessen und Nassau
+2014 S. 500</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kirchensteuerordnung für
+die Evangelische Kirche von Kurhessen-Waldeck vom 6. November 1968, zuletzt
+geändert am 27. November 2013</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1968 S. 1929</lxbase:a><lxbase:a>StAnz. 2014 S. 1114</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kirchensteuerordnung der
+Evangelischen Kirche im Rheinland (Bereich Hessen) vom 1. April
+1987 zuletzt geändert am 05. Dezember 2014</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1987 S. 1145 </lxbase:a><lxbase:a>StAnz. 2014 S. 1115</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kirchensteuerordnung für die Diözese Fulda (hessischer
+Anteil) vom 12. Dezember 1968, zuletzt geändert am 15. Juni 2004</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>StAnz. 1969 S.
+19</lxbase:a><lxbase:a>StAnz. 2004 S. 2203</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="keines"><lxbase:aufz-pkt><lxbase:a>(ab 2009) Kirchensteuerordnung für die
+Diözese Fulda (hessischer Anteil) vom 11. Dezember 2008 zuletzt
+geändert am 16. Dezember 2014</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 2009 S. 702</lxbase:a><lxbase:a>StAnz. 2014 <lxbase:az normform="S1124" manuell="nein">S 1124</lxbase:az></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kirchensteuerordnung für
+die Diözese Limburg (hessischer Anteil) vom 10. Dezember 1968, zuletzt geändert
+am 16. Dezember 2014</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1968 S. 2006</lxbase:a><lxbase:a>StAnz. 2014 S. 1124</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kirchensteuerordnung für
+die Diözese Mainz (hessischer Anteil) vom 12. Dezember 1968, zuletzt
+geändert am 13. Dezember 2014</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1969 S. 71</lxbase:a><lxbase:a>StAnz. 2014 S. 1121</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kirchensteuerordnung für
+die Erzdiözese Paderborn (hessischer Anteil) vom 23. Dezember 1968,
+zuletzt geändert am 11. Dezember 2014</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1969 S. 110</lxbase:a><lxbase:a>StAnz. 2014 S. 1116</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kirchensteuerordnung für
+die Altkatholische-Kirche in Hessen vom 19. Dezember 1968, zuletzt
+geändert am 16. Dezember 2014</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1969 S. 107</lxbase:a><lxbase:a>StAnz. 2014 S. 1117</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kultussteuerordnung der
+Frei-Religiösen Gemeinde Offenbach am Main vom 29. November 1968,
+zuletzt geändert am 10. Dezember 2008</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1968 S. 1932</lxbase:a><lxbase:a>StAnz. 2009 S. 227</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kultussteuerordnung der
+Freireligiösen Gemeinde Mainz vom 14. November 1989, zuletzt geändert
+am 17. Dezember 2014</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1990 S. 4</lxbase:a><lxbase:a>StAnz. 2014 S. 1126</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Steuerordnung der Jüdischen
+Gemeinde Frankfurt am Main vom 18. Dezember 1969, zuletzt geändert
+am 02. Dezember 2014</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1970 S. 161</lxbase:a><lxbase:a>StAnz. 2014 S. 1123</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kultussteuerordnung der
+Jüdischen Gemeinde Gießen vom 24. Juli 1980, zuletzt geändert am
+26. Mai 2002</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1980 S. 1492</lxbase:a><lxbase:a>StAnz. 2002 S. 2305</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kultussteuerordnung der
+Jüdischen Gemeinde Kassel vom 12. März 1982, zuletzt geändert am
+01. März 2009</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1982 S. 1618</lxbase:a><lxbase:a>StAnz. 2009 S. 1119</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kultussteuerordnung der
+Jüdischen Gemeinde Bad Nauheim vom 29. Dezember 1985, zuletzt geändert am
+29. Januar 2002</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1986 S. 1446</lxbase:a><lxbase:a>StAnz. 2002 S. 1154</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kultussteuerordnung der
+Jüdischen Gemeinde Darmstadt vom 8. April 1990, zuletzt geändert
+am 09. Februar 2009</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1990 S. 1141</lxbase:a><lxbase:a>StAnz. 2009 S. 969</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kultussteuerordnung der
+Jüdischen Gemeinde Offenbach vom 10. Juli 1994, zuletzt geändert
+am 21. Oktober 2001</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1994 S. 2197</lxbase:a><lxbase:a>StAnz. 2002 S. 32</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:unnum-aufz typ="punkt"><lxbase:aufz-pkt wert="• "><lxbase:a>Kultussteuerordnung der
+Jüdischen Gemeinde Fulda vom 24. November 1996, zuletzt geändert
+am 19. April 2009</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></cals:entry><cals:entry colname="2"><lxbase:a>StAnz. 1997 S. 778 </lxbase:a><lxbase:a>StAnz. 2009 S. 1536</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600086">Anlage
+2 Muster einer Erklärung gegenüber dem Betriebsstättenfinanzamt
+zur Religionszugehörigkeit für die Erhebung der pauschalen Lohnsteuer
+nach § 40, § 40a Abs. 1, 2a und 3 und § 40b EStG</lxbase:ueberschrift><lxbase:a><lxbase:fett>Muster einer Erklärung gegenüber dem Betriebsstättenfinanzamt
+zur Religionszugehörigkeit für die Erhebung der pauschalen Lohnsteuer
+nach § 40, § 40a Abs. 1, 2a und 3 und § 40b EStG</lxbase:fett></lxbase:a><lxbase:abbildung><lxbase:graphik width="886" xoffset="6.001pt" nsoffset="0.001pt" angle="0.000" align="center" position="below" impang="0.000" cropped="1" height="1048" float="0" sideways="0" dpi="150" bild="d5235546-001.gif" yoffset="6.001pt" /></lxbase:abbildung></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600088">Anlage
+3 Muster einer Erklärung gegenüber dem Betriebsstättenfinanzamt
+zur Religionszugehörigkeit für die Erhebung der pauschalen Einkommensteuer nach
+§ 37b Abs. 4 EStG</lxbase:ueberschrift><lxbase:a><lxbase:fett>Muster einer Erklärung gegenüber dem Betriebsstättenfinanzamt
+zur Religionszugehörigkeit für die Erhebung der pauschalen Einkommensteuer nach
+§ 37b Abs. 4 EStG</lxbase:fett></lxbase:a><lxbase:abbildung><lxbase:graphik width="899" xoffset="6.001pt" nsoffset="0.001pt" angle="0.000" align="center" position="below" impang="0.000" cropped="1" height="1019" float="0" sideways="0" dpi="150" bild="d5235546-002.gif" yoffset="6.001pt" /></lxbase:abbildung></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600087">Anlage
+4 Liste der Religionsgemeinschaften, die einen Antrag auf Erhebung
+der Kirchensteuer als Zuschlag zur Kapitalertragsteuer gestellt
+haben</lxbase:ueberschrift><lxbase:a><lxbase:fett>Liste der Religionsgemeinschaften, die einen
+Antrag auf Erhebung der Kirchensteuer als Zuschlag zur Kapitalertragsteuer
+gestellt haben</lxbase:fett></lxbase:a><lxbase:num-aufz><lxbase:aufz-pkt wert="1. "><lxbase:a>Evangelische
+Kirche in Deutschland (EKD) – stellvertretend für alle evangelischen Landeskirchen</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="2. "><lxbase:a>Verband der Diözesen Deutschlands
+– stellvertretend für alle steuererhebenden Diözesen</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="3. "><lxbase:a>Katholisches Bistum der
+Alt-Katholiken in Deutschland – stellvertretend für alle altkatholischen
+Gemeindeverbände, Landessynodalbezirke und Einzelgemeinden</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="4. "><lxbase:a>Landesverband der Jüdischen
+Gemeinden von Nordrhein – stellvertretend für die Landesverbände
+Nordrhein und Westfalen-Lippe sowie die Synagogengemeinde Köln</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="5. "><lxbase:a>Israelitische Religionsgemeinschaft
+Baden</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="6. "><lxbase:a>Israelitische Religionsgemeinschaft
+Württemberg</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="7. "><lxbase:a>Jüdische Gemeinde in Hamburg</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="8. "><lxbase:a>Jüdische Kultusgemeinde
+Bad Kreuznach</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="9. "><lxbase:a>Jüdische Kultusgemeinde
+Koblenz</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="10. "><lxbase:a> Landesverband der Jüdischen
+Gemeinden in Hessen</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="11. "><lxbase:a> Jüdische Gemeinde Frankfurt
+am Main</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="12. "><lxbase:a> Synagogengemeinde Saar</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="13. "><lxbase:a> Israelitische Kultusgemeinde
+in Bayern</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="14. "><lxbase:a> Freie Religionsgemeinschaft
+Alzey</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="15. "><lxbase:a> Freireligiöse Gemeinde
+Mainz</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="16. "><lxbase:a> Freireligiöse Gemeinde
+Offenbach</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="17. "><lxbase:a> Freireligiöse Landesgemeinde
+Baden</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="18. "><lxbase:a> Freireligiöse Landesgemeinde
+Pfalz</lxbase:a></lxbase:aufz-pkt></lxbase:num-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D523554600089">Anlage
+5 Liste der Religionsgemeinschaften, die einen Antrag auf Erhebung
+der Kirchensteuer als Zuschlag zur Kapitalertragsteuer gestellt
+haben</lxbase:ueberschrift><lxbase:a><lxbase:unterst><lxbase:fett>Evangelische Kirchen in Hessen</lxbase:fett></lxbase:unterst></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="50*" /><cals:colspec colnum="2" colname="2" colwidth="50*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Evangelische Kirche in Hessen
+und Nassau</lxbase:a><lxbase:a>- Kirchenverwaltung -</lxbase:a><lxbase:a>Paulusplatz 1</lxbase:a><lxbase:a>64285 Darmstadt</lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.ekhn.de" ziel-lizenzen="25 30 31">www.ekhn.de</lxprod:www-verw></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Evangelische Kirche von Kurhessen-Waldeck</lxbase:a><lxbase:a>-Landeskirchenamt-</lxbase:a><lxbase:a>Wilhelmshöher Allee 330</lxbase:a><lxbase:a>34131 Kassel</lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.ekkw.de" ziel-lizenzen="25 30 31">www.ekkw.de</lxprod:www-verw></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Evangelische Kirche im Rheinland</lxbase:a><lxbase:a>- Landeskirchenamt -</lxbase:a><lxbase:a>Hans-Böckler-Straße 7</lxbase:a><lxbase:a>40476 Düsseldorf </lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.ekir.de" ziel-lizenzen="25 30 31">www.ekir.de</lxprod:www-verw></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a /></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:unterst><lxbase:fett>Römisch-Katholische Kirchen
+in Hessen</lxbase:fett></lxbase:unterst></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="48*" /><cals:colspec colnum="2" colname="2" colwidth="52*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Römisch-katholische Kirche Diözese Limburg</lxbase:a><lxbase:a>- Bischöfliches Ordinariat -</lxbase:a><lxbase:a>Roßmarkt 4</lxbase:a><lxbase:a>65549 Limburg</lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.bistumlimburg.de" ziel-lizenzen="25 30 31">www.bistumlimburg.de</lxprod:www-verw></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Römisch-katholische Kirche</lxbase:a><lxbase:a>Diözese Fulda</lxbase:a><lxbase:a>- Bischöfliches Generalvikariat -</lxbase:a><lxbase:a>Paulustor 5</lxbase:a><lxbase:a>36037 Fulda</lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.bistum-fulda.de" ziel-lizenzen="25 30 31">www.bistum-fulda.de</lxprod:www-verw></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Römisch-katholische Kirche</lxbase:a><lxbase:a>Diözese Mainz</lxbase:a><lxbase:a>- Bischöfliches Ordinariat -</lxbase:a><lxbase:a>Bischofsplatz 2</lxbase:a><lxbase:a>55116 Mainz</lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.bistum-mainz.de" ziel-lizenzen="25 30 31">www.bistum-mainz.de</lxprod:www-verw></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Römisch-katholische Kirche</lxbase:a><lxbase:a>Erzdiözese Paderborn</lxbase:a><lxbase:a>- Erzbischöfliches Generalvikariat -</lxbase:a><lxbase:a>Domplatz 3</lxbase:a><lxbase:a>33098 Paderborn</lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.erzbistum-paderborn.de" ziel-lizenzen="25 30 31">www.erzbistum-paderborn.de</lxprod:www-verw></lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a><lxbase:unterst><lxbase:fett>Weitere Kirchen, Religions-
+oder Weltanschauungsgemeinschaften in Hessen</lxbase:fett></lxbase:unterst></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="DATEVTabelle_Standard" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="49*" /><cals:colspec colnum="2" colname="2" colwidth="51*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Katholisches Bistum der Alt-Katholiken in
+Deutschland</lxbase:a><lxbase:a>Gregor-Mendel-Str. 28</lxbase:a><lxbase:a>53115 Bonn</lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.alt-katholisch.de" ziel-lizenzen="25 30 31">www.alt-katholisch.de</lxprod:www-verw></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Freireligiöse Gemeinde Offenbach
+am Main</lxbase:a><lxbase:a>Schillerplatz 1</lxbase:a><lxbase:a>63067 Offenbach am Main</lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.freireligioese-offenbach.de" ziel-lizenzen="25 30 31">www.freireligioese-offenbach.de</lxprod:www-verw></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Freireligiöse Gemeinde Mainz</lxbase:a><lxbase:a>Gartenfeldstraße 1</lxbase:a><lxbase:a>55118 Mainz</lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.freireligioesegemeinde-mainz.de" ziel-lizenzen="25 30 31">www.freireligioesegemeinde-mainz.de</lxprod:www-verw></lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>Jüdische Gemeinde</lxbase:a><lxbase:a>Frankfurt am Main</lxbase:a><lxbase:a>- Steuerabteilung -</lxbase:a><lxbase:a>Westendstraße 43</lxbase:a><lxbase:a>60325 Frankfurt am Main</lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.jg-ffm.de" ziel-lizenzen="25 30 31">www.jg-ffm.de</lxprod:www-verw></lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Landesverband der Jüdischen
+Gemeinden in Hessen</lxbase:a><lxbase:a>Hebelstraße 6</lxbase:a><lxbase:a>60318 Frankfurt am Main</lxbase:a><lxbase:a><lxprod:www-verw linkend="http://www.lvjgh.de" ziel-lizenzen="25 30 31">http://www.lvjgh.de</lxprod:www-verw></lxbase:a><lxbase:a>für die Jüdischen Gemeinden Bad Nauheim, Darmstadt, Fulda,
+Gießen, Hanau, Kassel, Limburg, Marburg, Offenbach, Wiesbaden</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a /></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Lohnsteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Hessen</lxbase:bundesland></lxbase:region></lxbase:regionen></lxbase:allgemeine-angaben><lxbase:interne-angaben><lxbase:quelle>JurD</lxbase:quelle></lxbase:interne-angaben></lxrvw:rspvwa>

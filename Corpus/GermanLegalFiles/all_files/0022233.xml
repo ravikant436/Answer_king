@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01 http://xml.datev.de/lexinform/cms/rspvwa/v01/LEXRSPVWA.xsd" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" dok-nummer="0022233" xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Koblenz</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2233 A - St 32 2 - </lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2233</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="1975-11-24" /></lxbase:daten><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:13a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:40a/2</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:4/3</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStDV:78</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="1975" /></lxbase:jahre><lxbase:zitate><lxbase:alt-zitate><lxbase:alt-zitat>OFD Koblenz <lxbase:az normform="S2233 ASt342" manuell="nein">S-2233
+A - St 34 2</lxbase:az> v. 12. 12. 1980*</lxbase:alt-zitat></lxbase:alt-zitate></lxbase:zitate></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Einkommensteuer der nichtbuchführenden Landwirte;
+hier: Ermittlung des Gewinns aus Weinbau für das Wirtschaftsjahr
+<lxbase:az normform="1974/75" manuell="nein">1974/75</lxbase:az></lxbase:a></lxbase:headline></lxbase:titel><lxbase:kapitel><lxbase:a>Inhaltsübersicht</lxbase:a><lxbase:a>1. Allgemeines</lxbase:a><lxbase:a>2. Gewinnermittlungsart</lxbase:a><lxbase:a>3. Erfassung der Betriebseinnahmen</lxbase:a><lxbase:a>4. Bebauungskosten-Pauschsätze</lxbase:a><lxbase:a>5. Erhöhte AfA wegen Reblausverseuchung</lxbase:a><lxbase:a>6. Lohnaufwendungen</lxbase:a><lxbase:a>7. Nutzungswert der eigenen Wohnung</lxbase:a><lxbase:a>8. Steuervergünstigung nach § 78 EStDV</lxbase:a><lxbase:a>1. Allgemeines</lxbase:a><lxbase:a>Durch die Vorschrift des § 13a EStG, die erstmals für
+Wirtschaftsjahre anzuwenden ist, die nach dem 31. 12. 1973 beginnen,
+wird das Gesetz über die Ermittlung des Gewinns aus Land-
+und Forstwirtschaft nach Durchschnittsätzen (GDL) abgelöst.</lxbase:a><lxbase:a>2. Gewinnermittlungsart <lxbase:za /> Der Gewinn aus Weinbau der Winzer,
+die weder zur Buchführung verpflichtet sind noch einen
+Antrag nach § 13a Abs. 1 Satz 2 EStG stellen, ist für
+das Wirtschaftsjahr <lxbase:az normform="1974/75" manuell="nein">1974/75</lxbase:az> nach § 13a Abs. 2
+- 6 EStG zu ermitteln, wenn sich ein Grundbetrag nach § 13a
+Abs. 3 EStG von mehr als 0,-- DM ergibt (vgl. Abschnitt 127 Abs.
+4 EStER 1975). Der Weinbau rechnet dabei zu den Sondernutzungen
+i. S. des § 13a Abs. 3 Ziff. 1 Buchst. c EStG. Gewinne aus
+diesem Betriebszweig sind daher im Rahmen des § 13a Abs.
+6 Ziff. 1 EStG dann in vollem Umfang durch einen Zuschlag zu erfassen,
+wenn die Summe der Vergleichswerte aller in § 13a Abs.
+3 Ziff. 1 Buchst. c EStG genannten Nutzungen, Nutzungsteile und
+sonstigen Wirtschaftsgüter unter Berücksichtigung
+der Werte möglicher Zupachtungen und Verpachtungen (§ 13a
+Abs. 3 Ziff. 4 EStG) mehr als 4.000,-- DM beträgt. Bei
+der Ermittlung des Ausgangswerts und des Grundbetrags gemäß § 13a
+Abs. 3 EStG bleiben die vorgenannten Vergleichswerte in diesem Fall
+entsprechend unberücksichtigt.</lxbase:a><lxbase:a>Die Vorschrift des § 13a EStG ist jedoch dann nicht
+anzuwenden, wenn ausschließlich Weinbau betrieben wird
+und der Vergleichswert dieser Nutzung unter Berücksichtigung
+der Werte möglicher Zupachtungen und Verpachtungen über
+4.000,-- DM liegt.</lxbase:a><lxbase:a>Die durch § 13a EStG getroffene Neuregelung der Besteuerung
+der nichtbuchführenden Land- und Forstwirte führt
+darüberhinaus im Ergebnis zu keiner grundlegenden Änderung
+des Verfahrens für die Ermittlung des Gewinns aus Weinbau. Der
+nach § 13a Abs. 6 Ziff. 1 EStG zu erfassende Ertrag (= Gewinn)
+aus Weinbau ist - wie bisher - durch Gegenüberstellung
+der Betriebseinnahmen und der Betriebsausgaben zu ermitteln.</lxbase:a><lxbase:a>Betriebseinnahmen sind dabei alle Einnahmen, die dem Betrieb
+aus der Verwertung der Ernte (Trauben, Maische, Most und Wein),
+der Nebenerzeugnisse (Trester, Branntwein, Hefe) sowie aus der Verwertung
+eines steuerlich unschädlichen Zukaufs fremder Erzeugnisse
+und aus etwaigen Hilfsgeschäften des Weinbaubetriebs zufließen
+einschließlich der Zuschüsse und der dem Betrieb
+für die private Lebensführung entnommenen Erzeugnisse.</lxbase:a><lxbase:a>Betriebsausgaben sind alle Aufwendungen, die durch die Bewirtschaftung
+der Rebfläche, insbesondere durch die Bebauung, die Ernte
+sowie durch den Ausbau und den Vertrieb der Erzeugnisse entstehen. Bei
+der Ermittlung der Betriebsausgaben ist - wie bisher - zwischen
+den sachlichen Bebauungskosten und den Lohnaufwendungen zu unterscheiden.</lxbase:a><lxbase:a>3. Erfassung der Betriebseinnahmen <lxbase:za /> Die vollständige
+Erfassung der Betriebseinnahmen ist nur gewährleistet, wenn
+die Ernteerträge zuverlässig festgestellt werden. Die
+Angaben der Steuerpflichtigen sind durch die in der Anlage "ESt
+3 W" dargestellte "Ernte-Umsatz-Verprobung" nachzuprüfen. Ergeben
+sich hierbei von den erklärten Betriebseinnahmen abweichende
+Ergebnisse, ist es notwendig, die aufgetretenen Unstimmigkeiten
+- u. U. auch an Hand des Kellerbuches - nachzuprüfen. Vorhandenes
+Kontrollmaterial ist dabei auszuwerten.</lxbase:a><lxbase:a>4. Bebauungskosten-Pauschsätze <lxbase:za /> Zur Abgeltung
+der sachlichen Bebauungskosten der nichtbuchführenden Winzer
+für das Wirtschaftsjahr <lxbase:az normform="1974/75" manuell="nein">1974/75</lxbase:az> habe ich die in
+der Anlage 1 für die verschiedenen Anbaugebiete aufgeführten
+Rahmensätze der sachlichen Kosten je Hektar festgesetzt. Hierzu
+ist noch folgendes zu bemerken:</lxbase:a><lxbase:a>a) Der Kürzungsbetrag in Höhe von 500,-- DM / ha
+bei Vollablieferung der Trauben und Maische an Dritte soll unverändert
+bleiben, ebenso die Durchschnittswerte der erforderlichen Vollarbeitskräfte
+(VAK) je ha.</lxbase:a><lxbase:a>b) Die Pauschbeträge zur Abgeltung der sachlichen Bebauungskosten
+sind entsprechend der Größe der Erhebungsbetriebe
+auf die Verhältnisse von kleineren nichtbuchführenden
+Betrieben abgestellt. Da bei größeren
+Betrieben in der Regel eine günstigere Ausnutzung von Maschinen
+und Anlagen möglich ist, sind die Pauschbeträge
+insoweit um 20 % zu kürzen, als die bewirtschaftete Weinbaufläche
+6,0 ha übersteigt.</lxbase:a><lxbase:a>c) Bei Schädlingsbekämpfung durch Hubschrauber
+sind zur Abgeltung der sachlichen Mehrkosten je Hubschrauberspritzung
+100,-- DM / ha neben den allgemeinen Pauschbeträgen
+abzugsfähig. Dabei sind die Zahl der Hubschrauberspritzungen
+und die jeweils beflogene Fläche im Wj. 1974/75
+durch Bescheinigungen der Raiffeisenkassen, Gemeinden oder anderer
+zuständiger Stellen nachzuweisen.</lxbase:a><lxbase:a>d) Die sachlichen Kosten für die Nachrüstung
+von Altschleppern mit Umsturzvorrichtungen sind gegen Einzelnachweis
+neben den allgemeinen Pauschbeträgen in voller Höhe
+im Jahr der Verausgabung zu berücksichtigen. Dabei müssen
+jedoch etwaige Zuschüsse der Landwirtschaftlichen Berufsgenossenschaft
+angerechnet werden (die Landw. Berufsgenossenschaft Rheinhessen-Pfalz
+in Speyer zahlt z. B. auf Antrag je Fall 150,-- bis 250,-- DM).</lxbase:a><lxbase:a>e) Die sachlichen Kosten für die Beseitigung der Unwetterschäden
+vom 24. 6. 1974 - hauptsächlich durch starke Abschwemmungen
+des Mutterbodens in den Hanglagen und Überflutungen in
+den Ebenen - in den pfälzischen Weinbaugemeinden Kallstadt,
+Leistadt und Ungstein, strichweise auch in den Weinbaugemeinden
+Ellerstedt, Freinsheim, Friedelsheim, Gönnheim und Weisenheim
+a. Berg sind gegen Einzelnachweis neben den allgemeinen Pauschbeträgen
+im Jahr der Verausgabung in voller Höhe abzuziehen. Dabei
+sollen die Finanzämter nicht kleinlich verfahren.</lxbase:a><lxbase:a>Die Bebauungskosten-Rahmensätze entsprechen den Aufwendungen
+aller in der jeweiligen Bebauungskostengruppe zusammengefaßten
+Gemeinden, und zwar sowohl der Gemeinden mit dem höchsten
+Bebauungskostenaufwand als auch der Gemeinden, deren Kosten den
+untersten Rahmen nicht überschreiten. Die Rahmensätze
+sind in der Weise anzuwenden, daß die Finanzämter
+nach sorgfältiger und sachverständiger Prüfung
+- ggf. im Benehmen mit den landwirtschaftlichen Betriebsprüfern,
+die die Erhebungen in den einzelnen Gemeinden durchgeführt
+haben - für jede einzelne zur Bebauungskostengruppe gehörende
+Gemeinde den entsprechenden Pauschsatz bestimmen, der innerhalb des
+Rahmensatzes dem Bebauungskostenaufwand dieser Gemeinde am besten gerecht
+wird. Dabei erscheint es zur Vermeidung von Unzuträglichkeiten
+geboten, daß wegen der Festlegung der Pauschbeträge
+für benachbarte Weinbaugemeinden mit nicht wesentlich abweichender
+Kostenstruktur in verschiedenen Finanzamtsbezirken diese Nachbar-Finanzämter
+sich zusätzlich rechtzeitig untereinander abstimmen. Sind
+auf diese Weise die Bebauungskosten für die einzelnen Gemeinden
+angeglichen und festgesetzt, so bitte ich, berufsständische
+Vertreter als amtliche Sachverständige (etwa 2 bis 3 Vertreter)
+zu den beabsichtigten Festsetzungen zu hören, ohne daß der
+Finanzverwaltung hierdurch Kosten entstehen. Sofern die
+Vertreter des Weinbaues ihre Zustimmung nicht geben, obwohl nach
+der betrieblichen Struktur und den tatsächlichen Verhältnissen,
+insbesondere nach den festgestellten Bebauungskosten, für
+die in Betracht kommende Weinbaugemeinde ein höherer als
+der vorgesehene Pauschsatz nicht gerechtfertigt ist, hat das Finanzamt
+den Bebauungskosten Pauschsatz für diese Gemeinde selbst
+festzusetzen.</lxbase:a><lxbase:a>Die Festsetzung der Pauschsätze ist listenmäßig
+mit folgender Kopfleiste vorzunehmen:</lxbase:a><cals:tabelle frame="all" colsep="1" rowsep="1"><cals:tgroup cols="2" tgroupstyle="FORMATA" colsep="1" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="50*" /><cals:colspec colnum="2" colname="2" colwidth="50*" /><cals:tbody><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Weinbaugemeinde</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>sachliche Kosten</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Der auf diese Weise festgesetzte Bebauungskosten-Pauschsatz ist
+für die Veranlagung aller Winzer (mit Gewinnermittlung
+nach § 13a Abs. 6 Ziff. 1 EStG bzw. § 4 Abs. 3
+EStG) in der betreffenden Weinbaugemeinde maßgebend.</lxbase:a><lxbase:a>Ich bitte, mir die für die einzelnen Gemeinden oder
+Gruppen von Gemeinden festgesetzten Bebauungskosten-Pauschsätze
+bis zum 30. 12. 1975 mitzuteilen. Soweit statt der bisherigen
+Rahmensätze nur noch ein einheitlicher Pauschbetrag festgesetzt
+worden ist, kann von einer entsprechenden Berichtsvorlage abgesehen
+werden.</lxbase:a><lxbase:a>Durch die Pauschsätze sind alle sachlichen Kosten der
+Bewirtschaftung einschließlich der AfA auf das abnutzbare
+Anlagevermögen und auf die Rebanlagen, des Erhaltungs-
+und Instandsetzungsaufwands und des Rebstockersatzes sowie der Kelterungs-
+und Kellerkosten (sachliche Kosten des Kellergebäudes und
+der Lagerfässer bzw. Lagertanks) abgegolten, mit Ausnahme:</lxbase:a><lxbase:a>a) der Zuckerungskosten, Ausbaukosten und der Vertriebskosten,</lxbase:a><lxbase:a>b) der Beiträge für die Versicherung der Reben
+gegen Hagelschaden,</lxbase:a><lxbase:a>c) der Umlegungskosten von Weinbergsgelände im Rahmen
+der Flurbereinigung,</lxbase:a><lxbase:a>d) der auf das Weinbauvermögen entfallenden Pachtzinsen,</lxbase:a><lxbase:a>e) der Beiträge für den Neubau von Weinbergswegen,
+die aufgrund einer amtlichen Beitragssatzung, die den Vorschriften
+des Kommunalabgabengesetzes entspricht, erhoben werden,</lxbase:a><lxbase:a>f) der Aufwendungen für eigene Anlagen zur Frostbekämpfung
+nach Maßgabe des § 7 EStG und der Beiträge
+an Boden- und Wasserverbände, die für die Beregnung
+von Weinbergsgelände erhoben werden,</lxbase:a><lxbase:a>g) der Schuldzinsen einschließlich der auf die HGA entfallenden
+Zinsen, soweit sie das Einbauvermögen betreffen,</lxbase:a><lxbase:a>h) der Umsatzsteuerbeträge (Zahllast) nach dem UStG
+1967,</lxbase:a><lxbase:a>i) des Pauschsatzes für erhöhte AfA wegen Reblausverseuchung
+nach Maßgabe der nachstehenden Ziffer 5.</lxbase:a><lxbase:a>Die unter Buchstaben a - i aufgeführten Ausgaben sind über
+den Pauschsatz zur Abgeltung der sachlichen Kosten hinaus in der
+in der "Anlage Weinbau" zur Einkommensteuererklärung
+nachgewiesenen Höhe neben dem Bebauungskosten-Pauschsatz
+abzugsfähig.</lxbase:a><lxbase:a>Die durch den Abstich und das Abfüllen usw. entstehenden
+sachlichen Kosten, z. B. für Flaschen, Korken, Etiketten
+und Fracht, sind ebenfalls in der nachgewiesenen Höhe neben
+den Pauschsätzen für die sachlichen Kosten abzugsfähig. Zu
+Abgeltung der auf den Ausbau und die Abfüllung entfallenden anteiligen,
+im einzelnen nicht nachweisbaren Kosten (für Strom, Wasser,
+Reinigung u. ä.) ist außerdem ein besonderer Pauschbetrag,
+den das einzelne Finanzamt für seinen Bezirk einheitlich
+festzulegen hat, zu berücksichtigen.</lxbase:a><lxbase:a>5. Erhöhte AfA wegen Reblausverseuchung <lxbase:za /> Bei wurzelechten
+Rebanlagen (nicht bei Pfropfreben) in reblausverseuchten Gemeinden
+ist wegen der hierdurch bedingten Verkürzung der Nutzungsdauer neben
+den allgemeinen Pauschbeträgen für sachliche Kosten
+ein Pauschbetrag für erhöhte AfA abzugsfähig. Die
+Nutzungsdauer der Rebstöcke endet jedoch, sobald die Rebstöcke
+ausgehauen sind. Eine AfA ist daher von diesem Zeitpunkt
+ab nicht mehr zulässig. Der Pauschbetrag kommt
+für das Brachfeld ebenfalls nicht in Betracht, weil nach
+dem Aushauen auf diesen Flächen keine Rebstöcke
+mehr vorhanden sind, deren Ertragsfähigkeit (Nutzungsdauer)
+verkürzt wird.</lxbase:a><lxbase:a>Dem Auftreten der Reblaus wird in den verseuchten Weinbaugemeinden (Anlage
+2 + 3), gleichgültig ob sie stark oder schwach
+verseucht sind, durch eine einheitliche außerordentliche
+AfA Rechnung getragen. Der Pauschbetrag für diese
+erhöhte AfA beträgt - wie bisher - 300,-- DM je
+ha.</lxbase:a><lxbase:a>a) Erstmalige Feststellung der Reblausverseuchung (Erstverseuchung) <lxbase:za /> 
+ Ausgehend von der zugrundeliegenden Restnutzungsdauer von 12 Jahren kann
+die erhöhte AfA bei den betroffenen Rebanlagen nur für
+12 Wirtschaftsjahre ab dem Jahre der amtlichen Anerkennung als reblausverseuchte Gemeinde
+in Betracht kommen. Danach ist für das Wj. 1974/75
+die erhöhte AfA nur dann abzugsfähig, wenn die
+Anerkennung als reblausverseuchte Gemeinde nicht vor dem Jahr 1963
+erfolgt ist.</lxbase:a><lxbase:a>In der Anlage 2 sind die reblausverseuchten Gemeinden mit dem
+Jahr der erstmaligen Anerkennung der Reblausverseuchung und dem
+Wirtschaftsjahr, für das letztmalig eine erhöhte
+AfA anzusetzen ist, aufgeführt.</lxbase:a><lxbase:a>b) Erneute Feststellung der Reblausverseuchung <lxbase:za /> In zahlreichen
+Weinbaugemeinden des Anbaugebiets Mosel-Saar- Ruwer wurde nach der
+Erstverseuchung des Gemeindebezirks in späteren Jahren
+bei einzelnen Parzellen erneut Reblausverseuchung festgestellt (Hinweis
+auf die Zusammenstellung in Anlage 3). Sofern der Zwölfjahreszeitraum
+seit der Erstverseuchung (vgl. Buchstabe a) bereits abgelaufen ist,
+kann für die Rebanlagen der unmittelbar erneut reblausverseuchten
+Parzellen nochmals erhöhte AfA für einen Zeitraum
+von höchstens 12 Jahren seit der Neufeststellung der Reblausverseuchung
+beansprucht werden, wenn die folgenden Voraussetzungen gegeben sind:</lxbase:a><lxbase:a>1. Die Steuerpflichtigen legen den Bescheid des Reblauskommissars
+vor, aus dem sich ergibt, wann und unmittelbar bei welchen Parzellen
+erneut Reblausverseuchung festgestellt worden ist.</lxbase:a><lxbase:a>2. Die Steuerpflichtigen weisen durch geeignete Unterlagen nach,
+daß durch Maßnahmen gegen die erneute Reblausverseuchung
+zusätzliche Aufwendungen entstanden sind.</lxbase:a><lxbase:a>Die Weinbaugemeinden, die in beiden Übersichten (Anlage
+2 und 3) aufgeführt sind, wurden besonders gekennzeichnet
+(++). Soweit in diesen Fällen das
+Wirtschaftsjahr <lxbase:az normform="1974/75" manuell="nein">1974/75</lxbase:az> in dem Zwölfjahreszeitraum
+sowohl der Erstverseuchung als auch der erneuten Verseuchung liegt,
+sind für den Ansatz des Pauschbetrags für die
+erhöhte AfA nur die unter Buchstabe a geforderten Voraussetzungen
+erforderlich.</lxbase:a><lxbase:a>6. Lohnaufwendungen <lxbase:za /> Die Lohnaufwendungen für
+die in einem Arbeitsverhältnis tätigen Arbeitskräfte
+sind grundsätzlich nur in der vom Steuerpflichtigen nachgewiesenen Höhe
+als Betriebsausgaben abzugsfähig. Es ist jedoch
+zu beachten, daß bei der Ermittlung des Gewinns aus Weinbau
+im Rahmen des § 13a Abs. 6 Ziff. 1 EStG nur die Lohnaufwendungen
+neben den Pauschsätzen zur Abgeltung der sachlichen Kosten
+zu berücksichtigen sind, die durch den Weinbau veranlaßt sind. Werden
+von den Steuerpflichtigen keine oder unzutreffende Angaben über
+den Umfang der Beschäftigung der insgesamt vorhandenen
+Arbeitskräfte in diesem Betriebszweig gemacht, so ist in
+sinngemäßer Anwendung der Rdverf. vom 5. 1. 1967
+- <lxbase:az normform="S2142ASt32 2" manuell="nein">S-2142 A - St 32
+2</lxbase:az> - zu verfahren.</lxbase:a><lxbase:a>Zum Nachweis der Lohnaufwendungen für Aushilfskräfte
+(nicht aber auch für die anderen entlohnten Arbeitskräfte)
+genügt im allgemeinen, wenn die Zahl der Arbeitskräfte,
+die Anzahl der Arbeitstage und die Einbehaltung der Lohnsteuer nachgewiesen
+werden. Das schließt jedoch nicht aus, daß in begründeten
+Einzelfällen, in denen gegen die Höhe der geltend
+gemachten Lohnaufwendungen für Aushilfskräfte
+Bedenken bestehen, ein weitergehender Nachweis (Angabe des Namens
+und der Anschrift des Arbeitnehmers), der ohnehin vom Steuerpflichtigen
+für lohnsteuerliche Zwecke zu führen ist (Rdverf.
+vom 8. 10. 1973 - <lxbase:az normform="S2371 ASt331" manuell="nein">S-2371
+A - St 33 1</lxbase:az>), auch im Veranlagungsverfahren verlangt werden
+kann. Eine Schätzung von Aushilfslöhnen
+ist in der Regel nicht zulässig. Wegen der Definition des
+Begriffs "Aushilfskräfte" verweise ich
+im übrigen auf die Rdverf. vom 8. 10. 1973 und 16. 5. 1974
+- <lxbase:az normform="S2371ASt33 1" manuell="nein">S-2371 A - St 33
+1</lxbase:az> - sowie auf § 40a Abs. 2 EStG 1975.</lxbase:a><lxbase:a>Nutzungswert der eigenen Wohnung <lxbase:za /> Der Nutzungswert der
+Wohnung des Betriebsinhabers und seiner Angehörigen ist
+in Fällen, in denen der Gewinn aus Weinbau nach § 13a
+Abs. 2 - 6 EStG zu ermitteln ist (vgl. dazu Ziff. 2 dieser Rdverf.),
+durch den Ansatz von
+1/18 des im Einheitswert besonders ausgewiesenen Wohnungswerts
+erfaßt (§ 13a Abs. 2 Ziff. 5 EStG). Soweit
+jedoch ausschließlich Weinbau betrieben wird und § 13a
+Abs. 2 - 6 EStG keine Anwendung findet, muß der Nutzungswert
+der Wohnung von zulässiger Weise nichtbuchführenden
+Winzern im Rahmen der Gewinnermittlung nach § 4 Abs. 3
+EStG oder der Schätzung nach § 4 Abs. 1 EStG ebenfalls
+gewinnerhöhend berücksichtigt werden. Auch
+in diesen Fällen ist grundsätzlich der Nutzungswert
+der Wohnung des Betriebsinhabers und seiner Angehörigen
+- aus Gründen der Gleichmäßigkeit und
+der Vereinfachung in derselben Weise - <lxbase:az normform="mit-1/18" manuell="nein">mit 1/18</lxbase:az> des im Einheitswert
+des Betriebs besonders ausgewiesenen Wohnungswerts - anzusetzen. Dieser
+Wert ist als Netto- Nutzungswert bei der Gewinnermittlung zu erfassen.</lxbase:a><lxbase:a>8. Steuervergünstigung nach § 78 EStDV <lxbase:za /> 
+ Die im Rahmen des § 13a Abs. 2 - 6 EStG erfaßten
+Gewinne aus Weinbau stellen Gewinne nach Durchschnittsätzen
+dar mit der Maßgabe, daß - soweit im übrigen
+die Voraussetzungen dafür vorliegen - nur die Vergünstigung
+des § 78 EStDV (nicht § 77 EStDV) in Anspruch
+genommen werden kann.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Rechnungslegung</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Rheinland-Pfalz</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:branchen><lxbase:branche>Landwirtschaft</lxbase:branche></lxbase:branchen></lxbase:allgemeine-angaben></lxrvw:rspvwa>

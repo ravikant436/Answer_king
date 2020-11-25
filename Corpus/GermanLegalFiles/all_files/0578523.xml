@@ -1,0 +1,880 @@
+﻿<?xml version="1.0" encoding="utf-8"?><lxrvw:rspvwa xmlns:lxrvw="http://xml.datev.de/lexinform/cms/rspvwa/v01" xmlns:cals="http://xml.datev.de/lexinform/cms/navycals/reduced/v01" xmlns:lxbase="http://xml.datev.de/lexinform/cms/base/v01" xmlns:lxprod="http://xml.datev.de/lexinform/cms/produktion/v01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dok-nummer="0578523" dok-art="Verfügung" dok-typ="Verwaltungsanweisung" xsi:schemaLocation="http://xml.datev.de/lexinform/cms/rspvwa/v01  file:////LEXinformRedaktion/XML/Schema/rspvwa/v01/LEXRSPVWA.xsd"><lxbase:bibliographische-angaben><lxbase:autor><lxbase:institution>Oberfinanzdirektion Koblenz</lxbase:institution></lxbase:autor><lxbase:aktenzeichen>S-2230 A - St 31 1</lxbase:aktenzeichen><lxbase:aktenzeichen-weitere><lxbase:ts>S-2230</lxbase:ts></lxbase:aktenzeichen-weitere><lxbase:lizenzen2><lxbase:lizenz2 name="Steuern" id="07" /></lxbase:lizenzen2><lxbase:daten><lxbase:datum normdat="2004-07-08" ts="nein" /></lxbase:daten><lxbase:normen><lxbase:norm><lxbase:norm-kuerzel>EStG:4/3</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:4a/2/1</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:13</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:13a</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>EStG:15/4</lxbase:norm-kuerzel></lxbase:norm><lxbase:norm><lxbase:norm-kuerzel>UmwStG:24</lxbase:norm-kuerzel></lxbase:norm></lxbase:normen><lxbase:jahre><lxbase:jahr jahr="2004" /><lxbase:jahr jahr="2002" /></lxbase:jahre></lxbase:bibliographische-angaben><lxrvw:text-rspvwa><lxbase:titel><lxbase:headline><lxbase:a>Einkommensbesteuerung der Land- und Forstwirte
+für das Kalenderjahr 2002</lxbase:a></lxbase:headline></lxbase:titel><lxbase:inhaltsverzeichnis><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300001"><lxbase:a>1	 Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300002"><lxbase:a>2 	Schätzungslandwirte</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300003"><lxbase:a>2.1	 Allgemeines</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300004"><lxbase:a>2.2	 Schätzungsausgangsbetrag</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300005"><lxbase:a>2.2.1 	Einteilung der Betriebe</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300006"><lxbase:a>2.2.2 Schätzungsausgangsbeträge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300007"><lxbase:a>2.2.3 Entschädigungen und Zuschüsse aus öffentlichen Förderungsprogrammen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300008"><lxbase:a>2.2.4 Umsatzrichtwerte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300009"><lxbase:a>2.3	 Zuschläge für nicht mit dem Schätzungsausgangsbetrag
+abgegoltene Gewinne bzw. Mehrgewinne</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300010"><lxbase:a>2.3.1 Wein-, Obst- und Gemüsebau</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300011"><lxbase:a>2.3.2 Tabakbau</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300012"><lxbase:a>3	 Wert der unbaren Altenteilsleistungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300013"><lxbase:a>4	 Keine Teilwertabschreibung für landwirtschaftliche
+Brennrechte</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300014"><lxbase:a>4.1	 Anträge auf Teilwertabschreibung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300015"><lxbase:a>4.2 	Keine dauernde Wertminderung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300016"><lxbase:a>4.3	 Änderung des Branntweinmonopolgesetzes</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300017"><lxbase:a>4.4	 Veräußerbarkeit der landwirtschaftlichen Brennrechte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300018"><lxbase:a>4.5	 Rechtslage ab 01.01.2004</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300019"><lxbase:a>4.6	 Übernahmepreise für landwirtschaftliche Brennrechte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300020"><lxbase:a>4.7 Subventionskürzung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300021"><lxbase:a>4.8	 Ausgleichsbetrag für Brennrechte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300022"><lxbase:a>5	 Geländewagen und private Nutzung betrieblicher Kraftfahrzeuge</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300023"><lxbase:a>6 	Bilanzierungspflicht i. R. des § 24 UmwStG bei Gewinnermittlung
+nach § 4 Abs. 3 EStG</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300024"><lxbase:a>6.1 	Einbringungen nach § 24 UmwStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300025"><lxbase:a>6.2 	Betriebsübertragungen in anderen Fällen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300026"><lxbase:a>7	 Einheitliche und gesonderte Feststellung bei einer
+(Ehegatten-)Mitunternehmerschaft</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300027"><lxbase:a>7.1	 Durchführung einer einheitlichen und gesonderten
+Gewinnfeststellung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300028"><lxbase:a>7.2	 Fall von geringer Bedeutung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300029"><lxbase:a>7.2.1 Voraussetzungen für einen Fall von geringer Bedeutung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300030"><lxbase:a>7.2.2 Kein Fall von geringer Bedeutung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300031"><lxbase:a>7.2.3 Strittige Mitunternehmerschaft</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300032"><lxbase:a>7.2.4 Kein ohne Schwierigkeiten zu überblickender Sachverhalt</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300033"><lxbase:a>7.2.5 Andere Streitpunkte</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300034"><lxbase:a>7.3 Voraussetzungen und zeitlicher Umfang der nachholbaren
+Feststellungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300035"><lxbase:a>8	 Entnahme- oder Aufgabeerklärung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300036"><lxbase:a>8.1	 Grundsätze</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300037"><lxbase:a>8.2	 Aufgabe- und Entnahmeerklärung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300038"><lxbase:a>8.3	 Wirksamkeit einer Entnahme- oder Aufgabeerklärung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300039"><lxbase:a>8.3.1 Rückwirkende Erklärungen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300040"><lxbase:a>8.3.2 Betriebsaufgabeerklärung durch einen Erben nach
+R 139 Abs. 5 Satz 8 EStR 2003 bei Betriebsverpachtung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300041"><lxbase:a>8.3.3 Rückwirkende Erklärung einer Entnahme oder Betriebsaufgabe</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300042"><lxbase:a>8.3.4 Beweislast für die wirksame Entnahme- oder Aufgabeerklärung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300043"><lxbase:a>8.3.5 Rechtsprechungsübersicht zur Betriebsaufgabe und
+(teilweise) Entnahme</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300044"><lxbase:a>9	 Verluste aus gewerblicher Tierzucht oder Tierhaltung
+nach § 15 Abs. 4 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300045"><lxbase:a>10	 Hagelentschädigung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300046"><lxbase:a>10.1 Zum Versicherungsschutz</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300047"><lxbase:a>10.2 Zur Gewinnermittlung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300048"><lxbase:a>10.3 Zur Steuerermäßigung nach § 34 EStG</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300049"><lxbase:a>11 	Berücksichtigung von Nutzungsrechten bei der Verkehrswert-
+oder Teilwertermittlung von Grundstücken</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300050"><lxbase:a>11.1 Ansatz bei der Verkehrswert- oder Teilwertermittlung
+durch (Bau-)Sachverständige oder Gutachterausschüsse</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300051"><lxbase:a>11.2 Berücksichtigung von Nutzungsrechten an Grundstücken
+bei der Einkommensbesteuerung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300052"><lxbase:a>11.2.1 Grundsätze zum Wertansatz</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300053"><lxbase:a>11.2.2 Verkehrswert oder Teilwert bei Grundstücken im
+Betriebsvermögen.</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300054"><lxbase:a>11.2.3 Anschaffungskosten und Kaufpreisaufteilung bei
+Grundstücken im Privatvermögen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300055"><lxbase:a>11.3 Erstellung von Gutachten durch (Bau-)Sachverständige
+oder Gutachterausschüsse</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300056"><lxbase:a>12	 Unüblich niedrige Pacht- oder Mietzinsen bei der Grundstücksbewertung</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300057"><lxbase:a>12.1 Allgemeine Grundsätze</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300058"><lxbase:a>12.2 Land- und forstwirtschaftlich genutzte Grundstücke</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300059"><lxbase:a>12.3 Gutachten durch Sachverständige und Gutachterausschüsse</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300060"><lxbase:a>13	 Freibetrag zur Abfindung weichender Erben</lxbase:a></lxbase:inhalttext><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300061"><lxbase:a>13.1 	Keine Freibetragsverteilung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300062"><lxbase:a>13.2 Betriebsbezogene Vergünstigung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300063"><lxbase:a>14	 Weinbestände bei Betriebsaufgabe oder -veräußerung</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300064"><lxbase:a>15	 Einkommensteuer-Richtlinien 2003</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag><lxbase:inhalteintrag><lxbase:inhalttext link="D057852300065"><lxbase:a>16	 Rechenvorlagen</lxbase:a></lxbase:inhalttext></lxbase:inhalteintrag></lxbase:inhaltsverzeichnis><lxbase:kapitel><lxbase:ueberschrift id="D057852300001">1	 Allgemeines</lxbase:ueberschrift><lxbase:a>Für die Einkommensbesteuerung der Land- und Forstwirte
+(LuF) für das Kalenderjahr (Kj.) 2002 bzw. für die Gewinnermittlung
+des Wirtschaftsjahres (W.)  2002/2003 gelten die grundlegenden
+Anordnungen in der Rundverfügung (Rdvfg.) vom 23.06.1999 - <lxprod:doknr-verw linkend="HT0555451">S-2230
+A - St 312</lxprod:doknr-verw> - (FIND-Name: HM50AAEI) soweit nachfolgend nicht etwas
+anderes bestimmt ist.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300002">2 	Schätzungslandwirte</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057852300003">2.1	 Allgemeines</lxbase:ueberschrift><lxbase:a>Die Grundsätze zur Schätzung des Gewinns von LuF gelten
+weiterhin uneingeschränkt (siehe Tz. 3.1 ff. der o. g. Rdvfg. vom
+23.06.1999).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300004">2.2	 Schätzungsausgangsbetrag</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057852300005">2.2.1
+	Einteilung der Betriebe</lxbase:ueberschrift><lxbase:a>Die bisher maßgebende Einteilung der landwirtschaftlichen
+Betriebe bleibt unverändert bestehen, aus Zweckmäßigkeitsgründen
+wird sie dennoch nachfolgend aufgeführt.</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="6" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="24*" /><cals:colspec colnum="2" colname="2" colwidth="15*" /><cals:colspec colnum="3" colname="3" colwidth="15*" /><cals:colspec colnum="4" colname="4" colwidth="15*" /><cals:colspec colnum="5" colname="5" colwidth="15*" /><cals:colspec colnum="6" colname="6" colwidth="15*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einteilung in die Gruppen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">1 <lxbase:za />Getreidebau</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">2 <lxbase:za />Hackfruchtbau</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">3 <lxbase:za />Veredelung</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">4 <lxbase:za />Milchvieh</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">5 <lxbase:za />Futterbau</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry nameend="6" namest="1"><lxbase:a>Anbauflächen in
+v. H. der landwirtschaftlichen Produktionsfläche (LP)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Getreide</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>über 50</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>über 50</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>über 50</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>unter 50</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>unter 50</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Hackfrüchte</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>unter 20</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>über 20</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>unter 20</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>unter 20</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>unter 20</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Futterbau</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>unter 30</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>unter 30</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>unter 30</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>über 30</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>über 30</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry nameend="6" namest="1"><lxbase:a>Zusätzliche Abgrenzungskriterien</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Schweinebestand</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">unter <lxbase:za />1,8
+VE/ha</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">unter <lxbase:za />1,8
+VE/ha</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">unter <lxbase:za />1,8
+VE/ha</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">unter <lxbase:za />1,8
+VE/ha</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">unter <lxbase:za />1,8
+VE/ha</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Milchkühe in v. H. des Rinderbestandes
+bezogen auf Durchschn.-Bestand</lxbase:a></cals:entry><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>über 40</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>unter 40</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a /></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300006">2.2.2
+Schätzungsausgangsbeträge</lxbase:ueberschrift><lxbase:a>Als Schätzungsausgangsbetrag je ha LP sind für das Wj.  2002/2003
+anzusetzen:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="7" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="21*" /><cals:colspec colnum="2" colname="2" colwidth="13*" /><cals:colspec colnum="3" colname="3" colwidth="13*" /><cals:colspec colnum="4" colname="4" colwidth="13*" /><cals:colspec colnum="5" colname="5" colwidth="13*" /><cals:colspec colnum="6" colname="6" colwidth="13*" /><cals:colspec colnum="7" colname="7" colwidth="13*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einteilung in die Gruppen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">1 <lxbase:za />Getreidebau</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">2 <lxbase:za />Hackfruchtbau</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">3 <lxbase:za />Veredelung</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">4.1</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">4.2</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">5 <lxbase:za />Futterbau</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry nameend="6" namest="5"><lxbase:a align="zentriert">Milchvieh</lxbase:a></cals:entry><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>&lt;35 Milchkühe</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>&gt;35 Milchkühe</lxbase:a></cals:entry><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a align="zentriert">€</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">€</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">€</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">€</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">€</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Normalwert</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">300</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">850</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">650</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">400</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">900</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">300</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Höchstwert</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">700</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">1.400</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">1.400</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">600</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">1.600</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">500</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Zuschlag Frühkartoffeln</lxbase:a></cals:entry><cals:entry nameend="7" namest="2"><lxbase:a>entfällt</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Der Schätzungsausgangsbetrag umfasst - in gleichem Umfang
+wie bisher und entsprechend den Erhebungen bei den Vergleichsbetrieben
+- alle Betriebsausgaben eine so schulden-, lasten- und pachtfreien
+luf Betriebes, soweit sie mit dessen jeweiliger landwirtschaftlicher
+Nutzung zusammenhängen. Deshalb sind beispielsweise Aufwendungen für
+folgende Leistungen, selbst wenn sie durch Dritte im Rahmen eines
+Werkvertrages erbracht werden, mit dem Ansatz des Schätzungsausgangsbetrages
+abgegolten:</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>Erntearbeiten (z. B. Mähdrusch und Grassilage), </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Beförderung von luf Erzeugnissen,
+</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Bodenbearbeitung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Pflegearbeiten,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>Tierpflege und -besamung.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Demgegenüber sind Entgelte, die der LuF auf Grund derartiger
+Werkverträge erhält, neben den Schätzungsausgangsbeträgen zu erfassen
+(siehe Tz. 3.2.9.1 der o. g. Rdvfg. vom 23.06.1999), weil solche
+Einnahmen bei der Erhebung der Daten von Vergleichsbetrieben eliminiert
+wurden.</lxbase:a><lxbase:a>Aufwendungen für die private Nutzung eines betrieblichen
+Kraftfahrzeugs wurden - wie bisher - bei der Erhebung der Betriebsausgaben
+ausgeschieden und sind im Schätzungsausgangsbetrag somit nicht enthalten.
+Deshalb bleibt für den Ansatz eines privaten Nutzungsanteils des
+betrieblichen Kraftfahrzeugs trotz § 4 Abs. 5 Satz 1 Nr. 6 und §
+6 Abs. 1 Nr. 4 Sätze 2 und 3 EStG weiterhin grundsätzlich kein Raum.
+Sofern jedoch in derartigen Fällen neben dem Schätzungsausgangsbetrag
+die gesamte AfA für das betriebliche Kraftfahrzeug geltend gemacht
+wird, kommt eine Kürzung dieser Betriebsausgabe in Betracht, wenn
+das Fahrzeug auch privat genutzt wird. Die Kürzung ist unter Berücksichtigung
+aller Umstände des Einzelfalls zu schätzen.</lxbase:a><lxbase:a>Aufwendungen für betrieblich veranlasste Fahrten mit dem
+privaten Kraftfahrzeug sind nicht neben den Schätzungsausgangsbeträgen
+berücksichtigungsfähig.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300007">2.2.3
+Entschädigungen und Zuschüsse aus öffentlichen Förderungsprogrammen</lxbase:ueberschrift><lxbase:a>Die Erhebungen haben folgende den Betrieben im Wj.  2002/2003
+zugeflossene Zuschüsse oder Entschädigungen aufgezeigt:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="33*" /><cals:colspec colnum="2" colname="2" colwidth="33*" /><cals:colspec colnum="3" colname="3" colwidth="33*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a align="zentriert">Durchschnittswert
+<lxbase:za />€ je ha LP</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">Höchstwert
+<lxbase:za />€ je ha LP</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a>Getreidebau</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="zentriert">ca.
+390</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="zentriert">563</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a>Hackfruchtbau</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="zentriert">ca.
+230</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="zentriert">407</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a>Veredelung</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="zentriert">ca.
+530</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="zentriert">1.100</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a>Milchvieh bis 34
+Milchkühe</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="zentriert">ca.
+340</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="zentriert">400</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" rowsep="0"><lxbase:a>Milchvieh ab 34
+Milchkühe</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a align="zentriert">ca.
+260</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="zentriert">445</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Futterbau</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">ca. 380</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">562</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a /></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300008">2.2.4
+Umsatzrichtwerte</lxbase:ueberschrift><lxbase:a><lxbase:fett>Umsatzrichtwerte je ha/LP für das Kj. 2002</lxbase:fett></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="7" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="21*" /><cals:colspec colnum="2" colname="2" colwidth="13*" /><cals:colspec colnum="3" colname="3" colwidth="13*" /><cals:colspec colnum="4" colname="4" colwidth="13*" /><cals:colspec colnum="5" colname="5" colwidth="13*" /><cals:colspec colnum="6" colname="6" colwidth="13*" /><cals:colspec colnum="7" colname="7" colwidth="13*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a align="zentriert">1</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">2</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">3</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">4.1</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">4.2</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">5</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einteilung in die Gruppen</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">Getreidebau</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">Hackfruchtbau</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">Veredlung</lxbase:a></cals:entry><cals:entry nameend="6" namest="5"><lxbase:a align="zentriert">Milchvieh</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">Futterbau</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2" /><cals:entry colname="3" /><cals:entry colname="4" /><cals:entry colname="5"><lxbase:a>&lt;35 Milchkühe</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>&gt;35 Milchkühe</lxbase:a></cals:entry><cals:entry colname="7" /></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a align="zentriert">€</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">€</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">€</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">€</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">€</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Umsatz</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">1.400</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">2.300</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">4.300</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">1.300</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">2.000</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">950</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Zuschlag Frühkartoffeln</lxbase:a></cals:entry><cals:entry nameend="7" namest="2"><lxbase:a>entfällt</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300009">2.3	 Zuschläge
+für nicht mit dem Schätzungsausgangsbetrag abgegoltene Gewinne bzw.
+Mehrgewinne</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057852300010">2.3.1
+Wein-, Obst- und Gemüsebau</lxbase:ueberschrift><lxbase:a>Die Ermittlung des Gewinns aus Weinbau bzw. Obst- und
+Gemüsebau ist entsprechend den Anweisungen in den Rdvfg. vom 05.09.2003
+- <lxbase:az normform="S2233ASt311" manuell="nein">S-2233 A - St 31 1</lxbase:az> und vom 15.01.2004 - <lxprod:doknr-verw linkend="HT0578158">S-2233 A - St 31 1</lxprod:doknr-verw> - vorzunehmen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300011">2.3.2
+Tabakbau</lxbase:ueberschrift><lxbase:a>Die Ernteerträge haben sich nach den getroffenen Feststellungen
+im pfälzischen Anbaugebiet wie folgt entwickelt (1 dt = 100 kg):</lxbase:a><lxbase:a><lxbase:fett>Gesamtanbau</lxbase:fett></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="7" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="21*" /><cals:colspec colnum="2" colname="2" colwidth="13*" /><cals:colspec colnum="3" colname="3" colwidth="13*" /><cals:colspec colnum="4" colname="4" colwidth="18*" /><cals:colspec colnum="5" colname="5" colwidth="10*" /><cals:colspec colnum="6" colname="6" colwidth="13*" /><cals:colspec colnum="7" colname="7" colwidth="13*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Wj.</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">Anbaufläche
+<lxbase:za />ha</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">Ertrag <lxbase:za />dt
+<lxbase:za />(eingewogen)</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">Geldwert netto<lxbase:za />
+(*)</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">Ernte <lxbase:za />dt/ha</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">durchschn. Preis
+je/dt<lxbase:za /> netto <lxbase:za />(*)</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">Einnahmen
+je/ha<lxbase:za />netto <lxbase:za />(*)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:az normform="2000/01" manuell="nein">2000/01</lxbase:az>
+</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a>1.222</lxbase:a></cals:entry><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>33.252</lxbase:a></cals:entry><cals:entry colsep="0" colname="4" rowsep="0"><lxbase:a>25.015.853 DM</lxbase:a></cals:entry><cals:entry colsep="0" colname="5" rowsep="0"><lxbase:a>27,21</lxbase:a></cals:entry><cals:entry colsep="0" colname="6" rowsep="0"><lxbase:a>752
+DM</lxbase:a></cals:entry><cals:entry colname="7" rowsep="0"><lxbase:a>20.473 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:az normform="2001/02" manuell="nein">2001/02</lxbase:az>
+</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a>1.236</lxbase:a></cals:entry><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>33.015</lxbase:a></cals:entry><cals:entry colsep="0" colname="4" rowsep="0"><lxbase:a>12.872.945
+€</lxbase:a></cals:entry><cals:entry colsep="0" colname="5" rowsep="0"><lxbase:a>26,70</lxbase:a></cals:entry><cals:entry colsep="0" colname="6" rowsep="0"><lxbase:a>390
+€</lxbase:a></cals:entry><cals:entry colname="7" rowsep="0"><lxbase:a>10.412 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1"><lxbase:a><lxbase:az normform="2002/03" manuell="nein">2002/03</lxbase:az> </lxbase:a></cals:entry><cals:entry colsep="0" colname="2"><lxbase:a>1.272</lxbase:a></cals:entry><cals:entry colsep="0" colname="3"><lxbase:a>29.675</lxbase:a></cals:entry><cals:entry colsep="0" colname="4"><lxbase:a>11.550.587 €</lxbase:a></cals:entry><cals:entry colsep="0" colname="5"><lxbase:a>23,32</lxbase:a></cals:entry><cals:entry colsep="0" colname="6"><lxbase:a>389 €</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>9.077 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry nameend="7" namest="1" rowsep="0"><lxbase:a><lxbase:unterst><lxbase:fett>Geudertheimer
+(Zigarrengut)</lxbase:fett></lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry colsep="0" colname="2" rowsep="0" /><cals:entry colsep="0" colname="3" rowsep="0" /><cals:entry colsep="0" colname="4" rowsep="0" /><cals:entry colsep="0" colname="5" rowsep="0" /><cals:entry colsep="0" colname="6" rowsep="0" /><cals:entry colname="7" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:az normform="2000/01" manuell="nein">2000/01</lxbase:az>
+</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a>743</lxbase:a></cals:entry><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>20.810</lxbase:a></cals:entry><cals:entry colsep="0" colname="4" rowsep="0"><lxbase:a>14.497.826 DM</lxbase:a></cals:entry><cals:entry colsep="0" colname="5" rowsep="0"><lxbase:a>28,00</lxbase:a></cals:entry><cals:entry colsep="0" colname="6" rowsep="0"><lxbase:a>697
+DM</lxbase:a></cals:entry><cals:entry colname="7" rowsep="0"><lxbase:a>19.509 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:az normform="2001/02" manuell="nein">2001/02</lxbase:az></lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a>724</lxbase:a></cals:entry><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>19.825</lxbase:a></cals:entry><cals:entry colsep="0" colname="4" rowsep="0"><lxbase:a>7.100.139
+€</lxbase:a></cals:entry><cals:entry colsep="0" colname="5" rowsep="0"><lxbase:a>27,39</lxbase:a></cals:entry><cals:entry colsep="0" colname="6" rowsep="0"><lxbase:a>358
+€</lxbase:a></cals:entry><cals:entry colname="7" rowsep="0"><lxbase:a>9.809 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1"><lxbase:a><lxbase:az normform="2002/03" manuell="nein">2002/03</lxbase:az> </lxbase:a></cals:entry><cals:entry colsep="0" colname="2"><lxbase:a>726</lxbase:a></cals:entry><cals:entry colsep="0" colname="3"><lxbase:a>17.422</lxbase:a></cals:entry><cals:entry colsep="0" colname="4"><lxbase:a>6.184.809 €</lxbase:a></cals:entry><cals:entry colsep="0" colname="5"><lxbase:a>23,98</lxbase:a></cals:entry><cals:entry colsep="0" colname="6"><lxbase:a>354 €</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>8.514 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry nameend="7" namest="1" rowsep="0"><lxbase:a><lxbase:unterst><lxbase:fett>Burley
+(Schneidegut)</lxbase:fett></lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry colsep="0" colname="2" rowsep="0" /><cals:entry colsep="0" colname="3" rowsep="0" /><cals:entry colsep="0" colname="4" rowsep="0" /><cals:entry colsep="0" colname="5" rowsep="0" /><cals:entry colsep="0" colname="6" rowsep="0" /><cals:entry colname="7" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:az normform="2000/01" manuell="nein">2000/01</lxbase:az>
+</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a>204</lxbase:a></cals:entry><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>5.933</lxbase:a></cals:entry><cals:entry colsep="0" colname="4" rowsep="0"><lxbase:a>4.987.789
+DM</lxbase:a></cals:entry><cals:entry colsep="0" colname="5" rowsep="0"><lxbase:a>29,09</lxbase:a></cals:entry><cals:entry colsep="0" colname="6" rowsep="0"><lxbase:a>841
+DM</lxbase:a></cals:entry><cals:entry colname="7" rowsep="0"><lxbase:a>24.460 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:doknr nummer="2001102" manuell="nein">2001102</lxbase:doknr>
+</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a>187</lxbase:a></cals:entry><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>5.484</lxbase:a></cals:entry><cals:entry colsep="0" colname="4" rowsep="0"><lxbase:a>2.396.714
+€</lxbase:a></cals:entry><cals:entry colsep="0" colname="5" rowsep="0"><lxbase:a>29,25</lxbase:a></cals:entry><cals:entry colsep="0" colname="6" rowsep="0"><lxbase:a>439
+€</lxbase:a></cals:entry><cals:entry colname="7" rowsep="0"><lxbase:a>12.832 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1"><lxbase:a><lxbase:az normform="2002/03" manuell="nein">2002/03</lxbase:az> </lxbase:a></cals:entry><cals:entry colsep="0" colname="2"><lxbase:a>182</lxbase:a></cals:entry><cals:entry colsep="0" colname="3"><lxbase:a>4.650</lxbase:a></cals:entry><cals:entry colsep="0" colname="4"><lxbase:a>2.038.590 €</lxbase:a></cals:entry><cals:entry colsep="0" colname="5"><lxbase:a>25,56</lxbase:a></cals:entry><cals:entry colsep="0" colname="6"><lxbase:a>438 €</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>11.204 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry nameend="7" namest="1" rowsep="0"><lxbase:a><lxbase:unterst><lxbase:fett>Virgin</lxbase:fett></lxbase:unterst></lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0" /><cals:entry colsep="0" colname="2" rowsep="0" /><cals:entry colsep="0" colname="3" rowsep="0" /><cals:entry colsep="0" colname="4" rowsep="0" /><cals:entry colsep="0" colname="5" rowsep="0" /><cals:entry colsep="0" colname="6" rowsep="0" /><cals:entry colname="7" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:az normform="2000/01" manuell="nein">2000/01</lxbase:az>
+</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a>275</lxbase:a></cals:entry><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>6.509</lxbase:a></cals:entry><cals:entry colsep="0" colname="4" rowsep="0"><lxbase:a>5.530.238
+DM</lxbase:a></cals:entry><cals:entry colsep="0" colname="5" rowsep="0"><lxbase:a>23,69</lxbase:a></cals:entry><cals:entry colsep="0" colname="6" rowsep="0"><lxbase:a>850
+DM</lxbase:a></cals:entry><cals:entry colname="7" rowsep="0"><lxbase:a>20.124 DM</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a><lxbase:az normform="2001/02" manuell="nein">2001/02</lxbase:az>
+</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a>326</lxbase:a></cals:entry><cals:entry colsep="0" colname="3" rowsep="0"><lxbase:a>7.725</lxbase:a></cals:entry><cals:entry colsep="0" colname="4" rowsep="0"><lxbase:a>3.376.092
+€</lxbase:a></cals:entry><cals:entry colsep="0" colname="5" rowsep="0"><lxbase:a>23,72</lxbase:a></cals:entry><cals:entry colsep="0" colname="6" rowsep="0"><lxbase:a>437
+€</lxbase:a></cals:entry><cals:entry colname="7" rowsep="0"><lxbase:a>10.365 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a><lxbase:az normform="2002/03" manuell="nein">2002/03</lxbase:az> </lxbase:a></cals:entry><cals:entry colsep="0" colname="2"><lxbase:a>364</lxbase:a></cals:entry><cals:entry colsep="0" colname="3"><lxbase:a>7.601</lxbase:a></cals:entry><cals:entry colsep="0" colname="4"><lxbase:a>3.327.186 €</lxbase:a></cals:entry><cals:entry colsep="0" colname="5"><lxbase:a>20,87</lxbase:a></cals:entry><cals:entry colsep="0" colname="6"><lxbase:a>438 €</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>9.136 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>(*) incl. Prämien</lxbase:a><lxbase:a>Der Tabakjahrgang 2002 war von überdurchschnittlicher
+Qualität und sehr unterschiedlicher Quantität.</lxbase:a><lxbase:a>Von Hagelschäden, die teilweise bis zum Totalausfall führten,
+betroffen waren die Gemeinden Kandel, Rheinzabern, Neupotz, Hatzenbühl,
+Herxheim, Dudenhofen und Hahnhofen.</lxbase:a><lxbase:a>Die Einnahmen aus Hagelversicherungsentschädigungen sind
+in der Tabelle nicht berücksichtigt.</lxbase:a><lxbase:a>Zur Abgeltung der sachlichen Bebauungskosten können im
+Wj.  2002/2003
+- wie im vergangenen Wj. - je ha Anbaufläche 3.200 € berücksichtigt
+werden.</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300012">3	 Wert der unbaren Altenteilsleistungen</lxbase:ueberschrift><lxbase:a>Nachfolgend werden die Nichtbeanstandungsgrenzen aufgeführt,
+die nach § 1 Abs. 1 SachBezVO in der für den jeweiligen Veranlagungszeitraum
+geltenden Fassung ermittelt werden:</lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="7" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="14*" /><cals:colspec colnum="2" colname="2" colwidth="14*" /><cals:colspec colnum="3" colname="3" colwidth="14*" /><cals:colspec colnum="4" colname="4" colwidth="14*" /><cals:colspec colnum="5" colname="5" colwidth="14*" /><cals:colspec colnum="6" colname="6" colwidth="14*" /><cals:colspec colnum="7" colname="7" colwidth="14*" /><cals:tbody><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry nameend="3" namest="2"><lxbase:a align="zentriert">2001
+(<lxbase:lit-fs normform="BStBl-2000-I-1517" manuell="nein">BStBl
+2000 I S. 1517</lxbase:lit-fs>)</lxbase:a></cals:entry><cals:entry nameend="5" namest="4"><lxbase:a align="zentriert">2002
+(<lxprod:doknr-verw linkend="HT0576016">BStBl
+2001 I S. 817</lxprod:doknr-verw>)</lxbase:a></cals:entry><cals:entry nameend="7" namest="6"><lxbase:a align="zentriert">2003
+(<lxbase:lit-fs normform="BStBl-2002-I-1355" manuell="nein">BStBl
+2002 I S. 1355</lxbase:lit-fs>)</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a>Verpflegung</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a>übriger Sachaufwand</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a>Verpflegung</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a>übriger Sachaufwand</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a>Verpflegung</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a>übriger Sachaufwand</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1" /><cals:entry colname="2"><lxbase:a align="zentriert">DM</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">DM</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">DM</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">DM</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">€</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colname="1"><lxbase:a>Einzelperson</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">4.445</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">988</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">2.312</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">514</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">2.350</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">522</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colname="1"><lxbase:a>Altenteilerehepaar</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a align="zentriert">8.001</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="zentriert">1.779</lxbase:a></cals:entry><cals:entry colname="4"><lxbase:a align="zentriert">4.161</lxbase:a></cals:entry><cals:entry colname="5"><lxbase:a align="zentriert">925</lxbase:a></cals:entry><cals:entry colname="6"><lxbase:a align="zentriert">4.230</lxbase:a></cals:entry><cals:entry colname="7"><lxbase:a align="zentriert">940</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>Die Werte für den übrigen Sachaufwand (Heizung, Strom
+und andere Nebenkosten) werden ausgehend von den für 1994 gültigen
+Werten unter Berücksichtigung von Teuerungszuschlägen geschätzt,
+da entsprechende Festsetzungen in der SachBezVO fehlen (§§ 3, 4
+Abs. 2 SachBezVO 1995).</lxbase:a><lxbase:a>Die Nichtbeanstandungsgrenzen sind nicht anwendbar, wenn
+auf Grund der Gewinnermittlungsunterlagen des Betriebs offensichtlich
+ist, dass die auf die Altenteiler entfallenden Kosten niedriger
+sind.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300013">4	 Keine Teilwertabschreibung
+für landwirtschaftliche Brennrechte</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057852300014">4.1	 Anträge
+auf Teilwertabschreibung</lxbase:ueberschrift><lxbase:a>Unter Hinweis auf die vom Bundesverband Deutscher Kornbrenner
+e. V. vertretene Auffassung über die erheblich gesunkene Werthaltigkeit
+von landwirtschaftlichen Brennrechten beantragen LuF eine entsprechende
+Teilwertabschreibung. Es wird dargelegt, dass der Wert eines solchen
+Brennrechts nur noch dem Ausgleichsbetrag entspreche, der bei einem
+Ausscheiden aus dem Monopol zu zahlen wäre (= 51,50 €/hl/Betriebsjahr
+für 5 Betriebsjahre somit insgesamt 257,50 €/hl).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300015">4.2 	Keine
+dauernde Wertminderung</lxbase:ueberschrift><lxbase:a>Sämtliche einem LuF (entgeltlich oder unentgeltlich) erworbenen
+oder zugeteilten Brennrechte stellen ein einheitliches immaterielles
+und nicht abnutzbares Wirtschaftsgut dar. Weil der Wert dieser landwirtschaftlichen
+Brennrechte im Regelfall nicht unter den Buchwert gefallen ist und
+deshalb keine dauernde Wertminderung vorliegt, kann der begehrten
+Teilwertabschreibung insbesondere auch unter Berücksichtigung der
+folgenden Erwägungen grundsätzlich nicht entsprochen werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300016">4.3	 Änderung
+des Branntweinmonopolgesetzes</lxbase:ueberschrift><lxbase:a>Die Änderung des BranntwMonG vom 08.08.2002, <lxbase:lit-fs normform="BGBl-2002-I-3112" manuell="nein">BGBl I S.
+3112</lxbase:lit-fs>, hat nur zu Einschränkungen bei gewerblichen Brennereien nicht
+jedoch bei landwirtschaftlichen geführt. Bei letzteren wurde weder
+das regelmäßige jährliche Brennrecht gekürzt noch wurde ein Ende
+der Festsetzung von solchen Brennrechten im Rahmen des Monopols
+normiert. Die rechtlichen Rahmenbedingungen haben sich für landwirtschaftliche
+Brennereien hiernach keinesfalls verschlechtert. Das Auslaufen des
+Branntweinmonopols für gewerbliche Brennereien, der Wegfall deren
+Brennrechte und das nicht kostendeckende Herstellen von Branntwein
+außerhalb des Monopols spricht - isoliert betrachtet - zukünftig
+tendenziell eher für einen höheren Wert für landwirtschaftliche
+Brennrechte.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300017">4.4	 Veräußerbarkeit
+der landwirtschaftlichen Brennrechte</lxbase:ueberschrift><lxbase:a>Durch das Auslaufen des Branntweinmonopols für gewerbliche
+Brennereien und die Änderung des BranntwMonG vom 08.08.2003 ergeben
+sich monopolrechtlich auch keine Auswirkungen auf die Veräußerung
+von landwirtschaftlichen Brennrechten. Die Veräußerung von solchen
+Brennrechten im Zusammenhang mit der Veräußerung des land- und forstwirtschaftlichen
+Betriebs ist unzweifelhaft weiterhin jederzeit uneingeschränkt zulässig
+und für den Ansatz eines immateriellen Wirtschaftsguts ausreichend.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300018">4.5	 Rechtslage
+ab 01.01.2004</lxbase:ueberschrift><lxbase:a>Die ab dem 01.01.2004 in Kraft getretene EU-Verordnung
+Nr.  670/2003
+vom 08.04.2003 betrifft zwar auch landwirtschaftliche Brennereien.
+Die neue Verordnung sichert bis zum 31.12.2010 (befristet) die bisherigen
+Regelungen und Beihilfen des Branntweinmonopols und damit die landwirtschaftlichen
+Brennrechte. Bis zum 31.12.2009 sollen jedoch geeignete Vorschläge
+über die zukünftige Behandlung solcher Brennrechte von der EU-Kommission
+gemacht werden. Deshalb kann diese EU-Verordnung auf die Bewertung
+der landwirtschaftlichen Brennrechte derzeit keine Auswirkungen
+haben.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300019">4.6	 Übernahmepreise
+für landwirtschaftliche Brennrechte</lxbase:ueberschrift><lxbase:a>Die Ermittlung des Übernahmepreises für Brennrechte hat
+sich nach den hier vorliegenden Informationen bis zum Brennjahr <lxbase:az normform="2003/04" manuell="nein">2003/04</lxbase:az> nicht
+verändert, deshalb können die für die Bewertung eines Brennrechts
+maßgebenden tatsächlichen Ertragsbedingungen für Brennrechte ebenfalls
+nicht beeinflusst worden sein. Die landwirtschaftlichen Brennereien
+können hiernach - zumindest bis zum 31.12.2010 befristet - ihren
+Branntwein zu einem weit über dem Marktpreis liegenden subventionierten
+Übernahmepreis absetzen. Hieraus kann die grundsätzlich fehlende
+Neigung von landwirtschaftlichen Brennereien zu einem Verkauf ihrer
+Brennrechte sehr gut nachvollzogen werden. Deshalb können aus fehlenden
+Veräußerungen von landwirtschaftlichen Brennrechten keine Anhaltspunkte für
+deren Wertfindung gewonnen werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300020">4.7 Subventionskürzung</lxbase:ueberschrift><lxbase:a>Die Kürzung der Subventionen für Brennrechte im Betriebsjahr  <lxbase:az normform="2003/04" manuell="nein">2003/04</lxbase:az>
+und die daraus resultierende vorläufige Minderung des Übernahmepreises
+in Höhe von 10 v. H. ist bei der Bewertung des Brennrechts zu beachten.
+Es ist aber sehr fraglich, ob und ggf. welche konkreten Auswirkungen
+diese vorläufige Kürzung des Übernahmepreises auf die Ertragsfähigkeit
+des jeweiligen Brennrechts ab dem Betriebsjahr  <lxbase:az normform="2003/04" manuell="nein">2003/04</lxbase:az>
+hat und ob und wie lange die vorläufige Festsetzung bestehen bleibt.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300021">4.8	 Ausgleichsbetrag
+für Brennrechte</lxbase:ueberschrift><lxbase:a>Der bei einem vorzeitigen Ausscheiden aus dem Monopol
+nach § 58a Abs. 4 BranntwMonG mögliche Ausgleichsbetrag in Höhe
+von 51,50 € je hl. Branntwein ist bei der Bewertung des landwirtschaftlichen
+Brennrechts unbeachtlich. Dieser Betrag käme nur zum Tragen, wenn
+der LuF mit seinem Brennrecht tatsächlich aus dem Monopol ausscheiden
+und damit die Ertragsgrundlage für sein Brennrecht entfallen sollte.
+Über den tatsächlichen Wert oder die Ertragsfähigkeit des Brennrechts
+beim Verbleiben im Monopol besagt dieser normierte Ausgleichsbetrag
+nichts. Allein die Tatsache, dass die betroffene landwirtschaftliche
+Brennerei nicht aus dem Monopol ausscheidet, zeigt die höhere Ertragsfähigkeit
+des Brennrechts beim Verbleiben im Monopol.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300022">5	 Geländewagen und private
+Nutzung betrieblicher Kraftfahrzeuge</lxbase:ueberschrift><lxbase:a>Nach dem BFH-Urteil vom 13.02.2003, <lxprod:doknr-verw linkend="HT0814865">BStBl II S. 472</lxprod:doknr-verw> ist
+die kraftfahrzeugsteuerrechtliche und zulassungsrechtliche Klassifizierung
+eines Kraftfahrzeugs bei der Anwendung der 1 v. H.-Regelung nach
+§ 6 Abs. 1 Nr. 4 Satz 2 EStG nicht von Bedeutung. Diese Regelung
+ist auch bei Geländewagen anzuwenden, die nach ihrer objektiven
+Beschaffenheit zur Beförderung von Personen und von Gegenständen
+aus Gründen der privaten Lebensführung eingesetzt werden können
+und auch werden. Damit fallen Geländewagen nicht in die Kategorie
+"Lastkraftwagen" i. S. d. BMF-Schreibens vom 21.01.2002, <lxprod:doknr-verw linkend="HT0576212">BStBl I
+S. 148</lxprod:doknr-verw>, Tz. 1, für die die 1 v. H.-Regelung nicht greift.</lxbase:a><lxbase:a>Der Privatanteil für Geländewagen ist hiernach stets in
+vollem Umfang vom Bruttolistenpreis zu ermitteln, sofern kein ordnungsmäßiges
+Fahrtenbuch geführt wird. Die bloße Behauptung des LuF, der betriebliche
+Geländewagen werde nicht zu Privatzwecken genutzt oder Privatfahrten
+würden ausschließlich mit anderen im Privatvermögen befindlichen
+Fahrzeugen durchgeführt, reicht nicht aus, die 1 v. H.-Regelung
+nicht anzuwenden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300023">6 	Bilanzierungspflicht
+i. R. des § 24 UmwStG bei Gewinnermittlung nach § 4 Abs. 3 EStG</lxbase:ueberschrift><lxbase:a>(siehe Kurzinformation Nr. <lxbase:az normform="060/03-vom-11/08" manuell="nein">060/03 vom 11.08</lxbase:az>.2003 - <lxbase:az normform="S1978" manuell="nein">S 1978</lxbase:az>
+A -)</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D057852300024">6.1 	Einbringungen
+nach § 24 UmwStG</lxbase:ueberschrift><lxbase:a>Nach einer Entscheidung der Einkommensteuer-Referatsleiter
+von Bund und Ländern muss bei einer Einbringung in eine Personengesellschaft
+nach § 24 UmwStG der Einbringende auf den Einbringungszeitpunkt
+zwingend zur Gewinnermittlung nach § 4 Abs. 1 EStG übergehen (=
+Erstellung einer Einbringungsbilanz), wenn sowohl der Einbringende als
+auch die übernehmende Gesellschaft den Gewinn nach § 4 Abs. 3 EStG
+ermitteln. Der Übergang von der Gewinnermittlung nach § 4 Abs. 3
+EStG zur Gewinnermittlung nach § 4 Abs. 1 EStG hat die Ermittlung
+eines Übergangsgewinns zur Folge. Entsprechendes gilt für die übernehmende
+Personengesellschaft bei dem Übergang von der Gewinnermittlung nach
+§ 4 Abs. 1 EStG zur Gewinnermittlung nach § 4 Abs. 3 EStG; sie hat
+eine Eröffnungsbilanz zu erstellen.</lxbase:a><lxbase:a>Die vorstehenden Grundsätze gelten u. a. auch, wenn z.
+B. der Vater sein land- und forstwirtschaftliches Einzelunternehmen
+in eine aus ihm und seinem Sohn bestehende land- und forstwirtschaftlich
+tätige GbR einbringt.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300025">6.2 	Betriebsübertragungen
+in anderen Fällen</lxbase:ueberschrift><lxbase:a>Fraglich ist, ob diese Grundsätze ohne weiteres auch auf
+andere Fallgestaltungen mit Buchwertfortführung eines Betriebs übertragen
+werden können, z. B. unentgeltliche Aufnahme eines Angehörigen in
+ein bestehendes Einzelunternehmen, unentgeltliche Übertragung des
+gesamten Betriebes auf die nächste Generation (z. B. vom Vater auf
+den Sohn) oder im umgekehrten Fall von § 24 UmwStG, d. h. ein Mitunternehmer
+scheidet aus einer zweigliedrigen Mitunternehmerschaft unentgeltlich
+aus und der andere führt den Betrieb im Rahmen eines Einzelunternehmens
+fort.</lxbase:a><lxbase:a>Die vorstehenden Fallgestaltungen sind mit Einbringungen
+nach § 24 UmwStG nicht vergleichbar. Nur bei letzteren besteht im
+Hinblick auf die Einbringung eine Bilanzierungspflicht. Eine solche
+Bilanzierungspflicht ergibt sich bei den anderen vorerwähnten Fallgestaltungen
+aber gerade nicht, deshalb ist bei diesen Fällen grundsätzlich kein
+Übergangsgewinn zu ermitteln.</lxbase:a><lxbase:a>Etwas anderes ergibt sich nur dann, wenn für die neue
+Gesellschaft bzw. den neuen Betrieb eine Bilanzierungspflicht besteht
+oder der Gewinn nach § 13a EStG zu ermitteln ist.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300026">7	 Einheitliche und gesonderte
+Feststellung bei einer (Ehegatten-)Mitunternehmerschaft</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057852300027">7.1	 Durchführung
+einer einheitlichen und gesonderten Gewinnfeststellung</lxbase:ueberschrift><lxbase:a>Sind Ehegatten Mitunternehmer eines land- und forstwirtschaftlichen
+Betriebes und erzielen sie deshalb gemeinschaftlich Einkünfte, ist
+eine einheitliche und gesonderte Feststellung nach § 180 Abs. 1
+Nr. 2a AO durchzuführen, sofern kein Fall von untergeordneter Bedeutung
+i. S. von § 180 Abs. 3 Nr. 2 AO vorliegt. Dies gilt vor allem auch
+dann, wenn die Ehegattenmitunternehmerschaft als Innengesellschaft
+in der Rechtsform der GbR geführt wird.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300028">7.2	 Fall
+von geringer Bedeutung</lxbase:ueberschrift><lxbase:a>Allein die Tatsache, dass Eheleute den Betrieb führen
+und diese zusammenveranlagt werden, indiziert nach ständiger höchstrichterlichen
+Rechtsprechung für sich gesehen noch keinen Fall von geringer Bedeutung
+(BFH-Urteile vom 11.05.1976, <lxprod:doknr-verw linkend="HT0029621">BStBl 1976 II S. 596</lxprod:doknr-verw>, und
+vom 31.07.1990, <lxprod:doknr-verw linkend="HT0098955">BFH/NV 1991 S. 285</lxprod:doknr-verw>). Hier gelten die gleichen Grundsätze
+wie bei Mitunternehmerschaften, an denen Fremde beteiligt sind;
+die gemeinschaftlich erzielten Einkünfte müssen somit grundsätzlich
+einheitlich und gesondert festgestellt werden.</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D057852300029">7.2.1
+Voraussetzungen für einen Fall von geringer Bedeutung</lxbase:ueberschrift><lxbase:a>§ 180 Abs. 3 Nr. 2 AO dient der Vereinfachung des Steuerverfahrens
+und will unzweckmäßige und unökonomische Feststellungen verhindern.
+Die Höhe der gemeinschaftlich erzielten Einkünfte und die maßgebende
+Gewinnermittlungsart sind für die Frage, ob es sich um einen Fall
+von, geringer Bedeutung handelt, grundsätzlich unbeachtlich.</lxbase:a><lxbase:a>Die Voraussetzungen dieser Vorschrift sind bei Ehegattenmitunternehmerschaften
+in der LuF erfüllt, wenn</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>	die betrieblichen Verhältnisse für</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>die Ermittlung,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>die Höhe und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>die Aufteilung der gemeinschaftlichen
+Einkünfte</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>in so leicht überschaubarer
+Weise gelagert sind, dass dies ohne Schwierigkeiten durchgeführt
+werden kann (siehe BFH-Urteile vom 20.01.1976, <lxprod:doknr-verw linkend="HT0027344">BStBl II S. 305</lxprod:doknr-verw> und
+vom 03.02.1976, <lxprod:doknr-verw linkend="HT0027863">BStBl II S. 396</lxprod:doknr-verw>) und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>	die Gefahr widersprüchlicher
+Entscheidungen nahezu ausgeschlossen ist (siehe BFH-Urteil vom 10.08.1994,
+<lxprod:doknr-verw linkend="HT0119954">BFH/NV 1995 S. 387</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Bei der Ehegattenmitunternehmerschaft in der LuF bestehen
+keine Bedenken einen Fall von geringer Bedeutung anzunehmen, wenn</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>die Eheleute im Güterstand der Gütergemeinschaft leben
+(siehe BFH-Urteil vom 04.07.1985, <lxprod:doknr-verw linkend="HT0061910">BStBl II S. 576</lxprod:doknr-verw>),</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>	sie einen kleinen luf Betrieb
+mit Gewinnermittlung nach § 13a EStG betreiben </lxbase:a><lxbase:a>oder</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>	ihr luf Betrieb verpachtet
+ist.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Ferner muss hinzukommen, dass die von der Ehegattenmitunternehmerschaft
+erzielten Einkünfte ggf. seit Jahren - von den Eheleuten gemeinsam
+erklärt und ohne Streitigkeiten veranlagt wurden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300030">7.2.2
+Kein Fall von geringer Bedeutung</lxbase:ueberschrift><lxbase:a>Ein Fall von geringer Bedeutung i. S. von § 180 Abs. 3
+Nr. 2 AO liegt nach ständiger höchstrichterlicher Rechtsprechung
+u. a. dann nicht vor, wenn</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>	das Bestehen einer Mitunternehmerschaft strittig ist,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>	über Art und / oder Höhe
+der Einkünfte unterschiedliche Auffassungen bestehen,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>	über die Gewinnermittlungsart
+keine Einigung vorliegt,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>kein ohne Schwierigkeiten
+zu überblickender Sachverhalt vorliegt (BFH-Urteil vom 03.02.1976,
+<lxprod:doknr-verw linkend="HT0027863">BStBl
+1976 II S. 396</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Hiernach scheidet ein Fall von geringer Bedeutung immer
+aus, wenn auch nur eine Besteuerungsgrundlage ggf. bei nur einem
+Gesellschafter innerhalb der luf Einkünfte der Ehegattenmitunternehmerschaft
+streitig sein sollte. Bei Zweifeln an den Voraussetzungen des §
+180 Abs. 3 Nr. 2 AO ist ein Feststellungsverfahren in jedem Fall
+durchzuführen.</lxbase:a><lxbase:a>Sofern im Rahmen eines Rechtsbehelfsverfahrens gegen den
+Einkommensteuerbescheid Besteuerungsgrundlagen der luf tätigen Ehegattenmitunternehmerschaft
+angefochten werden und dem Einspruch nicht ohne weiteres entsprochen
+werden kann, ist auf jeden Fall ein Feststellungsbescheid bekannt
+zu geben.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300031">7.2.3
+Strittige Mitunternehmerschaft</lxbase:ueberschrift><lxbase:a>Wurden die Einkünfte aus dem land- und forstwirtschaftlichen
+Betrieb im Rahmen der eingereichten Einkommensteuererklärungen bisher
+nur einem Ehegatten - üblicherweise dem nach außen auftretenden
+- zugerechnet, ist das Bestehen der Mitunternehmerschaft strittig.
+In diesem Fall ist selbst dann ein Feststellungsverfahren durchzuführen,
+wenn die Eheleute das Vorliegen der Mitunternehmerschaft später,
+nicht mehr bestreiten sollten.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300032">7.2.4
+Kein ohne Schwierigkeiten zu überblickender Sachverhalt</lxbase:ueberschrift><lxbase:a>Liegen die Voraussetzungen für die Annahme der vorerwähnten
+Ehegatteninnengesellschaft vor, handelt es sich in aller Regel -
+zur Ausnahme siehe Tz. 7.2.1 - nicht um einen ohne Schwierigkeiten
+zu überblickenden Sachverhalt. Es ist nämlich u. a. nicht ohne weiteres
+erkennbar, wer Eigentümer der Flächen ist (z. B. wenn kein oder
+kein vollständiges Anlagenverzeichnis vorliegt), ob und ggf. in
+welchem Umfang Sonderbetriebsvermögen vorliegt, welche Einnahmen
+erzielt und welche Aufwendungen als Betriebsausgaben abzugsfähig
+sind. Ohne umfassende Feststellungen können derartige Sachverhalte grundsätzlich
+nicht zutreffend beurteilt werden (vgl. BFH-Urteile vom 0,3.02.1976,
+<lxprod:doknr-verw linkend="HT0027863">BStBl 1976
+II S. 396</lxprod:doknr-verw>; vom 12.07.1988, <lxprod:doknr-verw linkend="HT0088451">BFH/NV 1989 S. 87</lxprod:doknr-verw>; vom
+01.07.1989, <lxprod:doknr-verw linkend="HT0097037">BFH/NV 1990 S. 634</lxprod:doknr-verw>; vom 10.10.1989, <lxprod:doknr-verw linkend="HT0096847">BFH/NV 1990 S. 485</lxprod:doknr-verw>
+und vom 07.11.1996, <lxprod:doknr-verw linkend="HT0140910">BFH/NV 1997 S. 574</lxprod:doknr-verw>). Darüber hinaus ist in derartigen
+Fällen die Verteilung der luf Einkünfte, z. B. wegen möglicher unterschiedlicher
+Mitarbeit der Ehegatten im Betrieb, nicht von vornherein klar und
+einfach möglich.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300033">7.2.5
+Andere Streitpunkte</lxbase:ueberschrift><lxbase:a>Ist zwischen Finanzverwaltung und den Steuerpflichtigen
+ein Punkt strittig, kann hierüber nur im Rahmen eines Feststellungsverfahrens
+entschieden werden. Dabei spielt die Art des strittigen Punktes
+keine Rolle, z. B. ob hierbei die Frage des Vorliegens der Mitunternehmerschaft
+oder der Ansatz von Betriebseinnahmen oder Betriebsausgaben zu beurteilen
+ist. Selbst wenn entgegen den vorstehenden Grundsätzen in der Vergangenheit trotz
+Bestehens einer Ehegattenmitunternehmerschaft kein Feststellungsverfahren durchgeführt
+wurde und im Rahmen der Beendigung dieser Mitunternehmerschaft die Höhe
+des Aufgabegewinns strittig ist, ist das Feststellungsverfahren
+(zumindest für diesen Veranlagungszeitraum) durchzuführen.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300034">7.3 Voraussetzungen
+und zeitlicher Umfang der nachholbaren Feststellungen</lxbase:ueberschrift><lxbase:a>Kann nach dem vorliegenden Sachverhalt das Bestehen einer
+Ehegattenmitunternehmerschaft nicht von vornherein eindeutig ausgeschlossen
+werden, ist ein Feststellungsverfahren durchzuführen und ggf. ein
+negativer Feststellungsbescheid zu erlassen. Das Feststellungsverfahren
+ist zumindest für die strittigen oder offenen Veranlagungszeiträume
+sowie ggf. der im Beurteilungszeitpunkt noch nicht verjährten Veranlagungszeiträume
+durchzuführen. Dies gilt unabhängig davon, ob von den Steuerpflichtigen Feststellungserklärungen
+eingereicht wurden.</lxbase:a><lxbase:a>Die vorstehenden Grundsätze zur nachträglichen Bekanntgabe
+eines Feststellungsbescheides gelten selbst dann, wenn bereits bestandskräftige
+Einkommensteuerveranlagungen der Gesellschafter vorliegen (siehe
+BFH-Urteil vom 06.11.1964, <lxprod:doknr-verw linkend="HT0002149">BStBl 1965 III S. 52</lxprod:doknr-verw>)
+und dem Finanzamt bei der Bekanntgabe der bisherigen Einkommensteuerbescheide der
+gesamte insoweit entscheidungserhebliche Sachverhalt bekannt gewesen
+sein sollte (Urteil des FG Köln vom 05.06.2002, <lxbase:lit-fs normform="EFG-2002-1223" manuell="nein">EFG 2002, 1223</lxbase:lit-fs>).
+§ 155 Abs. 2 AO, der die Bekanntgabe eines Folgebescheides zulässt
+auch wenn noch kein Grundlagenbescheid vorliegt, steht dem nicht
+entgegen, weil es sich hierbei nur um eine vorläufige Maßnahme handelt (siehe
+BFH-Urteil vom 11.12.2003, <lxprod:doknr-verw linkend="HT0817071">BStBl 2004 II S. 353</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300035">8	 Entnahme- oder Aufgabeerklärung</lxbase:ueberschrift><lxbase:a>Aus gegebener Veranlassung weise ich zur Frage, ob und
+ggf. zu welchem Zeitpunkt eine wirksame Entnahme- oder Aufgabeerklärung
+vorliegt, auf Folgendes hin:</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D057852300036">8.1	 Grundsätze</lxbase:ueberschrift><lxbase:a>Die <lxbase:fett>Betriebsaufgabe</lxbase:fett> ist eine
+<lxbase:fett>Sonderform</lxbase:fett> der <lxbase:fett>Entnahme</lxbase:fett>,
+sie setzt deshalb in der Regel eine </lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a><lxbase:fett>(Entnahme- bzw.) Aufgabehandlung</lxbase:fett>
+</lxbase:a><lxbase:a><lxbase:fett>oder</lxbase:fett></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>	<lxbase:fett>Aufgabeerklärung</lxbase:fett>
+des Stpfl voraus</lxbase:a><lxbase:a><lxbase:fett>oder</lxbase:fett></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>einen diese begründenden
+Rechtsvorgang (BFH-Urteil vom 13.12.1983, <lxprod:doknr-verw linkend="HT0060897">BStBl 1984
+II  S. 474</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Im Regelfall besteht die Betriebsaufgabe dann, dass der
+LuF auf Grund eines</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>	Entschlusses die <lxbase:fett>bisherige betriebliche
+Tätigkeit einstellt</lxbase:fett> </lxbase:a><lxbase:a><lxbase:unterst><lxbase:fett>und</lxbase:fett></lxbase:unterst></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>	<lxbase:fett>alle wesentlichen
+Betriebsgrundlagen</lxbase:fett> in einem <lxbase:fett>einheitlichen
+Vorgang</lxbase:fett> entweder an verschiedene Erwerber veräußert
+oder in das Privatvermögen berührt</lxbase:a><lxbase:a><lxbase:unterst><lxbase:fett>und</lxbase:fett></lxbase:unterst></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>der <lxbase:fett>luf Betrieb</lxbase:fett>
+als <lxbase:fett>selbständiger Organismus des Wirtschaftslebens</lxbase:fett>
+zu bestehen <lxbase:fett>aufhört</lxbase:fett> (BFH-Urteil vom
+16.12.1992, <lxprod:doknr-verw linkend="HT0103324">BStBl 1994 II S. 838</lxprod:doknr-verw>).</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300037">8.2	 Aufgabe-
+und Entnahmeerklärung</lxbase:ueberschrift><lxbase:a>Nach der höchstrichterlichen Rechtsprechung kann ein LuF,
+der seinen bisher selbstbewirtschafteten Betrieb verpachtet, einstellt
+oder stilllegt, wählen, ob er die Betriebsverpachtung, -einstellung
+oder -stilllegung als Betriebsaufgabe behandeln oder sein Betriebsvermögen
+während dieser Zeit als sog. ruhenden Betrieb fortführen will (zuletzt BFH-Urteil
+vom 21.09.2000, <lxprod:doknr-verw linkend="HT0591095">BFH/NV 2001 S. 433</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Eine Betriebsaufgabe durch Erklärung liegt dann vor, wenn
+der LuF seinen gesamten Betrieb <lxbase:fett>verpachtet, einstellt
+oder stilllegt</lxbase:fett></lxbase:a><lxbase:a><lxbase:fett>und</lxbase:fett></lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>	<lxbase:fett>gegenüber</lxbase:fett> der im Finanzamt
+<lxbase:fett>zuständigen Veranlagungsstelle</lxbase:fett> eine</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a><lxbase:fett>klare, eindeutige
+und unmissverständliche Aufgabeerklärung</lxbase:fett></lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>	für den Betrieb abgibt,
+die auch von dem Bewusstsein der Aufdeckung und Versteuerung der
+stillen Reserven getragen wird.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Sind alle <lxbase:fett>tatbestandlichen Voraussetzungen
+einer Betriebsaufgabe erfüllt</lxbase:fett>, ist demgegenüber eine
+derartige <lxbase:fett>Aufgabeerklärung entbehrlich</lxbase:fett>.</lxbase:a><lxbase:a>Eine Entnahmeerklärung muss ebenso klar, eindeutig und
+unmissverständlich sein wie die Aufgabeerklärung.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300038">8.3	 Wirksamkeit
+einer Entnahme- oder Aufgabeerklärung</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057852300039">8.3.1
+Rückwirkende Erklärungen</lxbase:ueberschrift><lxbase:a>Steuerrechtliche Gestaltungserklärungen, z. B. die <lxbase:fett>Entnahme-
+oder Betriebsaufgabeerklärung</lxbase:fett>, können <lxbase:fett>nicht
+rückwirkend</lxbase:fett> abgegeben werden. Soweit die Finanzverwaltung
+<lxbase:fett>nur</lxbase:fett> bei <lxbase:fett>Betriebsverpachtung</lxbase:fett>
+nach R 139 Abs. 5 Satz 6 EStR 2003 eine Rückwirkung bis längstens
+<lxbase:fett>drei Monate</lxbase:fett> zulässt, handelt es ich
+nicht um die steuerliche Anerkennung einer <lxbase:fett>rückwirkend</lxbase:fett>
+erklärten Betriebsaufgabe, sondern um eine Vereinfachungsregelung durch
+Übernahme früher ermittelter Werte, die auf dem Erfahrungssatz beruht,
+dass sich die Werte in einem Zeitraum von drei Monaten regelmäßig
+kaum verändern (BFH-Urteil vom 11.09.1996, <lxbase:lit-fs normform="BFH/NV-1997-0219" manuell="nein">BFH/NV 1997 S. 219</lxbase:lit-fs>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300040">8.3.2
+Betriebsaufgabeerklärung durch einen Erben nach R 139 Abs. 5 Satz
+8 EStR 2003 bei Betriebsverpachtung</lxbase:ueberschrift><lxbase:a>Der Erbe eines verpachteten land- und forstwirtschaftlichen
+Betriebes kann grundsätzlich seine Aufgabeerklärung ebenfalls auf
+einen maximal drei Monate zurückliegenden Zeitpunkt beziehen. Diese
+Erklärung kann nach Auffassung der obersten Finanzbehörden des Bundes
+und der Länder jedoch nicht rückwirkend auf einen Zeitpunkt erklärt
+werden, in dem der Erblasser noch lebte und damit noch Betriebsinhaber
+war, da es sich bei der Aufgabeerklärung um eine höchstpersönliche
+Willensäußerung des jeweiligen Betriebsinhabers handelt. Diese Erklärung
+kann deshalb nicht durch den Erben mit Wirkung für den Erblasser
+abgegeben werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300041">8.3.3
+Rückwirkende Erklärung einer Entnahme oder Betriebsaufgabe</lxbase:ueberschrift><lxbase:a>Die Erklärung von privaten Einkünften, z. B. solche aus.
+Vermietung und Verpachtung ist keine schlüssige Aufgabeerklärung
+auch nicht mit Wirkung ab dem Eingang der entsprechenden Steuererklärung
+beim Finanzamt.</lxbase:a><lxbase:a>Teilt der LuF dem FA mit, er habe seinen Betrieb zu einem
+früheren Zeitpunkt als dem des Zugangs seiner Mitteilung beim FA
+aufgegeben, so liegt darin - jedenfalls primär - die Äußerung einer
+Rechtsansicht. Es ist sodann, durch Auslegung zu ermitteln, ob</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>	sich der LuF auf die Äußerung einer Rechtsansicht beschränken
+</lxbase:a><lxbase:a><lxbase:fett>oder</lxbase:fett> </lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>er zugleich eine rechtsgestaltende,
+d. h. wirksame und bindende (= klare, eindeutige und unmissverständliche)
+Aufgabeerklärung für den Fall abgeben wollte, dass sich das FA seiner
+Rechtsansicht nicht anschließen werde.</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>Hierbei ist in Anwendung von § 133 BGB durch ein entsprechendes
+Anschreiben an den LuF sein wirklicher Wille zu erforschen und nicht
+am buchstäblichen Sinn des Ausdrucks zu haften. Zur Auslegung im
+Einzelnen siehe das BFH-Urteil vom 17.04.2002, <lxprod:doknr-verw linkend="HT0574740">BStBl II S. 527</lxprod:doknr-verw>.</lxbase:a><lxbase:a>Bleibt der LuF nur bei seiner geäußerten Rechtsansicht,
+liegt keine wirksame Aufgabeerklärung vor (ständige höchstrichterliche
+Rechtsprechung zuletzt BFH-Urteil vom 17.04.2002, <lxprod:doknr-verw linkend="HT0574740">BStBl 2002
+II S. 527</lxprod:doknr-verw>). Grundsätzlich könnte m. E. entsprechendes
+gelten, wenn der LuF auf das vorerwähnte Anschreiben nicht antwortet.
+Sofern bei der letztgenannten Ausgangslage das Finanzamt in einem
+noch nicht bestandskräftig veranlagten Veranlagungszeitraum von
+einer wirksamen Aufgabeerklärung im Zeitpunkt des entsprechenden Erklärungseingangs
+ausgeht und den Aufgabegewinn ermittelt und der Besteuerung zu Grunde
+legt, habe ich hiergegen keine Bedenken. Ist hingegen bei einer
+solchen Sachlage in der Vergangenheit vom Finanzamt von der Besteuerung
+des Aufgabegewinns im Veranlagungszeitraum der Abgabe der nicht
+wirksamen rückwirkenden Aufgabeerklärung abgesehen worden, besteht
+weiterhin der verpachtete bzw. ruhende luf Betrieb.</lxbase:a><lxbase:a>Teilt er im Rahmen der entsprechenden Ermittlungen des
+Finanzamtes jedoch mit, dass mit seiner Erklärung der früheren (=
+rückwirkenden) Betriebsaufgabe auch gleichzeitig spätestens im Zeitpunkt
+des Erklärungseingangs auf jeden Fall eine Betriebsaufgabe gewollt
+ist, liegt zu diesem Zeitpunkt eine wirksame Aufgabeerklärung vor.</lxbase:a><lxbase:a>Die vorstehenden Ausführungen gelten für Entnahmeerklärungen
+sinngemäß.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300042">8.3.4
+Beweislast für die wirksame Entnahme- oder Aufgabeerklärung</lxbase:ueberschrift><lxbase:a>Den Land- und Forstwirt trifft die Beweislast für den
+Nachweis der Tatsache einer früheren Betriebsaufgabe. Dies kann
+sich auch auf die vom Rechtsvorgänger angeblich erklärte Aufgabe
+beziehen. Hierbei ist unbeachtlich, wenn weder das Finanzamt noch
+der LuF noch dessen Rechtsvorgänger irgendwelche Unterlagen oder
+Akten über den LuF haben. Dies gilt auch, wenn das Finanzamt bei
+einem nicht geführten LuF in verschiedenen Kalenderjahren Grundstücksübertragungen
+nicht ertragsteuerlich erfasst hat (BFH-Urteil vom 02.03.1995, <lxprod:doknr-verw linkend="HT0129787">BFH/NV
+1996 S. 110</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300043">8.3.5
+Rechtsprechungsübersicht zur Betriebsaufgabe und (teilweise) Entnahme</lxbase:ueberschrift><lxbase:a>Eine umfangreiche Rechtsprechungsübersicht zur Betriebsaufgabe
+durch Aufgabeerklärung, Aufgabehandlungen oder tatsächliche Maßnahmen,
+zum Verpächterwahlrecht, zur Beweislast und zur Entnahme steht im
+Fortbildungsordner des Laufwerkes "P" unter "OFD/FoBi_EStLStEZV2004/Fortbildung
+LuF/20040415 HM50CBW Rechtsprechungsübersicht Betriebsaufgabe.doc"
+zur Verfügung.</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300044">9	 Verluste aus gewerblicher
+Tierzucht oder Tierhaltung nach § 15 Abs. 4 EStG</lxbase:ueberschrift><lxbase:a>Unter Aufgabe seiner bisherigen Rechtsprechung (siehe
+BFH-Urteil vom 29.10.1987, <lxprod:doknr-verw linkend="HT0081149">BStBl 1988 II S. 264</lxprod:doknr-verw>)
+hat der BFH mit Urteil vom 19.12.2002, <lxprod:doknr-verw linkend="HT0814536">BStBl 2003 II S. 507</lxprod:doknr-verw>,
+entschieden, dass das Ausgleichs- und Abzugsverbot nach § 15 Abs.
+4 EStG nur Betätigungen betrifft, die ihrem Wesen nach in den Bereich
+der Land- und Forstwirtschaft gehören und nur wegen des Fehlens
+einer hinreichenden Futtergrundlage als gewerbliche Betätigung zu qualifizieren
+sind. Das Ausgleichs- und Abzugsverbot gilt deshalb nicht für die
+Zucht oder Haltung landwirtschaftsfremder Tiere.</lxbase:a><lxbase:a>Typische Fleischfresser - im Urteilsfall waren dies Nerze
+- sind nach der vorgenannten höchstrichterlichen Entscheidung landwirtschaftsfremde
+Tiere, weil ihre Zucht und Haltung nicht auf einer pflanzlichen
+Ernährungsgrundlage beruht, wie sie eine landwirtschaftliche Tierzucht
+oder Tierhaltung als notwendige Voraussetzung hat. Obwohl es sich bei
+der Zucht oder Haltung von typischen Fleischfressern hiernach um
+eine gewerbliche Betätigung handelt, fallen deshalb Verluste aus
+einer derartigen Betätigung nicht unter § 15 Abs. 4 EStG.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300045">10	 Hagelentschädigung</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057852300046">10.1 Zum
+Versicherungsschutz</lxbase:ueberschrift><lxbase:a>Auf Grund der Versicherungsbedingungen kann der LuF üblicherweise
+in jedem Jahr seine Flächen und Versicherungswerte (DM bzw. € je
+Hektar Versicherungsfläche) mit der Versicherungsgesellschaft neu
+festlegen. Hierbei wird z. B. bei weinbaulich genutzten Flächen
+ab dem Zeitpunkt des Austriebs bis zur Ernte für die zu erwartende
+Ernte Versicherungsschutz gewährt. Zusätzlich kann der Versicherungsnehmer
+als zweites Risiko eine Rebholzversicherung abschließen.</lxbase:a><lxbase:a>Ist der Schaden eingetreten, wird dieser nach entsprechender
+Erklärung durch den LuF von der Versicherungsgesellschaft geschätzt.
+Vielfach erfolgt hierbei kurz vor der tatsächlichen Ernte eine nochmalige
+endgültige Schätzung des Schadens. Auf dieser Grundlage und unter
+Berücksichtigung der Versicherungswerte für die einzelnen Flurstücke
+wird anschließend die Entschädigung gezahlt.</lxbase:a><lxbase:a>Anhand der</lxbase:a><lxbase:unnum-aufz typ="strich"><lxbase:aufz-pkt wert="- "><lxbase:a>	üblicherweise jährlichen Angaben über den Versicherungsumfang,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>	Angaben des LuF über den
+eingetretenen Schaden,</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>	Feststellungen der Versicherung
+über den eingetretenen und von ihr anerkannten Schaden und</lxbase:a></lxbase:aufz-pkt><lxbase:aufz-pkt wert="- "><lxbase:a>	tatsächlichen Auszahlung
+durch die Versicherung</lxbase:a></lxbase:aufz-pkt></lxbase:unnum-aufz><lxbase:a>können die tatsächlich entschädigten Schäden festgestellt
+werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300047">10.2 Zur
+Gewinnermittlung</lxbase:ueberschrift><lxbase:a>Nach einer bestehenden bundeseinheitlichen Billigkeitsregelung
+aus 1968 können Einnahmen aus einer Hagelversicherung, soweit sie
+Ernteschäden abdecken (also nicht, soweit Aufwendungen oder Schäden
+an Wirtschaftsgütern, z. B. Rebanlagen, ersetzt werden), bei buchführenden
+LuF bilanzmäßig so behandelt werden, dass die steuerlichen Auswirkungen
+erst in dem Wj. eintreten, in dem die Ernte angefallen wäre.</lxbase:a><lxbase:a>Ist die Forderung gegenüber der Versicherungsgesellschaft
+auf Entschädigung im Wj. vor dem Ernteausfall entstanden, kann demzufolge
+in Höhe der Entschädigung eine steuerfreie Rücklage gebildet werden,
+die im Wj. des Ernteausfalls erfolgswirksam aufzulösen ist. Verursacht
+der Schaden einen Ernteausfall in mehreren Wj. (dies kann im Grunde
+nur einen Flaschenweinvermarkter betreffen), ist bei bilanzierenden
+LuF für die Entschädigung ein passiver Rechnungsabgrenzungsposten
+zulässig. Dieser Rechnungsabgrenzungsposten kann jedoch nur den
+Ertrag erfassen, der wirtschaftlich auf die weiteren Wj. entfällt.
+Soweit im ersten Wj. die - ohne Schadenseintritt - nach den Erfahrungen
+der Vergangenheit übliche Ernte bei Gewinnermittlung durch Betriebsvermögensvergleich
+zu bilanzieren wäre (z. B. durch Aktivierung der Herstellungskosten
+für die Weinbestände beim Flaschenweinvermarkter), ist die Bildung
+eines Rechnungsabgrenzungspostens nicht möglich.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300048">10.3 Zur
+Steuerermäßigung nach § 34 EStG</lxbase:ueberschrift><lxbase:a>Die Steuerbegünstigung kann u. a. nur gewährt werden,
+soweit die Entschädigung entgehende oder entgangene Einnahmen (=
+Ernteausfall) abdeckt, nicht jedoch für andere o. a. Entschädigungszahlungen.</lxbase:a><lxbase:a>Begünstigt ist nicht die (Brutto-)Entschädigung, sondern
+nur die dadurch entstehenden Einkünfte (= bei betrieblichen Einkünften
+der Gewinn). Die unmittelbar mit der Entschädigung zusammenhängenden
+Aufwendungen sind für die Anwendung der Tarifbegünstigung abzuziehen
+(BFH-Urteile vom 17.12.1959, <lxprod:doknr-verw linkend="HT0002935">BStBl 1960 III S. 72</lxprod:doknr-verw>
+und vom 09.04.1970, <lxprod:doknr-verw linkend="HT0001446">BStBl 1970 II S. 421</lxprod:doknr-verw>).
+Dazu gehören bei der Ernteentschädigung m. E. zumindest die Aufwendungen
+für die Feldbestellung. Die Gemeinkosten, z. B. die Gewerbesteuer,
+stellen keine unmittelbaren Aufwendungen in diesem Sinne dar (BFH-Urteil
+vom 26.01.1984, <lxprod:doknr-verw linkend="HT0060882">BStBl 1984 II S. 347</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Darüber hinaus muss eine Zusammenballung von Einkünften
+vorliegen. Soweit Einnahmen ersetzt werden, die unter Berücksichtigung
+der normalen Verhältnisse ohnehin in dem Veranlagungszeitraum (VZ)
+der Entschädigungszahlung angefallen wären, scheidet die Tarifbegünstigung
+wegen der fehlenden Zusammenballung grundsätzlich aus (BFH-Urteil
+vom 04.03.1998, <lxprod:doknr-verw linkend="HT0146080">BStBl 1998 II S. 787</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Wird die Entschädigung in zwei VZ bzw. zwei Wj. erfasst,
+z. B. durch Rechnungsabgrenzungsposten, ist die Tarifermäßigung
+regelmäßig ausgeschlossen (BFH-Urteil vom 28.07.1993, <lxprod:doknr-verw linkend="HT0122935">BFH/NV 1994
+S. 368</lxprod:doknr-verw>). Die Verteilung des Gewinns von LuF mit abweichendem Wj.
+auf zwei VZ ist aber allein noch nicht schädlich (H 199 (Entschädigung
+in zwei VZ) EStR 2003).</lxbase:a><lxbase:a>Werden die Entschädigungszahlungen beim Bilanzierenden
+- wie oben angeführt - dem Wj. des Ernteausfalls zugeordnet oder
+sind sie in einem solchen Wj. entstanden (= Ausweis einer Forderung),
+kann die Tarifbegünstigung deshalb grundsätzlich nicht gewährt werden.
+Dies gilt ebenso bei Gewinnermittlung nach § 4 Abs. 3 EStG, wenn
+die den Ernteausfall eines Jahres abdeckende Entschädigung im Wj.
+des Ernteausfalls gezahlt wird. In diesen Fällen fehlt die Zusammenballung
+von Einkünften, weil die Entschädigung in diesen Fällen lediglich
+die auf Grund des Ernteschadens ausgefallenen Einnahmen ersetzt.</lxbase:a><lxbase:a>Liegt eine solche. Ausgangslage ausnahmsweise nicht vor,
+kann die Tarifbegünstigung grundsätzlich nur in Frage kommen, soweit
+die Entschädigung im jeweiligen VZ zu einer über die normalen Verhältnisse
+hinausgehenden Zusammenballung von Einkünften führt. Hierbei kann
+auf die Verhältnisse der vergangenen VZ zurückgegriffen werden (BFH-Urteil
+vom 04.03.1998, <lxprod:doknr-verw linkend="HT0146080">BStBl 1998 II S. 787</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Handelt es sich beispielsweise um eine Entschädigung für
+den Ernteausfall eines Flaschenweinvermarkters, die zwar im (ersten)
+Jahr des Ernteausfalls gezahlt wird, der jedoch seine Weine regelmäßig
+innerhalb von zwei Wj. (z. B. 70 v. H. im ersten und 30 v. H. im
+zweiten W.) vermarktet, kann die Tarifvergünstigung grundsätzlich
+nur zum Tragen kommen, soweit die Entschädigung den (Gewinn aus
+dem) Ernteausfall des zweiten Wj. (= 30 v. H.) abdeckt, d. h. unter
+Abzug der im ersten Wj. vorzunehmenden Aktivierung des Flaschenweinbestandes.
+Wird hingegen die erhaltene Entschädigung in einem derartigen Fall
+auf die zwei betroffenen Wj. verteilt, scheidet die Tarifvergünstigung
+aus.</lxbase:a><lxbase:a>Weil bei der LuF der im jeweiligen Wj. anfallende Gewinn
+üblicherweise auf zwei VZ aufzuteilen ist, die Tarifbegünstigung
+sich jedoch auf den VZ bezieht, müssen die vorstehenden Grundsätze
+in den beiden jeweils betroffenen Veranlagungszeiträume gesondert beachtet
+werden. Hat der LuF beispielsweise <lxbase:unterst><lxbase:fett>im
+WJ. vor</lxbase:fett></lxbase:unterst> dem <lxbase:unterst><lxbase:fett>Ernteausfall</lxbase:fett></lxbase:unterst>
+die Entschädigung erfasst, kann dies dazu führen, dass im ersten
+VZ die auf diesen Zeitraum entfallende Tarifbegünstigung zu gewähren
+ist, während der auf den nächsten VZ entfallende Teil nicht der
+Tarifbegünstigung unterliegt. Die Tarifbegünstigung scheidet bei
+einer solchen Ausgangslage deshalb regelmäßig im zweiten VZ aus,
+weil im Wj. des Ernteausfalls die tatsächlich dort erwirtschafteten
+Einkünfte üblicherweise nicht höher sind als diese bei einem normalen
+Verlauf der Dinge gewesen wären.</lxbase:a><lxbase:a>Darüber hinaus kommt eine Steuerermäßigung ohnehin nicht
+in Betracht, soweit der LuF die stehende Ernte oder das Feldinventar
+bisher zulässigerweise als eigenständiges Wirtschaftsgut bilanziert
+hat und der Buchwert für das Wirtschaftsgut ersetzt wird.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300049">11 	Berücksichtigung von
+Nutzungsrechten bei der Verkehrswert- oder Teilwertermittlung von
+Grundstücken</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057852300050">11.1 Ansatz
+bei der Verkehrswert- oder Teilwertermittlung durch (Bau-)Sachverständige
+oder Gutachterausschüsse</lxbase:ueberschrift><lxbase:a>Bei der Ermittlung des Verkehrswertes von Grundstücken
+durch (Bau)Sachverständige oder Gutachterausschüsse sind bei Beachtung
+der Grundsätze der Wertermittlungsverordnung Nutzungsrechte, wie
+z. B. Nießbrauchs- oder Wohnrecht, regelmäßig wertmindernd zu berücksichtigen
+(vgl. § 3 Abs. 2 i. V. m. § 5 Abs. 2 WertV 1998 sowie Nr. 5. <lxbase:az normform="3-WertR-1991/1996" manuell="nein">3 WertR 1991/1996</lxbase:az>),
+wenn mit diesen Rechten keine unter kaufmännischen Gesichtspunkten
+abgewogene und fremdübliche Gegenleistung, z. B. in der Form eines
+angemessenen Nutzungsentgelts, verbunden ist und gezahlt wird.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300051">11.2 Berücksichtigung
+von Nutzungsrechten an Grundstücken bei der Einkommensbesteuerung</lxbase:ueberschrift><lxbase:a>In der Vergangenheit wurden wiederholt durch Nutzungsrechte
+bedingte und von dem jeweiligen (Bau-)Sachverständigen oder dem
+Gutachterausschuss festgestellte und in ihrem Gutachten berücksichtigte
+Wertminderungen ohne weiteres insbesondere auch beim Ansatz eines
+Verkehrs- bzw. Teilwertes im Rahmen einer Entnahme oder Betriebsaufgabe
+der Einkommensbesteuerung zu Grunde gelegt. Zur Behandlung derartiger Wertminderungen
+bitte ich zukünftig Folgendes zu beachten:</lxbase:a><lxbase:kapitel><lxbase:ueberschrift id="D057852300052">11.2.1
+Grundsätze zum Wertansatz</lxbase:ueberschrift><lxbase:a>Im Rahmen der Einkommensbesteuerung kommt bei der Grundstücksbewertung
+im Allgemeinen deren gemeiner Wert bzw. Verkehrswert oder Teilwert
+zum Tragen, der bei Grundstücken im Regelfall dem Verkehrswert entspricht
+(siehe im Einzelnen Rdvfg. vom 15.10.1996 - <lxprod:doknr-verw linkend="HT0131936">S-2230 A - St 34 2</lxprod:doknr-verw> -
+Tz. 1).</lxbase:a><lxbase:a>Der gemeine Wert ist für Grundstücke nach § 9 BewG zu
+ermitteln (BFH-Urteil vom 15.02.2001, <lxprod:doknr-verw linkend="HT0571969">BStBl 2003 II S. 635</lxprod:doknr-verw>).
+Bei Grundstücken entspricht dies in der Regel dem Verkehrswert (BFH-Urteil
+vom 10.09.1991, <lxprod:doknr-verw linkend="HT0104201">BFH/NV 1992 S. 232</lxprod:doknr-verw>), der vielfach nur durch Schätzung
+festgestellt werden kann.</lxbase:a><lxbase:a>Gemäß § 6 Abs. 1 Nr. 1 Satz 3 EStG ist Teilwert der Betrag,
+den ein Erwerber des ganzen Betriebes im Rahmen des Gesamtkaufpreises
+für das einzelne Wirtschaftsgut ansetzen würde, unter der Voraussetzung,
+dass der Erwerber den Betrieb fortführt. Die Ermittlung des Teilwerts
+stellt eine Schätzung dar. Als Untergrenze gilt hierbei der gemeine
+Wert (siehe im Einzelnen Rdvfg. vom 15.10.1996 - S- 2230 A - St
+34 2 - Tz. 1).</lxbase:a><lxbase:a>Die Frage, ob und ggf. wie sich ein bestehendes Nutzungsrecht
+bei den Anschaffungskosten, dem Einlage- oder Entnahmewerte und
+dem Veräußerungserlös eines Grundstücks auswirkt sowie ob und ggf.
+welche Folgen sich aus einer durch ein vorhandenes Nutzungsrecht
+beim Grundstück verursachten Verkehrswertminderung bei der Einkommensbesteuerung
+ergeben, kann nicht einheitlich beurteilt werden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300053">11.2.2
+Verkehrswert oder Teilwert bei Grundstücken im Betriebsvermögen</lxbase:ueberschrift><lxbase:a>Steht die Wertminderung eines Grundstücks mit dinglichen
+(d. h. im Grundbuch eingetragenen) oder obligatorischen (d. h. nicht
+im Grundbuch eingetragenen) Nutzungsrechten in ursächlichem Zusammenhang,
+kann diese Minderung nur dann das Betriebsvermögen beeinflussen,
+wenn es sich nachweislich um eine betriebliche Verpflichtung handelt.
+Eine solche kann ausnahmsweise dann vorliegen, wenn sie im Rahmen
+eines entgeltlichen Geschäfts nach kaufmännischen Gesichtspunkten
+zwischen Fremden vereinbart wurde.</lxbase:a><lxbase:a>Üblicherweise werden derartige Grundstückslasten jedoch
+im Rahmen von Grundstücksübertragungen im Wege der (vorweggenommenen)
+Erbfolge oder als Schenkung gegenüber der vorhergehenden oder nachfolgenden
+Generation eingeräumt. Derartige Lasten stellen in aller Regel <lxbase:fett>keine
+Gegenleistungen</lxbase:fett> für eine <lxbase:fett>entgeltliche
+Grundstücksveräußerung</lxbase:fett> und damit bei Grundstücken
+des Betriebsvermögens weder (betriebliche) Anschaffungskosten noch
+betriebliche Schulden dar. Derartige Verpflichtungen sind grundsätzlich
+der Privatsphäre zuzurechnen (§ 6 Abs. 1 Nr. 4 EStG) und dürfen
+das Betriebsvermögen nicht beeinflussen (siehe ständige höchstrichterliche
+Rechtsprechung BFH-Urteile vom 28.02.1974, <lxprod:doknr-verw linkend="HT0012954">BStBl 1974
+II S. 481</lxprod:doknr-verw>; vom 20.09.1989, <lxprod:doknr-verw linkend="HT0091433">BStBl 1990
+II S. 368</lxprod:doknr-verw> und vom 17.09.1992, <lxprod:doknr-verw linkend="HT0102783">BStBl 1993
+II S. 218</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Demzufolge muss sowohl bei der Teilwertermittlung, z.
+B. bei der Entnahme eines solchen Grundstücks aus dem Betriebsvermögen,
+als auch bei der Ermittlung des gemeinen Wertes, z. B. bei einer
+Betriebsaufgabe, ein privat veranlasstes Nutzungsrecht <lxbase:fett>völlig außer
+Ansatz</lxbase:fett> bleiben. Gleiches gilt bei der Einlage eines
+Grundstücks in das Betriebsvermögen für die Ermittlung des Einlagewertes.</lxbase:a><lxbase:a>Der Grundstückswert ist in diesen Fällen deshalb so zu
+ermitteln, als ob das Nutzungsrecht und die dadurch verursachte
+Wertminderung nicht vorliegen würden.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300054">11.2.3
+Anschaffungskosten und Kaufpreisaufteilung bei Grundstücken im Privatvermögen</lxbase:ueberschrift><lxbase:a>Nutzungsrechte an Grundstücken, die als Gegenleistungen
+im Rahmen einer nach kaufmännischen Gesichtspunkten abgewogenen
+<lxbase:fett>entgeltlichen Grundstücksveräußerung</lxbase:fett> zwischen
+Fremden vereinbart werden, stellen Anschaffungskosten für die betroffenen Wirtschaftsgüter
+dar. In einem solchen Ausnahmefall ist deshalb bei der Ermittlung
+der Anschaffungskosten der im Grundstückskaufvertrag neben einem
+dem Verkäufer eingeräumten Nutzungsrecht vereinbarte (Bar-)Kaufpreis
+um den Kapitalwert dieses Rechts zu erhöhen.</lxbase:a><lxbase:a>In den üblicherweise vorkommenden Fällen mit Vereinbarung
+derartiger Lasten zwischen nahen Angehörigen berühren diese die
+Anschaffungskosten von Grundstücken jedoch nicht, weil es sich insoweit
+nicht um ein nach kaufmännischen Gesichtspunkten vereinbartes Entgelt
+handelt. Dies führt u. a. dazu, dass der für ein Grundstück vereinbarte
+(Bar-)Kaufpreis <lxbase:fett>nicht</lxbase:fett> um den Kapitalwert
+des dem Verkäufer eingeräumten Nutzungsrechts erhöht werden darf.
+Insoweit liegt vielmehr ein unentgeltlicher Übergang des Grundstücks
+vor.</lxbase:a><lxbase:a>Auch bei einer im Einzelfall erforderlichen Kaufpreisaufteilung
+von Grundstücken, die nach dem Verhältnis der gemeinen Werte der
+einzelnen einkommensteuerlich selbständigen Grundstücksteile vorzunehmen
+ist, sind die vorstehenden Grundsätze entsprechend anzuwenden. Hierbei
+ist zu beachten, dass ein <lxbase:fett>Nießbrauchsrecht</lxbase:fett>
+den <lxbase:fett>Grund und Boden und das Gebäude</lxbase:fett>
+oder ggf. Teile hiervon erfasst; ein <lxbase:fett>Wohnrecht</lxbase:fett>
+demgegenüber <lxbase:fett>ausschließlich</lxbase:fett> die Belastung
+einer bestimmten <lxbase:fett>Wohnung, d. h. nur des betroffenen Gebäudeteils</lxbase:fett>,
+darstellt. Beziehen sich solche Lasten nur auf einen Teil eines
+Grundstücks, sind sie, z.B. im Rahmen einer Kaufpreisaufteilung,
+nur vom Verkehrswert(-anteil) des belasteten Grundstücksteils abzuziehen.</lxbase:a><lxbase:a><lxbase:fett>Beispiel:</lxbase:fett></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="2" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="81*" /><cals:colspec colnum="2" colname="2" colwidth="19*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>(Bar-)Kaufpreis
+für ein mit einem Wohnrecht für eine Wohnung belastetes Zweifamilienhaus</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>300.000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Verkehrswert
+(ohne Wohnrecht) für das Zweifamilienhaus</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>250.000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>davon
+Grund und Boden</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>50.000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Gebäude</lxbase:a></cals:entry><cals:entry colname="2" rowsep="0"><lxbase:a>200.000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Kapitalwert eines
+unentgeltlichen Wohnrechts</lxbase:a></cals:entry><cals:entry colname="2"><lxbase:a>20.000 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>die beiden Wohnungen sind gleich groß</lxbase:a><lxbase:a>Wie sind die Anschaffungskosten für das Grundstück aufzuteilen?</lxbase:a><lxbase:a><lxbase:fett>Lösung:</lxbase:fett></lxbase:a><cals:tabelle frame="all" rowsep="1"><cals:tgroup colsep="1" cols="3" tgroupstyle="FORMATA" rowsep="1"><cals:colspec colnum="1" colname="1" colwidth="64*" /><cals:colspec colnum="2" colname="2" colwidth="18*" /><cals:colspec colnum="3" colname="3" colwidth="18*" /><cals:tbody><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Verkehrswertanteil
+Grund und Boden je Wohnung</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a align="rechts">25.000 €</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="rechts">25.000
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Verkehrswertanteil
+Gebäude je Wohnung</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a align="rechts">100.000 €</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="rechts">100.000
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>abzgl.
+Kapitalwert des Wohnrechts</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0" /><cals:entry colname="3"><lxbase:a align="rechts">20.000 €</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Wert
+des mit dem Wohnrecht belasteten Gebäudeteils</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0" /><cals:entry colname="3" rowsep="0"><lxbase:a align="rechts">80.000
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Der
+Kaufpreis verteilt sich wie folgt:</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0" /><cals:entry colname="3" rowsep="0" /></cals:row><cals:row rowsep="1"><cals:entry colsep="0" colname="1" rowsep="0"><lxbase:a>Grund
+und Boden</lxbase:a></cals:entry><cals:entry colsep="0" colname="2" rowsep="0"><lxbase:a align="rechts">32.609 €</lxbase:a></cals:entry><cals:entry colname="3" rowsep="0"><lxbase:a align="rechts">32.608
+€</lxbase:a></cals:entry></cals:row><cals:row rowsep="0"><cals:entry colsep="0" colname="1"><lxbase:a>Gebäude</lxbase:a></cals:entry><cals:entry colsep="0" colname="2"><lxbase:a align="rechts">130.435
+€</lxbase:a></cals:entry><cals:entry colname="3"><lxbase:a align="rechts">104.348 €</lxbase:a></cals:entry></cals:row></cals:tbody></cals:tgroup></cals:tabelle><lxbase:a>(siehe auch Beispiel BMF-Schreiben vom 31.12.1994, <lxprod:doknr-verw linkend="HT0124205">BStBl I S. 887</lxprod:doknr-verw>,
+Tz. 55; Anhang 34 III EStH 1998)</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300055">11.3 Erstellung
+von Gutachten durch (Bau-)Sachverständige oder Gutachterausschüsse</lxbase:ueberschrift><lxbase:a>Bei der Verkehrswertermittlung durch Sachverständige oder
+den Gutachterausschuss wirken sich vor allem unentgeltlich oder
+zu einem unangemessen niedrigen Entgelt eingeräumte Nutzungsrechte
+wertmindernd aus. Ob und ggf. in welchem Umfang eine solche Minderung
+bei der Einkommensbesteuerung zu berücksichtigen ist, kann nur anhand
+der vorstehenden Grundsätze im jeweiligen Einzelfall entschieden
+werden. Hierüber kann nicht der Sachverständige oder der Gutachterausschuss,
+sondern nur die Veranlagungsstelle abschließend entscheiden.</lxbase:a><lxbase:a>Aus gegebener Veranlassung bitte ich auf wertmindernde
+Ansätze auf Grund von Nutzungsrechten in Gutachten von Sachverständigen
+oder des Gutachterausschusses besonders zu achten und die einkommensteuerliche
+Berücksichtigung dieser Wertminderung genau zu prüfen. Scheidet
+eine derartige Wertminderung - wie im Regelfall - bei der Einkommensbesteuerung
+aus, ist der vom Sachverständigen oder vom Gutachterausschuss ermittelte
+Grundstückswert - zweckmäßigerweise durch Einschaltung des Bausachverständigen
+- entsprechend anzupassen.</lxbase:a><lxbase:a>Zur Vermeidung von zusätzlichem Verwaltungsaufwand und
+Missverständnissen wird darum gebeten, in Gutachten zukünftig neben
+dem unter Berücksichtigung z. B. eines Nutzungsrechts geminderten
+Verkehrswerts eines Grundstücks zusätzlich den Verkehrswert ohne
+diese Belastung auszuweisen. Erfolgt eine Stellungnahme, z. B. zu
+einem Gutachten des Gutachterausschusses, bitte ich, den unbelasteten
+Verkehrswert der anfragenden Stelle mitzuteilen.</lxbase:a></lxbase:kapitel></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300056">12	 Unüblich niedrige
+Pacht- oder Mietzinsen bei der Grundstücksbewertung</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057852300057">12.1 Allgemeine
+Grundsätze</lxbase:ueberschrift><lxbase:a>Bei der Bewertung von Grundstücken mit unüblich niedrigen
+Pacht- oder Mietzinsen gelten die vorstehenden Ausführungen in Tz.
+11 ff. zur Berücksichtigung von Nutzungsrechten bei der Grundstücksbewertung
+sinngemäß. Aus gegebener Veranlassung bitte ich deshalb zukünftig
+zusammenfassend Folgendes zu beachten:</lxbase:a><lxbase:a>Ebenso wie Nutzungsrechte bildet die vereinbarte Grundstückspacht
+oder -miete in vielen Fällen vor allem bei der Grundstücksbewertung
+nach dem Ertragswertverfahren einen entscheidenden wertbeeinflussenden
+Faktor. Dies ist bei vereinbarten Grundstückspacht- und Mietzinsen,
+die zwischen Fremden nach kaufmännischen Gesichtspunkten gegeneinander
+abgewogen werden, grundsätzlich unproblematisch.</lxbase:a><lxbase:a>Handelt es sich bei dem zu bewertenden Grundstück jedoch
+um Betriebsvermögen, darf sich auch die vereinbarte Pacht oder Miete,
+soweit sie auf außerbetrieblichen Erwägungen beruht, nicht betriebsvermögensmindernd
+oder -erhöhend auswirken.</lxbase:a><lxbase:a>Bei Grundstücksüberlassungsverträgen zwischen Fremden
+besteht die - nur in Ausnahmefällen - widerlegbare Vermutung, dass
+die vereinbarte Pacht oder Miete fremdüblich ist. Demgegenüber gibt
+es nach höchstrichterlicher Rechtsprechung (Beschluss des Großen
+Senats des BFH vom 05.07.1990, <lxprod:doknr-verw linkend="HT0096396">BStBl II S. 847</lxprod:doknr-verw>) bei solchen Verträgen
+- wie auch bei anderen Verträgen - zwischen nahen Angehörigen die
+- widerlegbare - Vermutung, dass Leistung und Gegenleistung nicht
+nach kaufmännischen Gesichtspunkten wie unter Fremden üblich vereinbart
+werden.</lxbase:a><lxbase:a>Soweit eine unüblich niedrige oder in Ausnahmefällen auch
+hohe Pacht oder Miete vorliegt, ist diese bei nahen Angehörigen
+im Regelfall privat veranlasst. Eine solche private Motivation darf
+sich bei der Bewertung von Betriebsvermögen sowohl bei der Entnahme nach
+§ 6 Abs. 1 Nr. 4 EStG als auch bei der Einlage nach § 6 Abs. 1 Nr.
+5 EStG nicht mindernd oder erhöhend auswirken.</lxbase:a><lxbase:a>Der Ermittlung des gemeinen Wertes bzw. des Verkehrs-
+oder Teilwerts für ein Grundstück ist in derartigen Fällen deshalb
+die nachhaltig erzielbare fremdübliche Pacht oder Miete zu Grunde
+zu legen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300058">12.2 Land-
+und forstwirtschaftlich genutzte Grundstücke</lxbase:ueberschrift><lxbase:a>Pachtverträge über land- und forstwirtschaftlich genutzte
+Grundstücke mit der üblichen Pachtdauer von bis zu 10 Jahren gehören
+nach dem BFH-Urteil vom 12.12.1991, <lxprod:doknr-verw linkend="HT0101393">BStBl 1992 II S. 462</lxprod:doknr-verw>
+- unabhängig davon, ob marktübliche Konditionen vereinbart wurden
+- in der Regel nicht zu den wertbestimmenden Umständen für die Verkehrswertermittlung.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300059">12.3 Gutachten
+durch Sachverständige und Gutachterausschüsse</lxbase:ueberschrift><lxbase:a>Wurden vom Sachverständigen oder Gutachterausschuss bei
+der Grundstücksbewertung hiervon abweichend Abschläge wegen unüblich
+niedrigen Pachtzahlungen vorgenommen, ist genau zu überprüfen, ob
+dies auf Überlassungsverträgen zwischen nahen Angehörigen zurückzuführen
+ist. In einem solchen Fall ist - entsprechend den vorstehenden Ausführungen
+insbesondere Tz. 11.3 - eine Anpassung des gutachterlicher festgestellten Wertes
+vorzunehmen.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300060">13	 Freibetrag zur Abfindung
+weichender Erben</lxbase:ueberschrift><lxbase:kapitel><lxbase:ueberschrift id="D057852300061">13.1 	Keine
+Freibetragsverteilung</lxbase:ueberschrift><lxbase:a>Für den Gewinn der bei der Veräußerung oder der Entnahme
+von zum luf betrieb gehörenden Grund und Boden entsteht, wird nach
+§ 14a Abs. 4 EStG auf Antrag unter bestimmten Voraussetzungen ein
+Freibetrag bis zu 120.000 DM bzw. 61.800 Euro gewährt. Zur Frage,
+ob der Freibetrag für einen solchen Gewinn, der aus der Veräußerung oder
+Entnahme <lxbase:unterst><lxbase:fett>eines</lxbase:fett></lxbase:unterst>
+Grundstücks resultiert und nach § 4a Abs. 2 EStG auf zwei Veranlagungszeiträume
+aufzuteilen ist, in diesen beiden Veranlagungszeiträumen in unterschiedlicher
+Höhe in Anspruch genommen werden kann, ist folgende Auffassung zu vertreten:</lxbase:a><lxbase:a>Der aus der Veräußerung oder Entnahme von nach § 14a Abs.
+4 EStG begünstigtem Grund und Boden resultierende Gewinn gehört
+- anders als Gewinne nach § 14 EStG - im Regelfall - abgesehen vom
+Fall der Teilbetriebsveräußerung - zum laufenden Gewinn des luf
+Betriebs (BFH-Urteil vom 18.06.1998, <lxprod:doknr-verw linkend="HT0146656">BStBl II S. 623</lxprod:doknr-verw>). Der nach
+Berücksichtigung des Freibetrages verbleibende restliche Gewinn
+aus der Grundstücksveräußerung oder -entnahme wirkt sich somit als
+Bestandteil des laufenden Gewinns auf diesen erhöhend aus. Dieser
+Gewinn des Betriebs ist bei einem vom Kalenderjahr abweichenden
+Wirtschaftsjahr nach § 4a Abs. 2 EStG auf die jeweils betroffenen
+Veranlagungszeiträume zeitanteilig aufzuteilen.</lxbase:a><lxbase:a>Demzufolge bewirkt der Freibetrag unmittelbar eine anderweitige,
+d. h. gewinnmindernde Ermittlung des Gewinns aus dem betroffenen
+luf Betrieb und der Einkünfte aus LuF (BFH-Urteil vom 18.06.1998,
+BStBl Il S. 623). Ein vom LuF begehrter unterschiedlicher Ansatz
+des Freibetrages nach § 14a Abs. 4 EStG für den letztlich als Bestandteil
+des Gewinns aus dem betroffenen luf Betrieb auf zwei Veranlagungszeiträume
+aufgeteilten nach § 14a Abs. 4 EStG begünstigten Gewinns aus der
+Veräußerung oder Entnahme <lxbase:unterst><lxbase:fett>eines</lxbase:fett></lxbase:unterst> Grundstücks
+ist hiernach nicht zulässig. Andernfalls würde der nach Anwendung
+von § 14a Abs. 4 EStG verbleibende laufende Gewinn des Betriebes
+nach § 4a Abs. 2 EStG nicht zutreffend, d. h. zeitanteilig, verteilt,
+weil andernfalls ein nach Anwendung von § 14a Abs. 4 EStG verbleibender
+laufender Gewinn in den beiden betroffenen Veranlagungszeiträumen
+in unterschiedlicher Höhe anzusetzen wäre. Dieses Ergebnis wäre
+besonders auffällig, wenn in einem Veranlagungszeitraum kein Freibetrag
+und im anderen der Freibetrag in voller Höhe für denselben Gewinn
+beantragt würde.</lxbase:a><lxbase:a>Der LuF kann seinen Antrag auf Freibetragsgewährung zwar
+begrenzen; der danach verbleibende Gewinn aus der im Grunde begünstigten
+Grundstücksveräußerung oder -entnahme ist Bestandteil des laufenden
+Betriebsgewinns, der nach Berücksichtigung des Freibetrags nach
+§ 14a Abs. 4 EStG in vollem Umfang zeitanteilig zu verteilen ist.
+Hiernach kann der LuF nur einen konkreten auf den im Grunde begünstigten
+Veräußerungs- oder Entnahmegewinn bezogenen Antrag auf Freibetragsgewährung
+stellen.</lxbase:a><lxbase:a>Es ist nicht zulässig, zuerst den im Grunde begünstigten
+Gewinn zu ermitteln, diesen gedanklich zeitanteilig den betroffenen
+Wj. zuzurechnen und anschließend den Freibetrag in den einzelnen
+betroffenen Veranlagungszeiträumen in unterschiedlicher Höhe bezogen
+auf diesen gedanklich aufgeteilten Gewinn zu beantragen.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300062">13.2 Betriebsbezogene
+Vergünstigung</lxbase:ueberschrift><lxbase:a>§ 14a Abs. 4 EStG bezweckt, die Abfindung weichender Erben
+des luf Betriebes zu erleichtern und dadurch den Bestand dieser
+Betriebe zu sichern. Der Freibetrag stellt eine sachliche Steuerbefreiung
+dar; er ist hinsichtlich des weichenden Erben personenbezogen und
+des betroffenen luf Betrieb betriebsbezogen.</lxbase:a><lxbase:a>Aus dem betriebsbezogenen Charakter des Freibetrags folgt,
+dass der Gewinn aus der Veräußerung oder Entnahme von Grundstücken
+nur des luf Betriebs der Begünstigung unterliegt, aus dem sich Abfindungsansprüche
+weichender Erben ergeben können. Demzufolge müssen die abgefundenen
+weichenden Erben auch erbrechtliche Ansprüche aus dem Betrieb herleiten
+(können), zu dem die zur Abfindung verwendeten Grundstücke gehören.</lxbase:a><lxbase:a>Haben die Eltern des LuF einen luf Betrieb, der auf ihn
+übergehen soll und findet er die weichenden Erben des Betriebes
+seiner Eltern bereits vor der Betriebsübergabe mit Grundstücken
+seines eigenen luf Betriebes ab, scheidet deshalb unter Berücksichtigung von
+Sinn und Zweck der Vorschrift die Anwendung von § 14a Abs. 4 EStG
+aus. Eine ausschließlich am reinen Wortlaut der Vorschrift anhaftende
+Auslegung muss hiernach ausscheiden.</lxbase:a></lxbase:kapitel></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300063">14	 Weinbestände bei Betriebsaufgabe
+oder -veräußerung</lxbase:ueberschrift><lxbase:a>Wird die aktive Bewirtschaftung eines Weinbaubetriebes
+von einem LuF eingestellt, erfolgt vielfach die Verpachtung des
+Betriebes mit Aufgabeerklärung allerdings unter Zurückbehaltung
+der gesamten Weinbestände. In anderen Fällen wird der Betrieb nicht verpachtet,
+sondern unter Zurückbehaltung der Weinbestände veräußert. Diese
+Weinbestände werden anschließend regelmäßig über mehrere Jahre nach
+und nach veräußert. Fraglich ist, ob das Zurückbehalten der auf
+eigenen Flächen erzeugten Weinbestände und deren Verkauf über einen
+längeren Zeitraum einer nach § 14 i. V. m. § 16 EStG begünstigten
+Betriebsaufgabe oder -veräußerung entgegen steht.</lxbase:a><lxbase:a>Eine Aufgabe des luf Betriebes liegt vor, wenn alle wesentlichen
+Betriebsgrundlagen innerhalb kurzer Zeit und damit in einem einheitlichen
+Vorgang - nicht nach und nach - entweder in das Privatvermögen überführt
+oder an verschiedene Erwerber veräußert oder teilweise ins Privatvermögen
+überführt und teilweise veräußert werden und damit der Betrieb als
+selbständiger Organismus des Wirtschaftslebens zu bestehen aufhört
+(H 139 Abs. 2 (Allgemeines) EStH 2003 unter Hinweis u. a. auf das
+BFH-Urteil vom 18.12.1990, <lxprod:doknr-verw linkend="HT0098013">BStBl 1991 II S. 512</lxprod:doknr-verw>).
+Eine Betriebsaufgabe liegt nicht vor, wenn wesentliche Betriebsgrundlagen
+nach und nach im Laufe mehrerer Jahre an Dritte veräußert oder in das
+Privatvermögen überführt werden (BFH-Urteil vom 10.09.1957, <lxprod:doknr-verw linkend="HT0003177">BStBl
+ III S. 414</lxprod:doknr-verw>). Unschädlich ist hingegen das Zurückbehalten von nicht
+wesentlichen Wirtschaftsgütern als Betriebsvermögen und deren spätere
+Verwertung über Jahre (BFH-Urteil vom 24.06.1976, <lxprod:doknr-verw linkend="HT0030605">BStBl II S. 672</lxprod:doknr-verw>).</lxbase:a><lxbase:a>Sofern der zum Umlaufvermögen gehörende Warenbestand beim
+betroffenen Betrieb zu den wesentlichen Betriebsgrundlagen gehört,
+kann deshalb seine Behandlung im Rahmen der Betriebsaufgabe oder
+-veräußerung Auswirkungen auf die Anwendung von §§ 14, 16 EStG nach
+sich ziehen. Bei einem ausbauenden Weinbaubetrieb gehört der zum Verkauf
+bestimmte und dem Umlaufvermögen zuzurechnende auf eigenen Flächen erzeugte
+Weinbestand im Regelfall zu den wesentlichen Betriebsgrundlagen
+(BFH-Urteil vom 24.06.1976, <lxprod:doknr-verw linkend="HT0030605">BStBl II S. 672</lxprod:doknr-verw>, zu Warenbeständen im
+Allgemeinen). Ohne einen auf selbst bewirtschafteten Flächen erzeugten
+Weinbestand kann der luf Weinbaubetrieb nicht existieren und darüber
+hinaus kann er ihn weder käuflich erwerben (in diesem Fall läge
+ein mit den eigenen Weinbeständen nicht vergleichbares gewerbliches
+Produkt vor) noch reproduzieren. Mit solchen nur mit den Herstellungskosten
+bewerteten Weinbeständen sind vielfach auch erhebliche stille Reserven
+verbunden.</lxbase:a><lxbase:a>Hiernach steht das Zurückbehalten von derartigen Weinbeständen
+und deren Veräußerung über Jahre der Annahme einer Betriebsaufgabe
+oder -veräußerung grundsätzlich entgegen. Dies gilt auch dann, wenn
+der LuF die Überführung solcher Weinbestände in sein Privatvermögen
+gegenüber dem Finanzamt erklärt. Weil mit dem Verkauf dieser Weinbestände
+in der Regel die bisherige luf Tätigkeit fortgesetzt wird (es handelt
+sich um die Vermarktung der verbliebenen selbst erzeugten Waren),
+sind diese Bestände weiterhin dem Betriebsvermögen zuzurechnen (BFH-Urteil
+vom 12.12.2000, <lxprod:doknr-verw linkend="HT0571541">BStBl 2001 II S. 282</lxprod:doknr-verw> und
+H 139 Abs. 2 (Zeitraum für die Betriebsaufgabe) EStH 2003).</lxbase:a><lxbase:a>Kein schädliches Zurückbehalten liegt hingegen vor, wenn
+die Weinbestände im Aufgabe- oder Veräußerungszeitpunkt nur noch
+von untergeordneter Bedeutung sind und deshalb keine nennenswerten
+stillen Reserven umfassen oder deren Verkauf im Wesentlichen innerhalb
+eines engen zeitlichen Zusammenhangs (= wirtschaftlich einheitlich
+Vorgang) mit dem Aufgabe- oder Veräußerungszeitpunkt durchgeführt
+wird (H 139 Abs. 2 (Zeitraum für die Betriebsaufgabe EStH 2003)
+und deshalb ein wirtschaftlich einheitlicher Vorgang (H 139 Abs.
+6 (Übertragung der wesentlichen Betriebsgrundlagen) EStH 2003) bejaht
+werden kann. Nach der höchstrichterlichen Rechtsprechung kann ein
+Zeitraum von zwei Jahren nur dann noch als einheitlicher Vorgang
+angesehen werden, wenn die einzelnen Übertragungsvorgänge durch
+einen einheitlichem Willensentschluss <lxbase:fett>und</lxbase:fett> besondere
+Tatumstände verklammert sind; der zeitliche Abstand von zwei Jahren
+stellt die "oberste Grenze der für einen einheitlichen Vorgang denkbaren
+Zeitspanne" dar (BFH-Urteil vom 12.04.1989, <lxprod:doknr-verw linkend="HT0089694">BStBl II S. 653</lxprod:doknr-verw>).</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300064">15	 Einkommensteuer-Richtlinien
+2003</lxbase:ueberschrift><lxbase:a>Eine tabellarische Übersicht über die Änderungen oder
+Klarstellungen der Einkommensteuer-Richtlinien 2003 zu den luf Einkünften
+mit der jeweiligen Begründung ist im Fortbildungsordner des Laufwerkes
+"P" unter "OFD/FoBi_EStLStEZI/2003/Fortbildung LuF/20040105 HM5OCBS
+Aktuelle Themen luf.doc" Seiten 29 - 31 enthalten.</lxbase:a></lxbase:kapitel><lxbase:kapitel><lxbase:ueberschrift id="D057852300065">16	 Rechenvorlagen</lxbase:ueberschrift><lxbase:a>Für die Berechnung des Gewinns aus LuF nach § 13a EStG
+und die Ermittlung des Gewinns der Schätzungslandwirte stehen den
+Finanzämtern jeweils zwei Rechenvorlagen, die den insoweit bestehenden
+Vordrucken entsprechen, zur Verfügung. Die mit Rechenfunktionen
+und Plausibilitätsklauseln versehenen Vorlagen befinden sich in
+der Vorlagenauswahl im Reiter "ESt" unter den Bezeichnungen </lxbase:a><lxbase:a>"Anlage ESt 3 L Gewinnermittlung nach § 13a EStG Euro"
+<lxbase:za />"Anlage ESt 3 L Gewinnermittlung nach § 13a EStG DM"
+<lxbase:za />"Schätzung des Gewinns aus LuF Euro" <lxbase:za />"Schätzung
+des Gewinns aus LuF DM"</lxbase:a><lxbase:a>Diese Vorlagen können auch als Anlage zum entsprechenden
+Einkommensteuerbescheid oder Feststellungsbescheid verwendet werden.
+Die Rechenvorlagen resultieren aus einem Verbesserungsvorschlag
+und sind sowohl für die Gewinnermittlung in € als auch - für zurückliegende
+Wirtschaftsjahre - in DM vorgesehen.</lxbase:a></lxbase:kapitel></lxrvw:text-rspvwa><lxbase:allgemeine-angaben><lxbase:rthemen><lxbase:rthema>Rechnungslegung</lxbase:rthema><lxbase:rthema>Einkommensteuer/Lohnsteuer/Kirchensteuer</lxbase:rthema><lxbase:rthema>Körperschaftsteuer</lxbase:rthema></lxbase:rthemen><lxbase:regionen><lxbase:region><lxbase:bundesland>Rheinland-Pfalz</lxbase:bundesland></lxbase:region></lxbase:regionen><lxbase:branchen><lxbase:branche>Landwirtschaft</lxbase:branche></lxbase:branchen></lxbase:allgemeine-angaben><lxbase:interne-angaben><lxbase:quelle /></lxbase:interne-angaben></lxrvw:rspvwa>
